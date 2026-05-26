@@ -4,9 +4,11 @@ title: "Índice"
 
 # Índice — Wiki Renan Santos
 
+<div style="text-align:center;margin:1.2em 0 1.6em"><img src="/static/renansantos.jpeg" alt="Renan Santos" width="160" height="160" style="border-radius:50%;object-fit:cover;box-shadow:0 2px 12px rgba(0,0,0,0.15)"></div>
+
 Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à presidência da República, construído a partir das transcrições de seus vídeos.
 
-> **Aviso:** Este wiki foi produzido com auxílio de inteligência artificial (IA) a partir das transcrições dos vídeos do canal de Renan Santos no YouTube. O conteúdo reflete exclusivamente o que Renan Santos disse ou defendeu publicamente — não constitui verificação independente das afirmações. Apesar do cuidado na elaboração, o processo automatizado pode conter erros, omissões ou imprecisões. Se encontrar algum erro, entre em contato: **wikipoliticabr@gmail.com**
+> **Aviso:** Este wiki foi produzido com auxílio de inteligência artificial (IA) a partir das transcrições dos vídeos do canal de Renan Santos no YouTube. O conteúdo reflete exclusivamente o que Renan Santos disse ou defendeu publicamente — não constitui verificação independente das afirmações. Apesar do cuidado na elaboração, o processo automatizado pode conter erros, omissões ou imprecisões. Se encontrar algum erro, entre em contato: `wikipoliticabr@gmail.com` — [abrir no Gmail](https://mail.google.com/mail/?view=cm&to=wikipoliticabr@gmail.com)
 
 ## Temas
 
@@ -317,7 +319,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2026-03-13 - O Paraná é sabotado e eu posso te provar]] — 4º PIB; estradas de mão dupla; pacto federativo.
 - [[fontes/2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina]] — Imigração venezuelana; PT e Maduro; fechar Roraima.
 - [[fontes/2026-03-13 - Erika Hilton será cassada]] — Pedido de cassação; machismo inverso; Kim Kataguiri.
-- [[fontes/2026-03-13 - Daniel Vorcaro vai DELATAR]] — Prisão mantida; delação iminente; #delaVorcaro.
+- [[fontes/2026-03-13 - Daniel Vorcaro vai DELATAR]] — Prisão mantida; delação iminente; campanha delaVorcaro.
 - [[fontes/2026-03-12 - VÃO SOLTAR O DANIEL VORCARO AMANHÃ]] — Véspera do voto; composição da turma.
 - [[fontes/2026-03-12 - 7 propostas para a Polícia Militar]] — Apoio jurídico, piso, seguro, saúde mental, excludente, 2h.
 - [[fontes/2026-03-11 - Vim no resort do Toffoli mostrar a parte de jogos]] — Pay Brokers; Ratinho R$400K; Cred.
