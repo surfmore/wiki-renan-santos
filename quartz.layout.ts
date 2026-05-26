@@ -27,6 +27,7 @@ export const defaultContentPageLayout: PageLayout = {
   ],
   left: [
     Component.PageTitle(),
+    Component.ProfileImage(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -38,7 +39,19 @@ export const defaultContentPageLayout: PageLayout = {
         { Component: Component.ReaderMode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        // Folders always before files
+        if (a.isFolder && b.isFolder) return a.displayName.localeCompare(b.displayName, "pt-BR")
+        if (a.isFolder && !b.isFolder) return -1
+        if (!a.isFolder && b.isFolder) return 1
+        // Both files: sort by date descending (newest first), then alphabetically
+        const dateA = a.data?.date?.getTime() ?? 0
+        const dateB = b.data?.date?.getTime() ?? 0
+        if (dateA !== dateB) return dateB - dateA
+        return a.displayName.localeCompare(b.displayName, "pt-BR")
+      },
+    }),
   ],
   right: [
     Component.Graph(),
@@ -52,6 +65,7 @@ export const defaultListPageLayout: PageLayout = {
   beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
   left: [
     Component.PageTitle(),
+    Component.ProfileImage(),
     Component.MobileOnly(Component.Spacer()),
     Component.Flex({
       components: [
@@ -62,7 +76,17 @@ export const defaultListPageLayout: PageLayout = {
         { Component: Component.Darkmode() },
       ],
     }),
-    Component.Explorer(),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        if (a.isFolder && b.isFolder) return a.displayName.localeCompare(b.displayName, "pt-BR")
+        if (a.isFolder && !b.isFolder) return -1
+        if (!a.isFolder && b.isFolder) return 1
+        const dateA = a.data?.date?.getTime() ?? 0
+        const dateB = b.data?.date?.getTime() ?? 0
+        if (dateA !== dateB) return dateB - dateA
+        return a.displayName.localeCompare(b.displayName, "pt-BR")
+      },
+    }),
   ],
   right: [],
 }

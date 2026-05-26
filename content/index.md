@@ -1,10 +1,12 @@
 ---
 title: "Índice"
+tags:
+  - renan-santos
+  - partido-missao
+  - mbl
 ---
 
 # Índice — Wiki Renan Santos
-
-<div style="text-align:center;margin:1.2em 0 1.6em"><img src="/static/renansantos.jpeg" alt="Renan Santos" width="160" height="160" style="border-radius:50%;object-fit:cover;box-shadow:0 2px 12px rgba(0,0,0,0.15)"></div>
 
 Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à presidência da República, construído a partir das transcrições de seus vídeos.
 
