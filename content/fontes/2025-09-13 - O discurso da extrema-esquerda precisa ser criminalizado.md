@@ -15,6 +15,8 @@ tags:
 
 # O discurso da extrema-esquerda precisa ser criminalizado
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=wphFscbDHZs)**
+
 Renan faz declaração direta e sintética sobre a necessidade de criminalizar o discurso da esquerda radical.
 
 ## A tese

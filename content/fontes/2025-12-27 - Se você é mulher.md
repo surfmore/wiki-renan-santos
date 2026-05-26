@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=iuXEXiku3sQ"
 
 # Se você é mulher
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=iuXEXiku3sQ)**
+
 Renan dirige um recado direto às mulheres após episódios de violência que circularam nas redes sociais — especialmente o vídeo de uma mulher arrastada por um ex-companheiro — e anuncia que vai "acabar com a raça" de quem gera medo e pânico.
 
 ## Diagnóstico: impunidade como raiz

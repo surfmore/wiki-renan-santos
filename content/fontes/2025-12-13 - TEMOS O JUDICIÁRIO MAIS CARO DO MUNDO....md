@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=p0mTZB4D3Vk"
 
 # TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO...
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=p0mTZB4D3Vk)**
+
 Vídeo em que Renan usa a notícia da prescrição de investigações contra Marcos Willians Herbas Camacho (Marcola), líder do PCC, para criticar o custo e a ineficiência do Poder Judiciário brasileiro.
 
 ## O caso Marcola

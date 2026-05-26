@@ -14,6 +14,8 @@ tipo: "short"
 
 # Não é só em favela que tem gente com mau gosto
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=ZC2R99HhNqQ)**
+
 Renan Santos estende o debate sobre a refavelização para além da questão habitacional: o problema, segundo ele, é cultural e atravessa todas as classes sociais brasileiras.
 
 ## O argumento central

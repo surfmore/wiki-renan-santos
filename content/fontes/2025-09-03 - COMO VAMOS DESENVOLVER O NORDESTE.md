@@ -15,6 +15,8 @@ tags:
 
 # COMO VAMOS DESENVOLVER O NORDESTE
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=FqT1cL_4zHM)**
+
 Renan explica a proposta de desenvolvimento do Nordeste a partir da região **Matopiba** (Maranhão, Tocantins, Piauí e Bahia). Destaca que o agronegócio oriundo do Centro-Oeste já invadiu essas regiões férteis, gerando "alto desenvolvimento econômico e desconstrução das antigas oligarquias".
 
 ## Proposta: indústria de biocombustíveis em Matopiba

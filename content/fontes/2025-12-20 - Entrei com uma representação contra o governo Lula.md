@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=pSOzcDOWdJg"
 
 # Entrei com uma representação contra o governo Lula
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=pSOzcDOWdJg)**
+
 Renan reage a um vídeo de propaganda de Natal do governo Lula que mostrava uma menor de idade dançando funk, apresenta representação formal na PGR e o governo retira o conteúdo do ar.
 
 ## A propaganda

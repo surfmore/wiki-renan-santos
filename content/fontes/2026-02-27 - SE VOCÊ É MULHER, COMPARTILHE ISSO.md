@@ -12,6 +12,8 @@ tags:
 
 # SE VOCÊ É MULHER, COMPARTILHE ISSO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=wLvCtkcA9fg)**
+
 Renan usa a nomeação de **Érika Hilton** para a presidência da Comissão da Mulher na Câmara dos Deputados para fazer uma crítica à representação feminina real vs. simbólica.
 
 ## Érika Hilton na Comissão da Mulher

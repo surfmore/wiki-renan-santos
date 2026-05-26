@@ -14,6 +14,8 @@ url: "https://www.youtube.com/watch?v=7MRH9z8yF-w"
 
 # A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=7MRH9z8yF-w)**
+
 Vídeo em que Renan denuncia o acordo entre governo Lula, Centrão e PL para derrubar a votação de cassação do deputado Glauber Braga (PSOL-RJ) na noite de 10 de dezembro de 2025, usando emendas parlamentares como moeda de troca.
 
 ## O caso Glauber Braga

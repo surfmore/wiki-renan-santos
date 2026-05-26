@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=_86LeYf9GXc"
 
 # Catarinense, está na hora de você ter o que você merece
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=_86LeYf9GXc)**
+
 Renan visita **Guaraciaba**, no Oeste Catarinense, para mostrar uma obra de pavimentação iniciada no **PAC 1 do governo Dilma em 2012** — ainda em andamento 14 anos depois.
 
 ## O caso de Guaraciaba

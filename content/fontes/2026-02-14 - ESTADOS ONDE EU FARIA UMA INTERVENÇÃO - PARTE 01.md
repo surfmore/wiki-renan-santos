@@ -15,6 +15,8 @@ tags:
 
 # Estados onde eu faria uma intervenção — Parte 01
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=zZQ2uBdyqUY)**
+
 Short em formato de perguntas e respostas em que Renan avalia, estado a estado, se faria ou não uma intervenção federal.
 
 ## As avaliações

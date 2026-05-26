@@ -15,6 +15,8 @@ tags:
 
 # Érika Hilton nossa futura presidenta no carnaval
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=1Yaf1ukHjBk)**
+
 Short em que Renan critica a cena do desfile pró-Lula em que a deputada Érika Hilton aparece com faixa presidencial, e desmonta a lógica do carnaval como propaganda eleitoral.
 
 ## O carnaval como máquina política

@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=jSFWhxRkOOY"
 
 # NO AMAZONAS, VOCÊ PODE GANHAR MAIS DE MIL REAIS SEM FAZER NADA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=jSFWhxRkOOY)**
+
 Renan Santos apresenta o caso de **Barcelos (AM)** como exemplo extremo do que chama de "mamata" — município que oferece R$ 1.000 por mês em benefícios empilhados sem exigir qualquer contrapartida de trabalho.
 
 ## O caso de Barcelos

@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=O1HQuY7P-Ts"
 
 # Eu tenho lado. E você
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=O1HQuY7P-Ts)**
+
 Vídeo-manifesto em que Renan enuncia uma série de dicotomias para declarar de que lado está em cada conflito político e social.
 
 ## As escolhas declaradas

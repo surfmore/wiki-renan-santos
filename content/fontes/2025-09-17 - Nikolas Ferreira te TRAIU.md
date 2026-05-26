@@ -14,6 +14,8 @@ tipo: "short"
 
 # Nikolas Ferreira te TRAIU
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=kTi5ZnIe4Kk)**
+
 Renan Santos reage à aprovação da **PEC da Blindagem** com voto favorável de Nikolas Ferreira — projeto que, segundo Renan, cria um passe livre para corruptos no Congresso.
 
 ## O que é a PEC da Blindagem

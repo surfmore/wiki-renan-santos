@@ -15,6 +15,8 @@ tags:
 
 # Minha Opinião Sobre o Caiado no PSD
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=iCo5fP1S7R8)**
+
 Comentário de Renan sobre a filiação do governador de Goiás, **Ronaldo Caiado**, ao PSD — partido de **Gilberto Kassab**, que abriga também Ratinho Júnior (PR) e Eduardo Leite (RS).
 
 ## O esquema Kassab

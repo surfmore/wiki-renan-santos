@@ -15,6 +15,8 @@ tags:
 
 # QUEM É RENAN SANTOS? (biografia)
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=suJJjWFu_44)**
+
 Vídeo biográfico completo, narrado em terceira pessoa (por uma voz diferente) com trechos do próprio Renan. É a apresentação mais detalhada disponível de sua trajetória.
 
 ## Dados pessoais

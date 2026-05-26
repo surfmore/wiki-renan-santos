@@ -14,6 +14,8 @@ fontes:
 
 # Vale-Gás é Só Mais Uma Medida Populista do Lula
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=lcfkvxzhfLY)**
+
 Renan critica o Vale-Gás do governo Lula em debate, apresentando o argumento de que programas assistenciais em ano eleitoral configuram compra de voto.
 
 ## O argumento

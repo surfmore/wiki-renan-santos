@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=57PN_DgUQsc"
 
 # Se você é favelado no Rio de Janeiro, talvez você não goste desse vídeo.
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=57PN_DgUQsc)**
+
 Vídeo em que Renan rebate uma ativista de esquerda que denunciava o serviço precário de energia elétrica em favelas e usa o caso para defender sua proposta de desfavelização.
 
 ## O caso: o "gato" de energia elétrica

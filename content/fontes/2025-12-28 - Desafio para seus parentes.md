@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=9gO83892zvM"
 
 # Desafio para seus parentes
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=9gO83892zvM)**
+
 Vídeo de fim de ano em que Renan propõe um "teste" com parentes bolsonaristas ou petistas: perguntar sobre o Banco Master. A tese central é que tanto a direita bolsonarista quanto a esquerda petista mantêm um "pacto de silêncio" sobre o escândalo porque ambos os lados estão envolvidos.
 
 ## O silêncio da direita bolsonarista

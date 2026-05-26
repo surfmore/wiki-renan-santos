@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=dYx-IJ0-DEo"
 
 # Banco Master é o fim da República
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=dYx-IJ0-DEo)**
+
 Vídeo em que Renan repercute matéria de Malu Gaspar sobre a ligação de Alexandre de Moraes para o presidente do Banco Central no contexto do caso Banco Master, e enquadra o escândalo como superior à Lava-Jato em gravidade.
 
 ## A ligação de Moraes para Galipolo

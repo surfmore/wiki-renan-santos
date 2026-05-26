@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=TU2H1asSW7M"
 
 # Sim, o que deu certo em El Salvador vai funcionar aqui
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=TU2H1asSW7M)**
+
 Renan defende a aplicabilidade do modelo salvadorenho de combate ao crime ao Brasil, mesmo sendo países de tamanhos incomparáveis.
 
 ## Conteúdo

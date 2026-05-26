@@ -15,6 +15,8 @@ tags:
 
 # Renan Santos Leva Envolvidos no Caso do Cão Orelha para a Justiça
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=CNhVuWEudLA)**
+
 Renan anuncia as medidas jurídicas concretas que tomou como pré-candidato à presidência em resposta ao caso do cão Orelha.
 
 ## As ações protocoladas

@@ -15,6 +15,8 @@ tags:
 
 # Escola de samba tira sarro da família conservadora evangélica
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=bJH7sG2z1nM)**
+
 Short em defesa dos evangélicos humilhados no desfile pró-Lula de 2026.
 
 ## Posição de Renan

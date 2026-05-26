@@ -12,6 +12,8 @@ tags:
 
 # MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=TygIDafjBlc)**
+
 Renan usa imagens de **maranhenses embarcando em ônibus** para deixar o estado e trabalhar no Centro-Oeste como ponto de partida para um diagnóstico sobre migração interna e falhas da democracia em estados pobres.
 
 ## O paradoxo da migração e do voto

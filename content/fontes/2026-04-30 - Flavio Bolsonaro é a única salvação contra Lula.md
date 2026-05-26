@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=9eTwngJqL-c"
 
 # Flávio Bolsonaro é a única salvação contra Lula?
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=9eTwngJqL-c)**
+
 Renan responde à propaganda do PT que associa Flávio ao Banco Master ("Bolso Master") e argumenta que Flávio é, na verdade, o candidato ideal para o PT.
 
 ## Conteúdo

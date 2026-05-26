@@ -14,6 +14,8 @@ tipo: short
 
 # ANDRÉ VALADÃO VS. RENAN SANTOS
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=mgtpXOgBb8s)**
+
 Renan Santos responde ao pastor **André Valadão**, que ameaçou processá-lo por "calúnia, difamação e falsas acusações" relacionadas à Igreja Lagoinha.
 
 ## O que Valadão disse

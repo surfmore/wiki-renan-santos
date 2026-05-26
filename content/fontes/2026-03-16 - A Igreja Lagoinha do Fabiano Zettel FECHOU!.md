@@ -14,6 +14,8 @@ tipo: short
 
 # A Igreja Lagoinha do Fabiano Zettel FECHOU!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=xONiWD2bF-k)**
+
 Renan anuncia que o **último culto da Igreja Lagoinha Belvedere** (BH) ocorreu no domingo anterior, a unidade foi oficialmente fechada e suas redes sociais apagadas, e interpreta o encerramento como confirmação da ligação com o [[eventos/Escândalo Banco Master]].
 
 ## Resumo

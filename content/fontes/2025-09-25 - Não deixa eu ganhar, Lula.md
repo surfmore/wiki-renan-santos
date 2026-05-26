@@ -14,6 +14,8 @@ tipo: "short"
 
 # Não deixa eu ganhar, Lula
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=nptSZNE_Ofw)**
+
 Renan Santos analisa um pronunciamento de Lula em evento internacional sobre extremismo, onde o presidente fez uma autocrítica à esquerda sobre como "perdeu terreno" para a direita — e conclui que a visão de Lula sobre democracia é, em si, extremista.
 
 ## O diagnóstico de Renan sobre a fala de Lula

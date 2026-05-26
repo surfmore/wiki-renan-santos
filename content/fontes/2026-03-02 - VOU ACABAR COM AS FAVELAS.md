@@ -12,6 +12,8 @@ tags:
 
 # VOU ACABAR COM AS FAVELAS
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=fQCImeXR6k0)**
+
 Renan usa imagens geradas por inteligência artificial — que circulavam na internet mostrando favelas transformadas em bairros arborizados — como ponto de partida para uma defesa da desfavelização nacional. Critica a tese da esquerda de que "a favela faz parte da nossa alma".
 
 ## A tese

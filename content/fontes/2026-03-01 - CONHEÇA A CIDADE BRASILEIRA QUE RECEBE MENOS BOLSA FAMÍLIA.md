@@ -12,6 +12,8 @@ tags:
 
 # CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=OAcAnTXsaWQ)**
+
 Contraponto ao vídeo anterior sobre Itabau (AM), onde 93% das pessoas vivem do Bolsa Família e apenas 29 trabalham formalmente. Renan apresenta **Pomerode (SC)** como o modelo oposto.
 
 ## Pomerode: os dados

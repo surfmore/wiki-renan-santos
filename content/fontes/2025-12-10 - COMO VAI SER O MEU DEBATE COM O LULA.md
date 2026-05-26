@@ -14,6 +14,8 @@ url: "https://www.youtube.com/watch?v=H5HKjld_K54"
 
 # COMO VAI SER O MEU DEBATE COM O LULA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=H5HKjld_K54)**
+
 Vídeo em que Renan enuncia as perguntas que faria ao presidente Lula num debate presidencial de 2026, reunindo numa sequência a série de escândalos que associa ao governo.
 
 ## As perguntas ao presidente Lula

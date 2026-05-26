@@ -14,6 +14,8 @@ tipo: "short"
 
 # Regis Tadeu detona Renan Santos
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=gOpdC-VRyuI)**
+
 Renan Santos reproduz e responde ao comentarista **Régis Tadeu**, que o acusou de não saber nada sobre desfavelização e afirmou que o projeto seria impossível de realizar no Brasil.
 
 ## A acusação de Régis Tadeu

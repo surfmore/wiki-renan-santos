@@ -14,6 +14,8 @@ fontes:
 
 # O Judiciário Brasileiro Achou Prudente Soltar Esse 'Jovem Rapaz'
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=b1FcOVzJPl4)**
+
 Renan usa o caso da morte de **Vanessa Lara** no interior de Minas Gerais para atacar a política de clemência judicial com reincidentes.
 
 ## O caso Vanessa Lara

@@ -14,6 +14,8 @@ tags:
 
 # QUEM É RENAN SANTOS? (compilação)
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=QrFE87WpcEs)**
+
 Short que abre com o resultado da pesquisa Real Time Big Data (Renan com 2%) e depois exibe trechos de falas anteriores do Renan sobre segurança pública e guerra ao crime organizado — contextualizando quem é esse candidato desconhecido.
 
 Nos trechos, Renan afirma:

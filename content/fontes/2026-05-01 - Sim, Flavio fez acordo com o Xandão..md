@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=kTt-iaEgrtg"
 
 # Sim, Flávio fez acordo com o Xandão
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=kTt-iaEgrtg)**
+
 Renan sustenta que Flávio Bolsonaro fez um acordo com Alexandre de Moraes para enterrar a CPI do Banco Master em troca de benefícios na dosimetria de Jair Bolsonaro.
 
 ## Conteúdo

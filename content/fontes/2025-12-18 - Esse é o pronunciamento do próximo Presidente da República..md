@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=W7675pbdaAk"
 
 # Esse é o pronunciamento do próximo Presidente da República.
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=W7675pbdaAk)**
+
 Vídeo de balanço de pesquisas de dezembro de 2025: Renan analisa os números da Atlas Intel e do Google Trends para argumentar que a candidatura está em trajetória consistente de crescimento.
 
 ## A pesquisa Atlas de dezembro de 2025

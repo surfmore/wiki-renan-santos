@@ -16,6 +16,8 @@ tags:
 
 # Família Bolsonaro quer defender Dias Toffoli
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=wnwnJBS17bI)**
+
 Short em que Renan expõe o comportamento de Flávio e Carlos Bolsonaro em relação a Dias Toffoli, conectando ao histórico de 2019.
 
 ## O comportamento atual (fevereiro 2026)

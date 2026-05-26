@@ -15,6 +15,8 @@ tags:
 
 # Chegou a vez do Alexandre de Moraes
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=EKN1iuJXLRg)**
+
 Short gravado durante o carnaval de 2026, anunciando que um relatório da Polícia Federal sobre conversas de Vorcaro e Fabiano Zettel com Alexandre de Moraes está prestes a ser divulgado.
 
 ## O que está prestes a vir

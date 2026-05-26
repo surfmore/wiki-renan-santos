@@ -14,6 +14,8 @@ tipo: "short"
 
 # Não vai ter Missão
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=EO54GSno-Y4)**
+
 Renan Santos responde a uma tentativa coordenada de obstruir a fundação do **Partido Missão** no TSE. O vídeo é uma resposta irônica ao título: Renan garante que o partido vai surgir.
 
 ## A estratégia dos adversários

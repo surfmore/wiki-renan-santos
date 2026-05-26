@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=TIe7lO5TM74"
 
 # Por que a Geração Z está com o Partido Missão
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=TIe7lO5TM74)**
+
 Renan responde a bolsonaristas mais velhos que criticam jovens por apoiá-lo, explica o posicionamento da Geração Z e traça a ruptura geracional na política brasileira.
 
 ## As pesquisas

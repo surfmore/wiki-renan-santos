@@ -14,6 +14,8 @@ fontes:
 
 # Você Está Sendo Feito de Otário!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=FvkbGVFIDEU)**
+
 Análise do que Renan chama de "jogo de cartas marcadas" entre governadores de direita, PSD de Gilberto Cassab e o governo Lula nas eleições de 2026.
 
 ## A armadilha da "aliança dos governadores"

@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=6uUKk-7KNfQ"
 
 # Cadê o direito internacional
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=6uUKk-7KNfQ)**
+
 Renan usa a queda do regime de Maduro na Venezuela — conseguida por Trump sem respeitar organismos internacionais — como argumento para a política interna de segurança pública. O raciocínio é paralelo: assim como a Venezuela só foi "resolvida" pela força, o crime organizado no Brasil só será derrotado da mesma forma.
 
 ## A esquerda quer que nada mude

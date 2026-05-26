@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=Qlka5IYLrpg"
 
 # Comente o nome dessa facção.
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=Qlka5IYLrpg)**
+
 Vídeo em que Renan usa o assassinato de três eletricistas na Bahia como ponto de partida para atacar a gestão de segurança pública do governador Jerônimo Rodrigues (PT) e do presidente Lula.
 
 ## O crime na Bahia

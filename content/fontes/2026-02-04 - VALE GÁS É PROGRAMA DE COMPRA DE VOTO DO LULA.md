@@ -12,7 +12,7 @@ tipo: short
 
 # VALE GÁS É PROGRAMA DE COMPRA DE VOTO DO LULA
 
-**Data:** 4 de fevereiro de 2026
+**Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=2rvS-3VsA5g)**
 **Canal:** Renan Santos
 **Duração estimada:** curto
 

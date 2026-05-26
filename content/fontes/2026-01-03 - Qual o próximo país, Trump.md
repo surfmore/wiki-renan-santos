@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=CWPYjfUjnEA"
 
 # Qual o próximo país, Trump
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=CWPYjfUjnEA)**
+
 Renan usa como recurso retórico uma lista de características de um país hipotético — sem liberdade de expressão, aliado da China, tomado pelo narcoterrorismo, com democracia disfuncional, prisões políticas, milícias disfarçadas de movimentos sociais — para concluir que está descrevendo o Brasil.
 
 ## A comparação Brasil-Venezuela

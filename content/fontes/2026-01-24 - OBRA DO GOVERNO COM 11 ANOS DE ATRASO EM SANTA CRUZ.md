@@ -14,6 +14,8 @@ tipo: short
 
 # OBRA DO GOVERNO COM 11 ANOS DE ATRASO EM SANTA CRUZ
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=Z6BHtzE5fQw)**
+
 Renan visita **Santa Cruz (RN)**, na região do agreste, para mostrar um teleférico inacabado como exemplo de desvio sistemático de recursos federais em municípios do interior.
 
 ## O teleférico que não funciona

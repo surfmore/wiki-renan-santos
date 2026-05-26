@@ -15,6 +15,8 @@ tipo: "short"
 
 # Você também é a favor de escolas militares
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=sWvt7A8gtzA)**
+
 Renan Santos defende as **escolas cívico-militares** como componente essencial do programa de desfavelização e de combate ao crime organizado — com fundamentação em um dado sociológico sobre ausência paterna.
 
 ## O argumento pela escola militar

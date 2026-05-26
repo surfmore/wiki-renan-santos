@@ -14,6 +14,8 @@ fontes:
 
 # Resposta ao Podpah Sobre a Apresentação do Bad Bunny
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=D3IQRECi6tY)**
+
 Renan defende posição anterior de que o show do Bad Bunny no Super Bowl foi um ato político, após ter sido criticado pelos próprios seguidores por "ver política onde não tem".
 
 ## Confirmação pelo PSOL e Podpah

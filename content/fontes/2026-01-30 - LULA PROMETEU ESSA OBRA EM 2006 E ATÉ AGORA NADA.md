@@ -15,6 +15,8 @@ tags:
 
 # Lula Prometeu Essa Obra em 2006 e Até Agora Nada
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=gZdyr6NfPq4)**
+
 Gravado ao lado de trilhos da **Transnordestina**, ferrovia que ligaria Pernambuco, Ceará e Piauí. Prometida por Lula em seu primeiro governo, em 2006 — **20 anos** depois, a obra ainda não foi concluída.
 
 ## O que é a Transnordestina

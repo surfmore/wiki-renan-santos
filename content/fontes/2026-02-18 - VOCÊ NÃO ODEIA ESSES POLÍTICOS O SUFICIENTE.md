@@ -15,6 +15,8 @@ tags:
 
 # Você não odeia esses políticos o suficiente
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=-kogesLiS14)**
+
 Short que explica, do ponto de vista de Renan, por que bandidos voltam às ruas depois de presos: a classe política que comete crimes de colarinho branco não tem interesse em leis penais duras.
 
 ## A estrutura do problema

@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=IrK3OJ0oIKs"
 
 # Minha resposta sobre o PL da Misoginia
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=IrK3OJ0oIKs)**
+
 Renan se posiciona contra o PL da Misoginia, classificando-o como "populismo puro e simples" que cria espaços cinzentos para arbitrariedades sem resolver os problemas reais das mulheres.
 
 ## Conteúdo

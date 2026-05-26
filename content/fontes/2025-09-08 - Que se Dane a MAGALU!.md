@@ -15,6 +15,8 @@ tags:
 
 # Que se Dane a MAGALU!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=zN3L6P_5USA)**
+
 Renan comenta notícia de que a **"taxa das blusinhas"** (alíquota de 20% sobre compras internacionais de até US$50, aprovada em junho de 2024) arrecadou quatro vezes menos que o previsto e reduziu o consumo de 14 milhões de brasileiros.
 
 ## Argumento

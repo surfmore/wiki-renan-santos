@@ -14,6 +14,8 @@ tags:
 
 # Sim, a estratégia das facções funciona
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=NC5TNsDUUMk)**
+
 Short em que Renan usa um caso do Ceará para defender punições severas como mecanismo eficaz de controle de comportamento.
 
 ## O caso do Ceará

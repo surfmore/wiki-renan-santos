@@ -14,6 +14,8 @@ tipo: short
 
 # WAGNER MOURA PERDEU O OSCAR
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=-gskL25hnaA)**
+
 Renan comenta a derrota de Wagner Moura no Oscar e usa o episódio para criticar o que chama de indústria cultural brasileira obcecada com a ditadura militar como tema e com o antipetismo.
 
 ## Resumo

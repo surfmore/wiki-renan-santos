@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=TLmx3DdvoYg"
 
 # O Brasil precisa de mais Zicos
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=TLmx3DdvoYg)**
+
 Renan usa imagens de Zico jogando num rachão — tropeçando pela idade — como ponto de partida para uma reflexão sobre a ausência de figuras públicas exemplares no Brasil de hoje.
 
 ## Zico como modelo

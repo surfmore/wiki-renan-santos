@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=Q1EW73Abm9Q"
 
 # O grande câncer da política brasileira
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=Q1EW73Abm9Q)**
+
 Entrevista em que Renan identifica o **centrão** como o principal problema estrutural da política brasileira — acima da esquerda e da direita performática.
 
 ## Conteúdo

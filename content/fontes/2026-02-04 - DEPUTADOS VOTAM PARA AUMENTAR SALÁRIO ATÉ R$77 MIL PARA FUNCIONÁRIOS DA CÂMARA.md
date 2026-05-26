@@ -13,7 +13,7 @@ tipo: short
 
 # DEPUTADOS VOTAM PARA AUMENTAR SALÁRIO EM ATÉ R$77 MIL PARA FUNCIONÁRIOS DA CÂMARA
 
-**Data:** 4 de fevereiro de 2026
+**Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=iCWDcYXKPHY)**
 **Canal:** Renan Santos
 **Duração estimada:** curto
 

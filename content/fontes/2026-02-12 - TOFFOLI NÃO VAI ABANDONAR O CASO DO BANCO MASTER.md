@@ -16,6 +16,8 @@ tags:
 
 # Toffoli não vai abandonar o caso do Banco Master
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=hsfwST_4qyQ)**
+
 Short em que Renan expõe a hipocrisia de Toffoli ao recusar-se a declarar suspeição no caso Banco Master, contrastando com sua postura na Lava-Jato.
 
 ## A posição de Toffoli em 2026

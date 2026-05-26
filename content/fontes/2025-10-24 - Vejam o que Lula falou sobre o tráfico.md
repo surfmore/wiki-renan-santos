@@ -14,6 +14,8 @@ tipo: "short"
 
 # Vejam o que Lula falou sobre o tráfico
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=OdKZd8f5Xc0)**
+
 Renan Santos comenta uma declaração de Lula em que o presidente atribui a existência do tráfico de drogas à responsabilidade dos próprios usuários.
 
 ## A declaração de Lula

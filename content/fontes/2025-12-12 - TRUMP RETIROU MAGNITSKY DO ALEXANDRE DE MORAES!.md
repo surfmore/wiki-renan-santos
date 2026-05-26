@@ -14,6 +14,8 @@ url: "https://www.youtube.com/watch?v=EYyMoumoP28"
 
 # TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=EYyMoumoP28)**
+
 Vídeo em que Renan explica sua teoria sobre o "grande acordão" que resultou na retirada das sanções Magnitsky de Alexandre de Moraes pelos EUA de Trump — conectando Venezuela, Flávio Bolsonaro, Lula e Joesley Batista.
 
 ## A previsão de Renan

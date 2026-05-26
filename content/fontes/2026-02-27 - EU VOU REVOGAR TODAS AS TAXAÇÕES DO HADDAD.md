@@ -12,6 +12,8 @@ tags:
 
 # EU VOU REVOGAR TODAS AS TAXAÇÕES DO HADDAD
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=-Xhyb-EULYA)**
+
 Renan anuncia que, na primeira semana de governo, revogará todas as taxações impostas pelo ministro Fernando Haddad — com foco específico nos impostos sobre **CPU e GPU**.
 
 ## A taxação de CPU e GPU

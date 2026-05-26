@@ -11,6 +11,8 @@ url: "https://www.youtube.com/watch?v=sPMdF36CaZE"
 
 # É assim que vou acabar com o crime organizado!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=sPMdF36CaZE)**
+
 Entrevista em que Renan explica o mecanismo de seu plano de combate ao crime organizado, com foco no papel dos governadores estaduais.
 
 ## Conteúdo

@@ -12,6 +12,8 @@ tags:
 
 # MEU SENTIMENTOS A TODOS ATINGIDOS PELO DESASTRE DE JUIZ DE FORA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=oqm0f52a1UE)**
+
 Renan exibe e comenta um vídeo da **prefeita de Juiz de Fora** ligando para o presidente Lula logo após o desastre e fazendo uma reunião nas redes sociais. Lula, segundo o relato, tratou a prefeita de maneira informal e disse que "ia levantar a mão" para ajudar antes de desligar — estava embarcando para os Emirados Árabes.
 
 ## A crítica à prefeita

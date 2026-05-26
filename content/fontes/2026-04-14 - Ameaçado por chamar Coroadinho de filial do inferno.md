@@ -15,6 +15,8 @@ tags:
 
 # Ameaçado por chamar Coroadinho de filial do inferno
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=PKBLGae-IcM)**
+
 Gravado na **favela do Coroadinho**, em São Luís (MA). Renan descreve as condições da região e anuncia ter recebido ameaças após vídeo anterior em que chamou o bairro de "filial do inferno."
 
 ## Conteúdo

@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=MK2CWJ3w0xM"
 
 # Mensagem de Natal — Renan Santos
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=MK2CWJ3w0xM)**
+
 Vídeo de tom conciliador dirigido não apenas aos seguidores jovens, mas especialmente aos seus familiares mais velhos — pais, avós, tias —, pedindo abertura para conhecê-lo.
 
 ## O presente adiantado de 2025

@@ -14,6 +14,8 @@ fontes:
 
 # Minha Resposta à Matéria da Folha!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=cyWDr8di4R0)**
+
 Renan responde a matéria da **Folha de S. Paulo** que o classificou como "radical e extremista" e ao Partido Missão como "partido extremista".
 
 ## A concordância estratégica

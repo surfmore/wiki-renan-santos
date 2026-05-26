@@ -14,7 +14,7 @@ tipo: short
 
 # SOBRE OS MOTOBOYS ASSASSINADOS NO RJ
 
-**Data:** 31 de janeiro de 2026
+**Data:** 31 de janeiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=0Pl9ldK0ePg)**
 **Canal:** Renan Santos
 **Duração estimada:** curto
 

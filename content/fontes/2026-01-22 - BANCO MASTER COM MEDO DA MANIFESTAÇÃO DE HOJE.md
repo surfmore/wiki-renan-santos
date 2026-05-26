@@ -13,6 +13,8 @@ tipo: short
 
 # BANCO MASTER COM MEDO DA MANIFESTAÇÃO DE HOJE
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=yz0Z-eFwMYo)**
+
 Vídeo gravado por Renan Santos na tarde do **dia 22 de janeiro**, horas antes do início da manifestação diante da sede do Banco Master.
 
 ## O que Renan observou

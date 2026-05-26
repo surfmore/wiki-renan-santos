@@ -14,6 +14,8 @@ fontes:
 
 # Eu Vou Acabar com Festa na Sua Cidade!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=xqJaiv7OtO4)**
+
 Renan anuncia proposta de proibir shows com recursos públicos em municípios que não atingiram metas mínimas em serviços básicos.
 
 ## A proposta

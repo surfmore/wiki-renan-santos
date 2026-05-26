@@ -14,6 +14,8 @@ tipo: short
 
 # Eu estava certo sobre a Igreja Lagoinha
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=IgPZ1wpr58M)**
+
 Renan apresenta o que chama de confirmação definitiva da ligação entre a **Igreja Lagoinha Belvedere** e o [[eventos/Escândalo Banco Master]], após denunciar o caso desde novembro de 2025.
 
 ## Resumo

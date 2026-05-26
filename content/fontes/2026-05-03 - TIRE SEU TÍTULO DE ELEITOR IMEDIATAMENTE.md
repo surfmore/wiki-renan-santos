@@ -11,6 +11,8 @@ url: "https://www.youtube.com/watch?v=tG-CoFBfr1A"
 
 # TIRE SEU TÍTULO DE ELEITOR IMEDIATAMENTE
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=tG-CoFBfr1A)**
+
 Renan convoca jovens de 15 a 18 anos a tirarem o título eleitoral antes do prazo da eleição de 2026.
 
 ## Conteúdo

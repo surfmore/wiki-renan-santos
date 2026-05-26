@@ -12,6 +12,8 @@ tags:
 
 # PETISTAS TENTARAM IMPEDIR DOAÇÕES EM JUIZ DE FORA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=qGlak1HKEXg)**
+
 Vídeo de campo filmado durante a ação de arrecadação e entrega de donativos a vítimas do desastre de Juiz de Fora (chuvas e deslizamentos de fevereiro/março de 2026).
 
 ## O episódio

@@ -14,6 +14,8 @@ tipo: "short"
 
 # VAMOS CRIMINALIZAR O COMUNISMO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=UUTKL4meUmI)**
+
 Versão curta da proposta do Partido Missão de equiparar o uso de "nazista" e "fascista" como rótulos contra adversários políticos ao **Artigo 286 do Código Penal** (incitação ao crime).
 
 ## A proposta

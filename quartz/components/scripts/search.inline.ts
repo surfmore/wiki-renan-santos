@@ -471,11 +471,42 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
         })
       }
     } else if (searchType === "basic") {
-      searchResults = await index.searchAsync({
-        query: currentSearchTerm,
-        limit: numSearchResults,
-        index: ["title", "content"],
-      })
+      const terms = currentSearchTerm.trim().split(/\s+/).filter((t) => t.length > 0)
+      if (terms.length > 1) {
+        // AND search: intersect results for each individual term
+        const termResults = await Promise.all(
+          terms.map((term) =>
+            index.searchAsync({
+              query: term,
+              limit: 10000,
+              index: ["title", "content"],
+            }),
+          ),
+        )
+        const getIds = (
+          results: DefaultDocumentSearchResults<Item>,
+          field: string,
+        ): Set<number> => {
+          const fieldResult = results.find((x) => x.field === field)
+          return new Set(fieldResult ? (fieldResult.result as number[]) : [])
+        }
+        const intersect = (sets: Set<number>[]): Set<number> => {
+          if (sets.length === 0) return new Set()
+          return sets.reduce((a, b) => new Set([...a].filter((x) => b.has(x))))
+        }
+        const titleIds = intersect(termResults.map((r) => getIds(r, "title")))
+        const contentIds = intersect(termResults.map((r) => getIds(r, "content")))
+        searchResults = [
+          { field: "title", result: [...titleIds].slice(0, numSearchResults) as any },
+          { field: "content", result: [...contentIds].slice(0, numSearchResults) as any },
+        ]
+      } else {
+        searchResults = await index.searchAsync({
+          query: currentSearchTerm,
+          limit: numSearchResults,
+          index: ["title", "content"],
+        })
+      }
     }
 
     const getByField = (field: string): number[] => {

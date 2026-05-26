@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=whUnUEWaBUs"
 
 # Um festival de música negra sem músico negro, mas com muito dinheiro público
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=whUnUEWaBUs)**
+
 Renan denuncia o "Festival Melodia" em Ceilândia (DF) — um festival de música negra realizado com dinheiro do Ministério da Cultura sem nenhum artista negro no lineup.
 
 ## Conteúdo

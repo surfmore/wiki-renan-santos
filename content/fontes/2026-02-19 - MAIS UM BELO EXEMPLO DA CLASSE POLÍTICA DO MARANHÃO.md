@@ -14,6 +14,8 @@ tags:
 
 # Mais um belo exemplo da classe política do Maranhão
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=1r7_39hI0IY)**
+
 Short gravado sobre o município de **São Félix das Balsas (MA)**.
 
 ## O caso da primeira dama e o show vazio

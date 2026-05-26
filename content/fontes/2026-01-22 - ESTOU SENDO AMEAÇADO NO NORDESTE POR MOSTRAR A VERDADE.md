@@ -14,6 +14,8 @@ tipo: short
 
 # ESTOU SENDO AMEAÇADO NO NORDESTE POR MOSTRAR A VERDADE!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=L1KAgJz1_4Y)**
+
 Publicado no dia da manifestação convocada contra o Banco Master, este vídeo denuncia uma campanha do PT para desmobilizar a proteção policial à equipe de Renan durante a turnê pelo Nordeste.
 
 ## A ameaça

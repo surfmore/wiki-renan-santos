@@ -14,6 +14,8 @@ tipo: "short"
 
 # Expulsei o Kim do MBL
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=OzfblZP_EeE)**
+
 Vídeo satírico em que Renan Santos anuncia ironicamente ter "expulsado" Kim Kataguiri do MBL — por Kim ser tão produtivo que envergonha os demais.
 
 ## A semana de Kim documentada por Renan

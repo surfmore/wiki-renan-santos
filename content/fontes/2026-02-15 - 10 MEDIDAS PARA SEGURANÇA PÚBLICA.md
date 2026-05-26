@@ -14,6 +14,8 @@ tags:
 
 # 10 medidas para segurança pública
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=ENR_CJFmpQA)**
+
 Short em que Renan apresenta um pacote de 11 medidas (10 + bônus) para resolver o crime no Brasil e tornar o país "o lugar mais seguro das Américas".
 
 ## As medidas

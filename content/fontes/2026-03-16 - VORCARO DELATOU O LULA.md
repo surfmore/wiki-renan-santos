@@ -14,6 +14,8 @@ tipo: short
 
 # VORCARO DELATOU O LULA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=amHFW8OEzc8)**
+
 Renan analisa o impacto potencial da delação de Daniel Vorcaro sobre a candidatura de Lula à reeleição, listando os nomes que Vorcaro poderia envolver e especulando sobre o cenário eleitoral se o PT sair do jogo.
 
 ## Resumo

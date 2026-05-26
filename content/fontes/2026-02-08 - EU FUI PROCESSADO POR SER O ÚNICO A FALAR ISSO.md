@@ -14,6 +14,8 @@ fontes:
 
 # Eu Fui Processado Por Ser o Único a Falar Isso
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=6vKBKwuLuRM)**
+
 Renan explica que foi condenado em processo movido pela intelectual de esquerda **Djamila Ribeiro** e usa o caso para desenvolver a tese de que o movimento negro é um "braço do crime organizado" com financiamento de George Soros.
 
 ## A condenação por "jeca"

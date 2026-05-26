@@ -14,6 +14,8 @@ tipo: short
 
 # ACARI, A CIDADE MAIS LIMPA DO BRASIL
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=KX34olrLGnM)**
+
 Renan Santos visita **Acari (RN)**, cidade do sertão nordestino reconhecida como a mais limpa do Brasil, para argumentar que a desordem urbana não é inevitável nem apenas uma questão econômica.
 
 ## O caso de Acari

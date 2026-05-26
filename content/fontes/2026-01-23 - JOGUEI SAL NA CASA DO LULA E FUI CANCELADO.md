@@ -14,6 +14,8 @@ tipo: short
 
 # JOGUEI SAL NA CASA DO LULA E FUI CANCELADO!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=zV-WOwdb2nc)**
+
 Renan Santos responde à onda de cancelamentos de veículos de imprensa após o episódio em que jogou sal na casa onde Lula nasceu em Garanhuns (PE) — ato simbólico para que "nunca mais nasça outro Lula naquele lugar". Renan nega que foi "lacração" e apresenta seis propostas concretas para tornar o PT eleitoralmente irrelevante.
 
 ## A reação da mídia

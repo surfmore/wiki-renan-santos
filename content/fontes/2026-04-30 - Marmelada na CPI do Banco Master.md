@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=9iqpGHBG3Xc"
 
 # Marmelada na CPI do Banco Master
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=9iqpGHBG3Xc)**
+
 Renan denuncia que PT, centrão e bolsonarismo fizeram um acordo para suprimir a CPI do Banco Master na reunião do Congresso, em troca da pauta da dosimetria dos envolvidos no 8 de janeiro.
 
 ## Conteúdo

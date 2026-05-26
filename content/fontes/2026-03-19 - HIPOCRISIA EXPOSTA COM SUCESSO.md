@@ -13,6 +13,8 @@ tipo: short
 
 # HIPOCRISIA EXPOSTA COM SUCESSO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=P-DY_-JK_c4)**
+
 Renan critica o vídeo em que a deputada estadual **Fabiana Bolsonaro** se pintou de negra na Assembleia Legislativa de São Paulo para "denunciar a hipocrisia da causa trans", e usa o caso para contrastar desempenho legislativo real com shows políticos.
 
 ## Resumo

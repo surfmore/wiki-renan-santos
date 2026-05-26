@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=hEiyd11TA3I"
 
 # Conhecem o "efeito Renan"?
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=hEiyd11TA3I)**
+
 Renan apresenta o que chama de "efeito Renan": suas visitas a locais degradados geram reação da classe política — primeiro negação, depois ação corretiva — demonstrando que a exposição pública funciona como instrumento de pressão.
 
 ## Dois casos documentados

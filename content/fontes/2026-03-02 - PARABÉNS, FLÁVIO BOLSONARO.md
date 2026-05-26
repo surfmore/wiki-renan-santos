@@ -12,6 +12,8 @@ tags:
 
 # PARABÉNS, FLÁVIO BOLSONARO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=fJ4lYp-46kU)**
+
 Vídeo com estrutura irônica: começa fingindo elogiar o discurso de Flávio Bolsonaro na manifestação de março de 2026 — em que potencialmente Dias Toffoli poderia ser preso — e termina desconstruindo o elogio ponto a ponto.
 
 ## O "discurso corajoso" (irônico)

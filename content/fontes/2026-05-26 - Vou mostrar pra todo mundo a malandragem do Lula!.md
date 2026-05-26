@@ -11,7 +11,7 @@ url: "https://www.youtube.com/watch?v=RNNhQLBH2p4"
 
 # Vou mostrar pra todo mundo a malandragem do Lula!
 
-**Canal:** Renan Santos (short, ~2 min)
+**Canal:** Renan Santos (short, ~2 min) | **[Assistir no YouTube](https://www.youtube.com/watch?v=RNNhQLBH2p4)**
 **Data:** 26 de maio de 2026
 
 ## Resumo

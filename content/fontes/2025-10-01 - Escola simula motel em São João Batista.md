@@ -15,6 +15,8 @@ tipo: "short"
 
 # Escola simula motel em São João Batista
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=LHjYyNWWXXU)**
+
 Renan Santos usa a viralização de um vídeo de uma escola em **São João Batista (MA)** — onde crianças simulavam práticas de motel com aprovação dos professores — para expor o que chama de "iceberg" de um problema nacional: cidades pequenas corruptas e inviáveis sustentadas com dinheiro federal.
 
 ## O caso em números

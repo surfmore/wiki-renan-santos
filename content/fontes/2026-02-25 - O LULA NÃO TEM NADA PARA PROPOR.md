@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=lrisHr07noI"
 
 # O LULA NÃO TEM NADA PARA PROPOR
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=lrisHr07noI)**
+
 Renan Santos faz uma avaliação do cenário eleitoral e de sua posição nos debates presidenciais, argumentando que tem vantagem comunicativa sobre Lula e Flávio Bolsonaro.
 
 ## Vantagem nos debates

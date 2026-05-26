@@ -14,6 +14,8 @@ fontes:
 
 # Por que os EUA Parece um País Tão Melhor que o Brasil?
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=ynsai-Dz2LY)**
+
 Filmado em **Miami**, Renan usa a experiência cotidiana num parque público da cidade para responder à pergunta do título.
 
 ## A observação em Miami

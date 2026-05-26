@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=YKfj_TOTeHM"
 
 # Resposta sobre o bairro de Pinheirinho, em Criciúma
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=YKfj_TOTeHM)**
+
 Renan responde à reação do governador de Santa Catarina, Jorginho Mello, após a visita ao bairro do Pinheirinho — área tomada por facção criminosa, crackudos e traficantes.
 
 ## Contexto

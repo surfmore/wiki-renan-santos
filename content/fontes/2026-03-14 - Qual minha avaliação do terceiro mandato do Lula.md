@@ -14,6 +14,8 @@ tipo: short
 
 # Qual minha avaliação do terceiro mandato do Lula
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=GAPDXC9ihNw)**
+
 Em resposta a uma pergunta de rua, Renan dá sua avaliação sintética do terceiro governo Lula e da trajetória da esquerda latino-americana.
 
 ## Resumo

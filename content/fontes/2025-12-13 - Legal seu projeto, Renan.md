@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=F_rMj3rx6WU"
 
 # Legal seu projeto, Renan
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=F_rMj3rx6WU)**
+
 Vídeo em que Renan responde à sugestão de que deveria se unir a Tarcísio de Freitas, e aproveita para traçar um mapa das conexões entre os três principais candidatos e o Banco Master.
 
 ## Por que não se unir a Tarcísio

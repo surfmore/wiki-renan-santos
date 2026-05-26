@@ -15,6 +15,8 @@ tipo: "short"
 
 # VAMOS CRIMINALIZAR A EXTREMA-ESQUERDA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=fJVRBWdM2Yk)**
+
 Versão longa da proposta de criminalizar o uso político de "nazista" e "fascista" como incitação ao crime, com a lógica completa descrita por Renan Santos.
 
 ## A cadeia lógica que Renan descreve

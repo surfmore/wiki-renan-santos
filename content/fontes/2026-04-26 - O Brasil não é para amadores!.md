@@ -11,6 +11,8 @@ url: "https://www.youtube.com/watch?v=ZQtecbytRaM"
 
 # O Brasil não é para amadores!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=ZQtecbytRaM)**
+
 Renan denuncia o caso do DJ Alock no Piauí como exemplo de como o judiciário estadual funciona como aliado da classe política na manutenção do esquema de shows com dinheiro público.
 
 ## O caso

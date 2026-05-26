@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=8rMNgGSMQ7E"
 
 # Pernambucano o que aconteceu com você
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=8rMNgGSMQ7E)**
+
 Vídeo em que Renan traça a história da família Campos-Arrais em Pernambuco, critica a gestão de João Campos em Recife e convoca pernambucanos a se unirem ao Partido Missão.
 
 ## A dinastia Campos-Arrais

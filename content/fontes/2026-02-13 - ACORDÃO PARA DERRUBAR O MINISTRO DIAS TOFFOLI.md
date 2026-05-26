@@ -15,6 +15,8 @@ tags:
 
 # Acordão para derrubar o ministro Dias Toffoli
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=-0R-8TyXz6s)**
+
 Short em que Renan denuncia um acordo político nos bastidores para sacrificar Toffoli e salvar os demais envolvidos no escândalo do Banco Master.
 
 ## O acordo (segundo Renan)

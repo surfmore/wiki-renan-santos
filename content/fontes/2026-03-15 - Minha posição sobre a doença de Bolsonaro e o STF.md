@@ -14,6 +14,8 @@ tipo: short
 
 # Minha posição sobre a doença de Bolsonaro e o STF
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=q8MRm89Jzpg)**
+
 Renan defende, com base em argumentos humanitários e republicanos, que Jair Bolsonaro — muito doente e preso — deveria ter sua situação aliviada pelo STF. Ao mesmo tempo, critica Alexandre de Moraes por transformar o caso em "vendeta pessoal".
 
 ## Resumo

@@ -11,6 +11,8 @@ url: "https://www.youtube.com/watch?v=RTqiYwGWg4k"
 
 # Estou saindo do MBL
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=RTqiYwGWg4k)**
+
 Renan Santos reage a uma notícia veiculada pela **Band** que anunciou erroneamente sua saída do Movimento Brasil Livre. O vídeo nega a informação e serve de plataforma para reafirmar sua candidatura.
 
 ## Contexto

@@ -14,6 +14,8 @@ tipo: short
 
 # SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=X1acFaCYwOA)**
+
 Durante a turnê de Renan pelo Nordeste, um homem mais velho — ouvindo a entrevista de Renan numa rádio local — largou o que estava fazendo, pegou a moto e foi pessoalmente ao estúdio para abraçar o pré-candidato. A cena foi filmada pela equipe.
 
 ## O relato do senhor

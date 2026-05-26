@@ -14,6 +14,8 @@ tipo: "short"
 
 # O pior juiz do mundo mora no Brasil
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=94etlocKdZg)**
+
 Renan Santos ataca o juiz carioca **Rubens Casara**, a quem chama de "pior juiz do mundo", por soltar um criminoso que havia sido preso **86 vezes** — que voltou a cometer crimes após a soltura.
 
 ## Quem é Rubens Casara

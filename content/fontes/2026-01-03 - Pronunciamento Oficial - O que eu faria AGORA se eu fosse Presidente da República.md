@@ -13,6 +13,8 @@ url: "https://www.youtube.com/watch?v=e_B1qNlHu34"
 
 # Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=e_B1qNlHu34)**
+
 Vídeo em formato de pronunciamento: Renan lista medidas imediatas que tomaria como presidente diante da queda de Maduro e da nova realidade geopolítica imposta pelos EUA na América do Sul.
 
 ## Medida 1 — Militarizar a fronteira de Roraima

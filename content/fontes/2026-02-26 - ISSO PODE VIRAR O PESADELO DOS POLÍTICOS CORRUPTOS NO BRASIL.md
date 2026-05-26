@@ -12,6 +12,8 @@ tags:
 
 # ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=4d5vLkrHYGw)**
+
 Renan apresenta a ferramenta criada por **Bruno César** e sua equipe — chamada **"Aceleracionismo Brasileiro"** —, que cruza bases de dados públicas para mapear corrupção política.
 
 ## A ferramenta

@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=kk_7MkwgTjs"
 
 # 5 medidas contra a violência contra mulheres
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=kk_7MkwgTjs)**
+
 Vídeo em que Renan apresenta cinco medidas concretas que implementaria como presidente para combater a violência contra a mulher.
 
 ## As cinco medidas

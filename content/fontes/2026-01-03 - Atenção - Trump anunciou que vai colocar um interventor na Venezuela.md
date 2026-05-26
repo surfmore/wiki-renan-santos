@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=iq9BXiI4W1Y"
 
 # Atenção - Trump anunciou que vai colocar um interventor na Venezuela
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=iq9BXiI4W1Y)**
+
 Renan usa o anúncio de Trump de um interventor para a transição democrática na Venezuela como argumento de validade para sua proposta de intervenção federal em estados brasileiros com baixo IDH.
 
 ## O paralelo Venezuela-estados deficitários brasileiros

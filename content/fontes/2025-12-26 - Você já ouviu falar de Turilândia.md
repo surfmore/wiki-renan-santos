@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=SIEUn46epvM"
 
 # Você já ouviu falar de Turilândia
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=SIEUn46epvM)**
+
 Renan usa o escândalo de Turilândia (MA) para aprofundar sua proposta de fusão de municípios e intervenção federal em cidades inviáveis.
 
 ## O caso Turilândia

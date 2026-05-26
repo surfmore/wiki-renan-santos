@@ -14,6 +14,8 @@ tipo: short
 
 # GLOBO X STF, A GUERRA COMEÇOU
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=TWp5LG7LSgY)**
+
 Renan comenta o início do distanciamento da **Rede Globo** em relação ao STF — especialmente a Alexandre de Moraes — e o silêncio de Flávio Bolsonaro diante da crise, contrastando com a iniciativa do senador Alessandro Vieira.
 
 ## Resumo

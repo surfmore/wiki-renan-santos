@@ -15,6 +15,8 @@ tags:
 
 # Charlie Kirk nos deixou
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=1tI8OHRjcAY)**
+
 Renan reage à morte de **Charlie Kirk**, ativista conservador americano, vítima de um atentado a tiro no pescoço. O vídeo foi iniciado com Kirk ainda vivo e teve a confirmação da morte registrada ao vivo durante a gravação.
 
 ## Reação de Renan

@@ -12,6 +12,8 @@ tags:
 
 # VOU PROIBIR MULHER NA MISSÃO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=8iHLLmFBeZY)**
+
 Título irônico: Renan abre dizendo "eu vou proibir mulher no MBL e no Partido Missão", para em seguida denunciar os ataques sistemáticos que as pré-candidatas do partido estão sofrendo de perfis bolsonaristas.
 
 ## Os casos documentados

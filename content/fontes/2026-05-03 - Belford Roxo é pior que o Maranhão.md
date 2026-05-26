@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=uPhd53pxTeU"
 
 # Belford Roxo é pior que o Maranhão
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=uPhd53pxTeU)**
+
 Renan denuncia as condições de Belford Roxo (RJ) e critica o apoio de Flávio Bolsonaro ao prefeito Márcio Canela, candidato ao Senado pelo Rio de Janeiro.
 
 ## Conteúdo

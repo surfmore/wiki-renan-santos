@@ -15,6 +15,8 @@ tags:
 
 # Resposta ao Peninha
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=pKnpIAahgz4)**
+
 Renan responde a **Eduardo Bueno**, o "Peninha", historiador e dono do canal "Buenas Ideias", que zombou da morte de Charlie Kirk e das filhas do ativista americano.
 
 ## O episódio

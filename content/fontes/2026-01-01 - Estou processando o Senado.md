@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=4ntnBzwA2PM"
 
 # Estou processando o Senado
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=4ntnBzwA2PM)**
+
 No primeiro dia de 2026, Renan anuncia ação judicial contra o Senado Federal em resposta à concessão de **R$ 46 milhões em bônus** distribuídos a apenas 800 funcionários — cerca de R$ 300.000 por pessoa — aprovados pela presidência do Senado. O TCU havia sinalizado que o benefício era irregular.
 
 ## O escândalo do bônus

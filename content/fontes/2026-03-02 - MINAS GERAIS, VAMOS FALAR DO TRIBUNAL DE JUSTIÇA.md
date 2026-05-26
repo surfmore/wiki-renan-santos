@@ -12,6 +12,8 @@ tags:
 
 # MINAS GERAIS, VAMOS FALAR DO TRIBUNAL DE JUSTIÇA
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=PRmo4pPEsUk)**
+
 Gravado no Tribunal de Justiça de Minas Gerais, em Belo Horizonte. Renan usa dados orçamentários e salariais para denunciar o que chama de "mamata do judiciário" mineiro.
 
 ## Dados apresentados

@@ -11,6 +11,8 @@ url: "https://www.youtube.com/watch?v=KbW2M2r265I"
 
 # Eu sou o pré-candidato que mais cresce!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=KbW2M2r265I)**
+
 Trecho de entrevista em que Renan explica seu crescimento nas pesquisas e sua abordagem propositiva — em contraste com "fofoqueiros" que apenas apontam problemas.
 
 ## Conteúdo

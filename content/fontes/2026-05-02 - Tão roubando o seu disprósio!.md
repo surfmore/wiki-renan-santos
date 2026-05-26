@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=L9qvMHz9ItA"
 
 # Tão roubando o seu disprósio!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=L9qvMHz9ItA)**
+
 Renan denuncia a exportação de disprósio (terra rara) quase bruta do Brasil para os Estados Unidos e apresenta proposta para aproveitar as terras raras brasileiras com soberania tecnológica.
 
 ## Conteúdo

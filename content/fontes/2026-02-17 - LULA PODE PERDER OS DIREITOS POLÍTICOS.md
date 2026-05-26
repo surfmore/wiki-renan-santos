@@ -15,6 +15,8 @@ tags:
 
 # Lula pode perder os direitos políticos?
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=ErEZWicBlv0)**
+
 Short gravado logo após a decisão do TSE que negou a ação de Renan contra o desfile pró-Lula no carnaval de 2026.
 
 ## A decisão do TSE

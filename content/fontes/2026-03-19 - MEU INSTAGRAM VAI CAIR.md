@@ -13,6 +13,8 @@ tipo: short
 
 # MEU INSTAGRAM VAI CAIR
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=mRFuvk9cQ9g)**
+
 Renan denuncia que dois de seus vídeos foram derrubados no Instagram por denúncias ligadas à empresa **Oakberry** (marca de açaí) e à **Igreja Lagoinha**, como retaliação pelas investigações que ele conduziu sobre o [[eventos/Escândalo Banco Master]].
 
 ## Resumo

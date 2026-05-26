@@ -15,6 +15,8 @@ tags:
 
 # Essa Cidade Não Tem Água Mas Quer Dar Internet para Votar no BBB
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=Kq8WvH8-5gk)**
+
 Gravado em **Currais Novos (RN)**, município do interior do Rio Grande do Norte com sérios déficits de infraestrutura básica.
 
 ## Os números de Currais Novos

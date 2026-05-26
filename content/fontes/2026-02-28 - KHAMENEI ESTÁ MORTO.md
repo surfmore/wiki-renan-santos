@@ -12,6 +12,8 @@ tags:
 
 # KHAMENEI ESTÁ MORTO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=EaEOrWtZ_Dw)**
+
 Renan comenta a morte de Ali Khamenei, líder supremo do Irã, numa operação americana e israelense. O vídeo serve como ponto de partida para uma análise geopolítica e suas implicações para o Brasil.
 
 ## A morte de Khamenei

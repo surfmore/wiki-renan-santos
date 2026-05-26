@@ -14,6 +14,8 @@ url: "https://www.youtube.com/watch?v=o2Kqmc9DrD8"
 
 # ESSE CASO EM ARARI NO MARANHÃO É BIZARRO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=o2Kqmc9DrD8)**
+
 Primeiro vídeo de Renan sobre Arari (MA), combinando denúncia de corrupção com crítica às redes sociais e ao pacto federativo. O caso da influencer Ingrid Andrade e do ex-prefeito Rui Filho viraria tema recorrente nos meses seguintes.
 
 ## O caso Arari

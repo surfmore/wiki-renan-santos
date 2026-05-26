@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=pinC2jrXllw"
 
 # Lula é um picareta!
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=pinC2jrXllw)**
+
 Renan responde a um vídeo de Lula afirmando que o Brasil poderia ser a sexta economia do mundo não fosse a má administração — argumentando que a responsabilidade é exatamente do PT.
 
 ## Conteúdo

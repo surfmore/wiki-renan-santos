@@ -14,6 +14,8 @@ tipo: "short"
 
 # Minha proposta para os governadores
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=nh0YgzVYUng)**
+
 Vídeo em que Renan Santos apresenta uma **estratégia anti-crime para governadores de oposição** e propõe uma **agenda única entre pré-candidatos à presidência**, a ser cumprida integralmente por quem vencer em 2026.
 
 ## O contexto: operação no Rio

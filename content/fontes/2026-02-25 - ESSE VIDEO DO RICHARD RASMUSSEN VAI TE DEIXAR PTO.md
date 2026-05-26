@@ -12,6 +12,8 @@ url: "https://www.youtube.com/watch?v=BH-TMaBJHIk"
 
 # ESSE VIDEO DO RICHARD RASMUSSEN VAI TE DEIXAR PTO
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=BH-TMaBJHIk)**
+
 Renan Santos usa um episódio envolvendo o youtuber **Richard Rasmussen** como metáfora para o que descreve como o padrão estrutural do Estado brasileiro: punir os honestos e proteger os desonestos.
 
 ## O episódio de Rasmussen

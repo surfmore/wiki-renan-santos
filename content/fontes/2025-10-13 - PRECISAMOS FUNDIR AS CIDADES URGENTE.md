@@ -14,6 +14,8 @@ tipo: "short"
 
 # PRECISAMOS FUNDIR AS CIDADES URGENTE
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=RP3D1RSB6Og)**
+
 Renan Santos usa dois pequenos municípios do Rio Grande do Norte como exemplo concreto do que chama de "ficção" da Federação Brasileira: pequenas cidades vizinhas com pouquíssimos habitantes, baixo IDH e infraestrutura precária — cada uma com sua própria estrutura de governo e orçamento próprio.
 
 ## O caso concreto

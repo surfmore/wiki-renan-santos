@@ -13,6 +13,8 @@ tipo: short
 
 # ÉRIKA HILTON É VIOLENTA CONTRA MULHERES
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=bT51EB9tp6A)**
+
 Renan apresenta uma análise da postura da deputada federal **Érika Hilton** em relação às mulheres biológicas, argumentando que seu comportamento constitui uma forma de "violência simbólica".
 
 ## Resumo

@@ -15,6 +15,8 @@ tags:
 
 # Se você é mulher, precisa ver esse vídeo
 
+**[Assistir no YouTube](https://www.youtube.com/watch?v=2JtVm4bMI_c)**
+
 Short sobre o caso de estupro coletivo de uma adolescente de 13 anos em São João do Meriti (RJ), cometido pelo **TCP (Terceiro Comando Puro)**.
 
 ## O caso
