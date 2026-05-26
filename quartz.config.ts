@@ -8,15 +8,13 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Quartz 4",
-    pageTitleSuffix: "",
+    pageTitle: "Wiki Renan Santos",
+    pageTitleSuffix: " | Wiki Renan Santos",
     enableSPA: true,
     enablePopovers: true,
-    analytics: {
-      provider: "plausible",
-    },
-    locale: "en-US",
-    baseUrl: "quartz.jzhao.xyz",
+    analytics: null,
+    locale: "pt-BR",
+    baseUrl: "renansantos.wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -27,28 +25,29 @@ const config: QuartzConfig = {
         body: "Source Sans Pro",
         code: "IBM Plex Mono",
       },
+      // Catppuccin — Latte (light) + Mocha (dark)
       colors: {
         lightMode: {
-          light: "#faf8f8",
-          lightgray: "#e5e5e5",
-          gray: "#b8b8b8",
-          darkgray: "#4e4e4e",
-          dark: "#2b2b2b",
-          secondary: "#284b63",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#fff23688",
+          light: "#eff1f5",     // Base
+          lightgray: "#ccd0da", // Surface0
+          gray: "#9ca0b0",      // Overlay0
+          darkgray: "#6c6f85",  // Subtext0
+          dark: "#4c4f69",      // Text
+          secondary: "#1e66f5", // Blue
+          tertiary: "#179299",  // Teal
+          highlight: "rgba(30, 102, 245, 0.1)",
+          textHighlight: "#df8e1d88", // Yellow
         },
         darkMode: {
-          light: "#161618",
-          lightgray: "#393639",
-          gray: "#646464",
-          darkgray: "#d4d4d4",
-          dark: "#ebebec",
-          secondary: "#7b97aa",
-          tertiary: "#84a59d",
-          highlight: "rgba(143, 159, 169, 0.15)",
-          textHighlight: "#b3aa0288",
+          light: "#1e1e2e",     // Base
+          lightgray: "#313244", // Surface0
+          gray: "#6c7086",      // Overlay0
+          darkgray: "#a6adc8",  // Subtext0
+          dark: "#cdd6f4",      // Text
+          secondary: "#89b4fa", // Blue
+          tertiary: "#94e2d5",  // Teal
+          highlight: "rgba(137, 180, 250, 0.1)",
+          textHighlight: "#f9e2af88", // Yellow
         },
       },
     },
@@ -57,7 +56,7 @@ const config: QuartzConfig = {
     transformers: [
       Plugin.FrontMatter(),
       Plugin.CreatedModifiedDate({
-        priority: ["frontmatter", "git", "filesystem"],
+        priority: ["frontmatter", "filesystem", "git"],
       }),
       Plugin.SyntaxHighlighting({
         theme: {

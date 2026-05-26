@@ -1,0 +1,115 @@
+---
+title: "Partido Missão"
+tags:
+  - tema
+  - partido-missão
+  - eleições-2026
+date: 2026-05-25
+fontes:
+  - "2026-05-07 - O que diferencia a Missão dos outros partidos"
+  - "2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO"
+  - "2025-12-25 - Por que a Geração Z está com o Partido Missão"
+  - "2025-12-21 - Essa é uma Missão pra vocês"
+  - "2025-12-18 - Esse é o pronunciamento do próximo Presidente da República."
+  - "2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO"
+  - "2025-10-24 - Não vai ter Missão"
+  - "2025-09-24 - Quer notícia boa"
+  - "2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!"
+  - "2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)"
+---
+
+# Partido Missão
+
+Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro.
+
+## Origem e fundação
+
+Renan descreve a criação do Partido Missão como "o projeto da minha vida." O processo de fundação começou antes de 2025 com coleta de assinaturas — em setembro de 2025 o Ministério Público Eleitoral emitiu parecer favorável, descrevendo o processo como "o mais correto, mais liso, mais probo possível." O TSE aprovou o partido por **7 votos a 0** em novembro de 2025.
+
+Em sua autobiografia em vídeo, Renan descreve o Missão como batendo "recordes de velocidade" de constituição: mais rápido da história do Brasil, em maior número de estados, com maior número de fichas validadas no TSE. O total de membros validados chegou a **547.000**.
+
+O partido recebeu o número **14** no TSE.
+
+Ver [[fontes/2025-09-24 - Quer notícia boa]] e [[fontes/2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO]].
+
+## O que o Missão representa, na fala de Renan
+
+### A diferença em relação aos partidos tradicionais
+
+Renan apresenta o Missão em contraste com partidos que "se tornaram um União Brasil" — expressão que usa para descrever partidos de oposição que teriam cedido ao sistema, ao centrão e às benesses do poder. O critério que distingue o Missão, segundo ele, é pessoal: se o partido se tornar uma busca por "carguinho, dinheirinho" ou por convites para festas de Vorcaro, Renan diz que teria fracassado como homem.
+
+> "Humilhar aquelas pessoas que tiveram na rua coletando assinatura debaixo de chuva... me tornaria um lixo. Eu me tornaria uma vergonha."
+
+Diferente do PL (que em 2026 terá R$ 953 milhões em fundo eleitoral), o Partido Missão tem recursos modestos e pede doações dos seguidores — via PIX pix@partidomissao.com. Renan funda a independência do partido justamente na ausência de obrigações com oligarcas como Valdemar da Costa Neto.
+
+Ver [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]].
+
+### Missão como continuação do movimento anti-PT
+
+Renan enquadra o Missão como o desdobramento institucional do movimento que derrubou Dilma Rousseff. Diz que foi o MBL — não Bolsonaro — que organizou as manifestações do impeachment e que levou ao encarceramento de Lula em 2018. A família Bolsonaro depois trocou essa "revolução" por proteção pessoal via STF.
+
+> "Ele e o bosta do pai dele trocaram a revolução por casas compradas com dinheiro roubado por peculato, por dinheiro de rachadinha. Trocaram os milhões de pessoas que saíram às ruas pelo impeachment de Dilma Rousseff numa mansão num condomínio fechado ao lado da casa do miliciano."
+
+Ver [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]].
+
+## O eleitorado: Geração Z e homens jovens
+
+Renan afirma estar em segundo lugar nas pesquisas entre os mais jovens e, quando isolados os homens jovens, em primeiro lugar. Identifica uma ruptura geracional:
+
+- A Geração Z "já começou de direita" — não passou pela fase de simpatia com a esquerda.
+- Jovens querem: bandido preso ou morto, fim das favelas, fim da cultura do funk, poder trabalhar e ganhar dinheiro, comprar casa e carro.
+- A Geração Z e os Millennials são "muito mais à direita" que seus pais e avós.
+
+O Missão dirige-se especificamente a esse eleitorado, pedindo que os jovens "apresentem os vídeos aos pais e avós nas ceias de Natal" como estratégia de expansão eleitoral. Renan compara o padrão de crescimento ao de Donald Trump, Javier Milei e Jair Bolsonaro — todos iniciados por jovens que fizeram memes e convenceram familiares.
+
+Dados invocados por Renan em dezembro de 2025: **18% de intenção de voto entre a Geração Z (16–24 anos)** na Atlas Intel, que, combinado com o voto masculino jovem, chegaria a mais de 30%.
+
+Ver [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]] e [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República.]].
+
+## Tentativas de bloqueio e resposta
+
+Em outubro de 2025, **Glauber Braga** (PSOL) apresentou ao TSE denúncia de que o Missão teria falsificado assinaturas — fora do prazo, segundo Renan, motivo pelo qual não podia ser aceita. Paralelamente, perfis suspeitos surgiram nas redes defendendo o Missão com linguagem de extrema direita ("nazistas"), interpretados por Renan como operação de criação de evidências falsas para alimentar a tese de Glauber.
+
+> "Os caras estão tentando impedir o inevitável. Partido Missão vai surgir."
+
+O partido foi aprovado por unanimidade pelo TSE meses depois.
+
+Ver [[fontes/2025-10-24 - Não vai ter Missão]].
+
+## Primeiro parlamentar: Kim Kataguiri
+
+Em **4 de novembro de 2025**, o deputado federal **[[pessoas/Kim Kataguiri]]** — um dos fundadores históricos do MBL — foi o primeiro parlamentar a migrar para o Partido Missão. Renan entregou simbolicamente o "primeiro documento oficial do Missão": o convite de filiação de Kim. O vídeo registrou também a aprovação do TSE na mesma data.
+
+Kim Kataguiri anunciou que faria campanha para Renan na presidência em 2026.
+
+## Programa político ("Livro Amarelo")
+
+O programa do partido é chamado de **Livro Amarelo**. Em termos gerais, Renan descreve as propostas em torno de três eixos:
+
+1. **Segurança pública:** guerra ao crime organizado, estado de defesa, fim das facções nas favelas, "direito penal do inimigo"
+2. **Desenvolvimento regional:** industrialização do Nordeste, Matopiba, terras raras, intervenção federal em estados de baixo IDH
+3. **Reforma institucional:** reforma do STF, extinção ou esvaziamento do Senado, emendas condicionadas a metas, combate à corrupção municipal
+
+Ver [[posicoes/Estado de Defesa e Direito Penal do Inimigo]], [[posicoes/Propostas para o STF]], [[posicoes/Emendas Parlamentares Condicionadas a Metas]].
+
+## Financiamento: a "vaquinha"
+
+O Missão financia sua campanha por doações populares. O PIX oficial é **pix@partidomissao.com**. Renan faz campanha recorrente de arrecadação, contrastando com o PL (R$ 953 milhões em fundo eleitoral, controlado por Valdemar da Costa Neto) e com o PT. Em maio de 2026, o partido já havia percorrido Pernambuco, Rio Grande do Norte, Ceará, Maranhão, Paraná, Santa Catarina e interior de São Paulo na pré-campanha.
+
+## Pessoas relacionadas
+
+- [[pessoas/Renan Santos]] — fundador e candidato à presidência
+- [[pessoas/Kim Kataguiri]] — primeiro deputado federal do partido
+
+## Fontes (cronológico decrescente)
+
+- [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]] — Missão como projeto pessoal; critério de fracasso
+- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]] — 547.000 validados; Missão como continuação do impeachment
+- [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]] — ruptura geracional; Geração Z já de direita
+- [[fontes/2025-12-21 - Essa é uma Missão pra vocês]] — missão de Natal; Google Trends
+- [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República.]] — 18% Gen-Z; 30%+ homens jovens; "fotografia vs. filme"
+- [[fontes/2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO]] — aprovação TSE 7 a 0; Kim como primeiro parlamentar
+- [[fontes/2025-10-24 - Não vai ter Missão]] — tentativa de bloqueio por Glauber Braga; resposta de Renan
+- [[fontes/2025-09-24 - Quer notícia boa]] — parecer favorável do MPE; contexto eleitoral sem Missão
+- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — primeira pesquisa com 2%; contexto da fundação
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Livro Amarelo; programa resumido

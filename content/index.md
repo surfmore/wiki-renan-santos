@@ -1,0 +1,662 @@
+---
+title: "Índice"
+---
+
+# Índice — Wiki Renan Santos
+
+Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à presidência da República, construído a partir das transcrições de seus vídeos.
+
+> **Aviso:** Este wiki foi produzido com auxílio de inteligência artificial (IA) a partir das transcrições dos vídeos do canal de Renan Santos no YouTube. O conteúdo reflete exclusivamente o que Renan Santos disse ou defendeu publicamente — não constitui verificação independente das afirmações. Apesar do cuidado na elaboração, o processo automatizado pode conter erros, omissões ou imprecisões. Se encontrar algum erro, entre em contato: **wikipoliticabr@gmail.com**
+
+## Temas
+
+- [[temas/Agronegócio e Matopiba]] — Matopiba como motor do Nordeste; refinarias, Ferrogrão e fertilizantes; vinícola São Joaquim SC: agro de alto valor agregado (abr/24). 6 fontes.
+- [[temas/Ambição Nacional e Soberania Tecnológica]] — 7 propostas de tecnologia: Simples Tech, stock options, TIB, matching israelense, Thiel Fellowship, capital gains, nômade digital (mar/20); falta de imaginação como adversário principal (abr/21); Conjuração Mineira/founding fathers (abr/21); Serra Verde US$2,8bi vendida bruta (abr/20); defesa aérea + terras raras (abr/27); disprósio/empresas mistas (mai/02); F1 com Embraer/WEG; cadeia de terras raras no Brasil: MAGBRAS, do mineral ao ímã/bateria (mai/21-23); Milei na forma + Bukele no conteúdo: ambição de potência regional (mai/23). 18 fontes.
+- [[temas/Carga Tributária]] — "Cobra como a Suécia, entrega como a África"; 1.200 produtos taxados 25%; MEI; eletrônicos; IPVA 1% sabotado. 8 fontes.
+- [[temas/Crítica à Direita Tradicional]] — direita inteira foi conivente com crimes da família Bolsonaro; Flávio: "defeitos do pai, nenhuma das qualidades" (mai/24); Flávio "feministo": apoia pauta feminista com Manuela Dávila (abr/13); centrão "grande câncer" R$65B (abr/25); accordão Flávio-Xandão; "Bolso Master" propaganda PT; Nikolas: havaianas em vez de legislar/detergente (mai/11); áudio Flávio-Vorcaro: quatro versões/caixa dois/MPE (mai/13-14); Flávio recusa debater Renan (mai/15); visita Vorcaro preso/desculpa inverossímil (mai/21); Faria Lima errou apostas (mai/23); PT e Bolsonaro igualmente no Master (mai/22). 64 fontes.
+- [[temas/Empobrecimento e Mercado de Trabalho]] — Estigma do fracasso vs. modelo americano; modelo asiático de desenvolvimento (fev/25); escala 6x1 e a armadilha da produtividade; assistencialismo 500% maior que PIB; Vale-Gás como compra de voto; Desenrola como compra de votos; "geração que fracassou". 16 fontes.
+- [[temas/Imigração e Fronteiras]] — Fronteira SC/Argentina: Bolsa Família para estrangeiros, proposta de acordo com Milei (abr/21); favela de venezuelanos em Londrina; proposta de fechar fronteira. 2 fontes.
+- [[temas/Infraestrutura e Estradas no Maranhão]] — Estradas, voçorocas, ponte de Estreito, Via Dutra, Estreito (MA). 13 fontes.
+- [[temas/Infraestrutura e Estradas no Paraná]] — Paraná: 4º PIB, estradas de mão dupla; pacto federativo; propostas de ferrovia e concreto. 1 fonte.
+- [[temas/Soberania Nacional e ONGs Estrangeiras]] — Financiamento estrangeiro a ONGs que bloqueiam infraestrutura, agro e fertilizantes; Soros e Instituto Marielle Franco; ONGs pró-descarceramento; PEC da Segurança como veículo de controle das polícias por ONGs. 8 fontes.
+- [[temas/Família e Paternidade]] — Ausência paterna como causa raiz do crime (FGV); "meteu cuidou"; combate à sexualização precoce. 2 fontes.
+- [[temas/Segurança Pública]] — Bahia: 2º mais violento; Jerônimo impede PM; velório em Dias d'Ávila; operações sem DPI são "enxugar gelo" (mai/24-25); Coroadinho: 80 hom/100k em 2014 (10x Ucrânia em guerra) (abr/14); Pedrinhas/PCM/Bonde dos 40 como escola do crime; modelo CECOT (abr/14); pena de morte: posição constitucional + reocupação do território (abr/28); Estado de defesa no dia 1; modelo El Salvador/Bukele (mai/04); Paraisópolis/PCC (mai/06); favelização SC: PGC+CV+775 ônibus em Joinville (abr/23); estados leniéticos Ceará/Bahia/Santa Quitéria (abr/26); origem do "prendeu matou": ciclista Vítor Felisberto + direito penal do inimigo (mai/12); Deolane/PCC: direito penal do inimigo para influenciadores (mai/22); Porto de Santos: estado de defesa na Baixada Santista/PCC (mai/23); Perry Shikida: penas altas/certeza da punição como dissuasão (mai/21). 81 fontes.
+- [[temas/STF e Ativismo Judicial]] — Padrão PT-STF-bolsonarismo contra Alessandro Vieira (abr/17); condenação Eduardo Bolsonaro: voto de vingança (abr/17); Rejeição de Messias (abr/29); prisão de ministros (abr/27); PT sacrifica Toffoli; 7 propostas; disposto a enfrentar STF (mai/08); derrubada da dosimetria: "semimonarquia com Xandão mandando" (mai/09); reafirmação na Sabatina Esfera e Marcha dos Prefeitos: 8.000 ações vs. 50; dosimetria: a favor do mérito, contra a anistia pura (mai/21-23). 41 fontes.
+- [[temas/Corrupção Municipal]] — Richard Rasmussen/PRF: punir honestos, proteger desonestos; Missão como instrumento de guerra (fev/25); censura Safadão: liminar proíbe Renan de denunciar shows (abr/27-29); R$52M em 50+ contratos (2024-25); DJ Alock Piauí R$1,8M/judiciário cúmplice (abr/26); "efeito Renan" abr/26; MP Paraíba vs Coxixola/Safadão (mai/03); festival Ceilândia/lavagem (mai/02); lei responsabilidade gerencial (mai/07); enchentes Recife (mai/08); Turilândia: motociata por prefeito ladrão/97% repasses/República de Turilândia (mai/13-15). 34 fontes.
+- [[temas/Mídia e Imprensa]] — PF como polícia política (abr/27); Safadão censura Renan (abr/27-29); imprensa ignora 3º lugar (abr/28); Folha, Globo, CNN; carnaval pró-Lula; Globo aliada conjuntural; recado formal à Globo: gráfico de citações/convite para cobertura (mai/13). 17 fontes.
+- [[temas/Desigualdade Regional e Migração Interna]] — Bahia: 1/3 pop. de SP mas maior Bolsa Família do país; Salvador 3ª mais favelizada; agro sabotado pelo governo baiano (mai/24-25); Barcelos (AM): R$ 1000/mês sem trabalhar, 97% repasses, IDH 0,5 (mar/20); Coroadinho: 35% de São Luís em favelas; "filial do inferno" (abr/14); SC x MA: São Miguel do Oeste IDH 0,801 vs Santo Antônio dos Lopes IDH 0,565 (abr/24); "roubo federativo"; Acre: Cameli condenado, 49% no BF (mai/08). 32 fontes.
+- [[temas/Judiciário e Supersalários]] — Judiciário mais caro do mundo; TJ-MG 11% do orçamento; desembargador investigado usa IA para absolver abusador; supersalários Câmara R$ 77K (Hugo Mota). 5 fontes.
+- [[temas/Pautas Identitárias e de Gênero]] — Abacatudo/Red Pill como espantalho; Flávio "feministo" + Novo + Moro apoiam pauta feminista (abr/13); Café com meu pai: indiciamento de influencer (abr/29); "Não haverá idade penal" (mai/04); PL Misoginia: espaços cinzentos (abr/30); Érika Hilton; feminicídio; autismo: "indústria do diagnóstico" e escola inclusiva forçada (mai/09-10); laudos falsos vendidos/BPC dobrado/João Campos cota (mai/15). 29 fontes.
+- [[temas/Política Externa e Geopolítica]] — Queda de Maduro/Trump; Brasil como "próximo caso"; nova Doutrina Monroe; Khamenei; BRICS; terceira via entre EUA e China. 7 fontes.
+- [[temas/Programa Nuclear Brasileiro]] — Proposta de bomba atômica; resposta ao cancelamento; Enéas Carneiro como precursor; "força é a única garantia"; terras raras como caminho para indústria bélica + bomba em 30 anos (mai/09). 4 fontes.
+
+## Posições
+
+- [[posicoes/Cidade-Estado da Guanabara]] — Rio de Janeiro como cidade-estado autônoma. 1 fonte.
+- [[posicoes/Criminalização da Incitação pelo Discurso de Ódio Político]] — Art. 286 CP; "nazista/fascista" como incitação ao crime; coautoria se alvo for agredido/morto. 2 fontes.
+- [[posicoes/Criminalização da Compra e Venda de Votos]] — 10 anos para quem vende, 20 para quem compra. 2 fontes.
+- [[posicoes/Desfavelização do Rio de Janeiro]] — Marco Nacional Desfavelização: R$ 900B/10 anos; tolerância zero invasões; escolas cívico-militares; prefeito perde direitos políticos (mar/27); 6 medidas com BOPE; Sobral como contraexemplo; invasão como "indústria da favela" (mai/12). 5 fontes.
+- [[posicoes/Emendas Parlamentares Condicionadas a Metas]] — Emendas só a municípios com bom desempenho; inelegibilidade de 8 anos; "lei de responsabilidade gerencial" shows/Safadão (mai/07); Marcha dos Prefeitos: "quem paga a banda escolhe a música"; art. 167 CF: despesa exige receita (mai/21). 7 fontes.
+- [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — Primeira medida de governo; mecanismo de afastamento de governador; programa 11 pontos para governadores (out/29). 3 fontes.
+- [[posicoes/Proposta para Governadores Anti-Crime]] — 11 pontos para governadores + pré-candidatos: guerra ao crime, direito penal do inimigo, Porto de Santos, prisão perpétua, proibição ONGs, desfavelização. 1 fonte.
+- [[posicoes/Expulsão de ONGs Estrangeiras]] — Bloquear financiamento estrangeiro; expulsar ONGs; "indústria da miséria". 5 fontes.
+- [[posicoes/Frente de Trabalho para o Bolsa Família]] — Modelo Roosevelt: frente de trabalho antes do benefício; relatos de dependência do interior nordestino. 4 fontes.
+- [[posicoes/Fusão de Municípios]] — Macromunicípios com metas de desempenho; caso Taubaté x Tocantins. 5 fontes.
+- [[posicoes/Plano para Moradores de Rua]] — Sete propostas: censo de guerra, internação compulsória, frentes de trabalho, proibição da mendicância; decisão de Moraes como obstáculo. 3 fontes.
+- [[posicoes/Proposta para Caminhoneiros]] — 7 medidas: tabela dinâmica, diesel nacional, biodiesel, corredor elétrico, MEI, penas, ferrovias. 1 fonte.
+- [[posicoes/Propostas para Educação]] — 7 propostas: método fônico, técnico alemão, escolas polo, voucher, bolsa empreendedor, fim de TODAS as cotas (incluindo social); fim da autonomia universitária/jubilamento de grevistas/endowments (mai/13). 3 fontes.
+- [[posicoes/Propostas para Polícia Militar]] — 7 propostas: apoio jurídico, piso salarial, seguro de vida, saúde mental, polícia científica, excludente, 2h delegacia. 1 fonte.
+- [[posicoes/Propostas para Saúde]] — 8 propostas: Ozempic no SUS, comida saudável, academias, saúde mental, genética, telemedicina, gestão por resultado, prontuário único+IA. 1 fonte.
+- [[posicoes/Propostas para o STF]] — 7 propostas: fim de decisões monocráticas, prazo obrigatório, filtro de acesso, transparência, tribunal político sorteável, veto senatorial, mandato com quarentena; reafirmadas na Marcha dos Prefeitos e Sabatina Esfera (mai/21-23). 3 fontes.
+- [[posicoes/Reforma Fiscal]] — R$ 3,3 trilhões em 10 anos, mexendo "em todas as mamatas"; sequência: cortar gastos no ano 1, impostos no ano 2; Zona Franca/supersalários/municipalismo (mai/13); desvinculação aposentadorias/BPC do salário mínimo; fim de gatilhos automáticos (mai/23). 3 fontes.
+- [[posicoes/Transparência Digital e Anticorrupção]] — IA para cruzar 80+ bases públicas; Bruno César/"Aceleracionismo Brasileiro"; restaurar COAF e prisão em 2ª instância. 2 fontes.
+- [[posicoes/Intervenção Federal em Estados com Baixo IDH]] — Interventor nível municipal: Barcelos (AM) IDH 0,5 sem status de município (mar/20); interventor + redução progressiva do repasse; Alagoas (dez/22), Pará/Barbalhos (dez/23), Arari (dez/19), Coribe (BA); Acre: Cameli condenado, 49% BF, proposta de intervenção (mai/08). 9 fontes.
+- [[posicoes/Reforma do Senado Federal]] — R$ 46M em bônus ilegais; representação distorcida; reduto de oligarcas; proposta de extinção ou esvaziamento. 1 fonte.
+- [[posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos]] — 14+ anos = adulto para crimes violentos; retorno de internação compulsória para psicopatas; caso Aracruz (dez/03). 1 fonte.
+- [[posicoes/Combate à Fraude Eleitoral via LDO]] — LDO 2025 legalizou gastos eleitoreiros 3 meses antes das eleições; Renan classifica como "golpe eleitoral." 1 fonte.
+
+## Pessoas
+
+- [[pessoas/Renan Santos]] — Fundador do MBL e Partido Missão; pré-candidato à presidência; ~7% Atlas (mai/22); 3º lugar consolidado; Marcha dos Prefeitos em Brasília (mai/21); Sabatina Esfera com Daniela Lima (mai/23); meta de 10% até junho. 9 fontes.
+- [[pessoas/Alexandre de Moraes]] — "Elemento de proteção" do Master (jan/15): fundo Reag/PCC, jatinho com advogado do banco; ligou para Galipolo sobre o Master (dez/23); esposa com contrato R$130M; beneficiado no "grande accordão" Magnitsky (dez/12); redigiu texto da dosimetria e depois a derrubou (mai/09-10). 16 fontes.
+- [[pessoas/Nikolas Ferreira]] — Deputado federal; votou a favor da PEC da Blindagem (set/16); devolveu relatoria PL anti-terrorismo por "medo" (set/27); elogiou rapper Pose do Rodo/CV (out/23); oportunista que silenciou sobre erros de Bolsonaro; havaianas em vez de legislar (mai/11). 9 fontes.
+- [[pessoas/Tabata Amaral]] — Deputada federal; puxadinhos x burocracia; votou contra licenciamento ambiental; solidariedade performática nas enchentes de Recife (mai/08). 2 fontes.
+- [[pessoas/Tarcísio de Freitas]] — Governador de SP; "candidatura do sistema": churrasco com Vorcaro, doação R$2M de Zettel, Campos Neto como futuro ministro; sem propostas de governo (dez/14). 2 fontes.
+- [[pessoas/Jerônimo Rodrigues]] — Governador da Bahia (PT); impede ação da PM; Bahia 2º mais violento; Salvador perde população (mai/24-25); leniência com CV e PCC (dez/18). 3 fontes.
+- [[pessoas/André Valadão]] — Pastor da Igreja Lagoinha; ameaçou processar Renan; ligações ao Banco Master via Fabiano Zettel/Natália Vorcaro e ONG Amar Brasil/INSS; COAF identifica fintechs religiosas; Lagoinha Belvedere fechou. 7 fontes.
+- [[pessoas/Silas Malafaia]] — Pastor; atacou Damares Alves por investigar igrejas no INSS; silêncio sobre a Lagoinha; protetor de aliados políticos segundo Renan. 3 fontes.
+- [[pessoas/Daniel Vorcaro]] — Banqueiro; controlador do Banco Master; preso em jan/2026; comparado a Epstein; pai Henrique Vorcaro preso em mai/14/2026 — descrito como o "verdadeiro arquiteto do negócio"; áudio de Flávio pedindo dinheiro vaza (mai/13); Fabiano Zettel como cunhado e operador. 75 fontes.
+- [[pessoas/Romeu Zema]] — Governador de MG (Novo); pré-candidato à presidência; pai de Vorcaro (Henrique) doou R$1M ao Novo/MG em 2022; propõe privatizar Petrobras (Renan critica como insuficiente); ultrapassado por Renan nas pesquisas Atlas em jan/2026; apagamento pela imprensa (abr/28). 21 fontes.
+- [[pessoas/Flávio Bolsonaro]] — "tem todos os defeitos do pai e nenhuma das qualidades"; derretimento natural; eleitor de direita foi pateta (mai/24); Admite fraqueza/não articulou contra Messias (abr/29); accordão com Xandão (mai/01); "Bolso Master" PT propaganda; Ciro Nogueira vice preso (mai/07); confessa que Moraes redigiu a dosimetria (mai/10); áudio pedindo dinheiro a Vorcaro vaza: quatro versões/caixa dois (mai/13-14); recusa debater Renan (mai/15); visita Vorcaro preso com desculpa inverossímil (mai/21). 36 fontes.
+- [[pessoas/Guido Mantega]] — Ex-ministro da Fazenda; recebeu R$1M/mês do Banco Master; elo entre Vorcaro e Lula, introduzido por Jaques Wagner. 2 fontes.
+- [[pessoas/Kim Kataguiri]] — PL roubo/celular sancionado (mai/04): até 25 anos à mão armada; pré-candidato governo SP; único de direita contra PEC Blindagem. 20 fontes.
+- [[pessoas/Oruam]] — Normalização do crime / morte de pai de família (mai/02); rapper porta-voz do CV; foragido fev/2026; candidatura a deputado estadual RJ 2026. 4 fontes.
+- [[pessoas/Ronaldo Caiado]] — Governador de Goiás; filiou-se ao PSD de Kassab (jan/2026); "puxa-saco do Bolsonaro" no jogo duplo do Kassab; empatado com Renan nas pesquisas. 2 fontes.
+- [[pessoas/Wagner Moura]] — Ator radicado no exterior; prêmio internacional jan/2026; Renan critica "elite cultural" financiada com dinheiro público. 1 fonte.
+- [[pessoas/João Campos]] — Prefeito do Recife; família Campos-Arrais; esquema do procurador PCD; propaganda sem infraestrutura; enchentes de Recife (mai/08); beneficiou amigo em concurso via cota de deficiente com diagnóstico autista (mai/15). 5 fontes.
+- [[pessoas/Érika Hilton]] — Usou AGU para processar jornalista Madeleine Lackso (abr/19); votou contra PL 1112/2023 (penas hediondos); "pessoas que gestam"; tentou "letramento" com Oruam. 5 fontes.
+- [[pessoas/Neymar]] — 7 associados com ligações ao crime organizado (MC Rian preso, Oruam, TH Joias, Buzeira, Rodrigo Morgado, José Celson Moraes, Bruno Alves); ONG recebeu R$1,16M de Deolane; influência sobre jovens. 2 fontes.
+- [[pessoas/Ciro Nogueira]] — Presidente do PP; lobista do Banco Master; ex-ministro de Bolsonaro; vice cogitado de Flávio; preso na operação compliance zero (mai/07); família controla Pedro II (PI) há 90 anos; R$40M de Joesley pela reeleição de Dilma; "homem mais poderoso do Brasil" (mai/12). 2 fontes.
+- [[pessoas/Família Barbalho]] — Oligarquia do Pará há mais de um século; Jader (criadouro de rãs para desviar dinheiro), Hélder (governador), Élder Filho (18 anos já na política). 1 fonte.
+- [[pessoas/Daniela Lima]] — Jornalista GloboNews; criticada por Renan por fazer chacota da queda de Bolsonaro na prisão; imprensa militante. 1 fonte.
+- [[pessoas/Jhonatan de Jesus]] — Ministro do TCU; relator do caso Banco Master; sinaliza reversão da liquidação; filho de senador de Roraima, indicado por Arthur Lira. 1 fonte.
+- [[pessoas/Ratinho Júnior]] — Governador do PR; Pay Brokers R$400K; mercado financeiro o tratou como "trade" após Tarcísio; retirou candidatura. 4 fontes.
+- [[pessoas/Davi Alcolumbre]] — Senador do Amapá; presidente do Senado; articulou derrubada da CPI do Banco Master em troca de dosimetria (abr/30); Amapá investe previdência de servidores em títulos do Master; "homem mais poderoso da política brasileira" (mai/21). 12 fontes.
+- [[pessoas/Wesley Safadão]] — Cantor forrozeiro; R$52M em 50+ contratos com prefeituras (2024-25); liminar para silenciar Renan (abr/27-29); MP da Paraíba aciona Coxixola onde cachê = 61% do orçamento de educação (mai/03). 10 fontes.
+- [[pessoas/Lula]] — Presidente da República; principal adversário eleitoral de 2026; "ladrão corrupto"; envolvido no Banco Master via Mantega; COP30/Janja; sindicato do irmão R$400M INSS; fraude eleitoral via LDO; "extremista disfarçado"; "painho" do Nordeste; racha com centrão após rejeição de Messias (abr/29). 13 fontes.
+- [[pessoas/Valdemar Costa Neto]] — Fundador e presidente do PL; "dono do bolsonarismo institucional"; preso junto com Zé Dirceu no Mensalão; R$953M de fundo eleitoral em 2026; declarou Messias "camarada de bem"; bloqueou impeachment STF; errou o lema na Paulista; "Valdemar tem que ter uma cela." 11 fontes.
+- [[pessoas/Jair Bolsonaro]] — Ex-presidente; destruiu a Lava-Jato para salvar Flávio da rachadinha; "foi covarde mas não merece crueldade"; preso nov/2025 (tom melancólico); doença na cadeia (Renan defende tratamento humanitário); abandonou Flávio após áudios vazados (mai/14). 8 fontes.
+- [[pessoas/Roberto Campos Neto]] — Ex-presidente do Banco Central; ignorou 38 alertas do mercado sobre o Banco Master; "amicíssimo" de Daniel Vorcaro; cotado como ministro da Fazenda de Tarcísio; "parte do esquema do Banco Master." 6 fontes.
+- [[pessoas/Fernando Haddad]] — Ministro da Fazenda; taxou 1.200 produtos, CPU/GPU, MEI, IPVA; "PT inimigo de quem trabalha"; Renan promete "revogaço" na 1ª semana; possível substituto de Lula em 2026 ("já está aquecendo"). 10 fontes.
+- [[pessoas/Fabiano Zettel]] — Cunhado de Vorcaro; pastor Lagoinha Belvedere; maior doador de Tarcísio 2022 (R$2M); resort Tayaya; festas com elite política/judicial; ilha US$13M; preso jan/2026; celular descrito como "bomba". 8 fontes.
+- [[pessoas/Dias Toffoli]] — Ministro do STF; resort Tayaya vendido via Zettel/JBS; liminar favorável ao Master; destruiu provas do COAF; "acordão" para cair como bode expiatório; "não tem a menor condição de estar no STF." 12 fontes.
+
+## Eventos
+
+- [[eventos/Escândalo Banco Master]] — Primeiros alertas jan/21; Vorcaro preso; tentativa de blindagem via Messias no STF (abr/29); Ciro Nogueira preso na "operação compliance zero" (mai/07); áudio Flávio-Vorcaro vaza: pedido de dinheiro/quatro versões/caixa dois/MPE acionado (mai/13-14); Flávio visita Vorcaro preso: desculpa inverossímil (mai/21). 46 fontes.
+- [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]] — Terceiro advogado pessoal de Lula rejeitado pelo Senado (abr/29); Flávio admite não ter articulado; primeira derrota histórica de Lula no STF. 4 fontes.
+- [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]] — Escola rebaixada; TSE nega ação 7 a 0; Lula é vaiado; evangélicos atacados; 5 carros alegóricos; Érika Hilton presidenta. 7 fontes.
+- [[eventos/Casamento Tabata Amaral e João Campos]] — Moraes presente; João Campos com investigação suspensa no STF; leitura de casamento dinástico. 1 fonte.
+- [[eventos/Caso do Cão Orelha]] — Evandro DKS/Roberta Zampieri/Igor nos EUA; porteiro coagido; carta aberta aos pais; jogo de sadismo no Discord; "operação abafa"; federalização pedida por Renan. 5 fontes.
+- [[eventos/Manifestação na Paulista — 11 de abril de 2026]] — Ato em defesa da delação premiada e contra a "operação marmelada" do STF; convocado após STF derrubar CPMI do INSS e Moraes mover ação para extinguir delação; contrato da esposa de Moraes com Vorcaro (R$80M). 3 fontes.
+- [[eventos/Manifestação do Banco Master 22 de janeiro de 2026]] — Ato organizado por Renan na frente do Banco Master em SP; roupa de trabalho, sem cor partidária; prisão de Vorcaro e impedimento de Oto Lobo na CVM. 5 fontes.
+- [[eventos/Prisão do Bolsonaro]] — Nov/22/2025; Renan: tom melancólico, sem glória para ninguém; desejo de recuperação de Bolsonaro; crítica a sucessores oportunistas. 1 fonte.
+- [[eventos/PEC da Blindagem — Setembro de 2025]] — 324 votos; Nikolas a favor; Kim único de direita contra; deal bolsonarismo-centrão; "passe livre para roubar". 2 fontes.
+- [[eventos/Rio de Janeiro em Guerra — Outubro de 2025]] — Drones com bombas; operação de Castro (100+ mortos); governo federal ausente; proposta de governadores simultâneos. 3 fontes.
+- [[eventos/Morte de Charlie Kirk - Setembro de 2025]] — Ativista americano assassinado; Renan em 4 vídeos (set/10–13): assimetria jurídica direita/esquerda; projeto de lei contra discurso violento. 4 fontes.
+- [[eventos/COP30 — Legado em Belém]] — R$ 4 bilhões gastos; cidade ficou mais degradada; Barbalhos enriquecidos; Janja/ONG/TCU; gringos envergonhados (nov/17); Berlim vs. Belém (nov/18); brasilificação (nov/19). 5 fontes.
+
+## Fontes (cronológico)
+
+### Maio de 2026
+
+- [[fontes/2026-05-26 - Vou mostrar pra todo mundo a malandragem do Lula!]] — Lula dá botijão de gás mas taxa os produtos; "uma mão dá, a outra tira"; popularidade não melhora mesmo com os benefícios.
+- [[fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!]] — Valdemar confirma inadvertidamente que Flávio foi cobrar Vorcaro; "será que ele é bobo ou quer tirar Flávio?"
+- [[fontes/2026-05-25 - O que Daniel Vorcaro tem a ver com a Vila Rabelo]] — BRB/DF comprou R$5B em títulos podres; Paulo Henrique Costa; Vila Rabelo 2: favela sem saneamento a 30min do Planalto
+- [[fontes/2026-05-25 - Resposta ao Luciano Huck]] — Huck tem razão sobre Bolsa Família; 40% dos domicílios no Nordeste; 5 propostas de Renan
+- [[fontes/2026-05-25 - O PT destruiu a Bahia]] — comunidade Luís Anselmo/Salvador; Salvador 3ª mais favelizada; população fugindo; PT governa desde 2006
+- [[fontes/2026-05-24 - A Bahia governada pelo PT já era]] — velório em Dias d'Ávila; Bahia 2º mais violento; Jerônimo impede PM; 1/3 pop. de SP mas maior Bolsa Família; anúncio de viagem pela Bahia
+- [[fontes/2026-05-24 - O caminho para a direita não é a família Bolsonaro]] — clip de TV; direita foi conivente com crimes da família; Flávio: "defeitos do pai, nenhuma das qualidades"; eleitor de direita tratado como pateta
+- [[fontes/2026-05-24 - Você viu o que falei]] — clip de TV; defesa da alegria com criminosos mortos; operações sem DPI são "enxugar gelo"; sequência econômica condensada
+- [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] — debate com Aldo Rebelo; reforma do STF; ajuste fiscal pela despesa; terras raras; coletiva
+- [[fontes/2026-05-23 - Recado para a Faria Lima]] — mercado financeiro errou apostas; Missão como candidatura real; apelo à Faria Lima
+- [[fontes/2026-05-23 - Por que eu quero fazer uma intervenção no Porto de Santos]] — PCC no porto; estado de defesa na Baixada Santista
+- [[fontes/2026-05-23 - O que fazer com o STF - Sabatina com Daniela Lima no Esfera]] — 8.000 ações vs. 50; fim monocráticas; tribunal por sorteio
+- [[fontes/2026-05-23 - Milei na forma e Bukele no conteúdo]] — paralelo com líderes da América Latina; resposta à TV
+- [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — PT e Bolsonaro igualmente envolvidos; cronologia completa
+- [[fontes/2026-05-22 - É meu destino encontrar Lula no debate]] — anedota de 1989; caráter de campanha
+- [[fontes/2026-05-22 - Deolane Bezerra presa!]] — lavagem PCC; direito penal do inimigo para influenciadores
+- [[fontes/2026-05-21 - RENAN AO VIVO - MARCHA DOS PREFEITOS EM BRASÍLIA]] — 27ª Marcha CNM; municípios e metas; terras raras; STF; coletiva de imprensa
+- [[fontes/2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA]] — maior evento de pré-campanha; ~7% Atlas; meta de 10% em junho
+- [[fontes/2026-05-21 - Quem paga a banda escolhe a música!]] — municipalismo; fundo partidário por desempenho; prefeito acima do deputado
+- [[fontes/2026-05-21 - O centrão é o verdadeiro problema do Brasil!]] — Alcolumbre e Ciro Nogueira como poder real; sistema de incentivos
+- [[fontes/2026-05-21 - Flávio Bolsonaro precisa de ajuda!]] — visita a Vorcaro preso; desculpa inverossímil
+- [[fontes/2026-05-21 - F3minicídi0 não existe]] — violência contra a mulher; Perry Shikida; contra PL Misoginia
+- [[fontes/2026-05-15 - Turilândia, no Maranhão, é um caso a ser estudado]] — Análise detalhada: 97% repasses federais, 0,48% com esgoto; "República de Turilândia"; Alcolumbre/Lira/Ciro Nogueira como padrão sistêmico.
+- [[fontes/2026-05-15 - Flávio Bolsonaro acabou comigo]] — Flávio recusa participar de debates com Renan; trackings mostram Renan perto de 10%; provocação direta.
+- [[fontes/2026-05-15 - Eu sou o maior inimigo da causa autista]] — BPC por autismo dobrou em São Paulo; operações contra laudos falsos; João Campos e cota de deficiente.
+- [[fontes/2026-05-15 - VAZOU! Faça sua doação para pix@partidomissao.com]] — Paródia do áudio Flávio-Vorcaro como campanha de doações ao Partido Missão.
+- [[fontes/2026-05-14 - Um bairro de São Paulo está esperando essa ponte há décadas]] — Pacto federativo e ponte de Pirituba/Lapa: 40 anos de espera; São Paulo como "vaquinha leiteira".
+- [[fontes/2026-05-14 - Lula venceu a eleição]] — Apresentação de Renan em terceira pessoa; histórico de coerência anticorrupção; pesquisas Atlas e Nexus.
+- [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]] — Quatro versões de Flávio; filme como fachada para caixa dois; convite a Zema e Caiado para MPE.
+- [[fontes/2026-05-14 - Convite para Zema e Caiado!]] — Versão alternativa do vídeo acima (conteúdo idêntico).
+- [[fontes/2026-05-13 - VAZA ÁUDIO ENTRE DANIEL VORCARO E FLÁVIO BOLSONARO]] — Versão alternativa do vídeo abaixo (conteúdo idêntico).
+- [[fontes/2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora]] — Reação ao áudio; "Partido da Corrupção"; Flávio + Xandão para a cadeia; Zema como "próximo escolhido".
+- [[fontes/2026-05-13 - RENAN VISITA A FÁBRICA DA AETHRA - Pouso Alegre - MG]] — Discurso aos trabalhadores; reforma política por desempenho; corte de gastos em sequência; segurança pública; BPC e MCMV.
+- [[fontes/2026-05-13 - Por que a Rede Globo fica me escondendo]] — Recado formal à Globo: apagamento deliberado; gráfico de citações; convite para cobertura.
+- [[fontes/2026-05-13 - POPULAÇÃO DE TURILÂNDIA COMEMORA SOLTURA DE PREFEITO PRESO POR DESVIAR R$ 56 MILHÕES]] — Reação visceral às imagens da motociata; dinheiro é de outros estados; "povo sem virtude".
+- [[fontes/2026-05-13 - O que os estudantes da USP fizeram]] — Greve de 28 dias custou R$ 643M; proposta: fim da autonomia, jubilamento de grevistas, endowments.
+- [[fontes/2026-05-12 - Você sabe quem é o homem mais poderoso do Brasil]] — Perfil de Ciro Nogueira: família, Pedro II (PI), R$40M Joesley, Banco Master, Operação Compliance Zero.
+- [[fontes/2026-05-12 - URGENTE - a nova mentira do Lula]] — Taxa das blusinhas criada por Lula e revogada como "presente"; Flávio elogia Lula.
+- [[fontes/2026-05-12 - Tutorial sobre como ganhar um apartamento em São Paulo]] — Ciclo de invasão → apartamento; "indústria da favela"; invasão como crime inafiançável.
+- [[fontes/2026-05-12 - A origem do prendeu matou]] — Ciclista Vítor Felisberto; bordão criado numa live; direito penal do inimigo como proposta concreta.
+- [[fontes/2026-05-11 - Eu fui na casa que Ayrton Senna cresceu]] — Homenagem ao piloto; contraponto ao sal na casa de Lula; Senna como metáfora de excelência.
+- [[fontes/2026-05-11 - Conheça a rua do medo que fica no bairro de maior qualidade de vida em São Paulo]] — Rua Joaquim Antunes, Pinheiros (IDH 0,96); roubo de celular; impunidade; Smart Sampa.
+- [[fontes/2026-05-11 - Bora tomar detergente]] — Crítica à "direita idiota"; detergente Ypê; Nikolas/havaianas vs. Kim/legislação; abuso intelectual de idosos.
+- [[fontes/2026-05-10 - Renan é autista Por que razão ele foi cancelado]] — Resposta às mensagens; José Salomão Schwartzman; autismo nível 1 como identidade; história da infância de Renan.
+- [[fontes/2026-05-10 - Flávio Bolsonaro confessou o acordo com o Alexandre de Moraes]] — Flávio admite que Moraes redigiu a dosimetria; sem propostas próprias; imita Renan.
+- [[fontes/2026-05-09 - Xandão derrubou a dosimetria]] — Decisão abusiva; Congresso deve reafirmar; "semimonarquia"; Dia das Mães.
+- [[fontes/2026-05-09 - Renan foi DESTRUÍDO Ou é o novo Enéas]] — Enéas Carneiro como precursor; terras raras para indústria bélica; bomba atômica em 30 anos.
+- [[fontes/2026-05-09 - Lula ficou COMPLETAMENTE MALUCO]] — Sátira: Lula propõe "aqui é do povo" para combater o CV.
+- [[fontes/2026-05-09 - Letícia Sabatella autista]] — Lei Berenice Piana; "indústria do diagnóstico"; escola inclusiva forçada; BPC fraudado.
+- [[fontes/2026-05-08 - O Acre deveria ser um Estado]] — Cameli condenado 26 anos; 49% BF; 3,9% saem sabendo ler; proposta de intervenção federal.
+- [[fontes/2026-05-08 - Tabata Amaral é solidária com o Recife]] — Enchentes no Recife; crítica a João Campos e Tabata Amaral.
+- [[fontes/2026-05-08 - RENATO CARIANI COMENTA SOBRE SHOWS EM CIDADES MISERÁVEIS]] — Renato Cariani endossa pauta de shows em cidades miseráveis.
+- [[fontes/2026-05-08 - Lula ficou COMPLETAMENTE MALUCO.]] — Ironiza declaração de Lula sobre combater crime "falando que é do povo".
+- [[fontes/2026-05-08 - Eu estou disposto a enfrentar o STF]] — Renan declara que descumpriria decisões do STF que bloqueassem desfavelização e estado de defesa.
+- [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]] — Missão como projeto de vida; fracasso = fracasso pessoal.
+- [[fontes/2026-05-07 - Não queremos mais pagar essa conta]] — Mensagem geracional: contas herdadas de PT e Bolsonaro.
+- [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]] — Propõe "lei de responsabilidade gerencial" para shows em municípios.
+- [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]] — Ciro Nogueira preso na operação compliance zero; lobista do Banco Master.
+- [[fontes/2026-05-07 - A minha geração fracassou!]] — Geração dos 30-45 anos; diploma sem renda; culpa o Lula.
+- [[fontes/2026-05-06 - O ÚNICO que fala de todos os lados do Banco Master]] — Critica polarização bipartidária no escândalo.
+- [[fontes/2026-05-06 - O que é o prendeu m4tou]] — Explica o conceito; critica código penal e sistema investigativo.
+- [[fontes/2026-05-06 - O FUTURO É GLORIOSO!]] — Bastidores: idosa de 96 anos se filia à Missão.
+- [[fontes/2026-05-06 - Lula acha que é bom você se endividar]] — Critica Desenrola como compra de votos; propõe alternativas.
+- [[fontes/2026-05-06 - Eu fui em Paraisópolis, que está tomada pelo PCC]] — Paraisópolis: 60k hab., IDH 0,6, PCC, proposta de desfavelização.
+- [[fontes/2026-05-05 - Você é a favor ou contra pregação em aviões]] — Critica pregação em aviões; defende respeito ao espaço público.
+- [[fontes/2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui]] — Bukele como modelo; desfavelização + estado de defesa; 50 milhões sob influência do crime.
+- [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estupro coletivo]] — São Miguel Paulista; PL 1112/2023 contra; "não haverá idade penal" para hediondos.
+- [[fontes/2026-05-04 - O projeto mais importante da última década acaba de ser sancionado]] — PL Kim Kataguiri sancionado; roubo celular até 25 anos; "mais importante dos últimos 10 anos".
+- [[fontes/2026-05-03 - TIRE SEU TÍTULO DE ELEITOR IMEDIATAMENTE]] — Convocação a jovens 15-18 anos; eleição = guerra de modelos; Banco Master, Valdemar, Zé Dirceu.
+- [[fontes/2026-05-03 - O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO]] — MP Paraíba aciona Coxixola (100 hab.); cachê Safadão = 61% orçamento educação; R$5,3bi anuais em shows.
+- [[fontes/2026-05-03 - Belford Roxo é pior que o Maranhão]] — IDH abaixo do MA; miliciano condenado na secretaria; Flávio apoia Canela para o Senado RJ.
+- [[fontes/2026-05-02 - Um festival de música negra sem músico negro, mas com muito dinheiro público]] — Ceilândia; zero artistas negros; Sol Nascente (maior favela do Brasil); lavagem pelo tráfico.
+- [[fontes/2026-05-02 - Tão roubando o seu disprósio!]] — Terra rara exportada quase bruta; Trump estatiza empresa; proposta de empresas mistas para subir na cadeia produtiva.
+- [[fontes/2026-05-02 - Oruam m4t0u um pai de família]] — Pai de 28 anos morto diante do filho de 7; cadeia de responsabilidade difusa; "guerra civil".
+- [[fontes/2026-05-02 - Coroadinho não esqueceu de mim!]] — Artistas grafitam em protesto; nada mudou; prefeito sem cumprir metas perde direito político.
+- [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão.]] — Accordão Flávio-Moraes-Alcolumbre; CPI Master morta pela dosimetria; padrão de traições.
+- [[fontes/2026-05-01 - A proposta mais burra que você vai ver hoje]] — PL IPTU/Cleitinho: populismo que encarece aluguel; perfil oportunista de Cleitinho; pré-candidato MG "suicídio".
+
+### Abril de 2026
+
+- [[fontes/2026-04-30 - Minha resposta sobre o PL da Misoginia]] — Contra o PL; espaços cinzentos; problema real = segurança física das mulheres.
+- [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] — PT+centrão+bolsonarismo suprimem CPI Master; interesse de Alcolumbre; Missão vai judicializar.
+- [[fontes/2026-04-30 - Flavio Bolsonaro é a única salvação contra Lula]] — "Bolso Master" propaganda PT; Flávio fraco; Nexos: Renan rouba votos do PT no Nordeste.
+- [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]] — Estado de defesa em estados leniéticos; Ceará/Bahia; Santa Quitéria tomada pelo CV enquanto discutiam Pena Justa.
+- [[fontes/2026-04-26 - O Brasil não é para amadores!]] — DJ Alock no Piauí R$1,8M; juiz cancelou, desembargador reverteu; lei de responsabilidade gerencial.
+- [[fontes/2026-04-26 - Lula é um picareta!]] — Brasil ultrapassado por Botswana; Lula culpado por oportunidades perdidas; Flávio como "tongo".
+- [[fontes/2026-04-26 - Conhecem o efeito Renan]] — Pinheirinho → operação policial; Imperatriz → obra retomada; SC e MA "mais parecidos do que imaginam".
+- [[fontes/2026-04-25 - Resposta sobre o bairro de Pinheirinho, em Criciúma]] — Governador SC negou problema; internação compulsória proibida; Marcelo Brigadeiro pré-candidato SC.
+- [[fontes/2026-04-25 - O grande câncer da política brasileira]] — Centrão como maior problema; emendas chegando a R$65B; condicionamento a desempenho.
+- [[fontes/2026-04-24 - Santa Catarina x Maranhão - o duelo final!]] — São Miguel do Oeste (IDH 0,801) vs Santo Antônio dos Lopes (IDH 0,565); paradoxo do PIB vs qualidade de vida.
+- [[fontes/2026-04-24 - Eu sou o pré-candidato que mais cresce!]] — Passou governadores, 3º lugar; metáfora do gesso; proposta, não fofoca.
+- [[fontes/2026-04-24 - Essa vinícola vai te mostrar todo o potencial do agro]] — São Joaquim SC; mais imposto vinho nacional que importado; agro de alto valor agregado.
+- [[fontes/2026-04-24 - Erika Hilton e escala 6x1]] — Érika Hilton 122 faltas; não estava na votação da CCJ da própria PEC; PEC como marketing eleitoral.
+- [[fontes/2026-04-23 - Santa Catarina, não podemos deixar que a favelização tome conta do estado!]] — Pinheirinho tomado pelo PGC/CV; +50% favelas em SC; 775 ônibus irregulares em Joinville.
+- [[fontes/2026-04-23 - O que fazer com crackudo]] — Internação compulsória; ONG Crack Resiste; faculdades mentais do usuário; vacina do crack.
+- [[fontes/2026-04-23 - Não sobra NADA...]] — Pacto federativo = "roubo federativo"; fundo partidário condicionado ao desempenho dos prefeitos.
+- [[fontes/2026-04-23 - Catarinense, está na hora de você ter o que você merece]] — Guaraciaba SC: obra PAC 1 Dilma 14 anos parada; SC doadora líquida no pacto.
+- [[fontes/2026-04-22 - Um sonho de um país diferente vai dar certo.]] — Rejeita hipótese de 2º turno Flávio vs Lula; histórico: vice-pres. comitê impeachment; fundou MBL, Missão, revista, app.
+- [[fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF]] — Tentativa de Lula de emplacar 3º advogado pessoal no STF; PL participa do acordão.
+- [[fontes/2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele]] — Flávio esconde proposta; Zema privatizar Petrobras; PEC Renan: R$ 3,3 trilhões em 10 anos.
+- [[fontes/2026-04-29 - Fui censurado pelo Wesley Safadao]] — Liminar proíbe Renan de falar sobre shows públicos de Safadão.
+- [[fontes/2026-04-29 - FLÁVIO É FRACO]] — Flávio admite não ter articulado contra Messias; rabo preso com Toffoli e Gilmar.
+- [[fontes/2026-04-29 - Existe democracia no Maranhão]] — Democracia de fachada; voto cooptado; critérios para intervenção municipal.
+- [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]] — Centrão rachado com Lula; janela eleitoral 2026 se abre.
+- [[fontes/2026-04-29 - Café com teu pai]] — Influencer indiciado por misoginia; Renan critica paternalismo judicial.
+- [[fontes/2026-04-29 - BESSIAS REJEITADO!]] — Derrota histórica: Messias rejeitado pelo Senado; inédito no PT.
+- [[fontes/2026-04-28 - Por que esquecem da minha existência]] — Atlas: 5,3% (3º lugar); imprensa omite e destaca Zema.
+- [[fontes/2026-04-28 - Pena de morte no Brasil]] — Pena de morte: cláusula pétrea; reocupação do território como guerra do Estado.
+- [[fontes/2026-04-28 - CONTINUAMOS SUBINDO!]] — Atlas ~6%, Nexus 4%; composição de voto transversal; previsão do segundo turno.
+- [[fontes/2026-04-27 - Wesley Safadão não quer que eu seja Presidente]] — R$ 52M em 50+ shows municipais (2024-25); relação com deputado/jatinho.
+- [[fontes/2026-04-27 - Seu futuro pode ser diferente]] — Discurso motivacional; Brasil entre as 5 maiores nações; "isso é o passado".
+- [[fontes/2026-04-27 - PF do Lula censura cidadão]] — PF intimidou cidadão com banner "ladrão" perto de evento de Lula; "isso é ditadura".
+- [[fontes/2026-04-27 - O que eu penso sobre prisão de ministros do STF]] — Moraes e Toffoli deveriam estar presos; Flávio impede ação do Senado.
+- [[fontes/2026-04-21 - Nosso maior adversário é a falta de imaginação.]] — Falta de imaginação como adversário; Flávio e Lula como "mesmo arranjo fracassado"; Valdemar "precisa de cela".
+- [[fontes/2026-04-21 - Minas Gerais país independente]] — Dia de Tiradentes; Conjuração Mineira como "founding fathers" brasileiros; resgate histórico como projeto de governo.
+- [[fontes/2026-04-21 - EU INVADI A ARGENTINA]] — Fronteira SC/Argentina sem fiscalização; Bolsa Família para estrangeiros; proposta de acordo com Milei.
+- [[fontes/2026-04-20 - O Maranhão pode ser melhor do que isso]] — Sul do Maranhão (Estreito, Imperatriz, Balsas); visão positiva do potencial do estado; classe política como obstáculo.
+- [[fontes/2026-04-20 - O Brasil acaba de vender uma mina de terras raras!]] — Serra Verde (GO) vendida por US$2,8bi para empresa americana; terras raras exportadas brutas; proposta de downstream obrigatório.
+- [[fontes/2026-04-20 - Esse menino é um herói!]] — Menor em legítima defesa mata invasor de domicílio; legítima defesa independe da idade; crítica à equiparação com menores em facções.
+- [[fontes/2026-04-19 - Erika Hilton x Madeleine Lackso]] — Érika Hilton usou AGU para processar jornalista Madeleine Lackso; perseguição "vazia" por reportagem de PL arquivado.
+- [[fontes/2026-04-18 - Fui ameaçado pelo pai do Neymar]] — Pai de Neymar ameaça processo; ONG recebeu R$1,16M de Deolane Bezerra ligada ao MC Rian; lista ampliada de associados.
+- [[fontes/2026-04-18 - Eu de extrema-direita]] — Rejeita rótulo de "extrema direita"; rótulos como clichês; foca em resolver problemas concretos.
+- [[fontes/2026-04-17 - Você vai TRABALHAR.]] — Confirmação direta da proposta de frente de trabalho; "ou rala ou rola"; CLT paga conta de quem não quer trabalhar.
+- [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]] — Alessandro Vieira perseguido por STF+PT+Flávio; "toda vez que enfrenta o sistema, os três trabalham juntos"; proposta de tribunal político sorteável.
+- [[fontes/2026-04-17 - Eduardo Bolsonaro será preso!]] — Moraes vota pela condenação de Eduardo; voto descrito como "vingança"; Renan defende mesmo sendo adversário; risco de inelegibilidade.
+- [[fontes/2026-04-16 - Classe política do Maranhão versus EU]] — Iildo Rocha liderou nota de repúdio; Renan reafirma "Coroadinho = filial do inferno"; 15% analfabetismo; nota como "motivo de orgulho".
+- [[fontes/2026-04-16 - Azul caneta]] — Influenciador maranhense candidato a deputado; sem preparo; peões do centrão mais perigosos que políticos tradicionais; Partido Missão como alternativa.
+- [[fontes/2026-04-15 - Recado para Neymar]] — Operação Narcobet; MC Rian preso; lista de 7 associados de Neymar ligados ao crime; influência sobre jovens brasileiros.
+- [[fontes/2026-04-14 - Ameaçado por chamar Coroadinho de filial do inferno]] — Coroadinho: 35% de SL em favelas; Bonde dos 40; interventor federal proposto; prefeito Braide.
+- [[fontes/2026-04-14 - Presídio de Pedrinhas]] — Histórico PCM vs. Bonde dos 40; escola do crime; modelo CECOT/El Salvador.
+- [[fontes/2026-04-14 - O que é melhor no Maranhão]] — Humor: presídio vence em duelo contra estradas, educação, saneamento, classe política.
+- [[fontes/2026-04-14 - Lideranças do Coroadinho repudiam Renan]] — Repúdio de associação; 80 homicídios/100k em 2014; "discurso coitadista"; promete acabar com favelas.
+- [[fontes/2026-04-13 - CANCELARAM O ABACATUDO POR MISOGINIA]] — Abacatudo; "Café com teu pai"; Flávio "feministo"; direita apoia pauta feminista por votos.
+- [[fontes/2026-04-13 - MAIS UM RECORDE DO BRASIL]] — Carga tributária a 32,4% do PIB; defesa da reforma fiscal.
+- [[fontes/2026-04-13 - Eu fui na cidade que está sendo engolida por buracos]] — Buriticupu (MA); defesa de intervenção federal.
+- [[fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão]] — ONGs, Ferrogrão e soberania.
+- [[fontes/2026-04-12 - POLEMICA SOBRE O VALE-GAS DO LULA]] — Crítica ao Vale-Gás do governo Lula.
+- [[fontes/2026-04-12 - Finalmente fui chamado de nazista nas redes sociais]] — Ataques pessoais e pedido de doações.
+- [[fontes/2026-04-12 - Essa cova foi cavada a mão]] — Santa Inês (MA); compra de votos e shows municipais.
+- [[fontes/2026-04-11 - Feedback Loop e eleições]] — Datafolha, Globo e a estratégia do loop negativo.
+- [[fontes/2026-04-11 - EU FUI NA CIDADE MAIS POBRE DO BRASIL]] — Marajá do Sena (MA); tese da fusão de municípios.
+- [[fontes/2026-04-11 - ESSA AQUI E POLEMICA]] — Estado de defesa como primeira medida de governo.
+- [[fontes/2026-04-10 - Vamos brincar de amarelinha]] — MA-06; crítica ao governador Brandão.
+- [[fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês]] — Refinaria da Inpasa em Balsas.
+- [[fontes/2026-04-10 - FUI SEQUESTRADO NO MARANHÃO]] — Pedra Caída; transcrição inválida, não ingerido.
+- [[fontes/2026-04-10 - Direita, centro e esquerda no Banco Master]] — Lista de nomes na folha de pagamento do Master.
+- [[fontes/2026-04-10 - Como podemos enriquecer esses 4 estados]] — Matopiba e industrialização do agro.
+- [[fontes/2026-04-09 - Você lembra dessa ponte aqui]] — Ponte de Estreito; 14 mortos, R$ 20 mi de sobrepreço.
+- [[fontes/2026-04-09 - Pneu furado no meio de uma BR no Maranhão]] — BR federal esburacada; "não tenho jatinho".
+- [[fontes/2026-04-09 - Xandão quer mudar delação premiada]] — Moraes tenta derrubar delação premiada às vésperas da delação de Vorcaro.
+- [[fontes/2026-04-08 - Quem é o rei do bloquete em Imperatriz]] — Imperatriz; ciclo do bloquete.
+- [[fontes/2026-04-08 - Pinto do Equador e Juliana do Bonde]] — Rorainópolis (RR); conexão com o TCU e o Master.
+- [[fontes/2026-04-08 - 400 milhões pra Camaçari]] — Camaçari (BA); BYD e "industrialização sem indústria".
+- [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]] — Rachadinha, Adriano da Nóbrega, Valdemar, Willer Tomás.
+- [[fontes/2026-04-07 - O PCC chegou no interior do Maranhão]] — PCC em Vilinha (Imperatriz); mecanismo de afastamento de governador.
+- [[fontes/2026-04-07 - A ferrogrão está sendo sabotada]] — Números da Ferrogrão; "lobby gringo".
+- [[fontes/2026-04-06 - Centro de Monitoramento de Pouso Alegre]] — Reconhecimento facial e vereador "Russo".
+- [[fontes/2026-04-06 - Quem quer peixe]] — Nunes Freire, Gandu e Pernambuco; peixes na Semana Santa.
+- [[fontes/2026-04-06 - Juliana do Bonde em Guajará-Mirim]] — RO; R$ 1 mi em show e fusão de municípios.
+- [[fontes/2026-04-05 - Lixo em energia em Pouso Alegre]] — Usina termoquímica e o "Pezão"; menção à EMTU/Mike no Banco Master.
+- [[fontes/2026-04-05 - Um vídeo de Páscoa]] — Reflexão sobre o "pior momento moral" do Brasil.
+- [[fontes/2026-04-05 - O Brasil está empobrecendo]] — "Estelionato eleitoral" e agenda econômica completa.
+- [[fontes/2026-04-05 - O agro brasileiro pode quebrar]] — Fosfato, potássio e "terrorismo ambiental".
+- [[fontes/2026-04-04 - Estado da Guanabara]] — Rio como cidade-estado autônoma.
+- [[fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG]] — Ambição nacional em engenharia.
+- [[fontes/2026-04-03 - PREVISÃO SOBRE O STF]] — Barroso, Marco Aurélio e prisão em 2ª instância.
+- [[fontes/2026-04-02 - A OPERAÇÃO MARMELADA começou]] — STF tenta enterrar a delação de Vorcaro.
+- [[fontes/2026-04-01 - Um pedido de desculpas]] — Sátira de 1º de abril.
+- [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]] — Carta aberta aos ex-eleitores de Bolsonaro.
+- [[fontes/2026-04-01 - Eu odeio mendigo]] — Sete propostas para moradores de rua.
+
+### Março de 2026
+
+- [[fontes/2026-03-02 - VOU ACABAR COM AS FAVELAS]] — Desfavelização nacional; < 1 trilhão; Salvador, Recife e Rio.
+- [[fontes/2026-03-02 - PETISTAS TENTARAM IMPEDIR DOAÇÕES EM JUIZ DE FORA]] — PT bloqueia doações em desastre; "politização desnecessária".
+- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]] — Irônico: discurso de Flávio sem citar ninguém; Valdemar no palco.
+- [[fontes/2026-03-02 - MINAS GERAIS, VAMOS FALAR DO TRIBUNAL DE JUSTIÇA]] — TJ-MG: 11% do orçamento; 700 juízes com R$ 200K/mês; "rei dos penduricários" com R$ 2M/ano.
+- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]] — Bolsopetismo: PL promete dosimetria, Valdemar diz que não vai rolar.
+- [[fontes/2026-03-01 - VIM ATÉ A IGREJA LAGOINHA BELVEDERE EM BH]] — Fabiano Zettel; Moria Assets; Oak Berry; duplo padrão santo/financeiro.
+- [[fontes/2026-03-01 - O DESABAFO DESSE POLICIAL EMOCIONOU A TODOS]] — Sargento de 16 anos faz Uber para sobreviver; símbolo da injustiça.
+- [[fontes/2026-03-01 - JUÍZA NÃO ESTÁ RECEBENDO LANCHE]] — Juíza aposentada com R$ 120K/mês se queixa; judiciário mais caro do mundo.
+- [[fontes/2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA]] — Pomerode (SC): 190 famílias no BF; modelo oposto a Itabau.
+- [[fontes/2026-03-08 - 7 propostas pro STF]] — 7 propostas de reforma: monocrática, prazo, filtro, transparência, tribunal sorteável, veto senatorial, mandato.
+- [[fontes/2026-03-07 - Quando que esses homens tiveram licença pra atacar mulheres desse jeito]] — Leonardo Svarik (Globo); machismo de jornalistas gays contra mulheres de direita.
+- [[fontes/2026-03-07 - Kim Kataguiri será investigado por possível desvio em emendas]] — Emendas desviadas em Osasco; Kim pede investigação de si mesmo; Resolução Kim Kataguiri.
+- [[fontes/2026-03-07 - Acredite se quiser - a rede Globo está salvando o Brasil]] — Globo confirma com software que número de Moraes trocou mensagens com Vorcaro.
+- [[fontes/2026-03-06 - Que Brasil vou pegar ano que vem]] — Diagnóstico de "não país"; estado de defesa no dia 5; analogia com Milei.
+- [[fontes/2026-03-06 - O LULA ME RESPONDE UMA COISA]] — Interpelação direta a Lula sobre reunião com Vorcaro; contratos de R$1M/mês.
+- [[fontes/2026-03-06 - COMEÇOU A CENSURA CONTRA MIM]] — Instagram derruba vídeo de abuso + proposta de pena dura; suspensão de funcionalidades por 1 ano.
+- [[fontes/2026-03-05 - Precisamos falar algo delicado]] — Ausência paterna como causa raiz do crime (FGV); "meteu cuidou".
+- [[fontes/2026-03-05 - No meu governo vai ter iPhone e picanha]] — Corte de impostos em eletrônicos; crítica a Haddad taxando o trabalhador.
+- [[fontes/2026-03-05 - FAVELA É UMA M3RDA SIM]] — Debate sobre cultura e desfavelização; R$ 900 bilhões; bairro pobre ≠ favela.
+- [[fontes/2026-03-05 - ESSE PODE SER O FIM DO INQUÉRITO DAS FAKE NEWS]] — Vorcaro ameaça enviar site ao Inquérito; reuniões não-registradas com Moraes.
+- [[fontes/2026-03-05 - APELO AO ALEXANDRE DE MORAES]] — Apelo de ex-aluno da USP para encerrar o Inquérito; "chamado à razão".
+- [[fontes/2026-03-04 - SENADO APROVA PL DO KIM QUE AUMENTA PENA PARA VAGABUNDO]] — PL de roubo e receptação aprovado; comemoração com Kim Kataguiri.
+- [[fontes/2026-03-04 - HADDAD QUER SABOTAR O PROJETO DE 1% DE IPVA DO KIM KATAGUIRI]] — Haddad mobiliza base contra PEC do IPVA; "transferência de renda de quem trabalha para quem vota no PT".
+- [[fontes/2026-03-04 - Eu vou transformar o Nordeste na Arábia Saudita]] — 92% da geração eólica; zonas econômicas especiais; data centers; OpenAI na Argentina.
+- [[fontes/2026-03-04 - EU VOU ACABAR COM O BOLSA FAMÍLIA]] — Frente de trabalho Roosevelt; 20M de famílias; Reagan: "a melhor política social é o emprego".
+- [[fontes/2026-03-04 - Campinas deveria ser o Vale do Silício brasileiro]] — Superfaturamento, propina, favela Campo Belo; Viracopos.
+- [[fontes/2026-03-03 - MC MELODY PASSA MAL COM O MARANHÃO]] — Grajaú: R$ 300K em show sem esgoto; critérios objetivos para prefeitos.
+- [[fontes/2026-03-03 - Esse é o chá revelação mais importante do Brasil]] — Chá de revelação viral; ciclo novinha + Noia; FGV 2007; combate à sexualização precoce.
+- [[fontes/2026-03-03 - ATENÇÃO - querem sabotar um projeto de segurança pública do kimkataguiri]] — PT e Centrão tentam bloquear PL no Senado; lobby do PCC.
+- [[fontes/2026-03-13 - Um homem pode salvar Dias Toffoli e Xandão hoje]] — Voto de Cásio Nunes; delação pronta; barco em Dubai.
+- [[fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA]] — Flávio sabota CPI de Alessandro Vieira; padrão de traição.
+- [[fontes/2026-03-13 - O Paraná é sabotado e eu posso te provar]] — 4º PIB; estradas de mão dupla; pacto federativo.
+- [[fontes/2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina]] — Imigração venezuelana; PT e Maduro; fechar Roraima.
+- [[fontes/2026-03-13 - Erika Hilton será cassada]] — Pedido de cassação; machismo inverso; Kim Kataguiri.
+- [[fontes/2026-03-13 - Daniel Vorcaro vai DELATAR]] — Prisão mantida; delação iminente; #delaVorcaro.
+- [[fontes/2026-03-12 - VÃO SOLTAR O DANIEL VORCARO AMANHÃ]] — Véspera do voto; composição da turma.
+- [[fontes/2026-03-12 - 7 propostas para a Polícia Militar]] — Apoio jurídico, piso, seguro, saúde mental, excludente, 2h.
+- [[fontes/2026-03-11 - Vim no resort do Toffoli mostrar a parte de jogos]] — Pay Brokers; Ratinho R$400K; Cred.
+- [[fontes/2026-03-11 - Boulos quer destruir os apps de entregas]] — Piso mínimo = fim do mercado de entregas.
+- [[fontes/2026-03-11 - Eu farei o governo mais duro contra a criminalidade]] — 60 anos para reincidentes; por que legisladores enfraquecem as leis.
+- [[fontes/2026-03-11 - 7 propostas para a educação]] — Método fônico; técnico alemão; escolas polo; voucher; bolsa empreendedor.
+- [[fontes/2026-03-10 - Precisamos falar sobre MULHER DE BANDIDO]] — Marta Graeff; alpinismo social; Kim convoca para o Congresso.
+- [[fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA]] — Flávio Dino beneficia Lulinha; simetria direita/esquerda.
+- [[fontes/2026-03-10 - Acho que descobri a cidade mais bizarra do Brasil]] — Presidente Vargas (MA): família de coronéis; 113 corrupções; 21 escolas fantasmas.
+- [[fontes/2026-03-09 - Você acha o povo brasileiro civilizado]] — Civilidade; Singapura como modelo; punição em espaço público.
+- [[fontes/2026-03-09 - Eu fui no resort do Toffoli, o tal do Tayaya]] — JBS R$10B; advogado JBS comprou resort; Ciro Nogueira; Fabiano Zettel.
+- [[fontes/2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL]] — Ozempic; comida saudável; saúde mental R$78B; genética; telemedicina; prontuário+IA.
+- [[fontes/2026-03-08 - O que um país sério tem que fazer com Alexandre de Moraes]] — Viviane Barce R$130M; mensagens secretas; Senado bloqueado.
+- [[fontes/2026-03-08 - FELIZ DIA DAS MULHERES]] — Segurança nas ruas; crítica à esquerda feminista; recompensas sociais.
+- [[fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR]] — Oakberry e Renato Haidar derrubam vídeos; censura como retaliação.
+- [[fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO]] — Fabiana Bolsonaro e a "direita de show"; Kim Kataguiri como contraponto.
+- [[fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha]] — R$ 9M do Master; doações de Zettel a Bolsonaro e Tarcísio; Carlos Viana.
+- [[fontes/2026-03-19 - ANÃO DELEGADO, MINHA OPINIÃO]] — Moraes adapta prova física; contra cotas; meritocracia.
+- [[fontes/2026-03-18 - MEU RECADO PARA OS EVANGÉLICOS]] — Fiéis são vítimas; igrejas não devem ser taxadas; pastores corruptos devem ser presos.
+- [[fontes/2026-03-18 - Ele foi pego confessando corrupção. Vazou tudo!]] — Deputado MT (Republicanos) confessa esquema; ciclo de corrupção municipal.
+- [[fontes/2026-03-18 - A cidade no Maranhão que conseguiu unir Bolsonaro e Lula]] — Estreito (MA); Fiat Mobidar feridos; fusão de municípios.
+- [[fontes/2026-03-17 - WAGNER MOURA PERDEU O OSCAR]] — Cinema obcecado com ditadura; proposta de política cultural.
+- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]] — Frente de trabalho Roosevelt; crítica a Flávio e demais candidatos.
+- [[fontes/2026-03-17 - Não sabiam que eu estava ouvindo]] — Interação de rua; confirmação das propostas.
+- [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]] — Correção do limite do MEI; Kim Kataguiri; Haddad contra.
+- [[fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal]] — Eduardo Leite, Ratinho Jr., Caiado; Renan: sem limite de idade para crimes violentos.
+- [[fontes/2026-03-16 - VORCARO DELATOU O LULA]] — Vorcaro preso; possíveis delatados; Lula 3x fora da agenda; Haddad em banco de reservas.
+- [[fontes/2026-03-16 - A melhor capital do Brasil está virando uma Cracolândia]] — Marco Zero de Curitiba; modelo de albergues fora do centro.
+- [[fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!]] — Último culto; Natália Vorcaro; Clave Forte; INSS.
+- [[fontes/2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES]] — "Violência simbólica"; banheiros femininos; definição biológica de mulher.
+- [[fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF]] — Humanitarismo vs. vendeta de Moraes; Flávio fazendo campanha; Michele.
+- [[fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula]] — "Não governo"; esquerda esgotada; Haddad como substituto.
+- [[fontes/2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL]] — Fim da progressão penal; redução da maioridade; mulheres cooptadas pela esquerda.
+- [[fontes/2026-03-14 - GLOBO X STF, A GUERRA COMEÇOU]] — Globo e esquerda contra Moraes; Alessandro Vieira; Flávio ausente.
+- [[fontes/2026-03-26 - Você está cansado de fingir]] — Cultura de favela, ausência paterna e política pública.
+- [[fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa]] — 6 medidas com coronel Busnelo.
+- [[fontes/2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso]] — Sistema de progressão penal; site de simulação de penas.
+- [[fontes/2026-03-26 - Mais BOPE menos Brasa]] — Identidade nacional; lema "nada acima da missão".
+- [[fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem]] — PL votou lei da misoginia; padrão de Flávio.
+- [[fontes/2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA]] — Via Dutra; proposta de duplicação e trem SP-RJ.
+- [[fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS]] — Atlas 3º lugar; ultrapassou Zema, Caiado e Ratinho.
+- [[fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA]] — "Você é um moleque, Flávio."
+- [[fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO]] — Nexos com Toffoli, PCC e Banco Master.
+- [[fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso]] — Debate de rua; foco na dor da vítima.
+- [[fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum]] — Política de entretenimento; Flávio = João Campos.
+- [[fontes/2026-03-24 - Eu tô com muita inveja de El Salvador]] — Bukele como modelo; "teatro das tesouras" PT-PL.
+- [[fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão]] — Três culpados; proposta de reforma política.
+- [[fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL]] — Imagem internacional; favela na camisa da seleção.
+- [[fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO]] — Short de manifestação; Brasil "despertando".
+- [[fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA]] — Lista completa de nomes; convocação de marcha.
+- [[fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master]] — Banco Digima; R$ 10 bilhões; paralelo com o Master.
+- [[fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país]] — R$ 52M em shows; emendas PICs; família Safadão na política.
+- [[fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins]] — Pacto federativo distorcido; voto vale menos em Taubaté.
+- [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] — 7 medidas: diesel, biodiesel, MEI, corredor elétrico, ferrovias.
+- [[fontes/2026-03-20 - 7 PROPOSTAS PARA A TECNOLOGIA]] — Simples Tech (Estônia), stock options, TIB francês, matching israelense, Thiel Fellowship, capital gains inglês, visto nômade digital.
+- [[fontes/2026-03-20 - NO AMAZONAS, VOCÊ PODE GANHAR MAIS DE MIL REAIS SEM FAZER NADA]] — Barcelos (AM): R$ 1000/mês sem trabalhar; 97% repasses federais; IDH 0,5; proposta de interventor.
+- [[fontes/2026-03-31 - Você já conhece a PEC do IPVA do kimkataguiri]] — Esquete com Kim Kataguiri; PEC do IPVA.
+- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]] — Terras raras e ferrovia bioceânica.
+- [[fontes/2026-03-31 - ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES]] — Definição biológica de mulher; posição penal.
+- [[fontes/2026-03-31 - Caiado e Lula são VELHOS]] — Crítica geracional; aliados Busnelo e Santos Cruz.
+- [[fontes/2026-03-30 - Preciso da sua ajuda]] — Pedido de doações; processos; 3º na Atlas.
+- [[fontes/2026-03-30 - MALAFAIA PEDE AJUDA PARA COMPRAR JATINHO]] — "Tudo me é lícito, mas nem tudo convém"; Valadão.
+- [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]] — Padrão de "voto com o inimigo".
+- [[fontes/2026-03-29 - LULA ESTÁ EM PÂNICO]] — Affordability, Selic 15%, "remédio amargo".
+- [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]] — Rio como arquipélago de facções.
+- [[fontes/2026-03-28 - Eu fui na favela que o BOPE tomou conta]] — Tavares Bastos como modelo.
+- [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]] — Pesquisa da CNN sem o nome de Renan; Rubens Menin.
+- [[fontes/2026-03-27 - VOU PERDER MINHA CANDIDATURA]] — ONG da favela; "cafetinagem da miséria".
+- [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]] — STF 8x2 contra a CPMI; Mendonça e Fux isolados.
+- [[fontes/2026-03-27 - Eu fui na primeira favela do Brasil]] — Providência; Marco Nacional Desfavelização; R$ 900B/10 anos; tolerância zero invasões; escolas cívico-militares; prefeito perde direitos políticos.
+- [[fontes/2026-03-27 - Estou saindo do MBL]] — Band anuncia erroneamente saída do MBL; Renan nega; Atlas Bloomberg: Lula 45,9%, Flávio 40,1%, Renan 4,4%.
+
+### Fevereiro de 2026
+
+- [[fontes/2026-02-05 - ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA]] — Oruam foragido; estado de defesa permite entrar em qualquer casa.
+- [[fontes/2026-02-04 - VALE GÁS É PROGRAMA DE COMPRA DE VOTO DO LULA]] — Apenas 25 votos contra; PL com "medinho" de ano eleitoral.
+- [[fontes/2026-02-04 - RENAN APARECE COM 7% EM NOVA PESQUISA PARA PRESIDENTE]] — Data Povo (Record): 4º lugar, 7%, empatado com Tarcísio.
+- [[fontes/2026-02-04 - PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASILIA DO NIKOLAS]] — Gayer, André Fernandes e "Zula" votaram com Lula; PL aprova supersalários; Kim o único contra.
+- [[fontes/2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER]] — Programa Cred, Guido Mantega R$1M/mês, Lewandowski R$5M, 3 reuniões fora de agenda, Venezuela, Janja/TCU/OEI.
+- [[fontes/2026-02-04 - DEPUTADOS VOTAM PARA AUMENTAR SALÁRIO ATÉ R$77 MIL PARA FUNCIONÁRIOS DA CÂMARA]] — Hugo Mota aprova supersalários; Kim Kataguiri único a discursar contra; promessa de ação judicial.
+- [[fontes/2026-02-03 - VOCÊ CONSEGUE IMAGINAR UM BRASIL ASSIM]] — Visão de Brasil ideal; direito penal do inimigo; bomba atômica em 20-30 anos; criminalização do voto.
+- [[fontes/2026-02-03 - RENAN SANTOS RECEBE MAIS AMEAÇAS DE MORTE]] — Grupo terrorista preso no RJ; cartaz contra Renan; também ameaça do CV do Ceará.
+- [[fontes/2026-02-02 - O NORDESTE PRECISA SUPERAR O PT]] — Resposta à "senhora petista"; Bukele e Milei como exemplos; contra a mentalidade derrotista.
+- [[fontes/2026-02-02 - MAIS UM CASO DE VIOLÊNCIA EM SANTA CATARINA]] — Morador de rua reincidente agride homem com filha; decisão de Moraes impede manejo; proposta de prisão para quem recusar albergue.
+- [[fontes/2026-02-02 - ESSE VAI SER O PAPEL DO MERCADO FINANCEIRO NAS ELEIÇÕES]] — Faria Lima: "trade Tarcísio" → "trade Ratinho"; Ratinho apoiou Lula em vídeo antigo; Renan não será guiado pelo mercado.
+- [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]] — Açu/Vale do Açu (RN); aquífero sem água; Projeto Leve Poços em Panguaçu; emancipação da comunidade.
+- [[fontes/2026-02-01 - NÓS SOMOS A GERAÇÃO QUE VAI SALVAR O BRASIL]] — Comício no Ceará; Elmano; porto de Fortaleza tomado por facções; Júnior Mano em Nova Russas; 547.000 validados no TSE.
+- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]] — "Trocou a revolução pela rachadinha"; Valdemar = "velho de tornozeleira"; Missão de 10 a 547.000.
+- [[fontes/2026-02-19 - MAIS UM BELO EXEMPLO DA CLASSE POLÍTICA DO MARANHÃO]] — São Félix das Balsas; primeira dama ameaça funcionários; proposta de interventor.
+- [[fontes/2026-02-18 - VOCÊ NÃO ODEIA ESSES POLÍTICOS O SUFICIENTE]] — Por que bandidos saem soltos: políticos protegem a si mesmos com leis brandas.
+- [[fontes/2026-02-18 - ESCOLA DE SAMBA QUE FEZ HOMENAGEM AO LULA É REBAIXADA]] — Short satírico celebrando o rebaixamento da escola pró-Lula.
+- [[fontes/2026-02-17 - URGENTE - STF vaza dados de servidores]] — STF publica dados de servidores da Receita sem provas; Moraes como líder; "guerra hobbesiana".
+- [[fontes/2026-02-17 - LULA PODE PERDER OS DIREITOS POLÍTICOS]] — TSE nega ação de Renan 7 a 0; Lula é vaiado; promessa de novas ações.
+- [[fontes/2026-02-17 - ESCOLA DE SAMBA TIRA SARRO DA FAMÍLIA CONSERVADORA EVANGÉLICA]] — Defesa dos evangélicos; emancipação vs. dependência do Estado.
+- [[fontes/2026-02-17 - 5 CARROS ALEGÓRICOS QUE FALTARAM NO DESFILE DO LULA]] — Sátira: petrolão, ditaduras, Banco Master, promessas vazias, mensalão.
+- [[fontes/2026-02-15 - Sim, a estratégia das facções funciona]] — Facções do Ceará proibiram brigas de torcida; Renan vai "copiar" o princípio.
+- [[fontes/2026-02-15 - ERIKA HILTON NOSSA FUTURA PRESIDENTA NO CARNAVAL]] — Análise da cena com faixa presidencial; lógica de inversão do carnaval refuta a mensagem.
+- [[fontes/2026-02-15 - 10 MEDIDAS PARA SEGURANÇA PÚBLICA]] — Lista completa de 11 medidas, dos superpresídios ao reconhecimento facial.
+- [[fontes/2026-02-14 - ESTADOS ONDE EU FARIA UMA INTERVENÇÃO - PARTE 01]] — Alagoas, MA, RJ (sim); PE, RO, MG, SC (não); Acre e Roraima como territórios.
+- [[fontes/2026-02-14 - CHEGOU A VEZ DO ALEXANDRE DE MORAES]] — Relatório PF sobre Vorcaro-Moraes; estratégia de Moraes de sacrificar Toffoli.
+- [[fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI]] — Flávio defende Toffoli; histórico de 2019: petição para retirar COAF da Lava-Jato.
+- [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] — Menina de 13 anos estuprada pelo TCP; silêncio do movimento negro.
+- [[fontes/2026-02-13 - O CASO QUE O MOVIMENTO NEGRO NÃO QUER FALAR SOBRE]] — Menina Sofia morta por facção; ativismo seletivo.
+- [[fontes/2026-02-13 - ACORDÃO PARA DERRUBAR O MINISTRO DIAS TOFFOLI]] — Acordo PT-Centrão para sacrificar Toffoli e salvar Moraes e Lula.
+- [[fontes/2026-02-12 - TOFFOLI NÃO VAI ABANDONAR O CASO DO BANCO MASTER]] — Toffoli recusa suspeição; contraste com postura dura na Lava-Jato.
+- [[fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COAF]] — Toffoli anula provas do COAF a pedido de Flávio Bolsonaro; Zettel doou R$3M para Jair.
+- [[fontes/2026-02-12 - O MAIOR ESCÂNDALO DE CORRUPÇÃO - PODE DERRUBAR O STF]] — Provas financeiras Toffoli-Vorcaro confirmadas; convocação de manifestação.
+- [[fontes/2026-02-12 - O BICHO TÁ PEGANDO ENTRE PT E DIAS TOFFOLI]] — PT sacrifica Toffoli para salvar Lula; vazamentos vêm de jornalistas do PT.
+- [[fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL]] — Modelo americano vs. estigma brasileiro do fracasso; modelo asiático de desenvolvimento.
+- [[fontes/2026-02-25 - ESSE VIDEO DO RICHARD RASMUSSEN VAI TE DEIXAR PTO]] — PRF para Rasmussen, madeireiros ilegais livres; Brasil como operação de punir honestos e proteger desonestos.
+- [[fontes/2026-02-25 - O LULA NÃO TEM NADA PARA PROPOR]] — Vantagem comunicativa de Renan; PT não governou; woke morre com Érika; comunismo ideias velhas.
+- [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]] — Produtividade baixa, juros altos, dinheiro caro: a cadeia que sabota o emprego.
+- [[fontes/2026-02-24 - OS BANDIDOS PRECISAM TER MEDO]] — Pesquisa de Perry Shiida: penas duras + certeza de punição demovem criminosos.
+- [[fontes/2026-02-24 - O EPSTEIN BRASILEIRO NÃO VAI SER PUNIDO]] — Lewandowski com R$ 250K/mês do Master; Vorcaro "comprou a república".
+- [[fontes/2026-02-24 - O BRASIL ACABOU APÓS A LAVA-JATO]] — Banco Master licenciado um dia após o fim da Lava-Jato; pacto nacional de corrupção.
+- [[fontes/2026-02-24 - LÉO LINS É ABSOLVIDO PELA JUSTIÇA]] — Liberdade de expressão; STJ/STF como origem das jurisprudências; caso Jeca de Renan.
+- [[fontes/2026-02-24 - GOVERNO LULA TAXA MAIS DE 1,2 MIL PRODUTOS IMPORTADOS]] — 25% em 1.200 itens; celulares, bens de capital, até navios de guerra.
+- [[fontes/2026-02-24 - ESSE CASO DE MG FICOU AINDA MAIS BIZARRO]] — Desembargador investigado usa IA para absolver abusador; R$ 85K/mês.
+- [[fontes/2026-02-23 - VORCARO É O EPSTEIN BRASILEIRO]] — Festas com modelos, academia Leank, ilha por US$ 13M.
+- [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]] — Assistencialismo +500%; China +856%; abandono da busca por emprego.
+- [[fontes/2026-02-23 - PREPARE-SE PARA SER HUMILHADO PELA ETIOPIA]] — Adis Abeba mais segura que capitais brasileiras; gestão fiscal etíope superior.
+- [[fontes/2026-02-23 - ESSA CIDADE PRATICAMENTE SÓ TEM PESSOAS NO BOLSA FAMÍLIA]] — Itauau (PA): 93% no BF, 29 empregos formais, orçamento 96% federal.
+- [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA AMARAL COM O JOÃO CAMPOS]] — Casamento dinástico; investigação de João Campos suspensa no STF.
+- [[fontes/2026-02-22 - 6 PROPOSTAS QUE VÃO FAZER O BRASIL VIRAR UM LUGAR DE PRIMEIRO MUNDO]] — Saúde+IA, educação básica, reforma fiscal, favelas, fusão de municípios, "prendeu matou".
+- [[fontes/2026-02-21 - O TRIBUNAL DE MINAS RESOLVEU INOVAR]] — TJ-MG autoriza "casamento" com abusador; "abriu temporada de exploração de crianças".
+- [[fontes/2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA]] — Escola rebaixada; Janja no jatinho; ação no TSE; Flávio = candidato ideal para o PT.
+- [[fontes/2026-02-21 - DE QUEM É A CULPA DO BRASIL TER PERDIDO ESSA PATENTE]] — Remédio para tetraplégicos da UFRJ sem patente; Porto Digital como modelo.
+- [[fontes/2026-02-20 - QUAL O MOTIVO DE NINGUÉM QUERER FICAR NO BRASIL]] — Favelização como estado de espírito; urbanismo, transporte, poluição sonora.
+- [[fontes/2026-02-20 - A VOZ DO POVO NÃO É A VOZ DE DEUS]] — Voto correto depende de incentivos certos; interventor se metas não cumpridas.
+- [[fontes/2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE]] — Senado bloqueia aumento de penas; estuprador sai na saidinha e estupra a mãe.
+- [[fontes/2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ]] — Ação no TSE para proibir Lula de usar imagens do carnaval na campanha.
+- [[fontes/2026-02-28 - KHAMENEI ESTÁ MORTO]] — Morte do aiatolá; Trump como força real; BRICS desmoronando; bomba atômica como meta.
+- [[fontes/2026-02-27 - URGENTE - JUIZ DE FORA E UBÁ SOFREM COM DESASTRE]] — Apelo de arrecadação; deixar a política de lado.
+- [[fontes/2026-02-27 - SE VOCÊ É MULHER, COMPARTILHE ISSO]] — Érika Hilton na Comissão da Mulher; representação simbólica vs. segurança real.
+- [[fontes/2026-02-27 - OZEMPIC NO SUS]] — Patente cai em março/2026; 30% de obesidade; proposta de política de saúde.
+- [[fontes/2026-02-27 - EU VOU REVOGAR TODAS AS TAXAÇÕES DO HADDAD]] — CPU/GPU duplicadas; Stargate na Argentina; Fortaleza perdendo data center.
+- [[fontes/2026-02-26 - VOU PROIBIR MULHER NA MISSÃO]] — Irônico: ataques a pré-candidatas do Missão; deepfake, ameaças, stalkers.
+- [[fontes/2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS]] — Lulinha; Rogério Corrêa tenta bloquear CPI; COAF e prisão em 2ª instância.
+- [[fontes/2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA]] — Migração maranhense; voto comprado vs. democracia real; avaliação por indicadores.
+- [[fontes/2026-02-26 - MEU SENTIMENTOS A TODOS ATINGIDOS PELO DESASTRE DE JUIZ DE FORA]] — Prefeita PT "puxando saco do Lula"; terceiro deslizamento sem prevenção.
+- [[fontes/2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL]] — Bruno César / Aceleracionismo Brasileiro; 80 bases cruzadas; IA no governo.
+- [[fontes/2026-02-25 - ÍNDIOS E PICARETAS DO PSOL ESTÃO SABOTANDO OS CAMINHONEIROS NA REGIÃO NORTE]] — 8 dias bloqueados; Cargill; decreto de Lula proibindo hidrovia; ONG estrangeira.
+
+### Janeiro de 2026
+
+- [[fontes/2026-01-05 - Estou sendo cancelado por defender que o Brasil tenha armas nucleares]] — Resposta ao cancelamento; "força é a única garantia"; Groenlândia e Dinamarca.
+- [[fontes/2026-01-04 - O Brasil precisa de uma arma nuclear]] — Enéas como precursor; Venezuela como lição; Brasil = "nerd raquítico".
+- [[fontes/2026-01-04 - Cadê o direito internacional]] — Venezuela/segurança interna; crítica à esquerda "sabotadora"; linguagem direta.
+- [[fontes/2026-01-03 - URGENTE - Trump sequestra Maduro e inaugura uma nova era na América Latina]] — Análise ambivalente: boa para Venezuela, derrota geopolítica para o Brasil.
+- [[fontes/2026-01-03 - Qual o próximo país, Trump]] — Brasil como "próximo caso"; PT como "câncer"; oposição corrupta.
+- [[fontes/2026-01-03 - Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República]] — Fechar fronteira de Roraima; bombardear traficantes; destruir narcotráfico regional.
+- [[fontes/2026-01-03 - Atenção - Trump anunciou que vai colocar um interventor na Venezuela]] — Paralelo Venezuela-estados brasileiros deficitários; mapa de municípios inativos.
+- [[fontes/2026-01-02 - Uma estátua no meio do nada]] — Coribe (BA); José Rocha; R$1M de orçamento secreto para estátua; risco de separatismo.
+- [[fontes/2026-01-02 - Essa barbárie precisa acabar]] — Reveillon no Recreio; arrastões; Eduardo Paes "sempre foi um ladrão"; maioridade penal.
+- [[fontes/2026-01-01 - Estou processando o Senado]] — R$46M em bônus a 800 funcionários; crítica estrutural; proposta de extinção.
+- [[fontes/2026-01-13 - PRECISAMOS FALAR SOBRE O WAGNER MOURA]] — "Elite cultural" financiada pelo Estado; democracia = ordem; Cléber Mendonça filho de oligarquias de PE.
+- [[fontes/2026-01-13 - JOÃO CAMPOS E SUA FAMÍLIA PRECISAM SER ARRUINADOS]] — "Deturpação da deturpação"; salas a 40°C mas com tablets; Finlândia abandonou tablets.
+- [[fontes/2026-01-12 - RENAN RESPONDE SE APOIARIA O FLÁVIO BOLSONARO NO SEGUNDO TURNO]] — "Apoiaria ele caindo de um precipício"; rachadinha; MBL fez o impeachment, Bolsonaro soltou o Lula; Flávio perde pro Lula.
+- [[fontes/2026-01-11 - RENAN COMEÇA PRÉ-CAMPANHA EM PERNAMBUCO]] — Início da pré-campanha em PE; "geração que vai resolver a merda desse país"; desfavelização direta.
+- [[fontes/2026-01-11 - A FAMÍLIA DO PEDROARTHURCE ESTÁ SENDO AMEAÇADA PELO CV]] — CV ameaça família de Pedro Arthur em Fortaleza; apelo de divulgação como proteção; governo do Ceará omisso.
+- [[fontes/2026-01-10 - Atenção, carioca! Muito cuidado nas ruas]] — 300 criminosos soltos via saidinha no RJ; Dourado TCP, Nestor Tuiuti CV; duplicar penas; acabar com saidinha e progressão penal.
+- [[fontes/2026-01-09 - Resposta para Daniela Lima]] — Jornalista faz chacota da queda de Bolsonaro; imprensa militante; Renan é adversário de Bolsonaro mas critica crueldade.
+- [[fontes/2026-01-09 - O Maior Carnaval do Brasil]] — Braide vs. Brandão: duelo de carnaval com dinheiro federal; Maranhão IDH africano; proposta de interventor em estados com baixo IDH.
+- [[fontes/2026-01-09 - Lula indica aliado do Banco Master para CVM]] — Oto Lobo para CVM; decisões favoráveis ao Master; Ciro Nogueira como articulador; convocação para 22/1.
+- [[fontes/2026-01-08 - Você foi convocado]] — Convocação formal para 22/1 na frente do Banco Master; roupa de trabalho; "ativista político que organiza manifestações".
+- [[fontes/2026-01-07 - Precisamos falar sobre a Igreja Lagoinha]] — Vorcaro capitalizou com a Lagoinha; BMW de Valadão perdoada por Henrique Vorcaro; batismo de Flávio; ninguém do bolsonarismo fala disso.
+- [[fontes/2026-01-07 - Então realmente tinha influenciador sendo pago para defender o Banco Master]] — Malu Gaspar; filho do Emílio Zurita como organizador; Gabriela Priori; influenciadores na cadeia.
+- [[fontes/2026-01-06 - Quem é Jhonatan de Jesus]] — Ministro TCU relator do Master; filho de senador de Roraima; esposa fantasma; carro na casa do "careca do INSS."
+- [[fontes/2026-01-05 - Resolver os problemas do Brasil não é tão difícil assim]] — Trump/Maduro, Bukele/El Salvador, Milei/Argentina; prender e matar líderes do crime; desfavelização; funcionalismo no teto.
+- [[fontes/2026-01-05 - O Brasil precisa falar sobre a saída do Bolsa Família]] — Influenciadora desligada do BF por carro e iPhone; prazo máximo + frentes de trabalho; 40% do interior nordestino dependente.
+- [[fontes/2026-01-21 - RENAN ULTRAPASSA GOVERNADORES EM NOVA PESQUISA PARA PRESIDENTE]] — Pesquisa Atlas: ultrapassou Ratinho, Zema e Caiado; meta de 10% até meados de 2026.
+- [[fontes/2026-01-21 - ALAGOAS PRECISA URGENTE DE UMA INTERVENÇÃO FEDERAL]] — Secretário de saúde desviou R$100M; oligarquias Lira/Collor/Calheiros; proposta de intervenção federal.
+- [[fontes/2026-01-20 - POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA NÃO FALAM SOBRE A IGREJA LAGOINHA]] — Batismo de Flávio; Nikolas/jatinho com Valadão; Silas ataca Damares; Clava Forte sai do ar.
+- [[fontes/2026-01-18 - VOU QUERER O APOIO DO FLÁVIO NO SEGUNDO TURNO]] — Renan quer prender Flávio; "remédio amargo"; Lula e Bolsonaro são velhos e fracassaram.
+- [[fontes/2026-01-18 - DELEGADA LIGADA AO PCC É PRESA EM SP]] — Laila Iube: PCC banca concurso de delegada; padaria de lavagem; infiltração nas instituições.
+- [[fontes/2026-01-17 - RENAN JOGA SAL GROSSO NA CASA DO LULA]] — Visita a Caetés (PE); promessa simbólica de derrotar o PT; analogia com Roma e Cartago.
+- [[fontes/2026-01-17 - INVADI UMA PRISÃO EM PERNAMBUCO E ACHEI ISSO]] — Presídio abandonado em PE: TV, churrasco, contabilidade de faccionados; "ressocialização como mordomia".
+- [[fontes/2026-01-16 - DISCUSSÃO NO BBB POR COTAS]] — Participante do BBB defende cotas; Renan propõe bolsa para escola privada; fim de todas as cotas; modelo alemão de técnico.
+- [[fontes/2026-01-15 - SILAS MALAFAIA ATACA DAMARES ALVES]] — Malafaia ataca Damares; lista de igrejas no INSS; Clava Forte; quem bancou Lagoinha Belvedere?
+- [[fontes/2026-01-15 - RENAN PINTA PICHAÇÕES DO CRIME ORGANIZADO EM PERNAMBUCO]] — Paulista (PE): PCC/CV/BMB em avenidas; moradores em guerra permanente; ato simbólico.
+- [[fontes/2026-01-15 - POSSO SER PRESO POR FALAR ISSO SOBRE O BANCO MASTER]] — Moraes: fundo Reag/PCC, jatinho com advogado do Master, questiona operação que prendeu Zettel.
+- [[fontes/2026-01-15 - O BRASIL DO SÉCULO 19 TINHA MELHOR INFRAESTRUTURA DO QUE O DE HOJE]] — Ponte de 1875 sem manutenção; estagnação nordestina; migração como efeito.
+- [[fontes/2026-01-14 - RENAN MOSTRA A REALIDADE DO BRASIL PROFUNDO]] — Periferia nordestina; criança entrevistada; emendas R$50B sem foco em saneamento.
+- [[fontes/2026-01-14 - MINHA PRÉ CANDIDATURA ACABOU]] — Irônico: 0,4% no Instituto Boas Ideias; vínculos do instituto com COP30, Igarapé/Soros, governo MA, Paes.
+- [[fontes/2026-01-14 - CUNHADO DE VORCARO, FABIANO ZETTEL, É PRESO EM DESDOBRAMENTO DO CASO BANCO MASTER]] — Prisão de Zettel: pastor da Lagoinha, operador de festas, empresa AMB; celular como bomba; convocação para 22/1.
+- [[fontes/2026-01-26 - CARTA ABERTA AOS PAIS DOS ASSASSINOS DO CÃO ORELHA]] — Pais de Igor Zampieri e Evandro DKS; lei e ordem para todas as classes sociais.
+- [[fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS]] — Cidadão nordestino vai de moto abraçar Renan; Bukele como referência.
+- [[fontes/2026-01-25 - PLAYBOYS MATARAM O ORELHA EM SC]] — Evandro DKS Mus Bobaide; Roberta Zampieri; porteiro coagido; três animais vitimados.
+- [[fontes/2026-01-25 - ACARI, A CIDADE MAIS LIMPA DO BRASIL]] — Decreto imperial virou cultura; proposta de legislação federal de organização urbana.
+- [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] — TCU confirma superfaturamento na COP 30 ligado à OEI de Janja.
+- [[fontes/2026-01-24 - OBRA DO GOVERNO COM 11 ANOS DE ATRASO EM SANTA CRUZ]] — Teleférico de R$12M prometido em 2015; político "Tomba"; ciclo da corrupção no RN.
+- [[fontes/2026-01-24 - LULA SENTIU A MANIFESTAÇÃO NA FRENTE DO BANCO MASTER]] — Primeira reação de Lula; comparação com 2013; desafio a Lula sobre Rui Costa.
+- [[fontes/2026-01-24 - GUIDO MANTEGA RECEBIA R$1 MILHÃO POR MÊS DO BANCO MASTER]] — Mantega → Lula, Jaques Wagner → Mantega → Vorcaro; Cred Sexta no governo Wagner.
+- [[fontes/2026-01-23 - JOGUEI SAL NA CASA DO LULA E FUI CANCELADO]] — Globo e Metrópoles cancelam; 6 propostas para tornar PT eleitoralmente irrelevante.
+- [[fontes/2026-01-23 - ANDRÉ VALADÃO VS. RENAN SANTOS]] — Zettel/Natália na Lagoinha; fintech + Amar Brasil/INSS; "me processa, brother".
+- [[fontes/2026-01-22 - MANIFESTAÇÃO PELO IMPEACHMENT DO DIAS TOFFOLI E PRISÃO DO DANIEL VORCARO]] — Registro audiovisual da manifestação de jan/22; transcrição ininteligível.
+- [[fontes/2026-01-22 - MANIFESTAÇÃO NA FRENTE DO BANCO MASTER]] — Segundo registro da manifestação de jan/22; transcrição ininteligível.
+- [[fontes/2026-01-22 - ESTOU SENDO AMEAÇADO NO NORDESTE POR MOSTRAR A VERDADE]] — PT desmobiliza polícia no Nordeste; Fátima/RN, Elmano/CE; vereador Faustino; "Jerônimo da Bahia".
+- [[fontes/2026-01-22 - BANCO MASTER COM MEDO DA MANIFESTAÇÃO DE HOJE]] — Banco cobre logos com lonas verdes antes do protesto; convocação para 19h.
+- [[fontes/2026-01-21 - URGENTE - RESORT DO TOFFOLI TINHA ATÉ CASSINO]] — Primeiro relato do resort Taiayá: vendido pelo irmão de Toffoli a Zettel, repassado à JBS; cassino ilegal.
+- [[fontes/2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA]] — Federalização via PF; jogos de sadismo no Discord; pressão das famílias ricas sobre judiciário de SC.
+- [[fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE]] — Santa Quitéria (CE): urânio + CV = risco de bioterrorismo; Braguinha/Joel; Pedro Artur ameaçado.
+- [[fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ]] — PCC vs. CV em Sobral; desfavelização sem segurança = "refavelização"; modelo "bandeira, quartel, escola".
+- [[fontes/2026-01-30 - MINHA OPINIÃO SOBRE O CAIADO NO PSD]] — Kassab = "prostituta da política"; Caiado e Ratinho como "puxa-sacos"; Renan empatado com Caiado nas pesquisas.
+- [[fontes/2026-01-30 - LULA PROMETEU ESSA OBRA EM 2006 E ATÉ AGORA NADA]] — Transnordestina: 20 anos de promessa; IBAMA, quilombolas, falta de fiscalização e vontade política.
+- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] — Mossoró (RN): única fuga de presídio no Brasil; proposta CECOTINS no Tocantins, inspirado no CECOT de El Salvador.
+- [[fontes/2026-01-29 - O NORDESTE TEM SOLUÇÃO E NÓS ESTAMOS COLOCANDO EM PRÁTICA]] — Projeto Leve Poços em ação: poço instalado, morador confirma sucesso, emancipação como meta.
+- [[fontes/2026-01-29 - NOVAS INFORMAÇÕES SOBRE O CASO DO CÃO ORELHA]] — Juíza confirma jogos de sadismo no Discord; delegado Ulisses em foto com advogado de defesa; patrimonialismo catarinense.
+- [[fontes/2026-01-29 - COLOCAMOS A BANDEIRA DO BRASIL NO LUGAR DA BANDEIRA DO CV]] — Santa Quitéria: bandeira do CV queimada, bandeira do Brasil içada no lugar; estátua de Antônia Rodrigues.
+- [[fontes/2026-01-28 - RENAN SANTOS LEVA ENVOLVIDOS NO CASO DO CÃO ORELHA PARA A JUSTIÇA]] — Duas ações civis públicas; retirada de guarda; ofício ao consulado dos EUA; proposta de lei de maus-tratos.
+- [[fontes/2026-01-28 - PT TRATA NORDESTINO COMO COITADO]] — Debate: PAC, pacto federativo e crescimento de SC vs. PE; recusa do "discurso coitadista"; Nordeste perdendo população.
+- [[fontes/2026-01-27 - TRANS APROVADA EM CONCURSO ESTAVA NA POSIÇÃO 1243]] — Duda Odara/UERJ medicina; 6,25/20 em química; proposta de abolição de todas as cotas; alternativa via escolas polo.
+- [[fontes/2026-01-27 - ESSA CIDADE NÃO TEM ÁGUA MAS QUER DAR INTERNET PARA VOTAR NO BBB]] — Currais Novos (RN): 28% sem água; Lucas Galvão investe em BBB; Mateus Faustino alerta; proposta de interventor.
+- [[fontes/2026-01-26 - PESSOAS TÊM FILHO PARA AUMENTAR O BOLSA FAMÍLIA]] — Relatos de agricultores e comerciantes sobre escassez de mão de obra e dependência do benefício no Nordeste.
+- [[fontes/2026-01-26 - EVONEY FERNANDES É CONDENADO POR RIFAS ILEGAIS EM TOCANTINS]] — Artista condenado por rifas ilegais + lavagem; artistas como porta-vozes do crime político; municípios sem infraestrutura não podem ter shows.
+- [[fontes/2026-01-31 - SOBRE OS MOTOBOYS ASSASSINADOS NO RJ]] — Dois motoboys mortos pelo CV no RJ; elogio ao entregador como "a melhor pessoa do Brasil"; promessa de vingança.
+
+### Dezembro de 2025
+
+- [[fontes/2025-12-09 - Se o Vorcaro abrir a boca, o Brasil acaba]] — Mapa detalhado: Toffoli/jatinho, esposa Moraes R$100M, Campos Neto 38 alertas, Zettel/influenciadoras, Mantega→Lula, Lewandowski.
+- [[fontes/2025-12-09 - ESSA MULHER TEM MAIS CORAGEM QUE TODO NÓS]] — Discurso no Ceará em memória de Ioni; promessa de presídio com seu nome.
+- [[fontes/2025-12-08 - Sou número 1 das pesquisas]] — Boicote dos institutos; "nenhum desses" em 1º com 28% no Paraná Pesquisas; Atlas e Datafolha omitem Renan.
+- [[fontes/2025-12-06 - Flávio Bolsonaro rachou a direita]] — Análise: por que Tarcísio caiu e Flávio emergiu; paralelo PT/Ciro 2018; "onça aguardando."
+- [[fontes/2025-12-04 - O legado da COP30]] — Imagens pós-COP de Belém degradada; R$ 4 bilhões; Barbalhos enriquecidos; Janja e ONG estrangeira.
+- [[fontes/2025-12-04 - Lula quer FRAUDAR as eleições]] — LDO liberando gastos eleitoreiros 3 meses antes das eleições; "fraude e golpe."
+- [[fontes/2025-12-03 - Você é a favor da redução da maioridade penal]] — Caso Aracruz (ES); duas propostas: redução para 14 anos e retorno de hospitais psiquiátricos.
+- [[fontes/2025-12-02 - Paz para os justos, guerra para os inimigos]] — Pai morto na frente do filho; discurso de guerra total ao crime; "quero matar eles."
+- [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República.]] — Atlas Intel dez/25: 18% Gen-Z, 30%+ homens jovens; tese "fotografia vs. filme".
+- [[fontes/2025-12-18 - Comente o nome dessa facção.]] — Três eletricistas mortos na Bahia; Jerônimo Rodrigues como "líder de facção" do PT; CV avança com leniência estatal.
+- [[fontes/2025-12-17 - Se você é favelado no Rio de Janeiro, talvez você não goste desse vídeo.]] — Gato de energia (40% dos domicílios RJ); 15% a mais na conta de quem paga; desfavelização como solução.
+- [[fontes/2025-12-17 - Eu sou a pessoa mais odiada no Acre!]] — Acre com 884K hab, 40% ocupados, pior saneamento do Brasil; proposta de território federal com interventor; reação de Petecão.
+- [[fontes/2025-12-16 - NOSSO INIMIGO É O BRASIL IMPRODUTIVO]] — Aliança dos produtivos de todos os estados vs. Brasil improdutivo; Barbalho com 81% no Pará.
+- [[fontes/2025-12-16 - A OPOSIÇÃO NO BRASIL É HORRÍVEL]] — Bancada bolsonarista: 90% em vídeos, sem proposta educacional ou fundiária; PEC da Blindagem como presente ao PT.
+- [[fontes/2025-12-15 - Resposta ao Nikolas Ferreira]] — Nikolas silenciou sobre todos os erros de Bolsonaro; agora ataca com ele fraco; acusação de covardia.
+- [[fontes/2025-12-14 - Sobre a treta Tarcísio x Flávio Bolsonaro]] — Tarcísio: churrasco com Vorcaro, R$2M de Zettel, Campos Neto; Flávio = mais corrupto; ambos devastados por Lula.
+- [[fontes/2025-12-13 - TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO....]] — Marcola prescreveu após 16 anos; 10x mais gasto que Argentina; Câmara como "bando de ladrão".
+- [[fontes/2025-12-13 - Petista enlouqueceu]] — Militante petista vai às vias de fato contra Renan em evento; conteúdo mínimo.
+- [[fontes/2025-12-13 - Legal seu projeto, Renan]] — Por que não se unir a Tarcísio; Lula=capeta, Tarcísio=Barrabás, Flávio=Judas; todos no celular do Vorcaro.
+- [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]] — O "grande accordão": Trump, Bolsonaros, Lula, Joesley, Moraes; Flávio como candidato ideal de todos.
+- [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS]] — PT pagou emendas; PL incluiu Zambelli no pacote; Glauber e Zambelli salvos juntos (10/12/2025).
+- [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]] — Linha Norte-Nordeste vs. Centro-Sul; Brasília dobro de SC sem produzir; Maranhão 1/3 de SP; Matopiba como prova do conceito.
+- [[fontes/2025-12-10 - COMO VAI SER O MEU DEBATE COM O LULA]] — 8 perguntas para Lula: Lulinha/INSS, Frei Chico, Lewandowski, Boteiro/jatinho, Dama do Tráfico, Anielle Franco/filme, Ceará/CV, Nordeste pobre = mais votado.
+- [[fontes/2025-12-27 - Se você é mulher]] — Impunidade como raiz; prisão perpétua/pena de morte; crítica a Érika Hilton.
+- [[fontes/2025-12-27 - 5 medidas contra a violência contra mulheres]] — Fim saidinhas, sem progressão de pena, prisão por stalking, sem audiência de custódia, MP contra juiz permissivo.
+- [[fontes/2025-12-26 - Você já ouviu falar de Turilândia]] — Prefeito Paulo Curió; R$56M em empresas fantasmas; fusão/interventor.
+- [[fontes/2025-12-26 - Pernambucano o que aconteceu com você]] — Família Campos-Arrais; João Campos; R$500M sem licitação; Missão em Pernambuco.
+- [[fontes/2025-12-26 - Diga-me com quem andas, Lula]] — Lulinha/INSS; Everton Rocha; Frei Chico; aumento ao judiciário como coincidência.
+- [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]] — 2º geral / 1º entre homens jovens; ruptura geracional; família Bolsonaro não entrega.
+- [[fontes/2025-12-25 - Eu tenho lado. E você]] — Manifesto de valores: vítima, trabalhador, policial; Banco Master = "filhos da p***".
+- [[fontes/2025-12-24 - Mensagem de Natal - Renan Santos]] — Partido Missão conquistado; apelo a pais/avós via filhos; tom conciliador.
+- [[fontes/2025-12-23 - Por que Pará ama os Barbalhos]] — Família Barbalho desde a colônia; Jader/criadouro de rãs; Hélder; indicadores do Pará.
+- [[fontes/2025-12-23 - Banco Master é o fim da República]] — Moraes ligou para Galipolo; Viviane Barce R$100M+; silêncio de Nikolas; pior que Lava-Jato.
+- [[fontes/2025-12-22 - Alagoas é o maior exportador de droga do Brasil]] — Oligarquias Lira/Collor/Calheiros; dados do estado; proposta de interventor.
+- [[fontes/2025-12-21 - Mais uma resposta a Evoney]] — Evoney: R$40K em espécie + operação policial; Tocantins fusão/interventor.
+- [[fontes/2025-12-21 - Essa é uma Missão pra vocês]] — Google Trends; crescimento nas pesquisas; missão de Natal para seguidores.
+- [[fontes/2025-12-20 - Entrei com uma representação contra o governo Lula]] — Propaganda de Natal com menor dançando funk; representação na PGR; governo tirou do ar.
+- [[fontes/2025-12-19 - ESSE CASO EM ARARI NO MARANHÃO É BIZARRO]] — Ex-prefeito Rui Filho; emenda roubada integralmente; Ingrid Andrade; pacto federativo/fusão.
+- [[fontes/2025-12-31 - A casa do João Campos caiu]] — Procurador PCD em Recife; juiz-pai que derruba investigação; familismo político.
+- [[fontes/2025-12-30 - Tô sendo processado]] — Arari (MA); esposa do prefeito processa Renan; proposta de fusão e interventor.
+- [[fontes/2025-12-30 - O Brasil precisa de mais Zicos]] — Zico como modelo; referências deletérias; ausência paterna.
+- [[fontes/2025-12-28 - Vorcaro é o Epstein brasileiro]] — Festas com elite política/judiciária; celular como bomba; "operação abafa."
+- [[fontes/2025-12-28 - Desafio para seus parentes]] — Silêncio bipartidário sobre o Master; Campos Neto/Tarcísio; estratégia futura do PT.
+
+### Novembro de 2025
+
+- [[fontes/2025-11-20 - Você já parou pra pensar nisso]] — assalto à mão armada = 30 anos mínimo; argumento filosófico sobre deliberar sobre a vida alheia.
+- [[fontes/2025-11-19 - Resposta para a humorista alemã]] — brasilificação; modelo migratório alemão; "Embraer como padrão"; critica humorista que vive do folclore do Brasil.
+- [[fontes/2025-11-18 - Você ainda vai me responder, Lula]] — Berlim vs. Belém em dados; contrato da Janja/ONG na COP; desafio ao debate de 2026.
+- [[fontes/2025-11-18 - ESSE É O PIOR INIMIGO DO BRASIL]] — centrão como inimigo estrutural; ciclo oligárquico; cumplicidade do povo; migração para SC como efeito.
+- [[fontes/2025-11-17 - Você acha favela bonito]] — brasilificação viral; proposta R$90B/ano por 8-10 anos; fontes: Zona Franca, supersalários, juros.
+- [[fontes/2025-11-17 - O Brasil está sendo humilhado]] — gringos voltam da COP envergonhados; ONGs fazem resoluções contra agro; Barbalhos enriquecidos.
+- [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]] — resposta a Luís Megali/Band; checagem falaciosa sobre Ucrânia; "usando a burrice para divulgar".
+- [[fontes/2025-11-13 - Apareci numa pesquisa presidencial]] — Quest: 6% (cenário c/ Eduardo B.) e 3% (cenário mais provável); 75% de desconhecimento = maior espaço para crescer.
+- [[fontes/2025-11-12 - Você votaria numa proposta dessas]] — caso Playboy/Ceará: município evacuado; proposta de intervenção federal e 40 anos de cadeia.
+- [[fontes/2025-11-06 - Não serei mais candidato]] — irônico: resposta ao canal O Meteoro/Pedro Zambarda; aprovação do Missão lida por Renan como confirmação do crescimento.
+- [[fontes/2025-11-05 - LULA CRITICA MEGA OPERAÇÃO NO RJ]] — Lula critica operação policial no RJ; policial levou tiro na cabeça; Renan: "como eu odeio Lula."
+- [[fontes/2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO]] — TSE aprova Partido Missão 7 a 0; Kim é o primeiro deputado federal a ingressar.
+- [[fontes/2025-11-01 - Você sabe quem é Doca]] — Oruam intermediou reunião entre Doca (CV) e líder do TCP; critica normalização do tráfico pela mídia.
+- [[fontes/2025-11-28 - DAMA DO TRÁFICO É SOLTA PELA JUSTIÇA]] — Esposa de chefe do CV solta por problema psicológico da filha; judiciário como "tribunal do crime."
+- [[fontes/2025-11-27 - O FIM DO PT SERÁ ATRAVÉS DO NORDESTE]] — Estratégia dos 3 milhões de votos no Nordeste; número 14 do partido.
+- [[fontes/2025-11-26 - Quem estava no projeto político do Banco Master]] — Primeiro mapa visual de atores; Zettel doador de Tarcísio e Bolsonaro em 2022; BRB e carteira podre de R$ 16 bilhões.
+- [[fontes/2025-11-26 - O povo não merece o PT, Nikolas]] — Resposta a Nikolas; "crise das lideranças"; Bolsonaro destruiu a Lava-Jato.
+- [[fontes/2025-11-26 - B4ANDIDO AMIGÃO DA JUÍZA É M0RTO EM CONFRONTO]] — Reincidente amigão de juíza morre em confronto; elogio à PM.
+- [[fontes/2025-11-22 - Sobre a prisão do Bolsonaro]] — Tom melancólico; desejo de recuperação; crítica a sucessores oportunistas.
+- [[fontes/2025-11-21 - MULHER CONTA COMO É A REALIDADE EM BELÉM]] — Moradora de Belém: décadas de promessas dos Barbalhos; COP30 como autossabotagem do Pará.
+
+### Outubro de 2025
+
+- [[fontes/2025-10-30 - QUEM TROCA TIRO COM A POLÍCIA MERECE O QUE]] — tiro com polícia: 30 anos ou morte; rejeita argumento racial e de ressocialização.
+- [[fontes/2025-10-30 - A VERDADE SOBRE A PEC DA SEGURANÇA PÚBLICA]] — PEC como "armadilha bolivariana"; Instituto Igarapé/Soros; Instituto Sou da Paz; Instituto Conectas; expulsão das ONGs.
+- [[fontes/2025-10-29 - Minha proposta para os governadores]] — 11 pontos para governadores anti-crime; Tarcísio, Ratinho, Leite, Jorginho, Zema; proposta presidencial coletiva.
+- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]] — Rio em conflito armado; Lula na viagem enquanto cidade arde; conselho ao governador Castro.
+- [[fontes/2025-10-28 - O crime organizado já virou guerrilha]] — Facções usam drones com bombas; comparação com Ucrânia; "homens de terno em Brasília".
+- [[fontes/2025-10-27 - Oruam Deputado Estadual 2026]] — Candidatura do rapper CV a deputado estadual; análise do interesse estratégico; proposta de proibição.
+- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — Lula culpa usuários; PCC diversificou investimentos; Porto de Santos omissão federal.
+- [[fontes/2025-10-24 - Não vai ter Missão]] — Glauber Braga/PSOL tenta bloquear Missão no TSE; perfis suspeitos nas redes sociais.
+- [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Vermelho]] — Nikolas elogia Pose do Rodo (CV); recusou relatoria do PL anti-terrorismo CV/PCC.
+- [[fontes/2025-10-22 - O pior juiz do mundo mora no Brasil]] — Rubens Casara soltou criminoso preso 86 vezes; Márcia Tiburi; censura ao Antagonista.
+- [[fontes/2025-10-21 - Seu país tem heróis de verdade]] — Antônia Ioni/Saboeiro (CE): recusou envenenar PM e foi executada pelo CV; promessa de busto.
+- [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — Sindicato do irmão de Lula: R$400M do INSS; gringos incrédulos; aprovação de Lula sobe.
+- [[fontes/2025-10-13 - PRECISAMOS FUNDIR AS CIDADES URGENTE]] — Caiçara do Norte + São Bento do Norte (RN): 9K habitantes, 2 câmaras, 15 min a pé.
+- [[fontes/2025-10-11 - Erika Hilton atacou o MBL]] — Ataque de Erika à desfavelização; PSOL-crime (Danielle Franco, Janira, cracolândia); R$70-80B/ano.
+- [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]] — Régis Tadeu diz que Renan não sabe nada; Renan: 16,4M, 5M moradias, R$900B total.
+- [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]] — Kim derruba MP 1303/25 (cripto, LCI, LCA); Nikolas vota contra o requerimento.
+- [[fontes/2025-10-08 - Resposta para a Tabata Amaral]] — Tabata defende puxadinhos; Renan: duplo padrão contra quem empreende dentro da lei.
+- [[fontes/2025-10-05 - Resposta ao Intercept]] — "Bom Selvagem"; criminalizar movimentos de invasão; desfavelização em 30 anos.
+- [[fontes/2025-10-03 - Não é só em favela que tem gente com mau gosto]] — "mentalidade favelada" cruza classes; "gororoba cultural"; problema cultural, não econômico.
+- [[fontes/2025-10-02 - Você também é a favor de escolas militares]] — escolas militares; método fônico; FGV 2007: ausência paterna prediz crime.
+- [[fontes/2025-10-01 - Prendeu, Matou e a bebida envenenada do PCC]] — PCC distribui álcool com metanol; terrorismo; direito penal do inimigo.
+- [[fontes/2025-10-01 - Escola simula motel em São João Batista]] — São João Batista (MA): escola-motel, 11% água, zero saneamento, prefeito Messinho aliado de investigado.
+
+### Setembro de 2025
+
+- [[fontes/2025-09-30 - Rua desfavelizada vira favela de novo]] — Diadema: reurbanizada em 2010, refavelizada em 2025; condicionalidade + educação como requisitos.
+- [[fontes/2025-09-27 - Nikolas Ferreira te ENGANOU]] — Nikolas pegou e devolveu relatoria do PL anti-terrorismo; "medo pela vida"; comparação com jornalistas sem segurança.
+- [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]] — Lula na ONU conflui democracia com esquerda; Renan: Lula é o extremista.
+- [[fontes/2025-09-24 - Quer notícia boa]] — MPE/PGE aprova Partido Missão; TSE vota em 30 dias; critica Tarcísio/Zema/Caiado/Ratinho como "múmias".
+- [[fontes/2025-09-23 - Expulsei o Kim do MBL]] — Satírico; semana de Kim: CPI INSS, PL pensão socioafetiva, PL Ratonatão, MS STF, CNN; meta "205 Kim Kataguiris".
+- [[fontes/2025-09-17 - Nikolas Ferreira te TRAIU]] — PEC da Blindagem aprovada; Nikolas votou a favor; Kim único de direita contra; deal bolsonarismo-centrão.
+- [[fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA]] — 324 votos; Nikolas defende "chantagem do STF"; Kim vota contra e discursa; "ladrão unido jamais será vencido".
+- [[fontes/2025-09-16 - VAMOS CRIMINALIZAR O COMUNISMO]] — versão curta; Art. 286 CP; "nazista/fascista" = incitação ao crime.
+- [[fontes/2025-09-15 - VAMOS CRIMINALIZAR A EXTREMA-ESQUERDA]] — versão longa; cadeia lógica; Partido UP; Trump/Bolsonaro/Artur do Val; coautoria.
+- [[fontes/2025-09-15 - Mataram delegado que combatia o PCC]] — Rui Ferraz Fontes assassinado em Praia Grande; narcoestado; pena de morte + prisão perpétua.
+- [[fontes/2025-09-13 - O discurso da extrema-esquerda precisa ser criminalizado]] — Declaração direta: criminalizar discurso que valida violência; "handicap civilizacional."
+- [[fontes/2025-09-12 - Resposta ao Peninha]] — Eduardo Bueno zomba da morte de Kirk e das filhas; Renan exige consequências jurídicas.
+- [[fontes/2025-09-12 - Até quando você vai aguentar esse esculacho]] — Juíza íntima de homicida reincidente; R$700K/ano; "vocês não estão odiando o sistema suficiente."
+- [[fontes/2025-09-11 - ACABOU O DIÁLOGO COM A EXTREMA ESQUERDA]] — Morte de Kirk; Partido UP atacou coletores do Missão; projeto de lei contra discurso violento da esquerda.
+- [[fontes/2025-09-10 - Prepare-se para ficar revoltado]] — Vagabundo atira em policial em Paraisópolis, tomou arma, foi solto por juíza; proposta de prisão perpétua.
+- [[fontes/2025-09-10 - Charlie Kirk nos deixou]] — Morte do ativista americano; série de atentados contra a direita; "até quando a violência de esquerda será naturalizada?"
+- [[fontes/2025-09-09 - Precisamos libertar 25 milhões de brasileiros!]] — Forças Armadas nas fronteiras; uso multifatorial; mudança de paradigma penal; ressocialização x punição.
+- [[fontes/2025-09-09 - O pau tá quebrando no Nepal]] — Geração Z derruba governo de esquerda; analogia com bloqueio de redes sociais pelo STF.
+- [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — Taxa das blusinhas: 4x menos que o previsto, 14M consumidores prejudicados; monopólio do Magazine Luiza.
+- [[fontes/2025-09-06 - Cuida de mim, painho!]] — PT não tornou o Nordeste rico; assistencialismo como estratégia eleitoral de Lula; "dá botijão."
+- [[fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE]] — Matopiba: biocombustíveis com soja/milho; porto do Maranhão para EUA; indústria de alto valor agregado.
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Biografia completa: Mooca/1984, USP, policiais corruptos, MBL, manifestações, Missão.
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]] — Compilação de falas sobre guerra ao crime; declarar guerra formal às facções; invasão de territórios.
+- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — 2% na pesquisa Real Time Big Data; Renan sem candidatura formal; propostas centrais.
+
+## Análises
+
+- [[analises/Timeline do Escândalo Banco Master]] — Cronologia detalhada de novembro de 2025 a maio de 2026; mecanismo do esquema; conexões transpartidárias; 51 fontes.
+- [[analises/Propostas de Governo - Comparativo por Área]] — Compilação tabular de todas as propostas concretas do Renan, organizadas por área (fiscal, segurança, judiciário, educação, saúde, habitação, infraestrutura, política internacional, reforma institucional, tecnologia); com notas sobre evolução de posições ao longo do tempo. 22 páginas de posições consultadas.

@@ -1,0 +1,54 @@
+---
+title: "Transparência Digital e Anticorrupção"
+tags:
+  - posicao
+  - tecnologia
+  - anticorrupção
+  - dados-públicos
+date: 2026-02-26
+fontes:
+  - "2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL"
+  - "2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS"
+---
+
+# Transparência Digital e Anticorrupção
+
+Renan Santos defende o uso de inteligência artificial e cruzamento de bases de dados públicas como principal ferramenta de combate à corrupção — mais eficiente e mais barato do que estruturas burocráticas de fiscalização.
+
+## A ferramenta "Aceleracionismo Brasileiro"
+
+No vídeo [[fontes/2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL]], Renan apresenta a ferramenta desenvolvida por **Bruno César** e sua equipe, que cruza **mais de 80 bases de dados públicas** para expor irregularidades com o CPF de um político:
+
+- Emendas, obras e fornecedores
+- Insider trading na Bolsa
+- Funcionários fantasmas
+- Patrimônio incompatível com a renda
+- Processos na Justiça
+
+O ponto central: as bases são **todas públicas**, mas nenhum sistema oficial as cruza. A opacidade não é técnica — é política.
+
+> "Políticos corruptos querem impedir judicialmente o uso da plataforma em ano eleitoral."
+
+## Proposta como presidente
+
+Renan propõe criar um **departamento federal de IA para cruzamento contínuo de dados públicos**:
+
+> "Isso traz transparência e combate a corrupção. E detalhe, custa bem menos do que aquele bando de assessor que fica trabalhando lá em Brasília."
+
+## Restauração dos instrumentos de investigação
+
+Em [[fontes/2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS]], Renan elenca as medidas legais que restaurariam o poder investigativo do Estado:
+
+1. **Prisão em segunda instância** — fim da impunidade enquanto recursos se arrastam
+2. **COAF recupera o poder** original de investigar movimentações suspeitas
+3. **Proibição de ministros do STF** de perseguir ou interferir em investigações da Receita Federal e COAF
+4. **Autonomia e equipamento** para a Polícia Federal
+
+## Partido Missão como caso de uso
+
+Renan quer usar a ferramenta do "Aceleracionismo Brasileiro" para **screening de novos filiados** ao Partido Missão — garantindo que candidatos com ficha suja não entrem pela porta dos fundos.
+
+## Fontes
+
+- [[fontes/2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL]]
+- [[fontes/2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS]]

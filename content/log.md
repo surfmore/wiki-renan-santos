@@ -1,0 +1,1314 @@
+# Log de operações
+
+## [2026-05-26] ingest | Malandragem do Lula (1 short)
+- Fonte criada: fontes/2026-05-26 - Vou mostrar pra todo mundo a malandragem do Lula!
+- Páginas atualizadas: index.md
+- Conteúdo: argumento sobre assistencialismo X taxação; reforça temas já documentados em Carga Tributária e Empobrecimento.
+
+## [2026-05-26] manutencao | Reorganização index.md + correção de email
+- Seção "Fontes (cronológico)" reorganizada: headers agora por mês apenas (sem nomes de batch)
+- Email do disclaimer corrigido: felmoura → wikipoliticabr@gmail.com
+- Arquivo truncado restaurado (39 linhas faltando incluindo seção Análises)
+
+## [2026-05-25] ingest | Batch 35 — Viagem à Bahia e clips de TV (4 shorts)
+- Fontes criadas: fontes/2026-05-25 - O PT destruiu a Bahia, fontes/2026-05-24 - A Bahia governada pelo PT já era, fontes/2026-05-24 - O caminho para a direita não é a família Bolsonaro, fontes/2026-05-24 - Você viu o que falei
+- Páginas atualizadas: pessoas/Jerônimo Rodrigues (nova seção sobre bloqueio da PM e declínio de Salvador), pessoas/Flávio Bolsonaro (nova seção sobre conivência da direita e diagnóstico do derretimento), temas/Crítica à Direita Tradicional (nova seção sobre conivência generalizada da direita), temas/Desigualdade Regional e Migração Interna (Bahia: 1/3 pop. SP mas maior Bolsa Família do país), temas/Segurança Pública (Bahia 2º estado mais violento; operações sem DPI como enxugar gelo), index.md
+- Nota: transcrições com repetição 3x (segmentos sobrepostos do YouTube auto-sub). Conteúdo extraível; bug no limpar_srt.py a corrigir.
+- Falhas de download não ingeridas: zbTXDOHMiJg (exige login/restrição de idade), sqtqtanjVFE (sem legenda PT disponível)
+
+## [2026-05-25] analise | Propostas de Governo - Comparativo por Área
+- Arquivo: analises/Propostas de Governo - Comparativo por Área
+- Páginas consultadas: posicoes/* (22 páginas), fontes/* (amostra para propostas sem página dedicada)
+- Páginas atualizadas: index.md
+
+## [2026-05-25] analise | Timeline do Escândalo Banco Master
+- Arquivo: analises/Timeline do Escândalo Banco Master
+- Páginas consultadas: eventos/Escândalo Banco Master, pessoas/Daniel Vorcaro, pessoas/Dias Toffoli, fontes/* (51 fontes específicas sobre o tema)
+- Páginas atualizadas: index.md
+
+## [2026-05-26] lint | 4ª rodada — Fabiano Zettel + disclaimer
+- Página criada: `pessoas/Fabiano Zettel` — cunhado de Vorcaro; pastor Lagoinha; maior doador Tarcísio 2022 R$2M; resort Tayaya; festas/ilha/celular bomba; preso jan/2026. 8 fontes.
+- Constatado: `pessoas/Dias Toffoli` já existia com 12 fontes (não constava no index.md) — adicionada ao index.md
+- Adicionado disclaimer na `index.md`: wiki gerado por IA, pode conter erros, contato felmoura@gmail.com
+- Resultado lint: temas, posições, eventos e análises completos; nenhum link quebrado relevante além de duas ocorrências isoladas no log.md
+
+## [2026-05-26] ingest | Batch 36 — Valdemar entrega Flávio, Vila Rabelo, Luciano Huck (3 shorts)
+- Fontes criadas: fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!, fontes/2026-05-25 - O que Daniel Vorcaro tem a ver com a Vila Rabelo, fontes/2026-05-25 - Resposta ao Luciano Huck
+- Páginas atualizadas: pessoas/Valdemar Costa Neto (nova seção sobre entrevista; adicionado à seção Fontes), eventos/Escândalo Banco Master (duas novas seções: Valdemar entrega Flávio + Vila Rabelo/BRB), temas/Empobrecimento e Mercado de Trabalho (nova seção sobre convergência com Huck), index.md, log.md
+- Correções sistêmicas aplicadas: 134 fontes receberam campo date: a partir de data: (Quartz exige date:); 40 títulos com prefixo "YYYY-MM-DD - " foram limpos (script fix_dates.py)
+
+## [2026-05-26] lint | Criação de páginas em falta — 3ª rodada (lint + novas páginas)
+
+**Páginas criadas (7):**
+- `pessoas/Lula` — presidente da República; adversário eleitoral central; Banco Master (Mantega R$1M/mês); COP30/Janja; sindicato do irmão R$400M INSS; fraude eleitoral via LDO; "paternidade eleitoral" do Nordeste; "extremista disfarçado"; racha com centrão após rejeição de Messias. 13 fontes.
+- `pessoas/Valdemar Costa Neto` — fundador e presidente do PL; co-criou o Mensalão com Zé Dirceu; preso até 2016; acolheu Bolsonaro no PL; R$953M de fundo eleitoral 2026; declarou Messias "camarada de bem"; bloqueou impeachment STF; errou o lema na Paulista; "Valdemar tem que ter uma cela." 11 fontes.
+- `pessoas/Jair Bolsonaro` — ex-presidente; destruiu a Lava-Jato para salvar Flávio da rachadinha ("quem soltou o Lula foi o Bolsonaro"); preso nov/2025 (tom melancólico, sem glória para ninguém); doença na cadeia (defesa de tratamento humanitário); "foi covarde mas não merece crueldade"; abandonou Flávio após áudios vazados (mai/14); dosimetria como moeda de troca. 8 fontes.
+- `pessoas/Roberto Campos Neto` — ex-presidente do Banco Central; ignorou 38 alertas do mercado sobre o Banco Master; "amicíssimo" de Daniel Vorcaro; churrasco com Vorcaro e Ciro Nogueira; cotado como ministro da Fazenda de Tarcísio; "parte do esquema." 6 fontes.
+- `pessoas/Fernando Haddad` — ministro da Fazenda; taxou 1.200 produtos, CPU/GPU, MEI, IPVA; sabotou IPVA 1% e correção do MEI; "PT inimigo de quem trabalha"; Renan promete "revogaço" na 1ª semana; paralelo com 2018 (Haddad no lugar de Lula); possível substituto de Lula em 2026. 10 fontes.
+- `eventos/Manifestação na Paulista — 11 de abril de 2026` — ato em defesa da delação premiada; contexto: STF derrubou CPMI do INSS (8 a 2), "operação marmelada" para blindar Moraes, tentativa de extinguir a delação às vésperas da delação de Vorcaro; contrato da esposa de Moraes com Vorcaro (R$80M). 3 fontes.
+
+**Páginas atualizadas:**
+- `index.md` — adicionadas entradas de Lula, Valdemar Costa Neto, Jair Bolsonaro, Roberto Campos Neto, Fernando Haddad (pessoas) e Manifestação na Paulista (eventos)
+- `log.md` — este registro
+
+---
+
+## [2026-05-25] lint | Manutenção periódica — lint completo (2ª rodada)
+
+**Páginas criadas (2):**
+- `pessoas/Davi Alcolumbre` — senador do Amapá; presidente do Senado; articulou derrubada da CPI do Master em troca de dosimetria; Amapá investiu previdência em títulos do banco; comparado a "prefeito de Turilândia que preside o Senado"; "accordão" com Flávio e Xandão. 12 fontes.
+- `pessoas/Wesley Safadão` — cantor forrozeiro; R$52M em 50+ shows com prefeituras (2024-25); liminar para silenciar Renan (abr/27-29); MP da Paraíba aciona Coxixola onde cachê = 61% do orçamento de educação; proposta de lei de responsabilidade gerencial. 10 fontes.
+
+**Páginas enriquecidas (2):**
+- `pessoas/Daniel Vorcaro` — adicionada seção sobre **Henrique Vorcaro** (pai): descrito como "verdadeiro arquiteto do negócio Banco Master"; preso em 14/05/2026; doação de R$1M ao Novo/MG em 2022; quitou BMW de André Valadão; primeiro emprego de Daniel financiado por ele. Links adicionados para `[[pessoas/Romeu Zema]]` e `[[pessoas/Dias Toffoli]]`.
+- `pessoas/Romeu Zema` — atualizada entrada sobre conexão com Banco Master: corrigida para "pai de Vorcaro (Henrique) doou R$1M ao Novo/MG". Link adicionado para `[[pessoas/Daniel Vorcaro]]`.
+
+**Páginas atualizadas (4):**
+- `index.md` — adicionadas entradas de Davi Alcolumbre e Wesley Safadão; atualizada entrada de Daniel Vorcaro (Henrique preso) e Romeu Zema (conexão corrigida)
+- `eventos/Escândalo Banco Master` — adicionado `[[pessoas/Davi Alcolumbre]]` na seção "Pessoas relacionadas"; atualizada nota sobre Henrique Vorcaro preso em mai/14
+- `temas/Corrupção Municipal` — Wesley Safadão agora linkado via `[[pessoas/Wesley Safadão]]`
+- `pessoas/Flávio Bolsonaro` — Alcolumbre agora linkado via `[[pessoas/Davi Alcolumbre|Alcolumbre]]`
+
+**Links quebrados corrigidos (4) — rodada anterior:**
+- `fontes/2026-04-09 - Xandão quer mudar delação premiada` — removido link `[[pessoas/Dias Toffoli]]` inexistente (substituído por texto plano)
+- `fontes/2026-04-21 - Minas Gerais país independente` — removido link `[[eventos/Conjuração Mineira]]` inexistente
+- `fontes/2026-05-13 - O que os estudantes da USP fizeram` — corrigido link `[[temas/Propostas para Educação]]` → `[[posicoes/Propostas para Educação]]`
+- `fontes/2026-04-05 - O Brasil está empobrecendo` — removido link `[[posicoes/Vale-Gás]]` inexistente
+
+**Observações de lint — pendências para próxima rodada:**
+- Lula e Jair Bolsonaro: aparecem em centenas de fontes mas não têm páginas dedicadas. Por escopo do wiki (o que Renan disse sobre eles), considerar criar em próximo batch de ingest ou query específica.
+- Roberto Campos Neto (ex-presidente do BC): 6 fontes, principalmente no tema Master (38 alertas ignorados). Candidato a página se houver mais conteúdo.
+- Evento "Dosimetria Derrubada por Xandão" (mai/09-10): denso o suficiente para evento separado ou já coberto em temas/STF e Ativismo Judicial. Verificar se merece página própria.
+- Evento "Manifestação na Paulista — 11 de abril de 2026" (convocada em defesa da delação premiada): mencionar em eventos/Escândalo Banco Master se ainda não está.
+
+---
+
+## [2026-05-25] ingest batch 34 | 11 shorts + 3 longos (2026-05-21 → 2026-05-23)
+
+**Fontes processadas (14):**
+- fontes/2026-05-21 - F3minicídi0 não existe *(short)*
+- fontes/2026-05-21 - Flávio Bolsonaro precisa de ajuda! *(short)*
+- fontes/2026-05-21 - O centrão é o verdadeiro problema do Brasil! *(short)*
+- fontes/2026-05-21 - Quem paga a banda escolhe a música! *(short)*
+- fontes/2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA *(longo)*
+- fontes/2026-05-21 - RENAN AO VIVO - MARCHA DOS PREFEITOS EM BRASÍLIA *(longo)*
+- fontes/2026-05-22 - Deolane Bezerra presa! *(short)*
+- fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro *(short)*
+- fontes/2026-05-22 - É meu destino encontrar Lula no debate *(short — conteúdo político mínimo)*
+- fontes/2026-05-23 - Milei na forma e Bukele no conteúdo *(short)*
+- fontes/2026-05-23 - O que fazer com o STF - Sabatina com Daniela Lima no Esfera *(short)*
+- fontes/2026-05-23 - Por que eu quero fazer uma intervenção no Porto de Santos *(short)*
+- fontes/2026-05-23 - Recado para a Faria Lima *(short)*
+- fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026 *(longo)*
+
+**Notas de curadoria:**
+- Vídeo "É meu destino encontrar Lula no debate" é anedótico e foi processado com conteúdo mínimo — não gerou atualizações de temas ou posições.
+- Os dois longos de 21/05 (MULTIDÃO e MARCHA DOS PREFEITOS) têm conteúdo substancial e complementar — MULTIDÃO é o evento de pré-campanha à noite; MARCHA é o painel oficial da CNM durante o dia.
+- O longo da SABATINA ESFERA (23/05) inclui debate com Aldo Rebelo e coletiva de imprensa.
+
+**Páginas criadas:** nenhuma nova página de tema, posição, pessoa ou evento — todo conteúdo integrado em páginas existentes.
+
+**Páginas atualizadas:**
+- temas/Crítica à Direita Tradicional — novos blocos: Flávio visita Vorcaro; centrão como poder real; Faria Lima errou apostas
+- temas/Segurança Pública — novos blocos: Porto de Santos/PCC/estado de defesa; Deolane/direito penal do inimigo; Perry Shikida/feminicídio
+- temas/STF e Ativismo Judicial — novo bloco: reafirmação propostas na Sabatina Esfera
+- temas/Ambição Nacional e Soberania Tecnológica — novos blocos: cadeia de terras raras (MAGBRAS); Milei na forma/Bukele no conteúdo
+- posicoes/Emendas Parlamentares Condicionadas a Metas — novo bloco: Marcha dos Prefeitos; art. 167 CF
+- posicoes/Propostas para o STF — novo bloco: reafirmação na Sabatina Esfera e Marcha dos Prefeitos; fontes adicionais
+- posicoes/Reforma Fiscal — novo bloco: desvinculação aposentadorias/BPC; fim de gatilhos automáticos; debate com Aldo Rebelo
+- pessoas/Renan Santos — novos blocos: Marcha dos Prefeitos; ~7% Atlas; Sabatina Esfera
+- pessoas/Flávio Bolsonaro — novo bloco: visita a Vorcaro preso/desculpa inverossímil
+- eventos/Escândalo Banco Master — novo bloco: visita de Flávio a Vorcaro preso
+- index.md — seção Fontes (batch 34) inserida no topo; todas as entradas afetadas atualizadas
+
+## [2026-05-24] ingest batch 33 | 13 shorts + 1 longo (2026-05-13 → 2026-05-15)
+
+**Fontes processadas (14):**
+- fontes/2026-05-13 - O que os estudantes da USP fizeram
+- fontes/2026-05-13 - POPULAÇÃO DE TURILÂNDIA COMEMORA SOLTURA DE PREFEITO PRESO POR DESVIAR R$ 56 MILHÕES
+- fontes/2026-05-13 - Por que a Rede Globo fica me escondendo
+- fontes/2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora
+- fontes/2026-05-13 - VAZA ÁUDIO ENTRE DANIEL VORCARO E FLÁVIO BOLSONARO *(duplicata do anterior)*
+- fontes/2026-05-13 - RENAN VISITA A FÁBRICA DA AETHRA - Pouso Alegre - MG *(longo)*
+- fontes/2026-05-14 - Convite para Zema e Caiado! *(duplicata do próximo)*
+- fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS
+- fontes/2026-05-14 - Lula venceu a eleição
+- fontes/2026-05-14 - Um bairro de São Paulo está esperando essa ponte há décadas
+- fontes/2026-05-15 - Eu sou o maior inimigo da causa autista
+- fontes/2026-05-15 - Flávio Bolsonaro acabou comigo
+- fontes/2026-05-15 - Turilândia, no Maranhão, é um caso a ser estudado
+- fontes/2026-05-15 - VAZOU! Faça sua doação para pix@partidomissao.com *(paródia/pedido de doação — conteúdo político mínimo)*
+
+**Notas de curadoria:**
+- Vídeos 4 e 5 (Vorcaro/Flávio áudio) têm transcrições praticamente idênticas — provavelmente mesmo conteúdo com dois títulos. Ambas as páginas de fonte criadas, com nota de duplicata.
+- Vídeos 6 e 7 (Convite Zema/Caiado) têm o mesmo padrão. Página principal é a de n.º 7 (mais detalhada).
+- Vídeo 13 (VAZOU!) é paródia humorística — conteúdo político atribuível a Renan é mínimo.
+
+**Páginas atualizadas:**
+- temas/Crítica à Direita Tradicional — nova seção: áudio Flávio-Vorcaro (quatro versões, caixa dois, MPE); Flávio recusa debater Renan
+- temas/Mídia e Imprensa — nova seção: recado formal à Globo (gráfico de citações, convite para cobertura)
+- temas/Corrupção Municipal — nova seção: Turilândia (motociata, 97% repasses, "República de Turilândia")
+- temas/Pautas Identitárias e de Gênero — nova seção: laudos falsos vendidos, BPC dobrado, João Campos cota
+- posicoes/Propostas para Educação — nova seção: USP (fim da autonomia, jubilamento de grevistas, endowments)
+- posicoes/Reforma Fiscal — nova seção: sequência corte de gastos/corte de impostos; Zona Franca/supersalários
+- pessoas/Flávio Bolsonaro — nova seção: áudio vazado + recusa de debater
+- pessoas/Renan Santos — novos registros: ~10% nos trackings de Flávio, Globo apaga candidatura
+- pessoas/João Campos — nova seção: cota de deficiente com diagnóstico autista
+- eventos/Escândalo Banco Master — nova seção: áudio Flávio-Vorcaro e MPE acionado
+- index.md — seção Fontes (batch 33) inserida no topo; todas as entradas afetadas atualizadas
+
+## [2026-05-24] ingest batch 32 | 14 shorts (2026-05-08 → 2026-05-12)
+
+**Fontes processadas (14):**
+- fontes/2026-05-08 - O Acre deveria ser um Estado
+- fontes/2026-05-09 - Letícia Sabatella autista
+- fontes/2026-05-09 - Lula ficou COMPLETAMENTE MALUCO
+- fontes/2026-05-09 - Renan foi DESTRUÍDO Ou é o novo Enéas
+- fontes/2026-05-09 - Xandão derrubou a dosimetria
+- fontes/2026-05-10 - Flávio Bolsonaro confessou o acordo com o Alexandre de Moraes
+- fontes/2026-05-10 - Renan é autista Por que razão ele foi cancelado
+- fontes/2026-05-11 - Bora tomar detergente
+- fontes/2026-05-11 - Conheça a rua do medo que fica no bairro de maior qualidade de vida em São Paulo
+- fontes/2026-05-11 - Eu fui na casa que Ayrton Senna cresceu
+- fontes/2026-05-12 - A origem do prendeu matou
+- fontes/2026-05-12 - Tutorial sobre como ganhar um apartamento em São Paulo
+- fontes/2026-05-12 - URGENTE - a nova mentira do Lula
+- fontes/2026-05-12 - Você sabe quem é o homem mais poderoso do Brasil
+
+**Páginas atualizadas:**
+- temas/STF e Ativismo Judicial — nova seção: derrubada da dosimetria por Moraes; Flávio confessa que Moraes redigiu o texto; "semimonarquia" (mai/09-10)
+- temas/Crítica à Direita Tradicional — nova seção: "direita idiota" (detergente/havaianas); Nikolas vs. Kim; nova seção: Flávio confessa accordão + elogia Lula
+- temas/Segurança Pública — nova seção: origem do "prendeu matou" (Vítor Felisberto); nova seção: "rua do medo" em Pinheiros
+- temas/Desigualdade Regional e Migração Interna — nova seção: Acre (Cameli, 49% BF, proposta de intervenção)
+- temas/Programa Nuclear Brasileiro — nova seção: terras raras como caminho para indústria bélica e bomba em 30 anos
+- temas/Pautas Identitárias e de Gênero — nova seção: autismo (indústria do diagnóstico, escola inclusiva forçada, BPC)
+- temas/Carga Tributária — nova seção: taxa das blusinhas criada e revogada como fraude eleitoral
+- posicoes/Intervenção Federal em Estados com Baixo IDH — nova seção: Acre (mai/08)
+- posicoes/Desfavelização do Rio de Janeiro — nova seção: "indústria da favela" e invasão como crime inafiançável (mai/12)
+- posicoes/Propostas para Educação — nova seção: salas separadas para autistas, revisão do BPC
+- pessoas/Flávio Bolsonaro — nova seção: confissão do accordão; elogio a Lula; sem propostas próprias
+- pessoas/Alexandre de Moraes — nova seção: derrubada da dosimetria; redigiu o texto e depois traiu
+- pessoas/Ciro Nogueira — nova seção: perfil completo (Pedro II/PI, família, R$40M de Joesley, Banco Master)
+- pessoas/Nikolas Ferreira — nova seção: havaianas em vez de legislar
+- index.md, log.md atualizados
+
+## [2026-05-11] ingest batch 31 | 7 shorts (datas esparsas: 2026-03-27, 2026-03-20, 2026-02-25)
+
+**Nota:** Apenas 7 fontes restavam não ingeridas em todo o período anterior a 2026-04-01. As lacunas devem-se a diferenças de caracteres especiais nos nomes dos arquivos que impediram o match na ingestão de batches anteriores.
+
+**Fontes processadas (7):**
+- fontes/2026-03-27 - Eu fui na primeira favela do Brasil
+- fontes/2026-03-27 - Estou saindo do MBL
+- fontes/2026-03-20 - 7 PROPOSTAS PARA A TECNOLOGIA
+- fontes/2026-03-20 - NO AMAZONAS, VOCÊ PODE GANHAR MAIS DE MIL REAIS SEM FAZER NADA
+- fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL
+- fontes/2026-02-25 - ESSE VIDEO DO RICHARD RASMUSSEN VAI TE DEIXAR PTO
+- fontes/2026-02-25 - O LULA NÃO TEM NADA PARA PROPOR
+
+**Páginas atualizadas:**
+- posicoes/Desfavelização do Rio de Janeiro — nova seção: Marco Nacional Desfavelização (Providência, mar/27); R$ 900B/10 anos; tolerância zero invasões inafiançáveis; escolas cívico-militares; prefeito perde direitos políticos
+- temas/Ambição Nacional e Soberania Tecnológica — nova seção: 7 propostas de tecnologia (Simples Tech, stock options, TIB, matching israelense, Thiel Fellowship, capital gains, visto nômade)
+- temas/Desigualdade Regional e Migração Interna — nova seção: Barcelos (AM), R$ 1000/mês sem trabalhar, IDH 0,5, interventor
+- posicoes/Intervenção Federal em Estados com Baixo IDH — nova seção: Barcelos como caso de interventor municipal
+- temas/Empobrecimento e Mercado de Trabalho — nova seção: estigma do fracasso, modelo asiático de desenvolvimento
+- temas/Corrupção Municipal — nova seção: Richard Rasmussen/PRF, punir honestos proteger desonestos, Missão como instrumento
+- index.md, log.md atualizados
+
+## [2026-05-10] ingest batch 30 | 5 shorts (2026-04-13 → 2026-04-14)
+
+**Nota:** Apenas 5 fontes restavam não ingeridas no período 2026-04-01 → 2026-04-14 (todo o resto coberto por batches anteriores).
+
+**Fontes processadas (5):**
+- fontes/2026-04-14 - Ameaçado por chamar Coroadinho de filial do inferno
+- fontes/2026-04-14 - Presídio de Pedrinhas
+- fontes/2026-04-14 - O que é melhor no Maranhão
+- fontes/2026-04-14 - Lideranças do Coroadinho repudiam Renan
+- fontes/2026-04-13 - CANCELARAM O ABACATUDO POR MISOGINIA
+
+**Páginas atualizadas:**
+- temas/Segurança Pública — nova seção: Pedrinhas/PCM/Bonde dos 40 como escola do crime; modelo CECOT; nova seção: Coroadinho (80 hom/100k)
+- temas/Desigualdade Regional e Migração Interna — nova seção: Coroadinho, 35% de São Luís em favelas, "discurso coitadista"
+- temas/Pautas Identitárias e de Gênero — nova seção: Abacatudo/Red Pill como espantalho; "Café com teu pai" indiciado
+- temas/Crítica à Direita Tradicional — nova seção: Flávio "feministo", Novo e Moro apoiam pauta feminista
+- index.md, log.md atualizados
+
+## [2026-05-10] ingest batch 29 | 15 shorts (2026-04-15 → 2026-04-21)
+
+**Fontes processadas (15):**
+- fontes/2026-04-21 - Nosso maior adversário é a falta de imaginação.
+- fontes/2026-04-21 - Minas Gerais país independente
+- fontes/2026-04-21 - EU INVADI A ARGENTINA
+- fontes/2026-04-20 - O Maranhão pode ser melhor do que isso
+- fontes/2026-04-20 - O Brasil acaba de vender uma mina de terras raras!
+- fontes/2026-04-20 - Esse menino é um herói!
+- fontes/2026-04-19 - Erika Hilton x Madeleine Lackso
+- fontes/2026-04-18 - Fui ameaçado pelo pai do Neymar
+- fontes/2026-04-18 - Eu de extrema-direita
+- fontes/2026-04-17 - Você vai TRABALHAR.
+- fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF
+- fontes/2026-04-17 - Eduardo Bolsonaro será preso!
+- fontes/2026-04-16 - Classe política do Maranhão versus EU
+- fontes/2026-04-16 - Azul caneta
+- fontes/2026-04-15 - Recado para Neymar
+
+**Páginas criadas:**
+- pessoas/Neymar (7 associados ligados ao crime; ONG/Deolane; influência sobre jovens)
+
+**Páginas atualizadas:**
+- temas/STF e Ativismo Judicial (padrão PT-STF-bolsonarismo contra Alessandro Vieira abr/17; condenação Eduardo Bolsonaro voto de vingança abr/17)
+- temas/Imigração e Fronteiras (fronteira SC/Argentina: Bolsa Família para estrangeiros; proposta acordo com Milei abr/21)
+- temas/Desigualdade Regional e Migração Interna (nota de repúdio classe política MA abr/16; visão Maranhão do futuro sul do estado abr/20)
+- temas/Ambição Nacional e Soberania Tecnológica (falta de imaginação como adversário abr/21; Conjuração Mineira/founding fathers abr/21; Serra Verde US$2,8bi terras raras abr/20)
+- temas/Crítica à Direita Tradicional (Flávio ataca Vieira antes do STF abr/17; Azul Caneta/celebridades peões do centrão abr/16)
+- temas/Segurança Pública (legítima defesa: menor mata invasor abr/20)
+- posicoes/Frente de Trabalho para o Bolsa Família (confirmação direta "ou rala ou rola" abr/17)
+- pessoas/Érika Hilton (perseguição Madeleine Lackso via AGU abr/19)
+- pessoas/Alexandre de Moraes (condenação Eduardo Bolsonaro/voto de vingança abr/17)
+- index.md, log.md
+
+
+
+## [2026-05-09] ingest batch 28 | 15 shorts (2026-04-22 → 2026-04-26)
+
+**Fontes processadas (15):**
+- fontes/2026-04-26 - É assim que vou acabar com o crime organizado!
+- fontes/2026-04-26 - O Brasil não é para amadores!
+- fontes/2026-04-26 - Lula é um picareta!
+- fontes/2026-04-26 - Conhecem o efeito Renan
+- fontes/2026-04-25 - Resposta sobre o bairro de Pinheirinho, em Criciúma
+- fontes/2026-04-25 - O grande câncer da política brasileira
+- fontes/2026-04-24 - Santa Catarina x Maranhão - o duelo final!
+- fontes/2026-04-24 - Eu sou o pré-candidato que mais cresce!
+- fontes/2026-04-24 - Essa vinícola vai te mostrar todo o potencial do agro
+- fontes/2026-04-24 - Erika Hilton e escala 6x1
+- fontes/2026-04-23 - Santa Catarina, não podemos deixar que a favelização tome conta do estado!
+- fontes/2026-04-23 - O que fazer com crackudo
+- fontes/2026-04-23 - Não sobra NADA...
+- fontes/2026-04-23 - Catarinense, está na hora de você ter o que você merece
+- fontes/2026-04-22 - Um sonho de um país diferente vai dar certo.
+
+**Páginas criadas:**
+- (nenhuma nova — conteúdo integrado em páginas existentes)
+
+**Páginas atualizadas:**
+- temas/Segurança Pública (favelização SC: +50% favelas, PGC/CV, 775 ônibus Joinville; estados leniéticos Ceará/Bahia/Santa Quitéria; internação compulsória crackudos/ONG Crack Resiste abr/23-26)
+- temas/Corrupção Municipal (DJ Alock Piauí R$1,8M; judiciário cúmplice; "efeito Renan" abr/26)
+- temas/Desigualdade Regional e Migração Interna (SC x MA: São Miguel do Oeste IDH 0,801 vs Santo Antônio dos Lopes IDH 0,565; Guaraciaba PAC 1 Dilma 14 anos; "roubo federativo" abr/23-24)
+- temas/Carga Tributária (vinícola São Joaquim SC: mais imposto vinho nacional que importado abr/24)
+- temas/Empobrecimento e Mercado de Trabalho (escala 6x1: Érika Hilton 122 faltas, PEC como teatro; Botswana ultrapassa Brasil abr/24-26)
+- temas/Crítica à Direita Tradicional (centrão R$65B "grande câncer" abr/25; Lula "ladrão de sonhos"/Flávio "tongo" abr/26)
+- temas/Agronegócio e Matopiba (vinícola São Joaquim: agro alto valor agregado abr/24)
+- pessoas/Érika Hilton (122 faltas; não estava na votação da própria PEC 6x1; PEC como teatro abr/24)
+- pessoas/Renan Santos ("efeito Renan"; vice-presidente comitê impeachment Dilma; "gesso" abr/22-26)
+- posicoes/Estado de Defesa e Direito Penal do Inimigo (Ceará/Bahia leniência: Santa Quitéria, Elmano/Jerônimo; estado de defesa específico abr/26)
+- posicoes/Emendas Parlamentares Condicionadas a Metas (centrão R$65B; DJ Alock judiciário cúmplice abr/25-26)
+- posicoes/Fusão de Municípios ("roubo federativo"; SC x MA; Guaraciaba PAC 1 Dilma abr/23-24)
+- posicoes/Plano para Moradores de Rua (crackudos: internação compulsória, ONG Crack Resiste, vacina do crack abr/23)
+- index.md, log.md
+
+## [2026-05-09] ingest batch 27 | 15 shorts (2026-04-27 → 2026-04-29)
+
+**Fontes processadas (15):**
+- fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF
+- fontes/2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele
+- fontes/2026-04-29 - Fui censurado pelo Wesley Safadao
+- fontes/2026-04-29 - FLÁVIO É FRACO
+- fontes/2026-04-29 - Existe democracia no Maranhão
+- fontes/2026-04-29 - Esse é o começo do fim do Lula!
+- fontes/2026-04-29 - Café com teu pai
+- fontes/2026-04-29 - BESSIAS REJEITADO!
+- fontes/2026-04-28 - Por que esquecem da minha existência
+- fontes/2026-04-28 - Pena de morte no Brasil
+- fontes/2026-04-28 - CONTINUAMOS SUBINDO!
+- fontes/2026-04-27 - Wesley Safadão não quer que eu seja Presidente
+- fontes/2026-04-27 - Seu futuro pode ser diferente
+- fontes/2026-04-27 - PF do Lula censura cidadão
+- fontes/2026-04-27 - O que eu penso sobre prisão de ministros do STF
+
+**Páginas criadas:**
+- eventos/Tentativa de Lula de nomear Jorge Messias ao STF (novo)
+
+**Páginas atualizadas:**
+- pessoas/Flávio Bolsonaro (Messias: Flávio admite fraqueza; plano econômico escondido abr/29)
+- pessoas/Renan Santos (pesquisas: Atlas ~6%/Nexus 4%; censura Safadão)
+- temas/STF e Ativismo Judicial (rejeição Messias; prisão de ministros abr/27)
+- temas/Corrupção Municipal (censura Safadão: liminar + tabela de shows abr/27-29)
+- temas/Crítica à Direita Tradicional (Flávio admite fraqueza; Zema privatização)
+- temas/Mídia e Imprensa (PF polícia política abr/27; censura Safadão; imprensa ignora 3º lugar)
+- temas/Segurança Pública (pena de morte: cláusula pétrea + reocupação território abr/28)
+- temas/Ambição Nacional e Soberania Tecnológica (defesa aérea + indústria bélica via terras raras abr/27)
+- temas/Pautas Identitárias e de Gênero (Café com meu pai: influencer abr/29)
+- eventos/Escândalo Banco Master (tentativa blindagem via Messias no STF)
+- index.md, log.md
+
+## [2026-05-08] ingest batch 26 | 15 shorts (2026-04-30 → 2026-05-04)
+
+**Fontes processadas (15):**
+- fontes/2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui
+- fontes/2026-05-04 - O que Erika Hilton tem a ver com o estupro coletivo
+- fontes/2026-05-04 - O projeto mais importante da última década acaba de ser sancionado
+- fontes/2026-05-03 - TIRE SEU TÍTULO DE ELEITOR IMEDIATAMENTE
+- fontes/2026-05-03 - O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO
+- fontes/2026-05-03 - Belford Roxo é pior que o Maranhão
+- fontes/2026-05-02 - Um festival de música negra sem músico negro, mas com muito dinheiro público
+- fontes/2026-05-02 - Tão roubando o seu disprósio!
+- fontes/2026-05-02 - Oruam m4t0u um pai de família
+- fontes/2026-05-02 - Coroadinho não esqueceu de mim!
+- fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão.
+- fontes/2026-05-01 - A proposta mais burra que você vai ver hoje
+- fontes/2026-04-30 - Minha resposta sobre o PL da Misoginia
+- fontes/2026-04-30 - Marmelada na CPI do Banco Master
+- fontes/2026-04-30 - Flavio Bolsonaro é a única salvação contra Lula
+
+**Páginas criadas:**
+- pessoas/Érika Hilton (novo)
+
+**Páginas atualizadas:**
+- pessoas/Flávio Bolsonaro (accordão Xandão; Canela/Belford Roxo; "Bolso Master" propaganda PT)
+- pessoas/Oruam (normalização do crime; pai de família assassinado mai/02)
+- pessoas/Kim Kataguiri (PL roubo/celular sancionado mai/04)
+- eventos/Escândalo Banco Master ("marmelada" CPI suprimida; accordão abr/mai)
+- temas/Segurança Pública (modelo El Salvador mai/04; normalização do crime mai/02)
+- temas/Crítica à Direita Tradicional (teatro das tesouras; Flávio candidato PT; Belford Roxo)
+- temas/Corrupção Municipal (MP Paraíba/Safadão; festival Ceilândia; Coroadinho/artistas)
+- temas/Ambição Nacional e Soberania Tecnológica (terras raras/disprósio mai/02)
+- temas/Pautas Identitárias e de Gênero ("não haverá idade penal"; PL Misoginia)
+- index.md, log.md
+
+## [2026-05-08] ingest batch 25 | 15 shorts (2026-05-05 → 2026-05-08)
+
+**Fontes processadas (15):**
+- fontes/2026-05-08 - Tabata Amaral é solidária com o Recife
+- fontes/2026-05-08 - RENATO CARIANI COMENTA SOBRE SHOWS EM CIDADES MISERÁVEIS
+- fontes/2026-05-08 - Lula ficou COMPLETAMENTE MALUCO.
+- fontes/2026-05-08 - Eu estou disposto a enfrentar o STF
+- fontes/2026-05-07 - O que diferencia a Missão dos outros partidos
+- fontes/2026-05-07 - Não queremos mais pagar essa conta
+- fontes/2026-05-07 - Minha resposta ao Wesley Safadão
+- fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.
+- fontes/2026-05-07 - A minha geração fracassou!
+- fontes/2026-05-06 - O ÚNICO que fala de todos os lados do Banco Master
+- fontes/2026-05-06 - O que é o prendeu m4tou
+- fontes/2026-05-06 - O FUTURO É GLORIOSO!
+- fontes/2026-05-06 - Lula acha que é bom você se endividar
+- fontes/2026-05-06 - Eu fui em Paraisópolis, que está tomada pelo PCC
+- fontes/2026-05-05 - Você é a favor ou contra pregação em aviões
+
+**Páginas criadas:**
+- pessoas/Ciro Nogueira (novo)
+
+**Páginas atualizadas:**
+- pessoas/João Campos (enchentes de Recife mai/08)
+- pessoas/Tabata Amaral (solidariedade performática nas enchentes)
+- pessoas/Flávio Bolsonaro (Ciro Nogueira como vice cogitado)
+- pessoas/Kim Kataguiri (pré-candidato ao governo de SP)
+- eventos/Escândalo Banco Master (operação compliance zero; Ciro Nogueira)
+- temas/Segurança Pública (Paraisópolis; conceito "prendeu matou")
+- temas/Empobrecimento e Mercado de Trabalho (Desenrola; geração que fracassou)
+- temas/STF e Ativismo Judicial (disposição de enfrentar o STF)
+- temas/Corrupção Municipal (shows/Safadão; enchentes Recife)
+- temas/Crítica à Direita Tradicional (Ciro Nogueira preso)
+- posicoes/Emendas Parlamentares Condicionadas a Metas (lei responsabilidade gerencial)
+- index.md, log.md
+
+## [2026-04-22] ingest batch 25 | 14 shorts (2025-09-02 → 2025-09-13)
+
+**Fontes processadas (14):**
+- fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!
+- fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)
+- fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)
+- fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE
+- fontes/2025-09-06 - Cuida de mim, painho!
+- fontes/2025-09-08 - Que se Dane a MAGALU!
+- fontes/2025-09-09 - O pau tá quebrando no Nepal
+- fontes/2025-09-09 - Precisamos libertar 25 milhões de brasileiros!
+- fontes/2025-09-10 - Charlie Kirk nos deixou
+- fontes/2025-09-10 - Prepare-se para ficar revoltado
+- fontes/2025-09-11 - ACABOU O DIÁLOGO COM A EXTREMA ESQUERDA
+- fontes/2025-09-12 - Até quando você vai aguentar esse esculacho
+- fontes/2025-09-12 - Resposta ao Peninha
+- fontes/2025-09-13 - O discurso da extrema-esquerda precisa ser criminalizado
+
+**Páginas criadas:**
+- pessoas/Renan Santos (biografia completa)
+- eventos/Morte de Charlie Kirk - Setembro de 2025
+
+**Páginas atualizadas:**
+- temas/Judiciário e Supersalários (casos set/10 e set/12)
+- temas/Carga Tributária (taxa das blusinhas set/08)
+- posicoes/Criminalização da Incitação pelo Discurso de Ódio Político (origem: morte de Kirk)
+- index.md, log.md
+
+---
+
+## [2026-04-21] ingest batch 24 | 15 shorts (2025-10-05 → 2025-09-15)
+
+**Fontes processadas (15):**
+- fontes/2025-10-05 - Resposta ao Intercept
+- fontes/2025-10-03 - Não é só em favela que tem gente com mau gosto
+- fontes/2025-10-02 - Você também é a favor de escolas militares
+- fontes/2025-10-01 - Prendeu, Matou e a bebida envenenada do PCC
+- fontes/2025-10-01 - Escola simula motel em São João Batista
+- fontes/2025-09-30 - Rua desfavelizada vira favela de novo
+- fontes/2025-09-27 - Nikolas Ferreira te ENGANOU
+- fontes/2025-09-25 - Não deixa eu ganhar, Lula
+- fontes/2025-09-24 - Quer notícia boa
+- fontes/2025-09-23 - Expulsei o Kim do MBL
+- fontes/2025-09-17 - Nikolas Ferreira te TRAIU
+- fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA
+- fontes/2025-09-16 - VAMOS CRIMINALIZAR O COMUNISMO
+- fontes/2025-09-15 - VAMOS CRIMINALIZAR A EXTREMA-ESQUERDA
+- fontes/2025-09-15 - Mataram delegado que combatia o PCC
+
+**Páginas criadas:**
+- eventos/PEC da Blindagem — Setembro de 2025
+- posicoes/Criminalização da Incitação pelo Discurso de Ódio Político
+
+**Páginas atualizadas:**
+- pessoas/Nikolas Ferreira (PEC da Blindagem set/16-17; devolveu relatoria PL anti-terrorismo set/27)
+- pessoas/Kim Kataguiri (único contra PEC da Blindagem set/16; semana produtiva set/23 — CPI do INSS, PL pensão socioafetiva, PL Ratonatão, MS STF, CNN debate; "205 Kim Kataguiris")
+- temas/Segurança Pública (Rui Ferraz Fontes assassinado set/15; PCC metanol como terrorismo out/01)
+- posicoes/Desfavelização do Rio de Janeiro (Diadema refavelizada set/30; resposta ao Intercept/"Bom Selvagem" out/05; "mentalidade favelada" out/03)
+- posicoes/Fusão de Municípios (São João Batista MA / escola-motel / 11% água / prefeito Messinho out/01)
+- posicoes/Propostas para Educação (escolas militares + FGV 2007 ausência paterna out/02)
+
+**Conceitos novos documentados:**
+- PEC da Blindagem set/16 — 324 votos; bolsonarismo-centrão deal; Kim único de direita contra
+- Nikolas devolveu relatoria PL anti-terrorismo por "medo" (set/27)
+- Rui Ferraz Fontes — ex-delegado geral SP (prendeu Marcola) assassinado pelo PCC (set/15)
+- PCC distribui metanol = terrorismo; direito penal do inimigo (out/01)
+- Criminalização do rótulo "nazista/fascista" como incitação ao crime — Art. 286 CP; coautoria
+- Diadema: rua reurbanizada em 2010 refavelizada em 2025; condicionalidade + educação
+- "Mentalidade favelada" / "gororoba cultural" como obstáculo cultural à desfavelização (out/03)
+- Intercept/"Bom Selvagem": romantização da pobreza; criminalizar movimentos de invasão (out/05)
+- São João Batista (MA): 11% água, zero saneamento, escola-motel, prefeito aliado de investigado
+- Escolas militares + FGV 2007: ausência paterna → crime; escolas militares como substituto
+- Semana de Kim set/23: "205 Kim Kataguiris" como meta política
+- Aprovação MPE/PGE do Partido Missão (set/24); TSE a votar em 30 dias
+- Lula na ONU: conflação de democracia com esquerda (set/25)
+- Nikolas traiu — pacto centrão-blindagem vs. anistia (set/17)
+
+---
+
+## [2026-04-21] ingest batch 23 | 15 shorts (2025-10-29 → 2025-10-08)
+
+**Fontes processadas (15):**
+- fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra
+- fontes/2025-10-29 - Minha proposta para os governadores
+- fontes/2025-10-28 - O crime organizado já virou guerrilha
+- fontes/2025-10-27 - Oruam Deputado Estadual 2026
+- fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico
+- fontes/2025-10-24 - Não vai ter Missão
+- fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Vermelho
+- fontes/2025-10-22 - O pior juiz do mundo mora no Brasil
+- fontes/2025-10-21 - Seu país tem heróis de verdade
+- fontes/2025-10-15 - Tentei explicar isso para um gringo
+- fontes/2025-10-13 - PRECISAMOS FUNDIR AS CIDADES URGENTE
+- fontes/2025-10-11 - Erika Hilton atacou o MBL
+- fontes/2025-10-10 - Regis Tadeu detona Renan Santos
+- fontes/2025-10-08 - Kim derrubou MP 1303 no Lula
+- fontes/2025-10-08 - Resposta para a Tabata Amaral
+
+**Páginas criadas:**
+- eventos/Rio de Janeiro em Guerra — Outubro de 2025
+- pessoas/Tabata Amaral
+- posicoes/Proposta para Governadores Anti-Crime
+
+**Páginas atualizadas:**
+- pessoas/Nikolas Ferreira (elogio Pose do Rodo out/23; recusa relatoria PL anti-terrorismo; voto contra Kim MP 1303 out/08)
+- pessoas/Kim Kataguiri (derrubada MP 1303/25 out/08)
+- pessoas/Oruam (candidatura deputado estadual RJ 2026 out/27)
+- temas/Segurança Pública (drones/guerrilha out/28; Antônia Ioni/Saboeiro out/21; Rubens Casara out/22)
+- temas/STF e Ativismo Judicial (Rubens Casara + censura ao Antagonista out/22)
+- posicoes/Estado de Defesa e Direito Penal do Inimigo (programa 11 pontos para governadores out/29)
+- posicoes/Expulsão de ONGs Estrangeiras (Ford/Rockefeller/Open Society em contexto de segurança out/29)
+- posicoes/Desfavelização do Rio de Janeiro (Erika Hilton out/11; Régis Tadeu out/10; R$70-80B/ano; 5M moradias)
+- posicoes/Fusão de Municípios (Caiçara do Norte + São Bento do Norte, RN, out/13)
+
+**Conceitos novos documentados:**
+- Crime organizado como força paramilitar usando drones (out/28)
+- Antônia Ioni Rodrigues da Silva — heroína de Saboeiro/CE (out/21)
+- Rubens Casara — juiz que soltou criminoso preso 86 vezes; censurou o Antagonista (out/22)
+- Programa 11 pontos para governadores anti-crime (out/29)
+- Caiçara do Norte + São Bento do Norte — 15 min a pé, dois governos para ~9K habitantes (out/13)
+- Oruam candidato a deputado estadual 2026 (out/27)
+- Nikolas elogia Pose do Rodo/CV; recusa relatoria anti-terrorismo (out/23)
+- Kim derruba MP 1303/25 (out/08); Nikolas vota contra
+- Régis Tadeu vs Renan: 16,4M em favelas, R$900B total (out/10)
+- Sindicato do irmão de Lula: R$400M do INSS; gringos incrédulos (out/15)
+
+## [2026-04-21] ingest batch 22 | 15 shorts (2025-11-20 → 2025-10-30)
+
+**Fontes processadas (15):**
+- fontes/2025-11-20 - Você já parou pra pensar nisso
+- fontes/2025-11-19 - Resposta para a humorista alemã
+- fontes/2025-11-18 - Você ainda vai me responder, Lula
+- fontes/2025-11-18 - ESSE É O PIOR INIMIGO DO BRASIL
+- fontes/2025-11-17 - Você acha favela bonito
+- fontes/2025-11-17 - O Brasil está sendo humilhado
+- fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO
+- fontes/2025-11-13 - Apareci numa pesquisa presidencial
+- fontes/2025-11-12 - Você votaria numa proposta dessas
+- fontes/2025-11-06 - Não serei mais candidato
+- fontes/2025-11-05 - LULA CRITICA MEGA OPERAÇÃO NO RJ
+- fontes/2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO
+- fontes/2025-11-01 - Você sabe quem é Doca
+- fontes/2025-10-30 - QUEM TROCA TIRO COM A POLÍCIA MERECE O QUE
+- fontes/2025-10-30 - A VERDADE SOBRE A PEC DA SEGURANÇA PÚBLICA
+
+**Páginas atualizadas:**
+- eventos/COP30 — Legado em Belém (seções: gringos embarrassados nov/17, Lula vs chanceler nov/18, humorista alemã/brasilificação nov/19)
+- temas/Segurança Pública (seções: assalto à mão armada 30 anos nov/20, caso Playboy/Ceará nov/12, operação RJ nov/05, PEC da segurança out/30, troca de tiro out/30)
+- temas/Soberania Nacional e ONGs Estrangeiras (seção: PEC da segurança + ONGs out/30)
+- temas/Mídia e Imprensa (seções: Luís Megali/Band nov/14, humorista alemã nov/19)
+- temas/Corrupção Municipal (seção: centrão como inimigo estrutural / ciclo oligárquico nov/18)
+- pessoas/Kim Kataguiri (seção: aprovação TSE 7-0 / primeiro deputado nov/04)
+- pessoas/Oruam (seção: intermediação entre CV e TCP / caso Doca nov/01)
+- posicoes/Desfavelização do Rio de Janeiro (seção: R$90B/ano 8-10 anos nov/17)
+
+---
+
+## [2026-04-21] ingest batch 21 | 15 shorts (2025-12-09 → 2025-11-21)
+
+**Fontes processadas (15):**
+- fontes/2025-12-09 - Se o Vorcaro abrir a boca, o Brasil acaba
+- fontes/2025-12-09 - ESSA MULHER TEM MAIS CORAGEM QUE TODO NÓS
+- fontes/2025-12-08 - Sou número 1 das pesquisas
+- fontes/2025-12-06 - Flávio Bolsonaro rachou a direita
+- fontes/2025-12-04 - O legado da COP30
+- fontes/2025-12-04 - Lula quer FRAUDAR as eleições
+- fontes/2025-12-03 - Você é a favor da redução da maioridade penal
+- fontes/2025-12-02 - Paz para os justos, guerra para os inimigos
+- fontes/2025-11-28 - DAMA DO TRÁFICO É SOLTA PELA JUSTIÇA
+- fontes/2025-11-27 - O FIM DO PT SERÁ ATRAVÉS DO NORDESTE
+- fontes/2025-11-26 - Quem estava no projeto político do Banco Master
+- fontes/2025-11-26 - O povo não merece o PT, Nikolas
+- fontes/2025-11-26 - B4ANDIDO AMIGÃO DA JUÍZA É M0RTO EM CONFRONTO
+- fontes/2025-11-22 - Sobre a prisão do Bolsonaro
+- fontes/2025-11-21 - MULHER CONTA COMO É A REALIDADE EM BELÉM
+
+**Páginas criadas:**
+- eventos/Prisão do Bolsonaro
+- eventos/COP30 — Legado em Belém
+- posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos
+- posicoes/Combate à Fraude Eleitoral via LDO
+
+**Páginas atualizadas:**
+- eventos/Escândalo Banco Master (novas seções: origens nov/25 e dez/09 com mapa de atores, Toffoli/jatinho, esposa Moraes R$100M, Campos Neto 38 alertas)
+- pessoas/Flávio Bolsonaro (seção: por que Flávio é o candidato — análise dez/06)
+- pessoas/Família Barbalho (seção: COP30 e Belém)
+- pessoas/Nikolas Ferreira (seção: polêmica "povo merece PT" nov/26)
+- wiki/index.md
+- wiki/log.md
+
+---
+
+## [2026-04-20] ingest batch 20 | 15 shorts (2025-12-18 → 2025-12-10)
+
+**Fontes processadas (15):**
+- fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República.
+- fontes/2025-12-18 - Comente o nome dessa facção.
+- fontes/2025-12-17 - Se você é favelado no Rio de Janeiro, talvez você não goste desse vídeo.
+- fontes/2025-12-17 - Eu sou a pessoa mais odiada no Acre!
+- fontes/2025-12-16 - NOSSO INIMIGO É O BRASIL IMPRODUTIVO
+- fontes/2025-12-16 - A OPOSIÇÃO NO BRASIL É HORRÍVEL
+- fontes/2025-12-15 - Resposta ao Nikolas Ferreira
+- fontes/2025-12-14 - Sobre a treta Tarcísio x Flávio Bolsonaro
+- fontes/2025-12-13 - TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO...
+- fontes/2025-12-13 - Petista enlouqueceu
+- fontes/2025-12-13 - Legal seu projeto, Renan
+- fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!
+- fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS
+- fontes/2025-12-10 - Saiu o mapa do PIB per capita
+- fontes/2025-12-10 - COMO VAI SER O MEU DEBATE COM O LULA
+
+**Páginas criadas:**
+- pessoas/Nikolas Ferreira
+- pessoas/Tarcísio de Freitas
+- pessoas/Jerônimo Rodrigues
+
+**Páginas atualizadas:**
+- pessoas/Flávio Bolsonaro (accordão dez/12, Judas dez/13, mais corrupto dez/14)
+- pessoas/Alexandre de Moraes (Magnitsky accordão dez/12)
+- temas/Crítica à Direita Tradicional (Tarcísio, Nikolas, oposição horrível, accordão, Glauber)
+- temas/Judiciário e Supersalários (Marcola prescreveu, 10x Argentina)
+- temas/Desigualdade Regional e Migração Interna (mapa PIB, Acre, Brasil improdutivo)
+- posicoes/Intervenção Federal em Estados com Baixo IDH (Acre como território federal)
+
+---
+
+## [2026-04-20] ingest batch 19 | 15 shorts (2025-12-27 → 2025-12-19)
+
+**Fontes processadas (15):**
+- fontes/2025-12-27 - Se você é mulher
+- fontes/2025-12-27 - 5 medidas contra a violência contra mulheres
+- fontes/2025-12-26 - Você já ouviu falar de Turilândia
+- fontes/2025-12-26 - Pernambucano o que aconteceu com você
+- fontes/2025-12-26 - Diga-me com quem andas, Lula
+- fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão
+- fontes/2025-12-25 - Eu tenho lado. E você
+- fontes/2025-12-24 - Mensagem de Natal - Renan Santos
+- fontes/2025-12-23 - Por que Pará ama os Barbalhos
+- fontes/2025-12-23 - Banco Master é o fim da República
+- fontes/2025-12-22 - Alagoas é o maior exportador de droga do Brasil
+- fontes/2025-12-21 - Mais uma resposta a Evoney
+- fontes/2025-12-21 - Essa é uma Missão pra vocês
+- fontes/2025-12-20 - Entrei com uma representação contra o governo Lula
+- fontes/2025-12-19 - ESSE CASO EM ARARI NO MARANHÃO É BIZARRO
+
+**Páginas criadas:**
+- pessoas/Família Barbalho
+
+**Páginas atualizadas:**
+- pessoas/João Campos (adição da seção "A dinastia Campos-Arrais")
+- pessoas/Alexandre de Moraes (adição da seção "A ligação para Galipolo")
+- temas/Segurança Pública (adição da seção "Violência contra a mulher: 5 medidas")
+- temas/Corrupção Municipal (adição de Turilândia e Arari)
+- temas/Crítica à Direita Tradicional (adição da seção "A Geração Z e a ruptura")
+- posicoes/Intervenção Federal em Estados com Baixo IDH (adição de Alagoas, Pará, Pernambuco)
+- wiki/index.md
+- wiki/log.md
+
+## [2026-04-20] ingest batch 18 | 15 shorts (2026-01-05 → 2025-12-28)
+
+**Fontes processadas (15):**
+- fontes/2026-01-05 - Estou sendo cancelado por defender que o Brasil tenha armas nucleares
+- fontes/2026-01-04 - O Brasil precisa de uma arma nuclear
+- fontes/2026-01-04 - Cadê o direito internacional
+- fontes/2026-01-03 - URGENTE - Trump sequestra Maduro e inaugura uma nova era na América Latina
+- fontes/2026-01-03 - Qual o próximo país, Trump
+- fontes/2026-01-03 - Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República
+- fontes/2026-01-03 - Atenção - Trump anunciou que vai colocar um interventor na Venezuela
+- fontes/2026-01-02 - Uma estátua no meio do nada
+- fontes/2026-01-02 - Essa barbárie precisa acabar
+- fontes/2026-01-01 - Estou processando o Senado
+- fontes/2025-12-31 - A casa do João Campos caiu
+- fontes/2025-12-30 - Tô sendo processado
+- fontes/2025-12-30 - O Brasil precisa de mais Zicos
+- fontes/2025-12-28 - Vorcaro é o Epstein brasileiro
+- fontes/2025-12-28 - Desafio para seus parentes
+
+**Páginas criadas:**
+- temas/Programa Nuclear Brasileiro
+- posicoes/Reforma do Senado Federal
+
+**Páginas atualizadas:**
+- temas/Política Externa e Geopolítica (major — 4 novos vídeos Venezuela/Trump)
+- posicoes/Intervenção Federal em Estados com Baixo IDH (paralelo Venezuela, Coribe, Arari)
+- pessoas/João Campos (caso procurador PCD)
+- eventos/Escândalo Banco Master (alertas de dezembro de 2025)
+- temas/Família e Paternidade (Zico como modelo)
+- wiki/index.md
+
+---
+
+## [2026-04-20] ingest batch 17 | 15 shorts (2026-01-13 → 2026-01-05)
+
+**Fontes processadas (15):**
+- fontes/2026-01-13 - PRECISAMOS FALAR SOBRE O WAGNER MOURA
+- fontes/2026-01-13 - JOÃO CAMPOS E SUA FAMÍLIA PRECISAM SER ARRUINADOS
+- fontes/2026-01-12 - RENAN RESPONDE SE APOIARIA O FLÁVIO BOLSONARO NO SEGUNDO TURNO
+- fontes/2026-01-11 - RENAN COMEÇA PRÉ-CAMPANHA EM PERNAMBUCO
+- fontes/2026-01-11 - A FAMÍLIA DO PEDROARTHURCE ESTÁ SENDO AMEAÇADA PELO CV
+- fontes/2026-01-10 - Atenção, carioca! Muito cuidado nas ruas
+- fontes/2026-01-09 - Resposta para Daniela Lima
+- fontes/2026-01-09 - O Maior Carnaval do Brasil
+- fontes/2026-01-09 - Lula indica aliado do Banco Master para CVM
+- fontes/2026-01-08 - Você foi convocado
+- fontes/2026-01-07 - Precisamos falar sobre a Igreja Lagoinha
+- fontes/2026-01-07 - Então realmente tinha influenciador sendo pago para defender o Banco Master
+- fontes/2026-01-06 - Quem é Jhonatan de Jesus
+- fontes/2026-01-05 - Resolver os problemas do Brasil não é tão difícil assim
+- fontes/2026-01-05 - O Brasil precisa falar sobre a saída do Bolsa Família
+
+**Páginas criadas:**
+- pessoas/Wagner Moura — ator; "elite cultural" financiada pelo Estado
+- pessoas/João Campos — prefeito do Recife; crítica à gestão educacional
+- pessoas/Daniela Lima — jornalista; imprensa militante
+- pessoas/Jhonatan de Jesus — ministro TCU; relator do Banco Master
+- eventos/Manifestação do Banco Master 22 de janeiro de 2026
+- posicoes/Intervenção Federal em Estados com Baixo IDH
+
+**Páginas atualizadas:**
+- pessoas/Flávio Bolsonaro — nova seção: recusa de apoio no 2º turno (jan/12)
+- pessoas/André Valadão — nova seção: BMW perdoada por Henrique Vorcaro (jan/07)
+- temas/Segurança Pública — nova seção: saidinha e progressão penal no RJ (jan/10)
+- posicoes/Frente de Trabalho para o Bolsa Família — nova seção: caso da influenciadora (jan/05)
+- eventos/Escândalo Banco Master — novas seções: Jhonatan Jesus/TCU, Oto Lobo/CVM, influenciadores pagos
+- wiki/index.md — batch 17 adicionado
+- wiki/log.md — registro desta operação
+
+---
+
+## [2026-04-20] ingest batch 16 | 15 shorts (2026-01-21 → 2026-01-14)
+
+**Fontes processadas (15):**
+- fontes/2026-01-21 - RENAN ULTRAPASSA GOVERNADORES EM NOVA PESQUISA PARA PRESIDENTE
+- fontes/2026-01-21 - ALAGOAS PRECISA URGENTE DE UMA INTERVENÇÃO FEDERAL
+- fontes/2026-01-20 - POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA NÃO FALAM SOBRE A IGREJA LAGOINHA
+- fontes/2026-01-18 - VOU QUERER O APOIO DO FLÁVIO NO SEGUNDO TURNO
+- fontes/2026-01-18 - DELEGADA LIGADA AO PCC É PRESA EM SP
+- fontes/2026-01-17 - RENAN JOGA SAL GROSSO NA CASA DO LULA
+- fontes/2026-01-17 - INVADI UMA PRISÃO EM PERNAMBUCO E ACHEI ISSO
+- fontes/2026-01-16 - DISCUSSÃO NO BBB POR COTAS
+- fontes/2026-01-15 - SILAS MALAFAIA ATACA DAMARES ALVES
+- fontes/2026-01-15 - RENAN PINTA PICHAÇÕES DO CRIME ORGANIZADO EM PERNAMBUCO
+- fontes/2026-01-15 - POSSO SER PRESO POR FALAR ISSO SOBRE O BANCO MASTER
+- fontes/2026-01-15 - O BRASIL DO SÉCULO 19 TINHA MELHOR INFRAESTRUTURA DO QUE O DE HOJE
+- fontes/2026-01-14 - RENAN MOSTRA A REALIDADE DO BRASIL PROFUNDO
+- fontes/2026-01-14 - MINHA PRÉ CANDIDATURA ACABOU
+- fontes/2026-01-14 - CUNHADO DE VORCARO, FABIANO ZETTEL, É PRESO EM DESDOBRAMENTO DO CASO BANCO MASTER
+
+**Páginas criadas:** 15 fontes + pessoas/Silas Malafaia
+**Páginas atualizadas:** eventos/Escândalo Banco Master, pessoas/Flávio Bolsonaro, pessoas/André Valadão, pessoas/Alexandre de Moraes, temas/Segurança Pública, temas/Crítica à Direita Tradicional, temas/Pautas Identitárias e de Gênero, temas/Corrupção Municipal, temas/Desigualdade Regional e Migração Interna, wiki/index.md, wiki/log.md
+
+---
+
+## [2026-04-19] ingest batch 15 | 15 shorts (2026-01-26 → 2026-01-21)
+
+**Fontes processadas (15):**
+- fontes/2026-01-26 - CARTA ABERTA AOS PAIS DOS ASSASSINOS DO CÃO ORELHA
+- fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS
+- fontes/2026-01-25 - PLAYBOYS MATARAM O ORELHA EM SC
+- fontes/2026-01-25 - ACARI, A CIDADE MAIS LIMPA DO BRASIL
+- fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE
+- fontes/2026-01-24 - OBRA DO GOVERNO COM 11 ANOS DE ATRASO EM SANTA CRUZ
+- fontes/2026-01-24 - LULA SENTIU A MANIFESTAÇÃO NA FRENTE DO BANCO MASTER
+- fontes/2026-01-24 - GUIDO MANTEGA RECEBIA R$1 MILHÃO POR MÊS DO BANCO MASTER
+- fontes/2026-01-23 - JOGUEI SAL NA CASA DO LULA E FUI CANCELADO
+- fontes/2026-01-23 - ANDRÉ VALADÃO VS. RENAN SANTOS
+- fontes/2026-01-22 - MANIFESTAÇÃO PELO IMPEACHMENT DO DIAS TOFFOLI E PRISÃO DO DANIEL VORCARO (transcrição ininteligível)
+- fontes/2026-01-22 - MANIFESTAÇÃO NA FRENTE DO BANCO MASTER (transcrição ininteligível)
+- fontes/2026-01-22 - ESTOU SENDO AMEAÇADO NO NORDESTE POR MOSTRAR A VERDADE
+- fontes/2026-01-22 - BANCO MASTER COM MEDO DA MANIFESTAÇÃO DE HOJE
+- fontes/2026-01-21 - URGENTE - RESORT DO TOFFOLI TINHA ATÉ CASSINO
+
+**Páginas criadas:** 15 fontes + pessoas/Guido Mantega + pessoas/André Valadão
+**Páginas atualizadas:** eventos/Caso do Cão Orelha, eventos/Escândalo Banco Master, temas/Segurança Pública, temas/Crítica à Direita Tradicional, temas/Corrupção Municipal, temas/Desigualdade Regional e Migração Interna, wiki/index.md, wiki/log.md
+
+---
+
+## [2026-04-19] ingest batch 14 | 15 shorts (2026-01-31 → 2026-01-26)
+
+**Fontes processadas (15):**
+- fontes/2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA
+- fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE
+- fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ
+- fontes/2026-01-30 - MINHA OPINIÃO SOBRE O CAIADO NO PSD
+- fontes/2026-01-30 - LULA PROMETEU ESSA OBRA EM 2006 E ATÉ AGORA NADA
+- fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE
+- fontes/2026-01-29 - O NORDESTE TEM SOLUÇÃO E NÓS ESTAMOS COLOCANDO EM PRÁTICA
+- fontes/2026-01-29 - NOVAS INFORMAÇÕES SOBRE O CASO DO CÃO ORELHA
+- fontes/2026-01-29 - COLOCAMOS A BANDEIRA DO BRASIL NO LUGAR DA BANDEIRA DO CV
+- fontes/2026-01-28 - RENAN SANTOS LEVA ENVOLVIDOS NO CASO DO CÃO ORELHA PARA A JUSTIÇA
+- fontes/2026-01-28 - PT TRATA NORDESTINO COMO COITADO
+- fontes/2026-01-27 - TRANS APROVADA EM CONCURSO ESTAVA NA POSIÇÃO 1243
+- fontes/2026-01-27 - ESSA CIDADE NÃO TEM ÁGUA MAS QUER DAR INTERNET PARA VOTAR NO BBB
+- fontes/2026-01-26 - PESSOAS TÊM FILHO PARA AUMENTAR O BOLSA FAMÍLIA
+- fontes/2026-01-26 - EVONEY FERNANDES É CONDENADO POR RIFAS ILEGAIS EM TOCANTINS
+
+**Páginas criadas:** 15 fontes + eventos/Caso do Cão Orelha + pessoas/Ronaldo Caiado
+**Páginas atualizadas:** temas/Segurança Pública, temas/Crítica à Direita Tradicional, temas/Pautas Identitárias e de Gênero, temas/Desigualdade Regional e Migração Interna, temas/Corrupção Municipal, posicoes/Desfavelização do Rio de Janeiro, posicoes/Propostas para Educação, posicoes/Frente de Trabalho para o Bolsa Família, wiki/index.md, wiki/log.md
+
+---
+
+## [2026-04-18] ingest batch 13 | 15 shorts (2026-02-05 → 2026-01-31)
+
+**Fontes processadas (15):**
+- fontes/2026-02-05 - ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA
+- fontes/2026-02-04 - VALE GÁS É PROGRAMA DE COMPRA DE VOTO DO LULA
+- fontes/2026-02-04 - RENAN APARECE COM 7% EM NOVA PESQUISA PARA PRESIDENTE
+- fontes/2026-02-04 - PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASILIA DO NIKOLAS
+- fontes/2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER
+- fontes/2026-02-04 - DEPUTADOS VOTAM PARA AUMENTAR SALÁRIO ATÉ R$77 MIL PARA FUNCIONÁRIOS DA CÂMARA
+- fontes/2026-02-03 - VOCÊ CONSEGUE IMAGINAR UM BRASIL ASSIM
+- fontes/2026-02-03 - RENAN SANTOS RECEBE MAIS AMEAÇAS DE MORTE
+- fontes/2026-02-02 - O NORDESTE PRECISA SUPERAR O PT
+- fontes/2026-02-02 - MAIS UM CASO DE VIOLÊNCIA EM SANTA CATARINA
+- fontes/2026-02-02 - ESSE VAI SER O PAPEL DO MERCADO FINANCEIRO NAS ELEIÇÕES
+- fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME
+- fontes/2026-02-01 - NÓS SOMOS A GERAÇÃO QUE VAI SALVAR O BRASIL
+- fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO
+- fontes/2026-01-31 - SOBRE OS MOTOBOYS ASSASSINADOS NO RJ
+
+**Páginas criadas:** 15 fontes + pessoas/Oruam
+**Páginas atualizadas:** eventos/Escândalo Banco Master, temas/Judiciário e Supersalários, temas/Crítica à Direita Tradicional, temas/Segurança Pública, temas/Desigualdade Regional e Migração Interna, temas/Corrupção Municipal, posicoes/Plano para Moradores de Rua, pessoas/Flávio Bolsonaro, pessoas/Kim Kataguiri, wiki/index.md, wiki/log.md
+
+---
+
+## [2026-04-18] ingest batch 12 | 20 shorts (2026-02-11 → 2026-02-05)
+
+**Fontes processadas (20):**
+- fontes/2026-02-11 - RESPOSTA AO PODPAH SOBRE A APRESENTAÇÃO DO BAD BUNNY
+- fontes/2026-02-11 - O JUDICIÁRIO BRASILEIRO ACHOU PRUDENTE SOLTAR ESSE 'JOVEM RAPAZ'
+- fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!
+- fontes/2026-02-10 - PROJETO LEVE POÇOS NO RIO GRANDE DO NORTE
+- fontes/2026-02-10 - EU VOU ACABAR COM FESTA NA SUA CIDADE!
+- fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP
+- fontes/2026-02-10 - Atenção - o celular que vai derrubar a república está nas mãos da PF
+- fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!
+- fontes/2026-02-09 - ELES PERDERAM A CHANCE DE OURO
+- fontes/2026-02-08 - PRECISAMOS NOS PREPARAR PARA UM FUTURO GLORIOSO
+- fontes/2026-02-08 - O HOMEM JOVEM NORDESTINO VAI MUDAR O DESTINO DESSE PAÍS
+- fontes/2026-02-08 - EU FUI PROCESSADO POR SER O ÚNICO A FALAR ISSO
+- fontes/2026-02-07 - POR QUE OS EUA PARECE UM PAÍS TÃO MELHOR QUE O BRASIL
+- fontes/2026-02-07 - POLÍTICOS PRECISAM TER METAS CLARAS
+- fontes/2026-02-07 - FUI CONDENADO PELA JUSTIÇA 3 VEZES NESSA ÚLTIMA SEMANA
+- fontes/2026-02-06 - VALE-GÁS É SÓ MAIS UMA MEDIDA POPULISTA DO LULA
+- fontes/2026-02-06 - O NORDESTE VAI DAR CERTO!
+- fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY
+- fontes/2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!
+- fontes/2026-02-05 - PRISÃO AOS ENVOLVIDOS NO ESCÂNDALO DO BANCO MASTER
+
+**Páginas criadas:** 20 fontes
+**Páginas atualizadas:** temas/Segurança Pública, temas/Empobrecimento e Mercado de Trabalho, temas/STF e Ativismo Judicial, temas/Desigualdade Regional e Migração Interna, temas/Crítica à Direita Tradicional, temas/Soberania Nacional e ONGs Estrangeiras, temas/Pautas Identitárias e de Gênero, temas/Ambição Nacional e Soberania Tecnológica, posicoes/Emendas Parlamentares Condicionadas a Metas, eventos/Escândalo Banco Master, pessoas/Kim Kataguiri, pessoas/Flávio Bolsonaro, wiki/index.md, wiki/log.md
+
+---
+
+## [2026-04-17] ingest batch 11 | 20 shorts (2026-02-19 → 2026-02-12)
+
+**Fontes processadas (20):**
+- fontes/2026-02-19 - MAIS UM BELO EXEMPLO DA CLASSE POLÍTICA DO MARANHÃO
+- fontes/2026-02-18 - VOCÊ NÃO ODEIA ESSES POLÍTICOS O SUFICIENTE
+- fontes/2026-02-18 - ESCOLA DE SAMBA QUE FEZ HOMENAGEM AO LULA É REBAIXADA
+- fontes/2026-02-17 - URGENTE - STF vaza dados de servidores
+- fontes/2026-02-17 - LULA PODE PERDER OS DIREITOS POLÍTICOS
+- fontes/2026-02-17 - ESCOLA DE SAMBA TIRA SARRO DA FAMÍLIA CONSERVADORA EVANGÉLICA
+- fontes/2026-02-17 - 5 CARROS ALEGÓRICOS QUE FALTARAM NO DESFILE DO LULA
+- fontes/2026-02-15 - Sim, a estratégia das facções funciona
+- fontes/2026-02-15 - ERIKA HILTON NOSSA FUTURA PRESIDENTA NO CARNAVAL
+- fontes/2026-02-15 - 10 MEDIDAS PARA SEGURANÇA PÚBLICA
+- fontes/2026-02-14 - ESTADOS ONDE EU FARIA UMA INTERVENÇÃO - PARTE 01
+- fontes/2026-02-14 - CHEGOU A VEZ DO ALEXANDRE DE MORAES
+- fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI
+- fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO
+- fontes/2026-02-13 - O CASO QUE O MOVIMENTO NEGRO NÃO QUER FALAR SOBRE
+- fontes/2026-02-13 - ACORDÃO PARA DERRUBAR O MINISTRO DIAS TOFFOLI
+- fontes/2026-02-12 - TOFFOLI NÃO VAI ABANDONAR O CASO DO BANCO MASTER
+- fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COAF
+- fontes/2026-02-12 - O MAIOR ESCÂNDALO DE CORRUPÇÃO - PODE DERRUBAR O STF
+- fontes/2026-02-12 - O BICHO TÁ PEGANDO ENTRE PT E DIAS TOFFOLI
+
+**Páginas criadas:** 20 fontes
+**Páginas atualizadas:** eventos/Escândalo Banco Master, eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula, temas/STF e Ativismo Judicial, temas/Segurança Pública, temas/Crítica à Direita Tradicional, temas/Pautas Identitárias e de Gênero, temas/Corrupção Municipal, temas/Desigualdade Regional e Migração Interna, pessoas/Alexandre de Moraes, wiki/index.md, wiki/log.md
+
+---
+
+## [2026-04-16] ingest batch 10 | 20 shorts (2026-02-24 → 2026-02-19)
+
+**Fontes processadas (20):**
+- fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL
+- fontes/2026-02-24 - OS BANDIDOS PRECISAM TER MEDO
+- fontes/2026-02-24 - O EPSTEIN BRASILEIRO NÃO VAI SER PUNIDO
+- fontes/2026-02-24 - O BRASIL ACABOU APÓS A LAVA-JATO
+- fontes/2026-02-24 - LÉO LINS É ABSOLVIDO PELA JUSTIÇA
+- fontes/2026-02-24 - GOVERNO LULA TAXA MAIS DE 1,2 MIL PRODUTOS IMPORTADOS
+- fontes/2026-02-24 - ESSE CASO DE MG FICOU AINDA MAIS BIZARRO
+- fontes/2026-02-23 - VORCARO É O EPSTEIN BRASILEIRO
+- fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO
+- fontes/2026-02-23 - PREPARE-SE PARA SER HUMILHADO PELA ETIOPIA
+- fontes/2026-02-23 - ESSA CIDADE PRATICAMENTE SÓ TEM PESSOAS NO BOLSA FAMÍLIA
+- fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA AMARAL COM O JOÃO CAMPOS
+- fontes/2026-02-22 - 6 PROPOSTAS QUE VÃO FAZER O BRASIL VIRAR UM LUGAR DE PRIMEIRO MUNDO
+- fontes/2026-02-21 - O TRIBUNAL DE MINAS RESOLVEU INOVAR
+- fontes/2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA
+- fontes/2026-02-21 - DE QUEM É A CULPA DO BRASIL TER PERDIDO ESSA PATENTE
+- fontes/2026-02-20 - QUAL O MOTIVO DE NINGUÉM QUERER FICAR NO BRASIL
+- fontes/2026-02-20 - A VOZ DO POVO NÃO É A VOZ DE DEUS
+- fontes/2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE
+- fontes/2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ
+
+**Páginas criadas:**
+- eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula
+- eventos/Casamento Tabata Amaral e João Campos
+
+**Páginas atualizadas:**
+- temas/STF e Ativismo Judicial (pacto pós-Lava Jato, Léo Lins, casamento Tabata-João Campos)
+- temas/Empobrecimento e Mercado de Trabalho (escala 6x1, assistencialismo 500%)
+- temas/Segurança Pública (Perry Shiida, Senado bloqueia penas)
+- temas/Judiciário e Supersalários (desembargador investigado de MG)
+- temas/Desigualdade Regional e Migração Interna (Itauau/PA, Etiópia, favelização)
+- temas/Carga Tributária (1.200 produtos taxados 25%)
+- temas/Ambição Nacional e Soberania Tecnológica (patente UFRJ, Porto Digital)
+- temas/Mídia e Imprensa (carnaval pró-Lula, ação no TSE)
+- pessoas/Alexandre de Moraes (casamento Tabata-João Campos)
+- eventos/Escândalo Banco Master (pré-história: festas, ilha, Lewandowski/R$250K)
+- posicoes/Fusão de Municípios (Itauau, interventor democrático)
+- wiki/index.md, wiki/log.md
+
+## [2026-04-16] ingest batch 9 | 20 shorts (2026-02-25 → 2026-03-02)
+
+**Fontes processadas (20):**
+- fontes/2026-03-02 - VOU ACABAR COM AS FAVELAS
+- fontes/2026-03-02 - PETISTAS TENTARAM IMPEDIR DOAÇÕES EM JUIZ DE FORA
+- fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO
+- fontes/2026-03-02 - MINAS GERAIS, VAMOS FALAR DO TRIBUNAL DE JUSTIÇA
+- fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA
+- fontes/2026-03-01 - VIM ATÉ A IGREJA LAGOINHA BELVEDERE EM BH
+- fontes/2026-03-01 - O DESABAFO DESSE POLICIAL EMOCIONOU A TODOS
+- fontes/2026-03-01 - JUÍZA NÃO ESTÁ RECEBENDO LANCHE
+- fontes/2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA
+- fontes/2026-02-28 - KHAMENEI ESTÁ MORTO
+- fontes/2026-02-27 - URGENTE - JUIZ DE FORA E UBÁ SOFREM COM DESASTRE
+- fontes/2026-02-27 - SE VOCÊ É MULHER, COMPARTILHE ISSO
+- fontes/2026-02-27 - OZEMPIC NO SUS
+- fontes/2026-02-27 - EU VOU REVOGAR TODAS AS TAXAÇÕES DO HADDAD
+- fontes/2026-02-26 - VOU PROIBIR MULHER NA MISSÃO
+- fontes/2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS
+- fontes/2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA
+- fontes/2026-02-26 - MEU SENTIMENTOS A TODOS ATINGIDOS PELO DESASTRE DE JUIZ DE FORA
+- fontes/2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL
+- fontes/2026-02-25 - ÍNDIOS E PICARETAS DO PSOL ESTÃO SABOTANDO OS CAMINHONEIROS NA REGIÃO NORTE
+
+**Páginas criadas:**
+- temas/Judiciário e Supersalários
+- temas/Política Externa e Geopolítica
+- temas/Desigualdade Regional e Migração Interna
+- posicoes/Transparência Digital e Anticorrupção
+
+**Páginas atualizadas:**
+- temas/Crítica à Direita Tradicional (bolsopetismo; discurso sem citar ninguém)
+- temas/Agronegócio e Matopiba (hidrovias bloqueadas; caminhoneiros 8 dias)
+- temas/Soberania Nacional e ONGs Estrangeiras (bloqueio de hidrovia por índios/PSOL)
+- temas/Pautas Identitárias e de Gênero (Érika Hilton na comissão; ataques a pré-candidatas)
+- temas/Carga Tributária (taxação CPU/GPU; revogar taxações Haddad)
+- temas/Ambição Nacional e Soberania Tecnológica (GPU/AI; Stargate Argentina)
+- temas/Segurança Pública (policial que faz Uber)
+- posicoes/Desfavelização do Rio de Janeiro (escopo nacional; custo < 1 trilhão)
+- pessoas/Flávio Bolsonaro (manifesto março; Valdemar da Costa Neto)
+- wiki/index.md
+
+---
+
+## [2026-04-15] ingest batch 8 | 20 shorts (2026-03-03 → 2026-03-08)
+
+**Fontes processadas (20):**
+- fontes/2026-03-08 - 7 propostas pro STF
+- fontes/2026-03-07 - Quando que esses homens tiveram licença pra atacar mulheres desse jeito
+- fontes/2026-03-07 - Kim Kataguiri será investigado por possível desvio em emendas
+- fontes/2026-03-07 - Acredite se quiser - a rede Globo está salvando o Brasil
+- fontes/2026-03-06 - Que Brasil vou pegar ano que vem
+- fontes/2026-03-06 - O LULA ME RESPONDE UMA COISA
+- fontes/2026-03-06 - COMEÇOU A CENSURA CONTRA MIM
+- fontes/2026-03-05 - Precisamos falar algo delicado
+- fontes/2026-03-05 - No meu governo vai ter iPhone e picanha
+- fontes/2026-03-05 - FAVELA É UMA M3RDA SIM
+- fontes/2026-03-05 - ESSE PODE SER O FIM DO INQUÉRITO DAS FAKE NEWS
+- fontes/2026-03-05 - APELO AO ALEXANDRE DE MORAES
+- fontes/2026-03-04 - SENADO APROVA PL DO KIM QUE AUMENTA PENA PARA VAGABUNDO
+- fontes/2026-03-04 - HADDAD QUER SABOTAR O PROJETO DE 1% DE IPVA DO KIM KATAGUIRI
+- fontes/2026-03-04 - Eu vou transformar o Nordeste na Arábia Saudita
+- fontes/2026-03-04 - EU VOU ACABAR COM O BOLSA FAMÍLIA
+- fontes/2026-03-04 - Campinas deveria ser o Vale do Silício brasileiro
+- fontes/2026-03-03 - MC MELODY PASSA MAL COM O MARANHÃO
+- fontes/2026-03-03 - Esse é o chá revelação mais importante do Brasil
+- fontes/2026-03-03 - ATENÇÃO - querem sabotar um projeto de segurança pública do kimkataguiri
+
+**Páginas criadas:**
+- temas/Família e Paternidade
+- posicoes/Propostas para o STF
+
+**Páginas atualizadas:**
+- temas/STF e Ativismo Judicial
+- temas/Segurança Pública
+- temas/Mídia e Imprensa
+- temas/Pautas Identitárias e de Gênero
+- temas/Carga Tributária
+- temas/Ambição Nacional e Soberania Tecnológica
+- temas/Corrupção Municipal
+- pessoas/Kim Kataguiri
+- pessoas/Alexandre de Moraes
+- posicoes/Frente de Trabalho para o Bolsa Família
+- wiki/index.md
+
+---
+
+## [2026-04-15] ingest batch 7 | 20 shorts (2026-03-08 → 2026-03-13)
+
+**Fontes processadas (20):**
+- fontes/2026-03-13 - Um homem pode salvar Dias Toffoli e Xandão hoje
+- fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA
+- fontes/2026-03-13 - O Paraná é sabotado e eu posso te provar
+- fontes/2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina
+- fontes/2026-03-13 - Erika Hilton será cassada
+- fontes/2026-03-13 - Daniel Vorcaro vai DELATAR
+- fontes/2026-03-12 - VÃO SOLTAR O DANIEL VORCARO AMANHÃ
+- fontes/2026-03-12 - 7 propostas para a Polícia Militar
+- fontes/2026-03-11 - Vim no resort do Toffoli mostrar a parte de jogos
+- fontes/2026-03-11 - Boulos quer destruir os apps de entregas
+- fontes/2026-03-11 - Eu farei o governo mais duro contra a criminalidade
+- fontes/2026-03-11 - 7 propostas para a educação
+- fontes/2026-03-10 - Precisamos falar sobre MULHER DE BANDIDO
+- fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA
+- fontes/2026-03-10 - Acho que descobri a cidade mais bizarra do Brasil
+- fontes/2026-03-09 - Você acha o povo brasileiro civilizado
+- fontes/2026-03-09 - Eu fui no resort do Toffoli, o tal do Tayaya
+- fontes/2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL
+- fontes/2026-03-08 - O que um país sério tem que fazer com Alexandre de Moraes
+- fontes/2026-03-08 - FELIZ DIA DAS MULHERES
+
+**Páginas criadas:**
+- temas/Infraestrutura e Estradas no Paraná
+- temas/Imigração e Fronteiras
+- posicoes/Propostas para Polícia Militar
+- posicoes/Propostas para Educação
+- posicoes/Propostas para Saúde
+
+**Páginas atualizadas:**
+- eventos/Escândalo Banco Master (Vorcaro preso; Marta Graeff; Resort Tayaya-JBS; CPI Alessandro Vieira; correção R$130M)
+- temas/STF e Ativismo Judicial (Viviane Barce; Lulinha/Flávio Dino; Resort Tayaya)
+- temas/Crítica à Direita Tradicional (CPI Alessandro Vieira)
+- temas/Segurança Pública (7 propostas PM; 60 anos reincidentes; Singapura)
+- temas/Pautas Identitárias e de Gênero (cassação Érika Hilton; Dia da Mulher; Marta Graeff)
+- temas/Corrupção Municipal (Presidente Vargas MA)
+- pessoas/Alexandre de Moraes (R$130M; mensagens secretas; Kim convoca)
+- pessoas/Flávio Bolsonaro (CPI Alessandro Vieira)
+- pessoas/Kim Kataguiri (cassação Hilton; convocações Marta Graeff, Moraes, Viviane Barce)
+- pessoas/Ratinho Júnior (Pay Brokers R$400K; Cred; contrato Toffoli)
+- wiki/index.md
+
+---
+
+## [2026-04-15] ingest batch 6 | 20 shorts (2026-03-14 → 2026-03-19)
+
+**Fontes processadas (20):**
+- fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR
+- fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO
+- fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha
+- fontes/2026-03-19 - ANÃO DELEGADO, MINHA OPINIÃO
+- fontes/2026-03-18 - MEU RECADO PARA OS EVANGÉLICOS
+- fontes/2026-03-18 - Ele foi pego confessando corrupção. Vazou tudo!
+- fontes/2026-03-18 - A cidade no Maranhão que conseguiu unir Bolsonaro e Lula
+- fontes/2026-03-17 - WAGNER MOURA PERDEU O OSCAR
+- fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA
+- fontes/2026-03-17 - Não sabiam que eu estava ouvindo
+- fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!
+- fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal
+- fontes/2026-03-16 - VORCARO DELATOU O LULA
+- fontes/2026-03-16 - A melhor capital do Brasil está virando uma Cracolândia
+- fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!
+- fontes/2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES
+- fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF
+- fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula
+- fontes/2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL
+- fontes/2026-03-14 - GLOBO X STF, A GUERRA COMEÇOU
+
+**Páginas criadas (3):**
+- pessoas/Kim Kataguiri
+- posicoes/Frente de Trabalho para o Bolsa Família
+- temas/Pautas Identitárias e de Gênero
+
+**Páginas atualizadas (12):**
+- eventos/Escândalo Banco Master (Lagoinha confirmada, Oakberry censura, Zettel preso, Vorcaro pré-delação)
+- temas/Crítica à Direita Tradicional (Bolsa Família Flávio, Fabiana blackface, maioridade penal governadores)
+- temas/Segurança Pública (maioridade penal, feminicídio, Curitiba degradada)
+- temas/STF e Ativismo Judicial (Globo x STF, anão delegado, Bolsonaro preso e vendeta Moraes)
+- temas/Mídia e Imprensa (censura Instagram, Wagner Moura e cinema da ditadura)
+- temas/Empobrecimento e Mercado de Trabalho (Bolsa Família, MEI, diagnóstico Lula)
+- temas/Carga Tributária (MEI 1,61% das isenções)
+- temas/Corrupção Municipal (deputado MT confesso)
+- posicoes/Plano para Moradores de Rua (Curitiba Marco Zero)
+- pessoas/Flávio Bolsonaro (Bolsa Família, doença do pai)
+- pessoas/Alexandre de Moraes (anão delegado, vendeta Bolsonaro)
+- wiki/index.md
+
+## [2026-04-14] ingest batch 5 | 20 shorts (2026-03-20 → 2026-03-26)
+
+**Fontes processadas (20):**
+- fontes/2026-03-26 - Você está cansado de fingir
+- fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa
+- fontes/2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso
+- fontes/2026-03-26 - Mais BOPE menos Brasa
+- fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem
+- fontes/2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA
+- fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS
+- fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA
+- fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO
+- fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso
+- fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
+- fontes/2026-03-24 - Eu tô com muita inveja de El Salvador
+- fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
+- fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
+- fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO
+- fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA
+- fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master
+- fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país
+- fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins
+- fontes/2026-03-20 - Os caminhoneiros vão entrar em greve
+
+**Páginas criadas (3):**
+- pessoas/Ratinho Júnior
+- posicoes/Desfavelização do Rio de Janeiro
+- posicoes/Proposta para Caminhoneiros
+
+**Páginas atualizadas (7):**
+- temas/Segurança Pública (BOPE 6 medidas, progressão penal, Bukele)
+- temas/Crítica à Direita Tradicional (PL misoginia, Ratinho Jr., Flávio=João Campos)
+- temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
+- temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
+- eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
+- posicoes/Fusão de Municípios (Taubaté x Tocantins)
+- wiki/index.md
+
+## [2026-04-13] ingest batch | 10 shorts mais recentes (2026-04-10 → 2026-04-13)
+
+Primeiro batch de ingestão. Foco exclusivo em `raw/processed/renan-canal/shorts/`. Processados do mais recente para o mais antigo.
+
+**Fontes processadas (10):**
+- fontes/2026-04-13 - MAIS UM RECORDE DO BRASIL
+- fontes/2026-04-13 - Eu fui na cidade que está sendo engolida por buracos
+- fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão
+- fontes/2026-04-12 - POLEMICA SOBRE O VALE-GAS DO LULA
+- fontes/2026-04-12 - Finalmente fui chamado de nazista nas redes sociais
+- fontes/2026-04-12 - Essa cova foi cavada a mão
+- fontes/2026-04-11 - Feedback Loop e eleições
+- fontes/2026-04-11 - EU FUI NA CIDADE MAIS POBRE DO BRASIL
+- fontes/2026-04-11 - ESSA AQUI E POLEMICA
+- fontes/2026-04-10 - Vamos brincar de amarelinha
+
+**Temas criados (6):**
+- temas/Carga Tributária
+- temas/Infraestrutura e Estradas no Maranhão
+- temas/Soberania Nacional e ONGs Estrangeiras
+- temas/Segurança Pública
+- temas/Corrupção Municipal
+- temas/Mídia e Imprensa
+
+**Posições criadas (5):**
+- posicoes/Reforma Fiscal
+- posicoes/Fusão de Municípios
+- posicoes/Estado de Defesa e Direito Penal do Inimigo
+- posicoes/Expulsão de ONGs Estrangeiras
+- posicoes/Criminalização da Compra e Venda de Votos
+
+**Índice criado.**
+
+**Último vídeo ingerido (marcador de progresso):** `2026-04-10 - Vamos brincar de amarelinha!`
+**Próximo a processar:** vídeos anteriores a 2026-04-10 em `raw/processed/renan-canal/shorts/`, começando por `2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês!`.
+
+## [2026-04-13] ingest batch 2 | 10 shorts (2026-04-10 → 2026-04-08)
+
+Segundo batch. Continuação da ingestão cronológica descendente de `raw/processed/renan-canal/shorts/`.
+
+**Fontes processadas (10):**
+- fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês
+- fontes/2026-04-10 - FUI SEQUESTRADO NO MARANHÃO *(transcrição auto-gerada em inglês corrompida; página-marcador, não ingerido)*
+- fontes/2026-04-10 - Direita, centro e esquerda no Banco Master
+- fontes/2026-04-10 - Como podemos enriquecer esses 4 estados
+- fontes/2026-04-09 - Você lembra dessa ponte aqui
+- fontes/2026-04-09 - Pneu furado no meio de uma BR no Maranhão
+- fontes/2026-04-09 - Xandão quer mudar delação premiada
+- fontes/2026-04-08 - Quem é o rei do bloquete em Imperatriz
+- fontes/2026-04-08 - Pinto do Equador e Juliana do Bonde
+- fontes/2026-04-08 - 400 milhões pra Camaçari
+
+**Páginas novas (3):**
+- eventos/Escândalo Banco Master *(primeira página de eventos/)*
+- temas/Agronegócio e Matopiba
+- posicoes/Emendas Parlamentares Condicionadas a Metas
+
+**Páginas atualizadas:**
+- temas/Infraestrutura e Estradas no Maranhão (ponte de Estreito, pneu furado, Balsas/Inpasa, propostas estruturais)
+- temas/Corrupção Municipal (bloquete Imperatriz, Pinto do Equador, Camaçari)
+- temas/Mídia e Imprensa (Moraes e delação premiada)
+- posicoes/Criminalização da Compra e Venda de Votos (caso Messias / Gafanhotos)
+- index.md
+
+**Último vídeo ingerido (marcador de progresso):** `2026-04-08 - 400 milhões pra Camaçari`
+**Próximo a processar:** a partir de `2026-04-07 - Resposta ao Flávio Bolsonaro.md` (descendente).
+
+## [2026-04-13] ingest batch 3 | 10 shorts (2026-04-07 → 2026-04-05)
+
+Terceiro batch. Continuação da ingestão cronológica descendente de `raw/processed/renan-canal/shorts/`.
+
+**Fontes processadas (10):**
+- fontes/2026-04-07 - Resposta ao Flávio Bolsonaro
+- fontes/2026-04-07 - O PCC chegou no interior do Maranhão
+- fontes/2026-04-07 - A ferrogrão está sendo sabotada
+- fontes/2026-04-06 - Centro de Monitoramento de Pouso Alegre
+- fontes/2026-04-06 - Quem quer peixe
+- fontes/2026-04-06 - Juliana do Bonde em Guajará-Mirim
+- fontes/2026-04-05 - Lixo em energia em Pouso Alegre
+- fontes/2026-04-05 - Um vídeo de Páscoa
+- fontes/2026-04-05 - O Brasil está empobrecendo
+- fontes/2026-04-05 - O agro brasileiro pode quebrar
+
+**Páginas novas (2):**
+- temas/Empobrecimento e Mercado de Trabalho
+- temas/Crítica à Direita Tradicional
+
+**Páginas atualizadas:**
+- temas/Segurança Pública (PCC em Imperatriz; Pouso Alegre como modelo positivo)
+- temas/Soberania Nacional e ONGs Estrangeiras (segundo vídeo sobre Ferrogrão; fertilizantes)
+- temas/Corrupção Municipal (peixes na Semana Santa; Guajará-Mirim; "Pezão")
+- temas/Agronegócio e Matopiba (fertilizantes e Ferrogrão)
+- posicoes/Expulsão de ONGs Estrangeiras ("terrorismo e sabotagem")
+- posicoes/Fusão de Municípios (novos casos: Guajará-Mirim, Nunes Freire, Gandu)
+- posicoes/Estado de Defesa e Direito Penal do Inimigo (mecanismo de afastamento de governador)
+- eventos/Escândalo Banco Master (menções no vídeo de Páscoa e no caso EMTU/Mike)
+- index.md
+
+**Último vídeo ingerido (marcador de progresso):** `2026-04-05 - O AGRO BRASILEIRO PODE QUEBRAR NOS PRÓXIMOS MESES`
+**Próximo a processar:** a partir de `2026-04-04 -` ou o próximo arquivo descendente em `raw/processed/renan-canal/shorts/`.
+
+## [2026-04-13] ingest batch 4 | 20 shorts (2026-04-04 → 2026-03-27)
+
+Quarto batch. **Tamanho dobrado** em relação aos anteriores: 20 shorts do canal Renan Santos, do mais recente para o mais antigo, iniciando abaixo de 2026-04-05.
+
+**Fontes processadas (20):**
+
+- fontes/2026-04-04 - Estado da Guanabara
+- fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG
+- fontes/2026-04-03 - PREVISÃO SOBRE O STF
+- fontes/2026-04-02 - A OPERAÇÃO MARMELADA começou
+- fontes/2026-04-01 - Um pedido de desculpas
+- fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista
+- fontes/2026-04-01 - Eu odeio mendigo
+- fontes/2026-03-31 - Você já conhece a PEC do IPVA do kimkataguiri
+- fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro
+- fontes/2026-03-31 - ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES
+- fontes/2026-03-31 - Caiado e Lula são VELHOS
+- fontes/2026-03-30 - Preciso da sua ajuda
+- fontes/2026-03-30 - MALAFAIA PEDE AJUDA PARA COMPRAR JATINHO
+- fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso
+- fontes/2026-03-29 - LULA ESTÁ EM PÂNICO
+- fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes
+- fontes/2026-03-28 - Eu fui na favela que o BOPE tomou conta
+- fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA
+- fontes/2026-03-27 - VOU PERDER MINHA CANDIDATURA
+- fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS
+
+**Páginas novas (6):**
+
+- temas/STF e Ativismo Judicial *(novo — eixo central das críticas institucionais)*
+- temas/Ambição Nacional e Soberania Tecnológica *(F1, terras raras, ferrovia bioceânica)*
+- posicoes/Cidade-Estado da Guanabara *(proposta de transformar o Rio em cidade-estado)*
+- posicoes/Plano para Moradores de Rua *(sete propostas)*
+- pessoas/Flávio Bolsonaro *(primeira página da pasta `pessoas/` — agora com massa crítica suficiente)*
+- pessoas/Alexandre de Moraes *(segunda página de pessoas/ — viagens, delação, contrato de R$ 80 mi)*
+
+**Páginas atualizadas:**
+
+- temas/Crítica à Direita Tradicional (PL misoginia, PEC Blindagem, Zanin/Dino, Caiado, Eduardo Paes, sátira de 1º/4)
+- temas/Segurança Pública (Rio como arquipélago; Tavares Bastos como modelo; cracolândia)
+- temas/Mídia e Imprensa (CNN "candidato fantasma", Rubens Menin)
+- temas/Empobrecimento e Mercado de Trabalho (affordability, Selic 15%, desemprego "5,3%", Haddad como alternativa)
+- eventos/Escândalo Banco Master (Operação Marmelada, CPMI do INSS derrubada, caso Valadão/Malafaia)
+- posicoes/Expulsão de ONGs Estrangeiras ("cafetinagem da miséria", ONG da favela, internação compulsória)
+- index.md *(adicionado bloco batch 4; criadas as seções pessoas/ no índice)*
+
+**Decisão sobre pessoas/**: aberto nesta rodada com **Flávio Bolsonaro** e **Alexandre de Moraes**. Ambos atingem muito mais do que o patamar de 2-3 afirmações concretas. Demais personagens (Caiado, Lula, Eduardo Paes, Marco Aurélio, Barroso, Silas Malafaia, Erika Hilton, Rubens Menin, Kim Kataguiri) permanecem apenas nas fontes por ora — Caiado e Barroso são os próximos candidatos naturais a uma página própria no batch 5 se reaparecerem.
+
+**Último vídeo ingerido (marcador de progresso):** `2026-03-27 - URGENTE - STF derruba CPMI do INSS`
+**Próximo a processar:** a partir de `2026-03-26 -` (descendente) em `raw/processed/renan-canal/shorts/`.
+
+### Nota de reorganização: pessoas/ e analises/
+
+Após 30 vídeos ingeridos, as pastas `pessoas/` e `analises/` seguem vazias. Avaliação:
+
+- **pessoas/** — a decisão atual (até o fim do batch 3) é continuar sem páginas de pessoas. A regra do CLAUDE.md exige "pelo menos 2-3 afirmações concretas atribuídas ao Renan" por página. Só **Flávio Bolsonaro** e **Alexandre de Moraes** atingiriam esse patamar hoje; todos os demais (Marina Silva, Valdemar, Adriano da Nóbrega, Willer Tomás, Lula, Brandão, Ratinho Jr., Lewandowski, etc.) são citados de passagem ou uma única vez. Recomendação: abrir a pasta quando tivermos **4-5 candidatos** com massa crítica, e fazê-lo de uma vez só (batch 4 ou 5).
+- **analises/** — esta pasta serve para *queries* derivadas (comparações, timelines, sínteses cruzadas), distintas dos **temas** (que agrupam o que Renan diz sobre um assunto). A diferença é: um *tema* é descritivo ("o que Renan diz sobre segurança"); uma *análise* é uma pergunta respondida ("como a posição de Renan sobre Bolsonaro evoluiu?", "timeline do Escândalo Banco Master", "comparativo Renan × Flávio em 5 eixos"). Deve ser preenchida sob demanda quando o usuário fizer uma pergunta ao wiki ou pedir explicitamente uma síntese — não automaticamente no ingest. Sugestões concretas de análises que já têm material suficiente:
+  1. **Timeline do Escândalo Banco Master** — ordenar cronologicamente o que Renan contou sobre Vorcaro, Moraes, delação, ato da Paulista, TCU/Jonathan de Jesus.
+  2. **Viagem pelo Maranhão em 8 cidades** — mapa narrativo costurando Imperatriz, Balsas, Santa Inês, Buriticupu, Estreito, Marajá do Sena, Pedra Caída e Vilinha.
+  3. **Comparativo Renan × Flávio Bolsonaro** — como Renan se diferencia da direita tradicional.
+  4. **Propostas de governo agrupadas** — compilação das medidas enumeradas em vários vídeos (segurança, fiscal, municipal, ONGs).

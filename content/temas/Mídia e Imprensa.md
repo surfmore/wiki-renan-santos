@@ -1,0 +1,144 @@
+---
+title: "Mídia e Imprensa"
+tags:
+  - tema
+  - mídia
+date: 2026-04-12
+---
+
+# Mídia e Imprensa
+
+Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Recado oficial à Rede Globo: "não estou pedindo apoio, estou pedindo respeito" (maio de 2026)
+
+Em **13 de maio de 2026**, Renan dirige um recado formal à Rede Globo como pré-candidato. O ponto central: em terceiro lugar nas pesquisas Atlas Intel, com presença em todos os podcasts e emissoras do Brasil exceto o grupo Globo, Renan apresenta gráfico mostrando que é o pré-candidato com menos citações na GloboNews. O ponto mais grave: a GloboNews fez matéria sobre políticas de segurança pública de todos os pré-candidatos e o omitiu — mesmo sendo suas propostas as que os outros copiaram.
+
+Renan não faz ameaças, distanciando-se explicitamente de Lula e Bolsonaro, que tiveram conflitos abertos com a Globo. Classifica o apagamento como "sabotagem à ideia de democracia" e lembra que tentar sabotar uma candidatura acaba levantando-a. Menciona o "adesismo vexatório" da GloboNews nos três primeiros anos do governo Lula e um jornalista da emissora que se comunicava com ministro do STF via celular.
+
+O convite: cobrir um evento ou chamar Renan para um programa, o mesmo que já faz com os demais pré-candidatos.
+
+Ver [[fontes/2026-05-13 - Por que a Rede Globo fica me escondendo]].
+
+## PF usada como polícia política para calar manifestação (abril de 2026)
+
+Em **27 de abril de 2026**, Renan exibe vídeo de policial federal ameaçando cidadão que pendurou a palavra "ladrão" em prédio próximo a evento de Lula. O policial avisa que "vai dar problema" e que, quando o evento começar, "vêm em tudo". O cidadão não citou Lula pelo nome.
+
+Para Renan, o episódio é "ditadura em ato": a PF foi acionada como instrumento político para proteger o presidente de manifestação legítima, sem qualquer ação judicial prévia — o que seria o único mecanismo legal para restringir liberdade de expressão.
+
+> "Basicamente é um uso arbitrário como se fosse uma polícia política para proteger o Lula de uma manifestação."
+
+Renan anuncia auxílio jurídico ao cidadão e classifica o policial como "absolutamente insano, ameaçando de maneira ilegal."
+
+Ver [[fontes/2026-04-27 - PF do Lula censura cidadão]].
+
+## Imprensa ignora 3º lugar de Renan nas pesquisas (abril de 2026)
+
+Em **28 de abril de 2026**, após subir para **3º lugar isolado** (5,3%) na pesquisa Atlas Intel, Renan denuncia o apagamento pela imprensa: InfoMoney faz matéria sobre "terceira via" sem citá-lo; Estadão destaca **Romeu Zema** (5º lugar) ao invés de Renan.
+
+> "Por que esquecem da minha existência? Será porque nossas ideias são as que eles não estão aptos a entender?"
+
+Ver [[fontes/2026-04-28 - Por que esquecem da minha existência]] e [[fontes/2026-04-28 - CONTINUAMOS SUBINDO!]].
+
+## Censura judicial de Safadão: artista processa pré-candidato (abril de 2026)
+
+Em **27-29 de abril de 2026**, Wesley Safadão obteve liminar na Justiça do Ceará proibindo Renan de falar sobre seus shows públicos em municípios pobres. Renan denuncia como "o maior absurdo do país": um pré-candidato à presidência impedido de denunciar gastos públicos por uma liminar obtida por artista beneficiado por tais gastos.
+
+Ver [[fontes/2026-04-29 - Fui censurado pelo Wesley Safadao]] e [[temas/Corrupção Municipal]].
+
+## Datafolha, Globo e feedback loop
+
+Em 11 de abril de 2026, Renan gravou vídeo explicando o conceito de **feedback loop** para aplicá-lo ao noticiário político. Afirmou que o Datafolha (do grupo Folha) retirou seu nome dos cenários de segundo turno numa rodada em que ele vinha subindo nas buscas do Google e em outras pesquisas. A Globo, ao noticiar, não exibiu seu nome.
+
+Sustenta que o efeito foi deliberado: como o feedback loop positivo (mais pesquisas → mais buscas → mais matérias → melhor desempenho) depende da exposição, a ausência nos telejornais e na pesquisa cria um loop negativo que trava o crescimento. Compara a estratégia ao que teria ocorrido com **Trump**, **Milei** e **Bolsonaro** antes de suas eleições.
+
+## Ataques pessoais
+
+Em outro vídeo da mesma semana, Renan comentou acusações que passou a receber nas redes sociais e na imprensa: de ser nazista, de usar cogumelos, de ter dívidas insanáveis com a Receita Federal. Disse interpretar os ataques como confirmação de que a candidatura está crescendo, argumentando que esse é o padrão contra candidatos de direita em ascensão.
+
+## STF e a tentativa de derrubar a delação premiada
+
+Em 9 de abril de 2026, Renan acusou **Alexandre de Moraes** de tentar pautar uma ação de 2021 dos advogados do PT para acabar com o instituto da delação premiada, justamente às vésperas da delação de Daniel Vorcaro. Trata o movimento como a peça central do que chama de "maior marmelada da história" — um esforço coordenado entre STF, grande imprensa e classe política para conter o [[eventos/Escândalo Banco Master]]. Ver [[fontes/2026-04-09 - Xandão quer mudar delação premiada]].
+
+## O "candidato fantasma" na CNN
+
+Em 28 de março de 2026, Renan denunciou que a **CNN Brasil** havia divulgado uma pesquisa que listava **Lula**, **Flávio Bolsonaro**, **Ronaldo Caiado** e **Eduardo Leite** — **mas sem o próprio Renan**, que na pesquisa Atlas original aparecia em **terceiro lugar, "com quase 5%", à frente de Caiado**. A CNN também teria **cancelado uma entrevista** já marcada com Renan para a segunda-feira seguinte. Renan sugere como explicação a proximidade do **dono da emissora, Rubens Menin, com Lula e Flávio Bolsonaro**. Ver [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]].
+
+## Censura e Oakberry
+
+Em 19 de março de 2026, Renan denuncia que dois vídeos seus foram derrubados no Instagram por denúncia de **Renato Haidar**, cofundador da Oakberry (empresa de açaí ligada ao Banco Master e à Igreja Lagoinha Belvedere). Os vídeos tratavam da relação entre Oakberry, Lagoinha e Banco Master. Renan identifica a censura como retaliação por suas investigações.
+
+Ver [[fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR]].
+
+## Cinema nacional e a "obsessão pela ditadura"
+
+Em março de 2026, Renan critica o padrão do cinema brasileiro financiado publicamente: praticamente toda produção relevante dos últimos anos — *Cidade de Deus*, *Ainda Estou Aqui*, *Marighella*, *O Que É Isso, Companheiro?*, *O Agente Secreto* — se passa no período da ditadura militar.
+
+> "Fazem você achar que o Brasil começou nos anos 60."
+
+Proposta: seu governo investirá em arte que "dignifique o Brasil" sem transformá-lo em objeto permanente de divisão. Anuncia sete propostas para a arte.
+
+Ver [[fontes/2026-03-17 - WAGNER MOURA PERDEU O OSCAR]].
+
+## Censura no Instagram por proposta de penas duras (março de 2026)
+
+Em **6 de março de 2026**, Renan teve vídeos derrubados no Instagram após publicar conteúdo sobre tentativa de abuso de uma menor de 14 anos em Sorocaba, adicionando propostas de penas duras para agressores sexuais. O mesmo conteúdo havia circulado em outras páginas sem remoção. A Meta também suspendeu funcionalidades da conta: impossibilidade de responder mensagens, de fazer lives por um ano, de comentar em postagens.
+
+Renan identifica um padrão: toda vez que ele mostra um caso de crime **e propõe aumentar penas**, o vídeo cai. Toda vez que apenas mostra o problema, não. Exigiu judicialmente a restauração dos vídeos e das funcionalidades.
+
+> "Eu vou fazer isso mesmo perdendo todas as minhas redes sociais."
+
+Ver [[fontes/2026-03-06 - COMEÇOU A CENSURA CONTRA MIM]].
+
+## Globo como aliada conjuntural contra o STF (março de 2026)
+
+Em **7 de março de 2026**, a Rede Globo publicou análise técnica das mensagens de Vorcaro que contradiz a nota oficial de Alexandre de Moraes — confirmando que o número que trocou mensagens com o banqueiro era do ministro. Renan, sem isentar a Globo de críticas históricas, reconhece o momento:
+
+> "Boa parte dos bancos brasileiros e até a Rede Globo estão contra não só o STF, mas boa parte da roubalheira que vem acontecendo no Brasil. Agora é hora de botar mais lenha na fogueira."
+
+Ver [[fontes/2026-03-07 - Acredite se quiser - a rede Globo está salvando o Brasil]].
+
+## O carnaval pró-Lula e a ação no TSE (fevereiro de 2026)
+
+Em **fevereiro de 2026**, Renan usa o episódio do desfile de carnaval pró-Lula para ilustrar a fronteira entre comunicação política e propaganda eleitoral indevida. Uma escola de samba homenageou Lula com enredo transmitido em cadeia nacional pela Globo, financiado com dinheiro público via a **Rei Juaná**.
+
+Renan ingressou com dois processos no TSE:
+- O primeiro (antes do desfile) tentou suspender o evento e foi negado.
+- O segundo (após o desfile) pede a **proibição de uso das imagens do carnaval na campanha eleitoral de Lula** — que era o objetivo final do governo.
+
+A escola foi rebaixada por razões alheias ao processo. O ex-marqueteiro de Lula, **João Santana**, veio a público criticar a estratégia como "tiro pela culatra". A imagem de Lula e do prefeito **Eduardo Paes** bebendo enquanto assaltos ocorriam nas ruas do Rio circulou amplamente.
+
+Ver [[fontes/2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA]] e [[fontes/2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ]]; e [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]].
+
+## Luís Megali e a Band: jornalismo sem verificação (novembro de 2025)
+
+Em **14 de novembro de 2025**, logo após Renan aparecer pela primeira vez nas pesquisas presidenciais, o jornalista **Luís Megali** da Band veiculou uma checagem acusando Renan e Artur do Val de terem viajado à Ucrânia para "planejar pegar refugiadas" — baseando-se em imagens de garrafas empilhadas que, segundo ele, seriam coquetéis molotov em preparação.
+
+Renan desmonta a afirmação mostrando que as garrafas eram o estoque de um bar. A verificação que qualquer jornalista faria assistindo ao vídeo original desfazia a interpretação de Megali. A crítica de Renan é estrutural: **jornalistas que exigem que o público vá a "fontes verificadas" produzem, eles mesmos, conteúdo sem verificação básica**, motivados por antipatia política.
+
+Renan reitera que a viagem à Ucrânia foi legítima — MBL foi "o maior doador brasileiro para a resistência ucraniana", atestado pelo Ministério Público — e conclui que está "usando a burrice de Megali para divulgar" a candidatura.
+
+Ver [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]].
+
+## A humorista alemã que "ganha dinheiro com piadas sobre o Brasil"
+
+Em **19 de novembro de 2025**, Renan critica uma humorista alemã que vive no Brasil, ganha dinheiro com humor sobre o país e chamou de "nazista" o chanceler alemão por ter criticado a COP30 e dito preferir Berlim a Belém. Para Renan, ela representa um tipo de estrangeiro que quer manter o brasileiro numa imagem folclórica de "Zé Carioca" porque isso gera likes — e namora um MC que, segundo Renan, normaliza o tráfico.
+
+A crítica central: estrangeiros que lucram da imagem decadente do Brasil não têm direito de silenciar quem aponta os problemas. Renan contrapõe à "bunda danita" sua visão de Brasil competitivo como a Embraer.
+
+Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 — Legado em Belém]].
+
+## Fontes
+
+- [[fontes/2025-11-19 - Resposta para a humorista alemã]]
+- [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]]
+- [[fontes/2026-04-11 - Feedback Loop e eleições]]
+- [[fontes/2026-04-12 - Finalmente fui chamado de nazista nas redes sociais]]
+- [[fontes/2026-04-09 - Xandão quer mudar delação premiada]]
+- [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]]
+- [[fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR]]
+- [[fontes/2026-03-17 - WAGNER MOURA PERDEU O OSCAR]]
+- [[fontes/2026-03-07 - Acredite se quiser - a rede Globo está salvando o Brasil]]
+- [[fontes/2026-03-06 - COMEÇOU A CENSURA CONTRA MIM]]
+- [[fontes/2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA]]
+- [[fontes/2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ]]
