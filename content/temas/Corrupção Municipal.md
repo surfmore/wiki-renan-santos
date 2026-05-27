@@ -289,8 +289,22 @@ O contexto: quando Renan propôs a fusão de Tocantins com Goiás como medida an
 
 Ver [[fontes/2026-01-26 - EVONEY FERNANDES É CONDENADO POR RIFAS ILEGAIS EM TOCANTINS]].
 
+## Everton Rocha e o escândalo do INSS (abril de 2026)
+
+Em **15 de abril de 2026**, Renan tenta visitar a fazenda de **Everton Rocha (PDT-MA)** — vice-líder do governo Lula, o primeiro político citado no escândalo do INSS. A propriedade tem pista de pouso e extensão equivalente a "milhares de campos de futebol", instalada num dos municípios mais pobres do Maranhão. Rocha foi investigado por **Kim Kataguiri** na CPMI do INSS e chegou a pedir a prisão do próprio investigador. Renan não chegou à fazenda — o seis furos de pneu da viagem —, mas denuncia Rocha como símbolo do desvio de recursos de aposentados.
+
+Ver [[fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele]].
+
+## Santo Antônio dos Lopes: riqueza do gás, pobreza do povo (abril de 2026)
+
+Em **15 de abril de 2026**, Renan documenta o paradoxo de **Santo Antônio dos Lopes (MA)** — maior renda per capita do Maranhão graças ao Complexo Termoelétrico Parnaíba, mas IDH de 0,56–0,57 (nível África subsariana). A prefeita **Cibelle (PL)** ganha mais que o prefeito de São Luís. Desvios identificados: R$ 700 mil em livros desnecessários e contratos com réu reincidente (preso seis vezes).
+
+Ver [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]].
+
 ## Fontes
 
+- [[fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele]] — Everton Rocha; INSS; fazenda com pista de pouso
+- [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; Cibelle (PL)
 - [[fontes/2026-02-19 - MAIS UM BELO EXEMPLO DA CLASSE POLÍTICA DO MARANHÃO]]
 - [[fontes/2026-03-10 - Acho que descobri a cidade mais bizarra do Brasil]]
 - [[fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país]]
@@ -302,27 +316,4 @@ Ver [[fontes/2026-01-26 - EVONEY FERNANDES É CONDENADO POR RIFAS ILEGAIS EM TOC
 - [[fontes/2026-04-06 - Quem quer peixe]]
 - [[fontes/2026-04-06 - Juliana do Bonde em Guajará-Mirim]]
 - [[fontes/2026-04-05 - Lixo em energia em Pouso Alegre]]
-- [[fontes/2026-03-04 - Campinas deveria ser o Vale do Silício brasileiro]]
-- [[fontes/2026-03-03 - MC MELODY PASSA MAL COM O MARANHÃO]]
-- [[fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE]]
-- [[fontes/2026-01-27 - ESSA CIDADE NÃO TEM ÁGUA MAS QUER DAR INTERNET PARA VOTAR NO BBB]]
-- [[fontes/2026-01-26 - EVONEY FERNANDES É CONDENADO POR RIFAS ILEGAIS EM TOCANTINS]]
-
-## O ciclo da corrupção estadual: deputado do MT confesso
-
-Em março de 2026, Renan exibiu um vídeo vazado de um **deputado estadual do Mato Grosso** (partido Republicanos) comemorando ao telefone a obtenção de contratos em licitações montadas com suas próprias empresas — a dele e a da irmã, somando "quase R$ 200 milhões".
-
-Renan descreve o esquema como idêntico ao que vê em Rondônia, Piauí, Maranhão e interior de São Paulo, e formula a estrutura geral:
-
-1. Deputado tem amizade com o governador.
-2. Monta empresas no nome de laranjas (lixo, construtora, estradas, hospitais).
-3. Emendas parlamentares direcionam recursos a prefeituras amigas.
-4. Prefeituras licitam para as empresas do deputado.
-5. Parte do dinheiro compra votos da população.
-6. A população vota no corrupto, o ciclo recomeça.
-
-> "Casos como esse são a regra e não a exceção na política brasileira."
-
-O deputado é dos Republicanos — partido que Renan descreve como de "direita evangélica": "ele no fundo não é nem de direita nem evangélico. Ele é apenas um ladrão."
-
-Ver [[fontes/2026-03-18 - Ele foi pego confessando corrupção. Vazou tudo!]].
+- 

@@ -15,6 +15,14 @@ fontes:
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
 
+## Santo Antônio dos Lopes (MA): a cidade mais rica que parece a mais pobre (abril de 2026)
+
+Em **15 de abril de 2026**, Renan visita **Santo Antônio dos Lopes (MA)** — apresentada como a cidade de maior renda per capita do Maranhão — e documenta o paradoxo: apesar de uma renda per capita superior a **R$ 360.000 por habitante ao ano** (gerada pelo **Complexo Termoelétrico Parnaíba**, um dos maiores do Brasil), o IDH da cidade é de apenas **0,56–0,57**, comparável a países da África subsariana.
+
+A única pessoa recebendo os R$ 30.000 mensais que a média per capita sugeriria é a **prefeita Cibelle (PL)**, cujo salário supera o do prefeito de São Luís. A arrecadação bilionária não se converte em infraestrutura. Renan cita indícios de desvio: R$ 700.000 em compras de livros desnecessários (o governo federal já fornece livros didáticos), e contratos com um indivíduo que foi preso seis vezes. A riqueza natural torna-se, nas palavras de Renan, uma "maldição" quando não há controle político efetivo.
+
+Ver [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]].
+
 ## Bahia: 1/3 da população de SP, mais Bolsa Família do que qualquer estado (maio de 2026)
 
 Em **24 e 25 de maio de 2026**, Renan grava dois vídeos sobre a Bahia durante o início de uma viagem pelo estado. O dado mais expressivo: a Bahia tem **um terço da população de São Paulo**, mas é o **estado com o maior número de pessoas no Bolsa Família** do país. Renan apresenta isso como resultado de dezoito anos de governo PT (desde 2006), com apoio federal na maior parte do período.
@@ -349,24 +357,8 @@ Em [[fontes/2025-12-16 - NOSSO INIMIGO É O BRASIL IMPRODUTIVO]], Renan articula
 
 ## Fontes
 
+- [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; paradoxo renda/IDH; Complexo Parnaíba
 - [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]] — indicadores da Brasilândia; desfavelização cultural
 - [[fontes/2026-05-17 - O Brasil não liga para os bairros mais pobres de São Paulo]] — metrô da Brasilândia; PAC em Salvador; roubo federativo
 - [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]]
-- [[fontes/2025-12-17 - Eu sou a pessoa mais odiada no Acre!]]
-- [[fontes/2025-12-16 - NOSSO INIMIGO É O BRASIL IMPRODUTIVO]]
-- [[fontes/2026-02-14 - ESTADOS ONDE EU FARIA UMA INTERVENÇÃO - PARTE 01]]
-- [[fontes/2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA]]
-- [[fontes/2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA]]
-- [[fontes/2026-04-10 - Como podemos enriquecer esses 4 estados]]
-- [[fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês]]
-- [[fontes/2026-02-23 - ESSA CIDADE PRATICAMENTE SÓ TEM PESSOAS NO BOLSA FAMÍLIA]]
-- [[fontes/2026-02-23 - PREPARE-SE PARA SER HUMILHADO PELA ETIOPIA]]
-- [[fontes/2026-02-20 - QUAL O MOTIVO DE NINGUÉM QUERER FICAR NO BRASIL]]
-- [[fontes/2026-02-10 - PROJETO LEVE POÇOS NO RIO GRANDE DO NORTE]]
-- [[fontes/2026-02-08 - O HOMEM JOVEM NORDESTINO VAI MUDAR O DESTINO DESSE PAÍS]]
-- [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]]
-- [[fontes/2026-02-06 - O NORDESTE VAI DAR CERTO!]]
-- [[fontes/2026-01-30 - LULA PROMETEU ESSA OBRA EM 2006 E ATÉ AGORA NADA]]
-- [[fontes/2026-01-29 - O NORDESTE TEM SOLUÇÃO E NÓS ESTAMOS COLOCANDO EM PRÁTICA]]
-- [[fontes/2026-01-28 - PT TRATA NORDESTINO COMO COITADO]]
-- [[fontes/2026-01-27 - ESSA CIDADE NÃO TEM ÁGUA MAS QUER DAR INTERNET PARA VOTAR NO BBB]]
+- [[fontes/2025-12-17 - Eu sou a pessoa mais odi

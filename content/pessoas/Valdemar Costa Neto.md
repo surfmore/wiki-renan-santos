@@ -96,18 +96,4 @@ Em diversas ocasiões, Renan usa "Valdemar" como substantivo comum — categoria
 - [[pessoas/Nikolas Ferreira]] — produto do ecossistema PL/Valdemar
 - [[pessoas/Lula]] — Valdemar criou o Mensalão junto com o PT; preso juntos
 - [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]] — Valdemar declarou Messias "camarada de bem"
-- [[temas/Crítica à Direita Tradicional]] — bolsonarismo institucional como falsa alternativa
-- [[temas/Partido Missão]] — Missão como alternativa sem Valdemar
-
-## Fontes
-
-- [[fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!]] — entrevista onde confirma inadvertidamente que Flávio foi cobrar Vorcaro; pergunta se Valdemar é ingênuo ou quer tirar Flávio
-- [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]] — perfil completo; trajetória; R$953M PL; "recheando cofres"
-- [[fontes/2026-04-29 - FLÁVIO É FRACO]] — Valdemar declara Messias "camarada de bem"; bloqueio do impeachment
-- [[fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF]] — PL no acordão para aprovação de Messias
-- [[fontes/2026-04-21 - Nosso maior adversário é a falta de imaginação.]] — "Valdemar tem que ter uma cela"
-- [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]] — minimiza impeachment de ministros
-- [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]] — "um dos maiores bandidos do Brasil"
-- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]] — Mensalão; "velho de tornozeleira"; comparação com Zé Dirceu
-- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]] — "vagabundo petista"; Flávio dependente dele
-- [[fontes/2025-12-08 - Sou número 1 das pesquisas]] — "homem rico, gordo, meio pilantra, que tá também no governo Lula"
+- [[temas/Crítica à Direita Tradicional]] — bolsonarismo institucion

@@ -1,9 +1,5 @@
 ---
 title: "Índice"
-tags:
-  - renan-santos
-  - partido-missao
-  - mbl
 ---
 
 # Índice — Wiki Renan Santos
@@ -14,50 +10,50 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ## Temas
 
-- [[temas/Agronegócio e Matopiba]] — Matopiba como motor do Nordeste; refinarias, Ferrogrão e fertilizantes; vinícola São Joaquim SC: agro de alto valor agregado (abr/24). 6 fontes.
-- [[temas/Ambição Nacional e Soberania Tecnológica]] — 7 propostas de tecnologia: Simples Tech, stock options, TIB, matching israelense, Thiel Fellowship, capital gains, nômade digital (mar/20); falta de imaginação como adversário principal (abr/21); Conjuração Mineira/founding fathers (abr/21); Serra Verde US$2,8bi vendida bruta (abr/20); defesa aérea + terras raras (abr/27); disprósio/empresas mistas (mai/02); F1 com Embraer/WEG; cadeia de terras raras no Brasil: MAGBRAS, do mineral ao ímã/bateria (mai/21-23); Milei na forma + Bukele no conteúdo: ambição de potência regional (mai/23). 18 fontes.
-- [[temas/Carga Tributária]] — "Cobra como a Suécia, entrega como a África"; 1.200 produtos taxados 25%; MEI; eletrônicos; IPVA 1% sabotado. 8 fontes.
-- [[temas/Crítica à Direita Tradicional]] — direita inteira foi conivente com crimes da família Bolsonaro; Flávio: "defeitos do pai, nenhuma das qualidades" (mai/24); Flávio "feministo": apoia pauta feminista com Manuela Dávila (abr/13); centrão "grande câncer" R$65B (abr/25); accordão Flávio-Xandão; "Bolso Master" propaganda PT; Nikolas: havaianas em vez de legislar/detergente (mai/11); áudio Flávio-Vorcaro: quatro versões/caixa dois/MPE (mai/13-14); Flávio recusa debater Renan (mai/15); visita Vorcaro preso/desculpa inverossímil (mai/21); Faria Lima errou apostas (mai/23); PT e Bolsonaro igualmente no Master (mai/22). 64 fontes.
-- [[temas/Empobrecimento e Mercado de Trabalho]] — Estigma do fracasso vs. modelo americano; modelo asiático de desenvolvimento (fev/25); escala 6x1 e a armadilha da produtividade; assistencialismo 500% maior que PIB; Vale-Gás como compra de voto; Desenrola como compra de votos; "geração que fracassou". 16 fontes.
-- [[temas/Imigração e Fronteiras]] — Fronteira SC/Argentina: Bolsa Família para estrangeiros, proposta de acordo com Milei (abr/21); favela de venezuelanos em Londrina; proposta de fechar fronteira. 2 fontes.
-- [[temas/Infraestrutura e Estradas no Maranhão]] — Estradas, voçorocas, ponte de Estreito, Via Dutra, Estreito (MA). 13 fontes.
-- [[temas/Infraestrutura e Estradas no Paraná]] — Paraná: 4º PIB, estradas de mão dupla; pacto federativo; propostas de ferrovia e concreto. 1 fonte.
-- [[temas/Soberania Nacional e ONGs Estrangeiras]] — Financiamento estrangeiro a ONGs que bloqueiam infraestrutura, agro e fertilizantes; Soros e Instituto Marielle Franco; ONGs pró-descarceramento; PEC da Segurança como veículo de controle das polícias por ONGs. 8 fontes.
-- [[temas/Família e Paternidade]] — Ausência paterna como causa raiz do crime (FGV); "meteu cuidou"; combate à sexualização precoce. 2 fontes.
-- [[temas/Segurança Pública]] — Bahia: 2º mais violento; Jerônimo impede PM; velório em Dias d'Ávila; operações sem DPI são "enxugar gelo" (mai/24-25); Coroadinho: 80 hom/100k em 2014 (10x Ucrânia em guerra) (abr/14); Pedrinhas/PCM/Bonde dos 40 como escola do crime; modelo CECOT (abr/14); pena de morte: posição constitucional + reocupação do território (abr/28); Estado de defesa no dia 1; modelo El Salvador/Bukele (mai/04); Paraisópolis/PCC (mai/06); favelização SC: PGC+CV+775 ônibus em Joinville (abr/23); estados leniéticos Ceará/Bahia/Santa Quitéria (abr/26); origem do "prendeu matou": ciclista Vítor Felisberto + direito penal do inimigo (mai/12); Deolane/PCC: direito penal do inimigo para influenciadores (mai/22); Porto de Santos: estado de defesa na Baixada Santista/PCC (mai/23); Perry Shikida: penas altas/certeza da punição como dissuasão (mai/21). 81 fontes.
-- [[temas/STF e Ativismo Judicial]] — Padrão PT-STF-bolsonarismo contra Alessandro Vieira (abr/17); condenação Eduardo Bolsonaro: voto de vingança (abr/17); Rejeição de Messias (abr/29); prisão de ministros (abr/27); PT sacrifica Toffoli; 7 propostas; disposto a enfrentar STF (mai/08); derrubada da dosimetria: "semimonarquia com Xandão mandando" (mai/09); reafirmação na Sabatina Esfera e Marcha dos Prefeitos: 8.000 ações vs. 50; dosimetria: a favor do mérito, contra a anistia pura (mai/21-23). 41 fontes.
-- [[temas/Corrupção Municipal]] — Richard Rasmussen/PRF: punir honestos, proteger desonestos; Missão como instrumento de guerra (fev/25); censura Safadão: liminar proíbe Renan de denunciar shows (abr/27-29); R$52M em 50+ contratos (2024-25); DJ Alock Piauí R$1,8M/judiciário cúmplice (abr/26); "efeito Renan" abr/26; MP Paraíba vs Coxixola/Safadão (mai/03); festival Ceilândia/lavagem (mai/02); lei responsabilidade gerencial (mai/07); enchentes Recife (mai/08); Turilândia: motociata por prefeito ladrão/97% repasses/República de Turilândia (mai/13-15). 34 fontes.
-- [[temas/Mídia e Imprensa]] — PF como polícia política (abr/27); Safadão censura Renan (abr/27-29); imprensa ignora 3º lugar (abr/28); Folha, Globo, CNN; carnaval pró-Lula; Globo aliada conjuntural; recado formal à Globo: gráfico de citações/convite para cobertura (mai/13). 17 fontes.
-- [[temas/Desigualdade Regional e Migração Interna]] — Bahia: 1/3 pop. de SP mas maior Bolsa Família do país; Salvador 3ª mais favelizada; agro sabotado pelo governo baiano (mai/24-25); Barcelos (AM): R$ 1000/mês sem trabalhar, 97% repasses, IDH 0,5 (mar/20); Coroadinho: 35% de São Luís em favelas; "filial do inferno" (abr/14); SC x MA: São Miguel do Oeste IDH 0,801 vs Santo Antônio dos Lopes IDH 0,565 (abr/24); "roubo federativo"; Acre: Cameli condenado, 49% no BF (mai/08). 32 fontes.
-- [[temas/Judiciário e Supersalários]] — Judiciário mais caro do mundo; TJ-MG 11% do orçamento; desembargador investigado usa IA para absolver abusador; supersalários Câmara R$ 77K (Hugo Mota). 5 fontes.
-- [[temas/Pautas Identitárias e de Gênero]] — Abacatudo/Red Pill como espantalho; Flávio "feministo" + Novo + Moro apoiam pauta feminista (abr/13); Café com meu pai: indiciamento de influencer (abr/29); "Não haverá idade penal" (mai/04); PL Misoginia: espaços cinzentos (abr/30); Érika Hilton; feminicídio; autismo: "indústria do diagnóstico" e escola inclusiva forçada (mai/09-10); laudos falsos vendidos/BPC dobrado/João Campos cota (mai/15). 29 fontes.
-- [[temas/Política Externa e Geopolítica]] — Queda de Maduro/Trump; Brasil como "próximo caso"; nova Doutrina Monroe; Khamenei; BRICS; terceira via entre EUA e China. 7 fontes.
-- [[temas/Programa Nuclear Brasileiro]] — Proposta de bomba atômica; resposta ao cancelamento; Enéas Carneiro como precursor; "força é a única garantia"; terras raras como caminho para indústria bélica + bomba em 30 anos (mai/09). 4 fontes.
+- [[temas/Agronegócio e Matopiba]] — Como Renan enxerga o agronegócio como motor de desenvolvimento do Nordeste, com foco no Matopiba, infraestrutura logística, cadeia de fertilizantes e modelos de alto valor agregado como a vitivinicultura catarinense. 6 fontes.
+- [[temas/Ambição Nacional e Soberania Tecnológica]] — Visão de Renan para transformar o Brasil em potência tecnológica e industrial: propostas para o ecossistema de startups, valorização das terras raras, defesa aeroespacial e a tese de que a falta de ambição — não de recursos — é o principal obstáculo do país. 18 fontes.
+- [[temas/Carga Tributária]] — Crítica de Renan ao modelo fiscal brasileiro: o país "cobra como a Suécia e entrega como a África", taxando pesadamente trabalhadores, MEIs e eletrônicos enquanto mantém gastos ineficientes. 8 fontes.
+- [[temas/Crítica à Direita Tradicional]] — Posição de Renan de que a direita brasileira — Flávio Bolsonaro, Nikolas Ferreira, centrão e aliados do Banco Master — foi conivente com corrupção e não tem projeto de país, diferenciando-se assim do campo bolsonarista. 64 fontes.
+- [[temas/Empobrecimento e Mercado de Trabalho]] — Análise de Renan sobre o empobrecimento da classe média: escala 6x1, estigma do fracasso, assistencialismo que substitui trabalho e a "geração que fracassou" por falta de oportunidades reais. 16 fontes.
+- [[temas/Imigração e Fronteiras]] — Preocupação de Renan com a entrada de imigrantes em condições irregulares, Bolsa Família para estrangeiros e proposta de acordo com Milei para controle na fronteira sul. 2 fontes.
+- [[temas/Infraestrutura e Estradas no Maranhão]] — Denúncias e visitas de Renan a estradas destruídas, voçorocas e pontes sem manutenção no Maranhão, usadas para ilustrar o abandono provocado pela classe política local. 13 fontes.
+- [[temas/Infraestrutura e Estradas no Paraná]] — Crítica ao pacto federativo que penaliza o Paraná, 4º maior PIB do país, com estradas precárias e propostas de ferrovia e pavimentação de concreto. 1 fonte.
+- [[temas/Soberania Nacional e ONGs Estrangeiras]] — Visão de Renan de que ONGs financiadas por fundações estrangeiras bloqueiam infraestrutura, agronegócio e segurança pública no Brasil, defendendo sua expulsão e o corte de financiamento externo. 8 fontes.
+- [[temas/Família e Paternidade]] — Posição de Renan de que a ausência paterna é uma das principais causas do crime no Brasil, com críticas à sexualização precoce de crianças e defesa da responsabilidade dos pais. 2 fontes.
+- [[temas/Segurança Pública]] — Tema central da candidatura de Renan: diagnóstico da violência em estados como Bahia e Maranhão, defesa do estado de defesa como primeira medida de governo, modelo El Salvador/Bukele, direito penal do inimigo e desfavelização como solução estrutural. 81 fontes.
+- [[temas/STF e Ativismo Judicial]] — Crítica de Renan ao STF como poder que age politicamente, com denúncias sobre Alexandre de Moraes, proposta de reforma estrutural do tribunal e declaração de que está disposto a confrontar decisões inconstitucionais. 41 fontes.
+- [[temas/Corrupção Municipal]] — Denúncias sistemáticas de Renan contra prefeituras que gastam verbas federais em shows de artistas como Wesley Safadão e DJ Alock, com propostas de lei de responsabilidade gerencial para prefeitos. 34 fontes.
+- [[temas/Mídia e Imprensa]] — Relação de Renan com a imprensa brasileira: denúncia de apagamento deliberado por Globo e outros veículos, crítica ao jornalismo militante e pedido formal de cobertura proporcional às pesquisas. 17 fontes.
+- [[temas/Desigualdade Regional e Migração Interna]] — Análise comparativa de Renan sobre as diferenças de IDH e qualidade de vida entre estados, com foco no contraste entre Santa Catarina e Maranhão e na crítica ao "roubo federativo" que favorece estados mal geridos. 32 fontes.
+- [[temas/Judiciário e Supersalários]] — Denúncia de Renan sobre o custo do judiciário brasileiro — o mais caro do mundo — e os supersalários de juízes e desembargadores em contraste com a qualidade da Justiça entregue à população. 5 fontes.
+- [[temas/Pautas Identitárias e de Gênero]] — Posição de Renan sobre pautas de gênero e identidade: crítica ao PL da Misoginia por ser vago, ao feminismo performático, à "indústria do autismo" com laudos falsos e à sexualização precoce nas escolas. 29 fontes.
+- [[temas/Política Externa e Geopolítica]] — Visão de Renan sobre o cenário global: queda de Maduro, nova Doutrina Monroe dos EUA, BRICS e a tese de que o Brasil precisa buscar uma terceira via entre EUA e China para afirmar soberania. 7 fontes.
+- [[temas/Programa Nuclear Brasileiro]] — Defesa de Renan pelo desenvolvimento de armamento nuclear próprio como garantia de soberania, com proposta de aproveitar a cadeia de terras raras para construir capacidade industrial-bélica em 30 anos. 4 fontes.
 
 ## Posições
 
-- [[posicoes/Cidade-Estado da Guanabara]] — Rio de Janeiro como cidade-estado autônoma. 1 fonte.
-- [[posicoes/Criminalização da Incitação pelo Discurso de Ódio Político]] — Art. 286 CP; "nazista/fascista" como incitação ao crime; coautoria se alvo for agredido/morto. 2 fontes.
-- [[posicoes/Criminalização da Compra e Venda de Votos]] — 10 anos para quem vende, 20 para quem compra. 2 fontes.
-- [[posicoes/Desfavelização do Rio de Janeiro]] — Marco Nacional Desfavelização: R$ 900B/10 anos; tolerância zero invasões; escolas cívico-militares; prefeito perde direitos políticos (mar/27); 6 medidas com BOPE; Sobral como contraexemplo; invasão como "indústria da favela" (mai/12). 5 fontes.
-- [[posicoes/Emendas Parlamentares Condicionadas a Metas]] — Emendas só a municípios com bom desempenho; inelegibilidade de 8 anos; "lei de responsabilidade gerencial" shows/Safadão (mai/07); Marcha dos Prefeitos: "quem paga a banda escolhe a música"; art. 167 CF: despesa exige receita (mai/21). 7 fontes.
-- [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — Primeira medida de governo; mecanismo de afastamento de governador; programa 11 pontos para governadores (out/29). 3 fontes.
-- [[posicoes/Proposta para Governadores Anti-Crime]] — 11 pontos para governadores + pré-candidatos: guerra ao crime, direito penal do inimigo, Porto de Santos, prisão perpétua, proibição ONGs, desfavelização. 1 fonte.
-- [[posicoes/Expulsão de ONGs Estrangeiras]] — Bloquear financiamento estrangeiro; expulsar ONGs; "indústria da miséria". 5 fontes.
-- [[posicoes/Frente de Trabalho para o Bolsa Família]] — Modelo Roosevelt: frente de trabalho antes do benefício; relatos de dependência do interior nordestino. 4 fontes.
-- [[posicoes/Fusão de Municípios]] — Macromunicípios com metas de desempenho; caso Taubaté x Tocantins. 5 fontes.
-- [[posicoes/Plano para Moradores de Rua]] — Sete propostas: censo de guerra, internação compulsória, frentes de trabalho, proibição da mendicância; decisão de Moraes como obstáculo. 3 fontes.
-- [[posicoes/Proposta para Caminhoneiros]] — 7 medidas: tabela dinâmica, diesel nacional, biodiesel, corredor elétrico, MEI, penas, ferrovias. 1 fonte.
-- [[posicoes/Propostas para Educação]] — 7 propostas: método fônico, técnico alemão, escolas polo, voucher, bolsa empreendedor, fim de TODAS as cotas (incluindo social); fim da autonomia universitária/jubilamento de grevistas/endowments (mai/13). 3 fontes.
-- [[posicoes/Propostas para Polícia Militar]] — 7 propostas: apoio jurídico, piso salarial, seguro de vida, saúde mental, polícia científica, excludente, 2h delegacia. 1 fonte.
-- [[posicoes/Propostas para Saúde]] — 8 propostas: Ozempic no SUS, comida saudável, academias, saúde mental, genética, telemedicina, gestão por resultado, prontuário único+IA. 1 fonte.
-- [[posicoes/Propostas para o STF]] — 7 propostas: fim de decisões monocráticas, prazo obrigatório, filtro de acesso, transparência, tribunal político sorteável, veto senatorial, mandato com quarentena; reafirmadas na Marcha dos Prefeitos e Sabatina Esfera (mai/21-23). 3 fontes.
-- [[posicoes/Reforma Fiscal]] — R$ 3,3 trilhões em 10 anos, mexendo "em todas as mamatas"; sequência: cortar gastos no ano 1, impostos no ano 2; Zona Franca/supersalários/municipalismo (mai/13); desvinculação aposentadorias/BPC do salário mínimo; fim de gatilhos automáticos (mai/23). 3 fontes.
-- [[posicoes/Transparência Digital e Anticorrupção]] — IA para cruzar 80+ bases públicas; Bruno César/"Aceleracionismo Brasileiro"; restaurar COAF e prisão em 2ª instância. 2 fontes.
-- [[posicoes/Intervenção Federal em Estados com Baixo IDH]] — Interventor nível municipal: Barcelos (AM) IDH 0,5 sem status de município (mar/20); interventor + redução progressiva do repasse; Alagoas (dez/22), Pará/Barbalhos (dez/23), Arari (dez/19), Coribe (BA); Acre: Cameli condenado, 49% BF, proposta de intervenção (mai/08). 9 fontes.
-- [[posicoes/Reforma do Senado Federal]] — R$ 46M em bônus ilegais; representação distorcida; reduto de oligarcas; proposta de extinção ou esvaziamento. 1 fonte.
-- [[posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos]] — 14+ anos = adulto para crimes violentos; retorno de internação compulsória para psicopatas; caso Aracruz (dez/03). 1 fonte.
-- [[posicoes/Combate à Fraude Eleitoral via LDO]] — LDO 2025 legalizou gastos eleitoreiros 3 meses antes das eleições; Renan classifica como "golpe eleitoral." 1 fonte.
+- [[posicoes/Cidade-Estado da Guanabara]] — Proposta de Renan de transformar o Rio de Janeiro em uma cidade-estado autônoma, separada do estado, para resolver sua crise de governança. 1 fonte.
+- [[posicoes/Criminalização da Incitação pelo Discurso de Ódio Político]] — Proposta de responsabilizar judicialmente quem incita violência com termos como "nazista" ou "fascista" — inclusive tornando coautor do crime quem chamou o alvo se ele for agredido ou morto. 2 fontes.
+- [[posicoes/Criminalização da Compra e Venda de Votos]] — Proposta de penas severas para o voto comprado: 10 anos para quem vende e 20 anos para quem compra. 2 fontes.
+- [[posicoes/Desfavelização do Rio de Janeiro]] — Programa nacional de desfavelização com R$ 900 bilhões ao longo de 10 anos, tolerância zero a novas invasões, escolas cívico-militares e responsabilização de prefeitos que não cumprirem metas. 5 fontes.
+- [[posicoes/Emendas Parlamentares Condicionadas a Metas]] — Proposta de vincular o repasse de emendas parlamentares a indicadores de desempenho dos municípios, com inelegibilidade de 8 anos para prefeitos que usarem verba pública em shows e festas sem resultados. 7 fontes.
+- [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — Proposta de declarar estado de defesa como primeira medida de governo em estados com governadores omissos diante do crime organizado, com mecanismo de afastamento do governador. 3 fontes.
+- [[posicoes/Proposta para Governadores Anti-Crime]] — Plano de 11 pontos apresentado a governadores e pré-candidatos: guerra ao crime, direito penal do inimigo, intervenção no Porto de Santos, prisão perpétua, expulsão de ONGs e desfavelização. 1 fonte.
+- [[posicoes/Expulsão de ONGs Estrangeiras]] — Proposta de cortar o financiamento estrangeiro a ONGs que atuam no Brasil e expulsá-las, sob o argumento de que representam a "indústria da miséria" e bloqueiam desenvolvimento. 5 fontes.
+- [[posicoes/Frente de Trabalho para o Bolsa Família]] — Proposta inspirada no New Deal de Roosevelt: substituir o Bolsa Família por frentes de trabalho remunerado, com o benefício condicionado à participação em obras e serviços públicos. 4 fontes.
+- [[posicoes/Fusão de Municípios]] — Proposta de unir municípios muito pequenos em macromunicípios com metas de desempenho, reduzindo a proliferação de prefeituras inviáveis que dependem quase 100% de repasses federais. 5 fontes.
+- [[posicoes/Plano para Moradores de Rua]] — Sete medidas para a situação de rua: censo de guerra, internação compulsória para dependentes químicos, frentes de trabalho, proibição da mendicância organizada e enfrentamento ao obstáculo judicial. 3 fontes.
+- [[posicoes/Proposta para Caminhoneiros]] — Sete medidas dirigidas à categoria: tabela dinâmica de frete, diesel nacional, expansão do biodiesel, corredor elétrico, simplificação do MEI, penas mais duras para roubo de carga e ferrovia. 1 fonte.
+- [[posicoes/Propostas para Educação]] — Sete propostas: método fônico, modelo técnico alemão, escolas polo regionais, voucher escolar, bolsa empreendedor, fim de todas as cotas e extinção da autonomia universitária para grevistas. 3 fontes.
+- [[posicoes/Propostas para Polícia Militar]] — Sete medidas de valorização da PM: apoio jurídico em serviço, piso salarial nacional, seguro de vida, saúde mental, polícia científica, excludente de ilicitude amplo e prazo máximo de 2 horas na delegacia. 1 fonte.
+- [[posicoes/Propostas para Saúde]] — Oito propostas para o sistema de saúde: Ozempic no SUS, alimentação saudável nas escolas, academias populares, saúde mental, medicina genômica, telemedicina, gestão por resultado e prontuário único com IA. 1 fonte.
+- [[posicoes/Propostas para o STF]] — Sete reformas estruturais para o Supremo: fim de decisões monocráticas, prazos obrigatórios, filtro de acesso, transparência de processos, tribunal político sorteável, veto senatorial de ministros e mandato com quarentena. 3 fontes.
+- [[posicoes/Reforma Fiscal]] — Proposta de cortar R$ 3,3 trilhões em gastos ao longo de 10 anos, com sequência clara: corte de despesas no 1º ano e redução de impostos no 2º, desvinculação de benefícios do salário mínimo e fim de gatilhos automáticos. 3 fontes.
+- [[posicoes/Transparência Digital e Anticorrupção]] — Proposta de usar inteligência artificial para cruzar mais de 80 bases de dados públicas, identificar desvios automaticamente, restaurar o COAF e reintroduzir a prisão em 2ª instância. 2 fontes.
+- [[posicoes/Intervenção Federal em Estados com Baixo IDH]] — Proposta de enviar interventores a municípios com IDH cronicamente baixo e dependência quase total de repasses federais, com redução progressiva das transferências como incentivo à melhora de gestão. 9 fontes.
+- [[posicoes/Reforma do Senado Federal]] — Proposta de esvaziar ou extinguir o Senado Federal, apontado como reduto de oligarquias regionais com R$ 46 milhões em bônus ilegais e representação distorcida da população. 1 fonte.
+- [[posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos]] — Proposta de tratar como adulto qualquer jovem acima de 14 anos que cometa crime violento, e restaurar a internação compulsória para criminosos psicopatas. 1 fonte.
+- [[posicoes/Combate à Fraude Eleitoral via LDO]] — Denúncia de que a LDO 2025 legalizou gastos eleitoreiros nos 3 meses anteriores à eleição, o que Renan classifica como um "golpe eleitoral" de Lula. 1 fonte.
 
 ## Pessoas
 
@@ -245,6 +241,11 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2026-04-14 - Ameaçado por chamar Coroadinho de filial do inferno]] — Coroadinho: 35% de SL em favelas; Bonde dos 40; interventor federal proposto; prefeito Braide.
 - [[fontes/2026-04-14 - Presídio de Pedrinhas]] — Histórico PCM vs. Bonde dos 40; escola do crime; modelo CECOT/El Salvador.
 - [[fontes/2026-04-14 - O que é melhor no Maranhão]] — Humor: presídio vence em duelo contra estradas, educação, saneamento, classe política.
+- [[fontes/2026-04-22 - As cooperativas de Santa Catarina são um exemplo para o Brasil]] — cooperativismo SC como modelo para Nordeste; três tipos de cooperativa; "meu governo será amigo das cooperativas".
+- [[fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele]] — Everton Rocha (PDT-MA); fazenda com pista de pouso; INSS; Kim Kataguiri investigou; seis pneus furados.
+- [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; Complexo Parnaíba; IDH 0,56 apesar de R$360k per capita; prefeita Cibelle (PL).
+- [[fontes/2026-04-15 - Essa é a competição que quero ver]] — Brandão e Braide competem por obras após denúncias; "efeito Renan"; cobra saneamento e redução do BF.
+- [[fontes/2026-04-14 - Arrumei briga e to ameaçado de morte. E agora]] — Coroadinho; 80 hom/100k; Bonde dos 40; Braide quer governar o MA; proposta de interventor.
 - [[fontes/2026-04-14 - Lideranças do Coroadinho repudiam Renan]] — Repúdio de associação; 80 homicídios/100k em 2014; "discurso coitadista"; promete acabar com favelas.
 - [[fontes/2026-04-13 - CANCELARAM O ABACATUDO POR MISOGINIA]] — Abacatudo; "Café com teu pai"; Flávio "feministo"; direita apoia pauta feminista por votos.
 - [[fontes/2026-04-13 - MAIS UM RECORDE DO BRASIL]] — Carga tributária a 32,4% do PIB; defesa da reforma fiscal.
@@ -654,13 +655,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-09-09 - Precisamos libertar 25 milhões de brasileiros!]] — Forças Armadas nas fronteiras; uso multifatorial; mudança de paradigma penal; ressocialização x punição.
 - [[fontes/2025-09-09 - O pau tá quebrando no Nepal]] — Geração Z derruba governo de esquerda; analogia com bloqueio de redes sociais pelo STF.
 - [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — Taxa das blusinhas: 4x menos que o previsto, 14M consumidores prejudicados; monopólio do Magazine Luiza.
-- [[fontes/2025-09-06 - Cuida de mim, painho!]] — PT não tornou o Nordeste rico; assistencialismo como estratégia eleitoral de Lula; "dá botijão."
-- [[fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE]] — Matopiba: biocombustíveis com soja/milho; porto do Maranhão para EUA; indústria de alto valor agregado.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Biografia completa: Mooca/1984, USP, policiais corruptos, MBL, manifestações, Missão.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]] — Compilação de falas sobre guerra ao crime; declarar guerra formal às facções; invasão de territórios.
-- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — 2% na pesquisa Real Time Big Data; Renan sem candidatura formal; propostas centrais.
-
-## Análises
-
-- [[analises/Timeline do Escândalo Banco Master]] — Cronologia detalhada de novembro de 2025 a maio de 2026; mecanismo do esquema; conexões transpartidárias; 51 fontes.
-- [[analises/Propostas de Governo - Comparativo por Área]] — Compilação tabular de todas as propostas concretas do Renan, organizadas por área (fiscal, segurança, judiciário, educação, saúde, habitação, infraestrutura, política internacional, reforma institucional, tecnologia); com notas sobre evolução de posições ao longo do tempo. 22 páginas de posições consultadas.
+- [[fontes/2025-09-06 - Cuida de mim, painho!]] — PT não tornou o Nordeste rico; assistencialismo como e

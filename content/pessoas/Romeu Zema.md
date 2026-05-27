@@ -98,5 +98,4 @@ Ver [[fontes/2026-05-23 - Recado para a Faria Lima]].
 - [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]] — "time único"; vice de Zema no PSD
 - [[fontes/2026-01-21 - RENAN ULTRAPASSA GOVERNADORES EM NOVA PESQUISA PARA PRESIDENTE]] — pesquisa Atlas; Renan supera Zema, Caiado e Ratinho
 - [[fontes/2025-12-06 - Flávio Bolsonaro rachou a direita]] — Zema tentou ser "bom menino" do Bolsonaro
-- [[fontes/2025-09-24 - Quer notícia boa]] — Zema classificado como "múmia do centrão"
-- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — primeira pesquisa presidencial; Zema com 4%
+- [[fontes/2025-09-24 - Quer notícia boa]] — Zema classificado como "múmia do centr

@@ -72,11 +72,6 @@ Após o protesto, o governo Lula emitiu **decreto proibindo o uso da hidrovia** 
 
 Ver [[fontes/2026-02-25 - ÍNDIOS E PICARETAS DO PSOL ESTÃO SABOTANDO OS CAMINHONEIROS NA REGIÃO NORTE]] e [[temas/Soberania Nacional e ONGs Estrangeiras]].
 
-## Fontes
+## Cooperativismo como modelo de desenvolvimento para o Nordeste (abril de 2026)
 
-- [[fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês]]
-- [[fontes/2026-04-10 - Como podemos enriquecer esses 4 estados]]
-- [[fontes/2026-04-08 - 400 milhões pra Camaçari]]
-- [[fontes/2026-04-07 - A ferrogrão está sendo sabotada]]
-- [[fontes/2026-04-05 - O agro brasileiro pode quebrar]]
-- [[fontes/2026-02-25 - ÍNDIOS E PICARETAS DO PSOL ESTÃO SABOTANDO OS CAMINHONEIROS NA REGIÃO NORTE]]
+Em **22 de abril de 2026**, em frente a uma cooperativa agrícola de Santa Catarina, Renan defende o **modelo cooperativista** como estratégia replicável para o Nordeste. SC lidera junto com RS e SP o ranking de cooperados do Brasil. As cooperativas permitem que pequenos produtores ganhem escala, compartilhem maquinário e tecnologia, obte

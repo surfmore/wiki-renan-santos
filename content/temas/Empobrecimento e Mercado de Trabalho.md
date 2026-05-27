@@ -191,19 +191,4 @@ Renan se recusa a competir oferecendo mais: "O Lula deu o botijão, eu vou dar d
 
 Em **8 de fevereiro de 2026**, Renan usa imagens de entregadores robôs autônomos para alertar que "boa parte dos empregos que vocês conhecem vão deixar de existir" — caminhoneiros, entregadores, motoristas. Critica o Brasil por discutir escala 6x1 "desenhada nos anos 40" enquanto o mundo acelera em automação.
 
-Propõe o **Ministério do Futuro** para treinar trabalhadores nas novas tecnologias e criar oportunidades nos setores emergentes. Ver [[fontes/2026-02-08 - PRECISAMOS NOS PREPARAR PARA UM FUTURO GLORIOSO]].
-
-## Fontes
-
-- [[fontes/2026-04-05 - O Brasil está empobrecendo]]
-- [[fontes/2026-04-12 - POLEMICA SOBRE O VALE-GAS DO LULA]]
-- [[fontes/2026-03-29 - LULA ESTÁ EM PÂNICO]]
-- [[fontes/2026-03-31 - Caiado e Lula são VELHOS]]
-- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]]
-- [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]]
-- [[fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula]]
-- [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]]
-- [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]]
-- [[fontes/2026-02-08 - PRECISAMOS NOS PREPARAR PARA UM FUTURO GLORIOSO]]
-- [[fontes/2026-02-06 - VALE-GÁS É SÓ MAIS UMA MEDIDA POPULISTA DO LULA]]
-- [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]]
+Propõe o **Ministério do Futuro** para treinar trabalha

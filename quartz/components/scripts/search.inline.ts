@@ -521,41 +521,4 @@ async function setupSearch(searchElement: Element, currentSlug: FullSlug, data: 
   searchBar.addEventListener("input", onType)
   window.addCleanup(() => searchBar.removeEventListener("input", onType))
 
-  registerEscapeHandler(container, hideSearch)
-  await fillDocument(data)
-}
-
-/**
- * Fills flexsearch document with data
- * @param index index to fill
- * @param data data to fill index with
- */
-let indexPopulated = false
-async function fillDocument(data: ContentIndex) {
-  if (indexPopulated) return
-  let id = 0
-  const promises: Array<Promise<unknown>> = []
-  for (const [slug, fileData] of Object.entries<ContentDetails>(data)) {
-    promises.push(
-      index.addAsync(id++, {
-        id,
-        slug: slug as FullSlug,
-        title: fileData.title,
-        content: fileData.content,
-        tags: fileData.tags,
-      }),
-    )
-  }
-
-  await Promise.all(promises)
-  indexPopulated = true
-}
-
-document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
-  const currentSlug = e.detail.url
-  const data = await fetchData
-  const searchElement = document.getElementsByClassName("search")
-  for (const element of searchElement) {
-    await setupSearch(element, currentSlug, data)
-  }
-})
+  registerEscapeHandler(container, hideS

@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-05-27] ingest | Batch automático — Viagem ao Maranhão abr/14-22 + SC cooperativas (5 shorts)
+- Fontes criadas: fontes/2026-04-14 - Arrumei briga e to ameaçado de morte. E agora, fontes/2026-04-15 - Essa é a competição que quero ver, fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha, fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele, fontes/2026-04-22 - As cooperativas de Santa Catarina são um exemplo para o Brasil
+- Páginas atualizadas: temas/Infraestrutura e Estradas no Maranhão (efeito das denúncias; Brandão vs Braide; seis pneus furados), temas/Desigualdade Regional e Migração Interna (Santo Antônio dos Lopes; paradoxo renda/IDH), temas/Corrupção Municipal (Everton Rocha/INSS; Santo Antônio dos Lopes/Cibelle), temas/Agronegócio e Matopiba (cooperativismo SC como modelo para Nordeste), index.md
+- Nota: yt-dlp falhou (proxy 403) — nenhum vídeo novo foi baixado nesta execução; apenas transcrições já existentes foram ingeridas.
+- Total não ingeridos pendentes: ~33 vídeos com filename diferente do fontes/ correspondente (maioria já processada com nome ligeiramente diferente)
+
 ## [2026-05-26] ingest | Malandragem do Lula (1 short)
 - Fonte criada: fontes/2026-05-26 - Vou mostrar pra todo mundo a malandragem do Lula!
 - Páginas atualizadas: index.md
@@ -1227,88 +1233,4 @@ Terceiro batch. Continuação da ingestão cronológica descendente de `raw/proc
 - fontes/2026-04-07 - A ferrogrão está sendo sabotada
 - fontes/2026-04-06 - Centro de Monitoramento de Pouso Alegre
 - fontes/2026-04-06 - Quem quer peixe
-- fontes/2026-04-06 - Juliana do Bonde em Guajará-Mirim
-- fontes/2026-04-05 - Lixo em energia em Pouso Alegre
-- fontes/2026-04-05 - Um vídeo de Páscoa
-- fontes/2026-04-05 - O Brasil está empobrecendo
-- fontes/2026-04-05 - O agro brasileiro pode quebrar
-
-**Páginas novas (2):**
-- temas/Empobrecimento e Mercado de Trabalho
-- temas/Crítica à Direita Tradicional
-
-**Páginas atualizadas:**
-- temas/Segurança Pública (PCC em Imperatriz; Pouso Alegre como modelo positivo)
-- temas/Soberania Nacional e ONGs Estrangeiras (segundo vídeo sobre Ferrogrão; fertilizantes)
-- temas/Corrupção Municipal (peixes na Semana Santa; Guajará-Mirim; "Pezão")
-- temas/Agronegócio e Matopiba (fertilizantes e Ferrogrão)
-- posicoes/Expulsão de ONGs Estrangeiras ("terrorismo e sabotagem")
-- posicoes/Fusão de Municípios (novos casos: Guajará-Mirim, Nunes Freire, Gandu)
-- posicoes/Estado de Defesa e Direito Penal do Inimigo (mecanismo de afastamento de governador)
-- eventos/Escândalo Banco Master (menções no vídeo de Páscoa e no caso EMTU/Mike)
-- index.md
-
-**Último vídeo ingerido (marcador de progresso):** `2026-04-05 - O AGRO BRASILEIRO PODE QUEBRAR NOS PRÓXIMOS MESES`
-**Próximo a processar:** a partir de `2026-04-04 -` ou o próximo arquivo descendente em `raw/processed/renan-canal/shorts/`.
-
-## [2026-04-13] ingest batch 4 | 20 shorts (2026-04-04 → 2026-03-27)
-
-Quarto batch. **Tamanho dobrado** em relação aos anteriores: 20 shorts do canal Renan Santos, do mais recente para o mais antigo, iniciando abaixo de 2026-04-05.
-
-**Fontes processadas (20):**
-
-- fontes/2026-04-04 - Estado da Guanabara
-- fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG
-- fontes/2026-04-03 - PREVISÃO SOBRE O STF
-- fontes/2026-04-02 - A OPERAÇÃO MARMELADA começou
-- fontes/2026-04-01 - Um pedido de desculpas
-- fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista
-- fontes/2026-04-01 - Eu odeio mendigo
-- fontes/2026-03-31 - Você já conhece a PEC do IPVA do kimkataguiri
-- fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro
-- fontes/2026-03-31 - ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES
-- fontes/2026-03-31 - Caiado e Lula são VELHOS
-- fontes/2026-03-30 - Preciso da sua ajuda
-- fontes/2026-03-30 - MALAFAIA PEDE AJUDA PARA COMPRAR JATINHO
-- fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso
-- fontes/2026-03-29 - LULA ESTÁ EM PÂNICO
-- fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes
-- fontes/2026-03-28 - Eu fui na favela que o BOPE tomou conta
-- fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA
-- fontes/2026-03-27 - VOU PERDER MINHA CANDIDATURA
-- fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS
-
-**Páginas novas (6):**
-
-- temas/STF e Ativismo Judicial *(novo — eixo central das críticas institucionais)*
-- temas/Ambição Nacional e Soberania Tecnológica *(F1, terras raras, ferrovia bioceânica)*
-- posicoes/Cidade-Estado da Guanabara *(proposta de transformar o Rio em cidade-estado)*
-- posicoes/Plano para Moradores de Rua *(sete propostas)*
-- pessoas/Flávio Bolsonaro *(primeira página da pasta `pessoas/` — agora com massa crítica suficiente)*
-- pessoas/Alexandre de Moraes *(segunda página de pessoas/ — viagens, delação, contrato de R$ 80 mi)*
-
-**Páginas atualizadas:**
-
-- temas/Crítica à Direita Tradicional (PL misoginia, PEC Blindagem, Zanin/Dino, Caiado, Eduardo Paes, sátira de 1º/4)
-- temas/Segurança Pública (Rio como arquipélago; Tavares Bastos como modelo; cracolândia)
-- temas/Mídia e Imprensa (CNN "candidato fantasma", Rubens Menin)
-- temas/Empobrecimento e Mercado de Trabalho (affordability, Selic 15%, desemprego "5,3%", Haddad como alternativa)
-- eventos/Escândalo Banco Master (Operação Marmelada, CPMI do INSS derrubada, caso Valadão/Malafaia)
-- posicoes/Expulsão de ONGs Estrangeiras ("cafetinagem da miséria", ONG da favela, internação compulsória)
-- index.md *(adicionado bloco batch 4; criadas as seções pessoas/ no índice)*
-
-**Decisão sobre pessoas/**: aberto nesta rodada com **Flávio Bolsonaro** e **Alexandre de Moraes**. Ambos atingem muito mais do que o patamar de 2-3 afirmações concretas. Demais personagens (Caiado, Lula, Eduardo Paes, Marco Aurélio, Barroso, Silas Malafaia, Erika Hilton, Rubens Menin, Kim Kataguiri) permanecem apenas nas fontes por ora — Caiado e Barroso são os próximos candidatos naturais a uma página própria no batch 5 se reaparecerem.
-
-**Último vídeo ingerido (marcador de progresso):** `2026-03-27 - URGENTE - STF derruba CPMI do INSS`
-**Próximo a processar:** a partir de `2026-03-26 -` (descendente) em `raw/processed/renan-canal/shorts/`.
-
-### Nota de reorganização: pessoas/ e analises/
-
-Após 30 vídeos ingeridos, as pastas `pessoas/` e `analises/` seguem vazias. Avaliação:
-
-- **pessoas/** — a decisão atual (até o fim do batch 3) é continuar sem páginas de pessoas. A regra do CLAUDE.md exige "pelo menos 2-3 afirmações concretas atribuídas ao Renan" por página. Só **Flávio Bolsonaro** e **Alexandre de Moraes** atingiriam esse patamar hoje; todos os demais (Marina Silva, Valdemar, Adriano da Nóbrega, Willer Tomás, Lula, Brandão, Ratinho Jr., Lewandowski, etc.) são citados de passagem ou uma única vez. Recomendação: abrir a pasta quando tivermos **4-5 candidatos** com massa crítica, e fazê-lo de uma vez só (batch 4 ou 5).
-- **analises/** — esta pasta serve para *queries* derivadas (comparações, timelines, sínteses cruzadas), distintas dos **temas** (que agrupam o que Renan diz sobre um assunto). A diferença é: um *tema* é descritivo ("o que Renan diz sobre segurança"); uma *análise* é uma pergunta respondida ("como a posição de Renan sobre Bolsonaro evoluiu?", "timeline do Escândalo Banco Master", "comparativo Renan × Flávio em 5 eixos"). Deve ser preenchida sob demanda quando o usuário fizer uma pergunta ao wiki ou pedir explicitamente uma síntese — não automaticamente no ingest. Sugestões concretas de análises que já têm material suficiente:
-  1. **Timeline do Escândalo Banco Master** — ordenar cronologicamente o que Renan contou sobre Vorcaro, Moraes, delação, ato da Paulista, TCU/Jonathan de Jesus.
-  2. **Viagem pelo Maranhão em 8 cidades** — mapa narrativo costurando Imperatriz, Balsas, Santa Inês, Buriticupu, Estreito, Marajá do Sena, Pedra Caída e Vilinha.
-  3. **Comparativo Renan × Flávio Bolsonaro** — como Renan se diferencia da direita tradicional.
-  4. **Propostas de governo agrupadas** — compilação das medidas enumeradas em vários vídeos (segurança, fiscal, municipal, ONGs).
+- fontes/2026-04-0
