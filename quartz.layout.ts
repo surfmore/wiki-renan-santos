@@ -41,14 +41,52 @@ export const defaultContentPageLayout: PageLayout = {
     }),
     Component.Explorer({
       sortFn: (a, b) => {
-        // Folders always before files, folders sorted alphabetically
+        // Folders always before files
         if (a.isFolder && b.isFolder) return a.displayName.localeCompare(b.displayName, "pt-BR")
         if (a.isFolder && !b.isFolder) return -1
         if (!a.isFolder && b.isFolder) return 1
-        // fontes and eventos: date descending (newest first)
-        const isChron = (n: typeof a) =>
-          n.data?.tags?.includes("fonte") || n.data?.tags?.includes("evento")
-        if (isChron(a) && isChron(b)) {
-          const dateA = a.data?.date?.getTime() ?? 0
-          const dateB = b.data?.date?.getTime() ?? 0
-          if (dateA
+        // Both files: sort by date descending (newest first), then alphabetically
+        const dateA = a.data?.date?.getTime() ?? 0
+        const dateB = b.data?.date?.getTime() ?? 0
+        if (dateA !== dateB) return dateB - dateA
+        return a.displayName.localeCompare(b.displayName, "pt-BR")
+      },
+    }),
+  ],
+  right: [
+    Component.Graph(),
+    Component.DesktopOnly(Component.TableOfContents()),
+    Component.Backlinks(),
+  ],
+}
+
+// components for pages that display lists of pages  (e.g. tags or folders)
+export const defaultListPageLayout: PageLayout = {
+  beforeBody: [Component.Breadcrumbs(), Component.ArticleTitle(), Component.ContentMeta()],
+  left: [
+    Component.PageTitle(),
+    Component.ProfileImage(),
+    Component.MobileOnly(Component.Spacer()),
+    Component.Flex({
+      components: [
+        {
+          Component: Component.Search(),
+          grow: true,
+        },
+        { Component: Component.Darkmode() },
+      ],
+    }),
+    Component.Explorer({
+      sortFn: (a, b) => {
+        if (a.isFolder && b.isFolder) return a.displayName.localeCompare(b.displayName, "pt-BR")
+        if (a.isFolder && !b.isFolder) return -1
+        if (!a.isFolder && b.isFolder) return 1
+        const dateA = a.data?.date?.getTime() ?? 0
+        const dateB = b.data?.date?.getTime() ?? 0
+        if (dateA !== dateB) return dateB - dateA
+        return a.displayName.localeCompare(b.displayName, "pt-BR")
+      },
+    }),
+  ],
+  right: [],
+}
