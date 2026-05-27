@@ -56,12 +56,6 @@ A COP30 custou mais de R$ 4 bilhões. Semanas depois, imagens do Mercado Ver-o-P
 
 A COP também sabotou, segundo Renan, o desenvolvimento econômico do Pará: exploração de petróleo na **Margem Equatorial** e o **agronegócio** paraense. Ver [[eventos/COP30 — Legado em Belém]].
 
-## A proposta de Renan
+## Oposição amaldiçoada: Daniel Santos (maio de 2026)
 
-Condicionar repasses federais ao Pará à melhoria mensurável na vida da população. Se não houver melhoria: **interventor federal**. "Não dá para o Brasil sustentar essa mesma família de bandidos por mais de um século."
-
-## Fontes
-
-- [[fontes/2025-12-23 - Por que Pará ama os Barbalhos]]
-- [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
-- [[temas/Desigualdade Regional e Migração Interna]]
+Em **5 de maio de 2026**, Renan comenta o caso de **Daniel Santos**, prefeito de **Janindua** e líder nas pesquisas para o governo do Pará como suposta alternativa de oposição aos Barbalhos. Segundo reportagem do **Metrópoles** (jornalista André Schudders), emendas da deputada federal **esposa de Daniel Santos** foram enviadas ao município, executadas por uma empreiteira

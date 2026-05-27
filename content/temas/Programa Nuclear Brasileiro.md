@@ -16,6 +16,16 @@ fontes:
 
 Proposta polêmica de Renan Santos de que o Brasil desenvolva um programa nuclear militar como instrumento de soberania. A ideia foi defendida em ao menos três vídeos, gerando cancelamento nas redes sociais e sendo apresentada como distinção central de sua candidatura.
 
+## "Brasil não tem defesa aérea": indústria bélica e terras raras (abril de 2026)
+
+Em **27 de abril de 2026**, em trecho de entrevista, Renan amplia a tese para uma agenda de **defesa nacional** mais ampla. Diagnóstico: o Brasil "nem sequer possui ferramentas para iniciar esse enfrentamento" em um mundo de guerra cibernética, drones e nova fase da disputa EUA–China. O território brasileiro é cobiçado pelas terras raras, água, solo fértil e recursos naturais.
+
+A proposta: **negociar terras raras** com EUA ou China não só pela exportação, mas pela vinda da **indústria de semicondutores**, da **indústria bélica** e por **acordos de transferência de tecnologia** — a base para construir uma indústria de defesa de alta capacidade.
+
+Crítica direta aos demais pré-candidatos: *"No debate público no Brasil, os dois principais candidatos não falam disso. Um só fala em soltar o pai e outro fala em pé de meia."*
+
+Ver [[fontes/2026-04-27 - Nenhum outro pré-candidato fala isso]].
+
 ## Terras raras como caminho para a indústria bélica e o programa nuclear (maio de 2026)
 
 Em **9 de maio de 2026**, Renan retoma a defesa da bomba atômica conectando-a com a agenda de **terras raras**: minerais com propriedades luminescentes, magnéticas e catalíticas que permitem fabricar drones e armas de altíssima precisão.
@@ -64,20 +74,4 @@ A proposta gerou cancelamento nas redes sociais. Renan interpreta isso como evid
 
 ## Bomba atômica no MST: resposta irônica (maio de 2026)
 
-Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"Aí sim, tem que ser bomba atômica no MST."* O conteúdo é satírico, mas as posições individuais (pró-bomba, anti-MST) são consistentes com afirmações feitas em outros vídeos.
-
-Ver [[fontes/2026-05-20 - Bomba atômica no MST]].
-
-## Temas relacionados
-
-- [[temas/Política Externa e Geopolítica]]
-- [[temas/Ambição Nacional e Soberania Tecnológica]]
-- [[temas/Soberania Nacional e ONGs Estrangeiras]]
-
-## Fontes
-
-- [[fontes/2026-05-20 - Bomba atômica no MST]] — resposta irônica em entrevista; posição consistente com vídeos anteriores
-- [[fontes/2026-05-09 - Renan foi DESTRUÍDO Ou é o novo Enéas]] — terras raras e bomba em 30 anos; comparação com Enéas Carneiro
-- [[fontes/2026-01-05 - Estou sendo cancelado por defender que o Brasil tenha armas nucleares]] — resposta ao cancelamento
-- [[fontes/2026-01-04 - O Brasil precisa de uma arma nuclear]] — tese central; "nerd raquítico"
-- [[fontes/2026-02-28 - KHAMENEI ESTÁ MORTO]] — bomba como parte de agenda maior de soberania
+Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"A�

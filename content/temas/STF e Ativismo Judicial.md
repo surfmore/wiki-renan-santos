@@ -43,6 +43,18 @@ Consequência política lida por Renan: Lula não está fechado com o centrão, 
 
 Ver [[fontes/2026-04-29 - BESSIAS REJEITADO!]], [[fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF]] e [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]].
 
+## Gilmar Mendes tenta blindar o STF do caso Master (abril de 2026)
+
+Em **27 de abril de 2026**, Renan comenta entrevista de **Gilmar Mendes** à Renata Lopret em que o ministro diz: *"A mim me parece que a imprensa trouxe o caso Vorcaro para a Praça dos Três Poderes. Eu, se fosse buscar o endereço do caso Vorcaro ou do caso master, eu veria ele na Faria Lima."*
+
+Para Renan, é um recado direto à imprensa para que a cobertura **não toque o STF** — fala "que soa quase como uma ameaça", no mesmo tom de declarações recentes do ministro sobre o senador **Alessandro Vieira** ("esse cara aí não pode me investigar"). O argumento de Gilmar é insustentável, segundo Renan: a influência do Banco Master na Faria Lima veio justamente dos contatos políticos do banco (PT da Bahia → governo Bolsonaro → STF → governo Lula), com o STF servindo como "cereja do bolo" para garantir impunidade. O contrato milionário da esposa de Moraes com Vorcaro torna a tentativa de blindagem ainda mais explícita.
+
+Renan descreve Gilmar — outrora "talvez o ministro mais inteligente, com a melhor formação" do tribunal — como o **porta-voz** de um STF "completamente louco, fora da realidade, com pretensões imperiais". Diagnostica "uma fraqueza não só intelectual, mas uma fraqueza emocional". A reação desproporcional do ministro a um simples vídeo do governador **[[pessoas/Romeu Zema]]** serviria como sintoma.
+
+> "Este tipo de postura tem que ser rechaçada. Ela é autoritária e ela é sintomática de um poder que vai precisar ser colocado de volta na sua caixa."
+
+Ver [[fontes/2026-04-27 - Gilmar Mendes perdeu o controle]].
+
 ## Prisão de ministros do STF: posição de Renan (abril de 2026)
 
 Em **27 de abril de 2026**, perguntado diretamente se ministros do STF deveriam estar presos, Renan responde com cautela — "tem que tomar cuidado para não perder meus direitos políticos" — mas de forma afirmativa: **Alexandre de Moraes e Dias Toffoli** têm contratos, depósitos e movimentações financeiras com Daniel Vorcaro ([[eventos/Escândalo Banco Master]]) que "em qualquer lugar do mundo levariam impeachment e prisão."
@@ -297,27 +309,4 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 - [[fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COAF]]
 - [[fontes/2026-02-12 - TOFFOLI NÃO VAI ABANDONAR O CASO DO BANCO MASTER]]
 - [[fontes/2026-02-13 - ACORDÃO PARA DERRUBAR O MINISTRO DIAS TOFFOLI]]
-- [[fontes/2026-02-14 - CHEGOU A VEZ DO ALEXANDRE DE MORAES]]
-- [[fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI]]
-- [[fontes/2026-02-17 - URGENTE - STF vaza dados de servidores]]
-- [[fontes/2026-04-03 - PREVISÃO SOBRE O STF]]
-- [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]]
-- [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
-- [[fontes/2026-04-02 - A OPERAÇÃO MARMELADA começou]]
-- [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
-- [[fontes/2026-03-14 - GLOBO X STF, A GUERRA COMEÇOU]]
-- [[fontes/2026-03-19 - ANÃO DELEGADO, MINHA OPINIÃO]]
-- [[fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF]]
-- [[fontes/2026-03-08 - O que um país sério tem que fazer com Alexandre de Moraes]]
-- [[fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA]]
-- [[fontes/2026-03-09 - Eu fui no resort do Toffoli, o tal do Tayaya]]
-- [[fontes/2026-03-08 - 7 propostas pro STF]]
-- [[fontes/2026-03-07 - Acredite se quiser - a rede Globo está salvando o Brasil]]
-- [[fontes/2026-03-05 - APELO AO ALEXANDRE DE MORAES]]
-- [[fontes/2026-03-05 - ESSE PODE SER O FIM DO INQUÉRITO DAS FAKE NEWS]]
-- [[fontes/2026-02-24 - O BRASIL ACABOU APÓS A LAVA-JATO]]
-- [[fontes/2026-02-24 - O EPSTEIN BRASILEIRO NÃO VAI SER PUNIDO]]
-- [[fontes/2026-02-24 - LÉO LINS É ABSOLVIDO PELA JUSTIÇA]]
-- [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA AMARAL COM O JOÃO CAMPOS]]
-- [[fontes/2025-10-22 - O pior juiz do mundo mora no Brasil]]
-- [[fontes/2026-02-07 - FUI CONDENADO PELA JUSTIÇA 3 VEZES NESSA ÚLTIMA SEMANA]]
+- [[font

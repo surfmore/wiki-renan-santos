@@ -175,6 +175,8 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2026-05-06 - Lula acha que é bom você se endividar]] — Critica Desenrola como compra de votos; propõe alternativas.
 - [[fontes/2026-05-06 - Eu fui em Paraisópolis, que está tomada pelo PCC]] — Paraisópolis: 60k hab., IDH 0,6, PCC, proposta de desfavelização.
 - [[fontes/2026-05-05 - Você é a favor ou contra pregação em aviões]] — Critica pregação em aviões; defende respeito ao espaço público.
+- [[fontes/2026-05-05 - MEU POVO DO PARÁ]] — Daniel Santos (PA), prefeito oposição aos Barbalhos, envolvido em desvio de emendas via empresa da esposa-deputada; casa de R$ 4M no Ceará; Pará=Maranhão.
+- [[fontes/2026-05-05 - Eu já fui eleito Presidente da República]] — Tom irônico: Flávio, Zema, Nikolas e Zé Dirceu imitando suas propostas; crítica ao PT preso ao ciclo de dependência do Nordeste.
 - [[fontes/2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui]] — Bukele como modelo; desfavelização + estado de defesa; 50 milhões sob influência do crime.
 - [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estupro coletivo]] — São Miguel Paulista; PL 1112/2023 contra; "não haverá idade penal" para hediondos.
 - [[fontes/2026-05-04 - O projeto mais importante da última década acaba de ser sancionado]] — PL Kim Kataguiri sancionado; roubo celular até 25 anos; "mais importante dos últimos 10 anos".
@@ -223,6 +225,8 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2026-04-27 - Seu futuro pode ser diferente]] — Discurso motivacional; Brasil entre as 5 maiores nações; "isso é o passado".
 - [[fontes/2026-04-27 - PF do Lula censura cidadão]] — PF intimidou cidadão com banner "ladrão" perto de evento de Lula; "isso é ditadura".
 - [[fontes/2026-04-27 - O que eu penso sobre prisão de ministros do STF]] — Moraes e Toffoli deveriam estar presos; Flávio impede ação do Senado.
+- [[fontes/2026-04-27 - Gilmar Mendes perdeu o controle]] — Gilmar tenta blindar STF do caso Master; recado à imprensa ("endereço está na Faria Lima"); contrato da esposa de Moraes; STF "fora da realidade".
+- [[fontes/2026-04-27 - Nenhum outro pré-candidato fala isso]] — Brasil sem defesa aérea; terras raras como alavanca para indústria bélica e semicondutores via EUA/China; demais candidatos calados sobre defesa.
 - [[fontes/2026-04-21 - Nosso maior adversário é a falta de imaginação.]] — Falta de imaginação como adversário; Flávio e Lula como "mesmo arranjo fracassado"; Valdemar "precisa de cela".
 - [[fontes/2026-04-21 - Minas Gerais país independente]] — Dia de Tiradentes; Conjuração Mineira como "founding fathers" brasileiros; resgate histórico como projeto de governo.
 - [[fontes/2026-04-21 - EU INVADI A ARGENTINA]] — Fronteira SC/Argentina sem fiscalização; Bolsa Família para estrangeiros; proposta de acordo com Milei.
@@ -242,6 +246,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2026-04-14 - Presídio de Pedrinhas]] — Histórico PCM vs. Bonde dos 40; escola do crime; modelo CECOT/El Salvador.
 - [[fontes/2026-04-14 - O que é melhor no Maranhão]] — Humor: presídio vence em duelo contra estradas, educação, saneamento, classe política.
 - [[fontes/2026-04-22 - As cooperativas de Santa Catarina são um exemplo para o Brasil]] — cooperativismo SC como modelo para Nordeste; três tipos de cooperativa; "meu governo será amigo das cooperativas".
+- [[fontes/2026-04-22 - Essa ferrovia explica o aumento no preço da gasolina em Santa Catarina]] — Lajes/SC: ferrovia abandonada, R$0,30/L a mais na gasolina; FIESC: SC envia 47x mais ao governo federal do que precisa; reforma fiscal + novo licenciamento.
 - [[fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele]] — Everton Rocha (PDT-MA); fazenda com pista de pouso; INSS; Kim Kataguiri investigou; seis pneus furados.
 - [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; Complexo Parnaíba; IDH 0,56 apesar de R$360k per capita; prefeita Cibelle (PL).
 - [[fontes/2026-04-15 - Essa é a competição que quero ver]] — Brandão e Braide competem por obras após denúncias; "efeito Renan"; cobra saneamento e redução do BF.
@@ -625,11 +630,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — Sindicato do irmão de Lula: R$400M do INSS; gringos incrédulos; aprovação de Lula sobe.
 - [[fontes/2025-10-13 - PRECISAMOS FUNDIR AS CIDADES URGENTE]] — Caiçara do Norte + São Bento do Norte (RN): 9K habitantes, 2 câmaras, 15 min a pé.
 - [[fontes/2025-10-11 - Erika Hilton atacou o MBL]] — Ataque de Erika à desfavelização; PSOL-crime (Danielle Franco, Janira, cracolândia); R$70-80B/ano.
-- [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]] — Régis Tadeu diz que Renan não sabe nada; Renan: 16,4M, 5M moradias, R$900B total.
-- [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]] — Kim derruba MP 1303/25 (cripto, LCI, LCA); Nikolas vota contra o requerimento.
-- [[fontes/2025-10-08 - Resposta para a Tabata Amaral]] — Tabata defende puxadinhos; Renan: duplo padrão contra quem empreende dentro da lei.
-- [[fontes/2025-10-05 - Resposta ao Intercept]] — "Bom Selvagem"; criminalizar movimentos de invasão; desfavelização em 30 anos.
-- [[fontes/2025-10-03 - Não é só em favela que tem gente com mau gosto]] — "mentalidade favelada" cruza classes; "gororoba cultural"; problema cultural, não econômico.
-- [[fontes/2025-10-02 - Você também é a favor de escolas militares]] — escolas militares; método fônico; FGV 2007: ausência paterna prediz crime.
-- [[fontes/2025-10-01 - Prendeu, Matou e a bebida envenenada do PCC]] — PCC distribui álcool com metanol; terrorismo; direito penal do inimigo.
-- [[fontes/2025-10-01 - Escola simula motel em São João Batista]] — São João Batista (MA): escola-m
+- [[fontes/2025-10-10 - Regis Tadeu deton

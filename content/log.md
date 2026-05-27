@@ -1,5 +1,17 @@
 # Log de operações
 
+## [2026-05-27] ingest | Batch automático — Ferrovia SC, STF, defesa nacional, Pará (5 shorts)
+- Fontes criadas: fontes/2026-04-22 - Essa ferrovia explica o aumento no preço da gasolina em Santa Catarina, fontes/2026-04-27 - Gilmar Mendes perdeu o controle, fontes/2026-04-27 - Nenhum outro pré-candidato fala isso, fontes/2026-05-05 - Eu já fui eleito Presidente da República, fontes/2026-05-05 - MEU POVO DO PARÁ
+- Páginas atualizadas: temas/Desigualdade Regional e Migração Interna (nova seção Pará/Daniel Santos; nova seção "Eu já fui eleito"/PT-Nordeste; nova seção Lajes/ferrovia SC), temas/STF e Ativismo Judicial (nova seção Gilmar Mendes/blindagem do STF), temas/Programa Nuclear Brasileiro (nova seção sobre defesa aérea/semicondutores), pessoas/Família Barbalho (oposição Daniel Santos amaldiçoada), index.md
+- Total identificado pelo script: 38 raw sem match exato; após verificação manual, apenas 8 vídeos verdadeiramente novos (resto são duplicatas com typos no nome do arquivo)
+- Vídeos novos pendentes para próxima execução: 2026-05-26 (3 shorts: Lula maior projeto, VLT Salvador, Top 3 profissões perigosas)
+
+## [2026-05-27] maint | Reescrever resumos da página principal (Pessoas e Eventos)
+- Seção Pessoas (33 entradas): substituídas por frases em português enciclopédico, descrevendo quem é a pessoa, o que Renan diz sobre ela e contexto principal — sem códigos de data.
+- Seção Eventos (12 entradas): mesma revisão — resumo narrativo em vez de lista de tópicos comprimidos.
+- Seções Temas (19) e Posições (22) já tinham sido reescritas na sessão anterior.
+- index.md sincronizado para site/content/ e push realizado: commit 038086f (Cloudflare reconstruirá automaticamente).
+
 ## [2026-05-27] ingest | Batch automático — Viagem ao Maranhão abr/14-22 + SC cooperativas (5 shorts)
 - Fontes criadas: fontes/2026-04-14 - Arrumei briga e to ameaçado de morte. E agora, fontes/2026-04-15 - Essa é a competição que quero ver, fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha, fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele, fontes/2026-04-22 - As cooperativas de Santa Catarina são um exemplo para o Brasil
 - Páginas atualizadas: temas/Infraestrutura e Estradas no Maranhão (efeito das denúncias; Brandão vs Braide; seis pneus furados), temas/Desigualdade Regional e Migração Interna (Santo Antônio dos Lopes; paradoxo renda/IDH), temas/Corrupção Municipal (Everton Rocha/INSS; Santo Antônio dos Lopes/Cibelle), temas/Agronegócio e Matopiba (cooperativismo SC como modelo para Nordeste), index.md
@@ -1198,39 +1210,4 @@ Segundo batch. Continuação da ingestão cronológica descendente de `raw/proce
 
 **Fontes processadas (10):**
 - fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês
-- fontes/2026-04-10 - FUI SEQUESTRADO NO MARANHÃO *(transcrição auto-gerada em inglês corrompida; página-marcador, não ingerido)*
-- fontes/2026-04-10 - Direita, centro e esquerda no Banco Master
-- fontes/2026-04-10 - Como podemos enriquecer esses 4 estados
-- fontes/2026-04-09 - Você lembra dessa ponte aqui
-- fontes/2026-04-09 - Pneu furado no meio de uma BR no Maranhão
-- fontes/2026-04-09 - Xandão quer mudar delação premiada
-- fontes/2026-04-08 - Quem é o rei do bloquete em Imperatriz
-- fontes/2026-04-08 - Pinto do Equador e Juliana do Bonde
-- fontes/2026-04-08 - 400 milhões pra Camaçari
-
-**Páginas novas (3):**
-- eventos/Escândalo Banco Master *(primeira página de eventos/)*
-- temas/Agronegócio e Matopiba
-- posicoes/Emendas Parlamentares Condicionadas a Metas
-
-**Páginas atualizadas:**
-- temas/Infraestrutura e Estradas no Maranhão (ponte de Estreito, pneu furado, Balsas/Inpasa, propostas estruturais)
-- temas/Corrupção Municipal (bloquete Imperatriz, Pinto do Equador, Camaçari)
-- temas/Mídia e Imprensa (Moraes e delação premiada)
-- posicoes/Criminalização da Compra e Venda de Votos (caso Messias / Gafanhotos)
-- index.md
-
-**Último vídeo ingerido (marcador de progresso):** `2026-04-08 - 400 milhões pra Camaçari`
-**Próximo a processar:** a partir de `2026-04-07 - Resposta ao Flávio Bolsonaro.md` (descendente).
-
-## [2026-04-13] ingest batch 3 | 10 shorts (2026-04-07 → 2026-04-05)
-
-Terceiro batch. Continuação da ingestão cronológica descendente de `raw/processed/renan-canal/shorts/`.
-
-**Fontes processadas (10):**
-- fontes/2026-04-07 - Resposta ao Flávio Bolsonaro
-- fontes/2026-04-07 - O PCC chegou no interior do Maranhão
-- fontes/2026-04-07 - A ferrogrão está sendo sabotada
-- fontes/2026-04-06 - Centro de Monitoramento de Pouso Alegre
-- fontes/2026-04-06 - Quem quer peixe
-- fontes/2026-04-0
+- fontes/2026-04-10 - FUI SEQUESTRADO NO MARANHÃO *(transcrição auto-gerada em inglês corrompid

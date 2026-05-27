@@ -43,6 +43,27 @@ Em **17 e 18 de maio de 2026**, Renan grava dois vídeos na Brasilândia (271.00
 
 Ver [[fontes/2026-05-17 - O Brasil não liga para os bairros mais pobres de São Paulo]] e [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]].
 
+## Pará: Daniel Santos, Barbalhos e o ciclo de migração (maio de 2026)
+
+Em **5 de maio de 2026**, Renan comenta o caso de **Daniel Santos**, prefeito de Janindua e líder nas pesquisas para o governo do Pará como oposição aos **[[pessoas/Família Barbalho|Barbalhos]]**. Segundo reportagem do Metrópoles por André Schudders, emendas da deputada federal **esposa de Daniel Santos** financiaram empreiteiras que terminaram por construir uma **casa de praia avaliada em R$ 4 milhões** no Ceará para o prefeito.
+
+Para Renan, o caso resume o padrão dos estados onde o eleitor "fica preso entre oligarquias políticas que compram voto e contam com a ignorância de boa parte do povo". As consequências: mesmo recebendo dinheiro de outros estados via repasses federais, a população do Pará migra para outros lugares — e a migração se conecta ao avanço da favelização e do crime organizado em destinos como **Criciúma (SC)**.
+
+> "Os estados que pagam a conta se favelizam. Quem migra perde a dignidade, vive pior. E as únicas pessoas que se dão bem nessa história toda são essa classe política vagabunda."
+
+Ver [[fontes/2026-05-05 - MEU POVO DO PARÁ]].
+
+## "Eu já fui eleito" — PT preso ao ciclo de dependência do Nordeste (maio de 2026)
+
+Em **5 de maio de 2026**, em vídeo irônico sobre como suas propostas estariam "contaminando" os pré-candidatos (Flávio, Zema, Nikolas e até Zé Dirceu), Renan reforça a tese de que **o PT vive da dependência do Nordeste**:
+
+- O Dirceu que governou com Lula e Dilma deixou São Paulo de lado no pacto federativo, com o estado sendo "alvo de ataques e sabotagem do governo Lula e Dilma".
+- Catarinenses, paulistas, gaúchos e mineiros que pediam mais investimento eram chamados de "xenofóbicos" e "racistas" pelo PT.
+- As políticas de Lula para o Nordeste se resumem a "envio de gás, envio de energia elétrica" — nada para melhorar a economia local.
+- O PT "não quer mudar o ciclo que torna os lugares do Nordeste dependentes de dinheiro do governo federal e presos completamente na pobreza".
+
+Ver [[fontes/2026-05-05 - Eu já fui eleito Presidente da República]].
+
 ## Acre: corrupção, colapso educacional e proposta de intervenção (maio de 2026)
 
 Em **8 de maio de 2026**, Renan apresenta o Acre como novo caso extremo de estado politicamente hiperrepresentado mas incapaz de entregar qualidade de vida. O governador **Gladson Cameli** foi condenado a 26 anos por corrupção (R$ 270 milhões desviados, em sua maioria de outros estados) e ainda renuncia para concorrer ao Senado como favorito.
@@ -118,6 +139,14 @@ O paradoxo: o município maranhense tem PIB per capita cinco vezes maior — por
 > "A classe política de lá é muito muito ruim."
 
 Ver [[fontes/2026-04-24 - Santa Catarina x Maranhão - o duelo final!]].
+
+## Lajes (SC): ferrovia abandonada e R$ 0,30 a mais na gasolina (abril de 2026)
+
+Em **22 de abril de 2026**, Renan grava em Lajes (SC) em frente a uma estação ferroviária abandonada para ilustrar como o desmonte logístico em estados produtivos encarece insumos básicos. A linha férrea transportava cereais, produtos do agro e combustíveis a partir de uma refinaria próxima; com a desativação, o custo logístico subiu **R$ 0,30 por litro** repassados ao consumidor.
+
+Segundo dados que atribui à **FIESC**, Santa Catarina envia ao governo federal "47 vezes mais recursos do que o necessário" para resolver questões de infraestrutura do próprio estado — "o dinheiro não fica em Santa Catarina, é usado para sustentar os gastos e responsáveis do governo federal" e prefeituras "vagabundas" em outras regiões. Proposta: investimento em logística com retorno rápido, parcerias com a iniciativa privada e uso do novo licenciamento ambiental.
+
+Ver [[fontes/2026-04-22 - Essa ferrovia explica o aumento no preço da gasolina em Santa Catarina]].
 
 ## Guaraciaba (SC): o custo do pacto federativo para quem produz (abril de 2026)
 
@@ -326,39 +355,4 @@ Ver [[fontes/2026-01-27 - ESSA CIDADE NÃO TEM ÁGUA MAS QUER DAR INTERNET PARA 
 
 ## Mapa do PIB per capita: as duas linhas do Brasil (dezembro de 2025)
 
-Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo mapa de renda per capita: clara divisão Norte-Nordeste (baixa) vs. Centro-Sul (alta). Destaques:
-
-- **Rondônia** como surpresa positiva — renda alta graças ao agronegócio organizado.
-- **Brasília** como surpresa negativa — renda quase o dobro de Santa Catarina, "produz nada": elite do funcionalismo vivendo de recursos do restante do país.
-- **Maranhão** com menos de 1/3 da renda de São Paulo — e ainda assim um dos estados mais privilegiados no pacto federativo.
-- **Todo o Nordeste exceto a Paraíba** exporta população para outros estados (mapa de migração interna).
-
-Leitura política: a má alocação de recursos é "do ponto de vista do investimento estúpida, mas do ponto de vista político para controlar as pessoas, bem esperta." O ciclo: quem quer mudar de vida migra; quem fica continua votando nos mesmos políticos.
-
-O **Matopiba** é apresentado como prova do conceito: aplicou o agronegócio organizado, elevou o IDH e as pessoas "estão parando de votar no PT." A tese: replicar esse modelo em todo o Nordeste.
-
-## Acre: território federal pelo pior saneamento do Brasil (dezembro de 2025)
-
-Em [[fontes/2025-12-17 - Eu sou a pessoa mais odiada no Acre!]], Renan apresenta o Acre como candidato a virar **território federal** — revertendo o status de estado desde 1962:
-
-- 884.000 habitantes, mas com representação desproporcional (8 deputados federais e 3 senadores).
-- Apenas 40% da população acima de 16 anos ocupada — cerca de 350.000 trabalhadores. Campinas (SP) tem 500.000.
-- Pior estado em saneamento básico da federação.
-- Fornecimento de água em Rio Branco caiu de 53% para 52%; esgoto de 21% para 19%.
-- Manda R$ 800 milhões em tributos e recebe R$ 5,6 bilhões em repasses.
-
-O senador **Petecão** chamou Renan de "filho de uma égua" ao reagir à proposta. Renan respondeu que o Acre estaria melhor sob um interventor focado em indicadores do que com "uma classe política que é um absoluto lixo."
-
-## A aliança dos produtivos: inimigo é o Brasil improdutivo (dezembro de 2025)
-
-Em [[fontes/2025-12-16 - NOSSO INIMIGO É O BRASIL IMPRODUTIVO]], Renan articula sua tese de clivagem política: não é bolsonaristas vs. petistas, mas o **Brasil que produz** (trabalhadores de todos os estados) contra o **Brasil improdutivo**. A **Família Barbalho com 81% de aprovação no Pará**, apesar da migração em massa e mais de 50% de Belém em favelas, é o símbolo da "população esquizofrênica" que vota contra seus próprios interesses.
-
-> "O cara do Ceará tá trabalhando com aplicativo, ele é inteligente, ele é produtivo. Você é aliado paulista, aliado goiano. Nosso inimigo é o Brasil improdutivo."
-
-## Fontes
-
-- [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; paradoxo renda/IDH; Complexo Parnaíba
-- [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]] — indicadores da Brasilândia; desfavelização cultural
-- [[fontes/2026-05-17 - O Brasil não liga para os bairros mais pobres de São Paulo]] — metrô da Brasilândia; PAC em Salvador; roubo federativo
-- [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]]
-- [[fontes/2025-12-17 - Eu sou a pessoa mais odi
+Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo mapa de renda per capita: clara divisão Norte-Nordeste (baixa) vs
