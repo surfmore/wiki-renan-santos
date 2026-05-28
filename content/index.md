@@ -110,6 +110,9 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ### Maio de 2026
 
+- [[fontes/2026-05-26 - Top 3 profissões mais perigosas do Brasil]] — 20+ facções em Salvador; 3 instaladores de internet mortos pelo BDM; taxa de 30% cobrada das empresas; Salvador perdendo população.
+- [[fontes/2026-05-26 - O VLT já chegou em Salvador]] — VLT: R$1bi orçado → R$5bi+ gastos, ainda sem funcionar; governo Jerônimo: R$30bi em empréstimos; "lugar controlado pelo PT sempre fica mais pobre".
+- [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — PL/Valdemar vota a favor da escala 6x1 por cálculo eleitoral; 2,7M empregos formais em risco; PIB perde R$77bi/ano.
 - [[fontes/2026-05-26 - Vou mostrar pra todo mundo a malandragem do Lula!]] — Lula dá botijão de gás mas taxa os produtos; "uma mão dá, a outra tira"; popularidade não melhora mesmo com os benefícios.
 - [[fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!]] — Valdemar confirma inadvertidamente que Flávio foi cobrar Vorcaro; "será que ele é bobo ou quer tirar Flávio?"
 - [[fontes/2026-05-25 - O que Daniel Vorcaro tem a ver com a Vila Rabelo]] — BRB/DF comprou R$5B em títulos podres; Paulo Henrique Costa; Vila Rabelo 2: favela sem saneamento a 30min do Planalto
@@ -265,6 +268,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2026-04-10 - Vamos brincar de amarelinha]] — MA-06; crítica ao governador Brandão.
 - [[fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês]] — Refinaria da Inpasa em Balsas.
 - [[fontes/2026-04-10 - FUI SEQUESTRADO NO MARANHÃO]] — Pedra Caída; transcrição inválida, não ingerido.
+- [[fontes/2026-04-09 - Problemas de pré-candidato que não tem jatinho - pneu furado no Maranhão]] — dois pneus furados numa BR federal sem sinalização; cadeia causal: má gestão → infraestrutura ruim → produtos caros → empobrecimento; sem jatinho, sem Vorcaro.
 - [[fontes/2026-04-10 - Direita, centro e esquerda no Banco Master]] — Lista de nomes na folha de pagamento do Master.
 - [[fontes/2026-04-10 - Como podemos enriquecer esses 4 estados]] — Matopiba e industrialização do agro.
 - [[fontes/2026-04-09 - Você lembra dessa ponte aqui]] — Ponte de Estreito; 14 mortos, R$ 20 mi de sobrepreço.
@@ -624,10 +628,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-10-27 - Oruam Deputado Estadual 2026]] — Candidatura do rapper CV a deputado estadual; análise do interesse estratégico; proposta de proibição.
 - [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — Lula culpa usuários; PCC diversificou investimentos; Porto de Santos omissão federal.
 - [[fontes/2025-10-24 - Não vai ter Missão]] — Glauber Braga/PSOL tenta bloquear Missão no TSE; perfis suspeitos nas redes sociais.
-- [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Vermelho]] — Nikolas elogia Pose do Rodo (CV); recusou relatoria do PL anti-terrorismo CV/PCC.
-- [[fontes/2025-10-22 - O pior juiz do mundo mora no Brasil]] — Rubens Casara soltou criminoso preso 86 vezes; Márcia Tiburi; censura ao Antagonista.
-- [[fontes/2025-10-21 - Seu país tem heróis de verdade]] — Antônia Ioni/Saboeiro (CE): recusou envenenar PM e foi executada pelo CV; promessa de busto.
-- [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — Sindicato do irmão de Lula: R$400M do INSS; gringos incrédulos; aprovação de Lula sobe.
-- [[fontes/2025-10-13 - PRECISAMOS FUNDIR AS CIDADES URGENTE]] — Caiçara do Norte + São Bento do Norte (RN): 9K habitantes, 2 câmaras, 15 min a pé.
-- [[fontes/2025-10-11 - Erika Hilton atacou o MBL]] — Ataque de Erika à desfavelização; PSOL-crime (Danielle Franco, Janira, cracolândia); R$70-80B/ano.
-- [[fontes/2025-10-10 - Regis Tadeu deton
+- [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Verme

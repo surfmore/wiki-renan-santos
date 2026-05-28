@@ -44,6 +44,16 @@ Em 20 de maio de 2026, Renan publicou um vídeo dedicado a perfilar Valdemar par
 
 Ver [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]].
 
+## PL vota a favor da escala 6x1 por cálculo eleitoral (maio de 2026)
+
+Em 26 de maio de 2026, com a PEC do fim da escala 6x1 na pauta do Congresso Nacional, Renan reporta que Valdemar declarou publicamente o apoio do PL à medida:
+
+> "Se nós não aprovarmos o seis por um, o Lula ganha eleição. Nós não podemos ser contra. Nós temos a maioria dos nossos deputados pensando dessa maneira."
+
+Renan critica o raciocínio: o PL vota a favor não por convicção econômica, mas para não "dar votos ao Lula" — ignorando os impactos reais sobre o mercado de trabalho (perda esperada de 2,7 milhões de empregos formais, queda de R$77 bilhões no PIB, inflação próxima de 6%). Para Renan, é mais uma evidência de que o PL governa para a manutenção do poder, não para o país.
+
+Ver [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]].
+
 ## Valdemar "entrega" Flávio (maio de 2026)
 
 Em entrevista reproduzida por Renan em 25 de maio de 2026, Valdemar confirmou inadvertidamente que Flávio Bolsonaro visitou Daniel Vorcaro na prisão não para romper relações, mas para tentar cobrar o saldo restante do contrato: *"O que o Flávio fez é natural. Ele queria terminar a relação com o Vorcaro. Olha, vai me pagar, você vai pagar o restante ou não dá?"*
@@ -82,18 +92,4 @@ Ver [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de F
 
 ## Valdemar como símbolo da "fórmula política velha"
 
-Em diversas ocasiões, Renan usa "Valdemar" como substantivo comum — categoria que resume um tipo de político:
-
-> "Os Valdemares vão correr para ter bons administradores políticos" (sobre a proposta de condicionar o fundo partidário ao desempenho dos prefeitos).
-
-> "O Brasil do Valdemar, Costa Neto, Zé Dirceu, Estevão Neves — fórmula política velha e desgastada que mantém o cidadão como escravo."
-
-> "Jovens não precisam depender de políticos velhos como Lula, Valdemar da Costa Neto ou Cassado."
-
-## Pessoas e eventos relacionados
-
-- [[pessoas/Flávio Bolsonaro]] — candidatura dependente de Valdemar; controlada por ele
-- [[pessoas/Nikolas Ferreira]] — produto do ecossistema PL/Valdemar
-- [[pessoas/Lula]] — Valdemar criou o Mensalão junto com o PT; preso juntos
-- [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]] — Valdemar declarou Messias "camarada de bem"
-- [[temas/Crítica à Direita Tradicional]] — bolsonarismo institucion
+Em diversas ocasiões, Renan usa "Valdemar" como substantivo comum — categoria que re

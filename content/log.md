@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-05-28] ingest | 4 shorts novos: pneu furado MA, escala 6x1, VLT Salvador, facções Salvador
+- Fontes criadas: fontes/2026-04-09 - Problemas de pré-candidato que não tem jatinho - pneu furado no Maranhão, fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar, fontes/2026-05-26 - O VLT já chegou em Salvador, fontes/2026-05-26 - Top 3 profissões mais perigosas do Brasil
+- Páginas atualizadas: pessoas/Jerônimo Rodrigues (VLT R$5bi; BDM mata instaladores; 30% de taxa; Salvador perde pop.), pessoas/Valdemar Costa Neto (PL vota 6x1 por cálculo eleitoral), temas/Empobrecimento e Mercado de Trabalho (impactos 6x1: 2,7M empregos, R$77bi PIB, inflação 5,7%), index.md, log.md
+- Manutenção: 29 arquivos raw renomeados para coincidir com fontes já ingeridas (prevenindo re-ingest); scripts corrigidos: baixar_videos.bat usa `git add content/` (não mais `-A`), ingest_auto.py usa normalização fuzzy para comparação de nomes
+
 ## [2026-05-27] ingest | Batch automático — Ferrovia SC, STF, defesa nacional, Pará (5 shorts)
 - Fontes criadas: fontes/2026-04-22 - Essa ferrovia explica o aumento no preço da gasolina em Santa Catarina, fontes/2026-04-27 - Gilmar Mendes perdeu o controle, fontes/2026-04-27 - Nenhum outro pré-candidato fala isso, fontes/2026-05-05 - Eu já fui eleito Presidente da República, fontes/2026-05-05 - MEU POVO DO PARÁ
 - Páginas atualizadas: temas/Desigualdade Regional e Migração Interna (nova seção Pará/Daniel Santos; nova seção "Eu já fui eleito"/PT-Nordeste; nova seção Lajes/ferrovia SC), temas/STF e Ativismo Judicial (nova seção Gilmar Mendes/blindagem do STF), temas/Programa Nuclear Brasileiro (nova seção sobre defesa aérea/semicondutores), pessoas/Família Barbalho (oposição Daniel Santos amaldiçoada), index.md
@@ -1188,26 +1193,4 @@ Primeiro batch de ingestão. Foco exclusivo em `raw/processed/renan-canal/shorts
 - temas/Carga Tributária
 - temas/Infraestrutura e Estradas no Maranhão
 - temas/Soberania Nacional e ONGs Estrangeiras
-- temas/Segurança Pública
-- temas/Corrupção Municipal
-- temas/Mídia e Imprensa
-
-**Posições criadas (5):**
-- posicoes/Reforma Fiscal
-- posicoes/Fusão de Municípios
-- posicoes/Estado de Defesa e Direito Penal do Inimigo
-- posicoes/Expulsão de ONGs Estrangeiras
-- posicoes/Criminalização da Compra e Venda de Votos
-
-**Índice criado.**
-
-**Último vídeo ingerido (marcador de progresso):** `2026-04-10 - Vamos brincar de amarelinha!`
-**Próximo a processar:** vídeos anteriores a 2026-04-10 em `raw/processed/renan-canal/shorts/`, começando por `2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês!`.
-
-## [2026-04-13] ingest batch 2 | 10 shorts (2026-04-10 → 2026-04-08)
-
-Segundo batch. Continuação da ingestão cronológica descendente de `raw/processed/renan-canal/shorts/`.
-
-**Fontes processadas (10):**
-- fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês
-- fontes/2026-04-10 - FUI SEQUESTRADO NO MARANHÃO *(transcrição auto-gerada em inglês corrompid
+- temas/Seguran

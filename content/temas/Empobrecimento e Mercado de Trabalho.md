@@ -21,6 +21,24 @@ Renan aponta o modelo asiático (**Singapura, Japão, China e Coreia do Sul**) c
 
 Ver [[fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL]].
 
+## Escala 6x1: PL vota a favor por cálculo eleitoral — impactos econômicos (maio de 2026)
+
+Em **26 de maio de 2026**, com a PEC na pauta do Congresso Nacional, Renan reporta que **Valdemar Costa Neto** declarou que o PL votará a favor da escala 6x1 exclusivamente por cálculo eleitoral: "Se nós não aprovarmos o seis por um, o Lula ganha eleição." Renan critica a postura: o PL abre mão de uma posição economicamente consistente para não "perder votos", em detrimento dos empregos formais reais.
+
+Os impactos econômicos que Renan apresenta:
+
+- **PIB:** perda esperada de R$77 bilhões por ano
+- **Empregos formais:** 2,7 milhões de vagas em risco
+- **Inflação:** elevação estimada em ~5,7%
+- **Folha de pagamento:** alta de 7% para empregadores; quase 13% para pequenas empresas
+- **Obras públicas:** custo estimado 86% mais alto em alguns cenários
+
+Renan compara com o caso das blusinhas importadas: o governo prometeu que a taxação não encareceria o produto ao consumidor final, mas encareceu. A escala 6x1 seguiria o mesmo padrão — a esmola é alta demais para ser verdadeira.
+
+> "O mais provável: informalidade, desemprego e quebradeira na área da indústria."
+
+Ver [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] e [[pessoas/Valdemar Costa Neto]].
+
 ## Escala 6x1: PEC como teatro eleitoral e 122 faltas de Érika Hilton (abril de 2026)
 
 Em **24 de abril de 2026**, Renan usa a exposição feita por **Kim Kataguiri** na Câmara para analisar a PEC da escala 6x1:
@@ -177,18 +195,4 @@ Ver [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]].
 
 Em **6 de fevereiro de 2026**, Renan comenta propaganda oficial do governo Lula — depois removida — que afirmava que quem ganha mais de R$ 5 mil por mês não tem opinião que importe. Os atingidos: motoristas de Uber, caminhoneiros, donos de pequenas lojas. Para Renan, a lógica é clara: o trabalhador autônomo não depende de programas sociais, logo não é eleitor útil para o PT.
 
-> "O PT, o partido dos trabalhadores que não trabalham — este é o inimigo."
-
-Renan afirma estar do lado de quem trabalha e paga: "entre a pessoa que recebe o auxílio e a pessoa que tá ralando, eu tô com quem tá ralando." Ver [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]].
-
-## Vale-Gás como compra de voto (fevereiro de 2026)
-
-Em **6 de fevereiro de 2026**, Renan critica o Vale-Gás como medida eleitoreira: o custo recai sobre quem trabalha, via impostos e inflação, enquanto o benefício vai para os que dependem do Estado. A lei eleitoral proíbe criação de programas assistenciais em ano eleitoral — Renan interpreta o Vale-Gás como violação desse dispositivo.
-
-Renan se recusa a competir oferecendo mais: "O Lula deu o botijão, eu vou dar dois? Esse arranjo a gente não pode aceitar." Ver [[fontes/2026-02-06 - VALE-GÁS É SÓ MAIS UMA MEDIDA POPULISTA DO LULA]].
-
-## A automação e o Ministério do Futuro (fevereiro de 2026)
-
-Em **8 de fevereiro de 2026**, Renan usa imagens de entregadores robôs autônomos para alertar que "boa parte dos empregos que vocês conhecem vão deixar de existir" — caminhoneiros, entregadores, motoristas. Critica o Brasil por discutir escala 6x1 "desenhada nos anos 40" enquanto o mundo acelera em automação.
-
-Propõe o **Ministério do Futuro** para treinar trabalha
+> "O PT, o partido dos
