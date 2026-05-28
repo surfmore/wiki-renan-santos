@@ -97,8 +97,7 @@ Ver [[fontes/2026-05-20 - Condenados por homeschooling]].
 ## Fontes
 
 - [[fontes/2026-05-20 - Condenados por homeschooling]] — homeschooling; juiz ideológico; punições
-- [[fontes/2026-05-09 - Letícia Sabatella autista]]
-- [[fontes/2026-05-10 - Renan é autista Por que razão ele foi cancelado]]
-- [[fontes/2025-10-02 - Você também é a favor de escolas militares]] — escolas militares; método fônico; FGV 2007 ausência paterna e crime
-- [[fontes/2026-03-11 - 7 propostas para a educação]] — enunciação completa das 7 propostas
-- [[fontes/2026-01-27 - TRANS APROVADA EM CONCURSO ESTAVA NA POSIÇÃO 1243]] — abolição de todas as cotas; Duda Odara
+- [[fontes/2026-05-20 - Condenados por homeschooling]] — homeschooling; juiz ideológico Júnior da Luz Miranda; punições para juízes
+- [[fontes/2026-05-13 - O que os estudantes da USP fizeram]] — fim da autonomia universitária; jubilamento de grevistas; endowments; custo de R$ 643M para contribuintes
+- [[fontes/2026-05-09 - Letícia Sabatella autista]] — salas separadas para autistas; Lei Berenice Piana; laudos falsos
+- [[fontes/2026-05-10 - Renan é autista Por que razão ele foi 

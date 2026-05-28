@@ -61,6 +61,5 @@ Renan reafirma a proposta de legislação federal que **impeça a permanência n
 
 ## Fontes
 
-- [[fontes/2026-04-01 - Eu odeio mendigo]]
-- [[fontes/2026-03-16 - A melhor capital do Brasil está virando uma Cracolândia]]
-- [[fontes/2026-02-02 - MAIS UM CASO DE VIOLÊNCIA EM SANTA CATARINA]]
+- [[fontes/2026-04-23 - O que fazer com crackudo]] — internação compulsória de usuários de crack; ONG "Crack Resiste"; vacina do crack
+- [[fontes/2026-04-01 - Eu odeio mendigo]] — enunciaç�

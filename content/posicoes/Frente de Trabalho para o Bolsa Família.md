@@ -82,8 +82,7 @@ Ver [[fontes/2026-01-05 - O Brasil precisa falar sobre a saída do Bolsa Famíli
 
 ## Fontes
 
+- [[fontes/2026-04-17 - Você vai TRABALHAR.]] — confirmação direta "ou rala ou rola"; formulário de frente de trabalho no CRAS
 - [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]] — apresentação completa da proposta
 - [[fontes/2026-03-17 - Não sabiam que eu estava ouvindo]] — confirmação da proposta em interação de rua
-- [[fontes/2026-03-04 - EU VOU ACABAR COM O BOLSA FAMÍLIA]] — versão direta com referência ao New Deal
-- [[fontes/2026-01-26 - PESSOAS TÊM FILHO PARA AUMENTAR O BOLSA FAMÍLIA]]
-- [[fontes/2026-01-05 - O Brasil precisa falar sobre a saída do Bolsa Família]]
+- [[fontes/2026-03-04 - EU VOU ACABAR COM O BOLSA FAMÍLIA]] — versão direta; referência ao New Deal de Roosevelt; 3M de empregos

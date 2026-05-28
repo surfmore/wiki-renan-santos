@@ -87,8 +87,6 @@ Ver [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]].
 
 ## Fontes
 
-- [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]]
-- [[fontes/2026-04-08 - Quem é o rei do bloquete em Imperatriz]]
-- [[fontes/2026-04-08 - Pinto do Equador e Juliana do Bonde]]
-- [[fontes/2026-02-10 - EU VOU ACABAR COM FESTA NA SUA CIDADE!]]
-- [[fontes/2026-02-07 - POLÍTICOS PRECISAM TER METAS CLARAS]]
+- [[fontes/2026-05-21 - RENAN AO VIVO - MARCHA DOS PREFEITOS EM BRASÍLIA]] — proposta de inversão deputado/prefeito; alteração do Art. 167 §7 da CF
+- [[fontes/2026-05-21 - Quem paga a banda escolhe a música!]] — "quem paga a banda escolhe a música"
+- [[fontes/2026-05-07 - Minha resposta ao Wesley Safadã

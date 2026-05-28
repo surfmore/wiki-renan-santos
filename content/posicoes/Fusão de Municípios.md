@@ -103,11 +103,8 @@ Ver [[fontes/2026-02-20 - A VOZ DO POVO NÃO É A VOZ DE DEUS]].
 
 ## Fontes
 
-- [[fontes/2025-10-01 - Escola simula motel em São João Batista]] — São João Batista (MA); 11% água; zero saneamento; prefeito aliado de investigado no INSS
-- [[fontes/2025-10-13 - PRECISAMOS FUNDIR AS CIDADES URGENTE]]
-- [[fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins]]
-- [[fontes/2026-04-11 - EU FUI NA CIDADE MAIS POBRE DO BRASIL]]
-- [[fontes/2026-04-06 - Juliana do Bonde em Guajará-Mirim]]
-- [[fontes/2026-04-06 - Quem quer peixe]]
-- [[fontes/2026-02-23 - ESSA CIDADE PRATICAMENTE SÓ TEM PESSOAS NO BOLSA FAMÍLIA]]
-- [[fontes/2026-02-20 - A VOZ DO POVO NÃO É A VOZ DE DEUS]]
+- [[fontes/2026-04-24 - Santa Catarina x Maranhão - o duelo final!]] — comparação SC x MA; PIB per capita vs. IDH; "roubo federativo"
+- [[fontes/2026-04-23 - Não sobra NADA...]] — "roubo federativo"; fundo partidário condicionado ao desempenho dos prefeitos
+- [[fontes/2026-04-23 - Catarinense, está na hora de você ter o que você merece]] — Guaraciaba (SC); obra do PAC 1 de 2012 ainda inacabada em 2026
+- [[fontes/2026-04-11 - EU FUI NA CIDADE MAIS POBRE DO BRASIL]] — Marajá do Sena (MA); IDH 0,4; origem oligárquica dos municípios
+- [[fontes/2026-04-06 - Juliana do Bonde em Gua

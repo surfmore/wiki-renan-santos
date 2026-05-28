@@ -48,6 +48,5 @@ Ver [[posicoes/Proposta para Governadores Anti-Crime]] e [[fontes/2025-10-29 - M
 
 ## Fontes
 
-- [[fontes/2025-10-29 - Minha proposta para os governadores]]
-- [[fontes/2026-04-11 - ESSA AQUI E POLEMICA]]
-- [[fontes/2026-04-07 - O PCC chegou no interior do Maranhão]]
+- [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]] — Ceará e Bahia como casos urgentes; detalhe operacional do estado de defesa estadual
+- [[fontes

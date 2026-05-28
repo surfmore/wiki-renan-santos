@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-05-28] maint | Expansão seções Fontes em 9 posicoes/; contagens corrigidas no index.md; bat file fixado
+- Seções `## Fontes` completadas em 9 páginas de posicoes/ (referências inline que faltavam): Emendas Parlamentares (+5 fontes), Estado de Defesa (+1), Frente de Trabalho (+1), Fusão de Municípios (+3), Intervenção Federal (+1), Plano para Moradores de Rua (+1), Propostas para Educação (+2), Propostas para PM (+1), Redução da Maioridade Penal (seção criada, 2 fontes)
+- index.md: contagens de fontes nas 22 posicoes/ corrigidas (desatualizadas desde ingests recentes — ex: Desfavelização dizia 5 e tem 11; Emendas dizia 7 e tem 10; Fusão dizia 5 e tem 11)
+- scripts/baixar_videos.bat: reescrito em ASCII puro (sem caracteres Unicode) para funcionar corretamente no cmd.exe do Windows
+
+
 ## [2026-05-28] maint | Correções: date field em 5 fontes de abril; título duplicado no layout Quartz; ingest "malandragem do Lula"
 - Fontes corrigidas: adicionado `date:` em 5 fontes que só tinham `data:` (Arrumei briga, Competição, Cidade mais rica MA, Fazenda DELE, Cooperativas SC) — ficavam aparecendo como "28 mai. 2026" no site por Quartz usar file mtime quando `date:` está ausente
 - Layout: removido `Component.ArticleTitle()` do quartz.layout.ts — eliminava duplicação do H1 (Quartz renderizava título do frontmatter E o `# H1` do corpo markdown)
@@ -1176,4 +1182,4 @@
 - temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
 - temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
 - eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
-- posicoes/Fusão de Municípios (Tau
+- posicoes/Fusão de Municípios (Taub

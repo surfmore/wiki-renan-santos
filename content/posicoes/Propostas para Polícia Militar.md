@@ -42,4 +42,4 @@ A justificativa central: as leis brandas não são um acidente — resultam do f
 
 ## Fontes
 
-- [[fontes/2026-03-12 - 7 propostas para a Polícia Militar]] — enunciação completa das propostas
+- [[fontes/2026-03-12 - 7 propostas para a Polícia Militar]] — enunciação completa das 7 proposta
