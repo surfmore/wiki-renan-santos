@@ -1,34 +1,45 @@
 ---
 title: "Vou mostrar pra todo mundo a malandragem do Lula!"
+video_id: "RNNhQLBH2p4"
+data: "2026-05-26"
+date: "2026-05-26"
+canal: "renan-canal"
+url: "https://www.youtube.com/watch?v=RNNhQLBH2p4"
+tipo: "short"
 tags:
   - fonte
   - lula
-  - assistencialismo
-  - carga-tributária
-date: 2026-05-26
-url: "https://www.youtube.com/watch?v=RNNhQLBH2p4"
+  - custo-de-vida
+  - politica-economica
 ---
 
 # Vou mostrar pra todo mundo a malandragem do Lula!
 
-**Canal:** Renan Santos (short, ~2 min) | **[Assistir no YouTube](https://www.youtube.com/watch?v=RNNhQLBH2p4)**
 **Data:** 26 de maio de 2026
+**Canal:** Renan Santos
+**URL:** https://www.youtube.com/watch?v=RNNhQLBH2p4
 
 ## Resumo
 
-Renan afirma que quer chegar ao poder "falando a verdade, mesmo que isso tire votos" — não quer vencer mentindo. Em seguida expõe o que chama de "malandragem do Lula": no mesmo ano em que distribui botijões de gás e energia elétrica subsidiada, o governo encarece os produtos básicos com taxações, de modo que o benefício entregue com uma mão é compensado pelo custo tirado com a outra.
+Renan Santos faz um argumento simples sobre a estratégia eleitoral de Lula: o governo distribui benefícios pontuais (botijão de gás, subsídios de energia elétrica) ao mesmo tempo em que provoca a inflação que corrói o poder de compra da mesma população. A população, segundo Renan, já percebe esse padrão.
 
-> "Uma mão com cinco dedos dá, mas a outra com quatro tira. Essa é a malandragem."
+> "Nós chegaremos ao poder falando a verdade ou não chegaremos? Eu não quero chegar ao poder mentindo."
 
-Renan aponta como evidência que a popularidade de Lula não melhora apesar dos programas de benefício: "As pessoas percebem que o que está sendo dado com uma mão está sendo tirado com a outra." O eleitor ganha o botijão de gás mas não consegue comprar carne para cozinhar.
+O argumento central: Lula está distribuindo botijões de gás e créditos de energia mas esses benefícios não melhoram sua popularidade porque as pessoas percebem que o que é dado com uma mão é retirado com a outra — os produtos ficam cada vez mais caros.
 
-## Temas abordados
+> "Uma mão com cinco dedos dá, mas outra com quatro tira. Essa é a malandragem."
 
-- [[temas/Empobrecimento e Mercado de Trabalho]] — assistencialismo que não melhora a qualidade de vida real
-- [[temas/Carga Tributária]] — taxação que corrói o poder de compra enquanto benefícios são distribuídos
-- [[pessoas/Lula]] — "malandragem" como padrão de governo
+Renan usa o clip para reforçar seu próprio posicionamento em contraste: enquanto Lula usa transferências pontuais para ganhar votos sem resolver o custo de vida estrutural, Renan afirma que falará "tudo que for difícil, tudo que supostamente tira o voto."
+
+## Temas
+
+- [[temas/Custo de Vida e Inflação]] — transferências de Lula não compensam inflação estrutural
+- [[temas/Crítica ao PT e ao Lulismo]] — "malandragem" do governo: dar com uma mão, tirar com a outra
+
+## Pessoas mencionadas
+
+- [[pessoas/Lula]] — argumento central do vídeo
 
 ## Fontes relacionadas
 
-- [[fontes/2026-05-25 - Resposta ao Luciano Huck]] — 5 propostas de Renan para substituir o assistencialismo
-- [[fontes/2026-04-05 - O Brasil está empobrecendo]] — estelionato eleitoral e agenda econômica completa
+- [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — outra crítica à estratégia eleitoral do PT

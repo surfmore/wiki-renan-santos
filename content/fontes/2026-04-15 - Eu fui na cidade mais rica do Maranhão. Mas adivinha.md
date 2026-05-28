@@ -2,6 +2,7 @@
 title: "Eu fui na cidade mais rica do Maranhão. Mas adivinha?"
 video_id: "HyuOQXNjwgk"
 data: "2026-04-15"
+date: "2026-04-15"
 canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=HyuOQXNjwgk"
 tipo: "short"

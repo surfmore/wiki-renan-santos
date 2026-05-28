@@ -2,6 +2,7 @@
 title: "As cooperativas de Santa Catarina são um exemplo para o Brasil!"
 video_id: "8DzIH9sRGEw"
 data: "2026-04-22"
+date: "2026-04-22"
 canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=8DzIH9sRGEw"
 tipo: "short"

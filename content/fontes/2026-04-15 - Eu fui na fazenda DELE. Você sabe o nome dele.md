@@ -2,6 +2,7 @@
 title: "Eu fui na fazenda DELE. Você sabe o nome dele?"
 video_id: "kdqUFdGber4"
 data: "2026-04-15"
+date: "2026-04-15"
 canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=kdqUFdGber4"
 tipo: "short"

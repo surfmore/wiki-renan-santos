@@ -2,6 +2,7 @@
 title: "Arrumei briga e to ameaçado de morte. E agora?"
 video_id: "PKBLGae-IcM"
 data: "2026-04-14"
+date: "2026-04-14"
 canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=PKBLGae-IcM"
 tipo: "short"

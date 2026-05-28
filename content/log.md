@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-05-28] maint | Correções: date field em 5 fontes de abril; título duplicado no layout Quartz; ingest "malandragem do Lula"
+- Fontes corrigidas: adicionado `date:` em 5 fontes que só tinham `data:` (Arrumei briga, Competição, Cidade mais rica MA, Fazenda DELE, Cooperativas SC) — ficavam aparecendo como "28 mai. 2026" no site por Quartz usar file mtime quando `date:` está ausente
+- Layout: removido `Component.ArticleTitle()` do quartz.layout.ts — eliminava duplicação do H1 (Quartz renderizava título do frontmatter E o `# H1` do corpo markdown)
+- Fonte criada: fontes/2026-05-26 - Vou mostrar pra todo mundo a malandragem do Lula! — "uma mão dá, a outra tira"; botijão de gás vs inflação
+- Vídeos não baixados ainda (precisam de baixar_videos.bat no Windows): "Transformaram um presídio na Bahia em hotel de luxo", "Fui na praia onde é proibido usar adidas", "Eu fui onde morreu um homem com 100 tiros", "Como esse mercadão em Salvador está derrubando a República"
+
 ## [2026-05-28] ingest | 4 shorts novos: pneu furado MA, escala 6x1, VLT Salvador, facções Salvador
 - Fontes criadas: fontes/2026-04-09 - Problemas de pré-candidato que não tem jatinho - pneu furado no Maranhão, fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar, fontes/2026-05-26 - O VLT já chegou em Salvador, fontes/2026-05-26 - Top 3 profissões mais perigosas do Brasil
 - Páginas atualizadas: pessoas/Jerônimo Rodrigues (VLT R$5bi; BDM mata instaladores; 30% de taxa; Salvador perde pop.), pessoas/Valdemar Costa Neto (PL vota 6x1 por cálculo eleitoral), temas/Empobrecimento e Mercado de Trabalho (impactos 6x1: 2,7M empregos, R$77bi PIB, inflação 5,7%), index.md, log.md
@@ -1170,27 +1176,4 @@
 - temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
 - temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
 - eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
-- posicoes/Fusão de Municípios (Taubaté x Tocantins)
-- wiki/index.md
-
-## [2026-04-13] ingest batch | 10 shorts mais recentes (2026-04-10 → 2026-04-13)
-
-Primeiro batch de ingestão. Foco exclusivo em `raw/processed/renan-canal/shorts/`. Processados do mais recente para o mais antigo.
-
-**Fontes processadas (10):**
-- fontes/2026-04-13 - MAIS UM RECORDE DO BRASIL
-- fontes/2026-04-13 - Eu fui na cidade que está sendo engolida por buracos
-- fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão
-- fontes/2026-04-12 - POLEMICA SOBRE O VALE-GAS DO LULA
-- fontes/2026-04-12 - Finalmente fui chamado de nazista nas redes sociais
-- fontes/2026-04-12 - Essa cova foi cavada a mão
-- fontes/2026-04-11 - Feedback Loop e eleições
-- fontes/2026-04-11 - EU FUI NA CIDADE MAIS POBRE DO BRASIL
-- fontes/2026-04-11 - ESSA AQUI E POLEMICA
-- fontes/2026-04-10 - Vamos brincar de amarelinha
-
-**Temas criados (6):**
-- temas/Carga Tributária
-- temas/Infraestrutura e Estradas no Maranhão
-- temas/Soberania Nacional e ONGs Estrangeiras
-- temas/Seguran
+- posicoes/Fusão de Municípios (Tau

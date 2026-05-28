@@ -2,6 +2,7 @@
 title: "Essa é a competição que quero ver"
 video_id: "2_mcbi1o4y4"
 data: "2026-04-15"
+date: "2026-04-15"
 canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=2_mcbi1o4y4"
 tipo: "short"
