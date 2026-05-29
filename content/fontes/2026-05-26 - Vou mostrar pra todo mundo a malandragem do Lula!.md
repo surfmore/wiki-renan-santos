@@ -31,8 +31,8 @@ Renan usa o clip para reforçar seu próprio posicionamento em contraste: enquan
 
 ## Temas
 
-- [[temas/Custo de Vida e Inflação]] — transferências de Lula não compensam inflação estrutural
-- [[temas/Crítica ao PT e ao Lulismo]] — "malandragem" do governo: dar com uma mão, tirar com a outra
+- [[temas/Carga Tributária]] — transferências de Lula não compensam inflação estrutural
+- [[temas/Empobrecimento e Mercado de Trabalho]] — "malandragem" do governo: dar com uma mão, tirar com a outra
 
 ## Pessoas mencionadas
 

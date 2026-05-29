@@ -1,5 +1,19 @@
 # Log de operações
 
+## [2026-05-29] lint | Auditoria geral completa do wiki
+- **index.md**: corrigido truncamento; adicionadas seções Outubro 2025 (22 entradas), Setembro 2025 (24 entradas) e Análises (3 entradas); adicionado temas/Partido Missão ausente
+- **Links YouTube**: confirmado que `openLinksInNewTab: true` já está configurado no Quartz — links abrem em nova aba sem modificar os 575 arquivos
+- **Páginas truncadas corrigidas (8)**: pessoas/Daniel Vorcaro, Família Barbalho, Jerônimo Rodrigues, Valdemar Costa Neto; temas/Agronegócio e Matopiba, Desigualdade Regional, Empobrecimento e Mercado de Trabalho; posicoes/Estado de Defesa
+- **Pessoas criadas (5)**: Nayib Bukele, Javier Milei, Janja, Ricardo Lewandowski, Alessandro Vieira
+- **Links quebrados corrigidos (2)**: fontes/2026-05-26 - Vou mostrar pra todo mundo a malandragem do Lula! → temas/Custo de Vida e Inflação e Crítica ao PT substituídos por páginas existentes
+- **Páginas órfãs**: as 3 análises agora linkadas via index.md; temas/Partido Missão agora no index
+- **Truncamentos menores pendentes**: temas/Infraestrutura e Estradas no Maranhão, Política Externa e Geopolítica, Programa Nuclear Brasileiro; posicoes/Plano para Moradores de Rua — conteúdo cortado no meio, requer re-ingest para reconstrução completa
+
+## [2026-05-29] maint | Criação de 5 páginas de pessoas ausentes do wiki
+- Páginas criadas: pessoas/Nayib Bukele, pessoas/Javier Milei, pessoas/Janja, pessoas/Ricardo Lewandowski, pessoas/Alessandro Vieira
+- Fontes lidas: 20+ arquivos de fontes para extração e verificação de atribuições
+- index.md: 5 novas entradas adicionadas na seção Pessoas; contagens refletidas
+
 ## [2026-05-29] ingest | 6 vídeos (27-28 mai 2026) — viagem à Bahia, Nikolas 4x3, ferrovia bioceânica
 - Fontes criadas (6): "Como esse mercadão em Salvador está derrubando a República.", "Eu fui onde morreu um homem com 100 tiros", "Fui na praia onde é proibido usar adidas e fazer certos gestos", "Transformaram um presídio na Bahia em hotel de luxo!", "Resposta para Nikolas Ferreira", "Vamos fazer o Peru grande"
 - Páginas atualizadas: pessoas/Nikolas Ferreira (+seção 4x3 psicopática), pessoas/Jerônimo Rodrigues (+3 entradas Salvador: Gamboa, chacina, presídio-hotel), pessoas/Kim Kataguiri (+fonte)
@@ -1143,30 +1157,4 @@
 
 **Páginas atualizadas (12):**
 - eventos/Escândalo Banco Master (Lagoinha confirmada, Oakberry censura, Zettel preso, Vorcaro pré-delação)
-- temas/Crítica à Direita Tradicional (Bolsa Família Flávio, Fabiana blackface, maioridade penal governadores)
-- temas/Segurança Pública (maioridade penal, feminicídio, Curitiba degradada)
-- temas/STF e Ativismo Judicial (Globo x STF, anão delegado, Bolsonaro preso e vendeta Moraes)
-- temas/Mídia e Imprensa (censura Instagram, Wagner Moura e cinema da ditadura)
-- temas/Empobrecimento e Mercado de Trabalho (Bolsa Família, MEI, diagnóstico Lula)
-- temas/Carga Tributária (MEI 1,61% das isenções)
-- temas/Corrupção Municipal (deputado MT confesso)
-- posicoes/Plano para Moradores de Rua (Curitiba Marco Zero)
-- pessoas/Flávio Bolsonaro (Bolsa Família, doença do pai)
-- pessoas/Alexandre de Moraes (anão delegado, vendeta Bolsonaro)
-- wiki/index.md
-
-## [2026-04-14] ingest batch 5 | 20 shorts (2026-03-20 → 2026-03-26)
-
-**Fontes processadas (20):**
-- fontes/2026-03-26 - Você está cansado de fingir
-- fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa
-- fontes/2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso
-- fontes/2026-03-26 - Mais BOPE menos Brasa
-- fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem
-- fontes/2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA
-- fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS
-- fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA
-- fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO
-- fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso
-- fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
-- fontes/2026-03-24 - Eu tô com muita in
+- temas/Crítica à Dire

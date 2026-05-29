@@ -24,6 +24,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[temas/Mídia e Imprensa]] — Relação de Renan com a imprensa brasileira: denúncia de apagamento deliberado por Globo e outros veículos, crítica ao jornalismo militante e pedido formal de cobertura proporcional às pesquisas. 17 fontes.
 - [[temas/Desigualdade Regional e Migração Interna]] — Análise comparativa de Renan sobre as diferenças de IDH e qualidade de vida entre estados, com foco no contraste entre Santa Catarina e Maranhão e na crítica ao "roubo federativo" que favorece estados mal geridos. 32 fontes.
 - [[temas/Judiciário e Supersalários]] — Denúncia de Renan sobre o custo do judiciário brasileiro — o mais caro do mundo — e os supersalários de juízes e desembargadores em contraste com a qualidade da Justiça entregue à população. 5 fontes.
+- [[temas/Partido Missão]] — O Partido Missão como veículo político de Renan Santos: aprovado pelo TSE por 7 votos a 0 em novembro de 2025, com 547.000 membros validados e Kim Kataguiri como primeiro deputado federal filiado. Renan o descreve como "o projeto da minha vida", voltado à geração jovem que rejeita a polarização PT-bolsonarismo. 11 fontes.
 - [[temas/Pautas Identitárias e de Gênero]] — Posição de Renan sobre pautas de gênero e identidade: crítica ao PL da Misoginia por ser vago, ao feminismo performático, à "indústria do autismo" com laudos falsos e à sexualização precoce nas escolas. 29 fontes.
 - [[temas/Política Externa e Geopolítica]] — Visão de Renan sobre o cenário global: queda de Maduro, nova Doutrina Monroe dos EUA, BRICS e a tese de que o Brasil precisa buscar uma terceira via entre EUA e China para afirmar soberania. 8 fontes.
 - [[temas/Programa Nuclear Brasileiro]] — Defesa de Renan pelo desenvolvimento de armamento nuclear próprio como garantia de soberania, com proposta de aproveitar a cadeia de terras raras para construir capacidade industrial-bélica em 30 anos. 4 fontes.
@@ -88,6 +89,11 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[pessoas/Fernando Haddad]] — Ministro da Fazenda criticado por Renan por taxar mais de 1.200 produtos importados, encarecer CPUs e GPUs e dificultar o MEI, sendo descrito como o rosto do "PT inimigo de quem trabalha." Renan promete revogar todas as suas taxações na primeira semana de governo. 10 fontes.
 - [[pessoas/Fabiano Zettel]] — Cunhado de Daniel Vorcaro, pastor da Igreja Lagoinha Belvedere e principal doador da campanha de Tarcísio em 2022 (R$ 2 milhões). Preso em janeiro de 2026, organizava festas para a elite política e judicial em seu resort Tayaya e em uma ilha avaliada em US$ 13 milhões — com seu celular descrito por Renan como uma "bomba". 8 fontes.
 - [[pessoas/Dias Toffoli]] — Ministro do STF descrito por Renan como sem condições de exercer o cargo. Renan aponta que Toffoli vendeu um resort via Fabiano Zettel e JBS, concedeu liminar favorável ao Banco Master, destruiu provas do COAF a pedido de Flávio Bolsonaro e foi alvo de um acordo para cair como bode expiatório em troca de proteção para Moraes e Lula. 12 fontes.
+- [[pessoas/Nayib Bukele]] — Presidente de El Salvador citado por Renan como principal referência internacional para sua proposta de segurança pública. Renan o usa como prova de que o crime organizado pode ser derrotado rapidamente com vontade política, e inspira-se no CECOT para propor o CECOTINS no Tocantins. 7 fontes.
+- [[pessoas/Javier Milei]] — Presidente da Argentina referenciado por Renan em dois ângulos: como modelo de estilo comunicativo (sincericídios, reformas impopulares) e como prova empírica de que crises fiscais graves se resolvem em dois anos. Renan propõe acordo de cooperação fronteiriça com Milei e usa a atração argentina do Stargate para criticar a política tributária de Haddad. 8 fontes.
+- [[pessoas/Janja]] — Rosângela da Silva, esposa do presidente Lula. Renan promete prendê-la se eleito, apontando que ela foi diretora da OEI — entidade estrangeira que teria recebido contrato sem licitação para organizar a COP30 em Belém, com superfaturamento apontado pelo TCU. 3 fontes.
+- [[pessoas/Ricardo Lewandowski]] — Ex-ministro do STF e atual ministro da Justiça, acusado por Renan de ter recebido contratos milionários do Banco Master enquanto no governo. Renan argumenta que isso torna impossível qualquer investigação isenta pela Polícia Federal, subordinada ao seu ministério. 8 fontes.
+- [[pessoas/Alessandro Vieira]] — Senador (Cidadania-SE) apresentado por Renan como o parlamentar que mais avançou no enfrentamento ao STF, propondo CPI e convocação de ministros. Por isso, segundo Renan, sofreu reação coordenada de PT, bolsonarismo e Gilmar Mendes — padrão que Renan usa para propor um tribunal político específico para julgar parlamentares. 5 fontes.
 
 ## Eventos
 
@@ -622,6 +628,60 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-11-22 - Sobre a prisão do Bolsonaro]] — Tom melancólico; desejo de recuperação; crítica a sucessores oportunistas.
 - [[fontes/2025-11-21 - MULHER CONTA COMO É A REALIDADE EM BELÉM]] — Moradora de Belém: décadas de promessas dos Barbalhos; COP30 como autossabotagem do Pará.
 
+
 ### Outubro de 2025
 
-- [[fontes/2025-10-30 - QUEM TROCA TIRO COM
+- [[fontes/2025-10-30 - QUEM TROCA TIRO COM A POLÍCIA MERECE O QUE]] — Renan defende que quem troca tiros com a polícia merece prisão longa ou morte, rejeitando argumento racial e ressocialização.
+- [[fontes/2025-10-30 - A VERDADE SOBRE A PEC DA SEGURANÇA PÚBLICA]] — Critica PEC do PT que criaria conselho federal com ONGs ligadas a Soros para controlar polícias estaduais.
+- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]] — Defende que crise de segurança no RJ exige envolvimento das Forças Armadas; aconselha governador Castro a agir sem o governo federal.
+- [[fontes/2025-10-29 - Minha proposta para os governadores]] — Apresenta agenda de 11 pontos anti-crime para pré-candidatos e propõe operações simultâneas de governadores de oposição.
+- [[fontes/2025-10-28 - O crime organizado já virou guerrilha]] — Afirma que uso de drones com bombas pelo crime transforma o tráfico em força paramilitar de guerra.
+- [[fontes/2025-10-27 - Oruam Deputado Estadual 2026]] — Rejeita candidatura de Oruam (filho de traficante, ligado ao CV) a deputado estadual no RJ em 2026.
+- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — Rebate declaração de Lula sobre tráfico, argumentando que o PCC já diversificou atividades além das drogas.
+- [[fontes/2025-10-24 - Não vai ter Missão]] — Responde a tentativa do PSOL de obstruir fundação do Partido Missão via denúncia de assinaturas falsas no TSE.
+- [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Vermelho]] — Critica Nikolas por elogiar rapper do CV e por ter recusado relatoria de projeto que classifica facções como terroristas.
+- [[fontes/2025-10-22 - O pior juiz do mundo mora no Brasil]] — Ataca juiz Rubens Casara por soltar criminoso preso 86 vezes e por censurar cobertura do Antagonista.
+- [[fontes/2025-10-21 - Seu país tem heróis de verdade]] — Presta homenagem a Antônia Ioni, assassinada pelo CV após se recusar a envenenar comida de policiais no Ceará.
+- [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — Conta reação de americanos ao escândalo do sindicato do irmão de Lula, que desviou R$ 400 mi do INSS.
+- [[fontes/2025-10-13 - PRECISAMOS FUNDIR AS CIDADES URGENTE]] — Usa municípios do RN com 3–6 mil habitantes como exemplo da inviabilidade de pequenas cidades brasileiras.
+- [[fontes/2025-10-11 - Erika Hilton atacou o MBL]] — Responde a Erika Hilton e detalha proposta de desfavelização, acusando PSOL de ter relação estrutural com o crime organizado.
+- [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]] — Rebate crítico que disse ser impossível desfavelizar o Brasil, apresentando números e exemplos internacionais.
+- [[fontes/2025-10-08 - Resposta para a Tabata Amaral]] — Acusa Tabata de duplo padrão: celebrar puxadinhos irregulares enquanto vota contra simplificação do licenciamento ambiental.
+- [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]] — Comemora derrubada da MP que taxaria criptoativos e LCI/LCA; critica Nikolas por votar contra o requerimento de Kim.
+- [[fontes/2025-10-05 - Resposta ao Intercept]] — Responde ao Intercept sobre refavelização em Diadema, defendendo contrapartidas para beneficiários de habitação social.
+- [[fontes/2025-10-03 - Não é só em favela que tem gente com mau gosto]] — Argumenta que a mentalidade favelada é um problema cultural que atravessa todas as classes sociais.
+- [[fontes/2025-10-02 - Você também é a favor de escolas militares]] — Defende escolas cívico-militares como estratégia para combater recrutamento pelo crime em territórios desfavelizados.
+- [[fontes/2025-10-01 - Prendeu, Matou e a bebida envenenada do PCC]] — Enquadra metanol envenenado do PCC como terrorismo e renova crítica a Nikolas por evitar classificar facções como terroristas.
+- [[fontes/2025-10-01 - Escola simula motel em São João Batista]] — Usa escândalo em escola do MA para expor corrupção municipal e defender fusão de municípios inviáveis.
+
+### Setembro de 2025
+
+- [[fontes/2025-09-30 - Rua desfavelizada vira favela de novo]] — Rua reurbanizada em Diadema volta a ser favela; Renan defende perda do título para quem reverter habitação digna.
+- [[fontes/2025-09-27 - Nikolas Ferreira te ENGANOU]] — Renan denuncia Nikolas por pegar e devolver relatoria do PL antiterrorismo como manobra de imagem após votar pela PEC da Blindagem.
+- [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]] — Renan analisa fala de Lula sobre democracia e conclui que sua visão confunde democratismo com esquerdismo.
+- [[fontes/2025-09-24 - Quer notícia boa]] — MPE emite parecer favorável ao Partido Missão; Renan celebra julgamento no TSE iminente e critica os demais partidos de direita.
+- [[fontes/2025-09-23 - Expulsei o Kim do MBL]] — Vídeo satírico elogiando Kim Kataguiri por semana intensa na CPI do INSS, PL contra PEC da Blindagem e debates na CNN.
+- [[fontes/2025-09-17 - Nikolas Ferreira te TRAIU]] — Renan reage ao voto favorável de Nikolas à PEC da Blindagem, descrevendo-a como passe livre para corruptos no Congresso.
+- [[fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA]] — PEC da Blindagem aprovada com 324 votos; Renan critica bolsonarismo por blindar corruptos em troca de futura anistia.
+- [[fontes/2025-09-16 - VAMOS CRIMINALIZAR O COMUNISMO]] — Versão curta da proposta de enquadrar quem chame adversário de "nazista" no Art. 286 do CP por incitação ao crime.
+- [[fontes/2025-09-15 - VAMOS CRIMINALIZAR A EXTREMA-ESQUERDA]] — Versão longa da proposta de criminalizar rotulagem política violenta, com cadeia lógica e casos concretos de agressões.
+- [[fontes/2025-09-15 - Mataram delegado que combatia o PCC]] — Assassinato do ex-delegado Rui Ferraz Fontes; Renan defende pena de morte e prisão perpétua para membros de facções terroristas.
+- [[fontes/2025-09-13 - O discurso da extrema-esquerda precisa ser criminalizado]] — Renan declara que o discurso da esquerda radical que valida violência precisa ter consequências jurídicas.
+- [[fontes/2025-09-12 - Resposta ao Peninha]] — Renan critica Eduardo Bueno por zombar da morte de Charlie Kirk e pede consequências jurídicas para discurso de ódio assimétrico.
+- [[fontes/2025-09-12 - Até quando você vai aguentar esse esculacho]] — Juíza solta homicida reincidente tratando-o como conhecido; Renan denuncia cumplicidade do judiciário com criminosos.
+- [[fontes/2025-09-11 - ACABOU O DIÁLOGO COM A EXTREMA ESQUERDA]] — Após morte de Charlie Kirk, Renan anuncia virada de postura e projeto de lei para criminalizar discurso de violência política.
+- [[fontes/2025-09-10 - Charlie Kirk nos deixou]] — Renan reage à morte de Charlie Kirk e contextualiza numa série de atentados contra figuras da direita global.
+- [[fontes/2025-09-10 - Prepare-se para ficar revoltado]] — Criminoso que atirou em policial em Paraisópolis é solto por juíza; Renan defende prisão perpétua para quem ataca agentes da lei.
+- [[fontes/2025-09-09 - O pau tá quebrando no Nepal]] — Revolução da Geração Z no Nepal derruba governo de esquerda; Renan traça analogia com possível reação brasileira a censura judicial.
+- [[fontes/2025-09-09 - Precisamos libertar 25 milhões de brasileiros!]] — Renan propõe uso das Forças Armadas e reformas penais para libertar brasileiros dominados pelo crime organizado.
+- [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — "Taxa das blusinhas" arrecadou menos que o previsto e empobreceu consumidor; Renan defende derrubada da alíquota sobre importados baratos.
+- [[fontes/2025-09-06 - Cuida de mim, painho!]] — Crítica ao PT por substituir desenvolvimento do Nordeste por assistencialismo eleitoreiro com transferências de renda.
+- [[fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE]] — Proposta de industrialização do Matopiba via usinas de biocombustível com soja e milho, exportando pelo Porto do Maranhão.
+- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% em pesquisa presidencial antes mesmo de lançar candidatura formal.
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]] — Compilação de falas anteriores sobre segurança pública: guerra às facções, desfavelização e prisão das lideranças do tráfico.
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Vídeo biográfico completo: origem na Mooca, USP, fundação do MBL, episódio com policiais corruptos e criação do Partido Missão.
+
+## Análises
+
+- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o fim da Lava-Jato até a prisão de Ciro Nogueira na Operação Compliance Zero em maio de 2026.
+- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-202
