@@ -27,7 +27,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[temas/Desigualdade Regional e Migração Interna]] — Análise comparativa de Renan sobre as diferenças de IDH e qualidade de vida entre estados, com foco no contraste entre Santa Catarina e Maranhão e na crítica ao "roubo federativo" que favorece estados mal geridos. 32 fontes.
 - [[temas/Judiciário e Supersalários]] — Denúncia de Renan sobre o custo do judiciário brasileiro — o mais caro do mundo — e os supersalários de juízes e desembargadores em contraste com a qualidade da Justiça entregue à população. 5 fontes.
 - [[temas/Pautas Identitárias e de Gênero]] — Posição de Renan sobre pautas de gênero e identidade: crítica ao PL da Misoginia por ser vago, ao feminismo performático, à "indústria do autismo" com laudos falsos e à sexualização precoce nas escolas. 29 fontes.
-- [[temas/Política Externa e Geopolítica]] — Visão de Renan sobre o cenário global: queda de Maduro, nova Doutrina Monroe dos EUA, BRICS e a tese de que o Brasil precisa buscar uma terceira via entre EUA e China para afirmar soberania. 7 fontes.
+- [[temas/Política Externa e Geopolítica]] — Visão de Renan sobre o cenário global: queda de Maduro, nova Doutrina Monroe dos EUA, BRICS e a tese de que o Brasil precisa buscar uma terceira via entre EUA e China para afirmar soberania. 8 fontes.
 - [[temas/Programa Nuclear Brasileiro]] — Defesa de Renan pelo desenvolvimento de armamento nuclear próprio como garantia de soberania, com proposta de aproveitar a cadeia de terras raras para construir capacidade industrial-bélica em 30 anos. 4 fontes.
 
 ## Posições
@@ -37,7 +37,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[posicoes/Criminalização da Compra e Venda de Votos]] — Proposta de penas severas para o voto comprado: 10 anos para quem vende e 20 anos para quem compra. 2 fontes.
 - [[posicoes/Desfavelização do Rio de Janeiro]] — Programa nacional de desfavelização com R$ 900 bilhões ao longo de 10 anos, tolerância zero a novas invasões, escolas cívico-militares e responsabilização de prefeitos que não cumprirem metas. 11 fontes.
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]] — Proposta de vincular o repasse de emendas parlamentares a indicadores de desempenho dos municípios, com inelegibilidade de 8 anos para prefeitos que usarem verba pública em shows e festas sem resultados. 10 fontes.
-- [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — Proposta de declarar estado de defesa como primeira medida de governo em estados com governadores omissos diante do crime organizado, com mecanismo de afastamento do governador. 4 fontes.
+- [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — Proposta de declarar estado de defesa como primeira medida de governo em estados com governadores omissos diante do crime organizado, com mecanismo de afastamento do governador. 6 fontes.
 - [[posicoes/Proposta para Governadores Anti-Crime]] — Plano de 11 pontos apresentado a governadores e pré-candidatos: guerra ao crime, direito penal do inimigo, intervenção no Porto de Santos, prisão perpétua, expulsão de ONGs e desfavelização. 1 fonte.
 - [[posicoes/Expulsão de ONGs Estrangeiras]] — Proposta de cortar o financiamento estrangeiro a ONGs que atuam no Brasil e expulsá-las, sob o argumento de que representam a "indústria da miséria" e bloqueiam desenvolvimento. 6 fontes.
 - [[posicoes/Frente de Trabalho para o Bolsa Família]] — Proposta inspirada no New Deal de Roosevelt: substituir o Bolsa Família por frentes de trabalho remunerado, com o benefício condicionado à participação em obras e serviços públicos. 6 fontes.
@@ -59,10 +59,10 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 - [[pessoas/Renan Santos]] — Fundador do MBL e do Partido Missão, pré-candidato à presidência com cerca de 7% nas pesquisas e 3º lugar consolidado, cuja candidatura é centrada em segurança pública, combate à corrupção e reforma do Estado. 9 fontes.
 - [[pessoas/Alexandre de Moraes]] — Ministro do STF descrito por Renan como o "elemento de proteção" do Banco Master, com a esposa com contratos milionários ligados ao banco, acusado de ter ligado para o Banco Central sobre o caso e de ter redigido e depois derrubado a própria dosimetria do processo Bolsonaro. 16 fontes.
-- [[pessoas/Nikolas Ferreira]] — Deputado federal criticado por Renan como oportunista que silenciou sobre os erros de Bolsonaro, votou a favor da PEC da Blindagem, elogiou um rapper do Comando Vermelho e devolveu a relatoria do PL anti-terrorismo por "medo". 9 fontes.
+- [[pessoas/Nikolas Ferreira]] — Deputado federal criticado por Renan como oportunista que silenciou sobre os erros de Bolsonaro, votou a favor da PEC da Blindagem, elogiou um rapper do Comando Vermelho e devolveu a relatoria do PL anti-terrorismo por "medo". 10 fontes.
 - [[pessoas/Tabata Amaral]] — Deputada federal criticada por Renan por defender puxadinhos enquanto se opõe a empreendimentos formais, votar contra o novo licenciamento ambiental e demonstrar solidariedade performática nas enchentes de Recife. 2 fontes.
 - [[pessoas/Tarcísio de Freitas]] — Governador de São Paulo apontado por Renan como a "candidatura do sistema" por sua proximidade com Daniel Vorcaro, com doações do operador Fabiano Zettel (R$ 2 milhões em 2022) e pelo plano de nomear Campos Neto como ministro da Fazenda. 2 fontes.
-- [[pessoas/Jerônimo Rodrigues]] — Governador da Bahia acusado por Renan de impedir a ação da PM e ser leniente com o Comando Vermelho e o PCC, deixando o estado como o segundo mais violento do país, com Salvador perdendo população. 3 fontes.
+- [[pessoas/Jerônimo Rodrigues]] — Governador da Bahia acusado por Renan de impedir a ação da PM e ser leniente com o Comando Vermelho e o PCC, deixando o estado como o segundo mais violento do país, com Salvador perdendo população. 6 fontes.
 - [[pessoas/André Valadão]] — Pastor da Igreja Lagoinha apontado por Renan como parte da rede do Banco Master, com ligações a Fabiano Zettel e Natália Vorcaro, fintechs religiosas identificadas pelo COAF e suspeitas de desvio do INSS via a ONG Amar Brasil. 7 fontes.
 - [[pessoas/Silas Malafaia]] — Pastor evangélico criticado por Renan por atacar Damares Alves quando ela investigava igrejas no INSS e por guardar silêncio sobre o caso da Igreja Lagoinha, sendo descrito como protetor de aliados políticos. 3 fontes.
 - [[pessoas/Daniel Vorcaro]] — Banqueiro controlador do Banco Master, preso em janeiro de 2026 e comparado por Renan ao americano Jeffrey Epstein por suas festas com a elite política e judicial brasileira. Seu pai Henrique Vorcaro é descrito como o "verdadeiro arquiteto" do esquema. 75 fontes.
@@ -110,6 +110,12 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ### Maio de 2026
 
+- [[fontes/2026-05-28 - Resposta para Nikolas Ferreira]] — proposta "psicopática" da 4x3: deixar trabalhadores quebrarem para ganhar eleição; Kim votou contra; Nikolas se corrompeu.
+- [[fontes/2026-05-28 - Vamos fazer o Peru grande]] — ferrovia bioceânica Ilhéus–Shankai; China quer financiar; risco de dependência e soberania das terras raras; posição de equilíbrio.
+- [[fontes/2026-05-28 - Transformaram um presídio na Bahia em hotel de luxo!]] — BDM surgiu no presídio; Gedel Vieira Lima (MDB); celas de luxo; relação promíscua crime–governo; intervenção no sistema prisional.
+- [[fontes/2026-05-27 - Eu fui onde morreu um homem com 100 tiros]] — chacina em Salvador; CV executa ladrão da área; "nossa vingança vai acontecer"; Renan ao vivo com olheiros do CV por perto.
+- [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — Praia da Gamboa; CV vs. BDM; Adidas = símbolo do BDM; turistas mortos por engano; Jerônimo só avisou turistas; proposta: proibir todas as facções e seus símbolos.
+- [[fontes/2026-05-27 - Como esse mercadão em Salvador está derrubando a República.]] — Cesta do Povo como origem do Banco Master; Cred Sexta; Augusto Lima, Jaques Wagner, Rui Costa; Vorcaro; João Roma; Zema e Caiado também envolvidos; ACM Neto e Jerônimo combinaram silêncio.
 - [[fontes/2026-05-26 - Top 3 profissões mais perigosas do Brasil]] — 20+ facções em Salvador; 3 instaladores de internet mortos pelo BDM; taxa de 30% cobrada das empresas; Salvador perdendo população.
 - [[fontes/2026-05-26 - O VLT já chegou em Salvador]] — VLT: R$1bi orçado → R$5bi+ gastos, ainda sem funcionar; governo Jerônimo: R$30bi em empréstimos; "lugar controlado pelo PT sempre fica mais pobre".
 - [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — PL/Valdemar vota a favor da escala 6x1 por cálculo eleitoral; 2,7M empregos formais em risco; PIB perde R$77bi/ano.
@@ -620,12 +626,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ### Outubro de 2025
 
-- [[fontes/2025-10-30 - QUEM TROCA TIRO COM A POLÍCIA MERECE O QUE]] — tiro com polícia: 30 anos ou morte; rejeita argumento racial e de ressocialização.
-- [[fontes/2025-10-30 - A VERDADE SOBRE A PEC DA SEGURANÇA PÚBLICA]] — PEC como "armadilha bolivariana"; Instituto Igarapé/Soros; Instituto Sou da Paz; Instituto Conectas; expulsão das ONGs.
-- [[fontes/2025-10-29 - Minha proposta para os governadores]] — 11 pontos para governadores anti-crime; Tarcísio, Ratinho, Leite, Jorginho, Zema; proposta presidencial coletiva.
-- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]] — Rio em conflito armado; Lula na viagem enquanto cidade arde; conselho ao governador Castro.
-- [[fontes/2025-10-28 - O crime organizado já virou guerrilha]] — Facções usam drones com bombas; comparação com Ucrânia; "homens de terno em Brasília".
-- [[fontes/2025-10-27 - Oruam Deputado Estadual 2026]] — Candidatura do rapper CV a deputado estadual; análise do interesse estratégico; proposta de proibição.
-- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — Lula culpa usuários; PCC diversificou investimentos; Porto de Santos omissão federal.
-- [[fontes/2025-10-24 - Não vai ter Missão]] — Glauber Braga/PSOL tenta bloquear Missão no TSE; perfis suspeitos nas redes sociais.
-- [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Verme
+- [[fontes/2025-10-30 - QUEM TROCA TIRO COM

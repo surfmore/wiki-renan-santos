@@ -15,6 +15,16 @@ Governador da Bahia pelo PT. Renan Santos o menciona como exemplo da **leniênci
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
 
+## Facções, chacina e presídio-hotel em Salvador (maio de 2026)
+
+Em **27 e 28 de maio de 2026**, Renan grava três vídeos em Salvador que aprofundam a acusação contra Jerônimo:
+
+**Praia da Gamboa controlada pelo CV:** A praia é dominada pelo Comando Vermelho. O rival local, o BDM (Bonde dos Malucos), usa as três listras da Adidas como símbolo — e turistas que usam a marca ou fazem determinados gestos podem ser mortos por erro. Em vez de combater as facções, Jerônimo instruiu turistas a "tomar cuidado" — o que Renan classifica como cumplicidade. "Descumprir sua obrigação como governador." Ver [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]].
+
+**Chacina — homem com 100 tiros:** Renan grava ao vivo no local de um "justiçamento" ocorrido naquela manhã: o CV executou com mais de 100 tiros um homem que havia roubado na área. Renan responsabiliza Jerônimo pela omissão que permite esse domínio territorial. Ver [[fontes/2026-05-27 - Eu fui onde morreu um homem com 100 tiros]].
+
+**Presídio transformado em hotel de luxo:** A imprensa descobriu que um presídio onde surgiu o BDM havia sido convertido em hotel de luxo para faccionados. A administração carcerária era controlada pelo MDB — parceiro de coligação de Jerônimo. O político do MDB que ficou preso lá, **Gedel Vieira Lima**, teria aproveitado o trânsito do partido para reformar as instalações. Renan conclui que há "relação promíscua entre o crime organizado e o atual governo da Bahia." Ver [[fontes/2026-05-28 - Transformaram um presídio na Bahia em hotel de luxo!]].
+
 ## VLT e facções em Salvador — "lugar controlado pelo PT sempre fica mais pobre" (maio de 2026)
 
 Em dois vídeos gravados em Salvador em **26 de maio de 2026**, Renan denuncia dois problemas estruturais sob a gestão Jerônimo.
@@ -23,20 +33,4 @@ O primeiro é o **VLT de Salvador**: orçado em R$1 bilhão, já custou mais de 
 
 > "Lugar controlado pelo PT sempre fica mais pobre."
 
-O segundo é o **domínio das facções sobre o território de Salvador**: mais de 20 facções disputam o município, cobram "taxa de proteção" de 30% de empresas de internet para operar nos bairros e assassinam trabalhadores que atuam em áreas sob controle de facções rivais. Três instaladores de internet foram mortos pelo BDM (Bonde do Maluco) no Parque São Bartolomeu por serem confundidos com espiões do Comando Vermelho.
-
-Ver [[fontes/2026-05-26 - O VLT já chegou em Salvador]] e [[fontes/2026-05-26 - Top 3 profissões mais perigosas do Brasil]].
-
-## Impede a PM de agir — Bahia como 2º estado mais violento (maio de 2026)
-
-Em dois vídeos gravados em Salvador em **24 e 25 de maio de 2026**, Renan reage a imagens de um velório em Dias d'Ávila (subúrbio de Salvador) atacado a tiros por uma facção rival. Usa o episódio para acusar Jerônimo diretamente: o governador tem à disposição uma polícia "letal, que gosta de matar bandido" e **simplesmente a impede de fazer qualquer coisa**. O resultado é a Bahia como **segundo estado mais violento do Brasil**, tomada por facções. "Isso elimina qualquer possibilidade de rolar lei e ordem no estado."
-
-Renan também destaca o impacto demográfico: **Salvador perdeu população**, e o estado continua "expulsando gente para outros lugares" — sinal, segundo ele, de colapso da qualidade de vida sob gestão PT.
-
-Ver [[fontes/2026-05-24 - A Bahia governada pelo PT já era]] e [[fontes/2026-05-25 - O PT destruiu a Bahia]].
-
-## "Líder de facção" — a analogia de Renan
-
-No vídeo [[fontes/2025-12-18 - Comente o nome dessa facção.]], Renan usa o assassinato de três trabalhadores de concessionária elétrica na Bahia como ponto de partida. A facção local que executou os homens (por inadimplência de taxa de proteção) é secundária na análise — Renan nomeia Jerônimo como o responsável maior:
-
-> "Existe um líder de facção
+O segundo é o **domínio das facções sobre o território de Salvador**: mais de 20 facções disputam o município, cobram "taxa de proteção" de 30% de empresas de internet para operar nos bairros e assassinam trabalhadores que atuam em áreas sob controle de facções rivais. Três instaladores 

@@ -138,6 +138,7 @@ Ver [[fontes/2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!]].
 
 ## Fontes
 
+- [[fontes/2026-05-28 - Resposta para Nikolas Ferreira]] — votou contra a escala 4x3; citado como contraponto à proposta "psicopática" de Nikolas
 - [[fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA]] — único de direita a votar contra e a discursar no plenário
 - [[fontes/2025-09-23 - Expulsei o Kim do MBL]] — semana produtiva set/23; meta "205 Kim Kataguiris"
 - [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]] — derrubada da MP 1303/25; Nikolas vota contra
@@ -153,5 +154,4 @@ Ver [[fontes/2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!]].
 - [[fontes/2026-03-04 - HADDAD QUER SABOTAR O PROJETO DE 1% DE IPVA DO KIM KATAGUIRI]] — sabotagem do IPVA 1%
 - [[fontes/2026-03-03 - ATENÇÃO - querem sabotar um projeto de segurança pública do kimkataguiri]] — tentativa de bloquear o PL
 - [[fontes/2026-02-04 - DEPUTADOS VOTAM PARA AUMENTAR SALÁRIO ATÉ R$77 MIL PARA FUNCIONÁRIOS DA CÂMARA]] — único discurso contra supersalários na Câmara
-- [[fontes/2026-02-04 - PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASILIA DO NIKOLAS]] — contra marcha do Nikolas e votos com o Lula
-- [[fontes/2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!]] — IPVA 1%; origem do projeto em fevereiro
+- [[fontes/2026-02-04 - PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASILIA DO NIKOLAS]] — contr

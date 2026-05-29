@@ -13,6 +13,18 @@ Deputado federal por Minas Gerais, um dos mais votados da história do Brasil, l
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
 
+## Proposta "psicopática" da escala 4x3 (maio de 2026)
+
+Em **28 de maio de 2026**, Renan classifica uma declaração de Nikolas como "a fala mais psicopática que já vi um político falar em toda a minha vida." O contexto: Nikolas propôs que a direita apoiasse a aprovação da **escala 4x3** — medida que ele próprio admite ser "populista e irresponsável" — para que a "quebradeira" acontecesse antes das eleições e o eleitorado pudesse "fazer uma escolha diferente."
+
+Renan traduz o raciocínio: Nikolas quer deixar trabalhadores e pequenos empresários quebrarem como cálculo eleitoral, sem assumir nenhuma responsabilidade pelo sofrimento causado. Destaca que **Kim Kataguiri** votou contra a 4x3, ao contrário de Nikolas, e que Nikolas já havia votado a favor da PEC da Blindagem e do Vale Gás — votando, portanto, com o PT e o centrão.
+
+> "Você prefere deixar o trabalhador, o pequeno empresário, todo mundo quebrar enquanto você volta com o Lula para provar que o Lula é hipócrita."
+
+> "Líder de verdade aponta o que tá errado. O líder conduz, não é conduzido pelas circunstâncias."
+
+Ver [[fontes/2026-05-28 - Resposta para Nikolas Ferreira]].
+
 ## Havaianas em vez de legislar: "abuso intelectual de idosos" (maio de 2026)
 
 Em **11 de maio de 2026**, Renan critica Nikolas por usar sua grande audiência para lançar uma linha de havaianas chamada "pé direito" — em vez de legislar. A crítica é feita como contraponto à semana de Kim Kataguiri, que avançou no projeto anti-roubo de celular.
@@ -95,24 +107,4 @@ Renan aponta que Nikolas também **recusou ser relator** do projeto de lei que t
 
 > "Você não apenas tem medo porque você é uma franga. Você tem seguidores em comum com essa gentalha, você quer ganhar seguidor junto."
 
-Ver [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Vermelho]].
-
-## Voto contra o requerimento de Kim (outubro de 2025)
-
-Em **8 de outubro de 2025**, Kim Kataguiri apresentou requerimento para derrubar a **MP 1303/25** do governo Lula — que taxaria cripto, LCI e LCA. O requerimento passou, derrubando a medida. Nikolas votou **contra** o requerimento — simplesmente por vir de Kim.
-
-Renan: "É impressionante esse rapaz, coitado, não sabe o que tá fazendo lá. É mal-intencionado, é burro, não lê o que vota, votou por aumento de posto e ainda para ajudar o Lula."
-
-Ver [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]].
-
-## Fontes principais
-
-- [[fontes/2026-05-11 - Bora tomar detergente]]
-- [[fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA]]
-- [[fontes/2025-09-17 - Nikolas Ferreira te TRAIU]]
-- [[fontes/2025-09-27 - Nikolas Ferreira te ENGANOU]]
-- [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Vermelho]]
-- [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]]
-- [[fontes/2025-12-15 - Resposta ao Nikolas Ferreira]]
-- [[fontes/2025-12-23 - Banco Master é o fim da República]]
-- [[fontes/2026-01-20 - POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA NÃO FALAM SOBRE A IGREJA LAGOINHA]]
+Ver [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Coman

@@ -76,20 +76,10 @@ No vídeo [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]], Re
 - Construir a **ferrovia bioceânica** (Bahia–Peru) com financiamento tanto dos EUA quanto da China.
 - **Negociar com os dois** sem submissão.
 
-## A bomba atômica como símbolo de soberania
+## Ferrovia bioceânica: Ilhéus–Shankai e o risco de dependência da China (maio de 2026)
 
-Renan usa a expressão **"Brasil com bomba atômica"** como símbolo de ambição soberana — não como proposta operacional, mas como contraste com a atual posição de vassalagem:
+Em **28 de maio de 2026**, gravando no **porto de Ilhéus (BA)**, Renan analisa a proposta da ferrovia bioceânica que ligaria Shankai (Peru) a Ilhéus, financiada integralmente pela China. A ferrovia reduziria o transporte de commodities ao Pacífico de 40 para 28 dias, contornando o Canal do Panamá.
 
-> "Chegou a hora de sonhar em ter bomba atômica. Chegou a hora de sermos um país grande, que é o que nascemos para ser."
+O alerta: a China usa a mesma estratégia na África — financia infraestrutura, o país dá calote, ela exige submissão geopolítica como compensação. O Brasil, "fiscalmente quebrado e incapaz de investir na própria infra", corre risco semelhante — tanto mais porque a ferrovia passa por regiões ricas em **minério de ferro, agricultura e terras raras**. Renan aponta que o Brasil é o "único país capaz de concorrer com a China" no processamento de terras raras, tornando o controle do território estratégico para Pequim.
 
-Ver [[temas/Ambição Nacional e Soberania Tecnológica]].
-
-## Fontes
-
-- [[fontes/2026-01-03 - URGENTE - Trump sequestra Maduro e inaugura uma nova era na América Latina]]
-- [[fontes/2026-01-03 - Qual o próximo país, Trump]]
-- [[fontes/2026-01-03 - Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República]]
-- [[fontes/2026-01-03 - Atenção - Trump anunciou que vai colocar um interventor na Venezuela]]
-- [[fontes/2026-02-28 - KHAMENEI ESTÁ MORTO]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
-- [[fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG]]
+Posição: fará a ferrovia, mas com mix

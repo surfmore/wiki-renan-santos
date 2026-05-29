@@ -1,5 +1,13 @@
 # Log de operações
 
+## [2026-05-29] ingest | 6 vídeos (27-28 mai 2026) — viagem à Bahia, Nikolas 4x3, ferrovia bioceânica
+- Fontes criadas (6): "Como esse mercadão em Salvador está derrubando a República.", "Eu fui onde morreu um homem com 100 tiros", "Fui na praia onde é proibido usar adidas e fazer certos gestos", "Transformaram um presídio na Bahia em hotel de luxo!", "Resposta para Nikolas Ferreira", "Vamos fazer o Peru grande"
+- Páginas atualizadas: pessoas/Nikolas Ferreira (+seção 4x3 psicopática), pessoas/Jerônimo Rodrigues (+3 entradas Salvador: Gamboa, chacina, presídio-hotel), pessoas/Kim Kataguiri (+fonte)
+- Posições atualizadas: Estado de Defesa (+seção proibição de símbolos de facções; +2 fontes → total 6)
+- Temas atualizados: Política Externa e Geopolítica (+seção ferrovia bioceânica; +1 fonte → total 8)
+- index.md: 6 novas fontes inseridas no topo (mai 2026); contagens atualizadas: Estado de Defesa 4→6, Nikolas 9→10, Política Externa 7→8, Jerônimo 3→6
+- scripts/sync_novos_videos.py: BLOCKED_IDS adicionado com zbTXDOHMiJg (age-restricted) e sqtqtanjVFE (sem legenda PT); filter_new_ids atualizado para excluir permanentemente
+
 ## [2026-05-28] maint | Expansão seções Fontes em 9 posicoes/; contagens corrigidas no index.md; bat file fixado
 - Seções `## Fontes` completadas em 9 páginas de posicoes/ (referências inline que faltavam): Emendas Parlamentares (+5 fontes), Estado de Defesa (+1), Frente de Trabalho (+1), Fusão de Municípios (+3), Intervenção Federal (+1), Plano para Moradores de Rua (+1), Propostas para Educação (+2), Propostas para PM (+1), Redução da Maioridade Penal (seção criada, 2 fontes)
 - index.md: contagens de fontes nas 22 posicoes/ corrigidas (desatualizadas desde ingests recentes — ex: Desfavelização dizia 5 e tem 11; Emendas dizia 7 e tem 10; Fusão dizia 5 e tem 11)
@@ -1161,25 +1169,4 @@
 - fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO
 - fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso
 - fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
-- fontes/2026-03-24 - Eu tô com muita inveja de El Salvador
-- fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
-- fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
-- fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO
-- fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA
-- fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master
-- fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país
-- fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins
-- fontes/2026-03-20 - Os caminhoneiros vão entrar em greve
-
-**Páginas criadas (3):**
-- pessoas/Ratinho Júnior
-- posicoes/Desfavelização do Rio de Janeiro
-- posicoes/Proposta para Caminhoneiros
-
-**Páginas atualizadas (7):**
-- temas/Segurança Pública (BOPE 6 medidas, progressão penal, Bukele)
-- temas/Crítica à Direita Tradicional (PL misoginia, Ratinho Jr., Flávio=João Campos)
-- temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
-- temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
-- eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
-- posicoes/Fusão de Municípios (Taub
+- fontes/2026-03-24 - Eu tô com muita in
