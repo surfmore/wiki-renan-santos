@@ -1,8 +1,9 @@
 User-agent: *
 Allow: /
 
-# Sitemap
+# Sitemap e LLMs
 Sitemap: https://renansantos.wiki/sitemap.xml
+LLMs: https://renansantos.wiki/llms.txt
 
 # Permitir crawlers de AI explicitamente
 User-agent: GPTBot
@@ -17,8 +18,4 @@ Allow: /
 User-agent: Google-Extended
 Allow: /
 
-User-agent: Anthropic-AI
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
+User-agent: Anthrop
