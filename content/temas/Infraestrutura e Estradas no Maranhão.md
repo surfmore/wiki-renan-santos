@@ -58,4 +58,4 @@ Em 23 de março — antes da visita física ao local em abril —, Renan analisa
 
 ## Caminhoneiros e infraestrutura logística
 
-Em 20 de março, Renan sistematiza sete medidas para o setor de transporte rodoviário: tabela dinâmica de frete, produção interna de diesel, biodiesel, corredor elétrico, atualização do ME
+Em 20 de março, Renan sistematiza sete medidas para o setor de transporte rodoviário: tabela dinâmica de frete, produção interna de diesel, biodiesel, corredor elétrico para caminhões, atu

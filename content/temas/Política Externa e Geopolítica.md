@@ -80,4 +80,4 @@ Em **28 de maio de 2026**, gravando no **porto de Ilhéus (BA)**, Renan analisa 
 
 O alerta: a China usa a mesma estratégia na África — financia infraestrutura, o país dá calote, ela exige submissão geopolítica como compensação. O Brasil, "fiscalmente quebrado e incapaz de investir na própria infra", corre risco semelhante — tanto mais porque a ferrovia passa por regiões ricas em **minério de ferro, agricultura e terras raras**. Renan aponta que o Brasil é o "único país capaz de concorrer com a China" no processamento de terras raras, tornando o controle do território estratégico para Pequim.
 
-Posição: fará a ferrovia, mas com mix
+Posição: fará a ferrovia, mas com **i

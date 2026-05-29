@@ -72,4 +72,4 @@ A proposta gerou cancelamento nas redes sociais. Renan interpreta isso como evid
 
 ## Bomba atômica no MST: resposta irônica (maio de 2026)
 
-Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"A�
+Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"Aí 
