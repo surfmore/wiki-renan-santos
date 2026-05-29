@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=H8bUaImmxNE"
 ---
 
-# B4ANDIDO AMIGÃO DA JUÍZA É M0RTO EM CONFRONTO
-
 **Data:** 26 de novembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=H8bUaImmxNE

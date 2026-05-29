@@ -7,8 +7,6 @@ tags:
 date: 2026-04-03
 ---
 
-# STF e Ativismo Judicial
-
 Crítica sistemática ao **Supremo Tribunal Federal** ocupa lugar central na pré-candidatura de Renan Santos. Para ele, o STF deixou de ser um tribunal constitucional e se tornou uma **"quarta instância de deliberação"** que decide politicamente temas que caberiam ao Legislativo, servindo como **"guardião do patrimonialismo brasileiro"** e da "agenda da esquerda".
 
 ## Reforma do STF: propostas na Sabatina Esfera (maio de 2026)

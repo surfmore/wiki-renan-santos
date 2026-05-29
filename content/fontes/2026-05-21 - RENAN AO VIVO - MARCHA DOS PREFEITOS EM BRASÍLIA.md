@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=HhWVnuqCcmw
 ---
 
-# RENAN AO VIVO - MARCHA DOS PREFEITOS EM BRASÍLIA
-
 Live da participação de Renan Santos no painel de presidenciáveis da **27ª Marcha dos Prefeitos**, organizada pela Confederação Nacional de Municípios (CNM) em Brasília. O formato incluiu 5 minutos de saudação, 4 minutos por pergunta (sorteada), e 5 minutos de considerações finais. Inclui também coletiva de imprensa pós-evento.
 
 **Discurso principal — municipalismo e reforma política:**

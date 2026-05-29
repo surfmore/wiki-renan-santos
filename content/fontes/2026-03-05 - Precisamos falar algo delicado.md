@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=osIDsaOzol0"
 ---
 
-# Precisamos falar algo delicado...
-
 Renan aborda a relação entre ausência paterna e criminalidade juvenil, citando estudo da FGV e propondo política pública sobre responsabilidade parental.
 
 ## A tese principal

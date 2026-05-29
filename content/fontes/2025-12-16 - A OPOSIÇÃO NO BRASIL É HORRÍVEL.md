@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=d756I7K_JXY"
 ---
 
-# A OPOSIÇÃO NO BRASIL É HORRÍVEL
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=d756I7K_JXY)**
 
 Vídeo em que Renan avalia negativamente a bancada bolsonarista na Câmara dos Deputados — não pelas ideias, mas pela inefetividade parlamentar e pela estratégia de comunicação equivocada.

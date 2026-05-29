@@ -9,8 +9,6 @@ fontes:
   - "2026-02-24 - OS BANDIDOS PRECISAM TER MEDO!"
 ---
 
-# Os Bandidos Precisam Ter Medo
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=kbukcJctHMI) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo

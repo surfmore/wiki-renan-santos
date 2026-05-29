@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Eu fui onde morreu um homem com 100 tiros
-
 **Data:** 27 de maio de 2026
 **Canal:** Renan Santos
 **URL:** https://www.youtube.com/watch?v=3j1N5us8yPs

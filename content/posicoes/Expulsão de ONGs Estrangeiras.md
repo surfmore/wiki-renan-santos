@@ -6,8 +6,6 @@ tags:
 date: 2026-04-12
 ---
 
-# Expulsão de ONGs Estrangeiras
-
 Renan Santos defende a **expulsão do Brasil de ONGs financiadas por governos e fundações estrangeiras** que, segundo ele, atuam para bloquear projetos brasileiros de infraestrutura e exploração de recursos naturais.
 
 ## O que propõe

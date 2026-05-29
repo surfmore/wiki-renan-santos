@@ -13,8 +13,6 @@ tags:
   - policial
 ---
 
-# Prepare-se para ficar revoltado
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=yzX4nflG8a4)**
 
 Renan narra o caso de um criminoso que atirou em um policial durante operação em **Paraisópolis (SP)**, tomou sua arma, e foi posteriormente preso em flagrante — mas solto por uma juíza que considerou que "ele tem bons antecedentes".

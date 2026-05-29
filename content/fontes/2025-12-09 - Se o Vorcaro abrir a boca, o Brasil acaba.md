@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=3kTonGp62IQ"
 ---
 
-# Se o Vorcaro abrir a boca, o Brasil acaba
-
 **Data:** 9 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=3kTonGp62IQ

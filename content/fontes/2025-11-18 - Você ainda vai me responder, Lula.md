@@ -10,8 +10,6 @@ fontes:
   - "2025-11-18 - Você ainda vai me responder, Lula!"
 ---
 
-# Você ainda vai me responder, Lula!
-
 **Canal:** Renan Santos | **Data:** 18 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=XnPX6JlDQUc
 

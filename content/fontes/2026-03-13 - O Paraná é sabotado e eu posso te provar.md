@@ -10,8 +10,6 @@ fontes:
   - "2026-03-13 - O Paraná é sabotado e eu posso te provar"
 ---
 
-# O Paraná é sabotado e eu posso te provar
-
 **Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=T0aWWvjBU4Y)
 
 ## Resumo

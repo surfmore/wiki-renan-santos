@@ -13,8 +13,6 @@ tags:
   - crime-organizado
 ---
 
-# Precisamos do CECOTINS Urgentemente
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=rtebHJqoGJc)**
 
 Gravado no **presídio de segurança máxima de Mossoró (RN)** — o único no Brasil de onde houve fuga. Dois membros do Comando Vermelho escaparam e foram encontrados em **Marabá (PA), a 1.600 km de distância**. Um entrevistador questiona Renan sobre sua posição em relação a esse tipo de presídio.

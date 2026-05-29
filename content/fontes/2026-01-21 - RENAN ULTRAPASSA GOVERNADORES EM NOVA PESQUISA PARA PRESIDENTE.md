@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=_oXqde6APf4"
 ---
 
-# RENAN ULTRAPASSA GOVERNADORES EM NOVA PESQUISA PARA PRESIDENTE
-
 **Data:** 21 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=_oXqde6APf4)**
 
 ## Resumo

@@ -10,8 +10,6 @@ fontes:
   - "2026-02-24 - GOVERNO LULA TAXA MAIS DE 1,2 MIL PRODUTOS IMPORTADOS"
 ---
 
-# Governo Lula Taxa Mais de 1,2 Mil Produtos Importados
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=gfz_yuVkjAQ) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo

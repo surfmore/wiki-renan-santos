@@ -7,8 +7,6 @@ tags:
 date: 2026-04-03
 ---
 
-# Ambição Nacional e Soberania Tecnológica
-
 Tema recorrente na retórica de Renan Santos: o Brasil teria **tamanho e capacidade** para se posicionar no "grande jogo da engenharia mundial", mas seria sabotado por uma **mentalidade coletiva de autodepreciação**. Sua formulação mais repetida é "nós nos odiamos tanto aqui no Brasil e achamos que somos tão ruins que nem conseguimos sonhar".
 
 ## Terras raras: construir a cadeia no Brasil, não exportar matéria-prima (maio de 2026)

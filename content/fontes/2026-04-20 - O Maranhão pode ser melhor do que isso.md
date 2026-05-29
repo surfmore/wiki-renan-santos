@@ -8,8 +8,6 @@ video_id: Tty52sfOqvk
 url: "https://www.youtube.com/watch?v=Tty52sfOqvk"
 ---
 
-# O Maranhão pode ser melhor do que isso
-
 **Data:** 20 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=Tty52sfOqvk)

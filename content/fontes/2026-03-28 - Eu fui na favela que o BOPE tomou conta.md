@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Eu fui na favela que o BOPE tomou conta
-
 Vídeo complementar ao de mesmo dia ([[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]), gravado dentro da **favela Tavares Bastos**, "logo ao lado do BOPE". Renan apresenta o local como **prova de conceito** para suas propostas de desfavelização.
 
 ## O que ele observa

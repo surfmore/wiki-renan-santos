@@ -10,8 +10,6 @@ fontes:
   - "2026-03-22 - Edir Macedo tem seu próprio Banco Master"
 ---
 
-# Edir Macedo tem seu próprio Banco Master
-
 **Canal:** Renan Santos | **Data:** 22/03/2026
 **URL:** https://www.youtube.com/watch?v=T-IbN5jT2m8
 

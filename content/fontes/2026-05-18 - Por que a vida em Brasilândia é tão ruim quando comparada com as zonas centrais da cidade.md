@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=h_Ulw1Egi4Q
 ---
 
-# Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade
-
 Gravado na Brasilândia, bairro com cerca de 271.000 habitantes na zona norte de São Paulo, Renan Santos apresenta dados de desigualdade intraurbana para argumentar que favelas são um problema de desenvolvimento humano — não apenas um problema estético.
 
 ## Os dados de Brasilândia

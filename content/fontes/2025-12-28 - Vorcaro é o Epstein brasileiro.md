@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=C07mM5z7vgo"
 ---
 
-# Vorcaro é o Epstein brasileiro
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=C07mM5z7vgo)**
 
 Este vídeo representa um dos **primeiros registros públicos** da comparação entre Daniel Vorcaro e Jeffrey Epstein, feita por Renan em dezembro de 2025 — meses antes da prise de Vorcaro. Renan afirma que imagens e vídeos comprometedores de figuras do judiciário e da política brasileira estariam no celular de Vorcaro.

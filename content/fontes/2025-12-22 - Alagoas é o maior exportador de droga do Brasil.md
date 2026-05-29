@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=aRhBEKB3evg"
 ---
 
-# Alagoas é o maior exportador de droga do Brasil
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=aRhBEKB3evg)**
 
 Renan usa a ironia do título — a "droga" é o "político alagoano" — para apresentar um panorama das oligarquias de Alagoas e propor intervenção federal no estado.

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=hJAwLxix36A
 ---
 
-# Flávio Bolsonaro x Alexandre de Moraes. Quem vence
-
 Renan Santos usa o formato de uma "disputa esportiva" para comparar, ponto a ponto, as ligações de [[pessoas/Flávio Bolsonaro]] e [[pessoas/Alexandre de Moraes]] com Daniel Vorcaro e o [[eventos/Escândalo Banco Master]].
 
 ## O duelo ponto a ponto

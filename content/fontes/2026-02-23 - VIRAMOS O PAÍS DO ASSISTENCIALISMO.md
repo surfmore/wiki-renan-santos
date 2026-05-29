@@ -10,8 +10,6 @@ fontes:
   - "2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO"
 ---
 
-# Viramos o País do Assistencialismo
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=VHRtDbZX310) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo

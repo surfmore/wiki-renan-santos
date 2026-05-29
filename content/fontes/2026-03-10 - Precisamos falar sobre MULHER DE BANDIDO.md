@@ -10,8 +10,6 @@ fontes:
   - "2026-03-10 - Precisamos falar sobre MULHER DE BANDIDO"
 ---
 
-# Precisamos falar sobre MULHER DE BANDIDO
-
 **Canal:** Renan Santos | **Data:** 10 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=xnz_qghnbjs)
 
 ## Resumo

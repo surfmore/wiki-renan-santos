@@ -10,8 +10,6 @@ fontes:
   - "2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA AMARAL COM O JOÃO CAMPOS"
 ---
 
-# O Que Alexandre de Moraes Fazia no Casamento da Tabata Amaral com o João Campos
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=Qs9tqgrYsTU) · Canal Renan Santos · Short · 22/02/2026
 
 ## Resumo

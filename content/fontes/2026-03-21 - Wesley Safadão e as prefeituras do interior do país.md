@@ -10,8 +10,6 @@ fontes:
   - "2026-03-21 - Wesley Safadão e as prefeituras do interior do país"
 ---
 
-# Wesley Safadão e as prefeituras do interior do país
-
 **Canal:** Renan Santos | **Data:** 21/03/2026
 **URL:** https://www.youtube.com/watch?v=KsahxExQM7o
 

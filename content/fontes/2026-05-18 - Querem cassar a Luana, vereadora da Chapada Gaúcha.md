@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=GrKxKiYp734
 ---
 
-# Querem cassar a Luana, vereadora da Chapada Gaúcha
-
 Renan Santos denuncia o processo de cassação da vereadora Luana, de Chapada Gaúcha (MG), como exemplo de perseguição política com fundo machista e de conivência institucional com um agressor sexual.
 
 ## O caso

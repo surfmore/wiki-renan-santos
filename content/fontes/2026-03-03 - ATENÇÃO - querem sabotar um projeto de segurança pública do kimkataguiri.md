@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=W8yqYlGRVNY"
 ---
 
-# ATENÇÃO — querem sabotar um projeto de segurança pública do @kimkataguiri
-
 Renan denuncia a articulação do PT e do Centrão para impedir a votação no Senado do projeto de Kim Kataguiri que aumenta penas para roubo e receptação.
 
 ## O projeto

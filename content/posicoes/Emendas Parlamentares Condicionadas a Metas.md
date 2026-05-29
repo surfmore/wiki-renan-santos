@@ -7,8 +7,6 @@ tags:
 date: 2026-04-13
 ---
 
-# Emendas Parlamentares Condicionadas a Metas
-
 Proposta defendida por Renan Santos de que **emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho** em áreas-chave de políticas públicas.
 
 ## O desenho

@@ -10,8 +10,6 @@ url: "https://www.youtube.com/watch?v=h_qD6CMTbP4"
 tipo: short
 ---
 
-# RENAN SANTOS RECEBE MAIS AMEAÇAS DE MORTE
-
 **Data:** 3 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=h_qD6CMTbP4)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# URGENTE: PEC DA BLINDAGEM APROVADA
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=lS0ZpmyuhVk)**
 
 Renan Santos reage com indignação à aprovação da **PEC da Blindagem** pela Câmara dos Deputados, com 324 votos favoráveis — incluindo a grande maioria dos bolsonaristas — e Kim Kataguiri como único deputado de direita a votar contra.

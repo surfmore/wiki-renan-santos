@@ -9,8 +9,6 @@ fontes:
   - "2026-03-11 - URGENTE: Boulos quer destruir os apps de entregas"
 ---
 
-# URGENTE: Boulos quer destruir os apps de entregas
-
 **Canal:** Renan Santos | **Data:** 11 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=I2TSHQBS7H8)
 
 ## Resumo

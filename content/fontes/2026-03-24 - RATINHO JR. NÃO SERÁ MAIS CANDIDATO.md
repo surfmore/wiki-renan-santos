@@ -10,8 +10,6 @@ fontes:
   - "2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO"
 ---
 
-# RATINHO JR. NÃO SERÁ MAIS CANDIDATO
-
 **Canal:** Renan Santos | **Data:** 24/03/2026
 **URL:** https://www.youtube.com/watch?v=df8lg2Ey_ew
 

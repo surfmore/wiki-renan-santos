@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=tL6Oz5EE3UA"
 ---
 
-# Eu fui na primeira favela do Brasil
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=tL6Oz5EE3UA)**
 
 Renan Santos grava na **Favela da Providência** (RJ) — a mais antiga do Brasil — para apresentar em detalhe o **Marco Nacional da Desfavelização**, com custo estimado de **R$ 900 bilhões em 10 anos**.

@@ -7,8 +7,6 @@ tags:
 date: 2025-10-28
 ---
 
-# Rio de Janeiro em Guerra — Outubro de 2025
-
 Em outubro de 2025, o Rio de Janeiro viveu uma escalada de violência do crime organizado que Renan Santos classificou como **situação de guerra** — com uso de drones para lançar bombas por parte das facções e operações de repressão do governo estadual sem suporte federal.
 
 ## A escalada: drones com bombas

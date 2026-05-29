@@ -12,8 +12,6 @@ fontes:
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
 
-# Desfavelização do Rio de Janeiro
-
 Renan Santos apresenta um plano de seis medidas para eliminar as favelas do Rio de Janeiro, desenvolvido ao lado do **coronel Busnelo** (BOPE), pré-candidato ao governo do estado. O plano articula segurança pública, urbanismo e economia formal.
 
 ## Desfavelização vs. "indústria da favela": invasão como negócio (maio de 2026)

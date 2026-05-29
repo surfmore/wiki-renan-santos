@@ -9,8 +9,6 @@ fontes:
   - "2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum"
 ---
 
-# O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
-
 **Canal:** Renan Santos | **Data:** 24/03/2026
 **URL:** https://www.youtube.com/watch?v=X8WgKCgD44M
 

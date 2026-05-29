@@ -9,8 +9,6 @@ fontes:
   - "2026-04-29 - Esse é o começo do fim do Lula!"
 ---
 
-# Esse é o começo do fim do Lula!
-
 **Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=kZ6IT1iOi2E)
 
 ## Resumo

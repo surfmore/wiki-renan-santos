@@ -10,8 +10,6 @@ fontes:
   - "2025-11-13 - Apareci numa pesquisa presidencial!"
 ---
 
-# Apareci numa pesquisa presidencial!
-
 **Canal:** Renan Santos | **Data:** 13 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=SGzrr6NoOo8
 

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=cT2LyKfZenw
 ---
 
-# MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA
-
 Live de evento de pré-campanha realizado em Brasília em 21/05/2026 — descrito como "o maior evento da pré-campanha até agora", com plateia pagante. Kim Kataguiri e outros pré-candidatos do Missão pelo Distrito Federal estavam presentes. O discurso de Renan é longo e tem caráter motivacional e de consolidação da narrativa de campanha.
 
 **Crescimento nas pesquisas:** Renan menciona que o Distrito Federal aparece consistentemente entre os top cinco no Google Trends de buscas pelo seu nome. Faz referência a uma "certa casa de apostas" dando números "assustadores" para sua candidatura. Empresários, banqueiros e fundos de investimento passaram a ligar. A vaquinha eleitoral do Partido Missão seria a maior do Brasil em quantidade de doadores (70% das doações entre R$ 5 e R$ 50).

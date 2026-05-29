@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=314Ng42M_A4"
 ---
 
-# O Maior Carnaval do Brasil
-
 **Canal:** Renan Santos | **Data:** 9 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=314Ng42M_A4
 

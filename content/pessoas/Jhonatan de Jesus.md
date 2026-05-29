@@ -9,8 +9,6 @@ fontes:
   - "2026-01-06 - Quem é Jhonatan de Jesus"
 ---
 
-# Jhonatan de Jesus
-
 Ministro do **Tribunal de Contas da União (TCU)**. Renan Santos o identifica como a figura central na tentativa de reversão da liquidação do **Banco Master** pelo TCU — o que classificou como "a marmelada da república" em curso.
 
 > Nota: esta página registra afirmações de Renan Santos sobre Jhonatan de Jesus. Acusações são reprodução das declarações dele.

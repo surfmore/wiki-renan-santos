@@ -11,8 +11,6 @@ fontes:
   - "2026-03-30 - MALAFAIA PEDE AJUDA PARA COMPRAR JATINHO"
 ---
 
-# André Valadão
-
 **André Valadão** é pastor evangélico e fundador da **Igreja Lagoinha**, uma das maiores redes evangélicas do Brasil, com sede em Belo Horizonte. Renan Santos o posiciona como figura central no entrelaçamento entre igrejas evangélicas e o escândalo do Banco Master / INSS.
 
 ## A BMW e a dívida perdoada por Henrique Vorcaro (janeiro de 2026)

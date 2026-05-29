@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=FHqn0D2_ZyM"
 ---
 
-# RENAN MOSTRA A REALIDADE DO BRASIL PROFUNDO
-
 **Data:** 14 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=FHqn0D2_ZyM)**
 
 ## Resumo

@@ -11,8 +11,6 @@ fontes:
   - "2026-03-31 - Caiado e Lula são VELHOS"
 ---
 
-# Ronaldo Caiado
-
 Governador de Goiás e pré-candidato à presidência. Em janeiro de 2026, filiou-se ao **PSD** de Gilberto Kassab — partido que já abrigava Ratinho Júnior (PR) e Eduardo Leite (RS). O movimento gerou ampla cobertura da imprensa como articulação da "direita moderada", mas Renan Santos fez uma leitura radicalmente diferente.
 
 ## Caiado no PSD: a leitura de Renan

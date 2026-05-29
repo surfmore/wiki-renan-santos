@@ -8,8 +8,6 @@ video_id: pcSz3kqpYdg
 url: "https://www.youtube.com/watch?v=pcSz3kqpYdg"
 ---
 
-# Esse menino é um herói!
-
 **Data:** 20 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=pcSz3kqpYdg)

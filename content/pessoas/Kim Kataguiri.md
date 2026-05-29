@@ -11,8 +11,6 @@ fontes:
   - "2026-03-31 - Você já conhece a PEC do IPVA do kimkataguiri"
 ---
 
-# Kim Kataguiri
-
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. Fatos aqui apresentados como citações de Renan não são verificados independentemente por este wiki.

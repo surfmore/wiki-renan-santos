@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=EplIEFm9sHs"
 ---
 
-# Eu vou transformar o Nordeste na Arábia Saudita
-
 Renan apresenta sua visão do Nordeste como potência de energia renovável e hub global de data centers.
 
 ## O diagnóstico energético

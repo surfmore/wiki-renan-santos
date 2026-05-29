@@ -9,8 +9,6 @@ fontes:
   - "2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL"
 ---
 
-# Tem Como Acabar a Escala 6x1 no Brasil
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=HLKbjsZRo5k) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=fFJzbJaQ_tY
 ---
 
-# Deolane Bezerra presa!
-
 Trecho de entrevista em que Renan comenta a prisão da influenciadora e advogada Deolane Bezerra pelo Ministério Público de São Paulo, acusada de lavar dinheiro para o PCC.
 
 Renan usa o caso para ilustrar o que chama de **normalização e naturalização do crime** nas camadas populares. Destaca que pessoas foram chorar na frente da delegacia após a prisão de Deolane — o que, para ele, evidencia como as redes sociais conseguem criar empatia por figuras ligadas ao crime entre as pessoas mais vulneráveis, que ironicamente são as maiores vítimas do crime organizado.

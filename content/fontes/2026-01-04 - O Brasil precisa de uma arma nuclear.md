@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=f9A8PnZEPcg"
 ---
 
-# O Brasil precisa de uma arma nuclear
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=f9A8PnZEPcg)**
 
 Renan defende a necessidade de o Brasil desenvolver armamento nuclear, fazendo referência ao político Enéas Carneiro como precursor incompreendido da ideia.

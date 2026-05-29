@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=zelntCQjDkg"
 ---
 
-# Acredite se quiser — a rede Globo está salvando o Brasil
-
 Renan comenta a publicação pela Rede Globo de evidências que contradizem a nota oficial de Alexandre de Moraes sobre suas conversas com Daniel Vorcaro.
 
 ## O que aconteceu

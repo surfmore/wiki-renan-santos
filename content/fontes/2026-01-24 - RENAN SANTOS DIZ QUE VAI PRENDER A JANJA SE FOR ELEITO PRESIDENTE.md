@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=pdY-sUDFAPw"
 tipo: short
 ---
 
-# RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE DO BRASIL
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=pdY-sUDFAPw)**
 
 Renan retoma a promessa pública de prender a primeira-dama, agora respaldado por notícia do **TCU** sobre irregularidades nas obras da **COP 30** ligadas a uma organização da qual Janja fazia parte.

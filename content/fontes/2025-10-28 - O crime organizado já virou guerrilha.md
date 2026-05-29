@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# O crime organizado já virou guerrilha
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=8vm4dlMJrHU)**
 
 Renan Santos afirma que o crime organizado **cruzou uma linha definitiva**: passou a usar **drones para lançar bombas**, tornando-se, na sua caracterização, uma **força paramilitar** — não mais uma organização criminosa comum.

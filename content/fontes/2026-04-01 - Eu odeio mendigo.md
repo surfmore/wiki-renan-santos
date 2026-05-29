@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Eu odeio mendigo
-
 Resposta ao episódio em que **um morador de rua foi até um evento de Renan**, furou a fila de fotos e pediu dinheiro diretamente a ele; Renan disse não ter dinheiro no momento, pediu a outras pessoas para darem, o que foi feito, e o homem foi embora. A partir disso, **"bolsonaristas" o acusaram de "odiar moradores de rua"**. Renan reformula a acusação: "eu não acho que tenha que ter morador de rua e eu não gosto que alguém more na rua — portanto vou acabar com isso". O vídeo apresenta **sete propostas** concretas.
 
 ## As 7 propostas

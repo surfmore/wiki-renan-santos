@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=ytLmkGW3rQE"
 ---
 
-# DAMA DO TRÁFICO É SOLTA PELA JUSTIÇA
-
 **Data:** 28 de novembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=ytLmkGW3rQE

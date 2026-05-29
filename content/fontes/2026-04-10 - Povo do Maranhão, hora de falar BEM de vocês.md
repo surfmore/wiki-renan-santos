@@ -10,8 +10,6 @@ video_id: iS1yCBF4l8c
 url: "https://www.youtube.com/watch?v=iS1yCBF4l8c"
 ---
 
-# Povo do Maranhão, hora de falar BEM de vocês!
-
 Short gravado em Balsas, no sul do Maranhão, durante a viagem de pré-campanha de Renan Santos pelo estado. Pela primeira vez na série, o tom é elogioso: Renan apresenta a refinaria da **Inpasa** como exemplo do que o estado pode se tornar.
 
 ## Resumo

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=DdVxI5vK-qY
 ---
 
-# Renan é autista? Por que razão ele foi cancelado?
-
 Vídeo de resposta ao curto anterior sobre Letícia Sabatella, em que Renan reage ao volume de mensagens recebidas e aprofunda a distinção entre autismo real e "autismo narcisista".
 
 Renan relata que recebeu "milhares de mensagens" — a maioria de pais de autistas reais que concordam com ele: não é possível colocar alunos autistas na mesma sala que alunos neurotípicos. A exceção são os que se auto-identificam como autistas "nível 1 de suporte" — pessoas sem diagnóstico severo que usam o espectro como identidade.

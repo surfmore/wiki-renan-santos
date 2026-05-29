@@ -13,8 +13,6 @@ tags:
   - bolsa-família
 ---
 
-# PT Trata Nordestino Como Coitado
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=oDAbDuc6ta0)**
 
 Vídeo em formato de debate/entrevista. Um interlocutor apresenta dados do PAC e do pacto federativo; Renan rebate e desenvolve sua posição sobre o desenvolvimento do Nordeste.

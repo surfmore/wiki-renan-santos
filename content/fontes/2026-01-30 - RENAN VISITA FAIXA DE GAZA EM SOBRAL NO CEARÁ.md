@@ -13,8 +13,6 @@ tags:
   - desfavelização
 ---
 
-# Renan Visita Faixa de Gaza em Sobral no Ceará
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=9Bjy6MQ1L4A)**
 
 Gravado em **Sobral (CE)**, cidade frequentemente citada por Ciro Gomes como exemplo de gestão bem-sucedida. Renan documenta uma área batizada de **"faixa de Gaza"**: uma faixa de neutralidade entre um conjunto habitacional tomado pelo PCC e uma favela controlada pelo Comando Vermelho.

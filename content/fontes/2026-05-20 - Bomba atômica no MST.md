@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=wX6FEu56bKY
 ---
 
-# Bomba atômica no MST
-
 Short em formato de entrevista rápida, com respostas de "a favor", "contra" ou "depende" a diversas pautas. O vídeo é notável pela última resposta, que gerou repercussão.
 
 ## As respostas de Renan

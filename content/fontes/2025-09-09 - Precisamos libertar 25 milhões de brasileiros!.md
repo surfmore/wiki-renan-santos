@@ -13,8 +13,6 @@ tags:
   - crime-organizado
 ---
 
-# Precisamos libertar 25 milhões de brasileiros!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=qGVIcyVAjIo)**
 
 Renan defende que **25 milhões de brasileiros estão presos na mão do crime organizado** e propõe uma resposta que vai além das polícias estaduais.

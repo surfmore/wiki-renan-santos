@@ -10,8 +10,6 @@ fontes:
   - "2026-04-18 - Fui ameaçado pelo pai do Neymar"
 ---
 
-# Neymar
-
 Jogador de futebol brasileiro. Renan Santos o menciona não em relação à carreira esportiva, mas pelo **padrão de associações com pessoas ligadas ao tráfico de drogas e ao crime organizado**, e pela influência que isso exerce sobre jovens brasileiros que o admiram.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As afirmações são reprodução das declarações dele e não são verificadas independentemente por este wiki.

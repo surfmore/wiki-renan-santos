@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=bFO-UIQV53I"
 ---
 
-# A proposta mais burra que você vai ver hoje
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=bFO-UIQV53I)**
 
 Renan critica o projeto de lei do senador Cleitinho Azevedo que proíbe o repasse do IPTU ao inquilino, classificando-a como populismo que na prática encarece o aluguel.

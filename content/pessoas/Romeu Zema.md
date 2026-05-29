@@ -20,8 +20,6 @@ fontes:
   - "2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!"
 ---
 
-# Romeu Zema
-
 **Quem é:** Governador de Minas Gerais (Novo), pré-candidato à presidência da República em 2026. Empresário do setor automotivo (Grupo Zema), eleito governador de MG em 2018 e reeleito em 2022. Um dos nomes que o mercado financeiro e a imprensa projetaram como possível candidato de centro-direita para 2026.
 
 ## O que o Renan Santos disse

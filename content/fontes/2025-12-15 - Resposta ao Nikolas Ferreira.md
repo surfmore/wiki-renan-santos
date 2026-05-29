@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=F3tg78-QzTw"
 ---
 
-# Resposta ao Nikolas Ferreira
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=F3tg78-QzTw)**
 
 Vídeo em que Renan responde aos ataques históricos de Nikolas Ferreira ao MBL e ao próprio Renan, acusando-o de covardia e oportunismo ao só romper com os Bolsonaros agora que estão fracos.

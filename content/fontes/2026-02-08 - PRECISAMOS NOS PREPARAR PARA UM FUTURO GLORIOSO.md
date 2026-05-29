@@ -12,8 +12,6 @@ fontes:
   - "2026-02-08 - PRECISAMOS NOS PREPARAR PARA UM FUTURO GLORIOSO"
 ---
 
-# Precisamos Nos Preparar Para um Futuro Glorioso
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=_dJavUFmueg)**
 
 Renan usa imagens de **entregadores robôs autônomos** operando de noite nas cidades para alertar trabalhadores e propor o **Ministério do Futuro**.

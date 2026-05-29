@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=QRj1XfuwHeE
 ---
 
-# Lula venceu a eleição?
-
 Renan faz um vídeo de apresentação em terceira pessoa, rebatendo a narrativa de que "Lula já ganhou a eleição" com o argumento de que ainda há um candidato sem relação com o escândalo Banco Master e com histórico de coerência anticorrupção.
 
 O argumento central: enquanto Lula, Flávio e Zema têm ligações com Vorcaro (Lula o recebeu na presidência; Flávio recebeu dinheiro para o filme; o pai de Vorcaro foi preso no dia em que o vídeo foi publicado), existe um candidato sem esse vínculo que vem crescendo nas pesquisas.

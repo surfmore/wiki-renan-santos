@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=UktEiK2v80w"
 tipo: short
 ---
 
-# LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER
-
 **Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=UktEiK2v80w)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

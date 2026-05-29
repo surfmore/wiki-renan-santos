@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=RiRB44sOyc0
 ---
 
-# Conheça a "rua do medo" que fica no bairro de maior qualidade de vida em São Paulo
-
 Renan visita a rua Joaquim Antunes, em Pinheiros (São Paulo), bairro com IDH de 0,96 — nível de primeiro mundo — que virou o local favorito para roubos de celular e "passarinhagem" na cidade.
 
 O caso que Renan usa como ponto de partida: um jovem de Minas Gerais foi passear na rua, teve o celular roubado e levou um tiro. A rua, arborizada e colorida, é conhecida na cidade como a "rua do medo."

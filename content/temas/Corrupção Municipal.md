@@ -6,8 +6,6 @@ tags:
 date: 2026-04-13
 ---
 
-# Corrupção Municipal
-
 Durante sua viagem pelo Maranhão em abril de 2026, Renan Santos usou episódios concretos para denunciar o que descreve como falência administrativa e desvio de recursos em prefeituras do interior. O tema aparece conectado à sua proposta de [[posicoes/Fusão de Municípios|fusão de municípios]] e à defesa de intervenção federal.
 
 ## Chapada Gaúcha: cassação de vereadora que denunciou agressor sexual (maio de 2026)

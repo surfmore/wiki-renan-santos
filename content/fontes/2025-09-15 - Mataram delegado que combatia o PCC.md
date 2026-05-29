@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Mataram delegado que combatia o PCC
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=bf70sz5FCws)**
 
 Renan Santos reage ao assassinato de **Rui Ferraz Fontes**, ex-delegado geral da Polícia Civil de São Paulo, responsável pela prisão de **Marcola** (líder histórico do PCC) e ex-secretário de segurança de Praia Grande (SP).

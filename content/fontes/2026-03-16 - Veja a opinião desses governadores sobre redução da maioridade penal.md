@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=-vRBWbTH73I"
 tipo: short
 ---
 
-# Veja a opinião desses governadores sobre redução da maioridade penal
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=-vRBWbTH73I)**
 
 Renan confronta as posições dos três principais governadores pré-candidatos sobre redução da maioridade penal e apresenta sua própria visão, mais radical do que qualquer um deles.

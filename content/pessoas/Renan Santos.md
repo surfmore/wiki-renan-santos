@@ -11,8 +11,6 @@ fontes:
   - "2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!"
 ---
 
-# Renan Santos
-
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É pré-candidato à presidência da República e uma das principais vozes da direita não-bolsonarista no Brasil.
 
 ## Dados pessoais

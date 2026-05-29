@@ -13,8 +13,6 @@ tags:
   - supersalários
 ---
 
-# Até quando você vai aguentar esse esculacho?
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=254D_TCbNAc)**
 
 Renan exibe imagens de uma juíza conversando de forma intimista com um réu chamado "Caio" — descrito como homicida com duas passagens por homicídio e também por tráfico de drogas. A interação é apresentada como símbolo da cumplicidade do judiciário com criminosos.

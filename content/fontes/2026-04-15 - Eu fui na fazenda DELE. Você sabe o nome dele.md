@@ -13,8 +13,6 @@ tags:
   - maranhão
 ---
 
-# Eu fui na fazenda DELE. Você sabe o nome dele?
-
 Vídeo gravado durante a viagem de Renan Santos ao Maranhão em abril de 2026, em que tenta visitar a fazenda do deputado **Everton Rocha (PDT-MA)**, o primeiro político citado no escândalo do INSS.
 
 ## Resumo

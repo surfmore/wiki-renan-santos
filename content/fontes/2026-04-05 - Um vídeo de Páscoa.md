@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Um vídeo de Páscoa
-
 Short de tom reflexivo gravado no domingo de Páscoa. Renan afirma expressamente que **não é um vídeo religioso** e que "não pretende misturar religião com política", mas usa o simbolismo da Páscoa — "renascimento", "vitória sobre a morte, no fundo sobre o pecado" — como analogia para o momento político do Brasil.
 
 O principal conteúdo político do vídeo é a afirmação de que o Brasil vive "o pior momento moral" de sua história: "estamos como cidade tomada pelo crime organizado" e diante do "maior escândalo de corrupção da história", que é o [[eventos/Escândalo Banco Master]], sem grande mobilização popular. Afirma que "todas as instâncias do sistema político e jurídico brasileiro estão envolvidas em escândalos".

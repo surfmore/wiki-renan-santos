@@ -12,8 +12,6 @@ fontes:
   - "2026-02-28 - KHAMENEI ESTÁ MORTO"
 ---
 
-# Programa Nuclear Brasileiro
-
 Proposta polêmica de Renan Santos de que o Brasil desenvolva um programa nuclear militar como instrumento de soberania. A ideia foi defendida em ao menos três vídeos, gerando cancelamento nas redes sociais e sendo apresentada como distinção central de sua candidatura.
 
 ## "Brasil não tem defesa aérea": indústria bélica e terras raras (abril de 2026)
@@ -74,4 +72,4 @@ A proposta gerou cancelamento nas redes sociais. Renan interpreta isso como evid
 
 ## Bomba atômica no MST: resposta irônica (maio de 2026)
 
-Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"A�
+Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"A�

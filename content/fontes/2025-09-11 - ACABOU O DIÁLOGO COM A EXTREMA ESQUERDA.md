@@ -14,8 +14,6 @@ tags:
   - partido-missão
 ---
 
-# ACABOU O DIÁLOGO COM A EXTREMA ESQUERDA
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=Wj-avUovcvk)**
 
 "Pronunciamento oficial da minha consciência": Renan tira conclusões políticas da morte de Charlie Kirk e anuncia uma virada de postura.

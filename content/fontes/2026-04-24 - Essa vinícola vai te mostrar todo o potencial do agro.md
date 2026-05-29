@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=iKlsVbhoAZQ"
 ---
 
-# Essa vinícola vai te mostrar todo o potencial do agro
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=iKlsVbhoAZQ)**
 
 Visita à **Fazenda Suzin**, em **São Joaquim (SC)**, durante a colheita de uva. Renan usa a vinícola como exemplo do agro de alto valor agregado e dos obstáculos criados pelo governo.

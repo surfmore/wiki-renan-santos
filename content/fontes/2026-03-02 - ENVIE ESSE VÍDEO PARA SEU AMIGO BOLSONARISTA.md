@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-# ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=DCNx8aKaZBM)**
 
 Renan dirige-se diretamente ao eleitorado bolsonarista para denunciar o que chama de **"bolsopetismo"**: acordos entre o PL e o PT que beneficiam as duas cúpulas enquanto jogam as esperanças dos eleitores no lixo.

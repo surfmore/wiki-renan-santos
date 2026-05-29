@@ -10,8 +10,6 @@ fontes:
   - "2025-09-16 - VAMOS CRIMINALIZAR O COMUNISMO"
 ---
 
-# Criminalização da Incitação pelo Discurso de Ódio Político
-
 Renan Santos propõe equiparar o uso de termos como "nazista" e "fascista" contra adversários políticos ao **Artigo 286 do Código Penal** (incitação ao crime). A proposta parte da observação de que essa rotulagem funciona, na prática, como autorização para violência física contra o alvo.
 
 ## A cadeia lógica

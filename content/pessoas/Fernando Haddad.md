@@ -19,8 +19,6 @@ fontes:
   - "2025-09-24 - Quer notícia boa"
 ---
 
-# Fernando Haddad
-
 **Quem é:** Ministro da Fazenda do governo Lula (2023–). Para Renan Santos, é o executor da política tributária petista que onera trabalhadores e microempreendedores enquanto protege grandes lobbies — e um possível substituto de Lula na candidatura presidencial de 2026.
 
 ## O "inimigo de quem trabalha": a política tributária

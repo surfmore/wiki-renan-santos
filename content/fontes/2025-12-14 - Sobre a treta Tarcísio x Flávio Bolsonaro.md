@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=2knCeum1nxU"
 ---
 
-# Sobre a treta Tarcísio x Flávio Bolsonaro
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=2knCeum1nxU)**
 
 Vídeo em que Renan analisa o conflito público entre Tarcísio de Freitas e Flávio Bolsonaro, descartando os dois como candidatos sérios e enquadrando ambos como partes do mesmo sistema de corrupção que ele promete combater.

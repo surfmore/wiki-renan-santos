@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=cbmhSiUTIak"
 ---
 
-# Erika Hilton e escala 6x1
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=cbmhSiUTIak)**
 
 Renan usa a exposição de Kim Kataguiri na Câmara dos Deputados para denunciar o que chama de marketing eleitoral por trás da PEC da escala 6x1.

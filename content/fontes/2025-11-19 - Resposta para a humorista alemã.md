@@ -10,8 +10,6 @@ fontes:
   - "2025-11-19 - Resposta para a humorista alemã"
 ---
 
-# Resposta para a humorista alemã
-
 **Canal:** Renan Santos | **Data:** 19 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=rq9R9qwaZDY
 

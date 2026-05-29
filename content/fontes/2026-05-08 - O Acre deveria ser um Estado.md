@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=XZy571r6Ar8
 ---
 
-# O Acre deveria ser um Estado?
-
 Renan questiona se o Acre merece manter o status de estado da federação, listando indicadores alarmantes e defendendo intervenção federal imediata.
 
 O ponto de partida é a condenação do governador **Gladson Cameli** a 26 anos de prisão por corrupção — segundo Renan, ele integra organização criminosa que desviou R$ 270 milhões desde o início do mandato, sendo a maior parte proveniente de outros estados. Renan usa o caso para ilustrar o modelo político do Acre: politicamente hiperrepresentado (três senadores, oito deputados federais — peso similar ao de Santa Catarina), mas incapaz de entregar qualidade de vida à população.

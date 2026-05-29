@@ -9,8 +9,6 @@ fontes:
   - "2026-02-23 - VORCARO É O EPSTEIN BRASILEIRO..."
 ---
 
-# Vorcaro É o Epstein Brasileiro
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=iJhC-850ZIk) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo

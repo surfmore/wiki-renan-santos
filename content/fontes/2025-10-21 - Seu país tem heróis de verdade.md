@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Seu país tem heróis de verdade
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=9T0T7KLBL3A)**
 
 Renan Santos presta homenagem a **Antônia Ioni Rodrigues da Silva**, mulher de 45 anos da cidade de **Saboeiro (CE)**, que se recusou a envenenar a comida da Polícia Militar do Ceará a pedido do **Comando Vermelho** e foi assassinada como represália.

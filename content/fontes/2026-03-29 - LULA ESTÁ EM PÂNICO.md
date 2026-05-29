@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# LULA ESTÁ EM PÂNICO
-
 Short em que Renan avalia que a **campanha do Lula está em pânico** e especula que ele pode **desistir da candidatura**. Avisa que isso "não é tão boa notícia assim": significaria que o candidato passaria a ser **Haddad**, que teria "talvez até mais chance que o Lula".
 
 ## O diagnóstico: a "falha do modelo petista"

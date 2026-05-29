@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=e-jNX_G8sj8"
 tipo: short
 ---
 
-# PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASÍLIA DO NIKOLAS
-
 **Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=e-jNX_G8sj8)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

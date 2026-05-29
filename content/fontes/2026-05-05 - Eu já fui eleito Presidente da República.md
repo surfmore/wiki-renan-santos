@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Eu já fui eleito Presidente da República
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=jciBoi9vGIE)**
 
 Em tom irônico, Renan Santos argumenta que **suas propostas já estão "contaminando" todos os pré-candidatos** — de Flávio Bolsonaro a Zema, passando por Nikolas Ferreira e até Zé Dirceu, do PT. O ponto: ainda que não esteja no Planalto, seu projeto já pauta o debate.

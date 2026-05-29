@@ -10,8 +10,6 @@ fontes:
   - "2025-12-23 - Por que Pará ama os Barbalhos"
 ---
 
-# Família Barbalho
-
 Oligarquia política do Pará que, segundo Renan Santos, domina o estado há mais de um século — desde o período colonial. Renan usa a família como exemplo máximo de como uma dynasty política se perpetua mesmo produzindo indicadores sociais desastrosos.
 
 > Nota: esta página reproduz afirmações de Renan Santos sobre a família. Não constitui verificação independente.

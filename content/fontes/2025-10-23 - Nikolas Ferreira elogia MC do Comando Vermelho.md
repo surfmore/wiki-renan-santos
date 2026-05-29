@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Nikolas Ferreira elogia MC do Comando Vermelho
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=dLWwBgto-WQ)**
 
 Renan Santos reage ao fato de Nikolas Ferreira ter elogiado no Instagram o rapper **"Pose do Rodo"**, identificado por Renan como membro do Comando Vermelho.

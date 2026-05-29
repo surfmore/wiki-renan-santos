@@ -8,8 +8,6 @@ fontes:
   - "2026-05-07 - O que diferencia a Missão dos outros partidos"
 ---
 
-# O que diferencia a Missão dos outros partidos
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=bivrrREmS44) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo

@@ -11,8 +11,6 @@ fontes:
   - "2025-10-30 - A VERDADE SOBRE A PEC DA SEGURANÇA PÚBLICA"
 ---
 
-# A VERDADE SOBRE A PEC DA SEGURANÇA PÚBLICA
-
 **Canal:** Renan Santos | **Data:** 30 de outubro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=O2Pw33Z8YkY
 

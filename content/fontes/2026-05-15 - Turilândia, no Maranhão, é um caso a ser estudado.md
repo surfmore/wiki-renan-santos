@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=KSNeeUJDRq4
 ---
 
-# Turilândia, no Maranhão, é um caso a ser estudado
-
 Versão mais detalhada e analítica do tema tratado em [[fontes/2026-05-13 - POPULAÇÃO DE TURILÂNDIA COMEMORA SOLTURA DE PREFEITO PRESO POR DESVIAR R$ 56 MILHÕES]], publicado dois dias antes.
 
 Renan apresenta os dados de Turilândia: 31.000 habitantes, menos de 1.000 com emprego formal, a maioria desses sendo funcionários públicos. Praticamente sem arrecadação própria — 97% do orçamento vem de repasses federais e estaduais. Apenas 0,48% da população tem acesso a esgoto; 76% usa fossa rudimentar ou simplesmente buracos no chão.

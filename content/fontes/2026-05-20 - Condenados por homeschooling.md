@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=CHnzcNUNN7I
 ---
 
-# Condenados por homeschooling
-
 Renan Santos relata o caso de um juiz que soltou um homem que tentou matar três pessoas — e no mesmo período condenou uma mãe que praticava homeschooling com os filhos.
 
 ## O caso

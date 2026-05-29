@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# ESSA AQUI É POLÊMICA
-
 Perguntado sobre qual seria sua primeira decisão nas 24 horas iniciais de governo, Renan responde: decretar **estado de defesa**. Descreve a medida como soldados e polícias atuando dentro das favelas para confrontar diretamente o crime organizado.
 
 Afirma que, com estado de defesa e uma legislação que chama de **"direito penal do inimigo"**, PCC, Comando Vermelho e as demais grandes facções "em um ano não existirão mais". Marca simbolicamente o início em 5 de janeiro de 2027, data em que tomaria posse. Diz que usaria o avião presidencial para visitar primeiro a polícia do Ceará, depois Rio de Janeiro e Maranhão.

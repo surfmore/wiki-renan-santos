@@ -25,8 +25,6 @@ fontes:
   - "2025-12-06 - Flávio Bolsonaro rachou a direita"
 ---
 
-# Evolução da relação Renan Santos × Flávio Bolsonaro (2025–2026)
-
 Síntese analítica baseada nas fontes do wiki. Esta página rastreia como as declarações de Renan Santos sobre Flávio Bolsonaro evoluíram entre setembro de 2025 e maio de 2026, à medida que ambos se consolidaram como pré-candidatos à presidência e o [[eventos/Escândalo Banco Master]] foi tornando a relação cada vez mais conflituosa.
 
 > Nota metodológica: esta análise baseia-se exclusivamente nas falas de Renan Santos registradas nos vídeos ingeridos no wiki. Não inclui declarações de Flávio Bolsonaro nem verificação independente das acusações.

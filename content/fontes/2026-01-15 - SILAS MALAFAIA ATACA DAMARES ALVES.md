@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=R3iVOf_raTo"
 ---
 
-# SILAS MALAFAIA ATACA DAMARES ALVES
-
 **Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=R3iVOf_raTo)**
 
 ## Resumo

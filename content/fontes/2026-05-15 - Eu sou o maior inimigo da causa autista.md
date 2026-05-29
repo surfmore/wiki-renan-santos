@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=V9t4vf10aa8
 ---
 
-# Eu sou o maior inimigo da causa autista
-
 Renan responde às críticas recebidas após declarações anteriores sobre a "glamorização do autismo" por celebridades e influencers. O vídeo complementa a série sobre o tema iniciada em [[fontes/2026-05-09 - Letícia Sabatella autista]] e [[fontes/2026-05-10 - Renan é autista Por que razão ele foi cancelado]].
 
 Renan afirma denunciar uma "maracutaia tipicamente brasileira": influencers que se fingem de autistas, além de advogados, psicólogos e psiquiatras que emitem laudos para pessoas que não têm diagnóstico real — confundindo TEA nível 1 com ser "meio estranho" ou "meio tímido". Com o laudo, essas pessoas obtêm o BPC (Benefício de Prestação Continuada) e outros benefícios indevidamente.

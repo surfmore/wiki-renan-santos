@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=m65ehhD3sWI"
 ---
 
-# Quem estava no projeto político do Banco Master
-
 **Data:** 26 de novembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=m65ehhD3sWI

@@ -9,8 +9,6 @@ fontes:
   - "2026-04-27 - Wesley Safadão não quer que eu seja Presidente"
 ---
 
-# Wesley Safadão não quer que eu seja Presidente
-
 **Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=j7HvGwECV2I)
 
 ## Resumo

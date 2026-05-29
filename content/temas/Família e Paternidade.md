@@ -8,8 +8,6 @@ tags:
 date: 2026-03-05
 ---
 
-# Família e Paternidade
-
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
 ## Brasilândia: o ciclo da favela explicado (maio de 2026)

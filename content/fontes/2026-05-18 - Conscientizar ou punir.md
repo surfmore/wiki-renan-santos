@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=zYKCmFo2_xU
 ---
 
-# Conscientizar ou punir
-
 Vídeo em formato de entrevista ou debate. Renan Santos responde à pergunta sobre como enfrentar a violência contra a mulher: conscientização ou punição?
 
 ## A posição de Renan

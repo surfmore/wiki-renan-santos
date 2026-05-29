@@ -17,8 +17,6 @@ fontes:
   - "2025-11-22 - Sobre a prisão do Bolsonaro"
 ---
 
-# Jair Bolsonaro
-
 **Quem é:** Jair Messias Bolsonaro, presidente da República de 2019 a 2022, fundador do PL (junto com Valdemar Costa Neto). Para Renan Santos, é uma figura ambivalente: um ex-aliado que traiu o movimento anticorrupção ao destruir a Lava-Jato para proteger a família, mas que ainda assim merece tratamento humanitário — "não quero tripudiar de um idoso".
 
 > "Eu acho que o Jair Bolsonaro foi um covarde e que os filhos deles são criminosos, especialmente Flávio."

@@ -9,8 +9,6 @@ fontes:
   - "2026-04-29 - BESSIAS REJEITADO!"
 ---
 
-# BESSIAS REJEITADO!
-
 **Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=I0BmRrRnqPQ)
 
 ## Resumo

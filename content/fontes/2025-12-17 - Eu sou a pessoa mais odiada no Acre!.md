@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=6h53bDS_oek"
 ---
 
-# Eu sou a pessoa mais odiada no Acre!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=6h53bDS_oek)**
 
 Vídeo em que Renan apresenta os indicadores críticos do Acre para defender sua proposta de converter o estado em **território federal** administrado por interventor — e repercute a reação furiosa do senador Petecão à ideia.

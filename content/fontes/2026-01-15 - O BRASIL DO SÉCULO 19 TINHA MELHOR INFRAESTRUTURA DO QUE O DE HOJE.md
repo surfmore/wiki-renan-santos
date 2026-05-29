@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=0gh_XBtSHIU"
 ---
 
-# O BRASIL DO SÉCULO 19 TINHA MELHOR INFRAESTRUTURA DO QUE O DE HOJE
-
 **Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=0gh_XBtSHIU)**
 
 ## Resumo

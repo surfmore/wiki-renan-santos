@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# MALAFAIA PEDE AJUDA PARA COMPRAR JATINHO
-
 Short que comenta a declaração do **pastor Silas Malafaia** pedindo aos fiéis apoio para **trocar o avião** da Associação Vitória em Cristo. O vídeo exibe um trecho em que o pastor diz que o avião "foi comprado em 2009", que ele "precisava de uma ferramenta, não para passear com a família, mas para trabalho", e que está "orando a Deus para abrir portas" para um avião mais novo.
 
 ## A postura de Renan

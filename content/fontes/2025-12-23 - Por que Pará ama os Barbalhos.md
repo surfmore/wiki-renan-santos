@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=S1_W-Vrbl70"
 ---
 
-# Por que Pará ama os Barbalhos
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=S1_W-Vrbl70)**
 
 Renan traça a genealogia da família Barbalho desde o período colonial até o governador atual, Hélder Barbalho, e usa o caso para questionar por que o Pará mantém uma das piores famílias do Brasil no poder há mais de um século.

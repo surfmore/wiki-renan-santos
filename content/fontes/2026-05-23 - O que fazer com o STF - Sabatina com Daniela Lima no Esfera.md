@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=epPZbh1j_as
 ---
 
-# O que fazer com o STF - Sabatina com Daniela Lima no Esfera
-
 Trecho da sabatina realizada pelo Fórum Esfera em 23/05/2026, com mediação da jornalista Daniela Lima (GloboNews), em que Renan expõe sua proposta de reforma do Judiciário.
 
 Renan defende que o STF deve cumprir **apenas o papel de guardião da Constituição** e de árbitro de temas abstratos de constitucionalidade — e não ser a última instância do processo legislativo, como é hoje. Critica o fato de ministros terem escritórios de advocacia ligados a eles fazendo negócios enquanto estão no cargo.

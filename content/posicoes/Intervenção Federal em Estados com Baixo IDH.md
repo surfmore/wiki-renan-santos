@@ -9,8 +9,6 @@ fontes:
   - "2026-01-09 - O Maior Carnaval do Brasil"
 ---
 
-# Intervenção Federal em Estados com Baixo IDH
-
 Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países africanos e gastam recursos federais em festas e projetos sem impacto real no desenvolvimento da população.
 
 ## Acre: intervenção como resposta à calamidade (maio de 2026)

@@ -9,8 +9,6 @@ fontes:
   - "2026-04-28 - Por que esquecem da minha existência"
 ---
 
-# Por que esquecem da minha existência
-
 **Canal:** Renan Santos | **Data:** 28/04/2026 | [YouTube](https://www.youtube.com/watch?v=v4kOSe1mftw)
 
 ## Resumo

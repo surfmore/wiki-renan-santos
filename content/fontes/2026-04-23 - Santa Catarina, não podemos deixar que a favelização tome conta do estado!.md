@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=EOzoBKTFxII"
 ---
 
-# Santa Catarina, não podemos deixar que a favelização tome conta do estado!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=EOzoBKTFxII)**
 
 Renan filma o bairro do Pinheirinho em Criciúma (SC) para demonstrar que a favelização e o domínio de facções criminosas avançam inclusive em estados considerados modelo de desenvolvimento.

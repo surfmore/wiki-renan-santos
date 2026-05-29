@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=N7DhYhFHBL0
 ---
 
-# Xandão derrubou a dosimetria
-
 Renan reage à decisão de Alexandre de Moraes de derrubar a dosimetria aprovada pelo Congresso para os condenados do 8 de Janeiro.
 
 Renan começa situando sua posição: ele sempre defendeu que os invasores dos prédios públicos deveriam ser punidos, e que Bolsonaro também deveria ser punido pelo que tramou. Portanto, não está protegendo bolsonaristas. Mas a decisão de Moraes é, segundo ele, "abusiva e sem sentido".

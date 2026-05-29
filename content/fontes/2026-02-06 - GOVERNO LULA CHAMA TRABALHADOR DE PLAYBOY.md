@@ -12,8 +12,6 @@ fontes:
   - "2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY"
 ---
 
-# Governo Lula Chama Trabalhador de Playboy
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=yZsZmCB58pY)**
 
 Renan comenta propaganda oficial do governo Lula que afirmava que quem ganha mais de R$ 5 mil por mês não tem opinião que importe — a propaganda foi removida após repercussão negativa.

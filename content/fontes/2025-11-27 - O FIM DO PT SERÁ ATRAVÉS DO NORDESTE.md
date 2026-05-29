@@ -12,8 +12,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=vayjq9xbUFs"
 ---
 
-# O FIM DO PT SERÁ ATRAVÉS DO NORDESTE!
-
 **Data:** 27 de novembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=vayjq9xbUFs

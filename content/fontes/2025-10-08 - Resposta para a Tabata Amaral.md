@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Resposta para a Tabata Amaral
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=wtxfmauiUeQ)**
 
 Renan Santos responde ao vídeo de **Tabata Amaral** sobre a polêmica em torno de casas na periferia que foram modificadas irregularmente pelos moradores ("puxadinhos"), usando o debate para apontar o que chama de duplo padrão da política progressista em relação à burocracia e à lei.

@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=dxBFifqxepo"
 ---
 
-# Quando que esses homens tiveram licença pra atacar mulheres desse jeito
-
 Renan critica o que caracteriza como **machismo de jornalistas gays contra mulheres de direita**, usando como caso central uma matéria do jornal O Globo assinada pelo jornalista **Leonardo Svarik**.
 
 ## O caso concreto

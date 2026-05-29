@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=k_qPZrdHfBk"
 ---
 
-# O que fazer com crackudo?
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=k_qPZrdHfBk)**
 
 Renan articula sua posição sobre usuários de crack em espaço público, respondendo ao argumento dos "direitos humanos" contra a internação compulsória.

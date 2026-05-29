@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# VOU PERDER MINHA CANDIDATURA? (aporofobia)
-
 Short provocado por um **processo movido por uma ONG** (descrita por ele como "Incrível ONG Favela") — e Renan diz que a acusação é de **aporofobia**, por ele ter afirmado publicamente que "favela não tem que existir", que "favela é uma porcaria" e que a propaganda da **Nike** que retrata o Brasil como um "favelão" era uma "favelagem". A ONG, segundo ele, pede esclarecimento formal e, no raciocínio que lê na ação, quer vê-lo perder "direitos políticos" ou "ir preso".
 
 ## A posição explícita

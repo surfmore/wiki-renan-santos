@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=vk1YmoAjq_g
 ---
 
-# Bora tomar detergente?
-
 Renan critica a tendência de parte da base de direita de adotar "histerias digitais" — como tomar detergente em protesto à marca Ypê — e usa o episódio para contrastar com o que chama de oposição séria.
 
 O contexto: internautas de direita estavam consumindo propositalmente o detergente Ypê e lavando frango com ele, em reação a alguma posição da marca. Renan se recusa a fazer o mesmo e alerta para os riscos de saúde e para o papel dos algoritmos na manipulação de pessoas mais velhas que não sabem bem usar o celular.

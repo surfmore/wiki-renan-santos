@@ -9,8 +9,6 @@ fontes:
   - "2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO!"
 ---
 
-# KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO!
-
 **Canal:** Renan Santos | **Data:** 4 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=NPIukCjQv68
 

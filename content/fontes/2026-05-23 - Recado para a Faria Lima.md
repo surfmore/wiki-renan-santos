@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=dJKuuL3PDmc
 ---
 
-# Recado para a Faria Lima
-
 Short em que Renan dirige um recado direto ao mercado financeiro — "a famosa galera da Faria Lima, a galera do patinete, do coletinho" — criticando o padrão de apostas políticas dos investidores e convidando-os a apoiar sua candidatura.
 
 Renan descreve o histórico de erros do mercado: apostaram em Tarcísio (que nem candidato foi), depois tentaram Ratinho, Leite, Zema — sempre iludidos com a ideia de que podem fabricar candidatos por meio de acordos com o centrão. Agora, com a derrocada de Flávio Bolsonaro, estão "desesperados" e o dólar subiu.

@@ -10,8 +10,6 @@ fontes:
   - "2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA"
 ---
 
-# DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA
-
 **Canal:** Renan Santos | **Data:** 23/03/2026
 **URL:** https://www.youtube.com/watch?v=n-NeSsmT6jc
 

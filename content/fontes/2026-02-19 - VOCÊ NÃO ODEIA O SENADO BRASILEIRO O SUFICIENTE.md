@@ -10,8 +10,6 @@ fontes:
   - "2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE"
 ---
 
-# Você Não Odeia o Senado Brasileiro o Suficiente
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=Z3jzGx5Ar9E) · Canal Renan Santos · Short · 19/02/2026
 
 ## Resumo

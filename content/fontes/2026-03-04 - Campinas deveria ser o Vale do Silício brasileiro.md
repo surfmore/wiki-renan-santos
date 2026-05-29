@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=rOL7S_5Y8qY"
 ---
 
-# Campinas deveria ser o Vale do Silício brasileiro
-
 Renan traça um diagnóstico da cidade de Campinas como exemplo de potencial desperdiçado por corrupção e má gestão política.
 
 ## O potencial de Campinas

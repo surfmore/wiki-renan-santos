@@ -9,8 +9,6 @@ fontes:
   - "2026-04-27 - Seu futuro pode ser diferente"
 ---
 
-# Seu futuro pode ser diferente
-
 **Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=Ut2uZZzLlIQ)
 
 ## Resumo

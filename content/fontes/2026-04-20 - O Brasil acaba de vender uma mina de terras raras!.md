@@ -8,8 +8,6 @@ video_id: 0HzVs48NQ1I
 url: "https://www.youtube.com/watch?v=0HzVs48NQ1I"
 ---
 
-# O Brasil acaba de vender uma mina de terras raras!
-
 **Data:** 20 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=0HzVs48NQ1I)

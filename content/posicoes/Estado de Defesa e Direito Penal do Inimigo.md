@@ -6,8 +6,6 @@ tags:
 date: 2026-04-11
 ---
 
-# Estado de Defesa e Direito Penal do Inimigo
-
 Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete **estado de defesa** para enfrentar militarmente o crime organizado, combinando a medida com uma legislação que chama de **"direito penal do inimigo"**.
 
 ## Mecânica

@@ -7,8 +7,6 @@ tags:
 date: 2026-04-07
 ---
 
-# Crítica à Direita Tradicional
-
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
 ## Direita inteira foi conivente com crimes da família Bolsonaro (maio de 2026)

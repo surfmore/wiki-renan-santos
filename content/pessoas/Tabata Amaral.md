@@ -10,8 +10,6 @@ fontes:
   - "2025-10-08 - Resposta para a Tabata Amaral"
 ---
 
-# Tabata Amaral
-
 Deputada federal, fundadora do **Movimento Democrático Brasileiro** (Solidariedade), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.

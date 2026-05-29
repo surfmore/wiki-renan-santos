@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Transformaram um presídio na Bahia em hotel de luxo!
-
 **Data:** 28 de maio de 2026
 **Canal:** Renan Santos
 **URL:** https://www.youtube.com/watch?v=kBFetGTLTnU

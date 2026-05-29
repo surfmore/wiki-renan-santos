@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# O PCC chegou no interior do Maranhão
-
 Gravado em **Vilinha**, um distrito de **Imperatriz (MA)**, Renan mostra marcações do **PCC** em muros do bairro, incluindo a lateral de uma escola municipal — a **Escola Municipal Professor José Queiroz** — recentemente palco de troca de tiros. Afirma que o PCC derrotou a facção rival local, tomou o bairro e agora controla a distribuição de drogas e a própria compra de votos por políticos da região.
 
 Constrói o contraste entre essa realidade e o que descreve como a preocupação dominante da política maranhense: uma disputa entre o **governador Brandão** e **Bright** sobre "quem faz o melhor carnaval do Maranhão". Usa o episódio para reforçar sua proposta de intervenção em regime de [[posicoes/Estado de Defesa e Direito Penal do Inimigo|estado de defesa]], aplicável inicialmente a bairros e cidades específicas do Maranhão e do restante do país.

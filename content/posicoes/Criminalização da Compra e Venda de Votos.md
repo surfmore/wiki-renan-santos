@@ -6,8 +6,6 @@ tags:
 date: 2026-04-12
 ---
 
-# Criminalização da Compra e Venda de Votos
-
 Renan Santos defende endurecimento penal para quem participa da compra e venda de votos em eleições municipais, tema levantado a partir do caso de Santa Inês, no Maranhão.
 
 ## A proposta

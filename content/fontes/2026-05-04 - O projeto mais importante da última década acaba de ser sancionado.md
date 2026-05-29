@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=_7Q2c6QnNik"
 ---
 
-# O projeto mais importante da última década acaba de ser sancionado
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=_7Q2c6QnNik)**
 
 Renan comemora a sanção do projeto de lei de Kim Kataguiri que aumenta as penas para roubo, furto e receptação, com foco especial em celulares.

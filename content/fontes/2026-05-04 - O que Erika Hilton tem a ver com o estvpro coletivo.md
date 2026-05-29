@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=G61Xsb3UNKU"
 ---
 
-# O que Erika Hilton tem a ver com o estupro coletivo
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=G61Xsb3UNKU)**
 
 Renan relaciona o crime de abuso sexual coletivo contra duas crianças em São Miguel Paulista (SP) com as votações da deputada Érika Hilton e do PT contra leis penais mais duras.

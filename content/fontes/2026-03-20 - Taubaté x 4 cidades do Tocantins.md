@@ -10,8 +10,6 @@ fontes:
   - "2026-03-20 - Taubaté x 4 cidades do Tocantins"
 ---
 
-# Taubaté x 4 cidades do Tocantins
-
 **Canal:** Renan Santos | **Data:** 20/03/2026
 **URL:** https://www.youtube.com/watch?v=v4toIr1sHng
 

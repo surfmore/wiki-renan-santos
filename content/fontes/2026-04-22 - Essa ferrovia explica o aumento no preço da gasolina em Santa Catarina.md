@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Essa ferrovia explica o aumento no preço da gasolina em Santa Catarina
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=1Bo8yyvyEdM)**
 
 Renan Santos grava em Lajes (SC), em frente a uma estação ferroviária abandonada, para explicar como o desmonte da malha logística no estado encareceu a gasolina e como isso se conecta ao desequilíbrio do pacto federativo.

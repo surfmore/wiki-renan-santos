@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=IswxXzdFMQI"
 ---
 
-# CUNHADO DE VORCARO, FABIANO ZETTEL, É PRESO EM DESDOBRAMENTO DO CASO BANCO MASTER
-
 **Data:** 14 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=IswxXzdFMQI)**
 
 ## Resumo

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=_IGnI5ALaO4
 ---
 
-# 6,9% DISPAREI NA ATLAS
-
 Renan Santos comemora nova pesquisa do Atlas Intel que o coloca em 6,9% das intenções de voto, consolidado em terceiro lugar, com Flávio Bolsonaro em queda livre.
 
 ## Os números

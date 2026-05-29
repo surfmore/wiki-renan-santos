@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Essa cova foi cavada a mão
-
 Renan visita a cidade de Santa Inês, no Maranhão, e mostra uma cova rasa que os familiares de Raimunda Irene Penha tiveram que cavar à mão, com baldes, por falta de estrutura mínima no cemitério municipal. Usa a cena como símbolo do descaso do poder público com a população pobre.
 
 Contrasta a alegação de falta de recursos com o gasto de R$ 1,3 milhão pela prefeitura para um show do cantor Wesley Safadão. Cita que o prefeito — apelidado de "Felipe dos Pneus" — está envolvido em escândalo de corrupção que apura R$ 55 milhões em desvios na área da saúde, além de investigações na educação, e mesmo assim foi reeleito.

@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=Ca2iMDKpnD0"
 ---
 
-# NOSSO INIMIGO É O BRASIL IMPRODUTIVO
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=Ca2iMDKpnD0)**
 
 Vídeo em que Renan articula sua tese central sobre a clivagem política brasileira: não é entre bolsonaristas e petistas, mas entre o Brasil que produz e o Brasil improdutivo — e propõe uma aliança interregional dos trabalhadores.

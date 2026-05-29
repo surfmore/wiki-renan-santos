@@ -15,8 +15,6 @@ fontes:
   - "2025-12-04 - O legado da COP30"
 ---
 
-# COP30 — Legado em Belém
-
 A **COP30** foi realizada em **Belém (PA)** em novembro de 2025, com custo declarado por Renan de mais de **R$ 4 bilhões** pagos pelo Brasil. Renan Santos usa o balanço do evento como símbolo de governo populista que usa o dinheiro público para propaganda enquanto a população local vive na miséria.
 
 > Nota: esta página reproduz as críticas de Renan Santos sobre o evento. Não constitui avaliação independente.

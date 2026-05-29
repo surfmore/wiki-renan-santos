@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Você sabe o que é Feedback Loop?
-
 Renan usa o vídeo para explicar o conceito de feedback loop e aplicá-lo à cobertura que está recebendo da imprensa. Afirma que a Folha de S. Paulo o retirou dos cenários de segundo turno do Datafolha e que a Globo não o exibe ao noticiar a pesquisa.
 
 Explica que feedback loop é um sistema que se retroalimenta — positiva ou negativamente. No caso de uma pré-candidatura, aparecer bem numa pesquisa leva a mais buscas, mais matérias e melhor desempenho na pesquisa seguinte. Ele diz que foi exatamente o que aconteceu após a pesquisa da AtlasIntel.

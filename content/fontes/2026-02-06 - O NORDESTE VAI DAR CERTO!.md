@@ -12,8 +12,6 @@ fontes:
   - "2026-02-06 - O NORDESTE VAI DAR CERTO!"
 ---
 
-# O Nordeste Vai Dar Certo!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=BLPHGMVMjxY)**
 
 Renan faz um balanço positivo da sua viagem pelo Nordeste, listando exemplos concretos de produção, empreendedorismo e potencial econômico que viu pessoalmente.

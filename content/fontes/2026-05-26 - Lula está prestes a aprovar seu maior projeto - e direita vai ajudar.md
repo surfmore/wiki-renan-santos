@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Lula está prestes a aprovar seu maior projeto - e direita vai ajudar
-
 Vídeo de 26 de maio de 2026, gravado enquanto a PEC do fim da escala 6x1 estava na pauta do Congresso Nacional. Renan critica a decisão do PL de votar a favor da medida e apresenta dados sobre os impactos econômicos previstos.
 
 *Nota: a transcrição automática apresentou triplicação de linhas — o conteúdo foi extraído desconsiderando as repetições.*

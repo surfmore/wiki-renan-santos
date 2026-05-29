@@ -11,8 +11,6 @@ fontes:
   - "2026-03-11 - Vim no resort do Toffoli mostrar a parte de jogos que tentaram esconder"
 ---
 
-# Infraestrutura e Estradas no Paraná
-
 ## O diagnóstico: um estado produtivo com infraestrutura de terceiro mundo
 
 Renan visita o Paraná e compara seus números econômicos com sua infraestrutura física. O Paraná tem o **4º PIB do Brasil** com apenas 11 milhões de habitantes. A terra vermelha do Paraná é comparada à Ucrânia em produtividade agrícola. A região Oeste, em Cascavel, cresceu **12% no último ano** — muito acima da média nacional.

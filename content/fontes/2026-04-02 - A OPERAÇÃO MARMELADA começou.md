@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# A OPERAÇÃO MARMELADA começou
-
 Short dedicado inteiramente ao [[eventos/Escândalo Banco Master]]. Renan acusa uma operação orquestrada a partir do STF para **esvaziar a delação premiada de Daniel Vorcaro**, e chama o movimento de "operação marmelada".
 
 ## O que teria saído na Folha

@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# MEU POVO DO PARÁ
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=bBFPVJ7h5OI)**
 
 Renan Santos critica o eleitorado do Pará por liderar nas pesquisas de governo do estado um candidato envolvido em escândalo de desvio de emendas — apresentado como suposta alternativa à oligarquia dos **[[pessoas/Família Barbalho|Barbalhos]]**.

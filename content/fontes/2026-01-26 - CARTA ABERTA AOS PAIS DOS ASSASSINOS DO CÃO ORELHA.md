@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=Y1p9jBDWJGc"
 tipo: short
 ---
 
-# CARTA ABERTA AOS PAIS DOS ASSASSINOS DO CÃO ORELHA
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=Y1p9jBDWJGc)**
 
 Renan Santos dirige-se diretamente aos pais dos jovens que mataram e torturaram o cão Orelha em Florianópolis. Faz questão de demarcar: não está pedindo linchamento nem organizando uma cruzada, mas exigindo que os pais reconheçam a gravidade do que os filhos fizeram.

@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=tXpSvgNN9wM"
 tipo: short
 ---
 
-# Não sabiam que eu estava ouvindo…
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=tXpSvgNN9wM)**
 
 Vídeo de interação espontânea de rua em que Renan Santos, não identificado inicialmente, ouve um grupo de pessoas discutindo política e depois se revela como o pré-candidato às propostas que eles acabavam de elogiar.

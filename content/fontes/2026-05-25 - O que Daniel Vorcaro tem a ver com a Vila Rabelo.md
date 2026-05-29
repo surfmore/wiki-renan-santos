@@ -13,8 +13,6 @@ url: "https://www.youtube.com/watch?v=UlHjV7NsyJk"
 tipo: short
 ---
 
-# O que Daniel Vorcaro tem a ver com a Vila Rabelo
-
 **Data:** 25 de maio de 2026 | **Canal:** Renan Santos | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=UlHjV7NsyJk
 

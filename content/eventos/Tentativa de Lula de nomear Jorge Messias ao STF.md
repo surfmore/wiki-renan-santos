@@ -12,8 +12,6 @@ fontes:
   - "2026-04-29 - BESSIAS REJEITADO!"
 ---
 
-# Tentativa de Lula de nomear Jorge Messias ao STF
-
 Episódio de **abril de 2026** em que Lula tentou emplacar **Jorge Messias** como ministro do STF — seu terceiro advogado pessoal na Corte — e foi derrotado pela primeira vez na história do PT pelo próprio centrão.
 
 ## O padrão dos advogados pessoais de Lula no STF

@@ -7,8 +7,6 @@ tags:
 date: 2026-05-25
 ---
 
-# Propostas de Governo — Comparativo por Área
-
 Compilação das propostas concretas de Renan Santos documentadas em seus vídeos, organizadas por área temática. Cada proposta inclui link para o vídeo onde foi apresentada. **Este é um registro das falas do Renan, não um programa oficial de governo.** As propostas foram extraídas entre setembro de 2025 e maio de 2026 e podem ter sido detalhadas ou refinadas ao longo do tempo — quando há evolução relevante, ela é indicada.
 
 ## Como ler esta página

@@ -10,8 +10,6 @@ fontes:
   - "2025-11-17 - O Brasil está sendo humilhado!"
 ---
 
-# O Brasil está sendo humilhado!
-
 **Canal:** Renan Santos | **Data:** 17 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=af69uDVt5lA
 

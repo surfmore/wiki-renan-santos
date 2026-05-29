@@ -10,8 +10,6 @@ fontes:
   - "2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL"
 ---
 
-# NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
-
 **Canal:** Renan Santos | **Data:** 23/03/2026
 **URL:** https://www.youtube.com/watch?v=fuHLAtUfAEo
 

@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=3VU4PSW6mfM"
 tipo: short
 ---
 
-# Ele foi pego confessando corrupção. Vazou tudo!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=3VU4PSW6mfM)**
 
 Renan exibe um vídeo vazado de um **deputado estadual do Mato Grosso** (partido Republicanos) comemorando ao telefone contratos obtidos em licitações fraudulentas, e usa o caso para descrever o ciclo típico da corrupção municipal no Brasil.

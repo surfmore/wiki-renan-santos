@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=Yc4kyYrFWCA
 ---
 
-# Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora
-
 Renan reage ao vazamento do áudio entre Flávio Bolsonaro e Daniel Vorcaro. No áudio, Flávio cita que o próprio Vorcaro teria lhe dado "liberdade para cobrar" e pede dinheiro para pagar contas — além de agradecer os R$ 60 milhões recebidos para o filme "Dark Horse".
 
 **Nota:** este vídeo e [[fontes/2026-05-13 - VAZA ÁUDIO ENTRE DANIEL VORCARO E FLÁVIO BOLSONARO]] têm transcrições praticamente idênticas, com mínimas variações de pontuação. Provavelmente são o mesmo vídeo publicado com dois títulos diferentes ou versões levemente distintas do mesmo conteúdo.

@@ -7,8 +7,6 @@ tags:
 date: 2026-04-13
 ---
 
-# Escândalo Banco Master
-
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
 
 ## Valdemar confirma que Flávio foi cobrar Vorcaro (maio de 2026)

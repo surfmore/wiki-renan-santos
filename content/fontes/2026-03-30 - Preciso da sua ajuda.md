@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Preciso da sua ajuda
-
 Short dedicado a um **pedido de doações** para estruturar a pré-campanha. Renan começa com uma declaração forte — "este aqui pode ser o fim da minha pré-campanha para presidente da República" — e esclarece logo em seguida que "não é clickbait".
 
 ## Contexto da pré-campanha

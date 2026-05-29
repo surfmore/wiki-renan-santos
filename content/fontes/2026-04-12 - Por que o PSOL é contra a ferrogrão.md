@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Por que o PSOL é contra a ferrogrão
-
 Renan comenta a ação movida pelo PSOL e ONGs indígenas no STF para barrar a construção da Ferrogrão, citando relatório da FUNAI sobre impacto sobre tribo localizada a 160 km da ferrovia. Argumenta que o caso é, na prática, um episódio de "interferência estrangeira no solo nacional".
 
 Nomeia as entidades que assinam a ação ao lado do PSOL — Instituto Kabu, APIB (Articulação dos Povos Indígenas do Brasil) e ISA (Instituto Socioambiental) — e detalha fontes de financiamento que cada uma recebe: Fundo Amazônia (com contribuições de Noruega e Alemanha), ator Leonardo DiCaprio, Fundação Gordon & Betty Moore, embaixadas de Noruega e Alemanha, Amazon Watch, União Europeia.

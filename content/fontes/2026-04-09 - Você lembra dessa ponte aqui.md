@@ -11,8 +11,6 @@ video_id: nmoUUsiUEG8
 url: "https://www.youtube.com/watch?v=nmoUUsiUEG8"
 ---
 
-# Você lembra dessa ponte aqui?
-
 Short gravado na **ponte de Estreito**, que liga Tocantins ao Maranhão. Em 2024, a antiga ponte do local desabou e matou 14 pessoas. Renan visita o memorial e denuncia o descaso histórico com a infraestrutura da região.
 
 ## Resumo

@@ -10,8 +10,6 @@ fontes:
   - "2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina"
 ---
 
-# Eu fui em uma favela de venezuelanos em Londrina
-
 **Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=2MyB4e_w3KM)
 
 ## Resumo

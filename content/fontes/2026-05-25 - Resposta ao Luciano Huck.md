@@ -13,8 +13,6 @@ url: "https://www.youtube.com/watch?v=-hQvE1_fuU8"
 tipo: short
 ---
 
-# Resposta ao Luciano Huck
-
 **Data:** 25 de maio de 2026 | **Canal:** Renan Santos | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=-hQvE1_fuU8
 

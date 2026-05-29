@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=fjc1yCEwvwg
 ---
 
-# O Brasil odeia seus heróis
-
 Renan Santos reage à morte de **Felipe Marques Monteiro**, policial que havia sido baleado na cabeça durante operação policial em helicóptero, e ao fato de que sua morte quase não teve cobertura — enquanto a soltura do rapper MC Rian virou assunto nas redes sociais.
 
 ## Felipe Marques Monteiro

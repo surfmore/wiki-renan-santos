@@ -12,8 +12,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=ahC2GynzJ6U"
 ---
 
-# Sobre a prisão do Bolsonaro
-
 **Data:** 22 de novembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=ahC2GynzJ6U

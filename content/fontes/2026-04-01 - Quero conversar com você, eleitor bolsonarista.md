@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Quero conversar com você, eleitor bolsonarista
-
 Carta aberta gravada, endereçada a quem votou em Jair Bolsonaro em 2018. Renan se propõe um **"papo reto, sem frescura e puxação de saco"**, e não a "enfiar o dedo" no eleitor — mas a apresentar uma alternativa.
 
 ## O "inventário" contra Flávio Bolsonaro

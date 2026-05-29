@@ -8,8 +8,6 @@ tags:
 date: 2026-02-24
 ---
 
-# Desfile do Carnaval 2026 e Escola de Samba Pró-Lula
-
 Episódio do carnaval de 2026 em que uma escola de samba homenageou o presidente Lula no desfile da Sapucaí, transmitido em cadeia nacional pela Rede Globo. O governo apostou no carnaval como peça de marketing eleitoral e colheu uma série de consequências negativas.
 
 ## O que aconteceu

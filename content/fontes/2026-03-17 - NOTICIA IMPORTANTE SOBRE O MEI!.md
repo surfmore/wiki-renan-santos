@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=jevS8LQhuNA"
 tipo: short
 ---
 
-# NOTICIA IMPORTANTE SOBRE O MEI!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=jevS8LQhuNA)**
 
 Renan defende a aprovação no Congresso da **correção do limite do MEI** (Microempreendedor Individual), criticando o bloqueio do governo Haddad e enquadrando o debate como PT contra quem trabalha.

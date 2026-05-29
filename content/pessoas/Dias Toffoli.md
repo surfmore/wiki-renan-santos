@@ -21,8 +21,6 @@ fontes:
   - "2025-12-09 - Se o Vorcaro abrir a boca, o Brasil acaba"
 ---
 
-# Dias Toffoli
-
 Ministro do Supremo Tribunal Federal, indicado ao cargo em 2009 pelo presidente Lula. Renan Santos o trata como o centro da rede de relações entre o STF e o [[eventos/Escândalo Banco Master]], e como um dos alvos prioritários de seu pedido de impeachment.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.

@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=8Q5d1v32kY4"
 tipo: short
 ---
 
-# O NORDESTE PRECISA SUPERAR O PT
-
 **Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=8Q5d1v32kY4)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Erika Hilton atacou o MBL
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=P9TRV_eljHo)**
 
 Renan Santos responde ao ataque de **Erika Hilton** (PSOL) à proposta de desfavelização do MBL, aproveitando para expor o que descreve como a relação estrutural entre o PSOL e o crime organizado.

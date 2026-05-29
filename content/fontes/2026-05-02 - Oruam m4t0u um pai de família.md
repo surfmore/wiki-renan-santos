@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=c7ZE0WqI2m4"
 ---
 
-# Oruam matou um pai de família
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=c7ZE0WqI2m4)**
 
 Renan usa o assassinato de um pai de 28 anos durante um assalto — diante do filho de 7 anos — para denunciar a cadeia de responsabilidade que, na sua leitura, liga a normalização do crime ao rapper Oruam, à mídia e ao governo.

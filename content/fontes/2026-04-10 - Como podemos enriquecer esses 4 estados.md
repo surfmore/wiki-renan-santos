@@ -11,8 +11,6 @@ video_id: 3NMEQvGX2kM
 url: "https://www.youtube.com/watch?v=3NMEQvGX2kM"
 ---
 
-# Como podemos enriquecer esses 4 estados
-
 Short gravado em uma lavoura de milho no sul do Maranhão. Renan defende o **Matopiba** (Maranhão, Tocantins, Piauí e oeste da Bahia) como motor de desenvolvimento do Nordeste e explica sua estratégia para o agronegócio brasileiro.
 
 ## Resumo

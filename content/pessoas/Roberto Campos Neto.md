@@ -15,8 +15,6 @@ fontes:
   - "2025-12-09 - Se o Vorcaro abrir a boca, o Brasil acaba"
 ---
 
-# Roberto Campos Neto
-
 **Quem é:** Ex-presidente do Banco Central do Brasil (governo Bolsonaro). Para Renan Santos, é um dos personagens centrais no [[eventos/Escândalo Banco Master]] — o regulador que teve nas mãos a oportunidade de frear o esquema e não o fez, e que seria o futuro ministro da Fazenda de **Tarcísio de Freitas**.
 
 > "Roberto Campos Neto é parte do esquema do Banco Master."

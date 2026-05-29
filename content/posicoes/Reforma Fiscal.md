@@ -6,8 +6,6 @@ tags:
 date: 2026-04-13
 ---
 
-# Reforma Fiscal
-
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras.
 
 ## Números apresentados

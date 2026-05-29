@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=eb9Y50Y42Cg"
 tipo: short
 ---
 
-# PLAYBOYS MATARAM O ORELHA EM SC
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=eb9Y50Y42Cg)**
 
 Vídeo em que Renan Santos apresenta ao público o caso do cão Orelha, nomeando os envolvidos e as famílias que estariam acobertando o crime.

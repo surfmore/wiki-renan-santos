@@ -9,8 +9,6 @@ fontes:
   - "2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF"
 ---
 
-# URGENTE! Lula quer fazer de tudo para eleger Bessias no STF
-
 **Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=5tk9-JMozaE)
 
 ## Resumo

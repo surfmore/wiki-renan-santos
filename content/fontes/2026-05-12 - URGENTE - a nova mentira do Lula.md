@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=0ICsuO-_TI8
 ---
 
-# URGENTE - a nova mentira do Lula
-
 Renan responde à revogação da taxa das importações de baixo valor ("taxa das blusinhas") por Lula, classificando o ato como fraude eleitoral — apresentar como presente algo que o próprio governo criou.
 
 O argumento de Renan: a taxa das blusinhas foi imposta pelo governo Lula em 2023 — com o argumento de industrializar o Brasil e sem custo ao consumidor. Ambas as promessas eram mentira: a taxação foi repassada aos preços e nenhuma industrialização ocorreu. O real objetivo era arrecadação para cobrir os gastos do governo.

@@ -9,8 +9,6 @@ fontes:
   - "2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso"
 ---
 
-# Quem rouba a mão armada precisa ficar MUITO preso
-
 **Canal:** Renan Santos | **Data:** 24/03/2026
 **URL:** https://www.youtube.com/watch?v=xI3WzYrydzs
 

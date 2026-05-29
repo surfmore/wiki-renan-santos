@@ -8,8 +8,6 @@ fontes:
   - "2025-10-30 - QUEM TROCA TIRO COM A POLÍCIA MERECE O QUE"
 ---
 
-# QUEM TROCA TIRO COM A POLÍCIA MERECE O QUE¿
-
 **Canal:** Renan Santos | **Data:** 30 de outubro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=n2exFEqWfnk
 

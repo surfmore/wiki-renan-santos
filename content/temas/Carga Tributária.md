@@ -6,8 +6,6 @@ tags:
 date: 2026-04-13
 ---
 
-# Carga Tributária
-
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
 ## Taxa das blusinhas: criada para arrecadar, revogada como "presente" eleitoral (maio de 2026)

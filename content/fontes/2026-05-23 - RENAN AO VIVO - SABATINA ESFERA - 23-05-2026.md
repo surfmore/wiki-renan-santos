@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=Mjrt13Iq9Gc
 ---
 
-# RENAN AO VIVO - SABATINA ESFERA - 23-05-2026
-
 Live da sabatina promovida pelo Fórum Esfera em 23/05/2026, com mediação da jornalista Daniela Lima (GloboNews). O formato reuniu três pré-candidatos: Renan Santos (Partido Missão), Aldo Rebelo (Democracia Cristã) e Ronaldo Caiado (PSD) — este último não compareceu por problemas no aeroporto. Inclui debate entre Renan e Aldo Rebelo e coletiva de imprensa pós-evento.
 
 **Reforma do Judiciário:**

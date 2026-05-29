@@ -11,8 +11,6 @@ fontes:
   - "2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS"
 ---
 
-# Transparência Digital e Anticorrupção
-
 Renan Santos defende o uso de inteligência artificial e cruzamento de bases de dados públicas como principal ferramenta de combate à corrupção — mais eficiente e mais barato do que estruturas burocráticas de fiscalização.
 
 ## A ferramenta "Aceleracionismo Brasileiro"

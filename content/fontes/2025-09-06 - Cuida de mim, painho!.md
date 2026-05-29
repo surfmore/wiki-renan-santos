@@ -14,8 +14,6 @@ tags:
   - assistencialismo
 ---
 
-# Cuida de mim, painho!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=OqWYCv0I-8w)**
 
 Crítica ao governo Lula e ao PT, com foco no assistencialismo como substituto do desenvolvimento. Renan dirige-se a sua geração (cerca de 40 anos) e lamenta que parte dela tenha sido governada pelo PT.

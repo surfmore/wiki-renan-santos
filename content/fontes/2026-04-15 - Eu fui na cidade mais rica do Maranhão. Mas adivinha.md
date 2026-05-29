@@ -13,8 +13,6 @@ tags:
   - desigualdade-regional
 ---
 
-# Eu fui na cidade mais rica do Maranhão. Mas adivinha?
-
 Vídeo gravado em **Santo Antônio dos Lopes (MA)**, durante a viagem de Renan Santos ao Maranhão em abril de 2026. A cidade é descrita como a de maior renda per capita do estado, mas com um IDH que contradiz essa riqueza.
 
 ## Resumo

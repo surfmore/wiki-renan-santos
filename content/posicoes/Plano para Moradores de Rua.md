@@ -7,8 +7,6 @@ tags:
 date: 2026-04-01
 ---
 
-# Plano para Moradores de Rua
-
 Conjunto de **sete propostas articuladas** apresentadas por Renan Santos para enfrentar a situação dos moradores de rua no Brasil. O pacote foi apresentado em resposta a uma acusação pública de que Renan "odiaria mendigos" — e ele reformula a posição dizendo que **"não acha que tenha que ter morador de rua"** e, por isso, quer "acabar com isso".
 
 ## As 7 propostas
@@ -62,4 +60,4 @@ Renan reafirma a proposta de legislação federal que **impeça a permanência n
 ## Fontes
 
 - [[fontes/2026-04-23 - O que fazer com crackudo]] — internação compulsória de usuários de crack; ONG "Crack Resiste"; vacina do crack
-- [[fontes/2026-04-01 - Eu odeio mendigo]] — enunciaç�
+- [[fontes/2026-04-01 - Eu odeio mendigo]] — enunciaç�

@@ -9,8 +9,6 @@ fontes:
   - "2026-01-01 - Estou processando o Senado"
 ---
 
-# Reforma do Senado Federal
-
 Renan Santos propõe uma discussão sobre a necessidade de reformar ou extinguir o Senado Federal, a partir do escândalo de bônus irregulares concedidos a 800 funcionários no início de 2026.
 
 ## A ação judicial

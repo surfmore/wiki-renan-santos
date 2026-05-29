@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=vYsZOi5Ipbc"
 ---
 
-# POSSO SER PRESO POR FALAR ISSO SOBRE O BANCO MASTER
-
 **Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=vYsZOi5Ipbc)**
 
 ## Resumo

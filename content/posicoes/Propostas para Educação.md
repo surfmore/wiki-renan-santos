@@ -9,8 +9,6 @@ fontes:
   - "2026-03-11 - 7 propostas para a educação!"
 ---
 
-# Propostas para a Educação
-
 Renan apresentou sete propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico e corte de gastos ineficientes. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
 
 ## As 7 propostas

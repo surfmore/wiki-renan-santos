@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=FLE-eXMCOZg"
 ---
 
-# Flávio Bolsonaro rachou a direita
-
 **Data:** 6 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=FLE-eXMCOZg

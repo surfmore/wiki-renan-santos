@@ -10,8 +10,6 @@ url: "https://www.youtube.com/watch?v=qtEX8IzOqNg"
 tipo: short
 ---
 
-# ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA
-
 **Data:** 5 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=qtEX8IzOqNg)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

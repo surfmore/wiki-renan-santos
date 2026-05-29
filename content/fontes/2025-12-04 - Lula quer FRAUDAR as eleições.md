@@ -12,8 +12,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=_pALlrEEVG0"
 ---
 
-# Lula quer FRAUDAR as eleições
-
 **Data:** 4 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=_pALlrEEVG0

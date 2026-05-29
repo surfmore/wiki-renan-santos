@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Gilmar Mendes perdeu o controle!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=K1tvvGyvjvU)**
 
 Renan Santos comenta uma entrevista do ministro **Gilmar Mendes** à jornalista Renata Lopret em que o ministro afirma que o caso Banco Master "tem endereço na Faria Lima", não na Praça dos Três Poderes. Renan interpreta a fala como uma tentativa de blindar o STF da investigação.

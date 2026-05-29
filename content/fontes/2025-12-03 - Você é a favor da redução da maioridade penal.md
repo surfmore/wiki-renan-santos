@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=Jz-eR08WxW4"
 ---
 
-# Você é a favor da redução da maioridade penal
-
 **Data:** 3 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=Jz-eR08WxW4

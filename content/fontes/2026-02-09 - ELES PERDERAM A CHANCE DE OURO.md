@@ -12,8 +12,6 @@ fontes:
   - "2026-02-09 - ELES PERDERAM A CHANCE DE OURO"
 ---
 
-# Eles Perderam a Chance de Ouro
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=obiKtNIhac8)**
 
 Renan documenta que tanto a esquerda quanto a direita se recusam a explorar o escândalo do Banco Master — cada uma por ter seus próprios ranchos sujos envolvidos.

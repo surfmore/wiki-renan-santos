@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=UqaKq0S2oog"
 ---
 
-# PRECISAMOS FALAR SOBRE O WAGNER MOURA
-
 **Canal:** Renan Santos | **Data:** 13 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=UqaKq0S2oog
 

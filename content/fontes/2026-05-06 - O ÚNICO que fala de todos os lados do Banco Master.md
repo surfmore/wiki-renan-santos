@@ -8,8 +8,6 @@ fontes:
   - "2026-05-06 - O ÚNICO que fala de todos os lados do Banco Master"
 ---
 
-# O ÚNICO que fala de todos os lados do Banco Master
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=aDNxJ1Ir9SM) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo

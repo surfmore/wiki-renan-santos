@@ -12,8 +12,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=r73B5WO-ShI"
 ---
 
-# MULHER CONTA COMO É A REALIDADE EM BELÉM
-
 **Data:** 21 de novembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=r73B5WO-ShI

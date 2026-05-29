@@ -10,8 +10,6 @@ fontes:
   - "2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL!"
 ---
 
-# Propostas para a Saúde
-
 Renan apresentou oito propostas para reformar a saúde pública brasileira, com foco em prevenção, tecnologia e gestão por resultado. Ponto de partida: "O Brasil só tem gente gorda e doente que come muito mal."
 
 ## As 8 propostas

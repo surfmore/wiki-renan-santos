@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Kim derrubou MP 1303 no Lula
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=1J5BdDv6quk)**
 
 Renan Santos comemora a derrubada, pelo deputado **Kim Kataguiri**, da **Medida Provisória 1303/25** do governo Lula por meio de requerimento aprovado na Câmara.

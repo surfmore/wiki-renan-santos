@@ -8,8 +8,6 @@ video_id: m_KWj_Av1_g
 url: "https://www.youtube.com/watch?v=m_KWj_Av1_g"
 ---
 
-# Eu de extrema-direita¿
-
 **Data:** 18 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=m_KWj_Av1_g)

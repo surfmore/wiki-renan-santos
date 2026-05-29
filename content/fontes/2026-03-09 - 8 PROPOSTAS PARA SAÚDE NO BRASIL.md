@@ -9,8 +9,6 @@ fontes:
   - "2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL!"
 ---
 
-# 8 PROPOSTAS PARA SAÚDE NO BRASIL!
-
 **Canal:** Renan Santos | **Data:** 9 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=uuT9qLq9m8A)
 
 ## Resumo

@@ -10,8 +10,6 @@ fontes:
   - "2025-12-03 - Você é a favor da redução da maioridade penal"
 ---
 
-# Redução da Maioridade Penal e Hospitais Psiquiátricos
-
 Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que considera irrecuperáveis: a redução efetiva da maioridade penal para crimes violentos e a restauração do sistema de internação psiquiátrica compulsória.
 
 ## Redução da maioridade penal

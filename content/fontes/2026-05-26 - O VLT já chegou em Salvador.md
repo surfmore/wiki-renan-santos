@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# O VLT já chegou em Salvador
-
 Vídeo de 26 de maio de 2026. Parte da série que Renan denomina "Como o PT destruiu a Bahia." Renan analisa o VLT de Salvador — obra orçada em R$1 bilhão que já custou mais de R$5 bilhões e ainda não está operacional — como símbolo do padrão de gestão do PT na Bahia.
 
 *Nota: a transcrição automática apresentou triplicação de linhas — o conteúdo foi extraído desconsiderando as repetições.*

@@ -9,8 +9,6 @@ fontes:
   - "2026-04-29 - Café com teu pai"
 ---
 
-# Café com teu pai
-
 **Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=Lm1A75KoEr4)
 
 ## Resumo

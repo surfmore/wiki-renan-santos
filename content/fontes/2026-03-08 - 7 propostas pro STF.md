@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=ojYTVkCMIoU"
 ---
 
-# 7 propostas pro STF
-
 Renan apresenta sete propostas concretas para reformar o Supremo Tribunal Federal que pretende encaminhar como presidente da República.
 
 ## Diagnóstico inicial

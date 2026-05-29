@@ -10,8 +10,6 @@ fontes:
   - "2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA"
 ---
 
-# BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA
-
 **Canal:** Renan Santos | **Data:** 10 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=LhwZrhS3KBM)
 
 ## Resumo

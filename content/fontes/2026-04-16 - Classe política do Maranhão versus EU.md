@@ -8,8 +8,6 @@ video_id: aSiaXOLdaW8
 url: "https://www.youtube.com/watch?v=aSiaXOLdaW8"
 ---
 
-# Classe política do Maranhão versus EU
-
 **Data:** 16 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=aSiaXOLdaW8)

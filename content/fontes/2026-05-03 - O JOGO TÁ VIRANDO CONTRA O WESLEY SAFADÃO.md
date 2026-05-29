@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=OrOzI9nc8wA"
 ---
 
-# O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=OrOzI9nc8wA)**
 
 Renan comemora que o Ministério Público de Contas da Paraíba protocolou ação contra o pagamento do cachê de Wesley Safadão em show na cidade de Coxixola (PB).

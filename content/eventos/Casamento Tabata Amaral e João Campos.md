@@ -8,8 +8,6 @@ tags:
 date: 2026-02-24
 ---
 
-# Casamento Tabata Amaral e João Campos
-
 O casamento em fevereiro de 2026 entre a deputada federal **Tabata Amaral** e o prefeito do Recife **João Campos** é usado por Renan Santos como ilustração de como o poder político e financeiro se reproduz via alianças matrimoniais e proteção mútua, com a presença do ministro **Alexandre de Moraes** como símbolo da cumplicidade do STF.
 
 ## Os personagens

@@ -10,8 +10,6 @@ fontes:
   - "2025-11-12 - Você votaria numa proposta dessas"
 ---
 
-# Você votaria numa proposta dessas¿
-
 **Canal:** Renan Santos | **Data:** 12 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=hMXhulwzAk4
 

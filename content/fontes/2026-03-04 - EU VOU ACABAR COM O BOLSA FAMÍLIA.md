@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=JUh6vk4qKJQ"
 ---
 
-# EU VOU ACABAR COM O BOLSA FAMÍLIA
-
 Renan apresenta sua proposta de substituir o Bolsa Família por frentes de trabalho, detalhando a mecânica e a inspiração histórica.
 
 ## O diagnóstico

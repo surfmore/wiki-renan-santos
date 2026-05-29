@@ -14,8 +14,6 @@ tags:
   - manifestação
 ---
 
-# O maior escândalo de corrupção — pode derrubar o STF
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=_N57rUrxi_M)**
 
 Short gravado durante o carnaval de 2026, convocando manifestações contra Toffoli e o STF no contexto do escândalo do Banco Master.

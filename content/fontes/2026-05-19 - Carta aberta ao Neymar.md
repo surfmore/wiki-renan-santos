@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=wAkjZ80tVk0
 ---
 
-# Carta aberta ao Neymar
-
 Após a convocação de Neymar para a Copa do Mundo, Renan Santos dirige-se diretamente ao jogador para falar sobre as consequências do seu "estilo de vida" e da sua "constelação" de associados para os jovens brasileiros.
 
 ## A constelação de Neymar

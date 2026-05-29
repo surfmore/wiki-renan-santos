@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=KQq8gaXKsyM"
 ---
 
-# O LULA ME RESPONDE UMA COISA
-
 Interpelação direta ao presidente Lula sobre sua reunião com Daniel Vorcaro durante o período de crise do Banco Master.
 
 ## O argumento central

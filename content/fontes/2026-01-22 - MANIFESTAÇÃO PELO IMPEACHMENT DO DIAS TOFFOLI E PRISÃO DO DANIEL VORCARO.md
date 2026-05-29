@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=TOrWsnUUrIk"
 tipo: short
 ---
 
-# MANIFESTAÇÃO PELO IMPEACHMENT DO DIAS TOFFOLI E PRISÃO DO DANIEL VORCARO!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=TOrWsnUUrIk)**
 
 Registro audiovisual da manifestação de **22 de janeiro de 2026** convocada por Renan Santos na frente do Banco Master. A transcrição automática do vídeo capturou apenas o áudio da multidão (cantos e gritos), sem discurso identificável do Renan. O conteúdo é inaproveitável para atribuição de falas.

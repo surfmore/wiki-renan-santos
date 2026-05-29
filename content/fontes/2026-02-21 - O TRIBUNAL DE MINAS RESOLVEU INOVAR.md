@@ -10,8 +10,6 @@ fontes:
   - "2026-02-21 - O TRIBUNAL DE MINAS RESOLVEU INOVAR"
 ---
 
-# O Tribunal de Minas Resolveu Inovar
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=-2Rr3hgSpbA) · Canal Renan Santos · Short · 21/02/2026
 
 ## Resumo

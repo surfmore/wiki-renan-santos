@@ -10,8 +10,6 @@ fontes:
   - "2026-02-05 - ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA"
 ---
 
-# Oruam
-
 Rapper brasileiro e, segundo Renan Santos, **porta-voz público do Comando Vermelho** e integrante de sua liderança. Filho de **Varcinho VP**, figura influente da cúpula do CV.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não são verificadas independentemente por este wiki.

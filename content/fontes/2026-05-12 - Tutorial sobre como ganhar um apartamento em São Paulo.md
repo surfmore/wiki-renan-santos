@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=0grmQKwTsNY
 ---
 
-# Tutorial sobre como ganhar um apartamento em São Paulo!
-
 Renan visita a área do Terminal de Cargas de Guarulhos (maior da América do Sul) para ilustrar o ciclo de invasões de terreno seguido de doação de habitação pública — e critica o que chama de "indústria da favela".
 
 O caso concreto: a área ao redor do terminal, usada por caminhoneiros, foi invadida. Barracos se tornaram casas de alvenaria. O poder público respondeu entregando um conjunto de apartamentos. O resultado, segundo Renan: alguns conjuntos são tomados pelo crime organizado; outros são abandonados pelos moradores, que vendem ou alugam os apartamentos e voltam a participar de novas invasões — transformando a invasão em "negócio".

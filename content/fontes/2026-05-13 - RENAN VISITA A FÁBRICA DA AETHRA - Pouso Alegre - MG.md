@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=sS3i05_xLeA
 ---
 
-# RENAN VISITA A FÁBRICA DA AETHRA — Pouso Alegre — MG
-
 Vídeo longo de visita à AETHRA, fabricante de autopeças em Pouso Alegre (MG) — um dos maiores fornecedores de componentes automotivos do Brasil, que forneceu peças inclusive para equipes de Fórmula 1 (Force India). Após o tour pela fábrica, Renan faz um discurso espontâneo aos funcionários e responde a perguntas abertas.
 
 ## A fábrica como contraexemplo ao sistema

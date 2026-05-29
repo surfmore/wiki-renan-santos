@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=14Wi6Bub4kc
 ---
 
-# Flávio Bolsonaro precisa de ajuda!
-
 Short em que Renan reage à notícia de que Flávio Bolsonaro visitou pessoalmente Daniel Vorcaro depois que este foi preso, alegando ter ido "avisar que nunca mais faria negócios com ele". Renan classifica a justificativa como inverossímil e acusa Flávio de ser um "bandido" que anda com os maiores malandros do centrão.
 
 Renan evoca o histórico de Flávio: rachadinha, vínculo com o ex-assessor Adriano da Nóbrega (descrito como matador de aluguel ligado ao crime organizado no Rio), e o padrão de mudar de versão a cada revelação do escândalo do Banco Master. Argumenta que nenhuma pessoa em sã consciência acredita que alguém vai à casa de outro para comunicar que não fará mais negócios, e que os deputados, senadores e lideranças que fingem acreditar na história estão sendo cumpliciados.

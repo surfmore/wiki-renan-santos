@@ -18,8 +18,6 @@ fontes:
   - "2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)"
 ---
 
-# Partido Missão
-
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro.
 
 ## Origem e fundação

@@ -10,8 +10,6 @@ fontes:
   - "2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA"
 ---
 
-# Deu Tudo Errado no Desfile do Lula
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=K3MbzOfDz8w) · Canal Renan Santos · Short · 21/02/2026
 
 ## Resumo

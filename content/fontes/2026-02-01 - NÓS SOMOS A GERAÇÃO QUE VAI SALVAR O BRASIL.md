@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=da4VPesZ9yM"
 tipo: short
 ---
 
-# NÓS SOMOS A GERAÇÃO QUE VAI SALVAR O BRASIL
-
 **Data:** 1 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=da4VPesZ9yM)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=3T1eCBhPxjM"
 tipo: short
 ---
 
-# VOCÊ CONSEGUE IMAGINAR UM BRASIL ASSIM
-
 **Data:** 3 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=3T1eCBhPxjM)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

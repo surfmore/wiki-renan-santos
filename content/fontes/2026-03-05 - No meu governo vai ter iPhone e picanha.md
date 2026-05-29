@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=3XaH2bVm2p8"
 ---
 
-# No meu governo vai ter iPhone e picanha
-
 Renan apresenta sua proposta de corte de impostos sobre produtos de consumo, em contraposição à política tributária do governo Haddad.
 
 ## A promessa

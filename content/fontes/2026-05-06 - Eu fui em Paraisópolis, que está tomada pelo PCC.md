@@ -8,8 +8,6 @@ fontes:
   - "2026-05-06 - Eu fui em Paraisópolis, que está tomada pelo PCC"
 ---
 
-# Eu fui em Paraisópolis, que está tomada pelo PCC
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=CNbKxPzcpw4) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo

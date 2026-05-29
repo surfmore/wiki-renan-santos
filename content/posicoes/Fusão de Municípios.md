@@ -6,8 +6,6 @@ tags:
 date: 2026-04-11
 ---
 
-# Fusão de Municípios
-
 Renan Santos defende a **fusão de municípios pequenos em "macromunicípios"** como forma de tornar cidades do interior brasileiro viáveis administrativamente.
 
 ## "Roubo federativo": o pacto que só beneficia políticos (abril de 2026)

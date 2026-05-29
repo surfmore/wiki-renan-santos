@@ -10,8 +10,6 @@ fontes:
   - "2026-02-23 - ESSA CIDADE PRATICAMENTE SÓ TEM PESSOAS NO BOLSA FAMÍLIA"
 ---
 
-# Essa Cidade Praticamente Só Tem Pessoas no Bolsa Família
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=OCIoFqIpzws) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo

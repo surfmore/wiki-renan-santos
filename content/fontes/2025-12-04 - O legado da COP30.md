@@ -12,8 +12,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=AIxN6bq6Swc"
 ---
 
-# O legado da COP30
-
 **Data:** 4 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=AIxN6bq6Swc

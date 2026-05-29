@@ -9,8 +9,6 @@ fontes:
   - "2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso"
 ---
 
-# Quanto tempo você acha que um criminoso deve ficar preso
-
 **Canal:** Renan Santos | **Data:** 26/03/2026
 **URL:** https://www.youtube.com/watch?v=cKqsLI1fUkc
 

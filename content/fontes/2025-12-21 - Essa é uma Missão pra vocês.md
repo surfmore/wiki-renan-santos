@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=YHoAj10Y0vc"
 ---
 
-# Essa é uma Missão pra vocês
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=YHoAj10Y0vc)**
 
 Renan anuncia crescimento nas pesquisas e mobiliza seguidores jovens para apresentá-lo às suas famílias durante as festas de fim de ano.

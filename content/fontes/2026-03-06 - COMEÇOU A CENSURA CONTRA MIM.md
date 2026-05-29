@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=3eUo74h1AtM"
 ---
 
-# COMEÇOU A CENSURA CONTRA MIM
-
 Renan denuncia a derrubada de seus vídeos no Instagram e a suspensão de funcionalidades da conta, interpretando o episódio como perseguição política a pré-candidato.
 
 ## O que aconteceu

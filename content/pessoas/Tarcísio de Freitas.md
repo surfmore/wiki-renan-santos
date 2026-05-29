@@ -8,8 +8,6 @@ tags:
 date: 2025-12-14
 ---
 
-# Tarcísio de Freitas
-
 Governador de São Paulo, ex-ministro de Infraestrutura no governo Bolsonaro, considerado por parte da direita como pré-candidato à presidência. Renan Santos o enquadra como **"candidatura do sistema"**: produto dos Bolsonaros, financiado pelos mesmos operadores que Lula, sem programa de governo definido.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.

@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Caiado e Lula são VELHOS
-
 Short provocado pelas notícias de que **Ronaldo Caiado** se lançou candidato à Presidência e **Lula confirmou Alckmin** como vice. Renan diz: "o que eles têm em comum? Eles são velhos". Faz questão de ressalvar que **não tem nada contra a velhice** — "aprendi a ser quem sou pelos ensinamentos dos meus avós e dos meus pais" — e desloca o argumento para a **obsolescência política**.
 
 ## A tese geracional

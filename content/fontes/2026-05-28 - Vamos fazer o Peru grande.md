@@ -14,8 +14,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Vamos fazer o Peru grande
-
 **Data:** 28 de maio de 2026
 **Canal:** Renan Santos
 **URL:** https://www.youtube.com/watch?v=zlQu8W2DI8k

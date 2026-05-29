@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=icw_SsPY_uA
 ---
 
-# POPULAÇÃO DE TURILÂNDIA COMEMORA SOLTURA DE PREFEITO PRESO POR DESVIAR R$ 56 MILHÕES
-
 Renan reage a imagens de moradores de Turilândia (MA) fazendo motociata e carreata para celebrar a soltura de um prefeito que havia sido preso por desviar R$ 56 milhões dos cofres públicos. O vídeo é mais curto e mais visceral do que o vídeo [[fontes/2026-05-15 - Turilândia, no Maranhão, é um caso a ser estudado]], publicado dois dias depois com análise mais detalhada.
 
 Renan classifica a comemoração como expressão de "falta de virtude" e afirma que a população "merece" a precariedade em que vive por validar quem a rouba. Seu argumento central: o dinheiro desviado não era dinheiro de Turilândia — veio de São Paulo, Santa Catarina, Paraná, Goiás, Rio de Janeiro, Minas Gerais, de trabalhadores que pagaram impostos. A população local, que praticamente não arrecada nada, não se sente roubada porque não gerou o recurso.

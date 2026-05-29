@@ -12,8 +12,6 @@ fontes:
   - "2025-09-13 - O discurso da extrema-esquerda precisa ser criminalizado"
 ---
 
-# Morte de Charlie Kirk - Setembro de 2025
-
 Em setembro de 2025, **Charlie Kirk** — ativista conservador americano, fundador do grupo Turning Point USA e apoiador da candidatura de Donald Trump — foi assassinado a tiro. O episódio gerou uma série de reações de Renan Santos, que o usou como ponto de inflexão para anunciar mudança de postura.
 
 ## Quem era Charlie Kirk (segundo Renan)

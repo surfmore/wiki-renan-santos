@@ -9,8 +9,6 @@ fontes:
   - "2026-03-12 - VÃO SOLTAR O DANIEL VORCARO AMANHÃ"
 ---
 
-# VÃO SOLTAR O DANIEL VORCARO AMANHÃ
-
 **Canal:** Renan Santos | **Data:** 12 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=n4KAChy9iGg)
 
 ## Resumo

@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=BczNor-uSeI"
 tipo: short
 ---
 
-# ANÃO DELEGADO, MINHA OPINIÃO
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=BczNor-uSeI)**
 
 Renan comenta o caso de um candidato com nanismo que prestou concurso para delegado de polícia, foi reprovado na prova física e obteve uma decisão do STF adaptando os parâmetros da prova especificamente para ele.

@@ -8,8 +8,6 @@ fontes:
   - "2026-05-08 - Eu estou disposto a enfrentar o STF"
 ---
 
-# Eu estou disposto a enfrentar o STF
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=OZ3RQCLhDpY) | **Canal:** Renan Santos | **Data:** 08/05/2026 | **Tipo:** short
 
 ## Resumo

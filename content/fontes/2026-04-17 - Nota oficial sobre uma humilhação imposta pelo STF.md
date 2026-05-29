@@ -8,8 +8,6 @@ video_id: tlp5QEhXMkw
 url: "https://www.youtube.com/watch?v=tlp5QEhXMkw"
 ---
 
-# Nota oficial sobre uma humilhação imposta pelo STF
-
 **Data:** 17 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=tlp5QEhXMkw)

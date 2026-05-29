@@ -14,8 +14,6 @@ tags:
   - lula
 ---
 
-# O bicho tá pegando entre PT e Dias Toffoli
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=jxh2zgZVLbI)**
 
 Short em que Renan analisa a ruptura entre o PT e Dias Toffoli no contexto do escândalo do Banco Master.

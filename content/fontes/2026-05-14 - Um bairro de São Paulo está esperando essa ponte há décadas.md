@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=ysTPXBHoQhI
 ---
 
-# Um bairro de São Paulo está esperando essa ponte há décadas
-
 Renan critica o pacto federativo usando como exemplo uma ponte que liga Pirituba à Lapa, em São Paulo, que demorou 40 anos para ser construída, isolando centenas de milhares de pessoas.
 
 O argumento central: São Paulo é o maior estado do Brasil e tem PIB maior do que a maioria dos países da América do Sul, mas é tratada como "vaquinha leiteira" — arrecada, manda para o governo federal e o dinheiro não volta proporcional às suas necessidades. Infraestrutura é, segundo Renan, o maior problema de São Paulo: trânsito, obras, desfavelização, programas habitacionais, combate a enchentes, metrô.

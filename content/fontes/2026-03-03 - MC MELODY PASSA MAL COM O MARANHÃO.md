@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=DqAZB9WcmVA"
 ---
 
-# MC MELODY PASSA MAL COM O MARANHÃO
-
 Renan usa o show de MC Melody em Grajaú (MA) para expor o que chama de falência administrativa e desvio de prioridades em municípios pobres.
 
 ## O caso Grajaú

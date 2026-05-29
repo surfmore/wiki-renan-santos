@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=6JsIDfCKdnw"
 tipo: short
 ---
 
-# O QUE EU VOU FAZER COM O BOLSA FAMÍLIA
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=6JsIDfCKdnw)**
 
 Renan apresenta sua posição sobre o Bolsa Família, critica o orgulho com que Flávio Bolsonaro reivindica o aumento feito pelo pai, e anuncia sua proposta de **frente de trabalho** inspirada no modelo Roosevelt.

@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Como esse mercadão em Salvador está derrubando a República.
-
 **Data:** 27 de maio de 2026
 **Canal:** Renan Santos
 **URL:** https://www.youtube.com/watch?v=_spusOkYXqY

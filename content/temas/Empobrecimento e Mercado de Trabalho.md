@@ -7,8 +7,6 @@ tags:
 date: 2026-04-05
 ---
 
-# Empobrecimento e Mercado de Trabalho
-
 Paralelamente à crítica à [[temas/Carga Tributária|carga tributária]], Renan Santos tem apresentado um diagnóstico estrutural de **empobrecimento da população brasileira durante o governo Lula**, construído em torno da tese de que o "pleno emprego" divulgado pelas estatísticas oficiais esconde uma deterioração da qualidade do trabalho.
 
 ## Abrir e fechar empresas tem que ser fácil: o estigma do fracasso (fevereiro de 2026)

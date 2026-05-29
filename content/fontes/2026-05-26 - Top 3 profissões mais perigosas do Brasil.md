@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Top 3 profissões mais perigosas do Brasil
-
 Vídeo de 26 de maio de 2026, gravado no **Parque São Bartolomeu, Salvador (BA)**. Parte da série "Como o PT destruiu a Bahia." Renan relata o assassinato de três instaladores de internet pelo crime organizado e usa o caso para analisar o controle territorial de facções em Salvador.
 
 *Nota: a transcrição automática apresentou triplicação de linhas — o conteúdo foi extraído desconsiderando as repetições.*

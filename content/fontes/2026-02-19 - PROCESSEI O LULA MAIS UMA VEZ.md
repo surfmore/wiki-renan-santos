@@ -10,8 +10,6 @@ fontes:
   - "2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ!"
 ---
 
-# Processei o Lula Mais Uma Vez
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=PP4R7hc2DQo) · Canal Renan Santos · Short · 19/02/2026
 
 ## Resumo

@@ -2,8 +2,6 @@
 title: "Índice"
 ---
 
-# Índice — Wiki Renan Santos
-
 Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à presidência da República, construído a partir das transcrições de seus vídeos.
 
 > **Aviso:** Este wiki foi produzido com auxílio de inteligência artificial (IA) a partir das transcrições dos vídeos do canal de Renan Santos no YouTube. O conteúdo reflete exclusivamente o que Renan Santos disse ou defendeu publicamente — não constitui verificação independente das afirmações. Apesar do cuidado na elaboração, o processo automatizado pode conter erros, omissões ou imprecisões. Se encontrar algum erro, entre em contato: `wikipoliticabr@gmail.com` — [abrir no Gmail](https://mail.google.com/mail/?view=cm&to=wikipoliticabr@gmail.com)

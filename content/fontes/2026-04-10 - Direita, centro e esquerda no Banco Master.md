@@ -10,8 +10,6 @@ video_id: X2NtlyXyf9o
 url: "https://www.youtube.com/watch?v=X2NtlyXyf9o"
 ---
 
-# Direita, centro e esquerda no Banco Master
-
 Short em que Renan Santos enumera nomes da política brasileira — de todos os espectros — que teriam recebido pagamentos do **Banco Master** sob a rubrica de "consultoria" ou "assessoria jurídica". Segundo ele, os valores estariam documentados e confirmados.
 
 ## Resumo

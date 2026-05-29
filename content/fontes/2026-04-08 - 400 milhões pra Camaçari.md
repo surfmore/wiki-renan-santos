@@ -11,8 +11,6 @@ video_id: cvvYRXIVDAA
 url: "https://www.youtube.com/watch?v=cvvYRXIVDAA"
 ---
 
-# 400 milhões pra Camaçari???
-
 Short em que Renan Santos, a partir de uma frase confusa de Lula anunciando "400 milhões para a cultura em Camaçari", desenvolve uma crítica estrutural ao modelo de desenvolvimento da cidade e à presença industrial chinesa no Brasil.
 
 ## Resumo

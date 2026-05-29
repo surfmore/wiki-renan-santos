@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-# ÍNDIOS E PICARETAS DO PSOL ESTÃO SABOTANDO OS CAMINHONEIROS NA REGIÃO NORTE
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=-qF87liui_8)**
 
 Renan denuncia o bloqueio de uma **hidrovia** na região norte do Brasil por um grupo indígena articulado pelo PSOL, resultando em caminhoneiros presos por **oito dias** sem comida e com carga perdida.

@@ -12,8 +12,6 @@ fontes:
   - "2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP"
 ---
 
-# Bad Bunny Faz Ato Político no Super Bowl e Irrita Donald Trump
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=Kr9XbTxapsA)**
 
 Renan analisa a performance do Bad Bunny no intervalo do Super Bowl como ato político contra as políticas antiimigratórias de Donald Trump e critica a **imagem estereotipada** que a América Latina projeta de si mesma.

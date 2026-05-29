@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=YQ9SlDxB08Y"
 ---
 
-# Coroadinho não esqueceu de mim!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=YQ9SlDxB08Y)**
 
 Renan reage ao protesto de artistas contra sua cobertura do Coroadinho (São Luís, MA) — que fizeram grafites no local — e reitera que nada mudou nas condições reais do bairro.

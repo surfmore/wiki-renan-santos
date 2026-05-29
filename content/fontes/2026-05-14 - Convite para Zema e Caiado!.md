@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=PezjZCK1zb0
 ---
 
-# Convite para Zema e Caiado!
-
 **Nota:** este vídeo tem transcrição praticamente idêntica à de [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]]. Provavelmente são o mesmo conteúdo publicado com títulos diferentes. O conteúdo completo está documentado naquela página de fonte.
 
 Renan desconstrói as versões de Flávio Bolsonaro sobre a relação com Daniel Vorcaro e convida os pré-candidatos Romeu Zema (Novo) e Ronaldo Caiado (PSD) a protocolarem juntos uma representação no Ministério Público Eleitoral investigando possível caixa dois na pré-campanha de Flávio.

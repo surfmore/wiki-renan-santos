@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=GBtfyBxlvog"
 tipo: short
 ---
 
-# LULA SENTIU A MANIFESTAÇÃO NA FRENTE DO BANCO MASTER
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=GBtfyBxlvog)**
 
 Vídeo publicado no dia seguinte à manifestação de **22 de janeiro de 2026** na sede do Banco Master. Renan comenta a primeira reação pública de Lula ao escândalo.

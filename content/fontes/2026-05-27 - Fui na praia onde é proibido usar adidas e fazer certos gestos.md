@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Fui na praia onde é proibido usar adidas e fazer certos gestos
-
 **Data:** 27 de maio de 2026
 **Canal:** Renan Santos
 **URL:** https://www.youtube.com/watch?v=bG6qqM4Pvyc

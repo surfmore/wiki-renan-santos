@@ -13,8 +13,6 @@ fontes:
   - "2026-03-27 - URGENTE - STF derruba CPMI do INSS"
 ---
 
-# Manifestação na Paulista — 11 de abril de 2026
-
 Ato convocado por Renan Santos para a **Avenida Paulista, em São Paulo**, no dia **11 de abril de 2026, às 15h**, em defesa do instituto da **delação premiada** e pela responsabilização dos envolvidos no [[eventos/Escândalo Banco Master]].
 
 ## Contexto e motivação

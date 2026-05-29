@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# A ferrogrão está sendo sabotada
-
 Segundo vídeo de Renan sobre a **Ferrogrão** — a ferrovia que escoaria produção agrícola do Centro-Oeste para portos do Norte — e sua paralisação por ação no STF. Renan descreve a ferrovia como um projeto parado a 40 km de uma reserva indígena, bloqueado por argumentos ambientais levantados pelo **PSOL** e por **ONGs ambientalistas**.
 
 Afirma que, mesmo que a ferrovia passasse dentro da reserva, o impacto sobre a tribo seria "mínimo", porque os indígenas do Mato Grosso estariam "parcialmente integrados à economia brasileira". Sustenta que, para o agro, a Ferrogrão significaria **redução de 40% no frete**, **economia anual de R$ 8 bilhões** e a geração de "coisa de 100 mil postos de trabalho" diretos e indiretos.

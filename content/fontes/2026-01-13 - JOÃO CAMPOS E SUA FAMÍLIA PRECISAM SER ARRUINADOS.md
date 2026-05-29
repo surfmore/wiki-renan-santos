@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=hVNgVL9LtJk"
 ---
 
-# JOÃO CAMPOS E SUA FAMÍLIA PRECISAM SER ARRUINADOS!
-
 **Canal:** Renan Santos | **Data:** 13 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=hVNgVL9LtJk
 

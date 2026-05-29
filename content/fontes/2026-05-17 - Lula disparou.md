@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=O_ZLGy5ufl0
 ---
 
-# Lula disparou
-
 Renan Santos analisa o novo cenário eleitoral após os vazamentos sobre Flávio Bolsonaro e a divulgação de nova pesquisa Atlas, em que ele aparece consolidado em terceiro lugar e Flávio em queda.
 
 ## O colapso de Flávio e a estratégia do PT

@@ -17,8 +17,6 @@ fontes:
   - "2025-12-09 - Se o Vorcaro abrir a boca, o Brasil acaba"
 ---
 
-# Fabiano Zettel
-
 **Quem é:** Cunhado de Daniel Vorcaro (casado com Natália Vorcaro, irmã do banqueiro), pastor da Igreja Lagoinha, advogado de recuperação de empresas e operador do estilo de vida e rede de influência de Vorcaro. Para Renan Santos, é o elo entre o Banco Master e praticamente toda a elite política, judicial e religiosa do Brasil — e seu celular é descrito como a "bomba" que pode detonar o sistema.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.

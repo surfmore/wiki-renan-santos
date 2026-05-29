@@ -10,8 +10,6 @@ fontes:
   - "2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER"
 ---
 
-# Guido Mantega
-
 **Guido Mantega** foi ministro da Fazenda nos governos Lula (primeiro mandato) e Dilma Rousseff. Na leitura de Renan Santos, é o **elo central entre Lula e Daniel Vorcaro** no escândalo do Banco Master.
 
 ## O contrato com o Banco Master

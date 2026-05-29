@@ -8,8 +8,6 @@ fontes:
   - "2026-05-24 - A Bahia governada pelo PT já era"
 ---
 
-# A Bahia governada pelo PT já era
-
 **Data:** 24 de maio de 2026
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=IlbX9Y-2xDA

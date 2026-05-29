@@ -11,8 +11,6 @@ video_id: xT0bwhl7-D4
 url: "https://www.youtube.com/watch?v=xT0bwhl7-D4"
 ---
 
-# Xandão quer mudar delação premiada às vésperas da delação de Vorcaro
-
 Short em que Renan Santos ataca o ministro do STF **Alexandre de Moraes** — a quem se refere como "meu ex-professor de faculdade" — pela tentativa de fazer avançar, naquele momento, uma ação de **2021 movida por advogados do PT** que pede o fim da **delação premiada**.
 
 ## Resumo

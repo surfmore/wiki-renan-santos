@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# MAIS UM RECORDE DO BRASIL!
-
 Gravado em uma estrada do Maranhão, Renan comenta o dado de que a carga tributária brasileira atingiu 32,4% do PIB no ano anterior — maior nível da série histórica. Argumenta que o Brasil "cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África".
 
 Renan lista o que considera exemplos do descompasso: atendimento do SUS, estradas sem acostamento, educação nos piores rankings internacionais, corrupção recorrente. Afirma que o Brasil tende a quebrar até 2028 por falta de dinheiro — não por falta de arrecadação, mas por má gestão do gasto, que pressiona os juros e cria um ciclo de aumento de impostos.

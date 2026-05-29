@@ -10,8 +10,6 @@ fontes:
   - "2026-03-24 - Eu tô com muita inveja de El Salvador"
 ---
 
-# Eu tô com muita inveja de El Salvador
-
 **Canal:** Renan Santos | **Data:** 24/03/2026
 **URL:** https://www.youtube.com/watch?v=K2DKLe1PQCQ
 

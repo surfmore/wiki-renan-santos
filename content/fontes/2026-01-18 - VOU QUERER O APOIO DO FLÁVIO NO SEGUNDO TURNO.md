@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=ElGh9SBvIJA"
 ---
 
-# VOU QUERER O APOIO DO FLÁVIO NO SEGUNDO TURNO
-
 **Data:** 18 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=ElGh9SBvIJA)**
 
 ## Resumo

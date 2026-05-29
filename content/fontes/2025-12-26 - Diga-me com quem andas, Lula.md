@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=KYbKYSxyQQY"
 ---
 
-# Diga-me com quem andas, Lula
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=KYbKYSxyQQY)**
 
 Renan aplica o princípio "diga-me com quem andas que te direi quem és" à vida pessoal e política de Lula, listando casos de corrupção no entorno imediato do presidente.

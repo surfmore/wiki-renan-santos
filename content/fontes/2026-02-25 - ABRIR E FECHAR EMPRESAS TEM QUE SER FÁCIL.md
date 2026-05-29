@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=Fp42bAyt7e4"
 ---
 
-# ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=Fp42bAyt7e4)**
 
 Renan Santos comenta um trecho de entrevista sobre cultura empresarial, defendendo que abrir, fechar, contratar e demitir devem ser processos simples — parte natural do jogo econômico, não um estigma.

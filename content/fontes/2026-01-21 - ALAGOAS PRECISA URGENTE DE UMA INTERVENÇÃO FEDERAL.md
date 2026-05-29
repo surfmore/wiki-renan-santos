@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=d7WgznFQb3M"
 ---
 
-# ALAGOAS PRECISA URGENTE DE UMA INTERVENÇÃO FEDERAL
-
 **Data:** 21 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=d7WgznFQb3M)**
 
 ## Resumo

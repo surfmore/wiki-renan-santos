@@ -9,8 +9,6 @@ fontes:
   - "2025-10-29 - Minha proposta para os governadores"
 ---
 
-# Proposta para Governadores Anti-Crime
-
 Em **29 de outubro de 2025**, no contexto da crise de segurança no Rio de Janeiro, Renan Santos apresentou um programa de 11 pontos direcionado tanto aos **governadores de oposição** quanto aos **pré-candidatos à presidência**, propondo que endossem coletivamente uma agenda a ser implementada integralmente por quem vencer em 2026.
 
 ## Estratégia para os governadores

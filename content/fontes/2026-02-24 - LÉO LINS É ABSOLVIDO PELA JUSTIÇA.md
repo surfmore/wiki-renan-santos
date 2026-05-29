@@ -10,8 +10,6 @@ fontes:
   - "2026-02-24 - LÉO LINS É ABSOLVIDO PELA JUSTIÇA"
 ---
 
-# Léo Lins É Absolvido pela Justiça
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=azk1aUcMpLU) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo

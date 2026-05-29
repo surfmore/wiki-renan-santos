@@ -14,8 +14,6 @@ tags:
   - nordeste
 ---
 
-# As cooperativas de Santa Catarina são um exemplo para o Brasil!
-
 Vídeo gravado em frente a uma cooperativa agrícola de Santa Catarina. Renan Santos apresenta o modelo cooperativista catarinense como solução replicável para o desenvolvimento do Nordeste.
 
 ## Resumo

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=H2FrsNdlWcg
 ---
 
-# Letícia Sabatella autista?
-
 Renan comenta o anúncio da atriz Letícia Sabatella de que recebeu diagnóstico de autismo aos 52 anos, e usa o episódio para criticar o que chama de "indústria do diagnóstico" e os problemas da política de inclusão escolar forçada.
 
 Renan diferencia dois tipos de "autismo": o autismo severo real, com necessidades concretas, e o que chama de "diagnóstico de amigos" — pessoas neurotípicas, simplesmente "esquisitas", que obtêm laudos de psiquiatras e advogados malandros para acessar benefícios como o **BPC** (Benefício de Prestação Continuada) e isenção de impostos na compra de carro. Cita a **Lei Berenice Piana (2012)**, que equiparou o Transtorno do Espectro Autista a deficiência física, como abertura desse mercado. Para Renan, os gastos com BPC por autismo dispararam e hoje superaram pedidos por outras deficiências físicas.

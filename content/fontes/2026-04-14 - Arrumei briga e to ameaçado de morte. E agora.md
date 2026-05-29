@@ -13,8 +13,6 @@ tags:
   - favelas
 ---
 
-# Arrumei briga e to ameaçado de morte. E agora?
-
 Vídeo gravado por Renan Santos na **favela do Coroadinho**, em São Luís do Maranhão — descrita como uma das maiores favelas do Nordeste e uma das maiores do Brasil. É o quarto vídeo da série de visitas ao Maranhão em abril de 2026.
 
 ## Resumo

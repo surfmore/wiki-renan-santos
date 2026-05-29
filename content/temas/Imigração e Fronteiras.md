@@ -11,8 +11,6 @@ fontes:
   - "2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina"
 ---
 
-# Imigração e Fronteiras
-
 ## Fronteira com a Argentina: Bolsa Família para estrangeiros (abril de 2026)
 
 Em **21 de abril de 2026**, Renan grava na **ponte entre Paraíso (SC) e Missiones (Argentina)** para denunciar a ausência de fiscalização no lado brasileiro: "qualquer um pode passar, incluindo traficantes." O contraste com o lado argentino é explícito — posto alfandegário, área de controle e presença da Polícia Federal argentina.

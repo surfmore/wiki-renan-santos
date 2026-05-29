@@ -13,8 +13,6 @@ tags:
   - santa-catarina
 ---
 
-# Novas Informações Sobre o Caso do Cão Orelha
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=4QvODUw_v5g)**
 
 Atualização sobre o caso do cão Orelha: a juíza responsável interceptou os celulares dos jovens acusados e confirmou a suspeita de que o assassinato do animal fazia parte de um **jogo de sadismo organizado no Discord**.

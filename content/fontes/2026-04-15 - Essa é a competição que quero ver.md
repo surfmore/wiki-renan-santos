@@ -13,8 +13,6 @@ tags:
   - infraestrutura
 ---
 
-# Essa é a competição que quero ver
-
 Vídeo gravado no encerramento da viagem de Renan Santos ao Maranhão em abril de 2026. Renan comenta um efeito inesperado de suas denúncias: o governador **Carlos Brandão** e o prefeito de São Luís **Eduardo Braide** passaram a competir para fazer obras de infraestrutura após as visitas.
 
 ## Resumo

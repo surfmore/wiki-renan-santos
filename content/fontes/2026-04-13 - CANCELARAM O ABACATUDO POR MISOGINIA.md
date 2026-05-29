@@ -13,8 +13,6 @@ tags:
   - direita
 ---
 
-# CANCELARAM O ABACATUDO POR MISOGINIA
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=4VkheUPdWQQ)**
 
 Renan critica a campanha contra o personagem "abacatudo" — animação de redes sociais — acusado de misoginia por Rede Globo e pela ex-deputada Manuela Dávila. O vídeo amplia a crítica para o indiciamento do influenciador "Café com teu pai" e para o alinhamento da direita parlamentar com a pauta feminista.

@@ -12,8 +12,6 @@ fontes:
   - "2026-02-22 - 6 PROPOSTAS QUE VÃO FAZER O BRASIL VIRAR UM LUGAR DE PRIMEIRO MUNDO"
 ---
 
-# 6 Propostas que Vão Fazer o Brasil Virar um Lugar de Primeiro Mundo
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=aBV8Y-t5-R0) · Canal Renan Santos · Short · 22/02/2026
 
 ## Resumo

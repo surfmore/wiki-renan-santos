@@ -7,8 +7,6 @@ tags:
 date: 2026-04-13
 ---
 
-# Infraestrutura e Estradas no Maranhão
-
 Em abril de 2026, Renan Santos está percorrendo o estado do Maranhão de carro como parte de sua pré-campanha presidencial. Os vídeos gravados durante essa viagem tratam recorrentemente da precariedade da infraestrutura estadual.
 
 ## Estradas

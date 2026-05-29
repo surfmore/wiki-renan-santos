@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=PZA-qvH_LPY"
 ---
 
-# FAVELA É UMA M3RDA SIM!
-
 Trecho de entrevista em que Renan debate a relação entre favela e identidade cultural, rejeitando o argumento de que a desfavelização destruiria a cultura popular.
 
 ## O argumento do entrevistador e a resposta de Renan

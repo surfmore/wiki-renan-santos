@@ -8,8 +8,6 @@ fontes:
   - "2026-05-25 - O PT destruiu a Bahia"
 ---
 
-# O PT destruiu a Bahia
-
 **Data:** 25 de maio de 2026
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=llEeftGRK_M

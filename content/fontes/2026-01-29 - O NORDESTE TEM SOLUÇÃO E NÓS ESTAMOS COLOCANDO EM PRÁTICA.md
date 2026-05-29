@@ -13,8 +13,6 @@ tags:
   - desigualdade-regional
 ---
 
-# O Nordeste Tem Solução e Nós Estamos Colocando em Prática
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=ijw7QsXttO4)**
 
 Gravado em uma das regiões mais secas do Brasil. Renan mostra o **Projeto Leve Poços** em ação: um poço já instalado, provando que há água no subsolo do sertão nordestino e que é possível mudar a realidade das comunidades.

@@ -11,8 +11,6 @@ video_id: vxaUjgNKlRo
 url: "https://www.youtube.com/watch?v=vxaUjgNKlRo"
 ---
 
-# Quem é o rei do bloquete em Imperatriz?
-
 Short gravado em **Imperatriz (MA)** em que Renan desmonta o esquema que apelida de "ciclo do bloquete" — a prática sistemática de pavimentar ruas com blocos de concreto (em vez de asfalto) usando emendas parlamentares, canalizadas para empresas de familiares de políticos locais.
 
 ## Resumo

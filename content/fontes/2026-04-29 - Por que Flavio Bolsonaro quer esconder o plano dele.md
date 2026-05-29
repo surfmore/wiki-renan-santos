@@ -9,8 +9,6 @@ fontes:
   - "2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele"
 ---
 
-# Por que Flavio Bolsonaro quer esconder o plano dele
-
 **Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=bQu6AP57lBs)
 
 ## Resumo

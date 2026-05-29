@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Vamos brincar de amarelinha!
-
 Renan grava na estrada estadual MA-06, no Maranhão, mostrando crateras e buracos ao longo de uma rodovia que liga o norte ao sul do estado. Compara o trajeto a uma amarelinha e a um campo atingido por meteoros.
 
 Critica o governador Brandão pela ausência de pavimentação, asfalto ou concreto, e ironiza a promessa recorrente de "bloquetes" em ano eleitoral. Entrevista trabalhadores locais transportados em caçambas que confirmam as péssimas condições e dizem que "se não tiver estrada, não vai sair voto" no sul do estado.

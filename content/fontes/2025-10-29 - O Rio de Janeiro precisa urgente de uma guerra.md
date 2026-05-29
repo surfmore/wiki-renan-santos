@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# O Rio de Janeiro precisa urgente de uma guerra
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=sks-K_do-VY)**
 
 Renan Santos afirma que o Rio de Janeiro está em **situação de guerra e conflito armado** que já extrapolou os limites do que a polícia civil e militar podem enfrentar sozinhas.

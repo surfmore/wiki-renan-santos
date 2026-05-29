@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=be_adNV9r9Q"
 ---
 
-# Sou número 1 das pesquisas
-
 **Data:** 8 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=be_adNV9r9Q

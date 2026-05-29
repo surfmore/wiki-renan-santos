@@ -12,8 +12,6 @@ fontes:
   - "2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!"
 ---
 
-# Você Vai Pagar 1% no IPVA do Seu Carro!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=Nq79yPGpJzI)**
 
 Renan apresenta e abraça o projeto de **Kim Kataguiri** que limita o IPVA a 1% do valor do veículo, com critério de alíquota variando pelo **peso** do carro (não pelo valor).

@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=h0i8SOKIzRE"
 ---
 
-# Saiu o mapa do PIB per capita
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=h0i8SOKIzRE)**
 
 Vídeo em que Renan analisa o novo mapa de renda per capita dos estados brasileiros, identificando as linhas de divisão econômica e propondo a tese de que resolver o Nordeste é a chave para reformar a política nacional.

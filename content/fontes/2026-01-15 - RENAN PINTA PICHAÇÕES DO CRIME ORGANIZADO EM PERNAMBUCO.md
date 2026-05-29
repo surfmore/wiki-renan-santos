@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=l60XiX1O7BQ"
 ---
 
-# RENAN PINTA PICHAÇÕES DO CRIME ORGANIZADO EM PERNAMBUCO
-
 **Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=l60XiX1O7BQ)**
 
 ## Resumo

@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Sim, uma equipe de F1 com a Embraer e a WEG
-
 Renan responde a críticas por ter proposto, em vídeo anterior, que o Brasil tenha uma **equipe de Fórmula 1 nacional**, feita com equipamentos e pessoal brasileiros. Diz ter sido "cancelado" e que não entendeu "por que ficaram com tanta raiva".
 
 ## O argumento

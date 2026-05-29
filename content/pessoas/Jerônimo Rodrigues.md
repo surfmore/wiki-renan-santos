@@ -9,8 +9,6 @@ tags:
 date: 2026-05-25
 ---
 
-# Jerônimo Rodrigues
-
 Governador da Bahia pelo PT. Renan Santos o menciona como exemplo da **leniência estrutural do PT com o crime organizado** e como principal responsável político pela deterioração da Bahia em segurança pública, população e economia.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.

@@ -7,8 +7,6 @@ tags:
 date: 2026-04-12
 ---
 
-# Soberania Nacional e ONGs Estrangeiras
-
 Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura e exploração de recursos no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
 
 ## O caso da Ferrogrão

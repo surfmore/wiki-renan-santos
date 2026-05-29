@@ -11,8 +11,6 @@ video_id: oAEzEIWzRYE
 url: "https://www.youtube.com/watch?v=oAEzEIWzRYE"
 ---
 
-# O Pinto do Equador e a Juliana do Bonde
-
 Short em que Renan Santos usa o caso de **Rorainópolis (RR)** para ilustrar o padrão nacional de uso político de shows populares financiados com dinheiro federal — e conecta isso, novamente, ao [[eventos/Escândalo Banco Master|escândalo do Banco Master]].
 
 ## Resumo

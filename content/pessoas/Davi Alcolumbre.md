@@ -18,8 +18,6 @@ fontes:
   - "2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE"
 ---
 
-# Davi Alcolumbre
-
 **Quem é:** Senador pelo Amapá (União Brasil) e presidente do Senado Federal. Figura do centrão que Renan Santos usa como síntese do que chama de "poder oligárquico desproporcional" — um político de um dos estados menos populosos e mais pobres do Brasil que controla o Congresso Nacional.
 
 ## O que o Renan Santos disse

@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-# O DESABAFO DESSE POLICIAL EMOCIONOU A TODOS
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=uuL_RwTUL6k)**
 
 Um sargento da Polícia Militar com 16 anos de serviço se apresenta a Renan em evento, acompanhado da esposa. Afirma ser a primeira vez que sente esperança no país e que, além do trabalho policial, faz serviço de motorista de aplicativo (Uber) para complementar a renda. O depoimento serve a Renan como símbolo central da injustiça que diagnostica no Brasil.

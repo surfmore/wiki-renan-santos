@@ -9,8 +9,6 @@ fontes:
   - "2026-03-12 - 7 propostas para a Polícia Militar"
 ---
 
-# Propostas para a Polícia Militar
-
 Renan apresentou sete propostas voltadas especificamente para melhorar as condições de trabalho, remuneração e proteção jurídica dos policiais militares brasileiros.
 
 ## As 7 propostas

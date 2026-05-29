@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=QJhLpXEZ4ds"
 ---
 
-# Quem é Jhonatan de Jesus?
-
 **Canal:** Renan Santos | **Data:** 6 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=QJhLpXEZ4ds
 

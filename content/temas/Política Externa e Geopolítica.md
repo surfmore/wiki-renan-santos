@@ -13,8 +13,6 @@ fontes:
   - "2026-02-28 - KHAMENEI ESTÁ MORTO"
 ---
 
-# Política Externa e Geopolítica
-
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
 
 ## A intervenção na Venezuela e seus efeitos (janeiro de 2026)

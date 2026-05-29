@@ -10,8 +10,6 @@ fontes:
   - "2026-03-10 - Acho que descobri a cidade mais bizarra do Brasil"
 ---
 
-# Acho que descobri a cidade mais bizarra do Brasil e ela fica no Maranhão
-
 **Canal:** Renan Santos | **Data:** 10 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=xvv6GKN6Cs8)
 
 ## Resumo

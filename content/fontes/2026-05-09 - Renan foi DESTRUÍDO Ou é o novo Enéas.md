@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=5h8Qa2C-6Yo
 ---
 
-# Renan foi DESTRUÍDO? Ou é o novo Enéas?
-
 Renan retoma e aprofunda sua defesa da bomba atômica para o Brasil, conectando-a com a agenda de terras raras e reposicionamento geopolítico — comparando-se a Enéas Carneiro, que defendeu a mesma ideia e foi "descartado".
 
 O vídeo começa evocando o **Dr. Enéas Carneiro**, candidato presidencial que defendia a bomba atômica: *"É preciso construir a bomba, não para jogar em ninguém, mas para evitar que alguém jogue a bomba aqui."* Renan usa esse precedente para mostrar que quem levanta o tema se torna alvo de escárnio — mas argumenta que o debate é legítimo e urgente.

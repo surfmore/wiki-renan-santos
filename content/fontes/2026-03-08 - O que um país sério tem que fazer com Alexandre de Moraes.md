@@ -10,8 +10,6 @@ fontes:
   - "2026-03-08 - O que um país sério tem que fazer com Alexandre de Moraes"
 ---
 
-# O que um país sério tem que fazer com Alexandre de Moraes
-
 **Canal:** Renan Santos | **Data:** 8 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=m-g_rygG4UI)
 
 ## Resumo

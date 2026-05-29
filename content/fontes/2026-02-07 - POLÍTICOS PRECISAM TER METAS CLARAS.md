@@ -12,8 +12,6 @@ fontes:
   - "2026-02-07 - POLÍTICOS PRECISAM TER METAS CLARAS"
 ---
 
-# Políticos Precisam Ter Metas Claras
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=v4Wr34Qa-Sc)**
 
 Renan detalha o mecanismo de condicionamento do **fundo partidário e eleitoral a KPIs (indicadores de desempenho)** para prefeitos e partidos políticos.

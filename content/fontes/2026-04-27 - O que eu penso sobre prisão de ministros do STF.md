@@ -9,8 +9,6 @@ fontes:
   - "2026-04-27 - O que eu penso sobre prisão de ministros do STF"
 ---
 
-# O que eu penso sobre prisão de ministros do STF
-
 **Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=7n-nnU9VtGg)
 
 ## Resumo

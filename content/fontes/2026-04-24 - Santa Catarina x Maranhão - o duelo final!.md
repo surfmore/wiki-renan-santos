@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=P8MO7jRPHL8"
 ---
 
-# Santa Catarina x Maranhão — o duelo final!
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=P8MO7jRPHL8)**
 
 Renan compara duas cidades que visitou — **São Miguel do Oeste (SC)** e **Santo Antônio dos Lopes (MA)** — para demonstrar o paradoxo do pacto federativo: mais dinheiro federal não produz melhor qualidade de vida quando a classe política é ruim.

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=rNBIDN0M398
 ---
 
-# Você sabe quem é o homem mais poderoso do Brasil?
-
 Renan traça um perfil detalhado de **Ciro Nogueira** — presidente do PP, ex-ministro da Casa Civil de Bolsonaro, lobista do Banco Master — como síntese do "sistema político" que mantém o Brasil pobre.
 
 A história começa há mais de 90 anos: a família Nogueira controla Pedro II (PI) desde as intervenções de Getúlio Vargas. Avô deputado federal, pai deputado federal, Ciro eleito deputado em 1994 e nunca mais saindo do Congresso. Detalhe: o IDH de Pedro II, sua base eleitoral, está na casa de 0,57 — abaixo da média do Piauí, com apenas 2% de esgoto e metade da população sem água. O Piauí, seu estado, tem 45% das residências dependentes de Bolsa Família e apenas 15% com emprego formal (dos quais um terço é emprego público).

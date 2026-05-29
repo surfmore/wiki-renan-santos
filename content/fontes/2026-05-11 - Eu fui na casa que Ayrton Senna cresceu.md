@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=l9TWvic-tec
 ---
 
-# Eu fui na casa que Ayrton Senna cresceu
-
 Renan visita a casa de infância de Ayrton Senna em São Paulo para fazer um contraponto ao gesto de jogar sal na casa natal de Lula — e usa o ídolo como metáfora de um "Brasil que poderia ser".
 
 O contexto: após críticas pelo ato simbólico de jogar sal na casa de Caetés (PE) onde Lula nasceu, Renan responde com um ato oposto: leva flores à casa de infância de Ayrton Senna, em São Paulo, como homenagem.

@@ -12,8 +12,6 @@ fontes:
   - "2026-02-08 - O HOMEM JOVEM NORDESTINO VAI MUDAR O DESTINO DESSE PAÍS"
 ---
 
-# O Homem Jovem Nordestino Vai Mudar o Destino Desse País
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=WSURany1Qj8)**
 
 Renan explica sua estratégia de começar a pré-campanha no Nordeste e por que o homem jovem da periferia nordestina é o eleitor que pode mudar o quadro eleitoral.

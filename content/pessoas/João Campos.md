@@ -13,8 +13,6 @@ fontes:
   - "2025-12-26 - Pernambucano o que aconteceu com você"
 ---
 
-# João Campos
-
 Prefeito de Recife, filiado ao PSB. Filho de Eduardo Campos. Candidato cotado para o governo de Pernambuco. Renan Santos o cita como exemplo do que chama de "deturpação da deturpação": político do centrão que adotou linguagem e estética de influencer sem entregar resultados.
 
 ## Benefício de amigo via cota para deficiente com diagnóstico autista (maio de 2026)

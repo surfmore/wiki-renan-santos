@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-# URGENTE - JUIZ DE FORA E UBÁ SOFREM COM DESASTRE
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=AsGe0to4_AM)**
 
 Renan mobiliza sua audiência para ajudar as vítimas das chuvas e deslizamentos em **Juiz de Fora** e **Ubá** (MG), que já duram quase uma semana e continuam causando mortes.

@@ -10,8 +10,6 @@ fontes:
   - "2026-02-24 - O EPSTEIN BRASILEIRO NÃO VAI SER PUNIDO"
 ---
 
-# O Epstein Brasileiro Não Vai Ser Punido
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=3erWy0Yb0j4) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo

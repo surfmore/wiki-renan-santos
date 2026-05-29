@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=k6ssBI7yAj8"
 ---
 
-# O Brasil precisa falar sobre a saída do Bolsa Família.
-
 **Canal:** Renan Santos | **Data:** 5 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=k6ssBI7yAj8
 

@@ -14,8 +14,6 @@ tags:
   - sátira
 ---
 
-# 5 carros alegóricos que faltaram no desfile do Lula
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=NnLWu3fRzmI)**
 
 Sátira de Renan sobre os cinco temas que, segundo ele, faltaram no desfile pró-Lula.

@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES
-
 Short em que Renan comenta a participação da deputada **Erika Hilton** no **Roda Viva**. O vídeo contém trechos citados da deputada, sobre os quais Renan reage ponto a ponto. Atribui-se a Renan apenas o que ele **claramente diz** — o vídeo também contém falas da própria Erika Hilton, que não são afirmações de Renan.
 
 ## O primeiro ponto de discordância

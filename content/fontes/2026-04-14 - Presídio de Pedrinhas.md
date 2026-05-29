@@ -13,8 +13,6 @@ tags:
   - sistema-prisional
 ---
 
-# Presídio de Pedrinhas
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=ULp_8oJL-ac)**
 
 Renan visita o **Presídio de Pedrinhas**, em São Luís (MA), e usa o histórico da unidade para defender seu modelo de sistema prisional inspirado no CECOT de El Salvador.

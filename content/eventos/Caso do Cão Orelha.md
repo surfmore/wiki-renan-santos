@@ -12,8 +12,6 @@ fontes:
   - "2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA"
 ---
 
-# Caso do Cão Orelha
-
 O **cão Orelha** era um animal de rua que vivia em uma comunidade de Santa Catarina e havia se tornado um símbolo afetivo local. Em janeiro de 2026, jovens de famílias ricas da região o torturaram e assassinaram — possivelmente no contexto de um **jogo de sadismo organizado na plataforma Discord**, com transmissão ao vivo para centenas de espectadores. O caso gerou comoção nacional e foi amplamente explorado por Renan Santos como símbolo de impunidade sistêmica.
 
 ## O que aconteceu

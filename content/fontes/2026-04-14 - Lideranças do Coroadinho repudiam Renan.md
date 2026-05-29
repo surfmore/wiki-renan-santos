@@ -13,8 +13,6 @@ tags:
   - segurança
 ---
 
-# Lideranças do Coroadinho repudiam Renan
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=QyXS1zM-Rls)**
 
 Resposta de Renan a uma nota de repúdio emitida por uma associação de moradores do **bairro Coroadinho** (São Luís, MA), após Renan ter chamado a região de "filial do inferno."

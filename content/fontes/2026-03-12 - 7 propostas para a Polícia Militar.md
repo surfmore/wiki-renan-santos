@@ -9,8 +9,6 @@ fontes:
   - "2026-03-12 - 7 propostas para a Polícia Militar"
 ---
 
-# 7 propostas para a Polícia Militar
-
 **Canal:** Renan Santos | **Data:** 12 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=3Q1oZt5mWxI)
 
 ## Resumo

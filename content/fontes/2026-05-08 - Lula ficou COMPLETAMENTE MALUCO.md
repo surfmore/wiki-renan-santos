@@ -8,8 +8,6 @@ fontes:
   - "2026-05-08 - Lula ficou COMPLETAMENTE MALUCO."
 ---
 
-# Lula ficou COMPLETAMENTE MALUCO.
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=vTK2aIdro00) | **Canal:** Renan Santos | **Data:** 08/05/2026 | **Tipo:** short
 
 ## Resumo

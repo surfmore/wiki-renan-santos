@@ -9,8 +9,6 @@ fontes:
   - "2026-04-29 - Fui censurado pelo Wesley Safadao"
 ---
 
-# Fui censurado pelo Wesley Safadao
-
 **Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=5fm2O80Px0k)
 
 ## Resumo

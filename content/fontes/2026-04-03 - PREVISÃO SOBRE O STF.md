@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# PREVISÃO SOBRE O STF
-
 Short em que Renan constrói um diagnóstico articulado sobre o **Supremo Tribunal Federal**, apresentando-o como **principal agente de sabotagem institucional do Brasil**. Pede explicitamente: "você precisa nos ajudar a destruir este STF".
 
 ## O caso Barroso e o aborto

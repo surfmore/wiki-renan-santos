@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=RA9C1wlmNgs
 ---
 
-# O que os estudantes da USP fizeram
-
 Renan Santos critica uma greve realizada por estudantes da USP, argumentando que o custo do paralisação representou um desvio de recursos que poderiam ter financiado segurança pública e moradia.
 
 A greve durou 28 dias. O orçamento anual da USP é de R$ 9 bilhões, e a paralisação teria custado R$ 643 milhões aos contribuintes paulistas. Renan afirma que com esse valor seria possível contratar 5.000 novos policiais, construir 3.000 moradias populares ou pagar 500.000 meses de auxílio moradia.

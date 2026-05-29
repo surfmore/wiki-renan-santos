@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Finalmente fui chamado de nazista nas redes sociais
-
 Renan comenta ataques que passou a receber nas redes sociais na mesma semana: acusações de ser nazista, de usar cogumelos e de ter dívidas insanáveis com a Receita Federal. Diz comemorar os ataques porque interpreta como sinal de que sua pré-candidatura está crescendo nas pesquisas.
 
 Contrapõe que não tem envolvimento em escândalos como o do Banco Master ou do INSS. Argumenta que construir esse tipo de ilação é um movimento previsível da imprensa contra candidatos de direita em ascensão, comparável ao que teria ocorrido com Trump, Milei e Bolsonaro.

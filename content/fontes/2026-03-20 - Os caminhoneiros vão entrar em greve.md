@@ -10,8 +10,6 @@ fontes:
   - "2026-03-20 - Os caminhoneiros vão entrar em greve"
 ---
 
-# Os caminhoneiros vão entrar em greve
-
 **Canal:** Renan Santos | **Data:** 20/03/2026
 **URL:** https://www.youtube.com/watch?v=97clrGs7kwI
 

@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=75OJODKHyvk
 ---
 
-# O Brasil não liga para os bairros mais pobres de São Paulo
-
 Gravado na **Brasilândia**, bairro da zona norte de São Paulo, Renan Santos usa a construção demorada do metrô local para ilustrar o que chama de "roubo federativo" contra São Paulo e seus moradores mais pobres.
 
 ## A obra do metrô da Brasilândia

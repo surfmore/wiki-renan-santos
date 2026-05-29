@@ -10,8 +10,6 @@ fontes:
   - "2026-03-11 - Eu farei o governo mais duro contra a criminalidade da história"
 ---
 
-# Eu farei o governo mais duro contra a criminalidade da história
-
 **Canal:** Renan Santos | **Data:** 11 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=ZWays_UrDFo)
 
 ## Resumo

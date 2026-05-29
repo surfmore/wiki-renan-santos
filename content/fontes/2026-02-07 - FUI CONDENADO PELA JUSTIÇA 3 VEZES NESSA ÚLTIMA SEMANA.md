@@ -12,8 +12,6 @@ fontes:
   - "2026-02-07 - FUI CONDENADO PELA JUSTIÇA 3 VEZES NESSA ÚLTIMA SEMANA"
 ---
 
-# Fui Condenado pela Justiça 3 Vezes Nessa Última Semana
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=I7um0YnQYZs)**
 
 Renan revela três condenações judiciais em uma semana e consulta os seguidores sobre como proceder — manter o pé no acelerador ou adotar postura mais cautelosa para não ficar inelegível.

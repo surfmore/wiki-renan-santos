@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=rZpIJnLy2h0
 ---
 
-# O centrão é o verdadeiro problema do Brasil!
-
 Trecho de entrevista (formato de mesa com interlocutor) em que Renan expõe sua tese de que o verdadeiro poder no Brasil está no centrão — e não na polarização esquerda-direita frequentemente debatida na internet.
 
 Renan aponta que o "homem mais poderoso da política brasileira" é um senador do Amapá (referência a Davi Alcolumbre), e antes dele era Ciro Nogueira do Piauí — dois estados periféricos cujos representantes controlam o jogo de Brasília por fora da narrativa de esquerda e direita. Afirma que as pessoas das regiões mais pobres do Brasil continuam pobres sob esse sistema porque os eleitores não cobram desempenho dos próprios deputados.

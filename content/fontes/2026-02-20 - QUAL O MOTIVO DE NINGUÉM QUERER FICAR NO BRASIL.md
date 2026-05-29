@@ -10,8 +10,6 @@ fontes:
   - "2026-02-20 - QUAL O MOTIVO DE NINGUÉM QUERER FICAR NO BRASIL"
 ---
 
-# Qual o Motivo de Ninguém Querer Ficar no Brasil
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=hf85snfb_jQ) · Canal Renan Santos · Short · 20/02/2026
 
 ## Resumo

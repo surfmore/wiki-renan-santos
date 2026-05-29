@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Um pedido de desculpas
-
 Short de **1º de abril** — Renan declara no fim do vídeo: "é que hoje é primeiro de abril". O formato é o de uma **falsa retratação**, lida em tom de "nota oficial", em que Renan finge retirar sua pré-candidatura e endossar **Flávio Bolsonaro**. Funciona como peça satírica que recapitula suas críticas ao senador de forma invertida.
 
 ## As "desculpas" irônicas

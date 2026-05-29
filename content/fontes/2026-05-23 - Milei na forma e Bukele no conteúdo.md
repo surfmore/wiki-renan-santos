@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=xj90cmHOeUI
 ---
 
-# Milei na forma e Bukele no conteúdo
-
 Short em que Renan responde à caracterização feita por uma emissora de televisão de que ele seria "Milei na forma e Bukele no conteúdo". Em vez de rejeitar a comparação, Renan a abraça e desenvolve o paralelo.
 
 **Milei na forma:** candidato "meio descabelado" com banda de rock, que vai à imprensa dizer que vai mexer em todos os privilégios e fazer reformas que os marqueteiros consideram impopulares. Um sujeito que comete "sincericídios" — dizendo coisas que podem fazer perder votos. Renan identifica isso como a maneira como o Estadão já havia descrito seu estilo.

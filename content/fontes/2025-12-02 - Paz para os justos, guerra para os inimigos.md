@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=kmufonty9Nc"
 ---
 
-# Paz para os justos, guerra para os inimigos
-
 **Data:** 2 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=kmufonty9Nc

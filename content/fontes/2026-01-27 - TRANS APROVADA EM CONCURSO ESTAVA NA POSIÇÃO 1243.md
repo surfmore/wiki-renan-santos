@@ -13,8 +13,6 @@ tags:
   - pautas-identitárias
 ---
 
-# Trans Aprovada em Concurso Estava na Posição 1243
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=G7DUEggfhiY)**
 
 Renan usa o caso de **Duda Odara** — pessoa que se define como "transnegra" — como argumento central contra todos os sistemas de cotas no Brasil.

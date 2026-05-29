@@ -14,8 +14,6 @@ fontes:
   - "2026-01-22 - MANIFESTAÇÃO PELO IMPEACHMENT DO DIAS TOFFOLI E PRISÃO DO DANIEL VORCARO"
 ---
 
-# Manifestação do Banco Master — 22 de janeiro de 2026
-
 Ato organizado por Renan Santos na **frente da sede do Banco Master em São Paulo**, realizado em **22 de janeiro de 2026** (quinta-feira).
 
 ## Convocação

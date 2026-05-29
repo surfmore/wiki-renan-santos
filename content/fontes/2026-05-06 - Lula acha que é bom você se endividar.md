@@ -8,8 +8,6 @@ fontes:
   - "2026-05-06 - Lula acha que é bom você se endividar"
 ---
 
-# Lula acha que é bom você se endividar
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=6RnNW0SMwZM) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo

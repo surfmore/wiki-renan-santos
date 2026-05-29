@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso
-
 Short ancorado em um trecho de entrevista em que **Flávio Bolsonaro**, confrontado sobre seu voto a favor do "PL da misoginia", responde: "todo mundo sabe que estamos em ano eleitoral e essa era uma grande armadilha do PT. Qual a dificuldade de entender isso, cara?" Flávio também diz no trecho que o projeto é "ruim", que "vai gerar censura" e que "quem é de direita não pode ser a favor de instrumentos que o governo use para censurar".
 
 Renan reage dizendo que **"não acredita que tenha gente que ouse falar em votar nesse sujeito"**.

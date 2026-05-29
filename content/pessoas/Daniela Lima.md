@@ -8,8 +8,6 @@ fontes:
   - "2026-01-09 - Resposta para Daniela Lima"
 ---
 
-# Daniela Lima
-
 Jornalista do Grupo Globo/GloboNews, conhecida por cobertura de política. Renan Santos a cita como exemplo de jornalista que, na sua avaliação, apaga a linha entre análise jornalística e militância política.
 
 ## O episódio da queda de Bolsonaro (janeiro de 2026)

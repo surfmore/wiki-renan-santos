@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=ggU3eQDGJCw"
 tipo: short
 ---
 
-# A melhor capital do Brasil está virando uma Cracolândia
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=ggU3eQDGJCw)**
 
 Renan visita o **Marco Zero de Curitiba** — considerada a melhor capital do Brasil — e documenta a degradação do espaço público pela concentração de moradores de rua, usuários de drogas e traficantes, propondo legislação federal de intervenção.

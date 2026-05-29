@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=nGfAcKp6-qs"
 ---
 
-# Não sobra NADA...
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=nGfAcKp6-qs)**
 
 Renan critica o pacto federativo como um sistema de redistribuição que beneficia políticos corruptos do Norte e Nordeste às custas de quem trabalha nas demais regiões — e apresenta os três mecanismos da sua proposta de reforma.

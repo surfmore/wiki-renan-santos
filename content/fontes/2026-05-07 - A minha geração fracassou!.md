@@ -8,8 +8,6 @@ fontes:
   - "2026-05-07 - A minha geração fracassou!"
 ---
 
-# A minha geração fracassou!
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=MFmwJAXV2Y8) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo

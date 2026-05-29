@@ -8,8 +8,6 @@ fontes:
   - "2026-05-08 - RENATO CARIANI COMENTA SOBRE SHOWS EM CIDADES MISERÁVEIS"
 ---
 
-# RENATO CARIANI COMENTA SOBRE SHOWS EM CIDADES MISERÁVEIS
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=YspKc1duuCY) | **Canal:** Renan Santos | **Data:** 08/05/2026 | **Tipo:** short
 
 ## Resumo

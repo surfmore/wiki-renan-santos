@@ -10,8 +10,6 @@ fontes:
   - "2026-03-01 - JUÍZA NÃO ESTÁ RECEBENDO LANCHE"
 ---
 
-# Judiciário e Supersalários
-
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
 
 ## "O judiciário mais caro do mundo"

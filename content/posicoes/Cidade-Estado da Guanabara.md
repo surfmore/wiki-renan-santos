@@ -7,8 +7,6 @@ tags:
 date: 2026-04-04
 ---
 
-# Cidade-Estado da Guanabara
-
 Proposta de **transformar a cidade do Rio de Janeiro em uma cidade-estado autônoma**, separando-a do atual estado do Rio de Janeiro e recriando, sob novo formato, algo próximo ao antigo **estado da Guanabara** (extinto com a fusão de 1975). Renan apresenta a ideia como parte de seu projeto de governo e diz mantê-la, apesar da "confusão" que provocou na imprensa e entre políticos do estado.
 
 ## Justificativa

@@ -9,8 +9,6 @@ fontes:
   - "2026-05-07 - BOM DIA, CIRO NOGUEIRA."
 ---
 
-# Ciro Nogueira
-
 Senador da República pelo PP (Progressistas), presidente do partido, e uma das figuras centrais do que Renan Santos descreve como "centrão". Natural do Piauí, estado que Renan cita como exemplo do ciclo entre pobreza extrema e políticos corruptos.
 
 > Nota: esta página reúne afirmações feitas por Renan Santos em seus vídeos. Acusações são reprodução das declarações dele.

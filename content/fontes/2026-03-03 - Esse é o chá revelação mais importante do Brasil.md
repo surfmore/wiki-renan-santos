@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=sak4Wd4-pPw"
 ---
 
-# Esse é o chá revelação mais importante do Brasil
-
 A partir de um vídeo viral de chá de revelação com um casal disfuncional, Renan analisa o ciclo social de famílias desestruturadas e como isso perpetua violência e pobreza.
 
 ## O argumento central

@@ -13,8 +13,6 @@ tags:
   - humor
 ---
 
-# O que é melhor no Maranhão
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=1xtY8sL9JXk)**
 
 Vídeo no formato de "duelo" humorístico em que Renan responde qual de duas situações ruins é menos pior. Todas as perguntas envolvem o **Presídio de Pedrinhas** como um dos itens — e o presídio vence em todas as comparações.

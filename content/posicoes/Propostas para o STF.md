@@ -9,8 +9,6 @@ fontes:
   - "2026-03-08 - 7 propostas pro STF"
 ---
 
-# Propostas para o STF
-
 Conjunto de sete propostas concretas que Renan Santos afirma que encaminhará como presidente da República para reformar o Supremo Tribunal Federal.
 
 Contexto: Renan vê o STF atual como instituição que deixou de ser um tribunal constitucional e se tornou uma ferramenta de poder político. Ver [[temas/STF e Ativismo Judicial]].

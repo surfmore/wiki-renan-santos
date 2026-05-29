@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=xgnXRQFcfjI"
 ---
 
-# URGENTE - Trump sequestra Maduro e inaugura uma nova era na América Latina
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=xgnXRQFcfjI)**
 
 Renan comemora a operação americana que depôs Nicolás Maduro — descrita como uma invasão noturna ao palácio presidencial com poucas baixas — mas faz uma leitura ambivalente: é boa do ponto de vista humanitário, mas representa uma derrota geopolítica para o Brasil.

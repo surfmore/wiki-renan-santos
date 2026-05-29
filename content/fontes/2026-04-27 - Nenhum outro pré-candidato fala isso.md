@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Nenhum outro pré-candidato fala isso
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=sTm4DxVCXpE)**
 
 Em trecho de entrevista, Renan Santos apresenta sua visão sobre defesa nacional e geopolítica em um cenário internacional em que, segundo ele, **o Brasil não tem defesa aérea** e está no meio do conflito entre EUA e China.

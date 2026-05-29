@@ -8,8 +8,6 @@ fontes:
   - "2026-05-05 - Você é a favor ou contra pregação em aviões"
 ---
 
-# Você é a favor ou contra pregação em aviões
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=0QSpOjFyfmY) | **Canal:** Renan Santos | **Data:** 05/05/2026 | **Tipo:** short
 
 ## Resumo

@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=PnzQayORKUg"
 ---
 
-# Resposta para Daniela Lima
-
 **Canal:** Renan Santos | **Data:** 9 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=PnzQayORKUg
 

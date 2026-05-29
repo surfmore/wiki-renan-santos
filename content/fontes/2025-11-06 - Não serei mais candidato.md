@@ -10,8 +10,6 @@ fontes:
   - "2025-11-06 - Não serei mais candidato!"
 ---
 
-# Não serei mais candidato!
-
 **Canal:** Renan Santos | **Data:** 6 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=5pYDU3UcLKo
 

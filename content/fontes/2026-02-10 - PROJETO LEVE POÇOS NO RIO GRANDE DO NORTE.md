@@ -12,8 +12,6 @@ fontes:
   - "2026-02-10 - PROJETO LEVE POÇOS NO RIO GRANDE DO NORTE"
 ---
 
-# Projeto Leve Poços no Rio Grande do Norte
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=TvuFple3kPU)**
 
 Renan visita instalação do projeto **Leve Poços** (site: levepoos.com) no sertão do Rio Grande do Norte — um poço artesiano movido por energia solar para irrigação agrícola em área remota da caatinga.

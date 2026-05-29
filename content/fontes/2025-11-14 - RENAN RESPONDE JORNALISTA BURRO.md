@@ -9,8 +9,6 @@ fontes:
   - "2025-11-14 - RENAN RESPONDE JORNALISTA BURRO!"
 ---
 
-# RENAN RESPONDE JORNALISTA BURRO!
-
 **Canal:** Renan Santos | **Data:** 14 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=MuiVB4zOkOU
 

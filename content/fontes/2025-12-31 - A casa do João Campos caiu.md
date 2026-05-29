@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=dc0QpOjOMTo"
 ---
 
-# A casa do João Campos caiu
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=dc0QpOjOMTo)**
 
 Renan denuncia um esquema de corrupção na Procuradoria do Município de Recife: um amigo de João Campos teria assumido o cargo de procurador municipal após fraudar concurso público alegando ser uma Pessoa com Deficiência (PCD) — apesar de ter ficado "para lá de 6ês" na prova.

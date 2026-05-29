@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Quem quer peixe
-
 Renan monta um compilado de três episódios municipais para argumentar que a distribuição de alimentos na Semana Santa se tornou um padrão de populismo em prefeituras pobres do Nordeste:
 
 1. **Nunes Freire (MA)** — um **caminhão de lixo** é usado para transportar peixes; os peixes são despejados no chão e a população os recolhe em meio à rua.

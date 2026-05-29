@@ -22,8 +22,6 @@ fontes:
   - "2025-12-08 - Sou número 1 das pesquisas"
 ---
 
-# Valdemar Costa Neto
-
 **Quem é:** Fundador e presidente do Partido Liberal (PL). Para Renan Santos, é o personagem que mais sintetiza a fraude do bolsonarismo institucional: um político condenado duas vezes por corrupção junto ao PT que se tornou o dono do maior partido da direita brasileira — e que controla a candidatura de Flávio Bolsonaro como se fosse um ativo.
 
 > "Valdemar não tem que ter uma opinião. Valdemar tem que ter uma cela."

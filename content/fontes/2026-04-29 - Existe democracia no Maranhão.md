@@ -10,8 +10,6 @@ fontes:
   - "2026-04-29 - Existe democracia no Maranhão"
 ---
 
-# Existe democracia no Maranhão
-
 **Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=YfXqj2bJL6Y)
 
 ## Resumo

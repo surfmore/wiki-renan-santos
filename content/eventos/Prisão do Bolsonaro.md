@@ -9,8 +9,6 @@ fontes:
   - "2025-11-22 - Sobre a prisão do Bolsonaro"
 ---
 
-# Prisão do Bolsonaro
-
 **Data do evento:** 22 de novembro de 2025 (sábado)
 
 Jair Bolsonaro foi preso em novembro de 2025, em decisão de [[pessoas/Alexandre de Moraes]] no âmbito do inquérito que investigava os atos de 8 de janeiro e a tentativa de golpe após as eleições de 2022.

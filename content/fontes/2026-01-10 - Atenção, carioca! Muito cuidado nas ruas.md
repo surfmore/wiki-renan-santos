@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=tn3bXE7YvHM"
 ---
 
-# Atenção, carioca! Muito cuidado nas ruas!
-
 **Canal:** Renan Santos | **Data:** 10 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=tn3bXE7YvHM
 

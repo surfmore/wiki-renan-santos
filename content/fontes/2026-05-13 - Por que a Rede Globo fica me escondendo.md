@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=yvo1947-p9k
 ---
 
-# Por que a Rede Globo fica me escondendo
-
 Renan Santos dirige um recado formal, como pré-candidato à presidência, à Rede Globo. O tom é calculado — Renan diz explicitamente que poderia ter feito um vídeo raivoso com mais visualizações, mas preferiu a calma para que a gravidade do tema fosse entendida.
 
 Renan afirma estar em terceiro lugar nas pesquisas Atlas Intel, ter subido mesmo nos institutos que "claramente o sabotam" (como o Quest, onde foi de 1% a 3%), e estar tecnicamente empatado com governadores. Cita como evidência que seus eventos têm grande público e que todas as emissoras de TV o receberam — exceto o grupo Globo, que adota política de "fingir que ele não existe".

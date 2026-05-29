@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-# JUÍZA NÃO ESTÁ RECEBENDO LANCHE
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=fDG4jF6laSc)**
 
 Renan reage a um vídeo de uma **juíza aposentada** que se queixa publicamente das condições precárias do judiciário de primeiro grau — sem "lanche" regular, sem motorista, sem apartamento funcional — dizendo não conseguir se organizar com o orçamento mensal.

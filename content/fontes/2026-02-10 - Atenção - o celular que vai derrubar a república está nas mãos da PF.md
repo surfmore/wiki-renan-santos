@@ -12,8 +12,6 @@ fontes:
   - "2026-02-10 - Atenção - o celular que vai derrubar a república está nas mãos da PF"
 ---
 
-# Atenção: O Celular que Vai Derrubar a República Está nas Mãos da PF
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=MCiNg1syz40)**
 
 Renan relata que a PF apreendeu o celular de **Daniel Vorcaro** (Banco Master), que havia tentado apagar dados, e está recuperando as conversas com software especializado.

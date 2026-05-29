@@ -11,8 +11,6 @@ fontes:
   - "2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA"
 ---
 
-# Desigualdade Regional e Migração Interna
-
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
 
 ## Santo Antônio dos Lopes (MA): a cidade mais rica que parece a mais pobre (abril de 2026)

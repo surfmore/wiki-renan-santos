@@ -12,8 +12,6 @@ tags:
   - lula
 ---
 
-# Escola de samba que fez homenagem ao Lula é rebaixada
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=e1xNJj3L4Vk)**
 
 Short musical/satírico de Renan comemorando o rebaixamento da escola de samba que homenageou Lula no carnaval de 2026. O vídeo é composto por rimas — não há análise política desenvolvida.

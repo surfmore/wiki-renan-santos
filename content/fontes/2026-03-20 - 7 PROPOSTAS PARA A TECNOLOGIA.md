@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=fCcFe8yqgYc"
 ---
 
-# 7 PROPOSTAS PARA A TECNOLOGIA
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=fCcFe8yqgYc)**
 
 Renan Santos apresenta sete medidas inspiradas em modelos internacionais para transformar o Brasil em polo de tecnologia e empreendedorismo.

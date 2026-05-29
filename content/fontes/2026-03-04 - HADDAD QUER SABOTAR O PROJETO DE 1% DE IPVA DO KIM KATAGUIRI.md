@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=pvMf-x7n5yM"
 ---
 
-# HADDAD QUER SABOTAR O PROJETO DE 1% DE IPVA DO KIM KATAGUIRI
-
 Renan denuncia a mobilização do ministro Fernando Haddad para barrar a proposta de Kim Kataguiri que reduziria o IPVA a 1% do valor do veículo.
 
 ## O projeto

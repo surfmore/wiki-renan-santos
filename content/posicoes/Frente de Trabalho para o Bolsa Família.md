@@ -11,8 +11,6 @@ fontes:
   - "2026-03-17 - Não sabiam que eu estava ouvindo"
 ---
 
-# Frente de Trabalho para o Bolsa Família
-
 Proposta central de Renan Santos para reformar o Bolsa Família: em vez de cortar o benefício, condicionar o acesso à participação em **frentes de trabalho** — inspirado no modelo do presidente americano Franklin Roosevelt durante a Grande Depressão.
 
 ## Confirmação direta: "ou rala ou rola" (abril de 2026)

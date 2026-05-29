@@ -8,8 +8,6 @@ video_id: xHEwKmdxDaU
 url: "https://www.youtube.com/watch?v=xHEwKmdxDaU"
 ---
 
-# Nosso maior adversário é a falta de imaginação.
-
 **Data:** 21 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=xHEwKmdxDaU)

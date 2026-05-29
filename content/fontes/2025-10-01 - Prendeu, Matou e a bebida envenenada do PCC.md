@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Prendeu, Matou e a bebida envenenada do PCC
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=LO_GAQ3ZD-I)**
 
 Renan Santos comenta o desmantelamento de um **laboratório clandestino** que misturava metanol a bebidas alcoólicas para distribuição — operação atribuída ao **PCC**. Mortes e casos de cegueira foram registrados.

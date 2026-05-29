@@ -14,8 +14,6 @@ fontes:
   - "2026-03-21 - Wesley Safadão e as prefeituras do interior do país"
 ---
 
-# Wesley Safadão
-
 **Quem é:** Cantor e empresário cearense de forró e tecnobrega. Renan Santos o usa como o caso mais emblemático do esquema de desvio de dinheiro público via shows musicais em municípios pobres — e de censura judicial a um pré-candidato à presidência.
 
 ## O que o Renan Santos disse

@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=rMBjrgkoPO8"
 ---
 
-# Precisamos falar sobre a Igreja Lagoinha
-
 **Canal:** Renan Santos | **Data:** 7 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=rMBjrgkoPO8
 

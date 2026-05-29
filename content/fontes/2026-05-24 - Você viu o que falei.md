@@ -8,8 +8,6 @@ fontes:
   - "2026-05-24 - Você viu o que falei"
 ---
 
-# Você viu o que falei
-
 **Data:** 24 de maio de 2026
 **Canal:** Renan Santos (short — clip de entrevista em TV)
 **URL:** https://www.youtube.com/watch?v=gGko7I7aul8

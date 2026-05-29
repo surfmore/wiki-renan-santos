@@ -13,8 +13,6 @@ fontes:
   - "2026-03-31 - ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES"
 ---
 
-# Pautas Identitárias e de Gênero
-
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
 
 ## Autismo: laudos fraudulentos vendidos e BPC duplicado (maio de 2026 — continuação)

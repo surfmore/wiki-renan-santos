@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=MFyMX6ulJmc"
 ---
 
-# Kim Kataguiri será investigado por possível desvio em emendas
-
 Renan relata o episódio que descreve como o primeiro ato de Kim Kataguiri como deputado federal do Partido Missão: o próprio deputado pediu investigação sobre suas emendas ao perceber irregularidades no destino dos recursos.
 
 ## O caso

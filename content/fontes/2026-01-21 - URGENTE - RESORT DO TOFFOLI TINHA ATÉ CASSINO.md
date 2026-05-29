@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=zjUV9Xdi2kM"
 tipo: short
 ---
 
-# URGENTE - RESORT DO TOFFOLI TINHA ATÉ CASSINO
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=zjUV9Xdi2kM)**
 
 **Primeiro vídeo de Renan Santos** detalhando a conexão entre Dias Toffoli e o Banco Master via resort no Paraná — o que mais tarde ficou conhecido como o **Resort Tayaya**. Este vídeo data de 21 de janeiro de 2026, semanas antes das reportagens de fevereiro e das visitas presenciais de março.

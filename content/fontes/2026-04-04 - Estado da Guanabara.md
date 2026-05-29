@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Estado da Guanabara
-
 Short em que Renan defende transformar a cidade do Rio de Janeiro em **cidade-estado autônoma**, separando-a do restante do estado e recriando sob novo formato algo próximo ao antigo **estado da Guanabara**. Diz ter sido cancelado por propor a ideia em vídeos anteriores e retoma o tema prometendo explicá-la em detalhe.
 
 ## A tese

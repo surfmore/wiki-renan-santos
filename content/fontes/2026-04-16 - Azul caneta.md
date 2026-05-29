@@ -8,8 +8,6 @@ video_id: hgR7fnmEkdQ
 url: "https://www.youtube.com/watch?v=hgR7fnmEkdQ"
 ---
 
-# Azul caneta
-
 **Data:** 16 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=hgR7fnmEkdQ)

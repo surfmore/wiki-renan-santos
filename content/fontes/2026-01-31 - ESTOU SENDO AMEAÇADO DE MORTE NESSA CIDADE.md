@@ -13,8 +13,6 @@ tags:
   - crime-organizado
 ---
 
-# Estou Sendo Ameaçado de Morte Nessa Cidade
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=VtU7gWYO8X8)**
 
 Gravado em **Santa Quitéria**, no interior do Ceará, município controlado pelo Comando Vermelho e com extração de urânio próxima. Renan declara que é "jurado de morte" na cidade e explica o porquê.

@@ -9,8 +9,6 @@ fontes:
   - "2026-04-28 - Pena de morte no Brasil"
 ---
 
-# Pena de morte no Brasil
-
 **Canal:** Renan Santos | **Data:** 28/04/2026 | [YouTube](https://www.youtube.com/watch?v=hvseJb8iBTQ)
 
 ## Resumo

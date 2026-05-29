@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=MFRtLzbHb0Y
 ---
 
-# Lula ficou COMPLETAMENTE MALUCO
-
 Short de reação a uma declaração de Lula em coletiva de imprensa sobre como combater o crime organizado nas cidades.
 
 Renan reproduz a fala de Lula: para combater o crime, basta ir a uma área controlada pelo Comando Vermelho e dizer "aqui é do povo". Renan reage com ironia: "Ficou sem palavras" diante da solução proposta. Encena ele mesmo indo a uma área do CV e repetindo a frase, concluindo que "vai funcionar, galera".

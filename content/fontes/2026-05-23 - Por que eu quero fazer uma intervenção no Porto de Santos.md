@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=EwrcgSYGpwY
 ---
 
-# Por que eu quero fazer uma intervenção no Porto de Santos
-
 Short gravado no Porto de Santos com o policial federal Caio Mendonça (pré-candidato a deputado federal pelo Partido Missão), especialista em lavagem de dinheiro.
 
 Renan descreve o Porto de Santos como **a principal fonte de faturamento do PCC**: é por ali que a droga proveniente da Bolívia e da América Latina é exportada em operação multimilionária que, segundo ele, torna a organização invulnerável ao ataque das polícias. A logística envolve a Baixada Santista como área de triagem e armazenamento, com inserção das drogas em contêineres enviados para outros países.

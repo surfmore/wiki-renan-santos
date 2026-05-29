@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=RvjTCtoYsxY"
 ---
 
-# Você foi convocado!
-
 **Canal:** Renan Santos | **Data:** 8 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=RvjTCtoYsxY
 

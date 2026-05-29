@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=CPBUADfG9Hk
 ---
 
-# O PT está serelepe achando que ninguém vai lembrar do papel deles no escândalo com Daniel Vorcaro
-
 Renan Santos reconstrói a linha do tempo da participação do PT no crescimento do Banco Master, como resposta às tentativas do partido de usar o escândalo apenas contra os Bolsonaros.
 
 ## A origem PT do Banco Master

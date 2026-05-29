@@ -8,8 +8,6 @@ video_id: 8JqnW78iLWA
 url: "https://www.youtube.com/watch?v=8JqnW78iLWA"
 ---
 
-# Minas Gerais país independente¿
-
 **Data:** 21 de abril de 2026 (Dia de Tiradentes)
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=8JqnW78iLWA)

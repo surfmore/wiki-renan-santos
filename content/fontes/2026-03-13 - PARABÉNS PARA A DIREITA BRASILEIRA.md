@@ -10,8 +10,6 @@ fontes:
   - "2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA..."
 ---
 
-# PARABÉNS PARA A DIREITA BRASILEIRA...
-
 **Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=HovZVOAjtWs)
 
 ## Resumo

@@ -11,8 +11,6 @@ fontes:
   - "2026-03-11 - Vim no resort do Toffoli mostrar a parte de jogos que tentaram esconder"
 ---
 
-# Vim no resort do Toffoli mostrar a parte de jogos que tentaram esconder
-
 **Canal:** Renan Santos | **Data:** 11 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=Yv9F81iu6zI)
 
 ## Resumo

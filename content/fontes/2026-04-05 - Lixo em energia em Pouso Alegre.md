@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Você já pensou em transformar lixo em energia
-
 Em **Pouso Alegre (MG)**, novamente acompanhado do vereador **"Russo"** ([[fontes/2026-04-06 - Centro de Monitoramento de Pouso Alegre]]), Renan visita uma **usina termoquímica** que transforma lixo em energia elétrica. Apresenta o equipamento como possivelmente o de maior capacidade desse tipo no Brasil e cita como termo de comparação que os chineses "estão sem lixo" porque transformaram todo o resíduo doméstico em energia.
 
 O vídeo evolui para uma denúncia: a usina funciona em **PPP** (parceria público-privada) com a prefeitura, mas está emperrada por um personagem local conhecido como **"Pezão"**, apontado pelos entrevistados como aliado do prefeito e ponto de contato informal entre a administração municipal e a iniciativa privada. Segundo a narrativa do vídeo, há crime ambiental ocorrendo na frente da usina — lixo descartado e queimado ao ar livre sem fiscalização.

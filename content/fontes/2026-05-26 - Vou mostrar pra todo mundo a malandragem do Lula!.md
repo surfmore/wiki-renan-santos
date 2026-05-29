@@ -13,8 +13,6 @@ tags:
   - politica-economica
 ---
 
-# Vou mostrar pra todo mundo a malandragem do Lula!
-
 **Data:** 26 de maio de 2026
 **Canal:** Renan Santos
 **URL:** https://www.youtube.com/watch?v=RNNhQLBH2p4

@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=t-Fr5ZyNRbE"
 ---
 
-# ESSE PODE SER O FIM DO INQUÉRITO DAS FAKE NEWS
-
 Renan analisa como mensagens extraídas do celular de Daniel Vorcaro sugerem que o Inquérito das Fake News poderia ter sido usado como instrumento de pressão política.
 
 ## A descoberta da Polícia Federal

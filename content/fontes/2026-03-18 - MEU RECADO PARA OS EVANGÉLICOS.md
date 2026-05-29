@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=MMWiu86lShc"
 tipo: short
 ---
 
-# MEU RECADO PARA OS EVANGÉLICOS
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=MMWiu86lShc)**
 
 Renan dirige-se diretamente aos evangélicos brasileiros que passaram a segui-lo após suas denúncias sobre a Igreja Lagoinha, distinguindo líderes corruptos de fiéis que são vítimas.

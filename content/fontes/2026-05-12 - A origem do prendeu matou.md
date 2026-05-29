@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=S3SdwMbXBkU
 ---
 
-# A origem do "prendeu matou"
-
 Renan conta a origem do bordão "prendeu matou" e explica como ele se transformou em proposta política concreta: o **direito penal do inimigo** aplicado a membros de facções.
 
 O caso que originou o bordão: o ciclista **Vítor Felisberto**, paulistano que andava de bicicleta pela cidade, foi vítima de latrocínio — teve o celular roubado e levou um tiro no peito. Renan reagiu ao caso em uma live e lançou o bordão espontaneamente: *"não como algo calculado, mas como um grito de ódio sobre o que deveríamos fazer contra os membros das facções."*

@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=PAuW9HpW7Vg"
 tipo: short
 ---
 
-# A CIDADE DO NORDESTE QUE DERROTOU O CRIME
-
 **Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=PAuW9HpW7Vg)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

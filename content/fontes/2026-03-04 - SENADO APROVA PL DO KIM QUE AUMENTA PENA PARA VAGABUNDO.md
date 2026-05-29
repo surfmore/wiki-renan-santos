@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=1hf41Y-1hoQ"
 ---
 
-# SENADO APROVA PL DO KIM QUE AUMENTA PENA PARA VAGABUNDO
-
 Renan comemora a aprovação no Senado do projeto de lei de Kim Kataguiri que aumenta penas para roubo, furto e receptação.
 
 ## O projeto

@@ -8,8 +8,6 @@ video_id: YpNzZAASGGg
 url: "https://www.youtube.com/watch?v=YpNzZAASGGg"
 ---
 
-# Erika Hilton x Madeleine Lackso
-
 **Data:** 19 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=YpNzZAASGGg)

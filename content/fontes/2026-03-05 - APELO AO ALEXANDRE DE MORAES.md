@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=DGbEZzJtZ98"
 ---
 
-# APELO AO ALEXANDRE DE MORAES
-
 Apelo direto de Renan ao ministro Alexandre de Moraes para que encerre o Inquérito das Fake News e devolva o estado democrático de direito.
 
 ## O tom: chamado à razão, não ataque

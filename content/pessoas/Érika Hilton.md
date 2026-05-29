@@ -8,8 +8,6 @@ tags:
 date: 2026-05-04
 ---
 
-# Érika Hilton
-
 Deputada federal pelo PSOL (SP), figura usada por Renan Santos recorrentemente como exemplo da "esquerda identitária" que, na sua leitura, prejudica as mulheres reais ao priorizar pautas simbólicas sobre segurança física e punição efetiva de crimes.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.

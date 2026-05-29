@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# POLÊMICA SOBRE O VALE-GÁS DO LULA
-
 Em participação em programa ao vivo, Renan critica o programa Vale-Gás do governo Lula. Argumenta que o governo "dá com uma mão e tira com a outra": entrega um botijão de gás ou um auxílio visível enquanto aumenta impostos embutidos nos produtos que a mesma pessoa consome.
 
 Sustenta que o aumento de imposto é feito "quietinho", sem propaganda, e por isso a população pobre continua pobre mesmo recebendo benefícios. Promete encerrar essa lógica no seu governo.

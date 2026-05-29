@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# EU FUI NA CIDADE MAIS POBRE DO BRASIL
-
 Renan visita Marajá do Sena, no centro do Maranhão, apresentada como a cidade de menor IDH do Brasil. Cita que o IDH local é de 0,4 — número que, segundo ele, "assusta até nações da África subsaariana em guerra". Mais de 60% da população está no Bolsa Família e praticamente não há emprego formal.
 
 A partir do caso, apresenta sua tese de **[[posicoes/Fusão de Municípios|fusão de municípios]]**: argumenta que muitas cidades pequenas existem apenas porque oligarquias locais brigaram com oligarquias dominantes e se emanciparam, criando novas prefeituras apenas para captar repasses. Propõe unir esses municípios em "macromunicípios" com indicadores de desempenho (educação, saúde, segurança, IDH). Prefeito que não bater as metas ficaria inelegível.

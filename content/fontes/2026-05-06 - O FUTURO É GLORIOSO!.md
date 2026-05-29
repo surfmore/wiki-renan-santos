@@ -8,8 +8,6 @@ fontes:
   - "2026-05-06 - O FUTURO É GLORIOSO!"
 ---
 
-# O FUTURO É GLORIOSO!
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=9IP5LaqTj8Q) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo

@@ -6,8 +6,6 @@ tags:
 date: 2026-05-25
 ---
 
-# Segurança Pública
-
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
 ## Bahia: segundo estado mais violento, governador impede a PM (maio de 2026)

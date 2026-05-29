@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=cWJ3MagWhes"
 tipo: short
 ---
 
-# A cidade no Maranhão que conseguiu unir Bolsonaro e Lula
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=cWJ3MagWhes)**
 
 Renan visita **Estreito (MA)** — cidade de 30 mil habitantes onde o prefeito é do PL bolsonarista e a vice do PT lulista — e usa o caso para ilustrar a tese de que a divisão ideológica é irrelevante diante da má gestão que afeta ambos os campos.

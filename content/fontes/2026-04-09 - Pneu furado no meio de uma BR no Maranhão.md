@@ -11,8 +11,6 @@ video_id: Q-BSgjINs6s
 url: "https://www.youtube.com/watch?v=Q-BSgjINs6s"
 ---
 
-# Pneu furado no meio de uma BR no Maranhão
-
 Short gravado à beira de uma BR federal no Maranhão, após Renan furar **dois pneus ao mesmo tempo** em uma estrada federal "sem nenhuma sinalização, toda esburacada".
 
 ## Resumo

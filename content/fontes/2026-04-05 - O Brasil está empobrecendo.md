@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# O Brasil está empobrecendo, fora Lula
-
 Renan parte de uma cena em um evento oficial em que uma apoiadora de **Lula** pede emprego ao próprio presidente "ao vivo" e constrói o argumento econômico central do vídeo: apesar de o governo comemorar "pleno emprego" nas estatísticas, há um padrão de **destruição de empregos de salário mais alto e aumento apenas de subempregos**.
 
 Apresenta uma estatística atribuída à equipe do "livro amarelo" do MBL mostrando a variação de vagas por faixa salarial — quanto maior a faixa, maior a perda; só as faixas mais baixas cresceram. Conclui que "o Brasil está empobrecendo": as pessoas trabalham mas não conseguem pagar as contas porque **ganham menos e pagam mais caro**.

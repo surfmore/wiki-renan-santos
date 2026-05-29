@@ -8,8 +8,6 @@ fontes:
   - "2026-05-08 - Tabata Amaral é solidária com o Recife"
 ---
 
-# Tabata Amaral é solidária com o Recife
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=I9vIsK8Gn4Y) | **Canal:** Renan Santos | **Data:** 08/05/2026 | **Tipo:** short
 
 ## Resumo

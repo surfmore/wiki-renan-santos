@@ -10,8 +10,6 @@ fontes:
   - "2026-03-09 - Eu fui no resort do Toffoli, o tal do Tayaya"
 ---
 
-# Eu fui no resort do Toffoli, o tal do Tayaya
-
 **Canal:** Renan Santos | **Data:** 9 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=84ukI9cgV-4)
 
 ## Resumo

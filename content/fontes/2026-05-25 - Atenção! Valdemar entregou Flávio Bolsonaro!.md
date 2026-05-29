@@ -13,8 +13,6 @@ url: "https://www.youtube.com/watch?v=2QYr3LnMD1w"
 tipo: short
 ---
 
-# Atenção! Valdemar entregou Flávio Bolsonaro!
-
 **Data:** 25 de maio de 2026 | **Canal:** Renan Santos | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=2QYr3LnMD1w
 

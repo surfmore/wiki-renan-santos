@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=AReGWFyN2u8"
 tipo: short
 ---
 
-# MAIS UM CASO DE VIOLÊNCIA EM SANTA CATARINA
-
 **Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=AReGWFyN2u8)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

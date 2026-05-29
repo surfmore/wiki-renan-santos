@@ -8,8 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=1v9DUT7eeIM"
 ---
 
-# Resolver os problemas do Brasil não é tão difícil assim.
-
 **Canal:** Renan Santos | **Data:** 5 de janeiro de 2026 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=1v9DUT7eeIM
 

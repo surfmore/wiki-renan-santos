@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Resposta para Nikolas Ferreira
-
 **Data:** 28 de maio de 2026
 **Canal:** Renan Santos
 **URL:** https://www.youtube.com/watch?v=9aOdBg4LBL0

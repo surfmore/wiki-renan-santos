@@ -15,8 +15,6 @@ tags:
   - coaf
 ---
 
-# Toffoli destrói trabalho do COAF
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=TF3PTvdFxu0)**
 
 Short urgente: Toffoli anulou todas as provas coletadas pelo COAF, a pedido da defesa de Flávio Bolsonaro.

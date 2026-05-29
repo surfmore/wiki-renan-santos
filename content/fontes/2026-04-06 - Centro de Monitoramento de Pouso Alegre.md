@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Visitei o Centro de Monitoramento de Pouso Alegre
-
 Renan visita o **Centro Integrado de Defesa Social** de **Pouso Alegre (MG)** acompanhado do vereador e vice-prefeito local **"Russo"** (identificado no vídeo apenas pelo apelido) e do vice-prefeito **Igor Silveira**. O objetivo declarado é conhecer uma política municipal de segurança baseada em **reconhecimento facial** e **integração entre municípios**, para avaliar como replicá-la nacionalmente.
 
 Segundo os entrevistados, o programa tem **cerca de 2 anos** e resultou em Pouso Alegre ser o "quarto município de Minas Gerais com maior número de prisões por mandado", atrás apenas de Belo Horizonte, Juiz de Fora e Uberlândia. A integração com cidades vizinhas permite que suspeitos procurados em outros municípios sejam detidos ao entrar em Pouso Alegre. Há planos de expandir com **patrulha aérea por drones**.

@@ -10,8 +10,6 @@ fontes:
   - "2025-12-04 - Lula quer FRAUDAR as eleições"
 ---
 
-# Combate à Fraude Eleitoral via LDO
-
 Posição de Renan Santos contra uma mudança na **Lei de Diretrizes Orçamentárias (LDO)** aprovada pelo Congresso em fins de 2025, que Renan classifica como legalização de fraude eleitoral.
 
 ## O problema identificado

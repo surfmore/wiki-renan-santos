@@ -7,8 +7,6 @@ tags:
 date: 2025-12-15
 ---
 
-# Nikolas Ferreira
-
 Deputado federal por Minas Gerais, um dos mais votados da história do Brasil, ligado ao Partido Liberal (PL) e à base bolsonarista. Renan Santos o critica como símbolo do oportunismo político de direita: silenciou sobre os erros de Bolsonaro quando era conveniente, e só rompeu com a família quando ela já estava fraca.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.

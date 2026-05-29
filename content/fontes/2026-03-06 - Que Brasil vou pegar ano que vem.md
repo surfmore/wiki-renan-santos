@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=gVh0OZz141g"
 ---
 
-# Que Brasil vou pegar ano que vem
-
 Trecho de entrevista em que Renan detalha o diagnóstico do país que espera receber e as primeiras medidas que tomaria ao assumir.
 
 ## O diagnóstico

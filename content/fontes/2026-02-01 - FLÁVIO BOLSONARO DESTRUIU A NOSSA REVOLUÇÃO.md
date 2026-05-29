@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=foEXwu24VMo"
 tipo: short
 ---
 
-# FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO
-
 **Data:** 1 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=foEXwu24VMo)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

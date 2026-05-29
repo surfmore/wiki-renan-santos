@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Você já conhece a PEC do IPVA do @kimkataguiri
-
 Short curto em formato de **esquete cômica**. Renan encena "atropelar" uma pessoa e, em vez de se desculpar, apresenta a **PEC do IPVA** do deputado **Kim Kataguiri** como solução para o prejuízo.
 
 ## Conteúdo

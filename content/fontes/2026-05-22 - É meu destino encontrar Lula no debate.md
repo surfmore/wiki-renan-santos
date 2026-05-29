@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=qaPWhs6f10I
 ---
 
-# É meu destino encontrar Lula no debate
-
 Short anedótico em que Renan conta a história de ter dito um palavrão para Lula quando tinha 5 anos, em 1989, na saída do Estádio do Morumbi após a final do Campeonato Brasileiro (São Paulo x Vasco). O pai de Renan, são-paulino, teria o incentivado a falar o que "o papai fala".
 
 O tom é descontraído e humorístico. Renan usa a anedota para reafirmar a ideia — já presente em outros vídeos — de que ele e Lula têm um destino político de se encontrar em debate televisivo, "37 anos depois", onde pretende "repetir a dose".

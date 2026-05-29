@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# O PT começou a atacar o Flávio Bolsonaro
-
 Short que parte de uma notícia concreta — o PT atacando Flávio Bolsonaro por declarações feitas no **CPAC** sobre terras raras brasileiras ("Brazil is the solution to break-end China for critical mineral rare earth elements") — e usa o episódio como gancho para o **programa de política externa e soberania** de Renan.
 
 ## O diagnóstico simétrico

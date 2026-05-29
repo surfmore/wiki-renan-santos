@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# URGENTE - STF derruba CPMI do INSS
-
 Short gravado no calor da decisão. Renan anuncia que o **STF acabou de derrubar a prorrogação da CPMI do INSS por 8 votos a 2**, classifica a decisão como "um descalabro", "dos maiores absurdos", e convoca manifestação.
 
 ## A cronologia

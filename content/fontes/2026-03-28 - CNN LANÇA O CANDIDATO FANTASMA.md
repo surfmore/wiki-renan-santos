@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# CNN LANÇA O CANDIDATO FANTASMA. Devo processar a emissora?
-
 Short de denúncia direcionado à **CNN Brasil**. Renan mostra uma pesquisa divulgada pela emissora para a corrida presidencial listando **Lula**, **Flávio Bolsonaro**, **Ronaldo Caiado** e **Eduardo Leite**, mas **sem o próprio Renan**. Ele se apresenta como "o candidato fantasma".
 
 ## A sequência que ele descreve

@@ -8,8 +8,6 @@ fontes:
   - "2026-05-07 - BOM DIA, CIRO NOGUEIRA."
 ---
 
-# BOM DIA, CIRO NOGUEIRA.
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=BjzWBppe9vA) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo

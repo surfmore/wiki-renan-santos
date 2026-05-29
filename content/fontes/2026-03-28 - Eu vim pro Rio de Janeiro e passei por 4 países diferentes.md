@@ -13,8 +13,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Eu vim pro Rio de Janeiro e passei por 4 países diferentes
-
 Short-reportagem gravado no Rio. Renan usa um mapa para descrever a cidade como um **arquipélago de "subestados"** controlados por diferentes facções criminosas: "**Comando Vermelho**, **TCP**, **governo do estado**, **milícias** e os grupos específicos da milícia". Cada um "tem seu próprio território, sua própria lei, bandeiras, cores, músicas e até estilo de vida".
 
 ## O roteiro do dia

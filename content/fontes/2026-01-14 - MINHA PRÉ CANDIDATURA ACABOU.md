@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=HXn1lTIJ75g"
 ---
 
-# MINHA PRÉ CANDIDATURA ACABOU
-
 **Data:** 14 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=HXn1lTIJ75g)**
 
 ## Resumo

@@ -11,8 +11,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=B5m8YReP9bc"
 ---
 
-# ESSA MULHER TEM MAIS CORAGEM QUE TODO NÓS
-
 **Data:** 9 de dezembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=B5m8YReP9bc

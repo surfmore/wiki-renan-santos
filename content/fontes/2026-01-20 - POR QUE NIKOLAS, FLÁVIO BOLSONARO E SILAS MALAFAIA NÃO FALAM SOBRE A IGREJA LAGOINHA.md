@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=4Z3-mEVLIw8"
 ---
 
-# POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA NÃO FALAM SOBRE A IGREJA LAGOINHA
-
 **Data:** 20 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=4Z3-mEVLIw8)**
 
 ## Resumo

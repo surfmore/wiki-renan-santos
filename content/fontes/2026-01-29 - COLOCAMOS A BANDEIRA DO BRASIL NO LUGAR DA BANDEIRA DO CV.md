@@ -13,8 +13,6 @@ tags:
   - simbolismo
 ---
 
-# Colocamos a Bandeira do Brasil no Lugar da Bandeira do CV
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=c7RfyHN1kNc)**
 
 Gravado em **Santa Quitéria (CE)**. Após a tomada da cidade pelo Comando Vermelho, a facção havia hasteado sua bandeira na **caixa d'água** do município — símbolo público de domínio territorial. Renan e sua equipe removem o símbolo e instalam a bandeira do Brasil no lugar.

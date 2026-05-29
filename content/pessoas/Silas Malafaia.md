@@ -10,8 +10,6 @@ fontes:
   - "2026-01-20 - POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA NÃO FALAM SOBRE A IGREJA LAGOINHA"
 ---
 
-# Silas Malafaia
-
 Pastor evangélico de grande influência política no Brasil, líder da Assembleia de Deus Vitória em Cristo. Renan Santos o posiciona como **protetor de aliados religiosos envolvidos no escândalo do INSS e do Banco Master**, criticando seu silêncio sobre a Igreja Lagoinha e seus ataques a quem investiga o caso.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.

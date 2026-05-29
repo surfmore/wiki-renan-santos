@@ -10,8 +10,6 @@ fontes:
   - "2026-03-20 - Os caminhoneiros vão entrar em greve"
 ---
 
-# Proposta para Caminhoneiros
-
 Renan Santos apresenta sete medidas para resolver estruturalmente os problemas do setor de transporte rodoviário de cargas, como resposta à ameaça de greve dos caminhoneiros em março de 2026 (pressionados pelo aumento do preço do petróleo por guerras no Oriente Médio e Rússia).
 
 ## As 7 medidas

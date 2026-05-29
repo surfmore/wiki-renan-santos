@@ -9,8 +9,6 @@ fontes:
   - "2026-04-28 - CONTINUAMOS SUBINDO!"
 ---
 
-# CONTINUAMOS SUBINDO!
-
 **Canal:** Renan Santos | **Data:** 28/04/2026 | [YouTube](https://www.youtube.com/watch?v=KoXT66aiVZM)
 
 ## Resumo

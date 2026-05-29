@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Eu fui na cidade que está sendo engolida por buracos
-
 Renan visita Buriticupu, cidade do interior do Maranhão ameaçada por voçorocas — erosões gigantescas que abrem buracos e engolem bairros inteiros. Mostra casas destruídas, áreas evacuadas e conjuntos habitacionais construídos pelo governo federal que nunca foram ocupados e já começam a se deteriorar.
 
 Relata que dezenas de milhões foram repassados pelos governos federal e estadual para conter o avanço das voçorocas, mas "as obras nem sequer se iniciaram" e investigações de corrupção já começaram. Critica também a resistência de parte da população a evacuar as áreas de risco, com invasões transformando os restos em favelas.

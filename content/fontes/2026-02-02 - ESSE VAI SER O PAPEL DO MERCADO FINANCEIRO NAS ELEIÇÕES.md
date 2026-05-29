@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=7IIlKwla2rM"
 tipo: short
 ---
 
-# ESSE VAI SER O PAPEL DO MERCADO FINANCEIRO NAS ELEIÇÕES E CONOSCO
-
 **Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=7IIlKwla2rM)**
 **Canal:** Renan Santos
 **Duração estimada:** curto

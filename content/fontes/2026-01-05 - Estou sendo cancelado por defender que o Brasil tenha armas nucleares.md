@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=hFqkaW5udEQ"
 ---
 
-# Estou sendo cancelado por defender que o Brasil tenha armas nucleares
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=hFqkaW5udEQ)**
 
 Renan responde ao cancelamento nas redes após a imprensa repercutir sua proposta de programa nuclear brasileiro. O principal argumento contrário que ele rebate é o de que o Brasil deveria "investir apenas em educação" em vez de armas.

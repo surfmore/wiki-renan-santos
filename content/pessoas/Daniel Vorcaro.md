@@ -17,8 +17,6 @@ fontes:
   - "2025-11-26 - Quem estava no projeto político do Banco Master"
 ---
 
-# Daniel Vorcaro
-
 **Quem é:** Banqueiro paulistano, controlador do Banco Master. Preso em janeiro de 2026 como parte de desdobramento do escândalo do banco, que envolve um esquema de emissão de CRIs e CRAs sobrevalorizados causando um rombo estimado em dezenas de bilhões de reais no Fundo Garantidor de Crédito. Ex-frequentador do jetset do Mediterrâneo, identificado por Renan Santos como a figura central de uma rede de relações promíscuas — financeiras, políticas e pessoais — entre os polos de poder do Brasil.
 
 ## O que o Renan Santos disse

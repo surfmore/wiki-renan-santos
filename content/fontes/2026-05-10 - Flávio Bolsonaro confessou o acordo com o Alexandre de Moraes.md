@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=YFTvv1a-0j0
 ---
 
-# Flávio Bolsonaro confessou o acordo com o Alexandre de Moraes
-
 Renan apresenta declaração de Flávio Bolsonaro que, na sua leitura, confirma o accordão com Alexandre de Moraes: Flávio admite que o próprio Moraes redigiu o texto da dosimetria aprovado pelo Congresso — e depois a derrubou.
 
 O vídeo começa reproduzindo a fala de Flávio: *"O texto que nós aprovamos foi um texto autorizado pelo Alexandre de Moraes e agora muito estranhamente... eu não sei."* E depois: *"Eu acho estranho porque foi o próprio Alexandre de Moraes que escreveu o texto que foi aprovado no Congresso Nacional [dosimetria]."*

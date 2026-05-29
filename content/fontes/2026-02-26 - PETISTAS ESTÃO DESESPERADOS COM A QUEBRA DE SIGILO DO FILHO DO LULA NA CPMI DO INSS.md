@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-# PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=CpLywZDZecU)**
 
 Renan comenta a tentativa do deputado **Rogério Corrêa (PT)** de bloquear a CPMI do INSS, no mesmo momento em que o sigilo de **Lulinha (Fábio Luiz da Silva)** foi quebrado pela comissão.

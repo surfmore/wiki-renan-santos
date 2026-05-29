@@ -10,8 +10,6 @@ fontes:
   - "2025-11-17 - Você acha favela bonito"
 ---
 
-# Você acha favela bonito¿
-
 **Canal:** Renan Santos | **Data:** 17 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=hZR3__9OIPA
 

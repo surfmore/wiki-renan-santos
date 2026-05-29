@@ -10,8 +10,6 @@ fontes:
   - "2025-11-01 - Você sabe quem é Doca"
 ---
 
-# Você sabe quem é Doca¿
-
 **Canal:** Renan Santos | **Data:** 1º de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=pjRvbEMMl0s
 

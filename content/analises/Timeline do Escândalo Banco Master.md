@@ -7,8 +7,6 @@ tags:
 date: 2026-05-25
 ---
 
-# Timeline do Escândalo Banco Master
-
 O **Banco Master**, controlado por **Daniel Vorcaro**, está no centro do que Renan Santos classifica como "o maior escândalo de corrupção da história do Brasil" — superior à Lava-Jato por envolver simultaneamente membros do STF, representantes de todos os principais partidos e figuras do mercado financeiro. Renan acompanhou o caso de novembro de 2025 até maio de 2026, produzindo mais de 120 vídeos sobre o tema. A tese central que ele desenvolveu ao longo do tempo: o banco não foi apenas um esquema financeiro, mas um instrumento de captura transpartidária do poder — que explica por que nenhum dos grandes players políticos quer investigar o caso a fundo.
 
 ## O que é o Escândalo Banco Master

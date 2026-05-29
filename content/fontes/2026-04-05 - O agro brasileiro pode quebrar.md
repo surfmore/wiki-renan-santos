@@ -14,8 +14,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# O agro brasileiro pode quebrar nos próximos meses
-
 Renan alerta que o agronegócio brasileiro pode entrar em crise severa de insumos nos meses seguintes. A tese tem dois vetores:
 
 **Vetor externo — conflitos geopolíticos.** O conflito com a Rússia já teria comprometido parte do fornecimento internacional de fertilizantes; o agravamento da situação no Irã e no Oriente Médio fecha ainda mais o gargalo, porque Rússia, Irã, Oriente Médio e China concentram a produção mundial dos insumos e dos próprios fertilizantes acabados. Como o Brasil depende de importação, a previsão que cita é de **aumento nos preços de fosfato e potássio** e de meses "críticos" para a produção agrícola.

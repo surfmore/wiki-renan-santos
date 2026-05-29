@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-# VIM ATÉ A IGREJA LAGOINHA BELVEDERE EM BH
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=m6Nf5vMqIW0)**
 
 Gravado no complexo da Igreja Lagoinha Belvedere, em Belo Horizonte. Renan investiga as conexões entre **Fabiano Zettel** — cunhado de Daniel Vorcaro e um dos personagens do escândalo do Banco Master — e o complexo comercial e religioso.

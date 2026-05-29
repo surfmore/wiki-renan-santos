@@ -10,8 +10,6 @@ fontes:
   - "2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão"
 ---
 
-# Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
-
 **Canal:** Renan Santos | **Data:** 23/03/2026
 **URL:** https://www.youtube.com/watch?v=wYPLEj-mxs0
 

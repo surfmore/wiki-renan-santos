@@ -12,8 +12,6 @@ fontes:
   - "2026-02-07 - POR QUE OS EUA PARECE UM PAÍS TÃO MELHOR QUE O BRASIL"
 ---
 
-# Por que os EUA Parece um País Tão Melhor que o Brasil?
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=ynsai-Dz2LY)**
 
 Filmado em **Miami**, Renan usa a experiência cotidiana num parque público da cidade para responder à pergunta do título.

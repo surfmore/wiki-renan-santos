@@ -10,8 +10,6 @@ fontes:
   - "2026-02-20 - A VOZ DO POVO NÃO É A VOZ DE DEUS"
 ---
 
-# A Voz do Povo Não É a Voz de Deus
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=JfZ1J5zkZ7k) · Canal Renan Santos · Short · 20/02/2026
 
 ## Resumo

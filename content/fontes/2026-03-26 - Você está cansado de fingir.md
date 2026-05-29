@@ -10,8 +10,6 @@ fontes:
   - "2026-03-26 - Você está cansado de fingir"
 ---
 
-# Você está cansado de fingir
-
 **Canal:** Renan Santos | **Data:** 26/03/2026
 **URL:** https://www.youtube.com/watch?v=YC4lDpIrOJk
 

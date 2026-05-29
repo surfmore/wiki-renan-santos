@@ -10,8 +10,6 @@ fontes:
   - "2026-02-23 - PREPARE-SE PARA SER HUMILHADO PELA ETIOPIA"
 ---
 
-# Prepare-se para Ser Humilhado pela Etiópia
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=N6f2ny5nFeU) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo

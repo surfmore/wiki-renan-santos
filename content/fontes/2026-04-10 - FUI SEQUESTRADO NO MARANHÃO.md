@@ -10,8 +10,6 @@ video_id: vA49b677Na8
 url: "https://www.youtube.com/watch?v=vA49b677Na8"
 ---
 
-# FUI SEQUESTR4DO NO MARANHÃO
-
 Short da série "Viagem pelo Maranhão", gravado no **Complexo da Pedra Caída**, em Carolina (MA), na divisa com Tocantins.
 
 ## Observação sobre a fonte

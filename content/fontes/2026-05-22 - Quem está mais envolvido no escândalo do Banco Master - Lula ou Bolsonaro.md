@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=oiuKDEla-R8
 ---
 
-# Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro?
-
 Short em que Renan responde à pesquisa Atlas que o colocou com cerca de 7% — e que mostrou que apenas 16% dos brasileiros acredita que tanto Lula quanto Bolsonaro estão envolvidos no escândalo do Banco Master.
 
 Renan reconta a cronologia completa do Banco Master para demonstrar que **ambos os lados estão igualmente envolvidos**:

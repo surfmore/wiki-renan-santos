@@ -6,8 +6,6 @@ tags:
 date: 2026-04-12
 ---
 
-# Mídia e Imprensa
-
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
 
 ## Recado oficial à Rede Globo: "não estou pedindo apoio, estou pedindo respeito" (maio de 2026)

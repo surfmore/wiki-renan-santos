@@ -9,8 +9,6 @@ fontes:
   - "2026-01-13 - PRECISAMOS FALAR SOBRE O WAGNER MOURA"
 ---
 
-# Wagner Moura
-
 Ator brasileiro radicado no exterior, conhecido internacionalmente por papéis em produções como *Narcos* e *Elysium*. Renan Santos o menciona como figura emblemática da "elite cultural" de esquerda que, na sua visão, não vive no Brasil mas emite opiniões sobre o país.
 
 ## O prêmio e a repercussão política (janeiro de 2026)

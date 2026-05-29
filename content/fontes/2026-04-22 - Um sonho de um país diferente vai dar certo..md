@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=lQMfG00T3hA"
 ---
 
-# Um sonho de um país diferente vai dar certo.
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=lQMfG00T3hA)**
 
 Trecho de entrevista em que Renan recusa a hipótese de segundo turno entre Flávio Bolsonaro e Lula e apresenta seu histórico como líder político.

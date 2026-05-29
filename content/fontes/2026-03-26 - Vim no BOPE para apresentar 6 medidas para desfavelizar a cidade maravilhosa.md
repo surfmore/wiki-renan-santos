@@ -11,8 +11,6 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
 ---
 
-# Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa
-
 **Canal:** Renan Santos | **Data:** 26/03/2026
 **URL:** https://www.youtube.com/watch?v=Y1o1KpciG6U
 

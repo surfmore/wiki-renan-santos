@@ -10,8 +10,6 @@ fontes:
   - "2026-02-24 - ESSE CASO DE MG FICOU AINDA MAIS BIZARRO"
 ---
 
-# Esse Caso de MG Ficou Ainda Mais Bizarro
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=Gx5QglFu4-E) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo

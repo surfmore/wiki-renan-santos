@@ -10,8 +10,6 @@ fontes:
   - "2026-02-21 - DE QUEM É A CULPA DO BRASIL TER PERDIDO ESSA PATENTE"
 ---
 
-# De Quem É a Culpa do Brasil Ter Perdido Essa Patente
-
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=exoK1bKnB5w) · Canal Renan Santos · Short · 21/02/2026
 
 ## Resumo

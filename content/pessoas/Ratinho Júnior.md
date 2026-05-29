@@ -11,8 +11,6 @@ fontes:
   - "2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA"
 ---
 
-# Ratinho Júnior
-
 **Carlos Massa Ratinho Júnior** é governador do Paraná e era pré-candidato à presidência da República. Em março de 2026, retirou a pré-candidatura.
 
 ## Retirada da candidatura presidencial

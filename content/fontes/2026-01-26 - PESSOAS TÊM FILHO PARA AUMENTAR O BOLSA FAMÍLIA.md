@@ -13,8 +13,6 @@ tags:
   - nordeste
 ---
 
-# Pessoas Têm Filho para Aumentar o Bolsa Família
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=dbHFkC_ZnXQ)**
 
 Vídeo com depoimentos de um comerciante e um agricultor do interior nordestino sobre a escassez de mão de obra e a cultura de dependência do Bolsa Família. Renan atua como moderador da conversa.

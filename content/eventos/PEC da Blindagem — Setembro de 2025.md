@@ -10,8 +10,6 @@ fontes:
   - "2025-09-17 - Nikolas Ferreira te TRAIU"
 ---
 
-# PEC da Blindagem — Setembro de 2025
-
 Em **16 de setembro de 2025**, a Câmara dos Deputados aprovou a **PEC da Blindagem** com **324 votos favoráveis** — incluindo a grande maioria dos deputados bolsonaristas. O único parlamentar de direita a votar contra e a discursar no plenário contra a medida foi **Kim Kataguiri**.
 
 ## O que é a PEC

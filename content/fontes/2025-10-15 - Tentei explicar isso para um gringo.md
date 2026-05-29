@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-# Tentei explicar isso para um gringo
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=uNidTJKvC2o)**
 
 Em viagem aos **Estados Unidos**, Renan Santos conta sobre a reação de americanos ao escândalo do **sindicato do irmão de Lula**, que teria desviado **R$ 400 milhões** do INSS.

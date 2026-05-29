@@ -10,8 +10,6 @@ fontes:
   - "2025-11-18 - ESSE É O PIOR INIMIGO DO BRASIL"
 ---
 
-# ESSE É O PIOR INIMIGO DO BRASIL
-
 **Canal:** Renan Santos | **Data:** 18 de novembro de 2025 | **Tipo:** Short
 **URL:** https://www.youtube.com/watch?v=zbtV7AyCyZM
 

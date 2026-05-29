@@ -9,8 +9,6 @@ fontes:
   - "2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA"
 ---
 
-# FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA
-
 **Canal:** Renan Santos | **Data:** 25/03/2026
 **URL:** https://www.youtube.com/watch?v=Wn8d9xjghZM
 

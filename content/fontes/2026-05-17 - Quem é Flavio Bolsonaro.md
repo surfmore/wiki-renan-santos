@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=eXA20ksIskk
 ---
 
-# Quem é Flavio Bolsonaro
-
 Renan Santos faz um perfil direto de [[pessoas/Flávio Bolsonaro]], dirigindo-se a ele em segunda pessoa. O objetivo declarado é mostrar que Flávio não tem condições morais de enfrentar o PT no segundo turno.
 
 ## Histórico da rachadinha

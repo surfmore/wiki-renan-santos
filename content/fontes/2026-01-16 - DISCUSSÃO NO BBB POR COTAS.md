@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=xmWC6ZEylW8"
 ---
 
-# DISCUSSÃO NO BBB POR COTAS...
-
 **Data:** 16 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=xmWC6ZEylW8)**
 
 ## Resumo

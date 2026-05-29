@@ -11,8 +11,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Problemas de pré-candidato que não tem jatinho - pneu furado no Maranhão
-
 Vídeo gravado em 9 de abril de 2026 durante viagem de pré-campanha ao Maranhão. Renan registra dois pneus furados simultaneamente em uma BR federal do estado — estrada "toda esburacada, sem nenhuma sinalização" — enquanto se deslocava para agenda em Balsas.
 
 ## Resumo

@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=kG5pl5UB0wk"
 tipo: short
 ---
 
-# GUIDO MANTEGA RECEBIA R$1 MILHÃO POR MÊS DO BANCO MASTER
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=kG5pl5UB0wk)**
 
 Renan Santos desvenda o que chama de "elo entre Lula e Daniel Vorcaro", apontando **Guido Mantega** como intermediário central e detalhando a cadeia que liga o escândalo ao governo petista.

@@ -8,8 +8,6 @@ video_id: Xczgtqvy5WU
 url: "https://www.youtube.com/watch?v=Xczgtqvy5WU"
 ---
 
-# Eduardo Bolsonaro será preso!
-
 **Data:** 17 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=Xczgtqvy5WU)

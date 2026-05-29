@@ -12,8 +12,6 @@ canal: renan-canal
 tipo: short
 ---
 
-# Resposta ao Flávio Bolsonaro
-
 Short em que Renan Santos responde diretamente a ataques feitos por **Flávio Bolsonaro** no podcast *Inteligência Limitada*, no qual Flávio teria sugerido que Renan não teria "condições psiquiátricas" para governar.
 
 Renan começa devolvendo o argumento com ironia, citando tweets e falas de **Carlos Bolsonaro** como exemplo de incoerência, e diz preferir "ser tratado como louco" a ser amigo de **Valdemar da Costa Neto**, que classifica como "um dos maiores bandidos do Brasil".

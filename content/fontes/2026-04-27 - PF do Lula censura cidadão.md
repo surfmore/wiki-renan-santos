@@ -9,8 +9,6 @@ fontes:
   - "2026-04-27 - PF do Lula censura cidadão"
 ---
 
-# PF do Lula censura cidadão
-
 **Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=NHFwigAxtKk)
 
 ## Resumo

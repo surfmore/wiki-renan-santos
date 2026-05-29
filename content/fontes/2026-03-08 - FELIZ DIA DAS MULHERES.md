@@ -9,8 +9,6 @@ fontes:
   - "2026-03-08 - FELIZ DIA DAS MULHERES"
 ---
 
-# FELIZ DIA DAS MULHERES
-
 **Canal:** Renan Santos | **Data:** 8 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=sRiyGXodZWg)
 
 ## Resumo

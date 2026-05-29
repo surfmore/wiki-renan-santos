@@ -7,8 +7,6 @@ canal: renan-canal
 url: https://www.youtube.com/watch?v=9ZHB0-finG4
 ---
 
-# Quem é o homem que pode acabar com a candidatura de Flávio
-
 Renan Santos faz um perfil de **Valdemar Costa Neto**, presidente do PL, para explicar quem realmente está por trás das decisões políticas de Flávio Bolsonaro e por que o eleitor bolsonarista está, na prática, "recheando os cofres" de Valdemar.
 
 ## Quem é Valdemar

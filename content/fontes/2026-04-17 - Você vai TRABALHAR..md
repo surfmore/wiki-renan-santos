@@ -8,8 +8,6 @@ video_id: AD9stpk1N3Y
 url: "https://www.youtube.com/watch?v=AD9stpk1N3Y"
 ---
 
-# Você vai TRABALHAR.
-
 **Data:** 17 de abril de 2026
 **Canal:** Renan Santos
 **Vídeo:** [YouTube](https://www.youtube.com/watch?v=AD9stpk1N3Y)

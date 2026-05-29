@@ -13,8 +13,6 @@ tags:
   - maus-tratos-animais
 ---
 
-# Precisamos Federalizar o Caso do Cão Orelha
-
 **[Assistir no YouTube](https://www.youtube.com/watch?v=Y6HVGZMjR7A)**
 
 Renan defende a **federalização do caso do cão Orelha**, retirando-o da competência da justiça de Santa Catarina e entregando à Polícia Federal. O argumento central: há indícios de que o assassinato ocorreu no contexto de um **jogo de sadismo organizado no Discord**, com membros espalhados por vários estados do Brasil — o que o tornaria, por definição, um caso federal.

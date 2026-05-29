@@ -12,8 +12,6 @@ fontes:
 url: "https://www.youtube.com/watch?v=1Vp8Bbp0utw"
 ---
 
-# O povo não merece o PT, Nikolas
-
 **Data:** 26 de novembro de 2025
 **Canal:** Renan Santos (short)
 **URL:** https://www.youtube.com/watch?v=1Vp8Bbp0utw

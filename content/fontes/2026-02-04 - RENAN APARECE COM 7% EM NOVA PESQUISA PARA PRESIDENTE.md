@@ -10,8 +10,6 @@ url: "https://www.youtube.com/watch?v=U4a7vC0TE0s"
 tipo: short
 ---
 
-# RENAN APARECE COM 7% EM NOVA PESQUISA PARA PRESIDENTE
-
 **Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=U4a7vC0TE0s)**
 **Canal:** Renan Santos
 **Duração estimada:** curto
