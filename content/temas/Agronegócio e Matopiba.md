@@ -5,7 +5,7 @@ tags:
   - agro
   - maranhão
   - nordeste
-date: 2026-04-13
+date: 2026-05-29
 ---
 
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.

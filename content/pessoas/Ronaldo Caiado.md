@@ -5,8 +5,9 @@ tags:
   - governador
   - goiás
   - pré-candidato
-date: 2026-01-30
+date: 2026-05-29
 fontes:
+  - "2026-05-29 - Acabaram com o Zema"
   - "2026-01-30 - MINHA OPINIÃO SOBRE O CAIADO NO PSD"
   - "2026-03-31 - Caiado e Lula são VELHOS"
 ---
@@ -48,8 +49,6 @@ Em maio de 2026, após o vazamento do áudio de Flávio Bolsonaro pedindo dinhei
 
 Ver [[eventos/Escândalo Banco Master]] e [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]].
 
-## Fontes
+## Sem fibra para resistir à pressão (maio de 2026)
 
-- [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]] — convite ao MPE; áudio Flávio-Vorcaro
-- [[fontes/2026-01-30 - MINHA OPINIÃO SOBRE O CAIADO NO PSD]]
-- [[fontes/2026-03-31 - Caiado e Lula são VELHOS]]
+Em **29 de maio de 2026**, Renan reafirma o diagnóstico sobre Caiado em vídeo direcionado aos eleitores de ambos os governadores. Não o classifica como má pessoa

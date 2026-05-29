@@ -8,11 +8,11 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ## Temas
 
-- [[temas/Agronegócio e Matopiba]] — Como Renan enxerga o agronegócio como motor de desenvolvimento do Nordeste, com foco no Matopiba, infraestrutura logística, cadeia de fertilizantes e modelos de alto valor agregado como a vitivinicultura catarinense. 6 fontes.
+- [[temas/Agronegócio e Matopiba]] — Como Renan enxerga o agronegócio como motor de desenvolvimento do Nordeste, com foco no Matopiba, infraestrutura logística, cadeia de fertilizantes e modelos de alto valor agregado como a vitivinicultura catarinense. Inclui também o caso histórico do cacau no sul da Bahia. 7 fontes.
 - [[temas/Ambição Nacional e Soberania Tecnológica]] — Visão de Renan para transformar o Brasil em potência tecnológica e industrial: propostas para o ecossistema de startups, valorização das terras raras, defesa aeroespacial e a tese de que a falta de ambição — não de recursos — é o principal obstáculo do país. 18 fontes.
 - [[temas/Carga Tributária]] — Crítica de Renan ao modelo fiscal brasileiro: o país "cobra como a Suécia e entrega como a África", taxando pesadamente trabalhadores, MEIs e eletrônicos enquanto mantém gastos ineficientes. 8 fontes.
-- [[temas/Crítica à Direita Tradicional]] — Posição de Renan de que a direita brasileira — Flávio Bolsonaro, Nikolas Ferreira, centrão e aliados do Banco Master — foi conivente com corrupção e não tem projeto de país, diferenciando-se assim do campo bolsonarista. 64 fontes.
-- [[temas/Empobrecimento e Mercado de Trabalho]] — Análise de Renan sobre o empobrecimento da classe média: escala 6x1, estigma do fracasso, assistencialismo que substitui trabalho e a "geração que fracassou" por falta de oportunidades reais. 16 fontes.
+- [[temas/Crítica à Direita Tradicional]] — Posição de Renan de que a direita brasileira — Flávio Bolsonaro, Nikolas Ferreira, centrão e aliados do Banco Master — foi conivente com corrupção e não tem projeto de país, diferenciando-se assim do campo bolsonarista. 66 fontes.
+- [[temas/Empobrecimento e Mercado de Trabalho]] — Análise de Renan sobre o empobrecimento da classe média: escala 6x1, estigma do fracasso, assistencialismo que substitui trabalho e a "geração que fracassou" por falta de oportunidades reais. 17 fontes.
 - [[temas/Imigração e Fronteiras]] — Preocupação de Renan com a entrada de imigrantes em condições irregulares, Bolsa Família para estrangeiros e proposta de acordo com Milei para controle na fronteira sul. 2 fontes.
 - [[temas/Infraestrutura e Estradas no Maranhão]] — Denúncias e visitas de Renan a estradas destruídas, voçorocas e pontes sem manutenção no Maranhão, usadas para ilustrar o abandono provocado pela classe política local. 13 fontes.
 - [[temas/Infraestrutura e Estradas no Paraná]] — Crítica ao pacto federativo que penaliza o Paraná, 4º maior PIB do país, com estradas precárias e propostas de ferrovia e pavimentação de concreto. 1 fonte.
@@ -58,19 +58,19 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 - [[pessoas/Renan Santos]] — Fundador do MBL e do Partido Missão, pré-candidato à presidência com cerca de 7% nas pesquisas e 3º lugar consolidado, cuja candidatura é centrada em segurança pública, combate à corrupção e reforma do Estado. 9 fontes.
 - [[pessoas/Alexandre de Moraes]] — Ministro do STF descrito por Renan como o "elemento de proteção" do Banco Master, com a esposa com contratos milionários ligados ao banco, acusado de ter ligado para o Banco Central sobre o caso e de ter redigido e depois derrubado a própria dosimetria do processo Bolsonaro. 16 fontes.
-- [[pessoas/Nikolas Ferreira]] — Deputado federal criticado por Renan como oportunista que silenciou sobre os erros de Bolsonaro, votou a favor da PEC da Blindagem, elogiou um rapper do Comando Vermelho e devolveu a relatoria do PL anti-terrorismo por "medo". 10 fontes.
+- [[pessoas/Nikolas Ferreira]] — Deputado federal criticado por Renan como oportunista que silenciou sobre os erros de Bolsonaro, votou a favor da PEC da Blindagem e da escala 6x1 com Lula, elogiou um rapper do Comando Vermelho e devolveu a relatoria do PL anti-terrorismo por "medo". 11 fontes.
 - [[pessoas/Tabata Amaral]] — Deputada federal criticada por Renan por defender puxadinhos enquanto se opõe a empreendimentos formais, votar contra o novo licenciamento ambiental e demonstrar solidariedade performática nas enchentes de Recife. 2 fontes.
 - [[pessoas/Tarcísio de Freitas]] — Governador de São Paulo apontado por Renan como a "candidatura do sistema" por sua proximidade com Daniel Vorcaro, com doações do operador Fabiano Zettel (R$ 2 milhões em 2022) e pelo plano de nomear Campos Neto como ministro da Fazenda. 2 fontes.
 - [[pessoas/Jerônimo Rodrigues]] — Governador da Bahia acusado por Renan de impedir a ação da PM e ser leniente com o Comando Vermelho e o PCC, deixando o estado como o segundo mais violento do país, com Salvador perdendo população. 6 fontes.
 - [[pessoas/André Valadão]] — Pastor da Igreja Lagoinha apontado por Renan como parte da rede do Banco Master, com ligações a Fabiano Zettel e Natália Vorcaro, fintechs religiosas identificadas pelo COAF e suspeitas de desvio do INSS via a ONG Amar Brasil. 7 fontes.
 - [[pessoas/Silas Malafaia]] — Pastor evangélico criticado por Renan por atacar Damares Alves quando ela investigava igrejas no INSS e por guardar silêncio sobre o caso da Igreja Lagoinha, sendo descrito como protetor de aliados políticos. 3 fontes.
 - [[pessoas/Daniel Vorcaro]] — Banqueiro controlador do Banco Master, preso em janeiro de 2026 e comparado por Renan ao americano Jeffrey Epstein por suas festas com a elite política e judicial brasileira. Seu pai Henrique Vorcaro é descrito como o "verdadeiro arquiteto" do esquema. 75 fontes.
-- [[pessoas/Romeu Zema]] — Governador de Minas Gerais e pré-candidato à presidência pelo Partido Novo, ultrapassado por Renan nas pesquisas em janeiro de 2026. Renan aponta que o pai de Vorcaro doou R$ 1 milhão ao Novo em 2022 e critica Zema por defender propostas que considera insuficientes, como a privatização da Petrobras. 21 fontes.
+- [[pessoas/Romeu Zema]] — Governador de Minas Gerais e pré-candidato à presidência pelo Partido Novo, ultrapassado por Renan nas pesquisas em janeiro de 2026. Renan aponta que o pai de Vorcaro doou R$ 1 milhão ao Novo em 2022, critica propostas insuficientes e avalia que Zema não tem fibra para resistir à pressão do jogo político. 22 fontes.
 - [[pessoas/Flávio Bolsonaro]] — Senador e pré-candidato à presidência descrito por Renan como alguém que "tem todos os defeitos do pai e nenhuma das qualidades." Renan documenta que Flávio fechou acordo com Alexandre de Moraes, admitiu não ter articulado contra a indicação de Messias ao STF, teve um áudio vazado pedindo dinheiro a Vorcaro com quatro versões contraditórias e visitou o banqueiro preso com uma desculpa inverossímil. 36 fontes.
 - [[pessoas/Guido Mantega]] — Ex-ministro da Fazenda apontado por Renan como elo entre Daniel Vorcaro e o presidente Lula, tendo recebido R$ 1 milhão por mês do Banco Master e sido introduzido a Vorcaro por Jaques Wagner. 2 fontes.
 - [[pessoas/Kim Kataguiri]] — Deputado federal e aliado de Renan no Partido Missão, destacado por ter sido o único parlamentar de direita a votar contra a PEC da Blindagem e por ter aprovado lei que aumenta as penas por roubo de celular a até 25 anos. 20 fontes.
 - [[pessoas/Oruam]] — Rapper apontado por Renan como porta-voz do Comando Vermelho, esteve foragido da polícia em 2026 e anunciou candidatura a deputado estadual pelo Rio de Janeiro — sendo usado por Renan como símbolo da normalização da cultura do crime. 4 fontes.
-- [[pessoas/Ronaldo Caiado]] — Governador de Goiás e pré-candidato à presidência, criticado por Renan por se filiar ao PSD de Kassab — descrito como a "prostituta da política" — e por ser considerado um dos candidatos do "sistema". 2 fontes.
+- [[pessoas/Ronaldo Caiado]] — Governador de Goiás e pré-candidato à presidência, criticado por Renan por se filiar ao PSD de Kassab — descrito como a "prostituta da política" — e por não ter fibra para resistir à pressão do jogo político. 3 fontes.
 - [[pessoas/Wagner Moura]] — Ator brasileiro radicado no exterior, usado por Renan como símbolo da "elite cultural" financiada com dinheiro público e desconectada da realidade do país. 1 fonte.
 - [[pessoas/João Campos]] — Prefeito do Recife criticado por Renan como representante do nepotismo da família Campos-Arrais, com suspeitas de beneficiar amigos em concursos públicos via cotas para deficientes e de fazer propaganda política sem entregar infraestrutura à cidade. 5 fontes.
 - [[pessoas/Érika Hilton]] — Deputada federal criticada por Renan por usar a AGU para processar uma jornalista, votar contra o aumento de penas para crimes hediondos e por tentar "letrar" Oruam, rapper associado ao Comando Vermelho. 5 fontes.
@@ -114,6 +114,9 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ### Maio de 2026
 
+- [[fontes/2026-05-29 - Acabaram com o Zema]] — Zema humilhado pelo partido bolsonarista; sem fibra para resistir à pressão; Caiado também; Renan como única alternativa.
+- [[fontes/2026-05-29 - Carta aberta ao pequeno empresário brasileiro]] — escala 6x1 aprovada; PL, PP, PSD, Nikolas votaram com Lula; "Eu sei jogar o jogo também"; Partido Missão fechou questão contra.
+- [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]] — Bahia era maior produtora mundial de cacau; PT espalhou vassoura de bruxa nos anos 90; favelização e dependência do Bolsa Família; proposta: Embrapa e universidades para recuperar o setor.
 - [[fontes/2026-05-28 - Resposta para Nikolas Ferreira]] — proposta "psicopática" da 4x3: deixar trabalhadores quebrarem para ganhar eleição; Kim votou contra; Nikolas se corrompeu.
 - [[fontes/2026-05-28 - Vamos fazer o Peru grande]] — ferrovia bioceânica Ilhéus–Shankai; China quer financiar; risco de dependência e soberania das terras raras; posição de equilíbrio.
 - [[fontes/2026-05-28 - Transformaram um presídio na Bahia em hotel de luxo!]] — BDM surgiu no presídio; Gedel Vieira Lima (MDB); celas de luxo; relação promíscua crime–governo; intervenção no sistema prisional.
@@ -677,11 +680,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — "Taxa das blusinhas" arrecadou menos que o previsto e empobreceu consumidor; Renan defende derrubada da alíquota sobre importados baratos.
 - [[fontes/2025-09-06 - Cuida de mim, painho!]] — Crítica ao PT por substituir desenvolvimento do Nordeste por assistencialismo eleitoreiro com transferências de renda.
 - [[fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE]] — Proposta de industrialização do Matopiba via usinas de biocombustível com soja e milho, exportando pelo Porto do Maranhão.
-- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% em pesquisa presidencial antes mesmo de lançar candidatura formal.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]] — Compilação de falas anteriores sobre segurança pública: guerra às facções, desfavelização e prisão das lideranças do tráfico.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Vídeo biográfico completo: origem na Mooca, USP, fundação do MBL, episódio com policiais corruptos e criação do Partido Missão.
-
-## Análises
-
-- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o fim da Lava-Jato até a prisão de Ciro Nogueira na Operação Compliance Zero em maio de 2026.
-- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-202
+- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% em pesquisa presidencial an

@@ -4,12 +4,22 @@ tags:
   - pessoa
   - político
   - direita
-date: 2025-12-15
+date: 2026-05-29
 ---
 
 Deputado federal por Minas Gerais, um dos mais votados da história do Brasil, ligado ao Partido Liberal (PL) e à base bolsonarista. Renan Santos o critica como símbolo do oportunismo político de direita: silenciou sobre os erros de Bolsonaro quando era conveniente, e só rompeu com a família quando ela já estava fraca.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Votou com o PT na escala 6x1: "Eu sei jogar o jogo também" (maio de 2026)
+
+Em **29 de maio de 2026**, Renan dirige uma carta aberta ao pequeno empresário brasileiro e cita Nikolas como exemplo central de traição à base conservadora. Nikolas votou a favor da escala 6x1 — junto com PL, PP, União Brasil, PSD, PT e Érika Hilton — e justificou o voto com a frase:
+
+> "Eu sei jogar o jogo também."
+
+Para Renan, a declaração resume o oportunismo: Nikolas admite votar em medida que considera populista e economicamente danosa porque teme perder votos. O custo recai sobre pequenos empresários — a "classe média que carrega o Brasil nas costas" — que votaram em Nikolas esperando que ele os defendesse. Renan apresenta o Partido Missão e Kim Kataguiri como os únicos que "fecharam questão" contra a medida.
+
+Ver [[fontes/2026-05-29 - Carta aberta ao pequeno empresário brasileiro]].
 
 ## Proposta "psicopática" da escala 4x3 (maio de 2026)
 
@@ -91,18 +101,4 @@ Em **27 de setembro de 2025**, Nikolas pegou e depois devolveu a relatoria do pr
 
 Renan rejeita a justificativa: jornalistas investigativos, promotores e delegados enfrentam os mesmos riscos sem secretaria de Estado, sem equipe de segurança e sem salário de deputado.
 
-> "Tirou a relatoria de um projeto de lei que vai transformar o PCC e o Comando Vermelho em organização terrorista porque o cara teve medo pela vida. Jornalistas e promotores não têm segurança de Estado e não se acovardaram."
-
-Ver [[fontes/2025-09-27 - Nikolas Ferreira te ENGANOU]].
-
-## Elogio ao MC do Comando Vermelho (outubro de 2025)
-
-Em **23 de outubro de 2025**, Nikolas elogiou no Instagram o rapper **"Pose do Rodo"**, identificado por Renan como membro do Comando Vermelho. Renan reage com irritação:
-
-> "Tá ali no Instagram elogiando o traficante Pose do Rodo. (...) Essa é a direita."
-
-Renan aponta que Nikolas também **recusou ser relator** do projeto de lei que tornaria o Comando Vermelho e o PCC organizações terroristas — e interpreta a combinação de elogio + recusa como covardia ou interesse em seguidores em comum com o público dessas facções:
-
-> "Você não apenas tem medo porque você é uma franga. Você tem seguidores em comum com essa gentalha, você quer ganhar seguidor junto."
-
-Ver [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Coman
+> "Tirou a relatoria de um projeto de lei que vai transformar o PCC e o Comando Vermelho em organização terrorista porque o cara teve medo pela vida. Jornalistas e promotores não t�

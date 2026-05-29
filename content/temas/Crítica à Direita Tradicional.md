@@ -4,10 +4,20 @@ tags:
   - tema
   - política
   - bolsonarismo
-date: 2026-04-07
+date: 2026-05-29
 ---
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
+
+## Zema e Caiado: boa intenção sem fibra política (maio de 2026)
+
+Em **29 de maio de 2026**, Renan dirige um vídeo especificamente aos eleitores de Romeu Zema e Ronaldo Caiado — os que buscam uma direita fora do bolsonarismo e do petismo. O argumento: Zema e Caiado não são necessariamente más pessoas, mas não têm "a fibra necessária" para resistir à pressão simultânea das duas "máfias" — do bolsonarismo e do petismo.
+
+O episódio concreto: Zema estava sendo pressionado pelo próprio partido a não falar sobre os crimes de Flávio Bolsonaro. Para Renan, isso ilustra como o jogo político corrói até os candidatos bem-intencionados. Caiado, agravante, "nem partido mais tem." Renan usa sua própria trajetória como demonstração prática: sofreu tentativas de prisão, ataques à família e perseguição jurídica simultânea de PT e bolsonarismo — e resistiu. A conclusão é que a queda de ambos é "inevitável", e não por falta de caráter, mas por falta de capacidade de resistência política.
+
+> "O jogo é muito pesado e o Zema, por mais que não seja uma má pessoa, ele não vai aguentar a porradaria."
+
+Ver [[fontes/2026-05-29 - Acabaram com o Zema]].
 
 ## Direita inteira foi conivente com crimes da família Bolsonaro (maio de 2026)
 
@@ -471,21 +481,4 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 - [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]]
 - [[fontes/2026-04-05 - O Brasil está empobrecendo]]
 - [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
-- [[fontes/2026-04-01 - Um pedido de desculpas]]
-- [[fontes/2026-03-31 - Caiado e Lula são VELHOS]]
-- [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
-- [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]
-- [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]]
-- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]]
-- [[fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO]]
-- [[fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal]]
-- [[fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF]]
-- [[fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA]]
-- [[fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA]]
-- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]]
-- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]]
-- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2026-01-30 - MINHA OPINIÃO SOBRE O CAIADO NO PSD]]
-- [[fontes/2026-02-09 - ELES PERDERAM A CHANCE DE OURO]]
+- [[fontes/2026-04-

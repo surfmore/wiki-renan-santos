@@ -1,5 +1,9 @@
 # Log de operações
 
+## [2026-05-29] ingest | Acabaram com o Zema + Carta aberta ao pequeno empresário + Como o PT ajudou a destruir o cacau no sul
+- Fontes criadas: fontes/2026-05-29 - Acabaram com o Zema, fontes/2026-05-29 - Carta aberta ao pequeno empresário brasileiro, fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul
+- Páginas atualizadas: pessoas/Romeu Zema, pessoas/Ronaldo Caiado, pessoas/Nikolas Ferreira, temas/Crítica à Direita Tradicional, temas/Empobrecimento e Mercado de Trabalho, temas/Agronegócio e Matopiba, index.md
+
 ## [2026-05-29] lint | Auditoria geral completa do wiki
 - **index.md**: corrigido truncamento; adicionadas seções Outubro 2025 (22 entradas), Setembro 2025 (24 entradas) e Análises (3 entradas); adicionado temas/Partido Missão ausente
 - **Links YouTube**: confirmado que `openLinksInNewTab: true` já está configurado no Quartz — links abrem em nova aba sem modificar os 575 arquivos
@@ -1145,16 +1149,4 @@
 - fontes/2026-03-16 - A melhor capital do Brasil está virando uma Cracolândia
 - fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!
 - fontes/2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES
-- fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF
-- fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula
-- fontes/2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL
-- fontes/2026-03-14 - GLOBO X STF, A GUERRA COMEÇOU
-
-**Páginas criadas (3):**
-- pessoas/Kim Kataguiri
-- posicoes/Frente de Trabalho para o Bolsa Família
-- temas/Pautas Identitárias e de Gênero
-
-**Páginas atualizadas (12):**
-- eventos/Escândalo Banco Master (Lagoinha confirmada, Oakberry censura, Zettel preso, Vorcaro pré-delação)
-- temas/Crítica à Dire
+- fontes/2026-03-15 - Minha posição sobre a

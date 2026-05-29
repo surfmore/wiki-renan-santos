@@ -4,7 +4,7 @@ tags:
   - tema
   - economia
   - emprego
-date: 2026-04-05
+date: 2026-05-29
 ---
 
 Paralelamente à crítica à [[temas/Carga Tributária|carga tributária]], Renan Santos tem apresentado um diagnóstico estrutural de **empobrecimento da população brasileira durante o governo Lula**, construído em torno da tese de que o "pleno emprego" divulgado pelas estatísticas oficiais esconde uma deterioração da qualidade do trabalho.
@@ -18,6 +18,18 @@ Em **25 de fevereiro de 2026**, Renan defende que o Brasil trata o empreendedor 
 Renan aponta o modelo asiático (**Singapura, Japão, China e Coreia do Sul**) como referência: uma geração que colocou o trabalho acima de qualquer coisa, apoiada por lideranças políticas comprometidas com o desenvolvimento nacional — independentemente do espectro ideológico. O resultado foi ascensão social, industrialização e crescimento. O Brasil, por sua vez, "se burocratizou demais antes de ter conseguido fazer isso" e nunca completou o processo.
 
 Ver [[fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL]].
+
+## Carta aberta ao pequeno empresário: direita traiu sua base (maio de 2026)
+
+Em **29 de maio de 2026**, após a aprovação da escala 6x1 pelo Congresso, Renan dirige uma mensagem ao pequeno empresário brasileiro — manicures, donos de bar, restaurantes, pequenos escritórios, metalúrgicos, marceneiros, mecânicos, floriculturas. Lista os obstáculos que esse público já enfrentava: folha de pagamento pesada, sem acesso a crédito barato, leis trabalhistas adversas, impostos crescentes, reforma trabalhista que não o beneficiou e fiscalização abusiva. Com a aprovação da medida, o quadro piora: perda de força de trabalho, margens menores e necessidade de crédito.
+
+O ponto central é a denúncia de que os políticos em quem esse eleitorado tipicamente votava — **PL, PP, União Brasil, PSD e Nikolas Ferreira** — votaram junto com Lula, o PT e Érika Hilton a favor da medida. Nikolas justificou o voto com a frase "Eu sei jogar o jogo também" — o que Renan usa como símbolo de oportunismo: admite votar em medida populista e irresponsável para não perder votos, enquanto transfere o custo para trabalhadores e empresários.
+
+Renan posiciona o Partido Missão como o único que fechou questão contra a medida, e apresenta os pequenos empresários como "a classe média que carrega o Brasil nas costas, trabalhando num país que luta para que vocês não existam."
+
+> "A maioria nem sempre acerta. A voz do povo não é a voz de Deus. A voz de Deus é a voz dos corajosos."
+
+Ver [[fontes/2026-05-29 - Carta aberta ao pequeno empresário brasileiro]].
 
 ## Escala 6x1: PL vota a favor por cálculo eleitoral — impactos econômicos (maio de 2026)
 
@@ -168,29 +180,4 @@ Exemplo concreto: nos EUA, uma construção de padrão similar é feita em 1 ano
 
 > "A gente parece que fica se sabotando permanentemente. Não é normal uma coisa dessa."
 
-Ver [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]].
-
-## Assistencialismo 500% maior, PIB 300% (fevereiro de 2026)
-
-Em **23 de fevereiro de 2026**, Renan apresenta dados que comparam o crescimento do assistencialismo brasileiro com o crescimento econômico de países pares, desde a criação do Bolsa Família em 2004:
-
-| País | Crescimento do PIB (2004–2026) |
-|---|---|
-| **China** | **856%** (quase 9 vezes) |
-| **Índia** | **450%** |
-| **Bangladesh / Indonésia** | ~450% |
-| **Brasil** | < 300% |
-
-Ao mesmo tempo, os gastos com assistencialismo no Brasil cresceram **500% (6 vezes)** no mesmo período — descontada a inflação.
-
-O diagnóstico: as taxas de desemprego não aumentam porque as pessoas abandonaram a busca por emprego formal. Vivem de trabalho informal combinado com assistência estatal — o que as estatísticas de "pleno emprego" escondem.
-
-Renan cita a crítica do próprio **Xi Jinping** ao modelo latino-americano: a China explicitamente rejeitou o caminho de dar programas assistenciais enquanto deveria aumentar a oferta de empregos.
-
-Ver [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]].
-
-## O trabalhador chamado de "playboy" (fevereiro de 2026)
-
-Em **6 de fevereiro de 2026**, Renan comenta propaganda oficial do governo Lula — depois removida — que afirmava que quem ganha mais de R$ 5 mil por mês não tem opinião que importe. Os atingidos: motoristas de Uber, caminhoneiros, donos de pequenas lojas. Para Renan, a lógica é clara: o trabalhador autônomo não depende de programas sociais, logo não é eleitor útil para o PT.
-
-> "O PT, o partido dos
+Ver [[fontes/2026-02-24 - TEM COMO ACABAR A 

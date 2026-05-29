@@ -4,8 +4,9 @@ tags:
   - pessoa
   - pré-candidato
   - eleições-2026
-date: 2026-05-25
+date: 2026-05-29
 fontes:
+  - "2026-05-29 - Acabaram com o Zema"
   - "2026-05-23 - Recado para a Faria Lima"
   - "2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA"
   - "2026-05-14 - Convite para Zema e Caiado!"
@@ -20,7 +21,19 @@ fontes:
   - "2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!"
 ---
 
-**Quem é:** Governador de Minas Gerais (Novo), pré-candidato à presidência da República em 2026. Empresário do setor automotivo (Grupo Zema), eleito governador de MG em 2018 e reeleito em 2022. Um dos nomes que o mercado financeiro e a imprensa projetaram como possível candidato de centro-direita para 2026.
+**Quem é:** Governador de Minas Gerais (Novo), pré-candidato à presidência da República em 2026. Empresário do setor automotivo (Grupo Zema), eleito governador de MG em 2018 e reeleito em 2022.
+
+## Humilhado pelo próprio partido: sem fibra para resistir à pressão (maio de 2026)
+
+Em **29 de maio de 2026**, Renan dirige um vídeo diretamente aos eleitores de Zema (e de Caiado) que buscam alternativa de direita fora da família Bolsonaro. O contexto: Zema estava sendo pressionado pelo seu próprio partido — de orientação bolsonarista — a não falar sobre os crimes de Flávio Bolsonaro.
+
+Renan não classifica Zema como má pessoa e reconhece que ele vinha se comportando "de maneira até decente" — relutando, dando indiretas. Avalia ainda que, diante do nível dos governadores brasileiros, Zema está "acima da média." Mas a conclusão é clara: Zema não tem "a fibra necessária para enfrentar essas duas máfias — do bolsonarismo e do petismo." O mesmo diagnóstico se aplica a Caiado, que "nem partido mais tem."
+
+Renan usa sua própria trajetória como contraponto: sofreu tentativas de prisão, ataques à família, perseguição jurídica simultânea de PT e bolsonarismo e quase fechamento do MBL — e resistiu. Poucos têm essa capacidade. O recado final: a queda de Zema e Caiado é "inevitável", mas há um caminho além da polarização, e Renan se apresenta como esse caminho.
+
+> "O jogo é muito pesado e o Zema, por mais que não seja uma má pessoa, ele não vai aguentar a porradaria."
+
+Ver [[fontes/2026-05-29 - Acabaram com o Zema]]. Empresário do setor automotivo (Grupo Zema), eleito governador de MG em 2018 e reeleito em 2022. Um dos nomes que o mercado financeiro e a imprensa projetaram como possível candidato de centro-direita para 2026.
 
 ## O que o Renan Santos disse
 
@@ -80,20 +93,4 @@ Ver [[fontes/2026-05-23 - Recado para a Faria Lima]].
 - [[pessoas/Daniel Vorcaro]] — pai (Henrique Vorcaro) doou R$ 1M ao Partido Novo em MG em 2022
 - [[pessoas/Ronaldo Caiado]] — convite conjunto ao MPE; ambos mencionados como candidatos do establishment
 - [[pessoas/Flávio Bolsonaro]] — áudio Vorcaro; Renan os coloca no mesmo campo
-- [[pessoas/Tarcísio de Freitas]] — "múmias do centrão"; mercado que fabrica candidatos
-- [[temas/Crítica à Direita Tradicional]] — Zema como representante do campo que Renan critica
-- [[posicoes/Reforma Fiscal]] — contraste entre a proposta de Renan e a de Zema
-
-## Fontes
-
-- [[fontes/2026-05-23 - Recado para a Faria Lima]] — mercado errou apostas em Zema; Missão como alternativa real
-- [[fontes/2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA]] — Zema como candidato sem salto; Renan projeta superação
-- [[fontes/2026-05-14 - Convite para Zema e Caiado!]] — convite ao MPE; doação de Vorcaro em 2022
-- [[fontes/2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora]] — Zema como "próximo escolhido dos mercados"
-- [[fontes/2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele]] — privatização da Petrobras como proposta insuficiente
-- [[fontes/2026-04-28 - Por que esquecem da minha existência]] — cobertura desproporcional da imprensa a Zema
-- [[fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS]] — Renan comemora ultrapassar Zema
-- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]] — "time único"; vice de Zema no PSD
-- [[fontes/2026-01-21 - RENAN ULTRAPASSA GOVERNADORES EM NOVA PESQUISA PARA PRESIDENTE]] — pesquisa Atlas; Renan supera Zema, Caiado e Ratinho
-- [[fontes/2025-12-06 - Flávio Bolsonaro rachou a direita]] — Zema tentou ser "bom menino" do Bolsonaro
-- [[fontes/2025-09-24 - Quer notícia boa]] — Zema classificado como "múmia do centr
+- [[pessoas/Tarcísio de Freitas]] — "múmias do centr�
