@@ -680,4 +680,12 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — "Taxa das blusinhas" arrecadou menos que o previsto e empobreceu consumidor; Renan defende derrubada da alíquota sobre importados baratos.
 - [[fontes/2025-09-06 - Cuida de mim, painho!]] — Crítica ao PT por substituir desenvolvimento do Nordeste por assistencialismo eleitoreiro com transferências de renda.
 - [[fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE]] — Proposta de industrialização do Matopiba via usinas de biocombustível com soja e milho, exportando pelo Porto do Maranhão.
-- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% em pesquisa presidencial an
+- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% em pesquisa presidencial antes mesmo de lançar candidatura formal.
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]] — Compilação de falas anteriores sobre segurança pública: guerra às facções, desfavelização e prisão das lideranças do tráfico.
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Vídeo biográfico completo: origem na Mooca, USP, fundação do MBL, episódio com policiais corruptos e criação do Partido Missão.
+
+## Análises
+
+- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o fim da Lava-Jato até a prisão de Ciro Nogueira na Operação Compliance Zero em maio de 2026.
+- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Comparativo cronológico da relação entre Renan e Flávio Bolsonaro: de adversários a rivais declarados, com cada episódio de confronto documentado.
+- [[analises/Propostas de Governo - Comparativo por Área]] — Tabela comparativa das propostas de Renan por área temática: segurança, economia, educação, saúde, reforma política e geopolítica.

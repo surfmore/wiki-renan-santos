@@ -80,4 +80,14 @@ Em **28 de maio de 2026**, gravando no **porto de Ilhéus (BA)**, Renan analisa 
 
 O alerta: a China usa a mesma estratégia na África — financia infraestrutura, o país dá calote, ela exige submissão geopolítica como compensação. O Brasil, "fiscalmente quebrado e incapaz de investir na própria infra", corre risco semelhante — tanto mais porque a ferrovia passa por regiões ricas em **minério de ferro, agricultura e terras raras**. Renan aponta que o Brasil é o "único país capaz de concorrer com a China" no processamento de terras raras, tornando o controle do território estratégico para Pequim.
 
-Posição: fará a ferrovia, mas com **i
+Posição: fará a ferrovia, mas com **investimento misto** — parte chinês, parte brasileiro, parte de iniciativa privada internacional — para não depender exclusivamente da China. *"Nossa função aqui não é agradar nem chinês nem americano, é agradar o Brasil."* Ver [[fontes/2026-05-28 - Vamos fazer o Peru grande]].
+
+## Fontes
+
+- [[fontes/2026-05-28 - Vamos fazer o Peru grande]] — ferrovia bioceânica Ilhéus–Shankai; risco de dependência da China; proposta de investimento misto
+- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]] — terras raras; terceira via entre Lula e Flávio Bolsonaro
+- [[fontes/2026-02-28 - KHAMENEI ESTÁ MORTO]] — mundo baseado em força; queda do BRICS; bomba como soberania
+- [[fontes/2026-01-03 - Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República]] — medidas imediatas pós-intervenção na Venezuela
+- [[fontes/2026-01-03 - Qual o próximo país, Trump]] — Brasil como "próximo caso" após Venezuela
+- [[fontes/2026-01-03 - URGENTE - Trump sequestra Maduro]] — intervenção americana na Venezuela; análise geopolítica
+- [[fontes/2026-01-03 - Atenção - Trump anunciou interventor na Venezuela]] — nova Doutrina Monroe; terras raras e petróleo

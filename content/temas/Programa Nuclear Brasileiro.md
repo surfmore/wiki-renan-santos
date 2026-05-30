@@ -72,4 +72,13 @@ A proposta gerou cancelamento nas redes sociais. Renan interpreta isso como evid
 
 ## Bomba atômica no MST: resposta irônica (maio de 2026)
 
-Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"Aí 
+Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou depende"), Renan responde sobre a bomba atômica: **a favor**. A resposta é combinada com a posição sobre o MST (contra) em formulação irônica que repercutiu nas redes: *"Aí sim, tem que ser bomba atômica no MST"* — combinando as posições sobre bomba atômica e MST numa resposta irônica que gerou repercussão. Ver [[fontes/2026-05-20 - Bomba atômica no MST]].
+
+## Fontes
+
+- [[fontes/2026-05-20 - Bomba atômica no MST]] — formato "a favor/contra/depende"; frase irônica combinando bomba e MST
+- [[fontes/2026-05-09 - Renan foi DESTRUÍDO Ou é o novo Enéas]] — terras raras como caminho para indústria bélica e programa nuclear
+- [[fontes/2026-04-27 - Nenhum outro pré-candidato fala isso]] — agenda de defesa nacional; semicondutores; indústria bélica
+- [[fontes/2026-02-28 - KHAMENEI ESTÁ MORTO]] — força como única garantia; bomba como sinal de soberania maior
+- [[fontes/2026-01-05 - Estou sendo cancelado por defender que o Brasil tenha armas nucleares]] — reação ao cancelamento nas redes
+- [[fontes/2026-01-04 - O Brasil precisa de uma arma nuclear]] — proposta central; Enéas Carneiro; educação vs. defesa

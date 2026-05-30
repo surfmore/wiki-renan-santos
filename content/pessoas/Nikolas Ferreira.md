@@ -101,4 +101,18 @@ Em **27 de setembro de 2025**, Nikolas pegou e depois devolveu a relatoria do pr
 
 Renan rejeita a justificativa: jornalistas investigativos, promotores e delegados enfrentam os mesmos riscos sem secretaria de Estado, sem equipe de segurança e sem salário de deputado.
 
-> "Tirou a relatoria de um projeto de lei que vai transformar o PCC e o Comando Vermelho em organização terrorista porque o cara teve medo pela vida. Jornalistas e promotores não t�
+> "Tirou a relatoria de um projeto de lei que vai transformar o PCC e o Comando Vermelho em organização terrorista porque o cara teve medo pela vida. Jornalistas e promotores não têm segurança de Estado e não se acovardaram."
+
+Ver [[fontes/2025-09-27 - Nikolas Ferreira te ENGANOU]].
+
+## Elogio ao MC do Comando Vermelho (outubro de 2025)
+
+Em **23 de outubro de 2025**, Nikolas elogiou no Instagram o rapper **"Pose do Rodo"**, identificado por Renan como membro do Comando Vermelho. Renan reage com irritação:
+
+> "Tá ali no Instagram elogiando o traficante Pose do Rodo. (...) Essa é a direita."
+
+Renan aponta que Nikolas também **recusou ser relator** do projeto de lei que tornaria o Comando Vermelho e o PCC organizações terroristas — e interpreta a combinação de elogio + recusa como covardia ou interesse em seguidores em comum com o público dessas facções:
+
+> "Você não apenas tem medo porque você é uma franga. Você tem seguidores em comum com essa gentalha, você quer ganhar seguidor junto."
+
+Ver [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Coman

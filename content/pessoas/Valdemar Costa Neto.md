@@ -90,4 +90,19 @@ Ver [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de F
 
 ## Valdemar como símbolo da "fórmula política velha"
 
-Em diversas ocasiões, Renan usa "Valdemar" como substantivo comum — categoria que re
+Em diversas ocasiões, Renan usa "Valdemar" como substantivo comum — categoria que representa o tipo de político que atravessa governos, partidos e escândalos sem nunca perder poder, sendo condenado pelo mesmo sistema que continua a operar. Para Renan, o PL sob Valdemar é a prova de que o bolsonarismo institucional nunca foi alternativa real ao PT.
+
+## Fontes
+
+- [[fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!]] — entrevista em que Valdemar inadvertidamente confirma motivação financeira da visita de Flávio a Vorcaro
+- [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]] — perfil completo de Valdemar; trajetória e conexões com o PT
+- [[fontes/2026-04-29 - FLÁVIO É FRACO]] — Valdemar contra impeachment de ministros do STF
+- [[fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF]] — posição de Valdemar sobre indicações ao STF
+- [[fontes/2026-04-21 - Nosso maior adversário é a falta de imaginação.]] — argumento sobre transferência de recursos para o PL
+- [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]] — contexto do enfrentamento do PL com o STF
+- [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]] — crítica ao bolsonarismo institucional
+- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]] — argumento direto ao eleitor bolsonarista sobre Valdemar
+- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]] — contexto de crítica à liderança do PL
+- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]] — Valdemar como símbolo do desvio do bolsonarismo
+- [[fontes/2025-12-21 - Essa é uma Missão pra vocês]] — fundação do Partido Missão como alternativa ao PL
+- [[fontes/2025-12-08 - Sou número 1 das pesquisas]] — contexto eleitoral inicial

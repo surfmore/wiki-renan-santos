@@ -56,4 +56,8 @@ A COP também sabotou, segundo Renan, o desenvolvimento econômico do Pará: exp
 
 ## Oposição amaldiçoada: Daniel Santos (maio de 2026)
 
-Em **5 de maio de 2026**, Renan comenta o caso de **Daniel Santos**, prefeito de **Janindua** e líder nas pesquisas para o governo do Pará como suposta alternativa de oposição aos Barbalhos. Segundo reportagem do **Metrópoles** (jornalista André Schudders), emendas da deputada federal **esposa de Daniel Santos** foram enviadas ao município, executadas por uma empreiteira
+Em **5 de maio de 2026**, Renan comenta o caso de **Daniel Santos**, prefeito de **Janindua** e líder nas pesquisas para o governo do Pará como suposta alternativa de oposição aos Barbalhos. Segundo reportagem do **Metrópoles** (jornalista André Schudders), emendas da deputada federal **esposa de Daniel Santos** foram enviadas ao município, executadas por uma empreiteira ligada a ele, que teria construído uma casa de praia avaliada em R$ 4 milhões no Ceará. Para Renan, o caso evidencia que a oposição aos Barbalhos também pode ser corrompida pelo mesmo sistema de oligarquias.
+
+## Fontes
+
+- [[fontes/2025-12-23 - Por que Pará ama os Barbalhos]] — origem colonial da família; indicadores sociais do Pará; análise do domínio político

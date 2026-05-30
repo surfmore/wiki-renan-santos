@@ -93,4 +93,21 @@ Ver [[fontes/2026-05-23 - Recado para a Faria Lima]].
 - [[pessoas/Daniel Vorcaro]] — pai (Henrique Vorcaro) doou R$ 1M ao Partido Novo em MG em 2022
 - [[pessoas/Ronaldo Caiado]] — convite conjunto ao MPE; ambos mencionados como candidatos do establishment
 - [[pessoas/Flávio Bolsonaro]] — áudio Vorcaro; Renan os coloca no mesmo campo
-- [[pessoas/Tarcísio de Freitas]] — "múmias do centr�
+- [[pessoas/Tarcísio de Freitas]] — "múmias do centrão"; mercado que fabrica candidatos
+- [[temas/Crítica à Direita Tradicional]] — Zema como representante do campo que Renan critica
+- [[posicoes/Reforma Fiscal]] — contraste entre a proposta de Renan e a de Zema
+
+## Fontes
+
+- [[fontes/2026-05-29 - Acabaram com o Zema]] — humilhado pelo próprio partido bolsonarista; sem fibra para resistir à pressão
+- [[fontes/2026-05-23 - Recado para a Faria Lima]] — mercado errou apostas em Zema; Missão como alternativa real
+- [[fontes/2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA]] — Zema como candidato sem salto; Renan projeta superação
+- [[fontes/2026-05-14 - Convite para Zema e Caiado!]] — convite ao MPE; doação de Vorcaro em 2022
+- [[fontes/2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora]] — Zema como "próximo escolhido dos mercados"
+- [[fontes/2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele]] — privatização da Petrobras como proposta insuficiente
+- [[fontes/2026-04-28 - Por que esquecem da minha existência]] — cobertura desproporcional da imprensa a Zema
+- [[fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS]] — Renan comemora ultrapassar Zema
+- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]] — "time único"; vice de Zema no PSD
+- [[fontes/2026-01-21 - RENAN ULTRAPASSA GOVERNADORES EM NOVA PESQUISA PARA PRESIDENTE]] — pesquisa Atlas; Renan supera Zema, Caiado e Ratinho
+- [[fontes/2025-12-06 - Flávio Bolsonaro rachou a direita]] — Zema tentou ser "bom menino" do Bolsonaro
+- [[fontes/2025-09-24 - Quer notícia boa]] — Zema classificado como "múmia do centr

@@ -1149,4 +1149,63 @@
 - fontes/2026-03-16 - A melhor capital do Brasil está virando uma Cracolândia
 - fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!
 - fontes/2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES
-- fontes/2026-03-15 - Minha posição sobre a
+- fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF
+- fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula
+- fontes/2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL
+- fontes/2026-03-14 - GLOBO X STF, A GUERRA COMEÇOU
+
+**Páginas criadas (3):**
+- pessoas/Kim Kataguiri
+- posicoes/Frente de Trabalho para o Bolsa Família
+- temas/Pautas Identitárias e de Gênero
+
+**Páginas atualizadas (12):**
+- eventos/Escândalo Banco Master (Lagoinha confirmada, Oakberry censura, Zettel preso, Vorcaro pré-delação)
+- temas/Crítica à Direita Tradicional (Bolsa Família Flávio, Fabiana blackface, maioridade penal governadores)
+- temas/Segurança Pública (maioridade penal, feminicídio, Curitiba degradada)
+- temas/STF e Ativismo Judicial (Globo x STF, anão delegado, Bolsonaro preso e vendeta Moraes)
+- temas/Mídia e Imprensa (censura Instagram, Wagner Moura e cinema da ditadura)
+- temas/Empobrecimento e Mercado de Trabalho (Bolsa Família, MEI, diagnóstico Lula)
+- temas/Carga Tributária (MEI 1,61% das isenções)
+- temas/Corrupção Municipal (deputado MT confesso)
+- posicoes/Plano para Moradores de Rua (Curitiba Marco Zero)
+- pessoas/Flávio Bolsonaro (Bolsa Família, doença do pai)
+- pessoas/Alexandre de Moraes (anão delegado, vendeta Bolsonaro)
+- wiki/index.md
+
+## [2026-04-14] ingest batch 5 | 20 shorts (2026-03-20 → 2026-03-26)
+
+**Fontes processadas (20):**
+- fontes/2026-03-26 - Você está cansado de fingir
+- fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa
+- fontes/2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso
+- fontes/2026-03-26 - Mais BOPE menos Brasa
+- fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem
+- fontes/2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA
+- fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS
+- fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA
+- fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO
+- fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso
+- fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
+- fontes/2026-03-24 - Eu tô com muita inveja de El Salvador
+- fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
+- fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
+- fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO
+- fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA
+- fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master
+- fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país
+- fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins
+- fontes/2026-03-20 - Os caminhoneiros vão entrar em greve
+
+**Páginas criadas (3):**
+- pessoas/Ratinho Júnior
+- posicoes/Desfavelização do Rio de Janeiro
+- posicoes/Proposta para Caminhoneiros
+
+**Páginas atualizadas (7):**
+- temas/Segurança Pública (BOPE 6 medidas, progressão penal, Bukele)
+- temas/Crítica à Direita Tradicional (PL misoginia, Ratinho Jr., Flávio=João Campos)
+- temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
+- temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
+- eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
+- posicoes/Fusão de Municípios (Taub

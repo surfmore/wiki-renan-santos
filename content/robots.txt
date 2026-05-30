@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+
+# Sitemap e LLMs
+Sitemap: https://renansantos.wiki/sitemap.xml
+LLMs: https://renansantos.wiki/llms.txt
+
+# Permitir crawlers de AI explicitamente
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: Anthropic-AI
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /

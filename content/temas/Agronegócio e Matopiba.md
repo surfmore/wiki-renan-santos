@@ -72,4 +72,25 @@ Ver [[fontes/2026-02-25 - ÍNDIOS E PICARETAS DO PSOL ESTÃO SABOTANDO OS CAMINH
 
 ## Cooperativismo como modelo de desenvolvimento para o Nordeste (abril de 2026)
 
-Em **22 de abril de 2026**, em frente a uma cooperativa agrícola de Santa Catarina, Renan defende o **modelo cooperativista** como estratégia replicável para o Nordeste. SC lidera junto com RS e SP o ranking de cooperados do Brasil. As cooperativas permitem que pequenos produtores ganhem escala, compartilhem maquinário e tecnologia, obte
+Em **22 de abril de 2026**, em frente a uma cooperativa agrícola de Santa Catarina, Renan defende o **modelo cooperativista** como estratégia replicável para o Nordeste. SC lidera junto com RS e SP o ranking de cooperados do Brasil. As cooperativas permitem que pequenos produtores ganhem escala, compartilhem maquinário e tecnologia, obtenham crédito mais barato e acessem mercados maiores — vantagens que individualmente estariam fora do alcance de cada produtor. Renan defende incentivos para a criação de cooperativas no Nordeste como parte da agenda de desenvolvimento regional. Ver [[fontes/2026-04-22 - Cooperativismo em Santa Catarina]].
+
+## Cacau no sul da Bahia: vassoura de bruxa e o papel do PT (maio de 2026)
+
+Em **29 de maio de 2026**, gravado no sul da Bahia, Renan apresenta o caso da lavoura cacaueira como exemplo histórico da destruição deliberada de uma cadeia produtiva por interesse político. A Bahia era a **maior produtora mundial de cacau** — com enorme potencial dado o mercado global crescente de chocolate e produtos de luxo. A região concentrava poder nas lideranças cacaueiras locais, o que representava um obstáculo ao crescimento eleitoral do PT.
+
+A acusação de Renan: nos anos 1990, o PT ajudou a espalhar deliberadamente a **"vassoura de bruxa"** — fungo que destrói 80 a 90% da produção sem tratamento, e ainda 50% com tratamento. O objetivo teria sido destruir o poder político dos produtores. O resultado: invasões do MST, empobrecimento e favelização do Recôncavo e do sul da Bahia, ascensão do PT ao poder estadual em 2006 e dependência das populações locais do Bolsa Família. O homem que teria ajudado a espalhar a praga chegou a ser eleito prefeito de Itabuna.
+
+A proposta de Renan como presidente: mobilizar a **Embrapa** e as **universidades públicas** especializadas em agropecuária para encontrar uma solução técnica definitiva para a vassoura de bruxa e recuperar a produção cacaueira baiana.
+
+Ver [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]].
+
+## Fontes
+
+- [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]] — vassoura de bruxa; destruição da lavoura cacaueira; proposta para Embrapa
+- [[fontes/2026-04-24 - Essa vinícola vai te mostrar todo o potencial do agro]] — agro de alto valor agregado; vinícola de São Joaquim (SC)
+- [[fontes/2026-04-22 - Cooperativismo em Santa Catarina]] — modelo cooperativista replicável para o Nordeste
+- [[fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão]] — Ferrogrão paralisada no STF; lobby ambiental
+- [[fontes/2026-04-08 - 400 milhões pra Camaçari]] — crítica ao modelo de industrialização com trabalhadores chineses na Bahia
+- [[fontes/2026-04-07 - A ferrogrão está sendo sabotada]] — números da Ferrogrão; impacto logístico
+- [[fontes/2026-04-05 - O agro brasileiro pode quebrar]] — dependência de fertilizantes; reservas brasileiras de fosfato e potássio
+- [[fontes/2026-02-25 - ÍNDIOS E PICARETAS DO PSOL ESTÃO SABOTANDO OS CAMINHONEIROS NA REGIÃO NORTE]] — bloqueio de hidrovias; decreto do governo Lula

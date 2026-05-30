@@ -353,4 +353,42 @@ Ver [[fontes/2026-01-27 - ESSA CIDADE NÃO TEM ÁGUA MAS QUER DAR INTERNET PARA 
 
 ## Mapa do PIB per capita: as duas linhas do Brasil (dezembro de 2025)
 
-Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo mapa de renda per capita: clara divisão Norte-Nordeste (baixa) vs
+Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo mapa de renda per capita: clara divisão Norte-Nordeste (baixa) vs. Centro-Sul (alta), que Renan associa diretamente à qualidade da gestão política regional e não à escassez de recursos federais transferidos.
+
+## Fontes
+
+- [[fontes/2026-05-25 - O PT destruiu a Bahia]] — Bahia com maior número de pessoas no Bolsa Família; indicadores de Salvador
+- [[fontes/2026-05-24 - A Bahia governada pelo PT já era]] — panorama do estado após dezoito anos de PT
+- [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]] — indicadores da Brasilândia
+- [[fontes/2026-05-17 - O Brasil não liga para os bairros mais pobres de São Paulo]] — metrô da Brasilândia; roubo federativo contra SP
+- [[fontes/2026-05-08 - O Acre deveria ser um Estado]] — intervenção federal no Acre; indicadores colapsados
+- [[fontes/2026-05-05 - MEU POVO DO PARÁ]] — caso Daniel Santos; ciclo de migração do Pará
+- [[fontes/2026-05-05 - Eu já fui eleito Presidente da República]] — PT preso ao ciclo de dependência do Nordeste
+- [[fontes/2026-04-24 - Santa Catarina x Maranhão - o duelo final!]] — paradoxo do PIB per capita vs. IDH
+- [[fontes/2026-04-23 - Não sobra NADA...]] — roubo federativo; fusão de municípios; fundo partidário condicionado
+- [[fontes/2026-04-23 - Catarinense, está na hora de você ter o que você merece]] — Guaraciaba; obra do PAC 1 de 2012 inacabada em 2026
+- [[fontes/2026-04-22 - Essa ferrovia explica o aumento no preço da gasolina em Santa Catarina]] — ferrovia abandonada em Lajes (SC)
+- [[fontes/2026-04-20 - O Maranhão pode ser melhor do que isso]] — visão do sul do Maranhão
+- [[fontes/2026-04-16 - Classe política do Maranhão versus EU]] — nota de repúdio do deputado Iildo Rocha
+- [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; paradoxo da riqueza sem IDH
+- [[fontes/2026-04-14 - O que é melhor no Maranhão]] — comparação humorística Pedrinhas vs. estado
+- [[fontes/2026-04-14 - Lideranças do Coroadinho repudiam Renan]] — reação à visita ao Coroadinho
+- [[fontes/2026-04-14 - Ameaçado por chamar Coroadinho de filial do inferno]] — visita ao Coroadinho; favelização de São Luís
+- [[fontes/2026-03-20 - NO AMAZONAS, VOCÊ PODE GANHAR MAIS DE MIL REAIS SEM FAZER NADA]] — Barcelos (AM); auxílios empilhados sem contrapartida
+- [[fontes/2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA]] — Pomerode (SC) vs. Itabau (AM)
+- [[fontes/2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA]] — maranhenses migrando; padrão de voto transportado
+- [[fontes/2026-02-23 - ESSA CIDADE PRATICAMENTE SÓ TEM PESSOAS NO BOLSA FAMÍLIA]] — Itauau (PA); 93% no Bolsa Família
+- [[fontes/2026-02-23 - PREPARE-SE PARA SER HUMILHADO PELA ETIOPIA]] — Adis Abeba mais segura que capitais brasileiras
+- [[fontes/2026-02-20 - QUAL O MOTIVO DE NINGUÉM QUERER FICAR NO BRASIL]] — favelização como estado de espírito
+- [[fontes/2026-02-14 - ESTADOS ONDE EU FARIA UMA INTERVENÇÃO - PARTE 01]] — avaliação estado a estado
+- [[fontes/2026-02-10 - PROJETO LEVE POÇOS NO RIO GRANDE DO NORTE]] — Projeto Leve Poços no sertão
+- [[fontes/2026-02-08 - O HOMEM JOVEM NORDESTINO VAI MUDAR O DESTINO DESSE PAÍS]] — eleitor nordestino em transição para a direita
+- [[fontes/2026-02-06 - O NORDESTE VAI DAR CERTO!]] — tour pelo Nordeste; exemplos de produção e empreendedorismo
+- [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]] — Açu (RN); aquífero sem água
+- [[fontes/2026-01-30 - LULA PROMETEU ESSA OBRA EM 2006 E ATÉ AGORA NADA]] — Transnordestina; obras paradas
+- [[fontes/2026-01-28 - PT TRATA NORDESTINO COMO COITADO]] — rejeição ao discurso coitadista
+- [[fontes/2026-01-27 - ESSA CIDADE NÃO TEM ÁGUA MAS QUER DAR INTERNET PARA VOTAR NO BBB]] — Currais Novos (RN); BBB acima de saneamento
+- [[fontes/2026-01-25 - ACARI, A CIDADE MAIS LIMPA DO BRASIL]] — Acari (RN); lei que virou cultura
+- [[fontes/2026-01-15 - O BRASIL DO SÉCULO 19 TINHA MELHOR INFRAESTRUTURA DO QUE O DE HOJE]] — ponte de 1875; migração dos mais ambiciosos
+- [[fontes/2026-01-14 - RENAN MOSTRA A REALIDADE DO BRASIL PROFUNDO]] — periferia nordestina; esgoto a céu aberto
+- [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]] — mapa da desigualdade regional; divisão Norte-Nordeste vs. Centro-Sul

@@ -180,4 +180,48 @@ Exemplo concreto: nos EUA, uma construção de padrão similar é feita em 1 ano
 
 > "A gente parece que fica se sabotando permanentemente. Não é normal uma coisa dessa."
 
-Ver [[fontes/2026-02-24 - TEM COMO ACABAR A 
+Ver [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]].
+
+## Assistencialismo 500% maior, PIB 300% (fevereiro de 2026)
+
+Em **23 de fevereiro de 2026**, Renan apresenta dados que comparam o crescimento do assistencialismo brasileiro com o crescimento econômico de países pares, desde a criação do Bolsa Família em 2004:
+
+| País | Crescimento do PIB (2004–2026) |
+|---|---|
+| **China** | **856%** (quase 9 vezes) |
+| **Índia** | **450%** |
+| **Bangladesh / Indonésia** | ~450% |
+| **Brasil** | < 300% |
+
+Ao mesmo tempo, os gastos com assistencialismo no Brasil cresceram **500% (6 vezes)** no mesmo período — descontada a inflação.
+
+O diagnóstico: as taxas de desemprego não aumentam porque as pessoas abandonaram a busca por emprego formal. Vivem de trabalho informal combinado com assistência estatal — o que as estatísticas de "pleno emprego" escondem.
+
+Renan cita a crítica do próprio **Xi Jinping** ao modelo latino-americano: a China explicitamente rejeitou o caminho de dar programas assistenciais enquanto deveria aumentar a oferta de empregos.
+
+Ver [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]].
+
+## O trabalhador chamado de "playboy" (fevereiro de 2026)
+
+Em **6 de fevereiro de 2026**, Renan comenta propaganda oficial do governo Lula — depois removida — que afirmava que quem ganha mais de R$ 5 mil por mês não tem opinião que importe. Os atingidos: motoristas de Uber, caminhoneiros, donos de pequenas lojas. Para Renan, a lógica é clara: o trabalhador autônomo não depende de programas sociais, logo não é eleitor útil para o PT.
+
+> "O PT, o partido dos trabalhadores, é inimigo de quem trabalha."
+
+Ver [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]].
+
+## Fontes
+
+- [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — escala 6x1; PL votando a favor por cálculo eleitoral; impactos econômicos
+- [[fontes/2026-05-25 - Resposta ao Luciano Huck]] — Bolsa Família como base econômica de municípios; 5 propostas
+- [[fontes/2026-05-07 - A minha geração fracassou!]] — geração dos 30-45 marcada pelo fracasso econômico
+- [[fontes/2026-05-06 - Lula acha que é bom você se endividar]] — Desenrola; 78% das famílias endividadas
+- [[fontes/2026-04-26 - Lula é um picareta!]] — Brasil ultrapassado por Botswana; desperdício do boom das commodities
+- [[fontes/2026-04-24 - Erika Hilton e escala 6x1]] — PEC como teatro eleitoral; 122 faltas de Érika Hilton
+- [[fontes/2026-03-29 - LULA ESTÁ EM PÂNICO]] — affordability; desemprego oculto; Selic acima de 15%
+- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]] — Bolsa Família atingindo quase 1/3 da população
+- [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]] — limite do MEI bloqueado por Haddad; 570 mil desenquadrados
+- [[fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula]] — diagnóstico do governo Lula como "não governo"
+- [[fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL]] — estigma do fracasso; modelo asiático de desenvolvimento
+- [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]] — cadeia causal: gasto excessivo → juros altos → baixa produtividade
+- [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]] — assistencialismo cresceu 500%, PIB menos de 300%; comparação com China e Índia
+- [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]] — trabalhador chamado de "playboy"; propaganda removida do governo Lula

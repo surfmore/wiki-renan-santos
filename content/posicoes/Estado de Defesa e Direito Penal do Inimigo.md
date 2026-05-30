@@ -44,4 +44,12 @@ O Ceará tem números de homicídios por 100 mil habitantes "muito piores" do qu
 
 Detalhe operacional: se o governador "ficar ao lado do crime organizado" e se recusar a cooperar, Renan decretará **estado de defesa específico por tempo determinado** no estado ou município, usará as polícias estaduais e, se necessário, as Forças Armadas.
 
-> "Não existe democracia 
+> "Não existe democracia quando o crime organizado controla o território. A democracia pressupõe que o Estado tenha o monopólio da força."
+
+Ver [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]].
+
+## Fontes
+
+- [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — proibição de símbolos de facções; BDM e CV em Salvador
+- [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]] — Ceará e Bahia como casos urgentes; mecanismo de afastamento de governador
+- [[fontes/2026-04-07 - O PCC chegou no interior do Maranhão]] — variante operacional; intervenção em bairros e cidades específicas

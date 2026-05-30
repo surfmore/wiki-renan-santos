@@ -58,4 +58,15 @@ Em 23 de março — antes da visita física ao local em abril —, Renan analisa
 
 ## Caminhoneiros e infraestrutura logística
 
-Em 20 de março, Renan sistematiza sete medidas para o setor de transporte rodoviário: tabela dinâmica de frete, produção interna de diesel, biodiesel, corredor elétrico para caminhões, atu
+Em 20 de março, Renan sistematiza sete medidas para o setor de transporte rodoviário: tabela dinâmica de frete, produção interna de diesel, biodiesel, corredor elétrico para caminhões, atualização do limite do MEI para R$ 350 mil (parado em R$ 251 mil por 12 anos desde 2014), aumento das penas para roubo de carga com agravante para uso de jammer, e desenvolvimento de ferrovias e hidrovias (Ferrogrão, hidrovia Paraná-Paraguai e hidrovia Tocantins-Araguaína). Ver [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]].
+
+## Fontes
+
+- [[fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele]] — sexto pneu furado; investigação fazenda Everton Rocha
+- [[fontes/2026-04-15 - Essa é a competição que quero ver]] — efeito das denúncias; Brandão vs. Braide
+- [[fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês]] — modelo Inpasa/Balsas; potencial do Matopiba
+- [[fontes/2026-04-09 - Você lembra dessa ponte aqui]] — ponte de Estreito; sobrepreço; 14 famílias sem indenização
+- [[fontes/2026-04-09 - Pneu furado no meio de uma BR no Maranhão]] — pneus furados; denúncia das BRs sem sinalização
+- [[fontes/2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA]] — Via Dutra; proposta de TAV São Paulo–Rio
+- [[fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão]] — análise causal do colapso da ponte
+- [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] — 7 medidas para o setor de transporte rodoviário

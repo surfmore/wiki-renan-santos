@@ -105,4 +105,19 @@ Renan descreveu o celular de Zettel como uma "bomba": "tem muitas informações 
 - [[eventos/Escândalo Banco Master]] — cronologia completa do caso
 - [[eventos/Manifestação do Banco Master 22 de janeiro de 2026]] — Renan organiza ato exigindo prisão de Vorcaro
 - [[pessoas/Flávio Bolsonaro]] — áudio pedindo dinheiro; visita após a prisão
-- [[pessoas/Alexandr
+- [[pessoas/Alexandre de Moraes]] — esposa com contrato com o banco; liminar favorável
+- [[pessoas/Dias Toffoli]] — viagem de jatinho com advogado do banco; liminar favorável
+- [[pessoas/Tarcísio de Freitas]] — churrasco com Vorcaro; doação de campanha de Zettel
+- [[pessoas/Ibaneis Rocha]] — BRB tentou comprar o banco
+
+## Fontes
+
+- [[fontes/2026-05-21 - Flávio Bolsonaro precisa de ajuda!]] — visita de Flávio à residência de Vorcaro após a prisão
+- [[fontes/2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora]] — áudio de Flávio pedindo dinheiro; acusação de caixa dois
+- [[fontes/2026-03-16 - VORCARO DELATOU O LULA]] — delação e nomes envolvidos
+- [[fontes/2026-03-12 - VÃO SOLTAR O DANIEL VORCARO AMANHÃ]] — STF mantém prisão; contexto da decisão
+- [[fontes/2026-02-23 - VORCARO É O EPSTEIN BRASILEIRO]] — comparação com Epstein; rede de relações
+- [[fontes/2026-01-14 - CUNHADO DE VORCARO, FABIANO ZETTEL, É PRESO EM DESDOBRAMENTO DO CASO BANCO MASTER]] — prisão de Zettel
+- [[fontes/2025-12-28 - Vorcaro é o Epstein brasileiro]] — primeiro uso da comparação com Epstein
+- [[fontes/2025-12-09 - Se o Vorcaro abrir a boca, o Brasil acaba]] — mapa de conexões políticas
+- [[fontes/2025-11-26 - Quem estava no projeto político do Banco Master]] — apresentação do mapa completo de conexões
