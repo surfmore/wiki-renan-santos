@@ -21,7 +21,6 @@ export const defaultContentPageLayout: PageLayout = {
       component: Component.Breadcrumbs(),
       condition: (page) => page.fileData.slug !== "index",
     }),
-    Component.ArticleTitle(),
     Component.ContentMeta(),
     Component.TagList(),
   ],
@@ -40,17 +39,9 @@ export const defaultContentPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      sortFn: (a, b) => {
-        // Folders always before files
-        if (a.isFolder && b.isFolder) return a.displayName.localeCompare(b.displayName, "pt-BR")
-        if (a.isFolder && !b.isFolder) return -1
-        if (!a.isFolder && b.isFolder) return 1
-        // Both files: sort by date descending (newest first), then alphabetically
-        const dateA = a.data?.date?.getTime() ?? 0
-        const dateB = b.data?.date?.getTime() ?? 0
-        if (dateA !== dateB) return dateB - dateA
-        return a.displayName.localeCompare(b.displayName, "pt-BR")
-      },
+      folderClickBehavior: "link",
+      filterFn: (node) => node.isFolder,
+      sortFn: (a, b) => a.displayName.localeCompare(b.displayName, "pt-BR"),
     }),
   ],
   right: [
@@ -77,15 +68,9 @@ export const defaultListPageLayout: PageLayout = {
       ],
     }),
     Component.Explorer({
-      sortFn: (a, b) => {
-        if (a.isFolder && b.isFolder) return a.displayName.localeCompare(b.displayName, "pt-BR")
-        if (a.isFolder && !b.isFolder) return -1
-        if (!a.isFolder && b.isFolder) return 1
-        const dateA = a.data?.date?.getTime() ?? 0
-        const dateB = b.data?.date?.getTime() ?? 0
-        if (dateA !== dateB) return dateB - dateA
-        return a.displayName.localeCompare(b.displayName, "pt-BR")
-      },
+      folderClickBehavior: "link",
+      filterFn: (node) => node.isFolder,
+      sortFn: (a, b) => a.displayName.localeCompare(b.displayName, "pt-BR"),
     }),
   ],
   right: [],
