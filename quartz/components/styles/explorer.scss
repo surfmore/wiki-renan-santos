@@ -22,7 +22,7 @@
     }
 
     .hide-until-loaded ~ .explorer-content {
-      display: none;
+      display: none !important;
     }
   }
 }
@@ -60,7 +60,7 @@
   }
 
   button.mobile-explorer {
-    display: none;
+    display: none !important;
   }
 
   button.desktop-explorer {
@@ -73,7 +73,7 @@
     }
 
     button.desktop-explorer {
-      display: none;
+      display: none !important;
     }
   }
 
@@ -203,8 +203,9 @@ button.desktop-explorer {
   }
 }
 
-.folder-icon {
-  display: none;
+.folder-icon,
+.explorer .folder-container svg.folder-icon {
+  display: none !important;
 }
 
 li:has(> .folder-outer:not(.open)) > .folder-container > svg {
