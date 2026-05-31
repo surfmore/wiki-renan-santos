@@ -23,6 +23,12 @@ Presidente de El Salvador desde 2019. Renan Santos o cita sistematicamente como 
 
 ## O que Renan diz
 
+### Bukele como modelo de soberania no combate ao crime (maio de 2026)
+
+Em **30 de maio de 2026**, ao responder sobre a designação americana do PCC e do Comando Vermelho como organizações terroristas, Renan usa Bukele como contraexemplo positivo: "O presidente de El Salvador, Nayib Bukele, não foi pedir pinico pros Estados Unidos e tampouco ficou com anti-americanismo barato, tipo Lula. Ele resolveu como um líder tem que resolver, na bala, matando e prendendo bandido." A referência serve para criticar tanto Flávio Bolsonaro (que viajou aos EUA em busca de solução externa) quanto o Lula (que adota postura anti-americana sem combater o crime). Renan promete adotar a mesma postura soberana de Bukele.
+
+Ver [[fontes/2026-05-30 - A Globo resolveu me atacar!]].
+
 ### Bukele como espelho do que Renan quer fazer no Brasil (maio de 2026)
 
 Em maio de 2026, uma emissora de televisão descreveu Renan Santos como "Milei na forma e Bukele no conteúdo". Renan abraçou a comparação publicamente. Para ele, "Bukele no conteúdo" significa: impor lei e ordem a qualquer custo, derrotar facções criminosas com medidas duras ("prender e, se resistir, matar"), mas também reformar cidades, elevar a autoestima da população e modernizar o sistema de saúde com alta tecnologia. Renan destaca que esse segundo aspecto — a reconstrução — costuma ser ignorado pelos analistas que simplificam a experiência salvadorenha.
@@ -77,10 +83,4 @@ Ver [[fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS
 
 ## Fontes
 
-- [[fontes/2026-05-23 - Milei na forma e Bukele no conteúdo]] — Renan abraça a comparação e detalha o que admira no modelo
-- [[fontes/2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui]] — defesa da aplicabilidade ao Brasil
-- [[fontes/2026-03-24 - Eu tô com muita inveja de El Salvador]] — Bukele como contraponto a Lula
-- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] — proposta de presídio inspirada no CECOT
-- [[fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS]] — repercussão popular do modelo
-- [[fontes/2026-01-05 - Resolver os problemas do Brasil não é tão difícil assim]] — Bukele como evidência de resultados rápidos
-- [[fontes/2026-02-02 - O NORDESTE PRECISA SUPERAR O PT]] — Bukele citado em resposta a petista
+- [[fontes/2026-05-23 - Milei 

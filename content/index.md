@@ -114,6 +114,8 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ### Maio de 2026
 
+- [[fontes/2026-05-31 - Existem dois caminhos o do João Fonseca e o do Neymar]] — João Fonseca vence Djokovic em Roland Garros; dois modelos para o esporte e a juventude brasileira: excelência (Fonseca, Sena, Guga, Pelé) vs. deslumbramento (Neymar, Vini Jr.); metáfora para o Brasil.
+- [[fontes/2026-05-30 - A Globo resolveu me atacar!]] — Globo distorce tweet de Renan sobre crime organizado; crime deve ser resolvido pelo Brasil, não pelos EUA; CV dobrou no RJ com PL/Cláudio Castro; Bukele como modelo soberano.
 - [[fontes/2026-05-29 - Acabaram com o Zema]] — Zema humilhado pelo partido bolsonarista; sem fibra para resistir à pressão; Caiado também; Renan como única alternativa.
 - [[fontes/2026-05-29 - Carta aberta ao pequeno empresário brasileiro]] — escala 6x1 aprovada; PL, PP, PSD, Nikolas votaram com Lula; "Eu sei jogar o jogo também"; Partido Missão fechou questão contra.
 - [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]] — Bahia era maior produtora mundial de cacau; PT espalhou vassoura de bruxa nos anos 90; favelização e dependência do Bolsa Família; proposta: Embrapa e universidades para recuperar o setor.
@@ -686,6 +688,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ## Análises
 
-- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o fim da Lava-Jato até a prisão de Ciro Nogueira na Operação Compliance Zero em maio de 2026.
-- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Comparativo cronológico da relação entre Renan e Flávio Bolsonaro: de adversários a rivais declarados, com cada episódio de confronto documentado.
-- [[analises/Propostas de Governo - Comparativo por Área]] — Tabela comparativa das propostas de Renan por área temática: segurança, economia, educação, saúde, reforma política e geopolítica.
+- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o f

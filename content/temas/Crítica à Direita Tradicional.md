@@ -9,6 +9,12 @@ date: 2026-05-29
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
+## Flávio Bolsonaro e a omissão no combate ao crime (maio de 2026)
+
+Em **30 de maio de 2026**, Renan responde ao contexto da designação americana do PCC e do Comando Vermelho como terroristas e aproveita para atacar Flávio Bolsonaro em sua bandeira principal — segurança pública. Seus três pontos: (1) as viagens de Flávio aos EUA são "ilusões e propaganda barata" para desviar atenção do escândalo Vorcaro; (2) o pré-candidato de Flávio ao governo do Rio era o "Bacelar", fotografado com o Comando Vermelho; (3) durante o governo Cláudio Castro (PL), o Comando Vermelho **duplicou de tamanho** no estado do Rio. *"Quando o pai dele Jair tava no governo federal, eles não fizeram nada para enfrentar o crime organizado."*
+
+Ver [[fontes/2026-05-30 - A Globo resolveu me atacar!]].
+
 ## Zema e Caiado: boa intenção sem fibra política (maio de 2026)
 
 Em **29 de maio de 2026**, Renan dirige um vídeo especificamente aos eleitores de Romeu Zema e Ronaldo Caiado — os que buscam uma direita fora do bolsonarismo e do petismo. O argumento: Zema e Caiado não são necessariamente más pessoas, mas não têm "a fibra necessária" para resistir à pressão simultânea das duas "máfias" — do bolsonarismo e do petismo.
@@ -487,15 +493,4 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 - [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
 - [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]
 - [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]]
-- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]]
-- [[fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO]]
-- [[fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal]]
-- [[fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF]]
-- [[fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA]]
-- [[fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA]]
-- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]]
-- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]]
-- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2026-01-30 - MINHA OPINIÃO SOBRE O CAIADO NO PSD]]
-- [[fontes/2026-02-09 - ELES PERDERAM A CHANCE DE OURO]]
+- [[fontes

@@ -8,6 +8,14 @@ date: 2026-04-12
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
 
+## Globo distorce tweet de Renan sobre crime organizado (maio de 2026)
+
+Em **30 de maio de 2026**, Renan denuncia matéria da Globo que publicou apenas a primeira frase de um tweet seu — "Americano nenhum vai matar nossos bandidos" — suprimindo o restante: "Quem vai matar seremos nós? Honra e glória aos nossos policiais." O objetivo, segundo Renan, era enquadrá-lo junto ao Lula e à "turma que defende bandido."
+
+Renan classifica o movimento como contraditório: a mesma imprensa que o chama de "radical que quer matar muito vagabundo" agora o acusa de defender traficantes. Atribui a ofensiva ao crescimento nas pesquisas — menciona ter empatado com Flávio Bolsonaro em Natal (pesquisa Atlas). Encerra afirmando: "Tô subindo nas pesquisas e começou o show de horrores da imprensa brasileira."
+
+Ver [[fontes/2026-05-30 - A Globo resolveu me atacar!]].
+
 ## Recado oficial à Rede Globo: "não estou pedindo apoio, estou pedindo respeito" (maio de 2026)
 
 Em **13 de maio de 2026**, Renan dirige um recado formal à Rede Globo como pré-candidato. O ponto central: em terceiro lugar nas pesquisas Atlas Intel, com presença em todos os podcasts e emissoras do Brasil exceto o grupo Globo, Renan apresenta gráfico mostrando que é o pré-candidato com menos citações na GloboNews. O ponto mais grave: a GloboNews fez matéria sobre políticas de segurança pública de todos os pré-candidatos e o omitiu — mesmo sendo suas propostas as que os outros copiaram.
@@ -122,21 +130,4 @@ Ver [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]].
 
 Em **19 de novembro de 2025**, Renan critica uma humorista alemã que vive no Brasil, ganha dinheiro com humor sobre o país e chamou de "nazista" o chanceler alemão por ter criticado a COP30 e dito preferir Berlim a Belém. Para Renan, ela representa um tipo de estrangeiro que quer manter o brasileiro numa imagem folclórica de "Zé Carioca" porque isso gera likes — e namora um MC que, segundo Renan, normaliza o tráfico.
 
-A crítica central: estrangeiros que lucram da imagem decadente do Brasil não têm direito de silenciar quem aponta os problemas. Renan contrapõe à "bunda danita" sua visão de Brasil competitivo como a Embraer.
-
-Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 — Legado em Belém]].
-
-## Fontes
-
-- [[fontes/2025-11-19 - Resposta para a humorista alemã]]
-- [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]]
-- [[fontes/2026-04-11 - Feedback Loop e eleições]]
-- [[fontes/2026-04-12 - Finalmente fui chamado de nazista nas redes sociais]]
-- [[fontes/2026-04-09 - Xandão quer mudar delação premiada]]
-- [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]]
-- [[fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR]]
-- [[fontes/2026-03-17 - WAGNER MOURA PERDEU O OSCAR]]
-- [[fontes/2026-03-07 - Acredite se quiser - a rede Globo está salvando o Brasil]]
-- [[fontes/2026-03-06 - COMEÇOU A CENSURA CONTRA MIM]]
-- [[fontes/2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA]]
-- [[fontes/2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ]]
+A crítica central: estrangeiros que lucram da imagem decadente do Brasil não têm direito de silenciar quem aponta os problemas. Renan contrapõe à "bunda danita" sua visão de Brasil compet

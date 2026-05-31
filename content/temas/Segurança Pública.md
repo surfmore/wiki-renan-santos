@@ -8,6 +8,16 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Crime organizado é problema brasileiro, não americano (maio de 2026)
+
+Em **30 de maio de 2026**, na esteira da designação do PCC e do Comando Vermelho como organizações terroristas pelo governo americano, Renan afirma achar "importante essa repercussão" porque o Brasil vinha "naturalizando o crime organizado como parte da nossa vida." No entanto, sustenta que, do ponto de vista prático, é o Brasil quem tem que resolver o problema. Os Estados Unidos não fazem a lei de execuções penais brasileira, não comandam as polícias estaduais e não decidem sobre a ADPF no STF que impede a polícia de subir o morro.
+
+Cita o especialista **Lincoln Kia** para detalhar uma consequência prática negativa da classificação: enquanto antes o Brasil lidava com o FBI (com acordo de cooperação), agora terá que tratar com a CIA — sem acordo com a Polícia Federal — tornando o processo mais lento e burocrático.
+
+Reafirma sua proposta central: será o policial brasileiro — não agente americano — a destruir o PCC e o Comando Vermelho. Cita [[pessoas/Nayib Bukele]] como modelo de líder que resolveu o crime organizado sem depender do exterior. Promete não tirar "das polícias o orgulho de dar o tiro fatal em todos esses vagabundos dessas facções."
+
+Ver [[fontes/2026-05-30 - A Globo resolveu me atacar!]].
+
 ## Bahia: segundo estado mais violento, governador impede a PM (maio de 2026)
 
 Em **24 de maio de 2026**, reagindo a imagens de um velório em Dias d'Ávila (subúrbio de Salvador) atacado por facção rival, Renan afirma que a Bahia é hoje o **segundo estado mais violento do Brasil** e está sendo "tomada por facções." Responsabiliza o governador [[pessoas/Jerônimo Rodrigues]] (PT): ele tem à disposição uma polícia "letal, que gosta de matar bandido" e "simplesmente a impede de fazer qualquer coisa."
@@ -722,21 +732,4 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 - [[fontes/2026-02-05 - ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA]]
 - [[fontes/2026-02-01 - NÓS SOMOS A GERAÇÃO QUE VAI SALVAR O BRASIL]]
 - [[fontes/2026-01-31 - SOBRE OS MOTOBOYS ASSASSINADOS NO RJ]]
-- [[fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE]]
-- [[fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ]]
-- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]]
-- [[fontes/2026-01-29 - NOVAS INFORMAÇÕES SOBRE O CASO DO CÃO ORELHA]]
-- [[fontes/2026-01-28 - RENAN SANTOS LEVA ENVOLVIDOS NO CASO DO CÃO ORELHA PARA A JUSTIÇA]]
-- [[fontes/2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2026-02-07 - POR QUE OS EUA PARECE UM PAÍS TÃO MELHOR QUE O BRASIL]]
-- [[fontes/2026-01-10 - Atenção, carioca! Muito cuidado nas ruas]]
-- [[fontes/2025-09-15 - Mataram delegado que combatia o PCC]] — Rui Ferraz Fontes assassinado; narcoestado; pena de morte + prisão perpétua
-- [[fontes/2025-10-01 - Prendeu, Matou e a bebida envenenada do PCC]] — metanol; PCC como organização terrorista
-- [[fontes/2025-10-21 - Seu país tem heróis de verdade]]
-- [[fontes/2025-10-22 - O pior juiz do mundo mora no Brasil]]
-- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]]
-- [[fontes/2025-10-28 - O crime organizado já virou guerrilha]]
-- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]]
-- [[fontes/2025-10-29 - Minha proposta para os governadores]]
-- [[fontes/2026-01-11 - RENAN COMEÇA PRÉ-CAMPANHA EM PERNAMBUCO]]
+- [[fontes/2026-01-31 - ESTOU SENDO AM

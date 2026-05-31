@@ -1,5 +1,9 @@
 # Log de operações
 
+## [2026-05-31] ingest | A Globo resolveu me atacar! + Existem dois caminhos o do João Fonseca e o do Neymar
+- Fontes criadas: fontes/2026-05-30 - A Globo resolveu me atacar!, fontes/2026-05-31 - Existem dois caminhos o do João Fonseca e o do Neymar
+- Páginas atualizadas: temas/Mídia e Imprensa, temas/Segurança Pública, temas/Crítica à Direita Tradicional, pessoas/Flávio Bolsonaro, pessoas/Nayib Bukele, index.md
+
 ## [2026-05-29] ingest | Acabaram com o Zema + Carta aberta ao pequeno empresário + Como o PT ajudou a destruir o cacau no sul
 - Fontes criadas: fontes/2026-05-29 - Acabaram com o Zema, fontes/2026-05-29 - Carta aberta ao pequeno empresário brasileiro, fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul
 - Páginas atualizadas: pessoas/Romeu Zema, pessoas/Ronaldo Caiado, pessoas/Nikolas Ferreira, temas/Crítica à Direita Tradicional, temas/Empobrecimento e Mercado de Trabalho, temas/Agronegócio e Matopiba, index.md
@@ -1203,9 +1207,4 @@
 - posicoes/Proposta para Caminhoneiros
 
 **Páginas atualizadas (7):**
-- temas/Segurança Pública (BOPE 6 medidas, progressão penal, Bukele)
-- temas/Crítica à Direita Tradicional (PL misoginia, Ratinho Jr., Flávio=João Campos)
-- temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
-- temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
-- eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
-- posicoes/Fusão de Municípios (Taub
+- temas/Segurança Públ

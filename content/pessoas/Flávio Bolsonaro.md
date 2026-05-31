@@ -11,6 +11,14 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Viagem aos EUA como "propaganda barata" e pré-candidato ligado ao CV (maio de 2026)
+
+Em **30 de maio de 2026**, no contexto da declaração americana de que o PCC e o Comando Vermelho são organizações terroristas, Renan critica as viagens de Flávio aos EUA para tratar do tema como "ilusões e propaganda barata" para "se livrar do problema do Vorcaro." Afirma que "mundo concreto, isso não vai mudar em nada o combate ao crime organizado."
+
+Acrescenta duas acusações concretas: (1) o pré-candidato de Flávio ao governo do Rio de Janeiro era o "Bacelar", fotografado junto ao Comando Vermelho e a "TH Joias"; (2) durante o período em que o PL de **Cláudio Castro** governou o Rio de Janeiro, o Comando Vermelho **duplicou de tamanho** no estado. Conclui: "Quando o pai dele Jair tava no governo federal, eles não fizeram nada para enfrentar o crime organizado."
+
+Ver [[fontes/2026-05-30 - A Globo resolveu me atacar!]].
+
 ## "Tem todos os defeitos do pai e nenhuma das qualidades" (maio de 2026)
 
 Em clip de entrevista de **24 de maio de 2026**, Renan sintetiza seu diagnóstico sobre Flávio: o pai, apesar dos crimes, carregava pelo menos um "ícone" na cabeça do eleitor — a imagem de quem "enfrentava o sistema." Flávio não tem nem isso. Fugia de ter propostas; o único sustento era a narrativa de ser "a única força capaz de vencer o PT." Com o derretimento, essa narrativa desapareceu. "O derretimento do Flávio é natural."
@@ -281,17 +289,4 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 - [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]]
 - [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
 - [[fontes/2026-04-01 - Um pedido de desculpas]]
-- [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
-- [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]
-- [[fontes/2026-04-05 - O Brasil está empobrecendo]]
-- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]]
-- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]]
-- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]]
-- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]]
-- [[fontes/2025-12-13 - Legal seu projeto, Renan]]
-- [[fontes/2025-12-14 - Sobre a treta Tarcísio x Flávio Bolsonaro]]
-- [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS]]
-- [[fontes/2026-01-12 - RENAN RESPONDE SE APOIARIA O FLÁVIO B
+- [[fontes/2026-03-29 - O Flávio Bolsonaro vot
