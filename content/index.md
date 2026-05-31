@@ -4,7 +4,7 @@ title: "Índice"
 
 Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à presidência da República, construído a partir das transcrições de seus vídeos.
 
-> **Aviso:** Este wiki foi produzido com auxílio de inteligência artificial (IA) a partir das transcrições dos vídeos do canal de Renan Santos no YouTube. O conteúdo reflete exclusivamente o que Renan Santos disse ou defendeu publicamente — não constitui verificação independente das afirmações. Apesar do cuidado na elaboração, o processo automatizado pode conter erros, omissões ou imprecisões. Se encontrar algum erro, entre em contato: `wikipoliticabr@gmail.com` — [abrir no Gmail](https://mail.google.com/mail/?view=cm&to=wikipoliticabr@gmail.com)
+> Conteúdo organizado com apoio de IA a partir de transcrições públicas. Registra o que Renan Santos disse — não constitui verificação independente. Erros? Escreva para wikipoliticabr&#64;gmail&#46;com
 
 ## Temas
 
@@ -688,4 +688,6 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ## Análises
 
-- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o f
+- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o fim da Lava-Jato até a prisão de Ciro Nogueira na Operação Compliance Zero em maio de 2026.
+- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Comparativo cronológico da relação entre Renan e Flávio Bolsonaro: de adversários a rivais declarados, com cada episódio de confronto documentado.
+- [[analises/Propostas de Governo - Co
