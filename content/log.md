@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-01] ingest | ATENÇÃO DOBREI na intenção de votos na Real Time Big Data! (ingest automático)
+- Fonte criada: fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: conteúdo toca temas já existentes (Crítica à Direita Tradicional, Segurança Pública, Ambição Nacional); nenhuma página nova criada — vídeo é short focado em pesquisas e resumo de plataforma sem afirmações inéditas suficientes para nova página.
+
 ## [2026-06-01] ingest | Frei Gilson é um Red Pill (ingest automático)
 - Fonte criada: fontes/2026-06-01 - Frei Gilson é um Red Pill
 - Páginas criadas: pessoas/Frei Gilson, pessoas/André Mendonça, temas/Liberdade Religiosa, posicoes/Nomeação de Ministro Católico para o STF
@@ -1205,16 +1210,4 @@
 - fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
 - fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
 - fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO
-- fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA
-- fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master
-- fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país
-- fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins
-- fontes/2026-03-20 - Os caminhoneiros vão entrar em greve
-
-**Páginas criadas (3):**
-- pessoas/Ratinho Júnior
-- posicoes/Desfavelização do Rio de Janeiro
-- posicoes/Proposta para Caminhoneiros
-
-**Páginas atualizadas (7):**
-- temas/Segurança Pública (BOPE 6 medidas, progressão penal,
+- fontes/2026-03-23 - DE
