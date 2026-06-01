@@ -278,7 +278,8 @@ document.addEventListener("nav", async (e: CustomEventMap["nav"]) => {
     const mobileExplorer = explorer.querySelector(".mobile-explorer")
     if (!mobileExplorer) return
 
-    if (mobileExplorer.checkVisibility()) {
+    const isMobile = window.innerWidth <= 800
+    if (isMobile || mobileExplorer.checkVisibility()) {
       explorer.classList.add("collapsed")
       explorer.setAttribute("aria-expanded", "false")
 

@@ -7,10 +7,7 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   afterBody: [],
   footer: Component.Footer({
-    links: {
-      "YouTube - Renan Santos": "https://www.youtube.com/@RenanSantosMBL",
-      "YouTube - MBLiveTV": "https://www.youtube.com/@MBLiveTV",
-    },
+    links: {},
   }),
 }
 
