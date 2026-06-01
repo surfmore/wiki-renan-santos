@@ -5,8 +5,9 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-05-25
+date: 2026-06-01
 fontes:
+  - "2026-06-01 - O verdadeiro plano do Lula"
   - "2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro"
   - "2026-05-18 - É meu destino encontrar Lula no debate"
   - "2026-04-29 - Esse é o começo do fim do Lula!"
@@ -26,6 +27,18 @@ fontes:
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## Plano de criar dependência para converter trabalhadores em eleitores (junho de 2026)
+
+Em **1º de junho de 2026**, Renan apresenta o que chama de "o verdadeiro plano do Lula" por trás da proposta de fim da escala 6x1. A tese central é que a medida não tem nada a ver com descanso do trabalhador — integra um projeto de aumentar a dependência da população do Estado para garantir votos ao PT.
+
+Renan apoia o argumento em dois pontos: (1) a diferença salarial que Lula diz querer que os empresários paguem a mais é menor do que a carga tributária que o próprio governo impõe sobre cada contratação — logo, os empregadores poderiam pagar mais "se o governo deixasse de morder praticamente metade do salário"; (2) existe uma "correlação direta" entre os estados com maior dependência do Bolsa Família e os estados que votam no PT — municípios do Sul com muito emprego formal e pouco assistencialismo não votam PT.
+
+Segundo Renan, o pacote (fim da escala 6x1 + vale-gás + energia gratuita) é coerente: "tirar sua possibilidade de ganhar dinheiro e ser autônomo" para obrigar o cidadão a depender do presidente. O modelo, afirma, repete-se "em qualquer nação fracassada colocada pela esquerda" — com a Venezuela como exemplo extremo. Renan menciona ter visitado o Maranhão e descreveu as condições como "horrorosas."
+
+> "Toda vez que o Lula trabalha para destruir as empresas brasileiras e dificultar a contratação de brasileiros, ele trabalha pela própria reeleição."
+
+Ver [[fontes/2026-06-01 - O verdadeiro plano do Lula]].
 
 ## O debate desafiado — e o destino
 
@@ -128,21 +141,4 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 - [[eventos/Escândalo Banco Master]] — ligação de Lula via Mantega e Vorcaro
 - [[eventos/COP30 — Legado em Belém]] — Janja/ONG; Belém vs. Berlim
 - [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]] — derrota histórica no Senado
-- [[eventos/Rio de Janeiro em Guerra — Outubro de 2025]] — omissão do governo
-- [[temas/Desigualdade Regional e Migração Interna]] — Nordeste como feudo eleitoral do PT
-- [[posicoes/Combate à Fraude Eleitoral via LDO]] — LDO como "golpe eleitoral"
-
-## Fontes
-
-- [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — Lula igualmente envolvido; cronologia
-- [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]] — racha com o centrão; janela eleitoral
-- [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] — promessa de prender Janja
-- [[fontes/2026-01-09 - Resposta para Daniela Lima]] — defesa de Bolsonaro de crueldade; Renan confirma ser adversário de Lula
-- [[fontes/2025-12-04 - Lula quer FRAUDAR as eleições]] — LDO como golpe eleitoral
-- [[fontes/2025-11-18 - Você ainda vai me responder, Lula]] — Berlim vs. Belém; desafio ao debate
-- [[fontes/2025-11-05 - LULA CRITICA MEGA OPERAÇÃO NO RJ]] — Lula critica operação policial; "como eu odeio o Lula"
-- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]] — omissão de Lula enquanto Rio ardia
-- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — declaração desatualizada sobre o crime organizado
-- [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — sindicato do irmão; R$400M do INSS; gringos incrédulos
-- [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]] — discurso "extremista disfarçado"
-- [[fontes/2025-09-06 - Cuida de mim, painho!]] — Nordeste como feudo assistencialista
+- [[ev

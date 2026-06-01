@@ -1,5 +1,15 @@
 # Log de operações
 
+## [2026-06-01] ingest | Você também concorda com esse vídeo (ingest automático)
+- Fonte criada: fontes/2026-06-01 - Você também concorda com esse vídeo
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: vídeo apresenta acusações detalhadas de ligações de Flávio Bolsonaro ao Comando Vermelho via Bacelar, Cláudio Castro, TH Joias e Gutenberg da Fonseca. Personagens mencionados com substância (Bacelar, TH Joias, Castro) porém sem páginas próprias — adicionados como menções nas fontes e em Flávio Bolsonaro.
+
+## [2026-06-01] ingest | O verdadeiro plano do Lula (ingest automático)
+- Fonte criada: fontes/2026-06-01 - O verdadeiro plano do Lula
+- Páginas atualizadas: pessoas/Lula, temas/Empobrecimento e Mercado de Trabalho, index.md, log.md, wiki/.processed_ids
+- Nota: vídeo apresenta tese de que a escala 6x1 é instrumento de dependência política; argumento apoia-se em correlação entre Bolsa Família e voto PT. Conteúdo integrado nas páginas existentes.
+
 ## [2026-06-01] ingest | ATENÇÃO DOBREI na intenção de votos na Real Time Big Data! (ingest automático)
 - Fonte criada: fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!
 - Páginas atualizadas: index.md, log.md, wiki/.processed_ids
@@ -1195,19 +1205,4 @@
 ## [2026-04-14] ingest batch 5 | 20 shorts (2026-03-20 → 2026-03-26)
 
 **Fontes processadas (20):**
-- fontes/2026-03-26 - Você está cansado de fingir
-- fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa
-- fontes/2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso
-- fontes/2026-03-26 - Mais BOPE menos Brasa
-- fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem
-- fontes/2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA
-- fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS
-- fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA
-- fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO
-- fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso
-- fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
-- fontes/2026-03-24 - Eu tô com muita inveja de El Salvador
-- fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
-- fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
-- fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO
-- fontes/2026-03-23 - DE
+- fontes/20

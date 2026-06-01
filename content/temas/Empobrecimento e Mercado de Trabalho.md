@@ -4,7 +4,23 @@ tags:
   - tema
   - economia
   - emprego
-date: 2026-05-29
+date: 2026-06-01
+---
+
+## Escala 6x1 como instrumento de dependência política (junho de 2026)
+
+Em **1º de junho de 2026**, Renan apresenta o que chama de "o verdadeiro plano do Lula" por trás da proposta de fim da escala 6x1: criar dependência do Estado para converter trabalhadores em eleitores cativos do PT.
+
+O raciocínio econômico: a diferença salarial que Lula cita em discurso (de R$ 1.900 para R$ 2.500) é menor do que a carga tributária que o governo impõe sobre cada contratação. Portanto, o próprio governo é o principal obstáculo ao aumento de salários — e Lula "não se preocupa com isso."
+
+O argumento político: Renan apresenta dois mapas superpostos — dependência do Bolsa Família por estado e mapa eleitoral — e afirma que a correlação é direta. Estados com mais assistencialismo votam PT; municípios do Sul com mais emprego formal e menos dependência de benefícios não votam PT. Logo, Lula tem incentivo eleitoral para manter e ampliar a dependência.
+
+> "Toda vez que o Lula trabalha para destruir as empresas brasileiras e dificultar a contratação de brasileiros, ele trabalha pela própria reeleição."
+
+O pacote (escala 6x1 + vale-gás + energia gratuita) é descrito como sistema coerente para "tirar sua possibilidade de ganhar dinheiro e ser autônomo." Renan compara o modelo ao da Venezuela e menciona ter visitado o Maranhão, onde afirma ter visto as consequências desse ciclo.
+
+Ver [[fontes/2026-06-01 - O verdadeiro plano do Lula]].
+
 ---
 
 Paralelamente à crítica à [[temas/Carga Tributária|carga tributária]], Renan Santos tem apresentado um diagnóstico estrutural de **empobrecimento da população brasileira durante o governo Lula**, construído em torno da tese de que o "pleno emprego" divulgado pelas estatísticas oficiais esconde uma deterioração da qualidade do trabalho.
@@ -213,15 +229,4 @@ Ver [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]].
 
 - [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — escala 6x1; PL votando a favor por cálculo eleitoral; impactos econômicos
 - [[fontes/2026-05-25 - Resposta ao Luciano Huck]] — Bolsa Família como base econômica de municípios; 5 propostas
-- [[fontes/2026-05-07 - A minha geração fracassou!]] — geração dos 30-45 marcada pelo fracasso econômico
-- [[fontes/2026-05-06 - Lula acha que é bom você se endividar]] — Desenrola; 78% das famílias endividadas
-- [[fontes/2026-04-26 - Lula é um picareta!]] — Brasil ultrapassado por Botswana; desperdício do boom das commodities
-- [[fontes/2026-04-24 - Erika Hilton e escala 6x1]] — PEC como teatro eleitoral; 122 faltas de Érika Hilton
-- [[fontes/2026-03-29 - LULA ESTÁ EM PÂNICO]] — affordability; desemprego oculto; Selic acima de 15%
-- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]] — Bolsa Família atingindo quase 1/3 da população
-- [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]] — limite do MEI bloqueado por Haddad; 570 mil desenquadrados
-- [[fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula]] — diagnóstico do governo Lula como "não governo"
-- [[fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL]] — estigma do fracasso; modelo asiático de desenvolvimento
-- [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]] — cadeia causal: gasto excessivo → juros altos → baixa produtividade
-- [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]] — assistencialismo cresceu 500%, PIB menos de 300%; comparação com China e Índia
-- [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]] — trabalhador chamado de "playboy"; propaganda removida do governo Lula
+-

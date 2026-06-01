@@ -4,12 +4,27 @@ tags:
   - pessoa
   - político
   - direita
-date: 2026-04-07
+date: 2026-06-01
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
+
+## Rede do Comando Vermelho no Rio e apelo ao eleitor conservador (junho de 2026)
+
+Em **1º de junho de 2026**, Renan apresenta ao eleitor conservador e bolsonarista uma série de ligações entre Flávio Bolsonaro e figuras associadas ao crime organizado no Rio de Janeiro, argumentando que apoiar Flávio contradiz os valores de quem rejeita a corrupção e o PT.
+
+As acusações concretas apresentadas por Renan:
+
+- **Rodrigo Bacelar**, ex-presidente da ALERJ apoiado por Flávio para governador do Rio de Janeiro, foi preso pela Polícia Federal acusado de ser "chefe do núcleo político do Comando Vermelho no estado." Antes da prisão, Bacelar teria avisado o deputado influencer **TH Joias** (também associado ao CV) sobre uma operação policial que o pegaria.
+- No celular de **Cláudio Castro** (governador do RJ pelo PL, colocado no poder com apoio de Flávio e Bacelar), encontrado em busca e apreensão, havia "inúmeras ligações, uma em sequência da outra, tanto pro Bacelar quanto pro Flávio Bolsonaro."
+- **Gutenberg da Fonseca**, descrito por Renan como "melhor amigo do Flávio Bolsonaro e articulador político dele no Rio de Janeiro", tornou-se secretário de Cláudio Castro. No celular de TH Joias, havia registros de uma reunião sendo marcada entre Gutenberg e "Índio do Lixão" — membro do Comando Vermelho —, intermediada por TH Joias.
+- Há fotos e vídeos de TH Joias, Bacelar e Flávio Bolsonaro "almoçando e se encontrando como grandes amigos."
+
+Renan encerra com uma pergunta direta ao eleitor conservador: "Que exemplo você vai dar para os seus filhos e netos de retidão e de luta contra a corrupção enquanto declara voto num bandido como esses?" E apresenta-se como "alternativa de direita, séria e sem rabo preso com vagabundo."
+
+Ver [[fontes/2026-06-01 - Você também concorda com esse vídeo]].
 
 ## Viagem aos EUA como "propaganda barata" e pré-candidato ligado ao CV (maio de 2026)
 
@@ -277,29 +292,4 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 - [[fontes/2026-05-17 - Quem é Flavio Bolsonaro]] — rachadinha, Adriano da Nóbrega, CPI do Master; apelo para desistir da candidatura
 - [[fontes/2026-05-17 - Lula disparou]] — Flávio em queda livre nas pesquisas; argumento para votar em Renan
 - [[fontes/2026-05-16 - Flávio Bolsonaro x Alexandre de Moraes. Quem vence]] — "duelo" irônico; Flávio perde para Moraes até em corrupção
-- [[fontes/2026-05-16 - O PT está serelepe achando que ninguém vai lembrar do papel deles no escândalo com Daniel Vorcaro]] — Flávio abraçado com Jaques Wagner; foto-símbolo do accordão
-- [[fontes/2026-04-29 - FLÁVIO É FRACO]]
-- [[fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF]]
-- [[fontes/2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele]]
-- [[fontes/2026-05-03 - Belford Roxo é pior que o Maranhão]]
-- [[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]]
-- [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]]
-- [[fontes/2026-04-30 - Flávio Bolsonaro é a única salvação contra Lula]]
-- [[fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA]]
-- [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]]
-- [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
-- [[fontes/2026-04-01 - Um pedido de desculpas]]
-- [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
-- [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]
-- [[fontes/2026-04-05 - O Brasil está empobrecendo]]
-- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]]
-- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]]
-- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]]
-- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]]
-- [[fontes/2025-12-13 - Legal seu projeto, Renan]]
-- [[fontes/2025-12-14 - Sobre a treta Tarcísio x Flávio Bolsonaro]]
-- [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS]]
-- [[fontes/2026-01-12 - RENAN RESPONDE SE APOIARIA O FLÁVIO B
+- [[fontes/2026-05-16 - O PT está serelep

@@ -118,6 +118,8 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ### Junho de 2026
 
+- [[fontes/2026-06-01 - Você também concorda com esse vídeo]] — Flávio Bolsonaro, Cláudio Castro, Rodrigo Bacelar e TH Joias ligados ao Comando Vermelho no RJ; apelo ao eleitor conservador para rejeitar Flávio.
+- [[fontes/2026-06-01 - O verdadeiro plano do Lula]] — Fim da escala 6x1 como instrumento para criar dependência estatal; correlação entre Bolsa Família e voto PT; carga tributária impede aumento de salários.
 - [[fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!]] — Real Time Big Data dobra intenção de voto de Renan (3%→6%); confiança no Atlas desde 2020; paralelo com Espriela na Colômbia; agenda de governo resumida.
 - [[fontes/2026-06-01 - Frei Gilson é um Red Pill]] — Defesa de Frei Gilson contra ação do MP; liberdade religiosa; Brasil como país cristão; proposta de ministro "terrivelmente católico" no STF; expulsão de ONGs com financiamento estrangeiro.
 
@@ -691,6 +693,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-09-10 - Charlie Kirk nos deixou]] — Renan reage à morte de Charlie Kirk e contextualiza numa série de atentados contra figuras da direita global.
 - [[fontes/2025-09-10 - Prepare-se para ficar revoltado]] — Criminoso que atirou em policial em Paraisópolis é solto por juíza; Renan defende prisão perpétua para quem ataca agentes da lei.
 - [[fontes/2025-09-09 - O pau tá quebrando no Nepal]] — Revolução da Geração Z no Nepal derruba governo de esquerda; Renan traça analogia com possível reação brasileira a censura judicial.
-- [[fontes/2025-09-09 - Precisamos libertar 25 milhões de brasileiros!]] — Renan propõe uso das Forças Armadas e reformas penais para libertar brasileiros dominados pelo crime organizado.
-- [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — "Taxa das blusinhas" arrecadou menos que o previsto e empobreceu consumidor; Renan defende derrubada da alíquota sobre importados baratos.
-- [[fontes/2025-09-06 - Cuida de mim, painho!]] — Crítica ao PT por substituir desenvolvimento do Nordeste por assistencialis
+- [[fontes/2025-09-09 - Precisamos libertar 25 milhões de brasileiros!]] —
