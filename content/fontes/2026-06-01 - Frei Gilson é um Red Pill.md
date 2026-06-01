@@ -41,3 +41,7 @@ Em tom de proposta presidencial, Renan anuncia que nomearia um ministro do STF "
 
 - [[posicoes/Nomeação de Ministro Católico para o STF]]
 - [[posicoes/Expulsão de ONGs Estrangeiras]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=a_D412rk2os" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

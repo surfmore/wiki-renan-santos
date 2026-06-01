@@ -39,3 +39,7 @@ Ao final, Renan menciona ter visitado o Maranhão — um dos estados "mais lulis
 
 - [[posicoes/Frente de Trabalho para o Bolsa Família]] — Renan reforça que o assistencialismo sem contrapartida de trabalho é ferramenta de dominação política.
 - [[temas/Carga Tributária]] — Proposta implícita de reduzir a carga tributária sobre salários para permitir que empresários paguem mais ao trabalhador.
+
+---
+
+<a href="https://www.youtube.com/watch?v=9XD6yzGopZs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

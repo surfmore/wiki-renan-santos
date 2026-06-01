@@ -43,3 +43,7 @@ A conclusão de Renan é dirigida diretamente ao eleitor conservador: "Você nã
 
 - [[temas/Crítica à Direita Tradicional]] — Renan pede ao eleitor conservador que rejeite Flávio Bolsonaro por suas ligações ao crime, apresentando-se como alternativa de direita limpa.
 - [[temas/Segurança Pública]] — contexto sobre a crise estrutural do Rio de Janeiro sob governos que se diziam de direita.
+
+---
+
+<a href="https://www.youtube.com/watch?v=gDon6TxOYL8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>
