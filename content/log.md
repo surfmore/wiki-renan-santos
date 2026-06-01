@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-01] ingest | 4 vídeos de 31/maio/2026 (ingest automático)
+- Fontes criadas: fontes/2026-05-31 - O Brasil começou ali, fontes/2026-05-31 - Parabéns, brasileiros! Você trabalhou até aqui apenas para pagar impostos!, fontes/2026-05-31 - Urgente o que está acontecendo na Colômbia, fontes/2026-05-31 - Índio traficante, roubo de terra-rara e destruição da história do Brasil
+- Páginas atualizadas: index.md, log.md
+- Nota: vários outros vídeos detectados como novos pelo script de normalização já tinham fontes com nomes ligeiramente diferentes — não foram duplicados de forma válida; arquivos excedentes ficaram pendentes de exclusão (permissão negada no sandbox).
+
 ## [2026-05-31] ingest | A Globo resolveu me atacar! + Existem dois caminhos o do João Fonseca e o do Neymar
 - Fontes criadas: fontes/2026-05-30 - A Globo resolveu me atacar!, fontes/2026-05-31 - Existem dois caminhos o do João Fonseca e o do Neymar
 - Páginas atualizadas: temas/Mídia e Imprensa, temas/Segurança Pública, temas/Crítica à Direita Tradicional, pessoas/Flávio Bolsonaro, pessoas/Nayib Bukele, index.md
@@ -1192,19 +1197,4 @@
 - fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso
 - fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
 - fontes/2026-03-24 - Eu tô com muita inveja de El Salvador
-- fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
-- fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
-- fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO
-- fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA
-- fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master
-- fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país
-- fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins
-- fontes/2026-03-20 - Os caminhoneiros vão entrar em greve
-
-**Páginas criadas (3):**
-- pessoas/Ratinho Júnior
-- posicoes/Desfavelização do Rio de Janeiro
-- posicoes/Proposta para Caminhoneiros
-
-**Páginas atualizadas (7):**
-- temas/Segurança Públ
+- fontes/2026-03-23 - Novos vídeos 

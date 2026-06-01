@@ -114,6 +114,10 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ### Maio de 2026
 
+- [[fontes/2026-05-31 - Índio traficante, roubo de terra-rara e destruição da história do Brasil]] — aldeia Pataxó ligada à facção Anjos da Morte; invasão de igrejas históricas de Prado (BA); terras raras como motivação; índios criminosos serão presos como qualquer cidadão.
+- [[fontes/2026-05-31 - Urgente o que está acontecendo na Colômbia]] — eleições na Colômbia; Abelardo Espriela como referência; movimento continental de novas lideranças jovens (Bukele, Milei, Espriela e Renan).
+- [[fontes/2026-05-31 - Parabéns, brasileiros! Você trabalhou até aqui apenas para pagar impostos!]] — Dia da Liberdade Tributária (29/maio/2026); metáfora Suécia+Somália; lista de impostos; gestão ruim como problema central.
+- [[fontes/2026-05-31 - O Brasil começou ali]] — local do descobrimento em Prado (BA) abandonado pelo poder público; governo transformou área em reserva extrativista; promessa de construir memorial histórico como presidente.
 - [[fontes/2026-05-31 - Existem dois caminhos o do João Fonseca e o do Neymar]] — João Fonseca vence Djokovic em Roland Garros; dois modelos para o esporte e a juventude brasileira: excelência (Fonseca, Sena, Guga, Pelé) vs. deslumbramento (Neymar, Vini Jr.); metáfora para o Brasil.
 - [[fontes/2026-05-30 - A Globo resolveu me atacar!]] — Globo distorce tweet de Renan sobre crime organizado; crime deve ser resolvido pelo Brasil, não pelos EUA; CV dobrou no RJ com PL/Cláudio Castro; Bukele como modelo soberano.
 - [[fontes/2026-05-29 - Acabaram com o Zema]] — Zema humilhado pelo partido bolsonarista; sem fibra para resistir à pressão; Caiado também; Renan como única alternativa.
@@ -682,12 +686,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — "Taxa das blusinhas" arrecadou menos que o previsto e empobreceu consumidor; Renan defende derrubada da alíquota sobre importados baratos.
 - [[fontes/2025-09-06 - Cuida de mim, painho!]] — Crítica ao PT por substituir desenvolvimento do Nordeste por assistencialismo eleitoreiro com transferências de renda.
 - [[fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE]] — Proposta de industrialização do Matopiba via usinas de biocombustível com soja e milho, exportando pelo Porto do Maranhão.
-- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% em pesquisa presidencial antes mesmo de lançar candidatura formal.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]] — Compilação de falas anteriores sobre segurança pública: guerra às facções, desfavelização e prisão das lideranças do tráfico.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Vídeo biográfico completo: origem na Mooca, USP, fundação do MBL, episódio com policiais corruptos e criação do Partido Missão.
-
-## Análises
-
-- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o fim da Lava-Jato até a prisão de Ciro Nogueira na Operação Compliance Zero em maio de 2026.
-- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Comparativo cronológico da relação entre Renan e Flávio Bolsonaro: de adversários a rivais declarados, com cada episódio de confronto documentado.
-- [[analises/Propostas de Governo - Co
+- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% 
