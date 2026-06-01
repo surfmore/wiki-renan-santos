@@ -289,4 +289,17 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 - [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]]
 - [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
 - [[fontes/2026-04-01 - Um pedido de desculpas]]
-- [[fontes/2026-03-29 - O Flávio Bolsonaro vot
+- [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
+- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
+- [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]
+- [[fontes/2026-04-05 - O Brasil está empobrecendo]]
+- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]]
+- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]]
+- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]]
+- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]]
+- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
+- [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]]
+- [[fontes/2025-12-13 - Legal seu projeto, Renan]]
+- [[fontes/2025-12-14 - Sobre a treta Tarcísio x Flávio Bolsonaro]]
+- [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS]]
+- [[fontes/2026-01-12 - RENAN RESPONDE SE APOIARIA O FLÁVIO B

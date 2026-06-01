@@ -1197,4 +1197,24 @@
 - fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso
 - fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum
 - fontes/2026-03-24 - Eu tô com muita inveja de El Salvador
-- fontes/2026-03-23 - Novos vídeos 
+- fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão
+- fontes/2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL
+- fontes/2026-03-23 - MARCHA CONTRA A CORRUPÇÃO
+- fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA
+- fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master
+- fontes/2026-03-21 - Wesley Safadão e as prefeituras do interior do país
+- fontes/2026-03-20 - Taubaté x 4 cidades do Tocantins
+- fontes/2026-03-20 - Os caminhoneiros vão entrar em greve
+
+**Páginas criadas (3):**
+- pessoas/Ratinho Júnior
+- posicoes/Desfavelização do Rio de Janeiro
+- posicoes/Proposta para Caminhoneiros
+
+**Páginas atualizadas (7):**
+- temas/Segurança Pública (BOPE 6 medidas, progressão penal, Bukele)
+- temas/Crítica à Direita Tradicional (PL misoginia, Ratinho Jr., Flávio=João Campos)
+- temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
+- temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
+- eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
+- posicoes/Fusão de Municípios (Taub

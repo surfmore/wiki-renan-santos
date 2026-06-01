@@ -732,4 +732,21 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 - [[fontes/2026-02-05 - ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA]]
 - [[fontes/2026-02-01 - NÓS SOMOS A GERAÇÃO QUE VAI SALVAR O BRASIL]]
 - [[fontes/2026-01-31 - SOBRE OS MOTOBOYS ASSASSINADOS NO RJ]]
-- [[fontes/2026-01-31 - ESTOU SENDO AM
+- [[fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE]]
+- [[fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ]]
+- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]]
+- [[fontes/2026-01-29 - NOVAS INFORMAÇÕES SOBRE O CASO DO CÃO ORELHA]]
+- [[fontes/2026-01-28 - RENAN SANTOS LEVA ENVOLVIDOS NO CASO DO CÃO ORELHA PARA A JUSTIÇA]]
+- [[fontes/2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA]]
+- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
+- [[fontes/2026-02-07 - POR QUE OS EUA PARECE UM PAÍS TÃO MELHOR QUE O BRASIL]]
+- [[fontes/2026-01-10 - Atenção, carioca! Muito cuidado nas ruas]]
+- [[fontes/2025-09-15 - Mataram delegado que combatia o PCC]] — Rui Ferraz Fontes assassinado; narcoestado; pena de morte + prisão perpétua
+- [[fontes/2025-10-01 - Prendeu, Matou e a bebida envenenada do PCC]] — metanol; PCC como organização terrorista
+- [[fontes/2025-10-21 - Seu país tem heróis de verdade]]
+- [[fontes/2025-10-22 - O pior juiz do mundo mora no Brasil]]
+- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]]
+- [[fontes/2025-10-28 - O crime organizado já virou guerrilha]]
+- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]]
+- [[fontes/2025-10-29 - Minha proposta para os governadores]]
+- [[fontes/2026-01-11 - RENAN COMEÇA PRÉ-CAMPANHA EM PERNAMBUCO]]

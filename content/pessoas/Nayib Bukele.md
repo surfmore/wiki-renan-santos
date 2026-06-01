@@ -83,4 +83,10 @@ Ver [[fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS
 
 ## Fontes
 
-- [[fontes/2026-05-23 - Milei 
+- [[fontes/2026-05-23 - Milei na forma e Bukele no conteúdo]] — Renan abraça a comparação e detalha o que admira no modelo
+- [[fontes/2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui]] — defesa da aplicabilidade ao Brasil
+- [[fontes/2026-03-24 - Eu tô com muita inveja de El Salvador]] — Bukele como contraponto a Lula
+- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] — proposta de presídio inspirada no CECOT
+- [[fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS]] — repercussão popular do modelo
+- [[fontes/2026-01-05 - Resolver os problemas do Brasil não é tão difícil assim]] — Bukele como evidência de resultados rápidos
+- [[fontes/2026-02-02 - O NORDESTE PRECISA SUPERAR O PT]] — Bukele citado em resposta a petista

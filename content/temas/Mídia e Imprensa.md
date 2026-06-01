@@ -130,4 +130,21 @@ Ver [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]].
 
 Em **19 de novembro de 2025**, Renan critica uma humorista alemã que vive no Brasil, ganha dinheiro com humor sobre o país e chamou de "nazista" o chanceler alemão por ter criticado a COP30 e dito preferir Berlim a Belém. Para Renan, ela representa um tipo de estrangeiro que quer manter o brasileiro numa imagem folclórica de "Zé Carioca" porque isso gera likes — e namora um MC que, segundo Renan, normaliza o tráfico.
 
-A crítica central: estrangeiros que lucram da imagem decadente do Brasil não têm direito de silenciar quem aponta os problemas. Renan contrapõe à "bunda danita" sua visão de Brasil compet
+A crítica central: estrangeiros que lucram da imagem decadente do Brasil não têm direito de silenciar quem aponta os problemas. Renan contrapõe à "bunda danita" sua visão de Brasil competitivo como a Embraer.
+
+Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 — Legado em Belém]].
+
+## Fontes
+
+- [[fontes/2025-11-19 - Resposta para a humorista alemã]]
+- [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]]
+- [[fontes/2026-04-11 - Feedback Loop e eleições]]
+- [[fontes/2026-04-12 - Finalmente fui chamado de nazista nas redes sociais]]
+- [[fontes/2026-04-09 - Xandão quer mudar delação premiada]]
+- [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]]
+- [[fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR]]
+- [[fontes/2026-03-17 - WAGNER MOURA PERDEU O OSCAR]]
+- [[fontes/2026-03-07 - Acredite se quiser - a rede Globo está salvando o Brasil]]
+- [[fontes/2026-03-06 - COMEÇOU A CENSURA CONTRA MIM]]
+- [[fontes/2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA]]
+- [[fontes/2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ]]
