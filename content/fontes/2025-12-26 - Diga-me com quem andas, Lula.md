@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=KYbKYSxyQQY"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=KYbKYSxyQQY)**
-
 Renan aplica o princípio "diga-me com quem andas que te direi quem és" à vida pessoal e política de Lula, listando casos de corrupção no entorno imediato do presidente.
 
 ## O entorno corrompido de Lula
@@ -36,3 +34,7 @@ Para Renan, Lula não pode fingir que é honesto por "dissociação": se quer se
 
 - [[temas/Corrupção Municipal]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=KYbKYSxyQQY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=3VU4PSW6mfM"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=3VU4PSW6mfM)**
-
 Renan exibe um vídeo vazado de um **deputado estadual do Mato Grosso** (partido Republicanos) comemorando ao telefone contratos obtidos em licitações fraudulentas, e usa o caso para descrever o ciclo típico da corrupção municipal no Brasil.
 
 ## Resumo
@@ -46,3 +44,7 @@ Renan observa que o deputado é dos **Republicanos** (partido de "direita evang�
 
 - Cassação imediata de direitos políticos para envolvidos em corrupção.
 - Penas longas de prisão para todos os participantes do ciclo (políticos, empresários, quem compra votos).
+
+---
+
+<a href="https://www.youtube.com/watch?v=3VU4PSW6mfM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

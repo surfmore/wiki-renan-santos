@@ -12,8 +12,6 @@ fontes:
   - "2026-02-11 - O JUDICIÁRIO BRASILEIRO ACHOU PRUDENTE SOLTAR ESSE 'JOVEM RAPAZ'"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=b1FcOVzJPl4)**
-
 Renan usa o caso da morte de **Vanessa Lara** no interior de Minas Gerais para atacar a política de clemência judicial com reincidentes.
 
 ## O caso Vanessa Lara
@@ -38,3 +36,7 @@ Afirma que não se trata apenas de justiça, mas também de **vingança** — "�
 
 - [[temas/Segurança Pública]] — impunidade judicial, progressão de pena, reincidência
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=b1FcOVzJPl4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

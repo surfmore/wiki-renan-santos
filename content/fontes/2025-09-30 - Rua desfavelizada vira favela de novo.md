@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=mgVgdlOv5Yg)**
-
 Renan Santos comenta imagens virais de uma rua em **Diadema (SP)** que foi transformada de invasão em habitação digna em 2010 e voltou a ser favela em 2025 — os moradores avançaram sobre a calçada e o espaço público para estender as casas.
 
 ## O fenômeno
@@ -35,3 +33,7 @@ Sem regras claras e duras, qualquer programa habitacional será revertido. Este 
 ## Posições relacionadas
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=mgVgdlOv5Yg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

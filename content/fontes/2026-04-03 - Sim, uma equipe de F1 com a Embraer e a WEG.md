@@ -53,3 +53,7 @@ Fecha o vídeo afirmando: "Nós nos odiamos tanto aqui no Brasil e achamos que s
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=8NT2-kLaQ1E
+
+---
+
+<a href="https://www.youtube.com/watch?v=8NT2-kLaQ1E" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

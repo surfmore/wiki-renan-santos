@@ -37,6 +37,6 @@ Renan chama a manobra de "a maior marmelada da história" e convoca o ato de **s
 
 - Defesa do instituto da **delação premiada** como instrumento contra corrupção política e jurídica.
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=xT0bwhl7-D4)
+<a href="https://www.youtube.com/watch?v=xT0bwhl7-D4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ tags:
   - maranhão
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=1r7_39hI0IY)**
-
 Short gravado sobre o município de **São Félix das Balsas (MA)**.
 
 ## O caso da primeira dama e o show vazio
@@ -38,3 +36,7 @@ Renan reafirma sua proposta: **prefeitura que não tem índice bom não receber�
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=1r7_39hI0IY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=1J5BdDv6quk)**
-
 Renan Santos comemora a derrubada, pelo deputado **Kim Kataguiri**, da **Medida Provisória 1303/25** do governo Lula por meio de requerimento aprovado na Câmara.
 
 ## O que era a MP 1303/25
@@ -39,3 +37,7 @@ Renan questiona a quem Nikolas serve ao votar contra uma medida que beneficia o 
 - [[pessoas/Kim Kataguiri]]
 - [[pessoas/Nikolas Ferreira]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=1J5BdDv6quk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

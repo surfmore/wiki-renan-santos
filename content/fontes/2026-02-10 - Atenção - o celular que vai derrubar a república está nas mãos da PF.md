@@ -12,8 +12,6 @@ fontes:
   - "2026-02-10 - Atenção - o celular que vai derrubar a república está nas mãos da PF"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=MCiNg1syz40)**
-
 Renan relata que a PF apreendeu o celular de **Daniel Vorcaro** (Banco Master), que havia tentado apagar dados, e está recuperando as conversas com software especializado.
 
 ## O conteúdo do celular
@@ -41,3 +39,7 @@ Como medidas que garantiriam que esse tipo de investigação chegue ao fim:
 
 - [[eventos/Escândalo Banco Master]] — a "operação abafa" e a tentativa de destruição das provas
 - [[posicoes/Transparência Digital e Anticorrupção]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=MCiNg1syz40" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=f9A8PnZEPcg"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=f9A8PnZEPcg)**
-
 Renan defende a necessidade de o Brasil desenvolver armamento nuclear, fazendo referência ao político Enéas Carneiro como precursor incompreendido da ideia.
 
 ## Enéas como precursor
@@ -40,3 +38,7 @@ Além do programa nuclear, Renan lista: reformas para enriquecer a população, 
 - [[temas/Programa Nuclear Brasileiro]]
 - [[temas/Política Externa e Geopolítica]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=f9A8PnZEPcg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

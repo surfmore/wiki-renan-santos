@@ -9,8 +9,6 @@ fontes:
 ---
 
 **Data:** 24 de maio de 2026
-**Canal:** Renan Santos (short — clip de entrevista em TV)
-**URL:** https://www.youtube.com/watch?v=OEONxsX-3Hg
 
 ## Resumo
 
@@ -33,3 +31,7 @@ Clip de entrevista em que o apresentador pergunta como Renan pretende atrair o e
 ## Pessoas mencionadas
 
 - [[pessoas/Flávio Bolsonaro]] — "tem todos os defeitos do pai e nenhuma das qualidades"
+
+---
+
+<a href="https://www.youtube.com/watch?v=OEONxsX-3Hg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

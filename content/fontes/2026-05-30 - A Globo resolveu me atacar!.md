@@ -44,3 +44,7 @@ O vídeo termina com Renan reafirmando sua proposta central: que será o policia
 ## Fontes
 
 - [[fontes/2026-05-30 - A Globo resolveu me atacar!]] — vídeo original
+
+---
+
+<a href="https://www.youtube.com/watch?v=UaBmd7C0A6A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

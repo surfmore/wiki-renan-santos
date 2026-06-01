@@ -8,7 +8,6 @@ fontes:
   - "2026-05-07 - BOM DIA, CIRO NOGUEIRA."
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=BjzWBppe9vA) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -38,3 +37,7 @@ Encerra com uma reflexão sobre o Piauí — estado de origem de Nogueira, um do
 ## Fontes
 
 - [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=BjzWBppe9vA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

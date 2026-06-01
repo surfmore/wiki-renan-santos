@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=Fp42bAyt7e4"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Fp42bAyt7e4)**
-
 Renan Santos comenta um trecho de entrevista sobre cultura empresarial, defendendo que abrir, fechar, contratar e demitir devem ser processos simples — parte natural do jogo econômico, não um estigma.
 
 ## Argumento principal
@@ -30,3 +28,7 @@ Nesses países, os sacrifícios de uma geração resultaram em filhos chegando �
 
 - [[temas/Empobrecimento e Mercado de Trabalho]] — burocracia como obstáculo ao empreendedorismo
 - [[temas/Ambição Nacional e Soberania Tecnológica]] — modelo asiático de desenvolvimento
+
+---
+
+<a href="https://www.youtube.com/watch?v=Fp42bAyt7e4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

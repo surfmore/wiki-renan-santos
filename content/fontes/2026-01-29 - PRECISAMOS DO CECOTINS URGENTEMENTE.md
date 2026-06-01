@@ -13,8 +13,6 @@ tags:
   - crime-organizado
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=rtebHJqoGJc)**
-
 Gravado no **presídio de segurança máxima de Mossoró (RN)** — o único no Brasil de onde houve fuga. Dois membros do Comando Vermelho escaparam e foram encontrados em **Marabá (PA), a 1.600 km de distância**. Um entrevistador questiona Renan sobre sua posição em relação a esse tipo de presídio.
 
 ## O problema dos presídios próximos de cidades
@@ -42,3 +40,7 @@ Além de Mossoró, Renan menciona que **Marcinho VP** e **Marcola** já passaram
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Propostas para Polícia Militar]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=rtebHJqoGJc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

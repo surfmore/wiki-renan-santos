@@ -44,6 +44,6 @@ Renan convoca o ato público de sábado, **11 de abril de 2026**, no MASP, em S�
 
 - [[temas/Corrupção Municipal|Corrupção]]
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=X2NtlyXyf9o)
+<a href="https://www.youtube.com/watch?v=X2NtlyXyf9o" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

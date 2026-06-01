@@ -12,9 +12,6 @@ fontes:
 
 # Acabaram com o Zema
 
-**Canal:** Renan Santos | **Data:** 29 de maio de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=ByJlqC2HOWI
-
 ## Resumo
 
 Renan Santos comenta o episódio em que Romeu Zema foi pressionado pelo próprio partido — de orientação bolsonarista — a não falar sobre os crimes de Flávio Bolsonaro. O vídeo é direcionado especificamente aos eleitores de Zema e de Ronaldo Caiado que buscam uma alternativa de direita fora da família Bolsonaro.
@@ -43,3 +40,7 @@ O recado final aos eleitores: não se desanimem com a "queda inevitável" de Zem
 ## Fontes
 
 - [[fontes/2026-05-29 - Acabaram com o Zema]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=ByJlqC2HOWI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

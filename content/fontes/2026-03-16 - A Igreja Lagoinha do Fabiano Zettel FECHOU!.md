@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=xONiWD2bF-k"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=xONiWD2bF-k)**
-
 Renan anuncia que o **último culto da Igreja Lagoinha Belvedere** (BH) ocorreu no domingo anterior, a unidade foi oficialmente fechada e suas redes sociais apagadas, e interpreta o encerramento como confirmação da ligação com o [[eventos/Escândalo Banco Master]].
 
 ## Resumo
@@ -46,3 +44,7 @@ Menciona o **padre Júlio** como exemplo análogo no campo católico — quem di
 
 - [[fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha]]
 - [[fontes/2026-03-18 - MEU RECADO PARA OS EVANGÉLICOS]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=xONiWD2bF-k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

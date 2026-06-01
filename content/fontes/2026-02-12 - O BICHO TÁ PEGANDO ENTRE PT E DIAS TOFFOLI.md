@@ -14,8 +14,6 @@ tags:
   - lula
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=jxh2zgZVLbI)**
-
 Short em que Renan analisa a ruptura entre o PT e Dias Toffoli no contexto do escândalo do Banco Master.
 
 ## Como a aliança rachou
@@ -57,3 +55,7 @@ Renan questiona por que os outros candidatos não falam:
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Ratinho Júnior]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=jxh2zgZVLbI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

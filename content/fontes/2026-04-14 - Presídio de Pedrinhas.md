@@ -13,8 +13,6 @@ tags:
   - sistema-prisional
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ULp_8oJL-ac)**
-
 Renan visita o **Presídio de Pedrinhas**, em São Luís (MA), e usa o histórico da unidade para defender seu modelo de sistema prisional inspirado no CECOT de El Salvador.
 
 ## Conteúdo
@@ -42,3 +40,7 @@ Renan diferencia **punição** de **tortura**: o Estado não deve ser torturador
 
 - [[temas/Segurança Pública]] — sistema prisional como escola do crime; modelo El Salvador/CECOT
 - [[temas/Desigualdade Regional e Migração Interna]] — colapso institucional do MA como fator criminogênico
+
+---
+
+<a href="https://www.youtube.com/watch?v=ULp_8oJL-ac" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

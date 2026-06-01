@@ -12,8 +12,6 @@ fontes:
   - "2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=cyWDr8di4R0)**
-
 Renan responde a matéria da **Folha de S. Paulo** que o classificou como "radical e extremista" e ao Partido Missão como "partido extremista".
 
 ## A concordância estratégica
@@ -40,3 +38,7 @@ Renan menciona que está sendo processado nos maiores absurdos possíveis e que 
 - [[temas/Segurança Pública]] — matar bandido como posição razoável em países sérios
 - [[temas/Desigualdade Regional e Migração Interna]] — Maranhão e intervenção federal
 - [[temas/Mídia e Imprensa]] — relação com a grande imprensa
+
+---
+
+<a href="https://www.youtube.com/watch?v=cyWDr8di4R0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

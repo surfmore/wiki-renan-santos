@@ -10,7 +10,6 @@ fontes:
   - "2026-03-13 - O Paraná é sabotado e eu posso te provar"
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=T0aWWvjBU4Y)
 
 ## Resumo
 
@@ -27,3 +26,7 @@ Renan identifica dois vetores do problema. Primeiro, o pacto federativo distribu
 - [[temas/Infraestrutura e Estradas no Paraná]] — estradas de mão dupla; sabotagem pelo pacto federativo
 - [[temas/Agronegócio e Matopiba]] — produtividade paranaense; escoamento pela BR
 - [[temas/Crítica à Direita Tradicional]] — políticos de direita do Sul que não entregam investimento
+
+---
+
+<a href="https://www.youtube.com/watch?v=T0aWWvjBU4Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

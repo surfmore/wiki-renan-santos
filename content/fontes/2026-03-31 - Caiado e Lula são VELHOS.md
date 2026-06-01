@@ -66,3 +66,7 @@ Lista de compromissos "jovens e modernos" que ele oferece:
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=60pRopvlxW4
+
+---
+
+<a href="https://www.youtube.com/watch?v=60pRopvlxW4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

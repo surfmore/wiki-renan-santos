@@ -47,3 +47,7 @@ Renan reivindica sua credibilidade histórica: liderou o impeachment de Dilma Ro
 ## Fonte
 URL: https://www.youtube.com/watch?v=eXA20ksIskk
 Data: 2026-05-17
+
+---
+
+<a href="https://www.youtube.com/watch?v=eXA20ksIskk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

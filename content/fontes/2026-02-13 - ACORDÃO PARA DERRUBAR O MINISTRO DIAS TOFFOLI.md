@@ -13,8 +13,6 @@ tags:
   - toffoli
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=-0R-8TyXz6s)**
-
 Short em que Renan denuncia um acordo político nos bastidores para sacrificar Toffoli e salvar os demais envolvidos no escândalo do Banco Master.
 
 ## O acordo (segundo Renan)
@@ -43,3 +41,7 @@ Renan reconhece que convocou manifestações para o dia **21 de março** para de
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
 - [[pessoas/Alexandre de Moraes]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=-0R-8TyXz6s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

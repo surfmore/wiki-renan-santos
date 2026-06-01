@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=G61Xsb3UNKU"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=G61Xsb3UNKU)**
-
 Renan relaciona o crime de abuso sexual coletivo contra duas crianças em São Miguel Paulista (SP) com as votações da deputada Érika Hilton e do PT contra leis penais mais duras.
 
 ## Conteúdo
@@ -53,3 +51,7 @@ Afirma que em "nações desenvolvidas" é assim que funciona e que o Brasil deve
 
 - [[pessoas/Érika Hilton]] — votou contra PL 1112/2023 e contra redução da maioridade penal
 - Mendonça Safira — relator da PEC da Segurança, retirou trecho de maioridade penal por pressão do governo
+
+---
+
+<a href="https://www.youtube.com/watch?v=G61Xsb3UNKU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

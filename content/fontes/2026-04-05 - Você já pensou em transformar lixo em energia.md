@@ -27,3 +27,7 @@ O vídeo tem caráter de campanha: o vereador Russo declara apoio à pré-candid
 ## Eventos relacionados
 
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=jx_-KvvmnOg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

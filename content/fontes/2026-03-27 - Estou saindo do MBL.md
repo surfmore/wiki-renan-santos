@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=RTqiYwGWg4k"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=RTqiYwGWg4k)**
-
 Renan Santos reage a uma notícia veiculada pela **Band** que anunciou erroneamente sua saída do Movimento Brasil Livre. O vídeo nega a informação e serve de plataforma para reafirmar sua candidatura.
 
 ## Contexto
@@ -43,3 +41,7 @@ Renan usa o episódio para mobilizar apoiadores: afirma que está "ultrapassando
 ## Fontes
 
 - [[fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS]] — confirmação anterior da 3ª posição
+
+---
+
+<a href="https://www.youtube.com/watch?v=RTqiYwGWg4k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

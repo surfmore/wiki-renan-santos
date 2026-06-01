@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=jciBoi9vGIE)**
-
 Em tom irônico, Renan Santos argumenta que **suas propostas já estão "contaminando" todos os pré-candidatos** — de Flávio Bolsonaro a Zema, passando por Nikolas Ferreira e até Zé Dirceu, do PT. O ponto: ainda que não esteja no Planalto, seu projeto já pauta o debate.
 
 ## A acusação de cópia
@@ -48,3 +46,7 @@ Renan encerra dizendo que, mesmo sem estar sentado na cadeira em Brasília, "os 
 - [[temas/Crítica à Direita Tradicional]]
 - [[posicoes/Frente de Trabalho para o Bolsa Família]]
 - [[pessoas/Lula]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=jciBoi9vGIE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

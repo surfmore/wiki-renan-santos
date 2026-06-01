@@ -14,9 +14,6 @@ fontes:
 
 # Como o PT ajudou a destruir o cacau no sul
 
-**Canal:** Renan Santos | **Data:** 29 de maio de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=-stKeniT2Lo
-
 ## Resumo
 
 Gravado no sul da Bahia, o vídeo integra a série "Como o PT destruiu a Bahia." Renan Santos apresenta o diagnóstico histórico da destruição da lavoura cacaueira baiana e atribui a responsabilidade central ao PT.
@@ -46,3 +43,7 @@ A proposta de Renan como presidente: mobilizar a Embrapa e as universidades púb
 ## Fontes
 
 - [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=-stKeniT2Lo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

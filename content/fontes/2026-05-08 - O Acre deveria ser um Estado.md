@@ -34,3 +34,7 @@ A proposta de Renan é clara: como presidente, faria uma **intervenção federal
 
 URL: https://www.youtube.com/watch?v=XZy571r6Ar8
 Data: 2026-05-08
+
+---
+
+<a href="https://www.youtube.com/watch?v=XZy571r6Ar8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

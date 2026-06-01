@@ -25,3 +25,7 @@ Encerra com provocação direta: "Se prepare, Flávio. A contagem regressiva com
 ## Fonte
 URL: https://www.youtube.com/watch?v=JVXXeqI1aMk
 Data: 2026-05-15
+
+---
+
+<a href="https://www.youtube.com/watch?v=JVXXeqI1aMk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

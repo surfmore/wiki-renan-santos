@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=lrisHr07noI"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=lrisHr07noI)**
-
 Renan Santos faz uma avaliação do cenário eleitoral e de sua posição nos debates presidenciais, argumentando que tem vantagem comunicativa sobre Lula e Flávio Bolsonaro.
 
 ## Vantagem nos debates
@@ -41,3 +39,7 @@ O PT, na avaliação de Renan, não cresceu com nada substantivo.
 - [[temas/Crítica à Direita Tradicional]] — posicionamento de Renan em relação ao cenário
 - [[pessoas/Érika Hilton]] — avaliação sobre o movimento woke
 - [[pessoas/Flávio Bolsonaro]] — cenário de disputa presidencial
+
+---
+
+<a href="https://www.youtube.com/watch?v=lrisHr07noI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

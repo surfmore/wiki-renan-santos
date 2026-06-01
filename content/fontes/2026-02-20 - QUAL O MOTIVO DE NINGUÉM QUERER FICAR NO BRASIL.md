@@ -10,7 +10,6 @@ fontes:
   - "2026-02-20 - QUAL O MOTIVO DE NINGUÉM QUERER FICAR NO BRASIL"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=hf85snfb_jQ) · Canal Renan Santos · Short · 20/02/2026
 
 ## Resumo
 
@@ -30,3 +29,7 @@ Renan lista o que precisa mudar na presidência para tornar "a experiência de s
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=hf85snfb_jQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

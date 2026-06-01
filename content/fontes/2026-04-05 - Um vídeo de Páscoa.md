@@ -30,3 +30,7 @@ _(vídeo de tom reflexivo; não adiciona posições novas.)_
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=TbEzsWoJduY
+
+---
+
+<a href="https://www.youtube.com/watch?v=TbEzsWoJduY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

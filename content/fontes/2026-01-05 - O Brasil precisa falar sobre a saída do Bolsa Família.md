@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=k6ssBI7yAj8"
 ---
 
-**Canal:** Renan Santos | **Data:** 5 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=k6ssBI7yAj8
-
 ---
 
 ## Resumo
@@ -40,3 +37,7 @@ Há municípios onde **mais de 40% da população recebe Bolsa Família** — "b
 
 - Bolsa Família com prazo máximo, fiscalização e porta de saída obrigatória.
 - Frentes de trabalho como alternativa antes do benefício em regiões de alta dependência.
+
+---
+
+<a href="https://www.youtube.com/watch?v=k6ssBI7yAj8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -26,3 +26,7 @@ A seguir, Renan revela que Nikolas Ferreira votou **contra** o requerimento de K
 
 - [[pessoas/Kim Kataguiri]] — protagonista positivo, derrubou MP que beneficiaria o Lula eleitoralmente.
 - [[pessoas/Nikolas Ferreira]] — votou contra o requerimento de Kim, favorecendo a MP do governo.
+
+---
+
+<a href="https://www.youtube.com/watch?v=1J5BdDv6quk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ fontes:
   - "2026-02-05 - PRISÃO AOS ENVOLVIDOS NO ESCÂNDALO DO BANCO MASTER"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=-E6u8ws-Rlw)**
-
 Renan filma **manifestação popular** exigindo prisão de Daniel Vorcaro e dos envolvidos no escândalo do Banco Master — uma das primeiras mobilizações sobre o tema.
 
 ## A manifestação
@@ -38,3 +36,7 @@ Este é um dos primeiros registros de Renan em manifestação sobre o Banco Mast
 ## Temas e eventos
 
 - [[eventos/Escândalo Banco Master]] — primeiras mobilizações populares, 5 de fevereiro de 2026
+
+---
+
+<a href="https://www.youtube.com/watch?v=-E6u8ws-Rlw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

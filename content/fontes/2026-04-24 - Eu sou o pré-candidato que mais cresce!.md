@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=KbW2M2r265I"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=KbW2M2r265I)**
-
 Trecho de entrevista em que Renan explica seu crescimento nas pesquisas e sua abordagem propositiva — em contraste com "fofoqueiros" que apenas apontam problemas.
 
 ## Conteúdo
@@ -27,3 +25,7 @@ Renan reconhece que as soluções que propõe podem não agradar a todos, mas af
 
 - [[pessoas/Renan Santos]]
 - [[fontes/2026-04-28 - CONTINUAMOS SUBINDO!]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=KbW2M2r265I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

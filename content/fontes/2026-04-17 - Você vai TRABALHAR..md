@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=AD9stpk1N3Y"
 ---
 
 **Data:** 17 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=AD9stpk1N3Y)
-
 ## Resumo
 
 Em interação com moradores (possivelmente do Nordeste), Renan reitera sua posição sobre o Bolsa Família e o desincentivo ao trabalho.
@@ -30,3 +27,7 @@ Renan apresenta a proposta de frente de trabalho de forma direta e pessoal:
 ## Posições defendidas
 
 - Condicionar Bolsa Família à participação em frente de trabalho para homens aptos ao trabalho
+
+---
+
+<a href="https://www.youtube.com/watch?v=AD9stpk1N3Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

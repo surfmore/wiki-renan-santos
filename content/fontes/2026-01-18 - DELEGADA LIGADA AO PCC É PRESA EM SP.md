@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=oEBUxAtcY1k"
 ---
 
-**Data:** 18 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=oEBUxAtcY1k)**
-
 ## Resumo
 
 Renan comenta a prisão, em dezembro de 2025, de **Laila Iube**, advogada que se tornou **delegada de polícia em São Paulo** enquanto atuava como operadora do PCC. O caso é apresentado como prova concreta da tese de infiltração das organizações criminosas nas instituições do Estado.
@@ -35,3 +33,7 @@ A análise desemboca na tese recorrente: "o Brasil está vivendo uma infiltraç�
 
 - **Laila Iube** — delegada de SP presa por vínculos com o PCC
 - **Tarcísio de Freitas** — governador presente no evento com Laila; Renan isenta de responsabilidade no caso
+
+---
+
+<a href="https://www.youtube.com/watch?v=oEBUxAtcY1k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

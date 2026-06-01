@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=Y1p9jBDWJGc"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Y1p9jBDWJGc)**
-
 Renan Santos dirige-se diretamente aos pais dos jovens que mataram e torturaram o cão Orelha em Florianópolis. Faz questão de demarcar: não está pedindo linchamento nem organizando uma cruzada, mas exigindo que os pais reconheçam a gravidade do que os filhos fizeram.
 
 ## O conteúdo da carta
@@ -37,3 +35,7 @@ Renan afirma que não é "um cara da causa animal", mas que protege "as figuras 
 
 - [[eventos/Caso do Cão Orelha]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Y1p9jBDWJGc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

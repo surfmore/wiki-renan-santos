@@ -27,3 +27,7 @@ Propõe que, no seu governo, influenciadores demonstravelmente ligados ao crime 
 ## Fonte
 URL: https://www.youtube.com/watch?v=fFJzbJaQ_tY
 Data: 2026-05-22
+
+---
+
+<a href="https://www.youtube.com/watch?v=fFJzbJaQ_tY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

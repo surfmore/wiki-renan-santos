@@ -10,8 +10,6 @@ fontes:
   - "2026-03-22 - Edir Macedo tem seu próprio Banco Master"
 ---
 
-**Canal:** Renan Santos | **Data:** 22/03/2026
-**URL:** https://www.youtube.com/watch?v=T-IbN5jT2m8
 
 ## Resumo
 
@@ -35,3 +33,7 @@ Renan critica o padrão recorrente de igrejas neopentecostais envolvidas em "abu
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Mídia e Imprensa]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=T-IbN5jT2m8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

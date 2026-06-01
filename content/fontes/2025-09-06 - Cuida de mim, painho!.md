@@ -14,8 +14,6 @@ tags:
   - assistencialismo
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=OqWYCv0I-8w)**
-
 Crítica ao governo Lula e ao PT, com foco no assistencialismo como substituto do desenvolvimento. Renan dirige-se a sua geração (cerca de 40 anos) e lamenta que parte dela tenha sido governada pelo PT.
 
 ## Críticas ao PT
@@ -32,3 +30,7 @@ O título do vídeo faz referência irônica a nordestinos que dependem dessas p
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=OqWYCv0I-8w" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -46,3 +46,7 @@ Renan critica também a venda de bets por Neymar para um público sem educação
 ## Fonte
 URL: https://www.youtube.com/watch?v=wAkjZ80tVk0
 Data: 2026-05-19
+
+---
+
+<a href="https://www.youtube.com/watch?v=wAkjZ80tVk0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,7 +10,6 @@ fontes:
   - "2026-02-21 - DEU TUDO ERRADO NO DESFILE DO LULA"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=K3MbzOfDz8w) · Canal Renan Santos · Short · 21/02/2026
 
 ## Resumo
 
@@ -39,3 +38,7 @@ Renan desmonta a narrativa de que Lula é um "gênio do marketing": "ele nunca t
 ## Pessoas mencionadas
 
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=K3MbzOfDz8w" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

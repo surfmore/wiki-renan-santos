@@ -41,4 +41,6 @@ Mas aponta que "a própria credibilidade do inquérito começa a ir a cheque."
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=t-Fr5ZyNRbE](https://www.youtube.com/watch?v=t-Fr5ZyNRbE)
+---
+
+<a href="https://www.youtube.com/watch?v=t-Fr5ZyNRbE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

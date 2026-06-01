@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=M-Z1rO2_hng)**
-
 Renan Santos comemora um passo decisivo na fundação do **Partido Missão**: o **Ministério Público Eleitoral** (Procuradoria Geral Eleitoral) emitiu parecer declarando que o partido foi construído da forma "mais correta, mais lisa, mais proba possível" — recomendando o deferimento. O julgamento final no TSE estava previsto para **30 dias**.
 
 ## O contexto
@@ -33,3 +31,7 @@ Renan critica o **Partido Novo** por ter se tornado "puxadinho do Bolsonaro", e 
 ## Temas relacionados
 
 - [[pessoas/Kim Kataguiri]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=M-Z1rO2_hng" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=l60XiX1O7BQ"
 ---
 
-**Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=l60XiX1O7BQ)**
-
 ## Resumo
 
 Renan está em **Paulista (PE)**, numa das principais avenidas da cidade, apontando e pintando sobre demarcações de facções nas paredes: **PCC**, **CV** e **BMB** marcando territórios em muros de frente para a rua. Um acompanhante local explica que moradores do condomínio habitacional daquela área vivem em "guerra constante de facção" — não sabem se conseguem chegar em casa vivos — enquanto o estado não intervém.
@@ -28,3 +26,7 @@ A promessa é direta: "Só confiar na gente que a gente vai fazer uma revoluçã
 ## Posições defendidas
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — erradicar presença simbólica e física das facções no espaço público
+
+---
+
+<a href="https://www.youtube.com/watch?v=l60XiX1O7BQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

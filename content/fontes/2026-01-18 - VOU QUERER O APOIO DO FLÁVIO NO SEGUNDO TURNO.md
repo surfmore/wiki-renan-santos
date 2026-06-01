@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=ElGh9SBvIJA"
 ---
 
-**Data:** 18 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=ElGh9SBvIJA)**
-
 ## Resumo
 
 Em resposta a uma pergunta sobre votos bolsonaristas, Renan declara que não recusa votos — mas faz questão de deixar claro que não vai mudar sua posição por causa deles. Quem quiser apoiá-lo esperando que ele seja "frouxo com o crime organizado" ou "leniente com corrupção" está enganado: "Nem precisa votar em mim. Quer votar num frouxo ladrão? Tem Lula, tem o Flávio Bolsonaro, tem vários."
@@ -36,3 +34,7 @@ Menciona que o "remédio" para o Brasil será amargo — reformas difíceis — 
 ## Pessoas mencionadas
 
 - [[pessoas/Flávio Bolsonaro]] — chamado diretamente de corrupto; família precisa ser punida
+
+---
+
+<a href="https://www.youtube.com/watch?v=ElGh9SBvIJA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

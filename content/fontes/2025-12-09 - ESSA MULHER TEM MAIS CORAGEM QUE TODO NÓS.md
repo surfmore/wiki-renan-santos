@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=B5m8YReP9bc"
 ---
 
 **Data:** 9 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=B5m8YReP9bc
-
 ## Resumo
 
 Renan discursa em um ato público no Ceará em memória de uma mulher chamada **Ioni**, assassinada por dois jovens que invadiram sua casa com a filha presente. O vídeo é predominantemente um discurso emocional, alternando com falas da plateia.
@@ -40,3 +37,7 @@ Promessa concreta:
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=B5m8YReP9bc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

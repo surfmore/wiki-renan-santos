@@ -10,8 +10,6 @@ fontes:
   - "2026-03-21 - Wesley Safadão e as prefeituras do interior do país"
 ---
 
-**Canal:** Renan Santos | **Data:** 21/03/2026
-**URL:** https://www.youtube.com/watch?v=KsahxExQM7o
 
 ## Resumo
 
@@ -38,3 +36,7 @@ Renan expõe o esquema de shows municipais envolvendo o cantor **Wesley Safadão
 
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Criminalização da Compra e Venda de Votos]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=KsahxExQM7o" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

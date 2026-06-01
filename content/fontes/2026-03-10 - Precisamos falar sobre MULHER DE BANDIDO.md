@@ -10,7 +10,6 @@ fontes:
   - "2026-03-10 - Precisamos falar sobre MULHER DE BANDIDO"
 ---
 
-**Canal:** Renan Santos | **Data:** 10 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=xnz_qghnbjs)
 
 ## Resumo
 
@@ -27,3 +26,7 @@ Renan traça um paralelo direto: "O que difere Marta Graeff da namorada do trafi
 - [[eventos/Escândalo Banco Master]] — Marta Graeff; fuga para Dubai; convocação
 - [[temas/Pautas Identitárias e de Gênero]] — crítica ao "alpinismo social"; mulher trabalhadora vs. mulher de bandido
 - [[pessoas/Kim Kataguiri]] — convocação de Marta Graeff ao Congresso
+
+---
+
+<a href="https://www.youtube.com/watch?v=xnz_qghnbjs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

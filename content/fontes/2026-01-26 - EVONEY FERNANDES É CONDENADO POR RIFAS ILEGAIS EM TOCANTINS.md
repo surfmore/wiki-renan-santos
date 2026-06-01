@@ -13,8 +13,6 @@ tags:
   - artistas
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Sgb3K3--kBw)**
-
 **Evoney Fernandes** — artista do Tocantins que Renan havia criticado anteriormente quando propôs a fusão do estado com Goiás — foi condenado judicialmente por rifas que vendia e não entregava aos ganhadores, em esquema que incluía **lavagem de dinheiro**. O irmão de Evoney também estaria envolvido em "práticas estranhas ligadas à administração pública".
 
 ## O histórico do conflito
@@ -44,3 +42,7 @@ Renan reitera a posição já anunciada: **município que não tem segurança, s
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Criminalização da Compra e Venda de Votos]]
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Sgb3K3--kBw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

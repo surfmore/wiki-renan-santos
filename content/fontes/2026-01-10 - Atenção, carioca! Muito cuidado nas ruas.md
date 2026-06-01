@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=tn3bXE7YvHM"
 ---
 
-**Canal:** Renan Santos | **Data:** 10 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=tn3bXE7YvHM
-
 ---
 
 ## Resumo
@@ -45,3 +42,7 @@ Proposta concreta:
 ## Fontes sobre o tema
 
 Mesmo neste vídeo, Renan critica os "deputados bravos" eleitos por cariocas — "policiais que gostam do mito do Bolsonaro" — por não terem feito nada sobre o tema em Brasília e por terem sido "pegos em escândalos de corrupção, com dinheiro escondido dentro de casa ou hotéis."
+
+---
+
+<a href="https://www.youtube.com/watch?v=tn3bXE7YvHM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

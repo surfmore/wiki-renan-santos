@@ -10,8 +10,6 @@ fontes:
   - "2025-11-12 - Você votaria numa proposta dessas"
 ---
 
-**Canal:** Renan Santos | **Data:** 12 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=hMXhulwzAk4
 
 ## Resumo
 
@@ -36,3 +34,7 @@ Renan enquadra sua candidatura como um plebiscito: **"Votar num determinado part
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=hMXhulwzAk4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

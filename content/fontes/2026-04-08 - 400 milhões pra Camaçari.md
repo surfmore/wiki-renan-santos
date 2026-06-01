@@ -40,6 +40,6 @@ Renan esclarece que sua crítica **não é étnica ou cultural** ("não tenho na
 - [[temas/Corrupção Municipal]]
 - [[temas/Agronegócio e Matopiba|Industrialização do Nordeste]]
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=cvvYRXIVDAA)
+<a href="https://www.youtube.com/watch?v=cvvYRXIVDAA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

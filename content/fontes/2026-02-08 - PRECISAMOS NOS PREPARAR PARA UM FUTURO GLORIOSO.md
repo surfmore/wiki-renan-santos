@@ -12,8 +12,6 @@ fontes:
   - "2026-02-08 - PRECISAMOS NOS PREPARAR PARA UM FUTURO GLORIOSO"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=_dJavUFmueg)**
-
 Renan usa imagens de **entregadores robôs autônomos** operando de noite nas cidades para alertar trabalhadores e propor o **Ministério do Futuro**.
 
 ## A automação que vem
@@ -42,3 +40,7 @@ Renan propõe a criação de um **Ministério do Futuro**, cuja função seria:
 
 - [[temas/Ambição Nacional e Soberania Tecnológica]] — Ministério do Futuro, automação como oportunidade
 - [[temas/Empobrecimento e Mercado de Trabalho]] — transição para empregos do futuro vs. debates desatualizados
+
+---
+
+<a href="https://www.youtube.com/watch?v=_dJavUFmueg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

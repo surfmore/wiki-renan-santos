@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=UlHjV7NsyJk"
 tipo: short
 ---
 
-**Data:** 25 de maio de 2026 | **Canal:** Renan Santos | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=UlHjV7NsyJk
-
 ## Resumo
 
 Renan filma da Vila Rabelo 2 — uma das maiores favelas do Distrito Federal — para ligar a precariedade local diretamente ao escândalo do Banco Master e ao BRB.
@@ -51,3 +48,7 @@ Renan conclui que Flávio Bolsonaro era amigo de Daniel Vorcaro, "provavelmente 
 - [[eventos/Escândalo Banco Master]] — BRB como braço do DF no esquema
 - [[temas/Desigualdade Regional e Migração Interna]] — favelas no DF a 30 min do Planalto
 - [[posicoes/Desfavelização do Rio de Janeiro]] — argumento sobre recursos desperdiçados em corrupção
+
+---
+
+<a href="https://www.youtube.com/watch?v=UlHjV7NsyJk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

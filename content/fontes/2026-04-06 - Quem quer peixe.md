@@ -36,3 +36,7 @@ As propostas repetidas são: acabar com a dependência do dinheiro do governo; *
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=bTF6-5Y5aRw
+
+---
+
+<a href="https://www.youtube.com/watch?v=bTF6-5Y5aRw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

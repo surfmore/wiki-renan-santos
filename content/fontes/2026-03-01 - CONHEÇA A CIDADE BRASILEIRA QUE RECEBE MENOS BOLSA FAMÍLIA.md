@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=OAcAnTXsaWQ)**
-
 Contraponto ao vídeo anterior sobre Itabau (AM), onde 93% das pessoas vivem do Bolsa Família e apenas 29 trabalham formalmente. Renan apresenta **Pomerode (SC)** como o modelo oposto.
 
 ## Pomerode: os dados
@@ -39,3 +37,7 @@ O problema apontado em Pomerode: a **migração de outras regiões** começa a i
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=OAcAnTXsaWQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

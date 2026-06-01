@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=nGfAcKp6-qs"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=nGfAcKp6-qs)**
-
 Renan critica o pacto federativo como um sistema de redistribuição que beneficia políticos corruptos do Norte e Nordeste às custas de quem trabalha nas demais regiões — e apresenta os três mecanismos da sua proposta de reforma.
 
 ## O diagnóstico
@@ -44,3 +42,7 @@ O fundo partidário e eleitoral de cada partido passa a depender do desempenho d
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=nGfAcKp6-qs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

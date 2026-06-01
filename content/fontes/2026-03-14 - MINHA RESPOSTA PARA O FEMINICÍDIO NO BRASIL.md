@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=VgGA2eh1nFg"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=VgGA2eh1nFg)**
-
 Em resposta a uma pergunta de seguidores, Renan apresenta as propostas do MBL e do Partido Missão para o feminicídio, criticando a esquerda por organizar marchas sem votar leis que efetivamente punam os responsáveis.
 
 ## Resumo
@@ -54,3 +52,7 @@ Renan defende que o MBL e o Partido Missão têm "propostas muito melhores" do q
 ## Fontes relacionadas
 
 - [[fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=VgGA2eh1nFg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

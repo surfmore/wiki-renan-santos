@@ -12,8 +12,6 @@ fontes:
   - "2026-02-07 - POLÍTICOS PRECISAM TER METAS CLARAS"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=v4Wr34Qa-Sc)**
-
 Renan detalha o mecanismo de condicionamento do **fundo partidário e eleitoral a KPIs (indicadores de desempenho)** para prefeitos e partidos políticos.
 
 ## O design da proposta
@@ -47,3 +45,7 @@ Com o sistema de incentivos mudado, a lógica de funcionamento da política muda
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]] — desenvolvimento sistêmico da proposta de KPIs
 - [[posicoes/Fusão de Municípios]] — complementar
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=v4Wr34Qa-Sc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

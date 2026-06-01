@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=8vm4dlMJrHU)**
-
 Renan Santos afirma que o crime organizado **cruzou uma linha definitiva**: passou a usar **drones para lançar bombas**, tornando-se, na sua caracterização, uma **força paramilitar** — não mais uma organização criminosa comum.
 
 ## A transformação descrita
@@ -41,3 +39,7 @@ Renan reitera que sua pré-candidatura é baseada nesse tema e que, ao ganhar a 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[eventos/Rio de Janeiro em Guerra — Outubro de 2025]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=8vm4dlMJrHU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -43,3 +43,7 @@ A proposta é tratar a produção nacional de fertilizantes como **questão de s
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=GscrVfBgiTw
+
+---
+
+<a href="https://www.youtube.com/watch?v=GscrVfBgiTw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

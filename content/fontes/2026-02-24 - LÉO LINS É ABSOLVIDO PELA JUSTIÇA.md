@@ -10,7 +10,6 @@ fontes:
   - "2026-02-24 - LÉO LINS É ABSOLVIDO PELA JUSTIÇA"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=azk1aUcMpLU) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo
 
@@ -29,3 +28,7 @@ Alerta que a absolvição de Léo Lins é frágil: STJ e STF são a fonte das ju
 - [[temas/STF e Ativismo Judicial]]
 - [[temas/Pautas Identitárias e de Gênero]]
 - [[temas/Mídia e Imprensa]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=azk1aUcMpLU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

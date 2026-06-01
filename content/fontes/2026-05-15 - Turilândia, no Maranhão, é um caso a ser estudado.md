@@ -36,3 +36,7 @@ A solução proposta: a "lei de responsabilidade gerencial" que mudaria o sistem
 ## Fonte
 URL: https://www.youtube.com/watch?v=KSNeeUJDRq4
 Data: 2026-05-15
+
+---
+
+<a href="https://www.youtube.com/watch?v=KSNeeUJDRq4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

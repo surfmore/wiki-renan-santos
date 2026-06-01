@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=OrOzI9nc8wA"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=OrOzI9nc8wA)**
-
 Renan comemora que o Ministério Público de Contas da Paraíba protocolou ação contra o pagamento do cachê de Wesley Safadão em show na cidade de Coxixola (PB).
 
 ## Conteúdo
@@ -41,3 +39,7 @@ Parabeniza o MP de Contas da Paraíba e convoca fiscalização de todos os shows
 
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=OrOzI9nc8wA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

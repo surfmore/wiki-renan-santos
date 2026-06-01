@@ -10,7 +10,6 @@ fontes:
   - "2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=VHRtDbZX310) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo
 
@@ -37,3 +36,7 @@ Cita inclusive uma crítica do próprio **Xi Jinping** ao modelo latino-american
 ## Posições defendidas
 
 - [[posicoes/Frente de Trabalho para o Bolsa Família]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=VHRtDbZX310" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

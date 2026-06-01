@@ -33,3 +33,7 @@ Frase de Renan sobre Flávio: *"Você só é filho do teu pai. Você é um cara 
 
 URL: https://www.youtube.com/watch?v=YFTvv1a-0j0
 Data: 2026-05-10
+
+---
+
+<a href="https://www.youtube.com/watch?v=YFTvv1a-0j0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

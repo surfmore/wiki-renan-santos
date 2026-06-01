@@ -59,3 +59,7 @@ Renan caracteriza o financiamento externo a ONGs como **"indústria da miséria"
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=k2epNN6BzRQ
+
+---
+
+<a href="https://www.youtube.com/watch?v=k2epNN6BzRQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

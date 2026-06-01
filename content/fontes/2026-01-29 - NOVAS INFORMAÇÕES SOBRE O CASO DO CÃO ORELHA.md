@@ -13,8 +13,6 @@ tags:
   - santa-catarina
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=4QvODUw_v5g)**
-
 Atualização sobre o caso do cão Orelha: a juíza responsável interceptou os celulares dos jovens acusados e confirmou a suspeita de que o assassinato do animal fazia parte de um **jogo de sadismo organizado no Discord**.
 
 ## O que a juíza encontrou
@@ -41,3 +39,7 @@ O episódio revela, segundo Renan, o **patrimonialismo catarinense**:
 - [[temas/Segurança Pública]]
 - [[fontes/2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA]]
 - [[fontes/2026-01-28 - RENAN SANTOS LEVA ENVOLVIDOS NO CASO DO CÃO ORELHA PARA A JUSTIÇA]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=4QvODUw_v5g" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

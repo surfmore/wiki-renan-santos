@@ -34,3 +34,7 @@ Renan generaliza o diagnóstico: PPPs e privatizações são necessárias, mas n
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=jx_-KvvmnOg
+
+---
+
+<a href="https://www.youtube.com/watch?v=jx_-KvvmnOg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

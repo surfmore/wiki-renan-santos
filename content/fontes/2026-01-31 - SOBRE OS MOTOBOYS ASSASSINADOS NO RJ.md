@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=0Pl9ldK0ePg"
 tipo: short
 ---
 
-**Data:** 31 de janeiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=0Pl9ldK0ePg)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -46,3 +44,7 @@ Renan afirma que a única coisa que pode oferecer às famílias dos entregadores
 
 - [[temas/Segurança Pública]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=0Pl9ldK0ePg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

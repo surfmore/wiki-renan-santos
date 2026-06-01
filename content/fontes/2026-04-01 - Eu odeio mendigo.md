@@ -47,3 +47,7 @@ Proibição explícita de mendicância nas cidades, com gravidade adicional quan
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=EZFAV8tqKJw
+
+---
+
+<a href="https://www.youtube.com/watch?v=EZFAV8tqKJw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

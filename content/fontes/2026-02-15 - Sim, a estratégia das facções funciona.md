@@ -12,8 +12,6 @@ tags:
   - facções
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=NC5TNsDUUMk)**
-
 Short em que Renan usa um caso do Ceará para defender punições severas como mecanismo eficaz de controle de comportamento.
 
 ## O caso do Ceará
@@ -34,3 +32,7 @@ Renan afirma que, como presidente, copiará o mesmo princípio: legislações cl
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=NC5TNsDUUMk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

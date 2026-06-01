@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=94etlocKdZg)**
-
 Renan Santos ataca o juiz carioca **Rubens Casara**, a quem chama de "pior juiz do mundo", por soltar um criminoso que havia sido preso **86 vezes** — que voltou a cometer crimes após a soltura.
 
 ## Quem é Rubens Casara
@@ -39,3 +37,7 @@ Renan afirma que, se o Partido Missão chegar ao poder, irá "mostrar pro judici
 - [[temas/STF e Ativismo Judicial]]
 - [[temas/Segurança Pública]]
 - [[temas/Mídia e Imprensa]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=94etlocKdZg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

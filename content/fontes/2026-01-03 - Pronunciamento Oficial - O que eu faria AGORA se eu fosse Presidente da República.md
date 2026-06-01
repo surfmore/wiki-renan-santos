@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=e_B1qNlHu34"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=e_B1qNlHu34)**
-
 Vídeo em formato de pronunciamento: Renan lista medidas imediatas que tomaria como presidente diante da queda de Maduro e da nova realidade geopolítica imposta pelos EUA na América do Sul.
 
 ## Medida 1 — Militarizar a fronteira de Roraima
@@ -39,3 +37,7 @@ Se fosse presidente, prepararia o Brasil junto com outras forças da América do
 - [[temas/Imigração e Fronteiras]]
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=e_B1qNlHu34" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

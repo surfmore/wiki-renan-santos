@@ -10,7 +10,6 @@ fontes:
   - "2026-03-08 - O que um país sério tem que fazer com Alexandre de Moraes"
 ---
 
-**Canal:** Renan Santos | **Data:** 8 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=m-g_rygG4UI)
 
 ## Resumo
 
@@ -30,3 +29,7 @@ Renan anuncia convocação de manifestações semanais crescentes para pressiona
 - [[eventos/Escândalo Banco Master]] — conexão Moraes–Vorcaro
 - [[pessoas/Alexandre de Moraes]] — nova acusação: esposa com contrato de R$ 130M
 - [[pessoas/Kim Kataguiri]] — convocação de Moraes à CPMI
+
+---
+
+<a href="https://www.youtube.com/watch?v=m-g_rygG4UI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

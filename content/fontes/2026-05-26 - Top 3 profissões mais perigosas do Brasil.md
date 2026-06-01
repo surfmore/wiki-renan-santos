@@ -39,3 +39,7 @@ Renan conecta o fenômeno à gestão do PT na Bahia (governada desde 2006): "Lug
 ## Pessoas mencionadas
 
 - [[pessoas/Jerônimo Rodrigues]] — governador da Bahia, responsabilizado pelo ambiente de domínio das facções
+
+---
+
+<a href="https://www.youtube.com/watch?v=Zj7WCK9y8CY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

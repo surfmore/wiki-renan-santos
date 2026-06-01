@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=R3iVOf_raTo"
 ---
 
-**Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=R3iVOf_raTo)**
-
 ## Resumo
 
 Renan toma partido na disputa entre Silas Malafaia e Damares Alves após Malafaia chamar de "covardia" e "vergonha" a postura da senadora ao apoiar a investigação de igrejas evangélicas no escândalo do INSS. Renan defende Damares — apesar de reconhecer que ela "já foi muito injusta comigo, já me atacou no ponto de vista pessoal, e esse tipo de coisa não perdoo" — porque, como senadora, "ela está fazendo o que é certo."
@@ -37,3 +35,7 @@ A análise termina com uma crítica sistêmica: no Brasil, a fé é usada como i
 - [[pessoas/Flávio Bolsonaro]] — batizou-se na Lagoinha; cobrado por Renan a se posicionar
 - **Damares Alves** — senadora; apoiou investigação das igrejas apesar de ser evangélica; atacada por Malafaia
 - **Fabiano Zettel** — pastor da Lagoinha; cunhado de Vorcaro; preso (ver [[eventos/Escândalo Banco Master]])
+
+---
+
+<a href="https://www.youtube.com/watch?v=R3iVOf_raTo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

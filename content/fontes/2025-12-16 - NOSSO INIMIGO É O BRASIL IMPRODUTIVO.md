@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=Ca2iMDKpnD0"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Ca2iMDKpnD0)**
-
 Vídeo em que Renan articula sua tese central sobre a clivagem política brasileira: não é entre bolsonaristas e petistas, mas entre o Brasil que produz e o Brasil improdutivo — e propõe uma aliança interregional dos trabalhadores.
 
 ## A baixa confiança interpessoal como origem do Estado grande
@@ -40,3 +38,7 @@ Renan afirma que vai melhor no Nordeste do que nas pesquisas do Sul porque fala 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
 - [[pessoas/Família Barbalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Ca2iMDKpnD0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

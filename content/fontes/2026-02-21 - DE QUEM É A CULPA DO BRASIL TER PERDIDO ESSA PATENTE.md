@@ -10,7 +10,6 @@ fontes:
   - "2026-02-21 - DE QUEM É A CULPA DO BRASIL TER PERDIDO ESSA PATENTE"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=exoK1bKnB5w) · Canal Renan Santos · Short · 21/02/2026
 
 ## Resumo
 
@@ -32,3 +31,7 @@ Como contraponto positivo, cita o **Porto Digital** em Recife: parceria entre un
 ## Temas abordados
 
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=exoK1bKnB5w" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

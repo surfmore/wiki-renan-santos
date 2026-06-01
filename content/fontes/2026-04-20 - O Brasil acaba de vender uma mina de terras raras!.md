@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=0HzVs48NQ1I"
 ---
 
 **Data:** 20 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=0HzVs48NQ1I)
-
 ## Resumo
 
 Renan critica a venda da **mina Serra Verde** (Goiás) por **US$ 2,8 bilhões** para uma empresa norte-americana. O problema não é o investimento estrangeiro em si, mas o modelo de exportação: a argila especial com terras raras é enviada bruta aos EUA, onde é processada e transformada em ímãs de altíssimo valor agregado usados em:
@@ -37,3 +34,7 @@ Proposta: exigir que as empresas que produzem ímãs, motores especiais, semicon
 ## Pessoas mencionadas
 
 - [[pessoas/Flávio Bolsonaro]] — criticado por promover exportação de terras raras como conquista
+
+---
+
+<a href="https://www.youtube.com/watch?v=0HzVs48NQ1I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

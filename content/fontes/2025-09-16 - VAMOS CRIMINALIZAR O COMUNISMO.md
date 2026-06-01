@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=UUTKL4meUmI)**
-
 Versão curta da proposta do Partido Missão de equiparar o uso de "nazista" e "fascista" como rótulos contra adversários políticos ao **Artigo 286 do Código Penal** (incitação ao crime).
 
 ## A proposta
@@ -27,3 +25,7 @@ Se o alvo da declaração sofrer tentativa de homicídio ou agressão, quem o ch
 ## Temas relacionados
 
 - [[posicoes/Criminalização da Incitação pelo Discurso de Ódio Político]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=UUTKL4meUmI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

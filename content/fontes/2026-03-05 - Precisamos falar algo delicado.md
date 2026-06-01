@@ -40,4 +40,6 @@ Além de pagar pensão, o pai teria que fazer **acompanhamento ativo** dos filho
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=osIDsaOzol0](https://www.youtube.com/watch?v=osIDsaOzol0)
+---
+
+<a href="https://www.youtube.com/watch?v=osIDsaOzol0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

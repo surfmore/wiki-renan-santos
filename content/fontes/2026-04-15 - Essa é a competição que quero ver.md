@@ -39,3 +39,7 @@ Dirige-se também ao resto do Brasil (São Paulo, Rio, Minas, Tocantins, Goiás)
 ## Fontes relacionadas
 
 - [[fontes/2026-04-26 - Conhecem o efeito Renan]] — documentação sistemática do efeito Renan
+
+---
+
+<a href="https://www.youtube.com/watch?v=2_mcbi1o4y4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

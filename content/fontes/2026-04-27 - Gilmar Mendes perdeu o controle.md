@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=K1tvvGyvjvU)**
-
 Renan Santos comenta uma entrevista do ministro **Gilmar Mendes** à jornalista Renata Lopret em que o ministro afirma que o caso Banco Master "tem endereço na Faria Lima", não na Praça dos Três Poderes. Renan interpreta a fala como uma tentativa de blindar o STF da investigação.
 
 ## A fala do ministro
@@ -42,3 +40,7 @@ Para enfrentar isso, diz, será preciso "liderança forte, sem rabo preso", que 
 - [[eventos/Escândalo Banco Master]]
 - [[pessoas/Alexandre de Moraes]]
 - [[posicoes/Propostas para o STF]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=K1tvvGyvjvU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -9,7 +9,6 @@ fontes:
   - "2026-03-11 - 7 propostas para a educação!"
 ---
 
-**Canal:** Renan Santos | **Data:** 11 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=1duB-vXoZv8)
 
 ## Resumo
 
@@ -32,3 +31,7 @@ Renan apresenta sete propostas para a educação brasileira, com ênfase em meri
 ## Temas e posições
 
 - [[posicoes/Propostas para Educação]] — versão completa das 7 propostas
+
+---
+
+<a href="https://www.youtube.com/watch?v=1duB-vXoZv8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

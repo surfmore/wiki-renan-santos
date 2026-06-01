@@ -9,7 +9,6 @@ fontes:
   - "2026-03-11 - URGENTE: Boulos quer destruir os apps de entregas"
 ---
 
-**Canal:** Renan Santos | **Data:** 11 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=I2TSHQBS7H8)
 
 ## Resumo
 
@@ -22,3 +21,7 @@ Renan critica a lógica populista: "Eu entendo que muitos brasileiros caem na em
 ## Temas e posições
 
 - [[temas/Empobrecimento e Mercado de Trabalho]] — proposta Boulos; efeito de piso de preço sobre demanda
+
+---
+
+<a href="https://www.youtube.com/watch?v=I2TSHQBS7H8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

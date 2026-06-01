@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=pdY-sUDFAPw"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=pdY-sUDFAPw)**
-
 Renan retoma a promessa pública de prender a primeira-dama, agora respaldado por notícia do **TCU** sobre irregularidades nas obras da **COP 30** ligadas a uma organização da qual Janja fazia parte.
 
 ## O que o TCU apurou
@@ -34,3 +32,7 @@ Para Renan, as regiões Norte e Nordeste são usadas pelo PT como cenário de ma
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=pdY-sUDFAPw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

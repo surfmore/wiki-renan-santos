@@ -9,7 +9,6 @@ fontes:
   - "2026-02-23 - VORCARO É O EPSTEIN BRASILEIRO..."
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=iJhC-850ZIk) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo
 
@@ -33,3 +32,7 @@ Renan conclui que, além de sexo e dinheiro, havia "político graúdo e até min
 ## Eventos relacionados
 
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=iJhC-850ZIk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

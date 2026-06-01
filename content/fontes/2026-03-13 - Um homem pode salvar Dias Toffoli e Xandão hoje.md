@@ -9,7 +9,6 @@ fontes:
   - "2026-03-13 - Um homem pode salvar Dias Toffoli e Xandão hoje"
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=sfUabKF84_4)
 
 ## Resumo
 
@@ -33,3 +32,7 @@ Renan aponta que a imprensa não cobria o julgamento e pede que o público press
 - **Toffoli** — impedido
 - [[pessoas/Alexandre de Moraes]] — esposa convocada por Kim Kataguiri
 - [[pessoas/Kim Kataguiri]] — convocações na CPMI
+
+---
+
+<a href="https://www.youtube.com/watch?v=sfUabKF84_4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

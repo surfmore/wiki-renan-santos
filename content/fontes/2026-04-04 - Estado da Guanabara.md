@@ -51,3 +51,7 @@ Renan indica um site — **guanabaralivre.com.br** — onde diz que vai apresent
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=DQKSHBkUni0
+
+---
+
+<a href="https://www.youtube.com/watch?v=DQKSHBkUni0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

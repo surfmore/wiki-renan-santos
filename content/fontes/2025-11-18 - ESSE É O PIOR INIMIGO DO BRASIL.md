@@ -10,8 +10,6 @@ fontes:
   - "2025-11-18 - ESSE É O PIOR INIMIGO DO BRASIL"
 ---
 
-**Canal:** Renan Santos | **Data:** 18 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=zbtV7AyCyZM
 
 ## Resumo
 
@@ -31,3 +29,7 @@ Renan não cita estados nem nomes específicos neste vídeo, mas usa o fluxo mig
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[posicoes/Criminalização da Compra e Venda de Votos]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=zbtV7AyCyZM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

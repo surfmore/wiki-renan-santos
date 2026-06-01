@@ -26,3 +26,7 @@ A proposta como pré-candidato: obrigar prefeitos e governadores a trabalharem c
 ## Fonte
 URL: https://www.youtube.com/watch?v=ysTPXBHoQhI
 Data: 2026-05-14
+
+---
+
+<a href="https://www.youtube.com/watch?v=ysTPXBHoQhI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

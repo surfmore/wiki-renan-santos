@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=LO_GAQ3ZD-I)**
-
 Renan Santos comenta o desmantelamento de um **laboratório clandestino** que misturava metanol a bebidas alcoólicas para distribuição — operação atribuída ao **PCC**. Mortes e casos de cegueira foram registrados.
 
 ## O ato como terrorismo
@@ -34,3 +32,7 @@ O instrumento proposto: **direito penal do inimigo** + classificação de PCC e 
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=LO_GAQ3ZD-I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

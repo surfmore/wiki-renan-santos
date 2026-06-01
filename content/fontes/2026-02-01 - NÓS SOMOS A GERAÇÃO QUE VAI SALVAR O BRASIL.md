@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=da4VPesZ9yM"
 tipo: short
 ---
 
-**Data:** 1 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=da4VPesZ9yM)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -51,3 +49,7 @@ A identidade política da Missão é definida por negação e afirmação simult
 - [[temas/Segurança Pública]]
 - [[temas/Corrupção Municipal]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=da4VPesZ9yM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

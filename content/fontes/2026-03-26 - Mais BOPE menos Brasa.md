@@ -10,8 +10,6 @@ fontes:
   - "2026-03-26 - Mais BOPE menos 'Brasa'"
 ---
 
-**Canal:** Renan Santos | **Data:** 26/03/2026
-**URL:** https://www.youtube.com/watch?v=Llf5mf58xdU
 
 ## Resumo
 
@@ -30,3 +28,7 @@ O vídeo é uma resposta ao slogan da Nike para a seleção (ver [[fontes/2026-0
 ## Temas relacionados
 
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Llf5mf58xdU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

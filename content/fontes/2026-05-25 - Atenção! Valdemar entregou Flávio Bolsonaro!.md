@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=2QYr3LnMD1w"
 tipo: short
 ---
 
-**Data:** 25 de maio de 2026 | **Canal:** Renan Santos | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=2QYr3LnMD1w
-
 ## Resumo
 
 Renan reproduz e comenta trechos de entrevista de **Valdemar Costa Neto** — presidente do PL — em que o dirigente confirma inadvertidamente que Flávio Bolsonaro foi visitar Daniel Vorcaro na prisão não para romper relações, mas para tentar cobrar o saldo restante do contrato.
@@ -51,3 +48,7 @@ Renan encerra com uma pergunta aberta ao público:
 - [[pessoas/Daniel Vorcaro]] — preso; Flávio foi cobrar restante do contrato
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=2QYr3LnMD1w" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

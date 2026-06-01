@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=3kTonGp62IQ"
 ---
 
 **Data:** 9 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=3kTonGp62IQ
-
 ## Resumo
 
 Um dos vídeos mais densos de Renan sobre o [[eventos/Escândalo Banco Master]] — produzido antes mesmo da prisão de Vorcaro ou de Zettel. Renan monta um mapa de conexões que liga o Banco Master a praticamente todos os polos de poder do Brasil: STF, Lula, Tarcísio, família Bolsonaro, centrão, grande imprensa e influenciadores.
@@ -63,3 +60,7 @@ Renan conclui que há um **pacto silencioso**: Vorcaro desaparece solto, o Estad
 - [[pessoas/Guido Mantega]]
 - [[pessoas/Tarcísio de Freitas]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=3kTonGp62IQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

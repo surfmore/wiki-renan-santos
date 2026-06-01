@@ -45,3 +45,7 @@ O vídeo termina com convocação para **ato na Avenida Paulista no dia 11 [de a
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=wqikQIinOWY
+
+---
+
+<a href="https://www.youtube.com/watch?v=wqikQIinOWY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

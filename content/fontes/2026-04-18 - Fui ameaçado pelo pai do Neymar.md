@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=PQiSG_9Nh54"
 ---
 
 **Data:** 18 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=PQiSG_9Nh54)
-
 ## Resumo
 
 Renan responde à ameaça de processo feita pelo pai do **Neymar** ("vou te explicar no palco adequado por suas irresponsáveis relações") após ter questionado publicamente as amizades do jogador com pessoas ligadas ao tráfico de drogas.
@@ -42,3 +39,7 @@ O impacto social apontado: Neymar, sendo referência para milhões de jovens, ao
 - [[pessoas/Oruam]] — filho do Marcinho VP; "primeiro palco dado por Neymar"
 - Deolane Bezerra — advogada mencionada como ligada a facções; doou R$1,16M à ONG de Neymar
 - MC Rian — amigo de Neymar; preso por lavagem de dinheiro
+
+---
+
+<a href="https://www.youtube.com/watch?v=PQiSG_9Nh54" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ fontes:
   - "2026-03-20 - Taubaté x 4 cidades do Tocantins"
 ---
 
-**Canal:** Renan Santos | **Data:** 20/03/2026
-**URL:** https://www.youtube.com/watch?v=v4toIr1sHng
 
 ## Resumo
 
@@ -43,3 +41,7 @@ Fundir os quatro municípios em um único, com **um prefeito, um vice e nove ver
 
 - [[posicoes/Fusão de Municípios]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=v4toIr1sHng" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

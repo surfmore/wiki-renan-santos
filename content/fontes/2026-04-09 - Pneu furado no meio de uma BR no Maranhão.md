@@ -31,6 +31,6 @@ Desenvolve a cadeia causal: o Estado brasileiro "gasta muito e gasta mal", não 
 
 - [[eventos/Escândalo Banco Master]]
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=Q-BSgjINs6s)
+<a href="https://www.youtube.com/watch?v=Q-BSgjINs6s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

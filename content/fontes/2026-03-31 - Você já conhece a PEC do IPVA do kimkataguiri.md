@@ -28,3 +28,7 @@ A segunda metade do vídeo é um reconhecimento mútuo: o "atropelado" se identi
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=j1rGa45eY8Q
+
+---
+
+<a href="https://www.youtube.com/watch?v=j1rGa45eY8Q" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

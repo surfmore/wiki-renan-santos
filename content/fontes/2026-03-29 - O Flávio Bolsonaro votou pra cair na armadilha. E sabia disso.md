@@ -56,3 +56,7 @@ No final do vídeo, observa que está de óculos escuros porque está "com um te
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=OWWt9mkXGPo
+
+---
+
+<a href="https://www.youtube.com/watch?v=OWWt9mkXGPo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

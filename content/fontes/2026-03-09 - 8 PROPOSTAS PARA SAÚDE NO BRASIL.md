@@ -9,7 +9,6 @@ fontes:
   - "2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL!"
 ---
 
-**Canal:** Renan Santos | **Data:** 9 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=uuT9qLq9m8A)
 
 ## Resumo
 
@@ -34,3 +33,7 @@ Renan apresenta oito propostas para reformar a saúde pública no Brasil, com ê
 ## Temas e posições
 
 - [[posicoes/Propostas para Saúde]] — versão completa das 8 propostas
+
+---
+
+<a href="https://www.youtube.com/watch?v=uuT9qLq9m8A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

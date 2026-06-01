@@ -45,3 +45,7 @@ Conclui: o STF é guardião das "duas visões de mundo que destroem o Brasil —
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=4WxdPiNOHT8
+
+---
+
+<a href="https://www.youtube.com/watch?v=4WxdPiNOHT8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

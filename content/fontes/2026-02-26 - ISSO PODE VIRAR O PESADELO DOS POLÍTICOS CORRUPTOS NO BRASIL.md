@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=4d5vLkrHYGw)**
-
 Renan apresenta a ferramenta criada por **Bruno César** e sua equipe — chamada **"Aceleracionismo Brasileiro"** —, que cruza bases de dados públicas para mapear corrupção política.
 
 ## A ferramenta
@@ -46,3 +44,7 @@ O Partido Missão quer usar a ferramenta para **screening de candidatos** antes 
 - [[posicoes/Transparência Digital e Anticorrupção]]
 - [[pessoas/Kim Kataguiri]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=4d5vLkrHYGw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

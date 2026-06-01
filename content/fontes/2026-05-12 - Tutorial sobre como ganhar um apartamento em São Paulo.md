@@ -30,3 +30,7 @@ Critica que em São Paulo existem movimentos organizados que administram invasõ
 
 URL: https://www.youtube.com/watch?v=0grmQKwTsNY
 Data: 2026-05-12
+
+---
+
+<a href="https://www.youtube.com/watch?v=0grmQKwTsNY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

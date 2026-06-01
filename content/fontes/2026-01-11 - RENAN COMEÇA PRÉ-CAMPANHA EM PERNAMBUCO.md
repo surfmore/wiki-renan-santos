@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=M27WqhCM_hQ"
 ---
 
-**Canal:** Renan Santos | **Data:** 11 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=M27WqhCM_hQ
-
 ---
 
 ## Resumo
@@ -30,3 +27,7 @@ Sobre desfavelização: critica a complexificação do tema por acadêmicos e co
 
 - Desfavelização via substituição física: derrubar as estruturas e construir prédios regulares no lugar.
 - Combate ao crime organizado de forma direta, sem mediações sociológicas.
+
+---
+
+<a href="https://www.youtube.com/watch?v=M27WqhCM_hQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

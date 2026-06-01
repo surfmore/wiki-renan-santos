@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=m_KWj_Av1_g"
 ---
 
 **Data:** 18 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=m_KWj_Av1_g)
-
 ## Resumo
 
 Em resposta à pergunta "o senhor se classifica como extrema direita?", Renan rejeita o rótulo e se define como "extremamente honesto e mais inteligente e mais preparado do que os demais."
@@ -30,3 +27,7 @@ Renan afirma que, ao rejeitar os rótulos, consegue focar nos problemas reais de
 ## Posições defendidas
 
 - Renan rejeita o rótulo "extrema direita" e qualquer rótulo ideológico; prefere focar na resolução de problemas concretos
+
+---
+
+<a href="https://www.youtube.com/watch?v=m_KWj_Av1_g" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

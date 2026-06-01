@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=lS0ZpmyuhVk)**
-
 Renan Santos reage com indignação à aprovação da **PEC da Blindagem** pela Câmara dos Deputados, com 324 votos favoráveis — incluindo a grande maioria dos bolsonaristas — e Kim Kataguiri como único deputado de direita a votar contra.
 
 ## O conteúdo da PEC
@@ -42,3 +40,7 @@ Kim foi o único a discursar e votar contra. Perdeu votos bolsonaristas com isso
 - [[eventos/PEC da Blindagem — Setembro de 2025]]
 - [[pessoas/Nikolas Ferreira]]
 - [[pessoas/Kim Kataguiri]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=lS0ZpmyuhVk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,8 +13,6 @@ tags:
   - direita
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=iCo5fP1S7R8)**
-
 Comentário de Renan sobre a filiação do governador de Goiás, **Ronaldo Caiado**, ao PSD — partido de **Gilberto Kassab**, que abriga também Ratinho Júnior (PR) e Eduardo Leite (RS).
 
 ## O esquema Kassab
@@ -46,3 +44,7 @@ Ironicamente, Renan diz que até Flávio Bolsonaro é mais honesto nesse context
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Ronaldo Caiado]]
 - [[pessoas/Ratinho Júnior]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=iCo5fP1S7R8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -29,3 +29,7 @@ Finaliza com apelo à Faria Lima: as consultorias contratadas com Kassab, Ciro N
 ## Fonte
 URL: https://www.youtube.com/watch?v=dJKuuL3PDmc
 Data: 2026-05-23
+
+---
+
+<a href="https://www.youtube.com/watch?v=dJKuuL3PDmc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

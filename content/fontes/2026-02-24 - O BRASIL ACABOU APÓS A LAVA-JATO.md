@@ -10,7 +10,6 @@ fontes:
   - "2026-02-24 - O BRASIL ACABOU APÓS A LAVA-JATO..."
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=FPMCuBwnWW8) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo
 
@@ -34,3 +33,7 @@ Renan encerra com a frase que dá título ao vídeo: "O Brasil acabou" — expre
 ## Eventos relacionados
 
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=FPMCuBwnWW8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,7 +10,6 @@ fontes:
   - "2026-03-11 - Eu farei o governo mais duro contra a criminalidade da história"
 ---
 
-**Canal:** Renan Santos | **Data:** 11 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=ZWays_UrDFo)
 
 ## Resumo
 
@@ -24,3 +23,7 @@ Renan usa o caso para diagnosticar a raiz estrutural do problema: as leis penais
 
 - [[temas/Segurança Pública]] — reincidência; 60 anos de pena; por que legisladores enfraquecem as leis
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — leis mais duras do Partido Missão
+
+---
+
+<a href="https://www.youtube.com/watch?v=ZWays_UrDFo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

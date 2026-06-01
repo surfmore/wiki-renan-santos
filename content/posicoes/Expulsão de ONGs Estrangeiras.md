@@ -24,6 +24,10 @@ No vídeo "O agro brasileiro pode quebrar" (5 de abril), Renan eleva o tom e pro
 
 Ver também [[temas/Soberania Nacional e ONGs Estrangeiras]].
 
+## ONGs com pautas culturais e conflito social (junho de 2026)
+
+Em **1.º de junho de 2026**, Renan amplia o escopo da proposta para além das ONGs ambientais e de segurança: anuncia que expulsaria do Brasil **ONGs que recebem dinheiro internacional para pregar guerra entre os brasileiros** — especificamente aquelas que, segundo ele, difundem discursos que "pregam o ódio entre homens e mulheres, entre negros e brancos, entre gays e heterossexuais". Classifica essa atuação como "violência disfarçada de tolerância" e enquadra o tema como **questão de soberania nacional**. O contexto é a defesa de [[pessoas/Frei Gilson]] e a crítica à perseguição religiosa. Ver [[fontes/2026-06-01 - Frei Gilson é um Red Pill]] e [[temas/Liberdade Religiosa]].
+
 ## ONGs "de favela" e a "cafetinagem da miséria"
 
 No vídeo [[fontes/2026-03-27 - VOU PERDER MINHA CANDIDATURA]], Renan estende o argumento a **ONGs que atuam em favelas**, respondendo a um processo movido por uma delas. A acusação que formula é a de que essas entidades seriam sustentadas por **dinheiro gringo** e existiriam para "ficar fazendo políticas sociais que, no fundo, é dinheiro no bolso deles". Classifica o arranjo como **"indústria da miséria"** e **"cafetinagem da miséria"**.
@@ -32,13 +36,4 @@ No [[posicoes/Plano para Moradores de Rua]], a crítica reaparece no contexto da
 
 ## ONGs de segurança e a crise do Rio (outubro de 2025)
 
-Em **29 de outubro de 2025**, Renan incluiu pela primeira vez a proibição de ONGs financiadas por **Ford Foundation**, **Rockefeller Foundation** e **Open Society Foundation** como ponto explícito de seu programa de segurança pública — com **deportação imediata** de seus representantes. O contexto é a crise de segurança no Rio de Janeiro: para Renan, essas fundações financiam organizações que defendem o "direito penal mínimo" e sabotam operações policiais. Ver [[fontes/2025-10-29 - Minha proposta para os governadores]] e [[posicoes/Proposta para Governadores Anti-Crime]].
-
-## Fontes
-
-- [[fontes/2025-10-29 - Minha proposta para os governadores]]
-- [[fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão]]
-- [[fontes/2026-04-07 - A ferrogrão está sendo sabotada]]
-- [[fontes/2026-04-05 - O agro brasileiro pode quebrar]]
-- [[fontes/2026-03-27 - VOU PERDER MINHA CANDIDATURA]]
-- [[fontes/2026-04-01 - Eu odeio mendigo]]
+Em **29 de outubro de 2025**, Renan incluiu pela primeira vez a proibição de ONGs financiadas por **Ford Foundation**, **Rockefeller Foundation** e **Open Society Foundation** como 

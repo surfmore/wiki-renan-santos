@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=PnzQayORKUg"
 ---
 
-**Canal:** Renan Santos | **Data:** 9 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=PnzQayORKUg
-
 ---
 
 ## Resumo
@@ -36,3 +33,7 @@ Renan lembra que foi "perseguido pela família Bolsonaro quando eles estiveram n
 
 - Jornalismo com credibilidade deve separar opinião de militância — e pode ter lado, desde que diga qual é.
 - Crueldade pessoal contra adversários políticos é inaceitável, mesmo quando se é adversário deles.
+
+---
+
+<a href="https://www.youtube.com/watch?v=PnzQayORKUg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ fontes:
   - "2026-03-20 - Os caminhoneiros vão entrar em greve"
 ---
 
-**Canal:** Renan Santos | **Data:** 20/03/2026
-**URL:** https://www.youtube.com/watch?v=97clrGs7kwI
 
 ## Resumo
 
@@ -51,3 +49,7 @@ Menciona também a resistência de **indígenas** que, segundo Renan, "se aprove
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[temas/Agronegócio e Matopiba]]
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=97clrGs7kwI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=gOpdC-VRyuI)**
-
 Renan Santos reproduz e responde ao comentarista **Régis Tadeu**, que o acusou de não saber nada sobre desfavelização e afirmou que o projeto seria impossível de realizar no Brasil.
 
 ## A acusação de Régis Tadeu
@@ -50,3 +48,7 @@ Desafia Régis Tadeu: "Comparado ao restante da classe política, eu entendo mai
 ## Posição relacionada
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=gOpdC-VRyuI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

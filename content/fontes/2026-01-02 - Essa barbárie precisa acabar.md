@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=9-8NamoGTCU"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=9-8NamoGTCU)**
-
 Vídeo gravado em resposta a imagens do Recreio dos Bandeirantes, no Rio de Janeiro, no dia 1º de janeiro — lixo acumulado, arrastões, ausência total do poder público às 7h da manhã. Renan usa o episódio para criticar a gestão do prefeito Eduardo Paes e defender medidas duras de segurança e ordem urbana.
 
 ## Eduardo Paes: "sempre foi um ladrão"
@@ -42,3 +40,7 @@ Renan questiona se o "disparo de felicidade" do réveillon e do carnaval vale o 
 
 - [[temas/Segurança Pública]]
 - [[temas/Pautas Identitárias e de Gênero]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=9-8NamoGTCU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ tags:
   - partido-missão
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=QGB6TxLbAgI)**
-
 Renan Santos comenta sua aparição numa pesquisa presidencial do Instituto Real Time Big Data com **2% das intenções de voto**, em cenário que inclui Lula (42%), Tarcísio de Freitas (40%) e Romeu Zema (4%). Ressalta que nem havia lançado candidatura e que o Partido Missão ainda não estava formalizado.
 
 Renan descreve sua reação de espanto ao ver o resultado: "Deve ser uma pegadinha, alguém deve estar me trollando." Conclui que o número reflete a receptividade de um discurso "sério e resoluto" que não tem medo de dizer a verdade.
@@ -36,3 +34,7 @@ Afirma não saber ainda se seria o candidato do partido, mas conclui: "Se deixar
 ## Fontes
 
 - Pesquisa citada: Instituto Real Time Big Data (sem data exata mencionada no vídeo)
+
+---
+
+<a href="https://www.youtube.com/watch?v=QGB6TxLbAgI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

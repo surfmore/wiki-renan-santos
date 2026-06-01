@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=PAuW9HpW7Vg"
 tipo: short
 ---
 
-**Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=PAuW9HpW7Vg)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -40,3 +38,7 @@ O custo do projeto privado do Leve Poços para aquela comunidade é menor do que
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Agronegócio e Matopiba]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=PAuW9HpW7Vg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

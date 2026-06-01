@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=0gh_XBtSHIU"
 ---
 
-**Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=0gh_XBtSHIU)**
-
 ## Resumo
 
 Renan documenta uma ponte construída em **1875** — sem energia elétrica, portanto, com os meios do século XIX — que ainda hoje é a única ligação entre dois lados de uma cidade do Nordeste. A ponte existe há mais de 150 anos, nunca recebeu manutenção adequada e nenhuma substituta foi construída no lugar. Para Renan, isso resume um problema estrutural do poder público brasileiro: incapacidade de manter o que já existe e de planejar para o futuro.
@@ -25,3 +23,7 @@ A conclusão é programática: diminuir essa estagnação deve ser objetivo expl
 
 - [[temas/Desigualdade Regional e Migração Interna]] — ponte de 1875 sem manutenção; migração nordestina por estagnação; cidade de 60.000 hab. como "pasmaceira"
 - [[temas/Infraestrutura e Estradas no Maranhão]] — enquadramento geral de infraestrutura nordestina (aplicável a qualquer estado)
+
+---
+
+<a href="https://www.youtube.com/watch?v=0gh_XBtSHIU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

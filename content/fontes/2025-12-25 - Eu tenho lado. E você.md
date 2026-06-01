@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=O1HQuY7P-Ts"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=O1HQuY7P-Ts)**
-
 Vídeo-manifesto em que Renan enuncia uma série de dicotomias para declarar de que lado está em cada conflito político e social.
 
 ## As escolhas declaradas
@@ -41,3 +39,7 @@ O vídeo serve como síntese de posicionamento identitário: a lista é delibera
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Segurança Pública]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=O1HQuY7P-Ts" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

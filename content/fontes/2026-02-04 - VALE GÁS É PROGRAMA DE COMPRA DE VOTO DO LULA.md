@@ -10,8 +10,6 @@ url: "https://www.youtube.com/watch?v=2rvS-3VsA5g"
 tipo: short
 ---
 
-**Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=2rvS-3VsA5g)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -36,3 +34,7 @@ Renan apresenta o que descreve como o ciclo vicioso da política brasileira: o p
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=2rvS-3VsA5g" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

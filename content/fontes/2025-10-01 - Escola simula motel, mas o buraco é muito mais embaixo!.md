@@ -36,3 +36,7 @@ A partir do caso, Renan reafirma sua proposta de fusão de municípios inviávei
 
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=LHjYyNWWXXU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

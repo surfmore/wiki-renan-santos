@@ -41,3 +41,7 @@ Fecha assumindo que "temos um governo de esquerda, mas que é de direita, mas qu
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=QBJZCyRYk0Q
+
+---
+
+<a href="https://www.youtube.com/watch?v=QBJZCyRYk0Q" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

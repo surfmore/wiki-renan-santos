@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=FLE-eXMCOZg"
 ---
 
 **Data:** 6 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=FLE-eXMCOZg
-
 ## Resumo
 
 Análise detalhada de por que a candidatura de Tarcísio de Freitas à presidência perdeu viabilidade e por que Flávio Bolsonaro acabou se tornando o candidato da direita tradicional. Renan traça um paralelo com o PT de 2018 e apresenta o Partido Missão como a alternativa real.
@@ -67,3 +64,7 @@ Encerra com a metáfora da onça: "Em vez de depender da língua de gato da Cope
 - [[eventos/Escândalo Banco Master]]
 - [[pessoas/Flávio Bolsonaro]]
 - [[pessoas/Tarcísio de Freitas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=FLE-eXMCOZg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

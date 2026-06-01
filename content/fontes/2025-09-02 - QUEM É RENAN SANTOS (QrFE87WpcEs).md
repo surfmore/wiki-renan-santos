@@ -12,8 +12,6 @@ tags:
   - crime-organizado
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=QrFE87WpcEs)**
-
 Short que abre com o resultado da pesquisa Real Time Big Data (Renan com 2%) e depois exibe trechos de falas anteriores do Renan sobre segurança pública e guerra ao crime organizado — contextualizando quem é esse candidato desconhecido.
 
 Nos trechos, Renan afirma:
@@ -32,3 +30,7 @@ Nos trechos, Renan afirma:
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Desfavelização do Rio de Janeiro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=QrFE87WpcEs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

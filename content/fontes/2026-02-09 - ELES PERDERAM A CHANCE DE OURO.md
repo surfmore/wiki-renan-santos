@@ -12,8 +12,6 @@ fontes:
   - "2026-02-09 - ELES PERDERAM A CHANCE DE OURO"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=obiKtNIhac8)**
-
 Renan documenta que tanto a esquerda quanto a direita se recusam a explorar o escândalo do Banco Master — cada uma por ter seus próprios ranchos sujos envolvidos.
 
 ## A esquerda que não aproveita
@@ -46,3 +44,7 @@ Renan apresenta-se como o único pré-candidato a presidência que convoca manif
 - [[eventos/Escândalo Banco Master]] — conivência bipartidária no silêncio
 - [[temas/Crítica à Direita Tradicional]] — cumplicidade do bolsonarismo com o Banco Master
 - [[temas/STF e Ativismo Judicial]] — Toffoli, Lewandowski
+
+---
+
+<a href="https://www.youtube.com/watch?v=obiKtNIhac8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

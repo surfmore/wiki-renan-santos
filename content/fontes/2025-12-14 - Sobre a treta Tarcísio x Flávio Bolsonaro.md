@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=2knCeum1nxU"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=2knCeum1nxU)**
-
 Vídeo em que Renan analisa o conflito público entre Tarcísio de Freitas e Flávio Bolsonaro, descartando os dois como candidatos sérios e enquadrando ambos como partes do mesmo sistema de corrupção que ele promete combater.
 
 ## A provocação a Tarcísio
@@ -51,3 +49,7 @@ Renan se apresenta como a alternativa: "O único que tem um livro com propostas 
 - [[pessoas/Flávio Bolsonaro]]
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=2knCeum1nxU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

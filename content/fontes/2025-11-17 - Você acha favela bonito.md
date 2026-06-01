@@ -10,8 +10,6 @@ fontes:
   - "2025-11-17 - Você acha favela bonito"
 ---
 
-**Canal:** Renan Santos | **Data:** 17 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=hZR3__9OIPA
 
 ## Resumo
 
@@ -41,3 +39,7 @@ O vídeo termina com um convite explícito para o Partido Missão e a formulaç�
 - [[temas/Segurança Pública]]
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=hZR3__9OIPA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

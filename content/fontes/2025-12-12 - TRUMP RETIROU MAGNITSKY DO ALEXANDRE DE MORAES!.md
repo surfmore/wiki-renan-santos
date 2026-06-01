@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=EYyMoumoP28"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=EYyMoumoP28)**
-
 Vídeo em que Renan explica sua teoria sobre o "grande acordão" que resultou na retirada das sanções Magnitsky de Alexandre de Moraes pelos EUA de Trump — conectando Venezuela, Flávio Bolsonaro, Lula e Joesley Batista.
 
 ## A previsão de Renan
@@ -48,3 +46,7 @@ Renan lista os elementos do pacto: Venezuela, abandono de Maduro por Lula, Fláv
 - [[pessoas/Flávio Bolsonaro]]
 - [[temas/Política Externa e Geopolítica]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=EYyMoumoP28" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

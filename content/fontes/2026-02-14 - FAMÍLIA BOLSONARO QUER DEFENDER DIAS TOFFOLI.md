@@ -14,8 +14,6 @@ tags:
   - toffoli
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=wnwnJBS17bI)**
-
 Short em que Renan expõe o comportamento de Flávio e Carlos Bolsonaro em relação a Dias Toffoli, conectando ao histórico de 2019.
 
 ## O comportamento atual (fevereiro 2026)
@@ -48,3 +46,7 @@ Em 14 de fevereiro de 2026, Flávio Bolsonaro ainda não havia dito uma palavra 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=wnwnJBS17bI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

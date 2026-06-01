@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=YpNzZAASGGg"
 ---
 
 **Data:** 19 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=YpNzZAASGGg)
-
 ## Resumo
 
 Renan denuncia que **Érika Hilton**, presidente da Comissão da Mulher da Câmara, usou a **AGU (Advocacia-Geral da União)** para iniciar processo contra a jornalista **Madeleine Lackso**, acusando-a de produzir *fake news* — acusação que Renan descreve como "vazia e sem fundamentação jurídica."
@@ -31,3 +28,7 @@ A ironia apontada por Renan: a presidente da Comissão da Mulher perseguindo uma
 
 - [[pessoas/Érika Hilton]] — usou AGU para processar jornalista que a criticou
 - Madeleine Lackso — jornalista alvo da ação
+
+---
+
+<a href="https://www.youtube.com/watch?v=YpNzZAASGGg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

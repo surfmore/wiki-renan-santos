@@ -9,7 +9,6 @@ fontes:
   - "2026-04-27 - Wesley Safadão não quer que eu seja Presidente"
 ---
 
-**Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=j7HvGwECV2I)
 
 ## Resumo
 
@@ -50,3 +49,7 @@ O argumento estrutural: o problema não é só Safadão — "boa parte do circui
 - [[fontes/2026-04-29 - Fui censurado pelo Wesley Safadao]] — liminar obtida por Safadão
 - [[fontes/2026-05-03 - O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO]] — MP Paraíba aciona Coxixola
 - [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]] — proposta de lei de responsabilidade gerencial
+
+---
+
+<a href="https://www.youtube.com/watch?v=j7HvGwECV2I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

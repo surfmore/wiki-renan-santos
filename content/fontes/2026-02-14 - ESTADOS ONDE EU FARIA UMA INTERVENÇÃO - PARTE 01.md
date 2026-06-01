@@ -13,8 +13,6 @@ tags:
   - federalismo
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=zZQ2uBdyqUY)**
-
 Short em formato de perguntas e respostas em que Renan avalia, estado a estado, se faria ou não uma intervenção federal.
 
 ## As avaliações
@@ -38,3 +36,7 @@ Short em formato de perguntas e respostas em que Renan avalia, estado a estado, 
 - [[temas/Imigração e Fronteiras]]
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=zZQ2uBdyqUY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

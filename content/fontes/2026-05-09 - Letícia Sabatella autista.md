@@ -37,3 +37,7 @@ A proposta: escolas especiais com salas separadas para crianças com necessidade
 
 URL: https://www.youtube.com/watch?v=H2FrsNdlWcg
 Data: 2026-05-09
+
+---
+
+<a href="https://www.youtube.com/watch?v=H2FrsNdlWcg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

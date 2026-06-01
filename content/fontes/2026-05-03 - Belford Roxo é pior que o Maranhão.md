@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=uPhd53pxTeU"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=uPhd53pxTeU)**
-
 Renan denuncia as condições de Belford Roxo (RJ) e critica o apoio de Flávio Bolsonaro ao prefeito Márcio Canela, candidato ao Senado pelo Rio de Janeiro.
 
 ## Conteúdo
@@ -51,3 +49,7 @@ Conclui que Canela e Flávio pretendem "encontrar na Barra da Tijuca, muito long
 - [[pessoas/Flávio Bolsonaro]] — apoia Márcio Canela ao Senado pelo RJ, padrão de alianças com figuras milicianas
 - Márcio Canela — prefeito de Belford Roxo; nomeou miliciano condenado para secretaria
 - Eduardo Araújo — miliciano condenado a 8 anos, nomeado secretário por Canela
+
+---
+
+<a href="https://www.youtube.com/watch?v=uPhd53pxTeU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

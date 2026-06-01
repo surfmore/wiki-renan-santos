@@ -10,7 +10,6 @@ fontes:
   - "2026-02-24 - GOVERNO LULA TAXA MAIS DE 1,2 MIL PRODUTOS IMPORTADOS"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=gfz_yuVkjAQ) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo
 
@@ -38,3 +37,7 @@ Renan propõe como política de governo a **revogação de toda essa taxação**
 ## Posições defendidas
 
 - [[posicoes/Reforma Fiscal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=gfz_yuVkjAQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

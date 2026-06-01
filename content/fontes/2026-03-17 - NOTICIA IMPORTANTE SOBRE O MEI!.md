@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=jevS8LQhuNA"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=jevS8LQhuNA)**
-
 Renan defende a aprovação no Congresso da **correção do limite do MEI** (Microempreendedor Individual), criticando o bloqueio do governo Haddad e enquadrando o debate como PT contra quem trabalha.
 
 ## Resumo
@@ -50,3 +48,7 @@ Informa que ele e **Kim Kataguiri**, líder do Partido Missão no Congresso, **i
 ## Fontes relacionadas
 
 - [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=jevS8LQhuNA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

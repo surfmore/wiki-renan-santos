@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=Zi69vl3_qHM"
 ---
 
-**Canal:** Renan Santos | **Data:** 7 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=Zi69vl3_qHM
-
 ---
 
 ## Resumo
@@ -41,3 +38,7 @@ Anuncia a data da manifestação para o mesmo vídeo: vai convocar no dia seguin
 - **Malu Gaspar** — jornalista autora da matéria
 - **Filho do Emílio Zurita** — organizador da operação de influenciadores
 - **Gabriela Priori** — influenciadora que defendeu o Banco Master publicamente
+
+---
+
+<a href="https://www.youtube.com/watch?v=Zi69vl3_qHM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

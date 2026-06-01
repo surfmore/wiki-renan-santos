@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=9T0T7KLBL3A)**
-
 Renan Santos presta homenagem a **Antônia Ioni Rodrigues da Silva**, mulher de 45 anos da cidade de **Saboeiro (CE)**, que se recusou a envenenar a comida da Polícia Militar do Ceará a pedido do **Comando Vermelho** e foi assassinada como represália.
 
 ## O caso
@@ -36,3 +34,7 @@ Renan anuncia que irá pessoalmente mandar construir um **busto** de Antônia Io
 ## Temas relacionados
 
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=9T0T7KLBL3A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=7pOid-uTYTk"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=7pOid-uTYTk)**
-
 Renan denuncia o caso de Coribe (BA), cidade de cerca de 15.000 habitantes com IDH extremamente baixo, onde o deputado federal **José Rocha** (União Brasil) usou **R$ 1 milhão do orçamento secreto** para construir uma estátua gigante e um parque no meio do nada.
 
 ## O caso
@@ -38,3 +36,7 @@ Renan faz um alerta: se o Nordeste continuar no estado atual, os estados do cent
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=7pOid-uTYTk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

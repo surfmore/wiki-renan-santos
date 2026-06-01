@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=Qlka5IYLrpg"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Qlka5IYLrpg)**
-
 Vídeo em que Renan usa o assassinato de três eletricistas na Bahia como ponto de partida para atacar a gestão de segurança pública do governador Jerônimo Rodrigues (PT) e do presidente Lula.
 
 ## O crime na Bahia
@@ -42,3 +40,7 @@ Renan convoca eleitores da Bahia e do Ceará a "entenderem o recado" e afirma qu
 - [[temas/Segurança Pública]]
 - [[pessoas/Jerônimo Rodrigues]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Qlka5IYLrpg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

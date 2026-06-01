@@ -9,8 +9,6 @@ fontes:
   - "2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso"
 ---
 
-**Canal:** Renan Santos | **Data:** 24/03/2026
-**URL:** https://www.youtube.com/watch?v=xI3WzYrydzs
 
 ## Resumo
 
@@ -31,3 +29,7 @@ Renan filma um debate de rua com uma cidadã que defende medidas educacionais e 
 ## Temas relacionados
 
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=xI3WzYrydzs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

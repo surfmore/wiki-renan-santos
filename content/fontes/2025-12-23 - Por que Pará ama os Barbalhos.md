@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=S1_W-Vrbl70"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=S1_W-Vrbl70)**
-
 Renan traça a genealogia da família Barbalho desde o período colonial até o governador atual, Hélder Barbalho, e usa o caso para questionar por que o Pará mantém uma das piores famílias do Brasil no poder há mais de um século.
 
 ## A árvore genealógica colonial
@@ -48,3 +46,7 @@ Renan anuncia: condicionar o envio de recursos federais ao Pará à melhoria cla
 - [[pessoas/Família Barbalho]]
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=S1_W-Vrbl70" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

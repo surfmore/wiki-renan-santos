@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=1Bo8yyvyEdM)**
-
 Renan Santos grava em Lajes (SC), em frente a uma estação ferroviária abandonada, para explicar como o desmonte da malha logística no estado encareceu a gasolina e como isso se conecta ao desequilíbrio do pacto federativo.
 
 ## A ferrovia desativada e o impacto no preço da gasolina
@@ -42,3 +40,7 @@ Renan retoma sua tese sobre o pacto federativo: Santa Catarina envia ao governo 
 - [[temas/Carga Tributária]]
 - [[posicoes/Reforma Fiscal]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=1Bo8yyvyEdM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

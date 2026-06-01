@@ -10,8 +10,6 @@ fontes:
   - "2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO"
 ---
 
-**Canal:** Renan Santos | **Data:** 24/03/2026
-**URL:** https://www.youtube.com/watch?v=df8lg2Ey_ew
 
 ## Resumo
 
@@ -39,3 +37,7 @@ Afirma que Ratinho é "só o primeiro dos governadores que estava envolvido ness
 - [[pessoas/Ratinho Júnior]]
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=df8lg2Ey_ew" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

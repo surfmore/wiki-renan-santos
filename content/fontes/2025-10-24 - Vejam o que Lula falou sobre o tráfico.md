@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=OdKZd8f5Xc0)**
-
 Renan Santos comenta uma declaração de Lula em que o presidente atribui a existência do tráfico de drogas à responsabilidade dos próprios usuários.
 
 ## A declaração de Lula
@@ -42,3 +40,7 @@ Renan promete que, se a Missão chegar ao poder, fará no **primeiro mês de gov
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=OdKZd8f5Xc0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

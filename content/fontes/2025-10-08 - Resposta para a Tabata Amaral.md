@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=wtxfmauiUeQ)**
-
 Renan Santos responde ao vídeo de **Tabata Amaral** sobre a polêmica em torno de casas na periferia que foram modificadas irregularmente pelos moradores ("puxadinhos"), usando o debate para apontar o que chama de duplo padrão da política progressista em relação à burocracia e à lei.
 
 ## A tese de Tabata
@@ -42,3 +40,7 @@ Renan aponta que Tabata votou **contra a lei de licenciamento ambiental** — qu
 
 - [[pessoas/Tabata Amaral]]
 - [[posicoes/Desfavelização do Rio de Janeiro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=wtxfmauiUeQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

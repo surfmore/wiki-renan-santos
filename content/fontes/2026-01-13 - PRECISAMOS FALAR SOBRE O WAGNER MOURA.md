@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=UqaKq0S2oog"
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=UqaKq0S2oog
-
 ---
 
 ## Resumo
@@ -34,3 +31,7 @@ Os aliados políticos de Moura — o PT — estão no governo, e os estados onde
 
 - Democracia exige ordem; democracia sem ordem "é só bagunça."
 - Arte financiada com dinheiro público não deve ser usada como instrumento político-ideológico.
+
+---
+
+<a href="https://www.youtube.com/watch?v=UqaKq0S2oog" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

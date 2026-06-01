@@ -12,8 +12,6 @@ tags:
   - propostas
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ENR_CJFmpQA)**
-
 Short em que Renan apresenta um pacote de 11 medidas (10 + bônus) para resolver o crime no Brasil e tornar o país "o lugar mais seguro das Américas".
 
 ## As medidas
@@ -44,3 +42,7 @@ Short em que Renan apresenta um pacote de 11 medidas (10 + bônus) para resolver
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ENR_CJFmpQA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

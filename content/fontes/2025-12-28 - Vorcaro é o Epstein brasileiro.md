@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=C07mM5z7vgo"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=C07mM5z7vgo)**
-
 Este vídeo representa um dos **primeiros registros públicos** da comparação entre Daniel Vorcaro e Jeffrey Epstein, feita por Renan em dezembro de 2025 — meses antes da prise de Vorcaro. Renan afirma que imagens e vídeos comprometedores de figuras do judiciário e da política brasileira estariam no celular de Vorcaro.
 
 ## A comparação com Epstein
@@ -37,3 +35,7 @@ Renan interpreta que a "operação abafa gigantesca" em torno do Banco Master se
 
 - [[eventos/Escândalo Banco Master]]
 - [[pessoas/Alexandre de Moraes]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=C07mM5z7vgo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

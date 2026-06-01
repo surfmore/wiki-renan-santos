@@ -31,3 +31,7 @@ Conclui que a lógica binária do eleitor médio ("se é do Lula, não pode esta
 ## Fonte
 URL: https://www.youtube.com/watch?v=oiuKDEla-R8
 Data: 2026-05-22
+
+---
+
+<a href="https://www.youtube.com/watch?v=oiuKDEla-R8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

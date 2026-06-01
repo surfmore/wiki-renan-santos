@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=9gO83892zvM"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=9gO83892zvM)**
-
 Vídeo de fim de ano em que Renan propõe um "teste" com parentes bolsonaristas ou petistas: perguntar sobre o Banco Master. A tese central é que tanto a direita bolsonarista quanto a esquerda petista mantêm um "pacto de silêncio" sobre o escândalo porque ambos os lados estão envolvidos.
 
 ## O silêncio da direita bolsonarista
@@ -40,3 +38,7 @@ Encerra desafiando os demais pré-candidatos a começar a falar: "ou são covard
 - [[pessoas/Flávio Bolsonaro]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=9gO83892zvM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

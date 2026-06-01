@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=Xczgtqvy5WU"
 ---
 
 **Data:** 17 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=Xczgtqvy5WU)
-
 ## Resumo
 
 Renan defende **Eduardo Bolsonaro** — mesmo sendo seu adversário — contra a condenação pelo STF por declaração feita em 2021 sobre a deputada **Tabata Amaral**.
@@ -38,3 +35,7 @@ Risco prático: além de pena de prisão, Eduardo pode perder direitos político
 - Eduardo Bolsonaro — deputado federal; condenado por Moraes
 - [[pessoas/Alexandre de Moraes]] — ministro do STF; votou pela condenação
 - [[pessoas/Tabata Amaral]] — deputada mencionada no caso
+
+---
+
+<a href="https://www.youtube.com/watch?v=Xczgtqvy5WU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

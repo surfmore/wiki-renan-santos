@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=qGlak1HKEXg)**
-
 Vídeo de campo filmado durante a ação de arrecadação e entrega de donativos a vítimas do desastre de Juiz de Fora (chuvas e deslizamentos de fevereiro/março de 2026).
 
 ## O episódio
@@ -31,3 +29,7 @@ Renan não acusa diretamente de impedimento formal, mas interpreta a atitude com
 - [[temas/Corrupção Municipal]]
 - [[fontes/2026-02-26 - MEU SENTIMENTOS A TODOS ATINGIDOS PELO DESASTRE DE JUIZ DE FORA]]
 - [[fontes/2026-02-27 - URGENTE - JUIZ DE FORA E UBÁ SOFREM COM DESASTRE]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=qGlak1HKEXg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

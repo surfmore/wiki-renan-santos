@@ -9,8 +9,6 @@ fontes:
 ---
 
 **Data:** 24 de maio de 2026
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=IlbX9Y-2xDA
 
 ## Resumo
 
@@ -45,3 +43,7 @@ Renan reage a imagens de um velório em **Dias d'Ávila**, subúrbio de Salvador
 ## Fontes
 
 - [[fontes/2026-05-25 - O PT destruiu a Bahia]] — vídeo do dia seguinte, gravado em Salvador, mesmo tema
+
+---
+
+<a href="https://www.youtube.com/watch?v=IlbX9Y-2xDA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

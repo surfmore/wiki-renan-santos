@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=pcSz3kqpYdg"
 ---
 
 **Data:** 20 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=pcSz3kqpYdg)
-
 ## Resumo
 
 Renan defende um adolescente que matou um invasor de domicílio em legítima defesa, criticando quem usou a posição de Renan sobre maioridade penal para questionar a defesa do garoto.
@@ -30,3 +27,7 @@ Em seu governo, afirma que a justiça estará "sempre ao lado das pessoas que es
 
 - [[temas/Segurança Pública]] — legítima defesa, invasão de domicílio
 - [[posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos]] — legítima defesa é independente da maioridade penal
+
+---
+
+<a href="https://www.youtube.com/watch?v=pcSz3kqpYdg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

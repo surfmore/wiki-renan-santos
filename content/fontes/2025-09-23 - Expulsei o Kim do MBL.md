@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=OzfblZP_EeE)**
-
 Vídeo satírico em que Renan Santos anuncia ironicamente ter "expulsado" Kim Kataguiri do MBL — por Kim ser tão produtivo que envergonha os demais.
 
 ## A semana de Kim documentada por Renan
@@ -34,3 +32,7 @@ Renan encerra com uma promessa:
 ## Pessoas relacionadas
 
 - [[pessoas/Kim Kataguiri]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=OzfblZP_EeE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

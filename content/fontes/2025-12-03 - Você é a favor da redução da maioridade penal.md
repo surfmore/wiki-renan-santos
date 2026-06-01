@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=Jz-eR08WxW4"
 ---
 
 **Data:** 3 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=Jz-eR08WxW4
-
 ## Resumo
 
 Motivado pela soltura do autor do **massacre de Aracruz (ES)** — que tinha 16 anos na época do crime —, Renan expõe as que considera as duas falhas legislativas centrais da resposta brasileira à violência: a legislação de menores e a política antimanicomial. Anuncia duas mudanças que implementaria se eleito.
@@ -46,3 +43,7 @@ Renan questiona a lógica: "Se ele tirou a vida de alguém, ele tem que pagar o 
 - [[temas/Segurança Pública]]
 - [[posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos]]
 - [[pessoas/Kim Kataguiri]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Jz-eR08WxW4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

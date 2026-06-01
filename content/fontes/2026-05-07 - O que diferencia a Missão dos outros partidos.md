@@ -8,7 +8,6 @@ fontes:
   - "2026-05-07 - O que diferencia a Missão dos outros partidos"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=bivrrREmS44) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -26,3 +25,7 @@ O argumento emocional central: trair o Missão seria trair as pessoas que coleta
 ## Fontes
 
 - [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=bivrrREmS44" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

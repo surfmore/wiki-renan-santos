@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=ypnNxaEuTjI"
 ---
 
-**Data:** 17 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=ypnNxaEuTjI)**
-
 ## Resumo
 
 Renan entra em um **presídio abandonado em Pernambuco** e documenta o que encontra nas celas. O vídeo é um registro visual direto para rebater a narrativa oficial de que o sistema penal investe em "ressocialização".
@@ -28,3 +26,7 @@ A crítica é direta: "Você paga por uma ressocialização que é, na verdade, 
 ## Posições defendidas
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — implícita: o conforto nos presídios contradiz a proposta de encarceramento duro
+
+---
+
+<a href="https://www.youtube.com/watch?v=ypnNxaEuTjI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

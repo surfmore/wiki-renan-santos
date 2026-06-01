@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=zV-WOwdb2nc"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=zV-WOwdb2nc)**
-
 Renan Santos responde à onda de cancelamentos de veículos de imprensa após o episódio em que jogou sal na casa onde Lula nasceu em Garanhuns (PE) — ato simbólico para que "nunca mais nasça outro Lula naquele lugar". Renan nega que foi "lacração" e apresenta seis propostas concretas para tornar o PT eleitoralmente irrelevante.
 
 ## A reação da mídia
@@ -49,3 +47,7 @@ A esquerda brasileira, segundo Renan, "em grande medida só existe porque muito 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=zV-WOwdb2nc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

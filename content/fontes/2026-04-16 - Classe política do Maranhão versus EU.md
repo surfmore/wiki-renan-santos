@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=aSiaXOLdaW8"
 ---
 
 **Data:** 16 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=aSiaXOLdaW8)
-
 ## Resumo
 
 O deputado federal **Iildo Rocha** convocou uma sessão no Congresso Nacional para emitir nota de repúdio contra Renan Santos após ele ter chamado o bairro Coroadinho (São Luís, MA) de "filial do inferno." A classe política do Maranhão se uniu para criticá-lo.
@@ -31,3 +28,7 @@ Dado apresentado: Maranhão tem **15% de analfabetismo**, é o estado mais benef
 
 - Iildo Rocha — deputado federal do Maranhão; liderou nota de repúdio
 - Braide — prefeito de São Luís; mencionado como aliado de Rocha e candidato a governador
+
+---
+
+<a href="https://www.youtube.com/watch?v=aSiaXOLdaW8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

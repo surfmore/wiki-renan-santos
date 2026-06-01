@@ -12,8 +12,6 @@ fontes:
   - "2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=yZsZmCB58pY)**
-
 Renan comenta propaganda oficial do governo Lula que afirmava que quem ganha mais de R$ 5 mil por mês não tem opinião que importe — a propaganda foi removida após repercussão negativa.
 
 ## A propaganda
@@ -36,3 +34,7 @@ Afirma que só ajudará quem precisa se mantiver quem trabalha produtivo e feliz
 
 - [[temas/Empobrecimento e Mercado de Trabalho]] — trabalhador como alvo da política do PT
 - [[temas/Carga Tributária]] — trabalhador paga os programas que o excluem
+
+---
+
+<a href="https://www.youtube.com/watch?v=yZsZmCB58pY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,8 +13,6 @@ tags:
   - crime-organizado
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=qGVIcyVAjIo)**
-
 Renan defende que **25 milhões de brasileiros estão presos na mão do crime organizado** e propõe uma resposta que vai além das polícias estaduais.
 
 ## O argumento central
@@ -41,3 +39,7 @@ Renan critica a **ressocialização** como foco central do direito penal, propon
 ## Posições
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=qGVIcyVAjIo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

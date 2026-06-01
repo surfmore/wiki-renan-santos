@@ -9,7 +9,6 @@ fontes:
   - "2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele"
 ---
 
-**Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=bQu6AP57lBs)
 
 ## Resumo
 
@@ -46,3 +45,7 @@ Analogia com Milei: falar a verdade sobre remédio amargo no curto prazo para me
 ## Fontes
 
 - [[fontes/2026-04-29 - FLÁVIO É FRACO]] — Flávio admite não ter articulado contra Messias
+
+---
+
+<a href="https://www.youtube.com/watch?v=bQu6AP57lBs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

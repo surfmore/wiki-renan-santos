@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=BH-TMaBJHIk"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=BH-TMaBJHIk)**
-
 Renan Santos usa um episódio envolvendo o youtuber **Richard Rasmussen** como metáfora para o que descreve como o padrão estrutural do Estado brasileiro: punir os honestos e proteger os desonestos.
 
 ## O episódio de Rasmussen
@@ -46,3 +44,7 @@ Alerta contra a tentação de aderir ao projeto de maioria (Lula, Flávio Bolson
 - [[temas/Corrupção Municipal]] — padrão de punir pequenos e proteger grandes
 - [[temas/Mídia e Imprensa]] — Rasmussen como exemplo de quem mostra realidade concreta
 - [[temas/Crítica à Direita Tradicional]] — crítica implícita ao bolsonarismo como projeto de maioria
+
+---
+
+<a href="https://www.youtube.com/watch?v=BH-TMaBJHIk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

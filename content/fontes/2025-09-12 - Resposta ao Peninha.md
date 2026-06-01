@@ -13,8 +13,6 @@ tags:
   - eduardo-bueno
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=pKnpIAahgz4)**
-
 Renan responde a **Eduardo Bueno**, o "Peninha", historiador e dono do canal "Buenas Ideias", que zombou da morte de Charlie Kirk e das filhas do ativista americano.
 
 ## O episódio
@@ -40,3 +38,7 @@ Reforça que o discurso odioso de Bueno "já cometeu inclusive contra o MBL" no 
 ## Eventos
 
 - [[eventos/Morte de Charlie Kirk - Setembro de 2025]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=pKnpIAahgz4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

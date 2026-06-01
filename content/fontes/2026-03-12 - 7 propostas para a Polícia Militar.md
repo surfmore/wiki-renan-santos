@@ -9,7 +9,6 @@ fontes:
   - "2026-03-12 - 7 propostas para a Polícia Militar"
 ---
 
-**Canal:** Renan Santos | **Data:** 12 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=3Q1oZt5mWxI)
 
 ## Resumo
 
@@ -33,3 +32,7 @@ Renan apresenta sete propostas voltadas especificamente para a categoria dos pol
 
 - [[posicoes/Propostas para Polícia Militar]] — versão completa das 7 propostas
 - [[temas/Segurança Pública]] — condições de trabalho policial; excludente de ilicitude
+
+---
+
+<a href="https://www.youtube.com/watch?v=3Q1oZt5mWxI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

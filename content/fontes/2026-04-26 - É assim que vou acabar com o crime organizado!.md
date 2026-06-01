@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=sPMdF36CaZE"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=sPMdF36CaZE)**
-
 Entrevista em que Renan explica o mecanismo de seu plano de combate ao crime organizado, com foco no papel dos governadores estaduais.
 
 ## Conteúdo
@@ -32,3 +30,7 @@ Renan identifica Ceará e Bahia como os casos mais urgentes, afirmando que a sit
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[pessoas/Jerônimo Rodrigues]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=sPMdF36CaZE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

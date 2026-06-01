@@ -32,3 +32,7 @@ Usa a situação pessoal de atraso para criar empatia com caminhoneiros, famíli
 ## Posição de Renan como candidato
 
 Renan reforça que não tem estrutura de financiamento dos adversários (sem jatinho, sem Vorcaro, sem super doadores) e que isso o expõe às mesmas dificuldades enfrentadas por qualquer cidadão brasileiro.
+
+---
+
+<a href="https://www.youtube.com/watch?v=Q-BSgjINs6s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,8 +13,6 @@ tags:
   - moraes
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=eXQdnSTpWx8)**
-
 Short de urgência gravado durante o carnaval de 2026, sobre decisão do STF de tornar públicos dados de funcionários da Receita Federal.
 
 ## O que aconteceu
@@ -44,3 +42,7 @@ A "linha condutora" de tudo, segundo Renan, é o escândalo do Banco Master — 
 
 - [[temas/STF e Ativismo Judicial]]
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=eXQdnSTpWx8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

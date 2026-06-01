@@ -10,8 +10,6 @@ fontes:
   - "2025-11-19 - Resposta para a humorista alemã"
 ---
 
-**Canal:** Renan Santos | **Data:** 19 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=rq9R9qwaZDY
 
 ## Resumo
 
@@ -33,3 +31,7 @@ A conclusão é a afirmação de uma aspiração nacional: **"Eu quero concorrer
 - [[temas/Imigração e Fronteiras]]
 - [[temas/Mídia e Imprensa]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=rq9R9qwaZDY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -9,7 +9,6 @@ fontes:
   - "2026-04-28 - Pena de morte no Brasil"
 ---
 
-**Canal:** Renan Santos | **Data:** 28/04/2026 | [YouTube](https://www.youtube.com/watch?v=hvseJb8iBTQ)
 
 ## Resumo
 
@@ -33,3 +32,7 @@ O foco central é a **reocupação do território**. Renan descreve como sintom�
 - Pena de morte: não pode implementar com a constituição atual (cláusula pétrea); debate possível numa constituinte futura
 - De imediato: aumentar muito as penas
 - Reocupação do território como dever constitucional do Estado — o crime não tem direito de controlar territórios brasileiros
+
+---
+
+<a href="https://www.youtube.com/watch?v=hvseJb8iBTQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

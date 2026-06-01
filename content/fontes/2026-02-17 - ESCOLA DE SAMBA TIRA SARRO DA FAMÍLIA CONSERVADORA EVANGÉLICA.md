@@ -13,8 +13,6 @@ tags:
   - pautas-identitárias
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=bJH7sG2z1nM)**
-
 Short em defesa dos evangélicos humilhados no desfile pró-Lula de 2026.
 
 ## Posição de Renan
@@ -41,3 +39,7 @@ A esquerda não critica lideranças evangélicas que cometem erros — ao contr�
 
 - [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]]
 - [[temas/Pautas Identitárias e de Gênero]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=bJH7sG2z1nM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

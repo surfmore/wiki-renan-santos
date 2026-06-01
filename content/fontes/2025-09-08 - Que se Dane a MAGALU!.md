@@ -13,8 +13,6 @@ tags:
   - magazine-luiza
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=zN3L6P_5USA)**
-
 Renan comenta notícia de que a **"taxa das blusinhas"** (alíquota de 20% sobre compras internacionais de até US$50, aprovada em junho de 2024) arrecadou quatro vezes menos que o previsto e reduziu o consumo de 14 milhões de brasileiros.
 
 ## Argumento
@@ -31,3 +29,7 @@ Afirma possuir ações do Magazine Luiza e diz que "o problema é seu" — sinal
 
 - [[temas/Carga Tributária]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=zN3L6P_5USA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

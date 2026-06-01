@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=uNidTJKvC2o)**
-
 Em viagem aos **Estados Unidos**, Renan Santos conta sobre a reação de americanos ao escândalo do **sindicato do irmão de Lula**, que teria desviado **R$ 400 milhões** do INSS.
 
 ## O escândalo
@@ -36,3 +34,7 @@ Renan pondera que, embora tenha sido o próprio STF que ordenou a operação pol
 
 - [[temas/Corrupção Municipal]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=uNidTJKvC2o" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=Z6BHtzE5fQw"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Z6BHtzE5fQw)**
-
 Renan visita **Santa Cruz (RN)**, na região do agreste, para mostrar um teleférico inacabado como exemplo de desvio sistemático de recursos federais em municípios do interior.
 
 ## O teleférico que não funciona
@@ -41,3 +39,7 @@ Renan defende que cidades com histórico de má gestão e desvio devem ser subme
 - [[temas/Corrupção Municipal]]
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Z6BHtzE5fQw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

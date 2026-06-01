@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=GBtfyBxlvog"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=GBtfyBxlvog)**
-
 Vídeo publicado no dia seguinte à manifestação de **22 de janeiro de 2026** na sede do Banco Master. Renan comenta a primeira reação pública de Lula ao escândalo.
 
 ## A reação de Lula
@@ -43,3 +41,7 @@ Renan lembra que as manifestações de 2013 derrubaram a popularidade de Dilma e
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=GBtfyBxlvog" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

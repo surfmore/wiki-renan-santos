@@ -36,3 +36,7 @@ Relaciona a Ferrogrão a outros casos em que, segundo ele, o mesmo bloqueio ambi
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=JdTxMs9YOtk
+
+---
+
+<a href="https://www.youtube.com/watch?v=JdTxMs9YOtk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

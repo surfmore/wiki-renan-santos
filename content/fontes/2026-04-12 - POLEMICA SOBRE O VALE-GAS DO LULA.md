@@ -23,3 +23,7 @@ Sustenta que o aumento de imposto é feito "quietinho", sem propaganda, e por is
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=c4e0JYq99Lo
+
+---
+
+<a href="https://www.youtube.com/watch?v=c4e0JYq99Lo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

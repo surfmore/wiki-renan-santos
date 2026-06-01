@@ -26,3 +26,7 @@ Afirma que a cadeia perversa da política do centrão existe porque os brasileir
 ## Fonte
 URL: https://www.youtube.com/watch?v=urG92lgRYvM
 Data: 2026-05-21
+
+---
+
+<a href="https://www.youtube.com/watch?v=urG92lgRYvM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

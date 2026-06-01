@@ -26,3 +26,7 @@ Renan propõe três medidas: (1) fim da autonomia universitária e vinculação 
 ## Fonte
 URL: https://www.youtube.com/watch?v=RA9C1wlmNgs
 Data: 2026-05-13
+
+---
+
+<a href="https://www.youtube.com/watch?v=RA9C1wlmNgs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

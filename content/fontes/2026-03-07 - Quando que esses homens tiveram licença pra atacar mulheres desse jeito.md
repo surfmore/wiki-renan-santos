@@ -37,4 +37,6 @@ Renan deixa explícito que não tem problema com a orientação sexual do jornal
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=dxBFifqxepo](https://www.youtube.com/watch?v=dxBFifqxepo)
+---
+
+<a href="https://www.youtube.com/watch?v=dxBFifqxepo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

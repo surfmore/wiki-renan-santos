@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=SIEUn46epvM"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=SIEUn46epvM)**
-
 Renan usa o escândalo de Turilândia (MA) para aprofundar sua proposta de fusão de municípios e intervenção federal em cidades inviáveis.
 
 ## O caso Turilândia
@@ -42,3 +40,7 @@ Para Renan, quando a população não tem condições de avaliar como é adminis
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=SIEUn46epvM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

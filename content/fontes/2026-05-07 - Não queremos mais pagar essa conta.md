@@ -8,7 +8,6 @@ fontes:
   - "2026-05-07 - Não queremos mais pagar essa conta"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=LRqvh8f0V6E) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -27,3 +26,7 @@ Encerra com a proposta do Partido Missão como resposta: o nome "Missão" pressu
 ## Fontes
 
 - [[fontes/2026-05-07 - Não queremos mais pagar essa conta]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=LRqvh8f0V6E" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

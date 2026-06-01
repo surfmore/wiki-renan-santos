@@ -25,3 +25,7 @@ Declara-se **contrário à lei da misoginia** — que equipararia discussões a 
 ## Fonte
 URL: https://www.youtube.com/watch?v=2dut4M8goeU
 Data: 2026-05-21
+
+---
+
+<a href="https://www.youtube.com/watch?v=2dut4M8goeU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

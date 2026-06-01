@@ -10,8 +10,6 @@ url: "https://www.youtube.com/watch?v=h_qD6CMTbP4"
 tipo: short
 ---
 
-**Data:** 3 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=h_qD6CMTbP4)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -37,3 +35,7 @@ Renan diz ter três recados para quem o ameaça:
 3. Contrasta com a postura de Flávio Bolsonaro, que interpretou erroneamente uma frase de Renan como ameaça de morte e reagiu com preocupação: "nós não somos o Flávio Bolsonaro".
 
 > "Vagabundo que gosta de se esconder na internet tem muito medo da exposição. E a exposição faz mal para eles."
+
+---
+
+<a href="https://www.youtube.com/watch?v=h_qD6CMTbP4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

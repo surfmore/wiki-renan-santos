@@ -23,3 +23,7 @@ Renan compara a estratégia com tentativas similares de brecar Trump nos EUA, Mi
 
 - [[temas/Mídia e Imprensa]]
 - [[temas/Partido Missão]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=T54vfuawL6o" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=6uUKk-7KNfQ"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=6uUKk-7KNfQ)**
-
 Renan usa a queda do regime de Maduro na Venezuela — conseguida por Trump sem respeitar organismos internacionais — como argumento para a política interna de segurança pública. O raciocínio é paralelo: assim como a Venezuela só foi "resolvida" pela força, o crime organizado no Brasil só será derrotado da mesma forma.
 
 ## A esquerda quer que nada mude
@@ -35,3 +33,7 @@ O vídeo é marcado por linguagem incomum para o formato político convencional.
 - [[temas/Segurança Pública]]
 - [[temas/Política Externa e Geopolítica]]
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=6uUKk-7KNfQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=sTm4DxVCXpE)**
-
 Em trecho de entrevista, Renan Santos apresenta sua visão sobre defesa nacional e geopolítica em um cenário internacional em que, segundo ele, **o Brasil não tem defesa aérea** e está no meio do conflito entre EUA e China.
 
 ## Diagnóstico: Brasil sem defesa aérea
@@ -47,3 +45,7 @@ A referência implícita é a **[[pessoas/Flávio Bolsonaro]]** (defesa de Bolso
 - [[temas/Programa Nuclear Brasileiro]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
 - [[temas/Política Externa e Geopolítica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=sTm4DxVCXpE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

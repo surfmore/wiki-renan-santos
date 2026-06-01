@@ -14,9 +14,6 @@ tipo: "short"
 ---
 
 **Data:** 28 de maio de 2026
-**Canal:** Renan Santos
-**URL:** https://www.youtube.com/watch?v=kBFetGTLTnU
-
 ## Resumo
 
 Renan visita um presídio na Bahia onde surgiu o **BDM (Bonde dos Malucos)**, a principal facção do estado. A notícia central: descobriu-se, após uma fuga organizada pelo BDM, que o interior do presídio havia sido transformado em **hotel de luxo** — com espaços comercializados por faccionados que mantinham "status especial" dentro da unidade.
@@ -42,3 +39,7 @@ Proposta direta: se o povo da Bahia eleger novamente um governador do PT, Renan 
 ## Temas
 
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=kBFetGTLTnU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

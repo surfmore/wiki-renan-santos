@@ -10,7 +10,6 @@ fontes:
   - "2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA..."
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=HovZVOAjtWs)
 
 ## Resumo
 
@@ -32,3 +31,7 @@ Renan lista o padrão histórico de Flávio: acabou com a CPI da Lavatoga, se op
 - [[pessoas/Flávio Bolsonaro]] — sabotagem da CPI de Alessandro Vieira
 - **Alessandro Vieira** — senador autor da CPI contra ministros do STF
 - **Ciro Nogueira** — lobista do Banco Master, nome defendido por Flávio
+
+---
+
+<a href="https://www.youtube.com/watch?v=HovZVOAjtWs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

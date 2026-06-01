@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=mgtpXOgBb8s"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=mgtpXOgBb8s)**
-
 Renan Santos responde ao pastor **André Valadão**, que ameaçou processá-lo por "calúnia, difamação e falsas acusações" relacionadas à Igreja Lagoinha.
 
 ## O que Valadão disse
@@ -43,3 +41,7 @@ Renan afirma que onde houver gente como Valadão, ele estará "do lado contrári
 - [[eventos/Escândalo Banco Master]]
 - [[pessoas/André Valadão]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=mgtpXOgBb8s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

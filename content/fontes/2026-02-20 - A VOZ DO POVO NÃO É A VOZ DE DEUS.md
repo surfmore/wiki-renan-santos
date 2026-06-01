@@ -10,7 +10,6 @@ fontes:
   - "2026-02-20 - A VOZ DO POVO NÃO É A VOZ DE DEUS"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=JfZ1J5zkZ7k) · Canal Renan Santos · Short · 20/02/2026
 
 ## Resumo
 
@@ -33,3 +32,7 @@ O interlocutor levanta uma objeção: os próprios políticos que deveriam votar
 
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=JfZ1J5zkZ7k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

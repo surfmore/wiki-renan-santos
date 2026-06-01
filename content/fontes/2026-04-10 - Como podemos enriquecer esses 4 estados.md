@@ -34,6 +34,6 @@ Encerra convocando os maranhenses a "ter orgulho" do que o estado pode ser e "ra
 - [[temas/Agronegócio e Matopiba]]
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=3NMEQvGX2kM)
+<a href="https://www.youtube.com/watch?v=3NMEQvGX2kM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

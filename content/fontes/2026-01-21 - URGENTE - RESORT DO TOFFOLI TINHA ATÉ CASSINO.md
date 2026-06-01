@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=zjUV9Xdi2kM"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=zjUV9Xdi2kM)**
-
 **Primeiro vídeo de Renan Santos** detalhando a conexão entre Dias Toffoli e o Banco Master via resort no Paraná — o que mais tarde ficou conhecido como o **Resort Tayaya**. Este vídeo data de 21 de janeiro de 2026, semanas antes das reportagens de fevereiro e das visitas presenciais de março.
 
 ## O que Renan revela
@@ -40,3 +38,7 @@ Este vídeo é cronologicamente **anterior** à série de reportagens detalhadas
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=zjUV9Xdi2kM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

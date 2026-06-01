@@ -38,4 +38,6 @@ A favela Campo Belo serve como "vetor para criminosos que se espalham para Vinhe
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=rOL7S_5Y8qY](https://www.youtube.com/watch?v=rOL7S_5Y8qY)
+---
+
+<a href="https://www.youtube.com/watch?v=rOL7S_5Y8qY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

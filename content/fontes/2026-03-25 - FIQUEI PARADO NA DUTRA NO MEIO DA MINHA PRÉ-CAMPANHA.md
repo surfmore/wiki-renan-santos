@@ -9,8 +9,6 @@ fontes:
   - "2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA"
 ---
 
-**Canal:** Renan Santos | **Data:** 25/03/2026
-**URL:** https://www.youtube.com/watch?v=Wn8d9xjghZM
 
 ## Resumo
 
@@ -35,3 +33,7 @@ Renan ressalta: "Sou o único pré-candidato à presidência que está fazendo a
 
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[temas/Carga Tributária]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Wn8d9xjghZM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

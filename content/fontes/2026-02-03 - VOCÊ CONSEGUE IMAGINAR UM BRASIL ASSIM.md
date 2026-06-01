@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=3T1eCBhPxjM"
 tipo: short
 ---
 
-**Data:** 3 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=3T1eCBhPxjM)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -51,3 +49,7 @@ Prefeito que distribuir emendas sem prestação de contas irá preso por **20 a 
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=3T1eCBhPxjM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

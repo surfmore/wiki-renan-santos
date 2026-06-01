@@ -8,8 +8,6 @@ fontes:
   - "2025-10-30 - QUEM TROCA TIRO COM A POLÍCIA MERECE O QUE"
 ---
 
-**Canal:** Renan Santos | **Data:** 30 de outubro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=n2exFEqWfnk
 
 ## Resumo
 
@@ -25,3 +23,7 @@ Para ele, alguém disposto a trocar tiros com a polícia colocando vidas em risc
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=n2exFEqWfnk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

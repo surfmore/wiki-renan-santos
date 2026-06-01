@@ -13,8 +13,6 @@ tags:
   - favela
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=PKBLGae-IcM)**
-
 Gravado na **favela do Coroadinho**, em São Luís (MA). Renan descreve as condições da região e anuncia ter recebido ameaças após vídeo anterior em que chamou o bairro de "filial do inferno."
 
 ## Conteúdo
@@ -41,3 +39,7 @@ Renan apresenta dois cenários: se seu pré-candidato ao governo estadual (Parti
 
 - **Eduardo Braide** — prefeito de São Luís (MA); alvo de crítica por negligência e ambição política
 - **Brandão** — ex-governador do MA; política de continuidade criticada
+
+---
+
+<a href="https://www.youtube.com/watch?v=PKBLGae-IcM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

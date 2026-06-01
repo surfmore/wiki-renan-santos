@@ -35,3 +35,7 @@ Reitera sua posição: total apoio a pais de autistas reais; total rejeição a 
 
 URL: https://www.youtube.com/watch?v=DdVxI5vK-qY
 Data: 2026-05-10
+
+---
+
+<a href="https://www.youtube.com/watch?v=DdVxI5vK-qY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

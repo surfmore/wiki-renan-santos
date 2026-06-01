@@ -29,3 +29,7 @@ Contraponto pessoal: Renan afirma que o Partido Missão tem funcionários com TE
 ## Fonte
 URL: https://www.youtube.com/watch?v=V9t4vf10aa8
 Data: 2026-05-15
+
+---
+
+<a href="https://www.youtube.com/watch?v=V9t4vf10aa8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

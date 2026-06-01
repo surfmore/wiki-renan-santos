@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=dLWwBgto-WQ)**
-
 Renan Santos reage ao fato de Nikolas Ferreira ter elogiado no Instagram o rapper **"Pose do Rodo"**, identificado por Renan como membro do Comando Vermelho.
 
 ## O episódio
@@ -37,3 +35,7 @@ Renan compara Nikolas a uma influenciadora ("igual a Virgínia"), mais interessa
 - [[pessoas/Nikolas Ferreira]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=dLWwBgto-WQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

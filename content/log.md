@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-01] ingest | Frei Gilson é um Red Pill (ingest automático)
+- Fonte criada: fontes/2026-06-01 - Frei Gilson é um Red Pill
+- Páginas criadas: pessoas/Frei Gilson, pessoas/André Mendonça, temas/Liberdade Religiosa, posicoes/Nomeação de Ministro Católico para o STF
+- Páginas atualizadas: posicoes/Expulsão de ONGs Estrangeiras, index.md, log.md, wiki/.processed_ids
+
 ## [2026-06-01] ingest | 4 vídeos de 31/maio/2026 (ingest automático)
 - Fontes criadas: fontes/2026-05-31 - O Brasil começou ali, fontes/2026-05-31 - Parabéns, brasileiros! Você trabalhou até aqui apenas para pagar impostos!, fontes/2026-05-31 - Urgente o que está acontecendo na Colômbia, fontes/2026-05-31 - Índio traficante, roubo de terra-rara e destruição da história do Brasil
 - Páginas atualizadas: index.md, log.md
@@ -1212,9 +1217,4 @@
 - posicoes/Proposta para Caminhoneiros
 
 **Páginas atualizadas (7):**
-- temas/Segurança Pública (BOPE 6 medidas, progressão penal, Bukele)
-- temas/Crítica à Direita Tradicional (PL misoginia, Ratinho Jr., Flávio=João Campos)
-- temas/Infraestrutura e Estradas no Maranhão (Dutra, TO-MA análise anterior, caminhoneiros)
-- temas/Corrupção Municipal (Wesley Safadão + Júnior Mano)
-- eventos/Escândalo Banco Master (Vorcaro em preparação 23/3, Banco Digima, Ratinho Jr.)
-- posicoes/Fusão de Municípios (Taub
+- temas/Segurança Pública (BOPE 6 medidas, progressão penal,

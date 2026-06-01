@@ -44,3 +44,7 @@ A proposta é combinar reforma fiscal com plano nacional de desfavelização par
 ## Fonte
 URL: https://www.youtube.com/watch?v=h_Ulw1Egi4Q
 Data: 2026-05-18
+
+---
+
+<a href="https://www.youtube.com/watch?v=h_Ulw1Egi4Q" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

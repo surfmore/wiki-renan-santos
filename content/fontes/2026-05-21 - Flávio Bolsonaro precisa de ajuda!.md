@@ -24,3 +24,7 @@ Encerra com apelo direto ao eleitor: a candidatura do Partido Missão não está
 ## Fonte
 URL: https://www.youtube.com/watch?v=14Wi6Bub4kc
 Data: 2026-05-21
+
+---
+
+<a href="https://www.youtube.com/watch?v=14Wi6Bub4kc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

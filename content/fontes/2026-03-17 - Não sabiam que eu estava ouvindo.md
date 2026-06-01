@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=tXpSvgNN9wM"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=tXpSvgNN9wM)**
-
 Vídeo de interação espontânea de rua em que Renan Santos, não identificado inicialmente, ouve um grupo de pessoas discutindo política e depois se revela como o pré-candidato às propostas que eles acabavam de elogiar.
 
 ## Resumo
@@ -48,3 +46,7 @@ O empresário reage positivamente e diz que vai votar nele.
 ## Fontes relacionadas
 
 - [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=tXpSvgNN9wM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=kTi5ZnIe4Kk)**
-
 Renan Santos reage à aprovação da **PEC da Blindagem** com voto favorável de Nikolas Ferreira — projeto que, segundo Renan, cria um passe livre para corruptos no Congresso.
 
 ## O que é a PEC da Blindagem
@@ -42,3 +40,7 @@ Kim Kataguiri foi o **único deputado de direita a votar contra e a discursar no
 - [[pessoas/Kim Kataguiri]]
 - [[eventos/PEC da Blindagem — Setembro de 2025]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=kTi5ZnIe4Kk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

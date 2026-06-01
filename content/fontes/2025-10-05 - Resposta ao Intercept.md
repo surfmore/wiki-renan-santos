@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=CL8oc6ScBtw)**
-
 Renan Santos responde ao site **Intercept**, que publicou depoimento de moradores de uma favela que havia sido reurbanizada e voltou a ser invadida irregularmente — o mesmo episódio que gerou o vídeo sobre a refavelização em Diadema.
 
 ## A moradora do Intercept e o argumento de Renan
@@ -39,3 +37,7 @@ Renan reitera o programa:
 ## Posições relacionadas
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=CL8oc6ScBtw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

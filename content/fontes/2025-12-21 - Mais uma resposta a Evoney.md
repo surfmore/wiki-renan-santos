@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=VdXr5sXcr9Q"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=VdXr5sXcr9Q)**
-
 Renan responde ao cantor Evoney Fernandes, que havia atacado sua proposta de fusão de Tocantins com Goiás, revelando dados sobre o envolvimento de Evoney em irregularidades com dinheiro público.
 
 ## O contexto da briga
@@ -42,3 +40,7 @@ Para quem defende Evoney no Tocantins, Renan é direto: "Se você é do Tocantin
 
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=VdXr5sXcr9Q" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -35,3 +35,7 @@ Renan não se preocupa com a apropriação do bordão por outros políticos: *"S
 
 URL: https://www.youtube.com/watch?v=S3SdwMbXBkU
 Data: 2026-05-12
+
+---
+
+<a href="https://www.youtube.com/watch?v=S3SdwMbXBkU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -9,7 +9,6 @@ fontes:
   - "2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=HLKbjsZRo5k) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo
 
@@ -29,3 +28,7 @@ Renan conclui que, num país pobre com baixa produtividade, reduzir a jornada se
 ## Posições defendidas
 
 - [[posicoes/Reforma Fiscal]] — reduzir gasto público para baixar juros e liberar investimento privado
+
+---
+
+<a href="https://www.youtube.com/watch?v=HLKbjsZRo5k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

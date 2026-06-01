@@ -12,7 +12,6 @@ fontes:
   - "2026-02-22 - 6 PROPOSTAS QUE VÃO FAZER O BRASIL VIRAR UM LUGAR DE PRIMEIRO MUNDO"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=aBV8Y-t5-R0) · Canal Renan Santos · Short · 22/02/2026
 
 ## Resumo
 
@@ -44,3 +43,7 @@ Em formato de entrevista, Renan apresenta de forma sintética seis grandes área
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=aBV8Y-t5-R0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

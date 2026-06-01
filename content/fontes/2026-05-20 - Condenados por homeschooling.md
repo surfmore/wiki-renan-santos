@@ -48,3 +48,7 @@ Renan declara apoio à regulamentação do homeschooling e defende punições pa
 ## Fonte
 URL: https://www.youtube.com/watch?v=CHnzcNUNN7I
 Data: 2026-05-20
+
+---
+
+<a href="https://www.youtube.com/watch?v=CHnzcNUNN7I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

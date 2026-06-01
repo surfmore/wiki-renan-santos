@@ -29,3 +29,7 @@ Renan anuncia que, como presidente, colocaria **toda a região da Baixada Santis
 ## Fonte
 URL: https://www.youtube.com/watch?v=EwrcgSYGpwY
 Data: 2026-05-23
+
+---
+
+<a href="https://www.youtube.com/watch?v=EwrcgSYGpwY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

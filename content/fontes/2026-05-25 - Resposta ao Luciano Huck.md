@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=-hQvE1_fuU8"
 tipo: short
 ---
 
-**Data:** 25 de maio de 2026 | **Canal:** Renan Santos | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=-hQvE1_fuU8
-
 ## Resumo
 
 Renan elogia falas recentes de Luciano Huck sobre o Bolsa Família — que teriam sido "absolutamente sensatas" — e usa o espaço para reafirmar sua própria posição sobre o tema e propor cinco medidas concretas.
@@ -58,3 +55,7 @@ Em resposta ao diagnóstico de Huck, Renan enuncia cinco medidas:
 - [[temas/Desigualdade Regional e Migração Interna]] — Nordeste com 40%+ dos domicílios no BF
 - [[posicoes/Frente de Trabalho para o Bolsa Família]] — proposta de frentes de trabalho
 - [[posicoes/Reforma Fiscal]] — redução de impostos como saída do assistencialismo
+
+---
+
+<a href="https://www.youtube.com/watch?v=-hQvE1_fuU8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

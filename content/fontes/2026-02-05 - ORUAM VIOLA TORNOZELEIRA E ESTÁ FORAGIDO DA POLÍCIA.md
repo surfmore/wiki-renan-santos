@@ -10,8 +10,6 @@ url: "https://www.youtube.com/watch?v=qtEX8IzOqNg"
 tipo: short
 ---
 
-**Data:** 5 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=qtEX8IzOqNg)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -39,3 +37,7 @@ Renan aproveita o episódio para reiterar sua proposta de **estado de defesa**: 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[pessoas/Oruam]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=qtEX8IzOqNg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

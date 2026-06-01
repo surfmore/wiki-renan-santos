@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=YQ9SlDxB08Y"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=YQ9SlDxB08Y)**
-
 Renan reage ao protesto de artistas contra sua cobertura do Coroadinho (São Luís, MA) — que fizeram grafites no local — e reitera que nada mudou nas condições reais do bairro.
 
 ## Conteúdo
@@ -39,3 +37,7 @@ Diz que a motivação dos políticos para cuidar das cidades mudará quando soub
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=YQ9SlDxB08Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

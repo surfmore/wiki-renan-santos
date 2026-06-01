@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=IrK3OJ0oIKs"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=IrK3OJ0oIKs)**
-
 Renan se posiciona contra o PL da Misoginia, classificando-o como "populismo puro e simples" que cria espaços cinzentos para arbitrariedades sem resolver os problemas reais das mulheres.
 
 ## Conteúdo
@@ -43,3 +41,7 @@ Em outros vídeos do mesmo período (ver [[fontes/2026-05-01 - Sim, Flávio fez 
 
 - [[temas/Pautas Identitárias e de Gênero]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=IrK3OJ0oIKs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

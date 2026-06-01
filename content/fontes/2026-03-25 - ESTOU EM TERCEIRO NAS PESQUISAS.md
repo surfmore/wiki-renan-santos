@@ -9,8 +9,6 @@ fontes:
   - "2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS!"
 ---
 
-**Canal:** Renan Santos | **Data:** 25/03/2026
-**URL:** https://www.youtube.com/watch?v=58V-jCaT258
 
 ## Resumo
 
@@ -38,3 +36,7 @@ Crítica à grande mídia que "só fala com os dois principais candidatos" (Flá
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=58V-jCaT258" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=7MRH9z8yF-w"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=7MRH9z8yF-w)**
-
 Vídeo em que Renan denuncia o acordo entre governo Lula, Centrão e PL para derrubar a votação de cassação do deputado Glauber Braga (PSOL-RJ) na noite de 10 de dezembro de 2025, usando emendas parlamentares como moeda de troca.
 
 ## O caso Glauber Braga
@@ -43,3 +41,7 @@ Renan conclui que o Partido Missão "caçaria a Zambelli" e "jamais lançaria um
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=7MRH9z8yF-w" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

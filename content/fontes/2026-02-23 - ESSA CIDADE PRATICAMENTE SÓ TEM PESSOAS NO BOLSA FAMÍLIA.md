@@ -10,7 +10,6 @@ fontes:
   - "2026-02-23 - ESSA CIDADE PRATICAMENTE SÓ TEM PESSOAS NO BOLSA FAMÍLIA"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=OCIoFqIpzws) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo
 
@@ -39,3 +38,7 @@ Hoje, **cerca de 2.700 cidades no Brasil** têm a administração pública como 
 
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=OCIoFqIpzws" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

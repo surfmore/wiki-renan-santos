@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=vYsZOi5Ipbc"
 ---
 
-**Data:** 15 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=vYsZOi5Ipbc)**
-
 ## Resumo
 
 Renan avisa que o que vai dizer pode resultar em sua prisão — e mesmo assim fala. O tema é a relação de Alexandre de Moraes com a prisão de **Fabiano Zettel** e os possíveis desdobramentos da delação.
@@ -40,3 +38,7 @@ A conclusão sobre o que aconteceria se Zettel e Vorcaro "abrissem a boca": iria
 - [[pessoas/Alexandre de Moraes]] — fundo Reag ligado ao PCC e ao Master; jatinho com advogado do Banco Master; questiona operação contra Zettel
 - **Fabiano Zettel** — pastor/operador; celular comprometedor; fugindo do Brasil via jatinho antes da prisão
 - **Augusto de Arruda Botelho** — advogado do Banco Master; voou de jatinho com Moraes
+
+---
+
+<a href="https://www.youtube.com/watch?v=vYsZOi5Ipbc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

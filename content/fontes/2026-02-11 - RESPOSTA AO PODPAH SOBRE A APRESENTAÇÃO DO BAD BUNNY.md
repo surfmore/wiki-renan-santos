@@ -12,8 +12,6 @@ fontes:
   - "2026-02-11 - RESPOSTA AO PODPAH SOBRE A APRESENTAÇÃO DO BAD BUNNY"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=D3IQRECi6tY)**
-
 Renan defende posição anterior de que o show do Bad Bunny no Super Bowl foi um ato político, após ter sido criticado pelos próprios seguidores por "ver política onde não tem".
 
 ## Confirmação pelo PSOL e Podpah
@@ -46,3 +44,7 @@ Usa Roger Waters do Pink Floyd como exemplo pessoal: admira a música, rejeita a
 ## Fontes relacionadas
 
 - [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=D3IQRECi6tY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -37,3 +37,7 @@ Renan encerra: *"Esse homem quer que o Brasil se torne um gigantesco Piauí."* E
 
 URL: https://www.youtube.com/watch?v=rNBIDN0M398
 Data: 2026-05-12
+
+---
+
+<a href="https://www.youtube.com/watch?v=rNBIDN0M398" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

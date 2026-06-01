@@ -49,3 +49,7 @@ Posiciona Flávio e Lula como faces simétricas do mesmo erro: **submissão a Tr
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=QFbX3s9vnnQ
+
+---
+
+<a href="https://www.youtube.com/watch?v=QFbX3s9vnnQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

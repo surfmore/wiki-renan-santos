@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=sks-K_do-VY)**
-
 Renan Santos afirma que o Rio de Janeiro está em **situação de guerra e conflito armado** que já extrapolou os limites do que a polícia civil e militar podem enfrentar sozinhas.
 
 ## O diagnóstico
@@ -40,3 +38,7 @@ Renan dirige um conselho explícito ao governador Cláudio Castro: parar de espe
 ## Eventos relacionados
 
 - [[eventos/Rio de Janeiro em Guerra — Outubro de 2025]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=sks-K_do-VY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -9,7 +9,6 @@ fontes:
   - "2026-04-28 - CONTINUAMOS SUBINDO!"
 ---
 
-**Canal:** Renan Santos | **Data:** 28/04/2026 | [YouTube](https://www.youtube.com/watch?v=KoXT66aiVZM)
 
 ## Resumo
 
@@ -41,3 +40,7 @@ Previsão: quem tem 5,8% vai para 7%, quem tem 7% vai para 10%. Com 10%, anuncia
 - Atlas Intel (abr/28): ~6% (3º lugar)
 - Nexus: 4% (dobrou de 2%)
 - Composição: eleitores de Lula + Bolsonaro + independentes
+
+---
+
+<a href="https://www.youtube.com/watch?v=KoXT66aiVZM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

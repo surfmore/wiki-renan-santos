@@ -8,7 +8,6 @@ fontes:
   - "2026-05-06 - Eu fui em Paraisópolis, que está tomada pelo PCC"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=CNbKxPzcpw4) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -38,3 +37,7 @@ Menciona [[pessoas/Kim Kataguiri]] como pré-candidato ao governo de São Paulo 
 ## Fontes
 
 - [[fontes/2026-05-06 - Eu fui em Paraisópolis, que está tomada pelo PCC]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=CNbKxPzcpw4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

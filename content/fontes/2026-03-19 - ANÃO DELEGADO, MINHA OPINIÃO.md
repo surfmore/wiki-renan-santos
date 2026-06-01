@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=BczNor-uSeI"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=BczNor-uSeI)**
-
 Renan comenta o caso de um candidato com nanismo que prestou concurso para delegado de polícia, foi reprovado na prova física e obteve uma decisão do STF adaptando os parâmetros da prova especificamente para ele.
 
 ## Resumo
@@ -43,3 +41,7 @@ Apresenta sua posição como presidente da República: **pessoas mais aptas deve
 - Contra cotas em concursos públicos e universidades.
 - A favor de treinamento preparatório para que todos concorram em igualdade de condições.
 - Mérito e aptidão como critério central para cargos públicos.
+
+---
+
+<a href="https://www.youtube.com/watch?v=BczNor-uSeI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

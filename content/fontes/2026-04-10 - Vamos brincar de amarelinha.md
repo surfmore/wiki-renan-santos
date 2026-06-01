@@ -25,3 +25,7 @@ Apresenta o episódio como parte de sua agenda de infraestrutura para o Maranhã
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=HT_fi40nH5s
+
+---
+
+<a href="https://www.youtube.com/watch?v=HT_fi40nH5s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

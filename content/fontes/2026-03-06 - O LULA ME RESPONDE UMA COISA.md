@@ -44,4 +44,6 @@ Encerra com síntese:
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=KQq8gaXKsyM](https://www.youtube.com/watch?v=KQq8gaXKsyM)
+---
+
+<a href="https://www.youtube.com/watch?v=KQq8gaXKsyM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

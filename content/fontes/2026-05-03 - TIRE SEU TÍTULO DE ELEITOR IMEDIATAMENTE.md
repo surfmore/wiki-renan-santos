@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=tG-CoFBfr1A"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=tG-CoFBfr1A)**
-
 Renan convoca jovens de 15 a 18 anos a tirarem o título eleitoral antes do prazo da eleição de 2026.
 
 ## Conteúdo
@@ -32,3 +30,7 @@ Encerra convocando a compartilhar o vídeo com amigos da mesma faixa etária.
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=tG-CoFBfr1A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

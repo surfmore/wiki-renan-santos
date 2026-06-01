@@ -8,7 +8,6 @@ fontes:
   - "2026-05-08 - RENATO CARIANI COMENTA SOBRE SHOWS EM CIDADES MISERÁVEIS"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=YspKc1duuCY) | **Canal:** Renan Santos | **Data:** 08/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -26,3 +25,7 @@ O vídeo é essencialmente uma reprodução da fala de Cariani endossando a paut
 ## Fontes
 
 - [[fontes/2026-05-08 - RENATO CARIANI COMENTA SOBRE SHOWS EM CIDADES MISERÁVEIS]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=YspKc1duuCY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=8rMNgGSMQ7E"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=8rMNgGSMQ7E)**
-
 Vídeo em que Renan traça a história da família Campos-Arrais em Pernambuco, critica a gestão de João Campos em Recife e convoca pernambucanos a se unirem ao Partido Missão.
 
 ## A dinastia Campos-Arrais
@@ -49,3 +47,7 @@ O Partido Missão está se organizando em Pernambuco para eleger candidatos que 
 - [[pessoas/João Campos]]
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=8rMNgGSMQ7E" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

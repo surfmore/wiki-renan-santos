@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=536-MntEwjo"
 ---
 
 **Data:** 15 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=536-MntEwjo)
-
 ## Resumo
 
 Renan dirige um recado ao **Neymar** após a prisão do **MC Rian** em operação de lavagem de dinheiro via bets ligada ao tráfico de drogas. Renan não faz acusação direta, mas questiona o padrão de associações do jogador.
@@ -38,3 +35,7 @@ Renan declara que não manja de futebol mas gostaria de ver Neymar na Copa por s
 - [[pessoas/Neymar]] — foco do vídeo
 - [[pessoas/Oruam]] — mencionado como ligado ao CV; palestrado por Neymar
 - MC Rian — preso; chamava Neymar de "chefe"
+
+---
+
+<a href="https://www.youtube.com/watch?v=536-MntEwjo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

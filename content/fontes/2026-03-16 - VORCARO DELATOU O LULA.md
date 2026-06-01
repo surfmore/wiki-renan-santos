@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=amHFW8OEzc8"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=amHFW8OEzc8)**
-
 Renan analisa o impacto potencial da delação de Daniel Vorcaro sobre a candidatura de Lula à reeleição, listando os nomes que Vorcaro poderia envolver e especulando sobre o cenário eleitoral se o PT sair do jogo.
 
 ## Resumo
@@ -54,3 +52,7 @@ Renan diz que adoraria disputar o segundo turno contra **Flávio Bolsonaro + Zem
 
 - [[fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA]]
 - [[fontes/2026-04-09 - Xandão quer mudar delação premiada]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=amHFW8OEzc8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

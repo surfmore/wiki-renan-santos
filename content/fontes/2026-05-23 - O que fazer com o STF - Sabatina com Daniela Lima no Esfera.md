@@ -32,3 +32,7 @@ Afirma que não quer "guerra com o STF", mas sim que cada poder cumpra suas atri
 ## Fonte
 URL: https://www.youtube.com/watch?v=epPZbh1j_as
 Data: 2026-05-23
+
+---
+
+<a href="https://www.youtube.com/watch?v=epPZbh1j_as" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

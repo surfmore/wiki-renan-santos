@@ -57,3 +57,7 @@ Conclui: **"não há vontade política em resolver esse tema. Vontade política 
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=NxV2Y0brWwc
+
+---
+
+<a href="https://www.youtube.com/watch?v=NxV2Y0brWwc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -40,3 +40,7 @@ Em seu governo, Renan propõe um **"seguro anticorrupção"**: mecanismo que exi
 ## Pessoas mencionadas
 
 - [[pessoas/Jerônimo Rodrigues]] — governador responsável pela gestão do VLT e pelo endividamento de R$30 bi
+
+---
+
+<a href="https://www.youtube.com/watch?v=WCX-vGaRkIs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

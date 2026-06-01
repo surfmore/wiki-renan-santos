@@ -12,8 +12,6 @@ fontes:
   - "2026-02-08 - O HOMEM JOVEM NORDESTINO VAI MUDAR O DESTINO DESSE PAÍS"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=WSURany1Qj8)**
-
 Renan explica sua estratégia de começar a pré-campanha no Nordeste e por que o homem jovem da periferia nordestina é o eleitor que pode mudar o quadro eleitoral.
 
 ## O perfil demográfico
@@ -43,3 +41,7 @@ Anuncia que no seu governo investigará essas entidades e, se comprovada qualque
 - [[temas/Desigualdade Regional e Migração Interna]] — o jovem nordestino como ator de mudança
 - [[temas/Soberania Nacional e ONGs Estrangeiras]] — ONGs financiadas por Soros atuando no sistema penal
 - [[temas/Segurança Pública]] — combate ao crime organizado
+
+---
+
+<a href="https://www.youtube.com/watch?v=WSURany1Qj8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

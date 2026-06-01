@@ -44,4 +44,6 @@ Renan menciona o custo: **R$ 900 bilhões** para acabar com o "modelo arquitetô
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=PZA-qvH_LPY](https://www.youtube.com/watch?v=PZA-qvH_LPY)
+---
+
+<a href="https://www.youtube.com/watch?v=PZA-qvH_LPY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

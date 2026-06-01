@@ -12,8 +12,6 @@ fontes:
   - "2026-02-07 - FUI CONDENADO PELA JUSTIÇA 3 VEZES NESSA ÚLTIMA SEMANA"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=I7um0YnQYZs)**
-
 Renan revela três condenações judiciais em uma semana e consulta os seguidores sobre como proceder — manter o pé no acelerador ou adotar postura mais cautelosa para não ficar inelegível.
 
 ## As três condenações
@@ -37,3 +35,7 @@ Renan pede opiniões nos comentários antes de decidir.
 
 - [[temas/STF e Ativismo Judicial]] — uso do judiciário como instrumento para inelegibilidade de opositor
 - [[temas/Mídia e Imprensa]] — limites à liberdade de expressão política
+
+---
+
+<a href="https://www.youtube.com/watch?v=I7um0YnQYZs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

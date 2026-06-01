@@ -40,4 +40,6 @@ As maiores empresas de tecnologia do planeta — Google, Oracle, OpenAI — busc
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=EplIEFm9sHs](https://www.youtube.com/watch?v=EplIEFm9sHs)
+---
+
+<a href="https://www.youtube.com/watch?v=EplIEFm9sHs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

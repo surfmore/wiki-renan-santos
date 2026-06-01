@@ -10,8 +10,6 @@ fontes:
   - "2025-11-01 - Você sabe quem é Doca"
 ---
 
-**Canal:** Renan Santos | **Data:** 1º de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=pjRvbEMMl0s
 
 ## Resumo
 
@@ -34,3 +32,7 @@ O vídeo menciona a **"lei anti-Oruam"** (legislação que resultou em sua pris�
 
 - [[temas/Segurança Pública]]
 - [[temas/Pautas Identitárias e de Gênero]] (crítica à cultura do crime normalizado)
+
+---
+
+<a href="https://www.youtube.com/watch?v=pjRvbEMMl0s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

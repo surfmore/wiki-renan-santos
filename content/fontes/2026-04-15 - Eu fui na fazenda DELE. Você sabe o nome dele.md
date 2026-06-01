@@ -34,3 +34,7 @@ O vídeo termina com Renan revelando que não conseguiu chegar até a fazenda de
 ## Pessoas mencionadas
 
 - **Everton Rocha** — deputado federal (PDT-MA); vice-líder do governo Lula; primeiro citado no escândalo do INSS; alvo da CPMI investigada por Kim Kataguiri; dono de fazenda milionária com pista de pouso em município pobre do MA
+
+---
+
+<a href="https://www.youtube.com/watch?v=kdqUFdGber4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

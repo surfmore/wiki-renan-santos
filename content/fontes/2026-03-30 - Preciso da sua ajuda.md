@@ -39,3 +39,7 @@ _(vídeo institucional de pedido de doações; não adiciona posições novas.)_
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=XDuX0OmLk_k
+
+---
+
+<a href="https://www.youtube.com/watch?v=XDuX0OmLk_k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

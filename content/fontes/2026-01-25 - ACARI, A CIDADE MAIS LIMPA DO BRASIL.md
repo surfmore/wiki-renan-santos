@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=KX34olrLGnM"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=KX34olrLGnM)**
-
 Renan Santos visita **Acari (RN)**, cidade do sertão nordestino reconhecida como a mais limpa do Brasil, para argumentar que a desordem urbana não é inevitável nem apenas uma questão econômica.
 
 ## O caso de Acari
@@ -40,3 +38,7 @@ Legislação federal obrigando **todas as cidades brasileiras** a manterem esse 
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=KX34olrLGnM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

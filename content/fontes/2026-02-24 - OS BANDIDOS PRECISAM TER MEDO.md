@@ -9,7 +9,6 @@ fontes:
   - "2026-02-24 - OS BANDIDOS PRECISAM TER MEDO!"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=kbukcJctHMI) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo
 
@@ -28,3 +27,7 @@ Renan cita pesquisa do **Perry Shiida** realizada em presídios, na qual os pró
 ## Posições defendidas
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=kbukcJctHMI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

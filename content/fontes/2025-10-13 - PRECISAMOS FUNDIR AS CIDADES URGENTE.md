@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=RP3D1RSB6Og)**
-
 Renan Santos usa dois pequenos municípios do Rio Grande do Norte como exemplo concreto do que chama de "ficção" da Federação Brasileira: pequenas cidades vizinhas com pouquíssimos habitantes, baixo IDH e infraestrutura precária — cada uma com sua própria estrutura de governo e orçamento próprio.
 
 ## O caso concreto
@@ -36,3 +34,7 @@ As praias da região são descritas como paradisíacas, mas a gestão municipal 
 ## Posição relacionada
 
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=RP3D1RSB6Og" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

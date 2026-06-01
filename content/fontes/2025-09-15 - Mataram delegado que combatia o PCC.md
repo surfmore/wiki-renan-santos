@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=bf70sz5FCws)**
-
 Renan Santos reage ao assassinato de **Rui Ferraz Fontes**, ex-delegado geral da Polícia Civil de São Paulo, responsável pela prisão de **Marcola** (líder histórico do PCC) e ex-secretário de segurança de Praia Grande (SP).
 
 ## O assassinato
@@ -41,3 +39,7 @@ Renan desafia quem reclamar: "Chamou o crime organizado de terrorismo? Vai em ca
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=bf70sz5FCws" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

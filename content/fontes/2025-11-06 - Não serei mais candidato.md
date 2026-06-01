@@ -10,8 +10,6 @@ fontes:
   - "2025-11-06 - Não serei mais candidato!"
 ---
 
-**Canal:** Renan Santos | **Data:** 6 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=5pYDU3UcLKo
 
 ## Resumo
 
@@ -35,3 +33,7 @@ Este vídeo marca o período imediatamente após a aprovação do Partido Missã
 
 - [[temas/Mídia e Imprensa]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=5pYDU3UcLKo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

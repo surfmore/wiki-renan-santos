@@ -27,3 +27,7 @@ Renan conclui que o sistema prisional mal administrado funciona como "escola do 
 ## Posições defendidas
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ULp_8oJL-ac" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

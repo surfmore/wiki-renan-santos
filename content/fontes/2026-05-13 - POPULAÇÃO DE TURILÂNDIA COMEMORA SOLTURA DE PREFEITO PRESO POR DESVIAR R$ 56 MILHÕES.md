@@ -27,3 +27,7 @@ Renan questiona a representatividade do voto em municípios com esse perfil e me
 ## Fonte
 URL: https://www.youtube.com/watch?v=icw_SsPY_uA
 Data: 2026-05-13
+
+---
+
+<a href="https://www.youtube.com/watch?v=icw_SsPY_uA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

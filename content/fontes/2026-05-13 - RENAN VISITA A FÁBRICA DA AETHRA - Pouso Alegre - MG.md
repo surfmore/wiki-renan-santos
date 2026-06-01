@@ -64,3 +64,7 @@ Renan encerra com declaração sobre sua motivação pessoal: não está na corr
 ## Fonte
 URL: https://www.youtube.com/watch?v=sS3i05_xLeA
 Data: 2026-05-13
+
+---
+
+<a href="https://www.youtube.com/watch?v=sS3i05_xLeA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

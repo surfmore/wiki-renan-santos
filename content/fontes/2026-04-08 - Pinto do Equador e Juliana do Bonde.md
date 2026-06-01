@@ -49,6 +49,6 @@ Renan usa o vídeo para reforçar o ato de **sábado, 11 de abril de 2026**, na 
 
 - [[eventos/Escândalo Banco Master]]
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=oAEzEIWzRYE)
+<a href="https://www.youtube.com/watch?v=oAEzEIWzRYE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

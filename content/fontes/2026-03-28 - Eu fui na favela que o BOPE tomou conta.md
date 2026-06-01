@@ -45,3 +45,7 @@ A partir daí, afirma, "as pessoas vão prosperar, gente vai vir fazer turismo a
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=7KvXrbGQYXo
+
+---
+
+<a href="https://www.youtube.com/watch?v=7KvXrbGQYXo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

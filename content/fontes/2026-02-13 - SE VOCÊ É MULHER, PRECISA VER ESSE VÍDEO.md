@@ -13,8 +13,6 @@ tags:
   - violência-contra-mulher
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=2JtVm4bMI_c)**
-
 Short sobre o caso de estupro coletivo de uma adolescente de 13 anos em São João do Meriti (RJ), cometido pelo **TCP (Terceiro Comando Puro)**.
 
 ## O caso
@@ -48,3 +46,7 @@ Renan defende:
 - [[temas/Segurança Pública]]
 - [[temas/Pautas Identitárias e de Gênero]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=2JtVm4bMI_c" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

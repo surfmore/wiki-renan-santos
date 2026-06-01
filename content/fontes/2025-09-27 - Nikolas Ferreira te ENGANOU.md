@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=DNJCpyUg7kg)**
-
 Renan Santos denuncia a sequência de oportunismo de Nikolas Ferreira: após votar a favor da **PEC da Blindagem**, pegou a relatoria do PL anti-terrorismo (CV/PCC) como operação de imagem — e depois **devolveu a relatoria**, alegando que o tema era "complexo" e que temia pela própria vida.
 
 ## A manobra descrita
@@ -48,3 +46,7 @@ Compara Nikolas com Pablo Marçal como sucessão de ícones de enganação da di
 - [[pessoas/Nikolas Ferreira]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[eventos/PEC da Blindagem — Setembro de 2025]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=DNJCpyUg7kg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

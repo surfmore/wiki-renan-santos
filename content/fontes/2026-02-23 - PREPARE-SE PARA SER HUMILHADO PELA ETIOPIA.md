@@ -10,7 +10,6 @@ fontes:
   - "2026-02-23 - PREPARE-SE PARA SER HUMILHADO PELA ETIOPIA"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=N6f2ny5nFeU) · Canal Renan Santos · Short · 23/02/2026
 
 ## Resumo
 
@@ -32,3 +31,7 @@ A tese de Renan: o problema do Brasil não é geográfico, racial, cultural ou d
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=N6f2ny5nFeU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

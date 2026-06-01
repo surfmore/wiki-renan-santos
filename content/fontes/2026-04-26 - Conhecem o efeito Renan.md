@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=hEiyd11TA3I"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=hEiyd11TA3I)**
-
 Renan apresenta o que chama de "efeito Renan": suas visitas a locais degradados geram reação da classe política — primeiro negação, depois ação corretiva — demonstrando que a exposição pública funciona como instrumento de pressão.
 
 ## Dois casos documentados
@@ -40,3 +38,7 @@ Renan usa os dois casos para argumentar que SC e Maranhão, apesar de serem trat
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[fontes/2026-04-25 - Resposta sobre o bairro de Pinheirinho, em Criciúma]]
 - [[fontes/2026-04-23 - Santa Catarina, não podemos deixar que a favelização tome conta do estado!]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=hEiyd11TA3I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -8,7 +8,6 @@ fontes:
   - "2026-05-06 - O ÚNICO que fala de todos os lados do Banco Master"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=aDNxJ1Ir9SM) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -33,3 +32,7 @@ Renan já organizou **quatro manifestações** pedindo a prisão de ministros do
 ## Fontes
 
 - [[fontes/2026-05-06 - O ÚNICO que fala de todos os lados do Banco Master]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=aDNxJ1Ir9SM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

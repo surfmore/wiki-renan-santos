@@ -10,7 +10,6 @@ fontes:
   - "2026-03-10 - Acho que descobri a cidade mais bizarra do Brasil"
 ---
 
-**Canal:** Renan Santos | **Data:** 10 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=xvv6GKN6Cs8)
 
 ## Resumo
 
@@ -34,3 +33,7 @@ A secretária de educação é prima da prefeita. O esquema das escolas fantasma
 
 - [[temas/Corrupção Municipal]] — Presidente Vargas (MA); escolas fantasmas; FUNDEB desviado; família de coronéis
 - [[posicoes/Fusão de Municípios]] — extinção de Presidente Vargas como caso exemplar
+
+---
+
+<a href="https://www.youtube.com/watch?v=xvv6GKN6Cs8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

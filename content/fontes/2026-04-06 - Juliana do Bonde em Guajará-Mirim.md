@@ -31,3 +31,7 @@ Defende que, num governo seu, **Guajará-Mirim teria que ser fundida a outras ci
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=35HndnCy914
+
+---
+
+<a href="https://www.youtube.com/watch?v=35HndnCy914" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

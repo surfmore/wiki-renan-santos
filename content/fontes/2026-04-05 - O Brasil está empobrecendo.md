@@ -46,3 +46,7 @@ Classifica o Vale-Gás do governo Lula como "estelionato eleitoral": esconder o 
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=qNvKj82ScEY
+
+---
+
+<a href="https://www.youtube.com/watch?v=qNvKj82ScEY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

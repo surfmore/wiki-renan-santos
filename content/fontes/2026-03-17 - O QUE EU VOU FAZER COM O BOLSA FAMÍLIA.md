@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=6JsIDfCKdnw"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=6JsIDfCKdnw)**
-
 Renan apresenta sua posição sobre o Bolsa Família, critica o orgulho com que Flávio Bolsonaro reivindica o aumento feito pelo pai, e anuncia sua proposta de **frente de trabalho** inspirada no modelo Roosevelt.
 
 ## Resumo
@@ -55,3 +53,7 @@ Termina desafiando todos os outros candidatos: "Será que Flávio, Zema, Lula, C
 
 - [[fontes/2026-03-17 - Não sabiam que eu estava ouvindo]]
 - [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=6JsIDfCKdnw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

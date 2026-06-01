@@ -23,3 +23,7 @@ O vídeo tem caráter de campanha, com o vereador aliado "Russo" como interlocut
 
 - [[temas/Segurança Pública]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Qq5JToXIwNk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

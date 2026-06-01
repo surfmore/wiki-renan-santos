@@ -13,8 +13,6 @@ tags:
   - policial
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=yzX4nflG8a4)**
-
 Renan narra o caso de um criminoso que atirou em um policial durante operação em **Paraisópolis (SP)**, tomou sua arma, e foi posteriormente preso em flagrante — mas solto por uma juíza que considerou que "ele tem bons antecedentes".
 
 ## O caso
@@ -33,3 +31,7 @@ Renan defende **prisão perpétua ou pena de morte** para quem tenta matar um po
 
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=yzX4nflG8a4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

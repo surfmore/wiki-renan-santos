@@ -20,6 +20,6 @@ Pelo título e pelas poucas palavras legíveis, o vídeo parece ser um conteúdo
 
 Esta página existe apenas como marcador: a fonte foi vista e deliberadamente não ingerida.
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=vA49b677Na8)
+<a href="https://www.youtube.com/watch?v=vA49b677Na8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

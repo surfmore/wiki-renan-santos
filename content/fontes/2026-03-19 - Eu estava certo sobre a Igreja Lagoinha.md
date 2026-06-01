@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=IgPZ1wpr58M"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=IgPZ1wpr58M)**
-
 Renan apresenta o que chama de confirmação definitiva da ligação entre a **Igreja Lagoinha Belvedere** e o [[eventos/Escândalo Banco Master]], após denunciar o caso desde novembro de 2025.
 
 ## Resumo
@@ -59,3 +57,7 @@ Renan ressalta que a questão não é sobre a fé dos fiéis ("você é vítima 
 - [[fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!]]
 - [[fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR]]
 - [[fontes/2026-03-18 - MEU RECADO PARA OS EVANGÉLICOS]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=IgPZ1wpr58M" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

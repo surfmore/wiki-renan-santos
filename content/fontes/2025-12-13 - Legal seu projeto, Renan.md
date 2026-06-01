@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=F_rMj3rx6WU"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=F_rMj3rx6WU)**
-
 Vídeo em que Renan responde à sugestão de que deveria se unir a Tarcísio de Freitas, e aproveita para traçar um mapa das conexões entre os três principais candidatos e o Banco Master.
 
 ## Por que não se unir a Tarcísio
@@ -50,3 +48,7 @@ Renan relata que "grandes empresários" pedem que retire a candidatura para "nã
 - [[pessoas/Flávio Bolsonaro]]
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=F_rMj3rx6WU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

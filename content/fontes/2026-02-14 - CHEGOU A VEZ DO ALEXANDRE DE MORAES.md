@@ -13,8 +13,6 @@ tags:
   - moraes
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=EKN1iuJXLRg)**
-
 Short gravado durante o carnaval de 2026, anunciando que um relatório da Polícia Federal sobre conversas de Vorcaro e Fabiano Zettel com Alexandre de Moraes está prestes a ser divulgado.
 
 ## O que está prestes a vir
@@ -48,3 +46,7 @@ O que afirma: "Tudo leva a crer que um jogo de impunidade está sendo construíd
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=EKN1iuJXLRg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

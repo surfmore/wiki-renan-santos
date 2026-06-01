@@ -10,8 +10,6 @@ fontes:
   - "2025-11-18 - Você ainda vai me responder, Lula!"
 ---
 
-**Canal:** Renan Santos | **Data:** 18 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=XnPX6JlDQUc
 
 ## Resumo
 
@@ -33,3 +31,7 @@ O vídeo termina com um desafio direto a Lula para o debate de 2026: **"Comigo n
 
 - [[eventos/COP30 — Legado em Belém]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=XnPX6JlDQUc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

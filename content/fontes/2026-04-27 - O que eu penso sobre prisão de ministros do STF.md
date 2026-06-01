@@ -9,7 +9,6 @@ fontes:
   - "2026-04-27 - O que eu penso sobre prisão de ministros do STF"
 ---
 
-**Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=7n-nnU9VtGg)
 
 ## Resumo
 
@@ -50,3 +49,7 @@ Renan já pediu impeachment em quatro manifestações e prisão nas duas última
 
 - [[fontes/2026-04-29 - FLÁVIO É FRACO]] — contexto sobre Flávio e STF
 - [[fontes/2026-03-08 - 7 propostas pro STF]] — propostas detalhadas
+
+---
+
+<a href="https://www.youtube.com/watch?v=7n-nnU9VtGg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

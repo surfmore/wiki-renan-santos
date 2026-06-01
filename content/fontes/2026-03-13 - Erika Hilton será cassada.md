@@ -10,7 +10,6 @@ fontes:
   - "2026-03-13 - Erika Hilton será cassada"
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=7Hv3BqcmNUw)
 
 ## Resumo
 
@@ -30,3 +29,7 @@ Renan argumenta que Hilton "odeia mulheres cis" e não representa as mulheres br
 - **Érika Hilton** — deputada federal PSOL-SP; presidenta da comissão da mulher; alvo de cassação
 - **Júlia Zanata** — deputada cujo cabelo foi alvo de comentário de Hilton
 - **Ratinho** (apresentador) — processado por Hilton por R$ 10 milhões
+
+---
+
+<a href="https://www.youtube.com/watch?v=7Hv3BqcmNUw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

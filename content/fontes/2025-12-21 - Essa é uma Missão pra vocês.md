@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=YHoAj10Y0vc"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=YHoAj10Y0vc)**
-
 Renan anuncia crescimento nas pesquisas e mobiliza seguidores jovens para apresentá-lo às suas famílias durante as festas de fim de ano.
 
 ## O crescimento nas pesquisas
@@ -32,3 +30,7 @@ Para familiares bolsonaristas ou petistas: "Eles não precisam ficar presos ness
 
 - Relacionado: [[fontes/2025-12-24 - Mensagem de Natal - Renan Santos]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=YHoAj10Y0vc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

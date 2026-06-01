@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=P9TRV_eljHo)**
-
 Renan Santos responde ao ataque de **Erika Hilton** (PSOL) à proposta de desfavelização do MBL, aproveitando para expor o que descreve como a relação estrutural entre o PSOL e o crime organizado.
 
 ## A crítica de Erika Hilton
@@ -46,3 +44,7 @@ Renan apresenta o plano completo de desfavelização:
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=P9TRV_eljHo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

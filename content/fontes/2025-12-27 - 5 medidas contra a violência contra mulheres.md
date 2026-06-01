@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=kk_7MkwgTjs"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=kk_7MkwgTjs)**
-
 Vídeo em que Renan apresenta cinco medidas concretas que implementaria como presidente para combater a violência contra a mulher.
 
 ## As cinco medidas
@@ -39,3 +37,7 @@ Renan anuncia que as mesmas medidas se aplicam a outros crimes "absurdos e viole
 
 - [[temas/Segurança Pública]]
 - Relacionado: [[fontes/2025-12-27 - Se você é mulher]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=kk_7MkwgTjs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

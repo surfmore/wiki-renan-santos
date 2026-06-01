@@ -34,6 +34,6 @@ Renan descreve o ciclo:
 
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=vxaUjgNKlRo)
+<a href="https://www.youtube.com/watch?v=vxaUjgNKlRo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ fontes:
   - "2025-11-05 - LULA CRITICA MEGA OPERAÇÃO NO RJ"
 ---
 
-**Canal:** Renan Santos | **Data:** 5 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=k-40bLUdMno
 
 ## Resumo
 
@@ -28,3 +26,7 @@ Renan também critica o anúncio de participação da Polícia Federal nas inves
 ## Temas abordados
 
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=k-40bLUdMno" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

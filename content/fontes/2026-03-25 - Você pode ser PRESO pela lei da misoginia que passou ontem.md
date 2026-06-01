@@ -10,8 +10,6 @@ fontes:
   - "2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem"
 ---
 
-**Canal:** Renan Santos | **Data:** 25/03/2026
-**URL:** https://www.youtube.com/watch?v=cfnx6yojw-w
 
 ## Resumo
 
@@ -36,3 +34,7 @@ Lista outros exemplos do mesmo padrão:
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=cfnx6yojw-w" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

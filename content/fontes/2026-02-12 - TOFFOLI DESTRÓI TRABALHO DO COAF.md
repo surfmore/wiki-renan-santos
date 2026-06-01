@@ -15,8 +15,6 @@ tags:
   - coaf
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=TF3PTvdFxu0)**
-
 Short urgente: Toffoli anulou todas as provas coletadas pelo COAF, a pedido da defesa de Flávio Bolsonaro.
 
 ## A decisão
@@ -46,3 +44,7 @@ Renan liga os pontos de uma rede maior:
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=TF3PTvdFxu0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

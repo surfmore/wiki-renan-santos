@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=lCJwuqrtzMg"
 ---
 
 **Data:** 21 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=lCJwuqrtzMg)
-
 ## Resumo
 
 Gravado na **ponte que separa Paraíso (SC) da região de Missiones (Argentina)**, Renan denuncia o que descreve como esquema de acesso facilitado ao Bolsa Família por imigrantes estrangeiros.
@@ -38,3 +35,7 @@ Proposta de Renan:
 ## Pessoas mencionadas
 
 - Javier Milei — presidente argentino; parceiro potencial para acordo de fronteiras
+
+---
+
+<a href="https://www.youtube.com/watch?v=lCJwuqrtzMg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

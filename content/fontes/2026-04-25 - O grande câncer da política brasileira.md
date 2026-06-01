@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=Q1EW73Abm9Q"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Q1EW73Abm9Q)**
-
 Entrevista em que Renan identifica o **centrão** como o principal problema estrutural da política brasileira — acima da esquerda e da direita performática.
 
 ## Conteúdo
@@ -39,3 +37,7 @@ Nos municípios menores e mais pobres, a emenda não é instrumento de política
 - [[temas/Crítica à Direita Tradicional]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[posicoes/Fusão de Municípios]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Q1EW73Abm9Q" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

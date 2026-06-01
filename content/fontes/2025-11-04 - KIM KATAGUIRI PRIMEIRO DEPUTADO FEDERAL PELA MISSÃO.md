@@ -9,8 +9,6 @@ fontes:
   - "2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO!"
 ---
 
-**Canal:** Renan Santos | **Data:** 4 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=NPIukCjQv68
 
 ## Resumo
 
@@ -29,3 +27,7 @@ No segundo trecho, Renan Santos faz a entrega formal e simbólica do **"primeiro
 ## Pessoas relacionadas
 
 - [[pessoas/Kim Kataguiri]] — primeiro deputado federal do Partido Missão
+
+---
+
+<a href="https://www.youtube.com/watch?v=NPIukCjQv68" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

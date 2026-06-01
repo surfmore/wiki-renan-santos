@@ -25,3 +25,7 @@ Sustenta que o Datafolha e a Globo aplicaram a estratégia inversa — loop de f
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=T54vfuawL6o
+
+---
+
+<a href="https://www.youtube.com/watch?v=T54vfuawL6o" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

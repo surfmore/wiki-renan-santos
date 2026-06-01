@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=CpLywZDZecU)**
-
 Renan comenta a tentativa do deputado **Rogério Corrêa (PT)** de bloquear a CPMI do INSS, no mesmo momento em que o sigilo de **Lulinha (Fábio Luiz da Silva)** foi quebrado pela comissão.
 
 ## O deputado Rogério Corrêa
@@ -47,3 +45,7 @@ Renan aproveita para elencar medidas anticorrupção que defende:
 - [[temas/STF e Ativismo Judicial]]
 - [[posicoes/Propostas para o STF]]
 - [[posicoes/Transparência Digital e Anticorrupção]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=CpLywZDZecU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

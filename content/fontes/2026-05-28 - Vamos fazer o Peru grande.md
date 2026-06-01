@@ -15,9 +15,6 @@ tipo: "short"
 ---
 
 **Data:** 28 de maio de 2026
-**Canal:** Renan Santos
-**URL:** https://www.youtube.com/watch?v=zlQu8W2DI8k
-
 ## Resumo
 
 Gravado no **porto de Ilhéus**, no litoral sul da Bahia, Renan explica a proposta da **ferrovia bioceânica** que ligaria **Shankai (Peru)** a Ilhéus. A China quer financiar a obra integralmente — e já concluiu a parte peruana do projeto.
@@ -39,3 +36,7 @@ Contexto local: Ilhéus foi "destruída pelo PT" nos anos 1990 quando a **vassou
 - [[temas/Política Externa e Geopolítica]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]] — terras raras; soberania sobre recursos estratégicos
 - [[temas/Agronegócio e Matopiba]] — logística de exportação de commodities
+
+---
+
+<a href="https://www.youtube.com/watch?v=zlQu8W2DI8k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=h0i8SOKIzRE"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=h0i8SOKIzRE)**
-
 Vídeo em que Renan analisa o novo mapa de renda per capita dos estados brasileiros, identificando as linhas de divisão econômica e propondo a tese de que resolver o Nordeste é a chave para reformar a política nacional.
 
 ## As duas linhas do Brasil
@@ -49,3 +47,7 @@ Renan usa a região do **Matopiba** (porção do Maranhão, Piauí, Tocantins e 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Agronegócio e Matopiba]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=h0i8SOKIzRE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

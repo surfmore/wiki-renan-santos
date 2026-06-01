@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=iuXEXiku3sQ"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=iuXEXiku3sQ)**
-
 Renan dirige um recado direto às mulheres após episódios de violência que circularam nas redes sociais — especialmente o vídeo de uma mulher arrastada por um ex-companheiro — e anuncia que vai "acabar com a raça" de quem gera medo e pânico.
 
 ## Diagnóstico: impunidade como raiz
@@ -34,3 +32,7 @@ Renan recusa o discurso de políticos "supostamente feministas" como Érika Hilt
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - Relacionado: [[fontes/2025-12-27 - 5 medidas contra a violência contra mulheres]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=iuXEXiku3sQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

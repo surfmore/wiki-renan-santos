@@ -10,8 +10,6 @@ fontes:
   - "2026-03-24 - URGENTE - Flávio Bolsonaro e toda a 'direita' vota a favor de projeto FEMINISTA"
 ---
 
-**Canal:** Renan Santos | **Data:** 24/03/2026
-**URL:** https://www.youtube.com/watch?v=pTKlX3R8TnY
 
 ## Resumo
 
@@ -35,3 +33,7 @@ Renan dirige-se diretamente a Flávio Bolsonaro na câmera:
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=pTKlX3R8TnY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=hVNgVL9LtJk"
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=hVNgVL9LtJk
-
 ---
 
 ## Resumo
@@ -31,3 +28,7 @@ Sobre a própria candidatura: "Eu sou uma ferramenta do time. Nunca quis ser can
 ## Posições defendidas
 
 - Infraestrutura básica nas escolas (ar-condicionado) tem mais impacto educacional do que distribuição de tablets.
+
+---
+
+<a href="https://www.youtube.com/watch?v=hVNgVL9LtJk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

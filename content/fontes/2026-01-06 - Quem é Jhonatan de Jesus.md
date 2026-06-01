@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=QJhLpXEZ4ds"
 ---
 
-**Canal:** Renan Santos | **Data:** 6 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=QJhLpXEZ4ds
-
 ---
 
 ## Resumo
@@ -42,3 +39,7 @@ Renan condiciona a convocação da manifestação à viralização do vídeo: se
 - **Jhonatan de Jesus** — ministro do TCU, relator do caso Banco Master
 - **Arthur Lira** — indicou Jhonatan ao TCU
 - **"Careca do INSS"** — figura ligada ao escândalo do INSS, carro da esposa de Jhonatan encontrado em sua casa
+
+---
+
+<a href="https://www.youtube.com/watch?v=QJhLpXEZ4ds" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=4ntnBzwA2PM"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=4ntnBzwA2PM)**
-
 No primeiro dia de 2026, Renan anuncia ação judicial contra o Senado Federal em resposta à concessão de **R$ 46 milhões em bônus** distribuídos a apenas 800 funcionários — cerca de R$ 300.000 por pessoa — aprovados pela presidência do Senado. O TCU havia sinalizado que o benefício era irregular.
 
 ## O escândalo do bônus
@@ -37,3 +35,7 @@ Historicamente, o Senado é descrito como "reduto de gente como Antônio Carlos 
 - [[temas/Judiciário e Supersalários]]
 - [[temas/STF e Ativismo Judicial]]
 - [[posicoes/Reforma do Senado Federal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=4ntnBzwA2PM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

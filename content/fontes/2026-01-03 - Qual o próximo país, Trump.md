@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=CWPYjfUjnEA"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=CWPYjfUjnEA)**
-
 Renan usa como recurso retórico uma lista de características de um país hipotético — sem liberdade de expressão, aliado da China, tomado pelo narcoterrorismo, com democracia disfuncional, prisões políticas, milícias disfarçadas de movimentos sociais — para concluir que está descrevendo o Brasil.
 
 ## A comparação Brasil-Venezuela
@@ -33,3 +31,7 @@ Renan encerra invocando seu histórico no impeachment de Dilma Rousseff em 2015-
 - [[temas/Política Externa e Geopolítica]]
 - [[temas/STF e Ativismo Judicial]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=CWPYjfUjnEA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

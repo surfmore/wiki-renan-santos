@@ -8,7 +8,6 @@ fontes:
   - "2026-05-06 - O FUTURO É GLORIOSO!"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=9IP5LaqTj8Q) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -19,3 +18,7 @@ Conteúdo substantivo atribuível a Renan: praticamente nulo. Vídeo de cunho mo
 ## Fontes
 
 - [[fontes/2026-05-06 - O FUTURO É GLORIOSO!]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=9IP5LaqTj8Q" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

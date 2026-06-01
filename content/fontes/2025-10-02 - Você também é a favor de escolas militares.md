@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=sWvt7A8gtzA)**
-
 Renan Santos defende as **escolas cívico-militares** como componente essencial do programa de desfavelização e de combate ao crime organizado — com fundamentação em um dado sociológico sobre ausência paterna.
 
 ## O argumento pela escola militar
@@ -38,3 +36,7 @@ O plano é sequencial: retomar os territórios controlados pelo crime → instal
 - [[posicoes/Propostas para Educação]]
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[temas/Família e Paternidade]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=sWvt7A8gtzA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

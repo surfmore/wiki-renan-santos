@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=yz0Z-eFwMYo"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=yz0Z-eFwMYo)**
-
 Vídeo gravado por Renan Santos na tarde do **dia 22 de janeiro**, horas antes do início da manifestação diante da sede do Banco Master.
 
 ## O que Renan observou
@@ -30,3 +28,7 @@ Renan convoca o público a comparecer e a fazer pressão, avisando que sem mobil
 ## Temas relacionados
 
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=yz0Z-eFwMYo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

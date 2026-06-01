@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=bFO-UIQV53I"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=bFO-UIQV53I)**
-
 Renan critica o projeto de lei do senador Cleitinho Azevedo que proíbe o repasse do IPTU ao inquilino, classificando-a como populismo que na prática encarece o aluguel.
 
 ## Conteúdo
@@ -56,3 +54,7 @@ Renan admite que fazer esse vídeo sobre o popular Cleitinho "vai tirar votos de
 ## Pessoas mencionadas
 
 - Cleitinho Azevedo — senador, pré-candidato ao governo de MG; populista segundo Renan
+
+---
+
+<a href="https://www.youtube.com/watch?v=bFO-UIQV53I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

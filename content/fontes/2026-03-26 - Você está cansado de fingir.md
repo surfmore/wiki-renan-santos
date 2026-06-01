@@ -10,8 +10,6 @@ fontes:
   - "2026-03-26 - Você está cansado de fingir"
 ---
 
-**Canal:** Renan Santos | **Data:** 26/03/2026
-**URL:** https://www.youtube.com/watch?v=YC4lDpIrOJk
 
 ## Resumo
 
@@ -36,3 +34,7 @@ Estatística citada: "a maior parte dos meninos que cometem crimes violentos sã
 
 - [[temas/Segurança Pública]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=YC4lDpIrOJk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,7 +10,6 @@ fontes:
   - "2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA AMARAL COM O JOÃO CAMPOS"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=Qs9tqgrYsTU) · Canal Renan Santos · Short · 22/02/2026
 
 ## Resumo
 
@@ -37,3 +36,7 @@ Moraes presente no casamento representa a consolidação de uma aliança entre o
 ## Eventos relacionados
 
 - [[eventos/Casamento Tabata Amaral e João Campos]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Qs9tqgrYsTU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

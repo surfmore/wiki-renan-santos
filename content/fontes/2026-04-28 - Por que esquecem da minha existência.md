@@ -9,7 +9,6 @@ fontes:
   - "2026-04-28 - Por que esquecem da minha existência"
 ---
 
-**Canal:** Renan Santos | **Data:** 28/04/2026 | [YouTube](https://www.youtube.com/watch?v=v4kOSe1mftw)
 
 ## Resumo
 
@@ -36,3 +35,7 @@ Renan levanta três hipóteses para o silêncio: (1) a imprensa não está apta 
 
 - Atlas Intel (abr/28): Flávio 39,7%; Renan Santos 5,3% (3º isolado)
 - Nexus (citada em outro vídeo): Renan dobrou de 2% para 4%
+
+---
+
+<a href="https://www.youtube.com/watch?v=v4kOSe1mftw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

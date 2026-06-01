@@ -39,4 +39,6 @@ Renan apresenta um conjunto de critérios objetivos de avaliação de prefeitos:
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=DqAZB9WcmVA](https://www.youtube.com/watch?v=DqAZB9WcmVA)
+---
+
+<a href="https://www.youtube.com/watch?v=DqAZB9WcmVA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

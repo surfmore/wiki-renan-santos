@@ -10,7 +10,6 @@ fontes:
   - "2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA"
 ---
 
-**Canal:** Renan Santos | **Data:** 10 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=LhwZrhS3KBM)
 
 ## Resumo
 
@@ -25,3 +24,7 @@ A conclusão é de que os grandes escândalos não andam porque "envolvem tanto 
 - [[temas/STF e Ativismo Judicial]] — Flávio Dino beneficia Lulinha; padrão de indicações
 - [[temas/Crítica à Direita Tradicional]] — simetria entre as acusações; Bolsonaro também protegeu filhos via STF
 - [[eventos/Escândalo Banco Master]] — contexto da corrupção sistêmica
+
+---
+
+<a href="https://www.youtube.com/watch?v=LhwZrhS3KBM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

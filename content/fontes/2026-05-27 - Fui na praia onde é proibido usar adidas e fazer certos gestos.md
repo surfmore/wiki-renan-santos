@@ -14,9 +14,6 @@ tipo: "short"
 ---
 
 **Data:** 27 de maio de 2026
-**Canal:** Renan Santos
-**URL:** https://www.youtube.com/watch?v=bG6qqM4Pvyc
-
 ## Resumo
 
 Renan grava na **Praia da Gamboa**, em Salvador, área controlada pelo **Comando Vermelho**. O rival local é o **Bonde dos Malucos (BDM)** — cujas iniciais correspondem às três listras da Adidas. Por isso, usar roupa da Adidas ou fazer determinados gestos pode ser interpretado como sinalização de apoio ao BDM e resultar em morte — inclusive para turistas inocentes.
@@ -40,3 +37,7 @@ A proposta surgida do episódio: no seu governo, **todas as facções serão pro
 ## Pessoas mencionadas
 
 - [[pessoas/Jerônimo Rodrigues]] — responsabilizado por omissão diante do domínio das facções
+
+---
+
+<a href="https://www.youtube.com/watch?v=bG6qqM4Pvyc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

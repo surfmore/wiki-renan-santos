@@ -10,8 +10,6 @@ fontes:
   - "2025-11-13 - Apareci numa pesquisa presidencial!"
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=SGzrr6NoOo8
 
 ## Resumo
 
@@ -41,3 +39,7 @@ Este vídeo é a primeira reação pública de Renan à sua entrada nas pesquisa
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Tarcísio de Freitas]]
 - [[pessoas/Ronaldo Caiado]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=SGzrr6NoOo8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

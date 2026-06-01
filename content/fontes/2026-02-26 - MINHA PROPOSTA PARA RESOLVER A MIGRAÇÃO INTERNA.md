@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=TygIDafjBlc)**
-
 Renan usa imagens de **maranhenses embarcando em ônibus** para deixar o estado e trabalhar no Centro-Oeste como ponto de partida para um diagnóstico sobre migração interna e falhas da democracia em estados pobres.
 
 ## O paradoxo da migração e do voto
@@ -42,3 +40,7 @@ Político que não entrega resultado **perde os direitos políticos** e não pod
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=TygIDafjBlc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

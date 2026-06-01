@@ -9,7 +9,6 @@ fontes:
   - "2026-04-27 - Seu futuro pode ser diferente"
 ---
 
-**Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=Ut2uZZzLlIQ)
 
 ## Resumo
 
@@ -26,3 +25,7 @@ Propõe um Brasil alternativo:
 
 - [[temas/Segurança Pública]] — bandidos presos ou mortos
 - [[temas/Ambição Nacional e Soberania Tecnológica]] — Brasil entre as cinco maiores nações do mundo
+
+---
+
+<a href="https://www.youtube.com/watch?v=Ut2uZZzLlIQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

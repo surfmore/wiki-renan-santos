@@ -9,8 +9,6 @@ fontes:
 ---
 
 **Data:** 24 de maio de 2026
-**Canal:** Renan Santos (short — clip de entrevista em TV)
-**URL:** https://www.youtube.com/watch?v=gGko7I7aul8
 
 ## Resumo
 
@@ -27,3 +25,7 @@ Clip de entrevista em que o apresentador confronta Renan com declaração anteri
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Reforma Fiscal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=gGko7I7aul8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

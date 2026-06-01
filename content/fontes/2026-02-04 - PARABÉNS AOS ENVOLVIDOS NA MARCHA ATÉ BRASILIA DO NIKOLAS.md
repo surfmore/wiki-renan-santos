@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=e-jNX_G8sj8"
 tipo: short
 ---
 
-**Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=e-jNX_G8sj8)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -52,3 +50,7 @@ Renan compara: a marcha que ele mesmo liderou pelo impeachment de Dilma foi "cin
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/Judiciário e Supersalários]]
 - [[pessoas/Kim Kataguiri]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=e-jNX_G8sj8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

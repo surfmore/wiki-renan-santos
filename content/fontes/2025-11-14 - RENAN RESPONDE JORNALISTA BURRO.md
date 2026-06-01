@@ -9,8 +9,6 @@ fontes:
   - "2025-11-14 - RENAN RESPONDE JORNALISTA BURRO!"
 ---
 
-**Canal:** Renan Santos | **Data:** 14 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=MuiVB4zOkOU
 
 ## Resumo
 
@@ -32,3 +30,7 @@ Este vídeo ocorre na semana em que Renan Santos aparece pela primeira vez em pe
 
 - [[temas/Mídia e Imprensa]]
 - [[temas/Política Externa e Geopolítica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=MuiVB4zOkOU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

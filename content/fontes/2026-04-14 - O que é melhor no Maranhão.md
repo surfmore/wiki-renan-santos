@@ -13,8 +13,6 @@ tags:
   - humor
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=1xtY8sL9JXk)**
-
 Vídeo no formato de "duelo" humorístico em que Renan responde qual de duas situações ruins é menos pior. Todas as perguntas envolvem o **Presídio de Pedrinhas** como um dos itens — e o presídio vence em todas as comparações.
 
 ## Conteúdo
@@ -33,3 +31,7 @@ O vídeo funciona como denúncia satírica da situação estrutural do Maranhão
 
 - [[temas/Desigualdade Regional e Migração Interna]] — crítica ampla à situação do Maranhão
 - [[temas/Segurança Pública]] — Coroadinho vs. Pedrinhas; controle faccional
+
+---
+
+<a href="https://www.youtube.com/watch?v=1xtY8sL9JXk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -41,3 +41,7 @@ Em um governo seu, a vereadora Luana seria premiada; o prefeito Rony perderia se
 ## Fonte
 URL: https://www.youtube.com/watch?v=GrKxKiYp734
 Data: 2026-05-18
+
+---
+
+<a href="https://www.youtube.com/watch?v=GrKxKiYp734" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

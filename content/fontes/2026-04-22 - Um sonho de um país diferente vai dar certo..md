@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=lQMfG00T3hA"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=lQMfG00T3hA)**
-
 Trecho de entrevista em que Renan recusa a hipótese de segundo turno entre Flávio Bolsonaro e Lula e apresenta seu histórico como líder político.
 
 ## Conteúdo
@@ -44,3 +42,7 @@ Renan descreve seus apoiadores como "o que há de melhor no Brasil" e conclui: "
 
 - [[pessoas/Renan Santos]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=lQMfG00T3hA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

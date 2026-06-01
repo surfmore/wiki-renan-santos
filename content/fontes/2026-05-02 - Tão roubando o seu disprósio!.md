@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=L9qvMHz9ItA"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=L9qvMHz9ItA)**
-
 Renan denuncia a exportação de disprósio (terra rara) quase bruta do Brasil para os Estados Unidos e apresenta proposta para aproveitar as terras raras brasileiras com soberania tecnológica.
 
 ## Conteúdo
@@ -52,3 +50,7 @@ Referência à China como modelo de quem tem terras raras **e** indústria autom
 
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
 - [[temas/Política Externa e Geopolítica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=L9qvMHz9ItA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=FHqn0D2_ZyM"
 ---
 
-**Data:** 14 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=FHqn0D2_ZyM)**
-
 ## Resumo
 
 Renan filma numa periferia nordestina com tubulação a céu aberto, lama nas ruas, cheiro insuportável e habitações em encostas precárias. Entrevista uma criança local que lista os problemas do bairro: ruas enlameadas na chuva, farda suja quando vai à escola, lixo acumulado, fiação irregular. Quando Renan pergunta se os políticos vêm prometer algo, a resposta da criança confirma o padrão: "Chega, entra na casa dos outros, aperta a mão, diz que vai ajeitar e não faz nada."
@@ -30,3 +28,7 @@ A proposta é objetiva: investir os **R$ 50 bilhões** gastos em emendas parlame
 ## Posições defendidas
 
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]] — emendas devem ir para infraestrutura básica, não para shows e projetos sem KPI
+
+---
+
+<a href="https://www.youtube.com/watch?v=FHqn0D2_ZyM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=HXn1lTIJ75g"
 ---
 
-**Data:** 14 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=HXn1lTIJ75g)**
-
 ## Resumo
 
 O título é irônico: Renan anuncia que "não é mais pré-candidato" porque saiu uma pesquisa que lhe deu **0,4% de intenção de voto** — a pior desde que apareceu como pré-candidato. Mas em vez de retirar a candidatura, usa o vídeo para desconstruir a credibilidade da pesquisa e do instituto que a realizou.
@@ -35,3 +33,7 @@ Para Renan, os mesmos que se beneficiam desse tipo de pesquisa (ao ver Renan com
 
 - **Pedro Dória** — jornalista que encomendou pesquisa; "odeia o MBL" segundo Renan
 - **Eduardo Paes** — prefeitura do Rio como cliente do Instituto Boas Ideias
+
+---
+
+<a href="https://www.youtube.com/watch?v=HXn1lTIJ75g" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -44,4 +44,6 @@ Este vídeo registra a aprovação definitiva do projeto que havia sido tema do 
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=1hf41Y-1hoQ](https://www.youtube.com/watch?v=1hf41Y-1hoQ)
+---
+
+<a href="https://www.youtube.com/watch?v=1hf41Y-1hoQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

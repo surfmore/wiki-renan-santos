@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=314Ng42M_A4"
 ---
 
-**Canal:** Renan Santos | **Data:** 9 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=314Ng42M_A4
-
 ---
 
 ## Resumo
@@ -36,3 +33,7 @@ Proposta: se for presidente, criará lei prevendo **interventor federal** em est
 ## Posições defendidas
 
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]] — estados que não se autossustentam e têm IDH baixo devem receber interventor e progressiva redução do repasse federal.
+
+---
+
+<a href="https://www.youtube.com/watch?v=314Ng42M_A4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

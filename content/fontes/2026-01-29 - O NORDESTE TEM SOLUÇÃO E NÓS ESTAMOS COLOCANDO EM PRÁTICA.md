@@ -13,8 +13,6 @@ tags:
   - desigualdade-regional
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ijw7QsXttO4)**
-
 Gravado em uma das regiões mais secas do Brasil. Renan mostra o **Projeto Leve Poços** em ação: um poço já instalado, provando que há água no subsolo do sertão nordestino e que é possível mudar a realidade das comunidades.
 
 ## O relato de quem estava lá
@@ -35,3 +33,7 @@ Renan apresenta o Projeto Leve Poços como demonstração concreta de que o Nord
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[posicoes/Frente de Trabalho para o Bolsa Família]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ijw7QsXttO4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

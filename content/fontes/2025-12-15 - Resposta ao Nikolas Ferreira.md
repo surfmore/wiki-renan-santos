@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=F3tg78-QzTw"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=F3tg78-QzTw)**
-
 Vídeo em que Renan responde aos ataques históricos de Nikolas Ferreira ao MBL e ao próprio Renan, acusando-o de covardia e oportunismo ao só romper com os Bolsonaros agora que estão fracos.
 
 ## O contexto: Nikolas se distancia dos Bolsonaros
@@ -51,3 +49,7 @@ Renan afirma que, se Nikolas quiser "recuperar sua honra", precisa pedir desculp
 
 - [[pessoas/Nikolas Ferreira]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=F3tg78-QzTw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

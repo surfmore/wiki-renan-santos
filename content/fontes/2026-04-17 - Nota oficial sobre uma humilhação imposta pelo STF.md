@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=tlp5QEhXMkw"
 ---
 
 **Data:** 17 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=tlp5QEhXMkw)
-
 ## Resumo
 
 Renan nota o padrão do caso do senador **Alessandro Vieira** (Podemos, SE): após propor indiciamento de ministros do STF via CPI, o senador sofreu resposta coordenada de **Gilmar Mendes** (que ameaçou cassação de mandato e inelegibilidade), de Lula (que foi ao Sergipe e "desmontou qualquer palanque" para Vieira), e de **Flávio Bolsonaro** (que o atacou antes, dizendo que ele era "grande hipócrita" e que a CPI era "ilegal").
@@ -37,3 +34,7 @@ Também cita **Valdemar da Costa Neto**, que disse que o tema impeachment de min
 - Gilmar Mendes — ministro do STF; ameaçou cassação de Vieira
 - [[pessoas/Flávio Bolsonaro]] — atacou Vieira antes do STF agir
 - Valdemar da Costa Neto — minimizou impeachment de ministros do STF
+
+---
+
+<a href="https://www.youtube.com/watch?v=tlp5QEhXMkw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ fontes:
   - "2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA"
 ---
 
-**Canal:** Renan Santos | **Data:** 23/03/2026
-**URL:** https://www.youtube.com/watch?v=n-NeSsmT6jc
 
 ## Resumo
 
@@ -45,3 +43,7 @@ Renan anuncia que irá às ruas e convocará uma data de manifestação para pre
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
 - [[pessoas/Alexandre de Moraes]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=n-NeSsmT6jc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

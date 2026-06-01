@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=8JqnW78iLWA"
 ---
 
 **Data:** 21 de abril de 2026 (Dia de Tiradentes)
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=8JqnW78iLWA)
-
 ## Resumo
 
 Em homenagem ao Dia de Tiradentes (21 de abril), Renan faz uma reflexão histórica sobre a **Conjuração Mineira**, argumentando que ela foi muito mais do que uma revolta contra impostos — foi o primeiro projeto sério de uma república brasileira com ideais iluministas.
@@ -30,3 +27,7 @@ Como presidente, afirma que resgatará "toda a história do Brasil e todos os se
 ## Posições defendidas
 
 - Resgatar os símbolos e heróis nacionais como parte do projeto de governo
+
+---
+
+<a href="https://www.youtube.com/watch?v=8JqnW78iLWA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=MK2CWJ3w0xM"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=MK2CWJ3w0xM)**
-
 Vídeo de tom conciliador dirigido não apenas aos seguidores jovens, mas especialmente aos seus familiares mais velhos — pais, avós, tias —, pedindo abertura para conhecê-lo.
 
 ## O presente adiantado de 2025
@@ -35,3 +33,7 @@ Renan pede que os familiares mais velhos entendam que o sonho do filho ou neto q
 - [[temas/Família e Paternidade]]
 - Relacionado: [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]]
 - Relacionado: [[fontes/2025-12-21 - Essa é uma Missão pra vocês]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=MK2CWJ3w0xM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

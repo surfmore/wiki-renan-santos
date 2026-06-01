@@ -14,8 +14,6 @@ tags:
   - manifestação
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=_N57rUrxi_M)**
-
 Short gravado durante o carnaval de 2026, convocando manifestações contra Toffoli e o STF no contexto do escândalo do Banco Master.
 
 ## As provas confirmadas
@@ -47,3 +45,7 @@ Renan chama de "guerra civil" a briga entre Lula e o STF, identificando que as j
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=_N57rUrxi_M" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

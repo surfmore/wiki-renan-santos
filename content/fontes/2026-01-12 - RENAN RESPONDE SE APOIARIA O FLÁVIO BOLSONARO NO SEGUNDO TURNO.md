@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=hVU9u8EhRGs"
 ---
 
-**Canal:** Renan Santos | **Data:** 12 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=hVU9u8EhRGs
-
 ---
 
 ## Resumo
@@ -36,3 +33,7 @@ Argumento final: "Se o Flávio tiver no segundo turno, por um ganhou — Flávio
 
 - Renan não apoiará Flávio Bolsonaro em nenhum cenário eleitoral.
 - Recusa o voto estratégico no "menos pior" como prática que perpetua o sistema.
+
+---
+
+<a href="https://www.youtube.com/watch?v=hVU9u8EhRGs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

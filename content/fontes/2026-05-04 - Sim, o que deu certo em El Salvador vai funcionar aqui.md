@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=TU2H1asSW7M"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=TU2H1asSW7M)**
-
 Renan defende a aplicabilidade do modelo salvadorenho de combate ao crime ao Brasil, mesmo sendo países de tamanhos incomparáveis.
 
 ## Conteúdo
@@ -43,3 +41,7 @@ Menciona [[pessoas/Oruam]] como exemplo da cultura de normalização do crime qu
 ## Pessoas mencionadas
 
 - [[pessoas/Oruam]] — citado como exemplo da cultura de normalização do crime organizado
+
+---
+
+<a href="https://www.youtube.com/watch?v=TU2H1asSW7M" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

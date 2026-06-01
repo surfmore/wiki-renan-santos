@@ -10,8 +10,6 @@ url: "https://www.youtube.com/watch?v=U4a7vC0TE0s"
 tipo: short
 ---
 
-**Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=U4a7vC0TE0s)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -35,3 +33,7 @@ Renan convida o público a se filiar ao Partido Missão — que, sem acesso ao f
 ## Temas relacionados
 
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=U4a7vC0TE0s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

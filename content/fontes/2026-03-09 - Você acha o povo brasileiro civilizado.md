@@ -9,7 +9,6 @@ fontes:
   - "2026-03-09 - Você acha o povo brasileiro civilizado?"
 ---
 
-**Canal:** Renan Santos | **Data:** 9 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=cNnUH_yM6Hc)
 
 ## Resumo
 
@@ -24,3 +23,7 @@ Cita **Singapura** como modelo: o país saiu de uma "sociedade pobre e favelizad
 ## Temas e posições
 
 - [[temas/Segurança Pública]] — lei e ordem; Singapura como modelo; punições para comportamento não civilizado
+
+---
+
+<a href="https://www.youtube.com/watch?v=cNnUH_yM6Hc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -29,3 +29,7 @@ Usa o caso para construir uma narrativa de movimento continental: Milei na Argen
 - **Abelardo Espriela** — candidato à presidência da Colômbia, apresentado por Renan como referência política regional.
 - [[pessoas/Nayib Bukele]] — citado como parte do movimento de novas lideranças continentais.
 - [[pessoas/Javier Milei]] — citado como outro integrante do mesmo movimento.
+
+---
+
+<a href="https://www.youtube.com/watch?v=yiIQchHYSjA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

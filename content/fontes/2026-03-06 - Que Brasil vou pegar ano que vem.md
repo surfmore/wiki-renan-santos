@@ -41,4 +41,6 @@ Argumenta que, eleito com essa agenda, o STF e o Congresso saberão que é a age
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=gVh0OZz141g](https://www.youtube.com/watch?v=gVh0OZz141g)
+---
+
+<a href="https://www.youtube.com/watch?v=gVh0OZz141g" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

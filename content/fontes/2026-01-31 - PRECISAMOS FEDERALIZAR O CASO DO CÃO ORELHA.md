@@ -13,8 +13,6 @@ tags:
   - maus-tratos-animais
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Y6HVGZMjR7A)**
-
 Renan defende a **federalização do caso do cão Orelha**, retirando-o da competência da justiça de Santa Catarina e entregando à Polícia Federal. O argumento central: há indícios de que o assassinato ocorreu no contexto de um **jogo de sadismo organizado no Discord**, com membros espalhados por vários estados do Brasil — o que o tornaria, por definição, um caso federal.
 
 ## Suspeita de jogo organizado no Discord
@@ -41,3 +39,7 @@ Renan afirma que o cão Orelha "é mais do que um cachorro — ele é uma forma 
 - [[fontes/2026-01-29 - NOVAS INFORMAÇÕES SOBRE O CASO DO CÃO ORELHA]]
 - [[fontes/2026-01-29 - COLOCAMOS A BANDEIRA DO BRASIL NO LUGAR DA BANDEIRA DO CV]]
 - [[fontes/2026-01-28 - RENAN SANTOS LEVA ENVOLVIDOS NO CASO DO CÃO ORELHA PARA A JUSTIÇA]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Y6HVGZMjR7A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

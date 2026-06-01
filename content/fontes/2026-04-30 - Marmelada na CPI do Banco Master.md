@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=9iqpGHBG3Xc"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=9iqpGHBG3Xc)**
-
 Renan denuncia que PT, centrão e bolsonarismo fizeram um acordo para suprimir a CPI do Banco Master na reunião do Congresso, em troca da pauta da dosimetria dos envolvidos no 8 de janeiro.
 
 ## Conteúdo
@@ -54,3 +52,7 @@ Desafia Flávio Bolsonaro a "pegar a sua bancada e mandar colocar na pauta agora
 
 - [[pessoas/Flávio Bolsonaro]] — desafiado a pautar a CPI; previsto que não o fará
 - [[pessoas/Alexandre de Moraes]] — mencionado como beneficiado pelo silêncio
+
+---
+
+<a href="https://www.youtube.com/watch?v=9iqpGHBG3Xc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

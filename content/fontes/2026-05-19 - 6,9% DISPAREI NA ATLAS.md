@@ -37,3 +37,7 @@ Cinco afirmações centrais apresentadas:
 ## Fonte
 URL: https://www.youtube.com/watch?v=_IGnI5ALaO4
 Data: 2026-05-19
+
+---
+
+<a href="https://www.youtube.com/watch?v=_IGnI5ALaO4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

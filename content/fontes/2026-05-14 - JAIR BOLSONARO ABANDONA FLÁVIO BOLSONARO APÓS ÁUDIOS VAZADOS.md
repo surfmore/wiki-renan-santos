@@ -30,3 +30,7 @@ Renan convida formalmente os pré-candidatos **Romeu Zema** e **Ronaldo Caiado**
 ## Fonte
 URL: https://www.youtube.com/watch?v=5RIL3-jhcTY
 Data: 2026-05-14
+
+---
+
+<a href="https://www.youtube.com/watch?v=5RIL3-jhcTY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

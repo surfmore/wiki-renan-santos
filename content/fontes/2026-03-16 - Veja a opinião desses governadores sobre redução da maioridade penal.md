@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=-vRBWbTH73I"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=-vRBWbTH73I)**
-
 Renan confronta as posições dos três principais governadores pré-candidatos sobre redução da maioridade penal e apresenta sua própria visão, mais radical do que qualquer um deles.
 
 ## Resumo
@@ -53,3 +51,7 @@ Critica Eduardo Leite por priorizar a "proteção" do jovem criminoso em detrime
 - Redução da maioridade penal sem limite mínimo de idade para crimes violentos e hediondos.
 - Foco na vítima, não na recuperação do criminoso.
 - Construção de presídios fora do controle das facções.
+
+---
+
+<a href="https://www.youtube.com/watch?v=-vRBWbTH73I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

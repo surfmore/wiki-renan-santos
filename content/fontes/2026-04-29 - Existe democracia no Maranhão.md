@@ -10,7 +10,6 @@ fontes:
   - "2026-04-29 - Existe democracia no Maranhão"
 ---
 
-**Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=YfXqj2bJL6Y)
 
 ## Resumo
 
@@ -39,3 +38,7 @@ O entrevistador questiona se seria "tirar o poder do voto". Renan responde: ao c
 - Prefeito que não atinge indicadores em 4 anos não pode concorrer à reeleição
 - Intervenção federal em municípios: só após 8 anos sem atingir nenhum indicador de desempenho
 - Democracia de fachada não é democracia real — voto cooptado pela dependência é nulo em termos republicanos
+
+---
+
+<a href="https://www.youtube.com/watch?v=YfXqj2bJL6Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

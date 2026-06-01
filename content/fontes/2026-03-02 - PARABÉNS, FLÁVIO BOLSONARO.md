@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=fJ4lYp-46kU)**
-
 Vídeo com estrutura irônica: começa fingindo elogiar o discurso de Flávio Bolsonaro na manifestação de março de 2026 — em que potencialmente Dias Toffoli poderia ser preso — e termina desconstruindo o elogio ponto a ponto.
 
 ## O "discurso corajoso" (irônico)
@@ -44,3 +42,7 @@ Conclui que o rótulo de direita não garante honestidade e que ele próprio —
 - [[pessoas/Flávio Bolsonaro]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=fJ4lYp-46kU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

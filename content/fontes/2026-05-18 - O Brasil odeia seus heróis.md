@@ -50,3 +50,7 @@ Renan menciona a professora do Ceará que se recusou a matar policiais sob pena 
 ## Fonte
 URL: https://www.youtube.com/watch?v=fjc1yCEwvwg
 Data: 2026-05-18
+
+---
+
+<a href="https://www.youtube.com/watch?v=fjc1yCEwvwg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

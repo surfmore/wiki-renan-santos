@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=p0mTZB4D3Vk"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=p0mTZB4D3Vk)**
-
 Vídeo em que Renan usa a notícia da prescrição de investigações contra Marcos Willians Herbas Camacho (Marcola), líder do PCC, para criticar o custo e a ineficiência do Poder Judiciário brasileiro.
 
 ## O caso Marcola
@@ -35,3 +33,7 @@ A proposta implícita: um presidente que enfrente essa estrutura, reduza os gast
 
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=p0mTZB4D3Vk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

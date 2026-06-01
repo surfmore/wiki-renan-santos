@@ -42,4 +42,6 @@ Renan anuncia que tomará medidas judiciais contra a Meta exigindo a restauraç�
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=3eUo74h1AtM](https://www.youtube.com/watch?v=3eUo74h1AtM)
+---
+
+<a href="https://www.youtube.com/watch?v=3eUo74h1AtM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

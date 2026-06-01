@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=1Vp8Bbp0utw"
 ---
 
 **Data:** 26 de novembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=1Vp8Bbp0utw
-
 ## Resumo
 
 Resposta de Renan a um vídeo de **Nikolas Ferreira** em que o deputado afirmou que "a maioria do Brasil merece a merda do Lula." Renan inverte o argumento: não é o povo que merece o PT, são os **líderes do bolsonarismo** que fizeram mal a direita por terem levado o povo pelo caminho errado.
@@ -52,3 +49,7 @@ Renan nega que o povo mereça o PT: eles seguiram líderes que os traíram. A cu
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Nikolas Ferreira]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=1Vp8Bbp0utw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

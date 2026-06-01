@@ -28,6 +28,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[temas/Pautas Identitárias e de Gênero]] — Posição de Renan sobre pautas de gênero e identidade: crítica ao PL da Misoginia por ser vago, ao feminismo performático, à "indústria do autismo" com laudos falsos e à sexualização precoce nas escolas. 29 fontes.
 - [[temas/Política Externa e Geopolítica]] — Visão de Renan sobre o cenário global: queda de Maduro, nova Doutrina Monroe dos EUA, BRICS e a tese de que o Brasil precisa buscar uma terceira via entre EUA e China para afirmar soberania. 8 fontes.
 - [[temas/Programa Nuclear Brasileiro]] — Defesa de Renan pelo desenvolvimento de armamento nuclear próprio como garantia de soberania, com proposta de aproveitar a cadeia de terras raras para construir capacidade industrial-bélica em 30 anos. 4 fontes.
+- [[temas/Liberdade Religiosa]] — Defesa de Renan da liberdade de pregação de padres e pastores, usando o caso de Frei Gilson como símbolo da perseguição religiosa pelo Ministério Público. Proposta de nomear ministro "terrivelmente católico" ao STF. 1 fonte.
 
 ## Posições
 
@@ -53,6 +54,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[posicoes/Reforma do Senado Federal]] — Proposta de esvaziar ou extinguir o Senado Federal, apontado como reduto de oligarquias regionais com R$ 46 milhões em bônus ilegais e representação distorcida da população. 1 fonte.
 - [[posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos]] — Proposta de tratar como adulto qualquer jovem acima de 14 anos que cometa crime violento, e restaurar a internação compulsória para criminosos psicopatas. 2 fontes.
 - [[posicoes/Combate à Fraude Eleitoral via LDO]] — Denúncia de que a LDO 2025 legalizou gastos eleitoreiros nos 3 meses anteriores à eleição, o que Renan classifica como um "golpe eleitoral" de Lula. 1 fonte.
+- [[posicoes/Nomeação de Ministro Católico para o STF]] — Proposta de nomear um ministro "terrivelmente católico" ao STF para atuar junto com André Mendonça e proteger a liberdade religiosa de padres e pastores no Brasil. 1 fonte.
 
 ## Pessoas
 
@@ -94,6 +96,8 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[pessoas/Janja]] — Rosângela da Silva, esposa do presidente Lula. Renan promete prendê-la se eleito, apontando que ela foi diretora da OEI — entidade estrangeira que teria recebido contrato sem licitação para organizar a COP30 em Belém, com superfaturamento apontado pelo TCU. 3 fontes.
 - [[pessoas/Ricardo Lewandowski]] — Ex-ministro do STF e atual ministro da Justiça, acusado por Renan de ter recebido contratos milionários do Banco Master enquanto no governo. Renan argumenta que isso torna impossível qualquer investigação isenta pela Polícia Federal, subordinada ao seu ministério. 8 fontes.
 - [[pessoas/Alessandro Vieira]] — Senador (Cidadania-SE) apresentado por Renan como o parlamentar que mais avançou no enfrentamento ao STF, propondo CPI e convocação de ministros. Por isso, segundo Renan, sofreu reação coordenada de PT, bolsonarismo e Gilmar Mendes — padrão que Renan usa para propor um tribunal político específico para julgar parlamentares. 5 fontes.
+- [[pessoas/Frei Gilson]] — Padre franciscano popular, alvo do Ministério Público por acusações de misoginia e homofobia ao pregar doutrina católica. Renan o defende como símbolo da perseguição religiosa. 1 fonte.
+- [[pessoas/André Mendonça]] — Ministro do STF indicado por Bolsonaro como ministro "terrivelmente evangélico"; Renan anuncia que trabalharia com ele para proteger a liberdade religiosa se eleito presidente. 1 fonte.
 
 ## Eventos
 
@@ -111,6 +115,10 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[eventos/COP30 — Legado em Belém]] — Balanço da COP30 realizada em Belém, onde R$ 4 bilhões foram gastos mas a cidade ficou mais degradada do que antes. Renan documentou o enriquecimento da família Barbalho, o envolvimento da ONG de Janja com superfaturamento confirmado pelo TCU e o constrangimento de delegados estrangeiros com a situação da cidade. 5 fontes.
 
 ## Fontes (cronológico)
+
+### Junho de 2026
+
+- [[fontes/2026-06-01 - Frei Gilson é um Red Pill]] — Defesa de Frei Gilson contra ação do MP; liberdade religiosa; Brasil como país cristão; proposta de ministro "terrivelmente católico" no STF; expulsão de ONGs com financiamento estrangeiro.
 
 ### Maio de 2026
 
@@ -686,12 +694,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 - [[fontes/2025-09-08 - Que se Dane a MAGALU!]] — "Taxa das blusinhas" arrecadou menos que o previsto e empobreceu consumidor; Renan defende derrubada da alíquota sobre importados baratos.
 - [[fontes/2025-09-06 - Cuida de mim, painho!]] — Crítica ao PT por substituir desenvolvimento do Nordeste por assistencialismo eleitoreiro com transferências de renda.
 - [[fontes/2025-09-03 - COMO VAMOS DESENVOLVER O NORDESTE]] — Proposta de industrialização do Matopiba via usinas de biocombustível com soja e milho, exportando pelo Porto do Maranhão.
-- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — Renan comemora aparecer com 2% em pesquisa presidencial antes mesmo de lançar candidatura formal.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]] — Compilação de falas anteriores sobre segurança pública: guerra às facções, desfavelização e prisão das lideranças do tráfico.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Vídeo biográfico completo: origem na Mooca, USP, fundação do MBL, episódio com policiais corruptos e criação do Partido Missão.
-
-## Análises
-
-- [[analises/Timeline do Escândalo Banco Master]] — Cronologia completa do escândalo: do licenciamento do banco um dia após o fim da Lava-Jato até a prisão de Ciro Nogueira na Operação Compliance Zero em maio de 2026.
-- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Comparativo cronológico da relação entre Renan e Flávio Bolsonaro: de adversários a rivais declarados, com cada episódio de confronto documentado.
-- [[analises/Propostas de Governo - Comparativo por Área]] — Tabela comparativa das propostas de Renan por área temática: segurança, economia, educação, saúde, reforma política e geopolítica.
+- [[fontes/2025-0

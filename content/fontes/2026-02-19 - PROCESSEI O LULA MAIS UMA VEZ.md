@@ -10,7 +10,6 @@ fontes:
   - "2026-02-19 - PROCESSEI O LULA MAIS UMA VEZ!"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=PP4R7hc2DQo) · Canal Renan Santos · Short · 19/02/2026
 
 ## Resumo
 
@@ -29,3 +28,7 @@ Com o desfile já realizado, Renan agora pede que as **imagens sejam proibidas d
 ## Eventos relacionados
 
 - [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=PP4R7hc2DQo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

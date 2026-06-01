@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=_7Q2c6QnNik"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=_7Q2c6QnNik)**
-
 Renan comemora a sanção do projeto de lei de Kim Kataguiri que aumenta as penas para roubo, furto e receptação, com foco especial em celulares.
 
 ## Conteúdo
@@ -49,3 +47,7 @@ Renan encerra afirmando que no seu governo "projetos como esse serão regra" e c
 ## Pessoas mencionadas
 
 - [[pessoas/Kim Kataguiri]] — autor do projeto, único deputado federal do Partido Missão
+
+---
+
+<a href="https://www.youtube.com/watch?v=_7Q2c6QnNik" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -11,11 +11,11 @@ Contato: wikipoliticabr@gmail.com
 ## Seções principais
 
 - /: Índice completo com todas as páginas
-- /temas/: 20 grandes temas recorrentes (segurança pública, corrupção, carga tributária, STF, etc.)
-- /posicoes/: 22 propostas concretas de governo
-- /pessoas/: 38 perfis de pessoas mencionadas com relevância substancial
+- /temas/: 21 grandes temas recorrentes (segurança pública, corrupção, carga tributária, STF, etc.)
+- /posicoes/: 23 propostas concretas de governo
+- /pessoas/: 40 perfis de pessoas mencionadas com relevância substancial
 - /eventos/: 12 eventos e episódios comentados
-- /fontes/: 580 resumos individuais de vídeos (set/2025 – mai/2026)
+- /fontes/: 596 resumos individuais de vídeos (set/2025 – jun/2026)
 - /analises/: sínteses e timelines temáticas
 
 ## Principais páginas
@@ -31,4 +31,4 @@ Contato: wikipoliticabr@gmail.com
 
 ## Cobertura temporal
 
-Vídeos de setembro de 2025 a maio de 2026. Atualizado regularmente conforme novos vídeos são publicados.
+Vídeos de setembro de 2025 a junho de 2026. Atualizado regularmente conforme novos vídeos são publicados.

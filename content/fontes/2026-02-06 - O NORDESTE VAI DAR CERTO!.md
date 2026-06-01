@@ -12,8 +12,6 @@ fontes:
   - "2026-02-06 - O NORDESTE VAI DAR CERTO!"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=BLPHGMVMjxY)**
-
 Renan faz um balanço positivo da sua viagem pelo Nordeste, listando exemplos concretos de produção, empreendedorismo e potencial econômico que viu pessoalmente.
 
 ## Os exemplos visitados
@@ -43,3 +41,7 @@ Também visita poço artesiano solar no sertão do RN — ver [[fontes/2026-02-1
 - [[temas/Desigualdade Regional e Migração Interna]] — potencial nordestino real vs. imagem pobre
 - [[temas/Agronegócio e Matopiba]] — produção agropecuária e de energia no Nordeste
 - [[temas/Ambição Nacional e Soberania Tecnológica]] — Porto Digital como modelo replicável
+
+---
+
+<a href="https://www.youtube.com/watch?v=BLPHGMVMjxY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

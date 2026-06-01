@@ -22,3 +22,7 @@ O vídeo é satírico e muito curto — sem proposta nova de Renan, apenas crít
 
 URL: https://www.youtube.com/watch?v=MFRtLzbHb0Y
 Data: 2026-05-09
+
+---
+
+<a href="https://www.youtube.com/watch?v=MFRtLzbHb0Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

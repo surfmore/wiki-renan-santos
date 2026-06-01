@@ -11,8 +11,6 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
 ---
 
-**Canal:** Renan Santos | **Data:** 26/03/2026
-**URL:** https://www.youtube.com/watch?v=Y1o1KpciG6U
 
 ## Resumo
 
@@ -47,3 +45,7 @@ Incentivos fiscais e de área para bares, restaurantes, startups e empresas se i
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Y1o1KpciG6U" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

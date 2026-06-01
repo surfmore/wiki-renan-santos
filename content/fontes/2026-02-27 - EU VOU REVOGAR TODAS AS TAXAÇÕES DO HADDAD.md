@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=-Xhyb-EULYA)**
-
 Renan anuncia que, na primeira semana de governo, revogará todas as taxações impostas pelo ministro Fernando Haddad — com foco específico nos impostos sobre **CPU e GPU**.
 
 ## A taxação de CPU e GPU
@@ -43,3 +41,7 @@ O diagnóstico: o governo arrecada com a taxação, distribui Bolsa Família com
 - [[temas/Carga Tributária]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
 - [[posicoes/Reforma Fiscal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=-Xhyb-EULYA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

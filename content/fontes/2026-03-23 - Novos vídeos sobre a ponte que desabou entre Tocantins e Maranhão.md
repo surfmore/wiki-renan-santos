@@ -10,8 +10,6 @@ fontes:
   - "2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão"
 ---
 
-**Canal:** Renan Santos | **Data:** 23/03/2026
-**URL:** https://www.youtube.com/watch?v=wYPLEj-mxs0
 
 ## Resumo
 
@@ -38,3 +36,7 @@ O crescimento do custeio federal — folha de pagamento, benefícios sociais, Va
 
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[posicoes/Reforma Fiscal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=wYPLEj-mxs0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

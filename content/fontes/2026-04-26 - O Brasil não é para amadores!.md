@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=ZQtecbytRaM"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ZQtecbytRaM)**
-
 Renan denuncia o caso do DJ Alock no Piauí como exemplo de como o judiciário estadual funciona como aliado da classe política na manutenção do esquema de shows com dinheiro público.
 
 ## O caso
@@ -46,3 +44,7 @@ Renan reitera: se eleito presidente, vai passar a **lei de responsabilidade gere
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[pessoas/Ciro Nogueira]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ZQtecbytRaM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

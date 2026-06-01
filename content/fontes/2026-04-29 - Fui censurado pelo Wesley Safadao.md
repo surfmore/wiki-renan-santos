@@ -9,7 +9,6 @@ fontes:
   - "2026-04-29 - Fui censurado pelo Wesley Safadao"
 ---
 
-**Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=5fm2O80Px0k)
 
 ## Resumo
 
@@ -44,3 +43,7 @@ Renan denuncia a "aliança entre classe política e classe artística" que torna
 - [[fontes/2026-04-27 - Wesley Safadão não quer que eu seja Presidente]] — vídeo original que motivou a ação judicial
 - [[fontes/2026-05-03 - O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO]] — desdobramentos posteriores
 - [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]] — proposta de lei de responsabilidade gerencial
+
+---
+
+<a href="https://www.youtube.com/watch?v=5fm2O80Px0k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

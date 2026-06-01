@@ -27,3 +27,7 @@ Afirma que, com estado de defesa e uma legislação que chama de **"direito pena
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=SJXR19Zk5CA
+
+---
+
+<a href="https://www.youtube.com/watch?v=SJXR19Zk5CA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

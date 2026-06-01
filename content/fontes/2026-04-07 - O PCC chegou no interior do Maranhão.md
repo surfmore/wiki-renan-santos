@@ -35,3 +35,7 @@ Detalha um mecanismo de execução: se o governador cooperar, a operação é co
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=VWT1GJqnflw
+
+---
+
+<a href="https://www.youtube.com/watch?v=VWT1GJqnflw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

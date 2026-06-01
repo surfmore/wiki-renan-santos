@@ -12,8 +12,6 @@ fontes:
   - "2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Kr9XbTxapsA)**
-
 Renan analisa a performance do Bad Bunny no intervalo do Super Bowl como ato político contra as políticas antiimigratórias de Donald Trump e critica a **imagem estereotipada** que a América Latina projeta de si mesma.
 
 ## O que foi feito
@@ -45,3 +43,7 @@ A imagem de "trajes típicos" e "rebolado" demonstra **fraqueza e ressentimento*
 ## Fontes relacionadas
 
 - [[fontes/2026-02-11 - RESPOSTA AO PODPAH SOBRE A APRESENTAÇÃO DO BAD BUNNY]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Kr9XbTxapsA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

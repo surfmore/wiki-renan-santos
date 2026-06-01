@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=TLmx3DdvoYg"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=TLmx3DdvoYg)**
-
 Renan usa imagens de Zico jogando num rachão — tropeçando pela idade — como ponto de partida para uma reflexão sobre a ausência de figuras públicas exemplares no Brasil de hoje.
 
 ## Zico como modelo
@@ -35,3 +33,7 @@ O texto conecta o problema das referências ruins à desestruturação familiar:
 ## Temas relacionados
 
 - [[temas/Família e Paternidade]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=TLmx3DdvoYg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

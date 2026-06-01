@@ -13,8 +13,6 @@ tags:
   - crime-organizado
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=VtU7gWYO8X8)**
-
 Gravado em **Santa Quitéria**, no interior do Ceará, município controlado pelo Comando Vermelho e com extração de urânio próxima. Renan declara que é "jurado de morte" na cidade e explica o porquê.
 
 ## Santa Quitéria: urânio + Comando Vermelho = risco nacional
@@ -44,3 +42,7 @@ No seu governo, Santa Quitéria receberá **intervenção federal** por questão
 - [[temas/Segurança Pública]]
 - [[eventos/Caso do Cão Orelha]]
 - [[fontes/2026-01-29 - COLOCAMOS A BANDEIRA DO BRASIL NO LUGAR DA BANDEIRA DO CV]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=VtU7gWYO8X8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

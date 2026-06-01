@@ -9,7 +9,6 @@ fontes:
   - "2026-04-29 - Café com teu pai"
 ---
 
-**Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=Lm1A75KoEr4)
 
 ## Resumo
 
@@ -32,3 +31,7 @@ Renan não se pronuncia sobre o mérito das falas do influenciador, mas sobre a 
 
 - Mulheres adultas têm plena capacidade de decidir o que consumir — proibição de conteúdo por "machismo estrutural" é paternalismo autoritário
 - Perseguição judicial por opinião sobre relacionamentos é "profundamente vaga e perigosa"
+
+---
+
+<a href="https://www.youtube.com/watch?v=Lm1A75KoEr4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

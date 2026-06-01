@@ -27,3 +27,7 @@ Encerra com uma promessa direta de campanha: como presidente, destruirá o crime
 ## Posições defendidas
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=QyXS1zM-Rls" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

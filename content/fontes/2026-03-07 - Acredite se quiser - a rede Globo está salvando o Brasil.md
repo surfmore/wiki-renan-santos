@@ -37,4 +37,6 @@ Conclui com uma posição sobre as consequências: todos os ministros que trabal
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=zelntCQjDkg](https://www.youtube.com/watch?v=zelntCQjDkg)
+---
+
+<a href="https://www.youtube.com/watch?v=zelntCQjDkg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

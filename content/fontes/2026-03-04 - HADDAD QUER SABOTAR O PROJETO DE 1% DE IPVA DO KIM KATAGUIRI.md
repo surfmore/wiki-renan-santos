@@ -38,4 +38,6 @@ Renan pede que eleitores marquem políticos do seu estado que não apoiam o proj
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=pvMf-x7n5yM](https://www.youtube.com/watch?v=pvMf-x7n5yM)
+---
+
+<a href="https://www.youtube.com/watch?v=pvMf-x7n5yM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

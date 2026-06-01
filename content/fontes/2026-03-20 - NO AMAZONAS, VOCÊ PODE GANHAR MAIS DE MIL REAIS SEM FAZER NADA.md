@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=jSFWhxRkOOY"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=jSFWhxRkOOY)**
-
 Renan Santos apresenta o caso de **Barcelos (AM)** como exemplo extremo do que chama de "mamata" — município que oferece R$ 1.000 por mês em benefícios empilhados sem exigir qualquer contrapartida de trabalho.
 
 ## O caso de Barcelos
@@ -48,3 +46,7 @@ O interventor teria como missão:
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]] — proposta de interventor para municípios improdutivos
 - [[temas/Desigualdade Regional e Migração Interna]] — desequilíbrio regional e dependência federal
 - [[posicoes/Frente de Trabalho para o Bolsa Família]] — condicionalidade de benefícios sociais
+
+---
+
+<a href="https://www.youtube.com/watch?v=jSFWhxRkOOY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

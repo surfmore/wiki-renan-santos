@@ -31,3 +31,7 @@ Renan termina criticando a "população de elite" que mora em bairros como Pinhe
 
 URL: https://www.youtube.com/watch?v=RiRB44sOyc0
 Data: 2026-05-11
+
+---
+
+<a href="https://www.youtube.com/watch?v=RiRB44sOyc0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

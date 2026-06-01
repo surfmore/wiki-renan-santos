@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=cWJ3MagWhes"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=cWJ3MagWhes)**
-
 Renan visita **Estreito (MA)** — cidade de 30 mil habitantes onde o prefeito é do PL bolsonarista e a vice do PT lulista — e usa o caso para ilustrar a tese de que a divisão ideológica é irrelevante diante da má gestão que afeta ambos os campos.
 
 ## Resumo
@@ -50,3 +48,7 @@ Renan usa o caso para atacar os dois campos simultaneamente:
 
 - [[fontes/2026-04-09 - Você lembra dessa ponte aqui]]
 - [[fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=cWJ3MagWhes" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

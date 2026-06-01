@@ -29,3 +29,7 @@ No mesmo vídeo, defende que o estado atue junto do setor privado para explorar 
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=PAgVphqzzHM
+
+---
+
+<a href="https://www.youtube.com/watch?v=PAgVphqzzHM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

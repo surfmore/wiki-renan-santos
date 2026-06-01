@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=L1KAgJz1_4Y"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=L1KAgJz1_4Y)**
-
 Publicado no dia da manifestação convocada contra o Banco Master, este vídeo denuncia uma campanha do PT para desmobilizar a proteção policial à equipe de Renan durante a turnê pelo Nordeste.
 
 ## A ameaça
@@ -40,3 +38,7 @@ Mantém todas as críticas aos governos e amplia: "O PT tem que ser extirpado do
 - [[temas/Segurança Pública]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=L1KAgJz1_4Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

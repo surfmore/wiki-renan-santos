@@ -43,3 +43,7 @@ O vídeo é produzido logo após o vazamento do áudio em que Flávio pede dinhe
 ## Fonte
 URL: https://www.youtube.com/watch?v=hJAwLxix36A
 Data: 2026-05-16
+
+---
+
+<a href="https://www.youtube.com/watch?v=hJAwLxix36A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

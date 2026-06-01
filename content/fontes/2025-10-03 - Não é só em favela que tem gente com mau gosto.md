@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ZC2R99HhNqQ)**
-
 Renan Santos estende o debate sobre a refavelização para além da questão habitacional: o problema, segundo ele, é cultural e atravessa todas as classes sociais brasileiras.
 
 ## O argumento central
@@ -40,3 +38,7 @@ O Partido Missão, segundo Renan, quer "reformar as cidades brasileiras para que
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[temas/Pautas Identitárias e de Gênero]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ZC2R99HhNqQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

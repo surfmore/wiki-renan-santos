@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=hFqkaW5udEQ"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=hFqkaW5udEQ)**
-
 Renan responde ao cancelamento nas redes após a imprensa repercutir sua proposta de programa nuclear brasileiro. O principal argumento contrário que ele rebate é o de que o Brasil deveria "investir apenas em educação" em vez de armas.
 
 ## Resposta ao argumento "invista em educação"
@@ -36,3 +34,7 @@ Cita o caso da Groenlândia como ilustração: a Dinamarca, com um "discurso bob
 
 - [[fontes/2026-01-04 - O Brasil precisa de uma arma nuclear]]
 - [[fontes/2026-01-04 - Cadê o direito internacional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=hFqkaW5udEQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

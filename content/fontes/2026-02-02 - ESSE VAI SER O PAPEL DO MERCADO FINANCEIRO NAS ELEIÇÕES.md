@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=7IIlKwla2rM"
 tipo: short
 ---
 
-**Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=7IIlKwla2rM)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -46,3 +44,7 @@ Promete que em um mês "tudo isso vai mudar" e que os formadores de opinião ter
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Ratinho Júnior]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=7IIlKwla2rM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

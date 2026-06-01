@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=6h53bDS_oek"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=6h53bDS_oek)**
-
 Vídeo em que Renan apresenta os indicadores críticos do Acre para defender sua proposta de converter o estado em **território federal** administrado por interventor — e repercute a reação furiosa do senador Petecão à ideia.
 
 ## Os dados do Acre
@@ -44,3 +42,7 @@ Promete que, sob esse modelo, o saneamento melhoraria, a ocupação aumentaria e
 
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=6h53bDS_oek" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

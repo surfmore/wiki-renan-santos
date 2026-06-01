@@ -35,3 +35,7 @@ Renan apresenta sua proposta de solução: uma **lei de responsabilidade gerenci
 ## Fonte
 URL: https://www.youtube.com/watch?v=75OJODKHyvk
 Data: 2026-05-17
+
+---
+
+<a href="https://www.youtube.com/watch?v=75OJODKHyvk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,7 +10,6 @@ fontes:
   - "2026-02-24 - O EPSTEIN BRASILEIRO NÃO VAI SER PUNIDO"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=3erWy0Yb0j4) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo
 
@@ -30,3 +29,7 @@ Sobre o delineamento do esquema: Vorcaro tinha como sócio oculto **Tanuri**, cu
 ## Eventos relacionados
 
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=3erWy0Yb0j4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

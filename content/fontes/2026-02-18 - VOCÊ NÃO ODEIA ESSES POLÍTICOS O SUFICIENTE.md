@@ -13,8 +13,6 @@ tags:
   - stf
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=-kogesLiS14)**
-
 Short que explica, do ponto de vista de Renan, por que bandidos voltam às ruas depois de presos: a classe política que comete crimes de colarinho branco não tem interesse em leis penais duras.
 
 ## A estrutura do problema
@@ -43,3 +41,7 @@ Renan aponta que **tanto o governo Lula quanto o governo Bolsonaro** falharam ig
 - [[temas/STF e Ativismo Judicial]]
 - [[eventos/Escândalo Banco Master]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=-kogesLiS14" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

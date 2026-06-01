@@ -9,8 +9,6 @@ fontes:
 ---
 
 **Data:** 25 de maio de 2026
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=llEeftGRK_M
 
 ## Resumo
 
@@ -35,3 +33,7 @@ Encerra com uma declaração de campanha: "Reconquistar a Bahia e libertar ela d
 ## Fontes
 
 - [[fontes/2026-05-24 - A Bahia governada pelo PT já era]] — vídeo do dia anterior com análise mais detalhada dos mesmos temas
+
+---
+
+<a href="https://www.youtube.com/watch?v=llEeftGRK_M" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

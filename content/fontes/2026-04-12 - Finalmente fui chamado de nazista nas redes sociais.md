@@ -25,3 +25,7 @@ Usa o vídeo para pedir doações via Pix e compras na loja oficial. Explica que
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=_BFg2ymfMXc
+
+---
+
+<a href="https://www.youtube.com/watch?v=_BFg2ymfMXc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

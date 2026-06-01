@@ -47,3 +47,7 @@ Renan apresenta explicitamente sua estratégia de dois turnos: no primeiro turno
 ## Fonte
 URL: https://www.youtube.com/watch?v=O_ZLGy5ufl0
 Data: 2026-05-17
+
+---
+
+<a href="https://www.youtube.com/watch?v=O_ZLGy5ufl0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

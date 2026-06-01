@@ -8,7 +8,6 @@ fontes:
   - "2026-05-07 - A minha geração fracassou!"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=MFmwJAXV2Y8) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -28,3 +27,7 @@ A expressão do jogar sal: Renan havia jogado sal grosso simbolicamente na casa 
 ## Fontes
 
 - [[fontes/2026-05-07 - A minha geração fracassou!]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=MFmwJAXV2Y8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

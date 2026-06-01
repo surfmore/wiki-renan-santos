@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=nqBgdfIYiNQ"
 ---
 
-**Canal:** Renan Santos | **Data:** 9 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=nqBgdfIYiNQ
-
 ---
 
 ## Resumo
@@ -39,3 +36,7 @@ Convoca os seguidores para a manifestação de **22 de janeiro** na frente do Ba
 - **Ciro Nogueira** — relator da indicação de Oto Lobo no Senado
 - **Arthur Lira** — articulador do centrão no esquema
 - **Roberto Campos Neto** — ex-presidente do Banco Central, citado como próximo a Vorcaro
+
+---
+
+<a href="https://www.youtube.com/watch?v=nqBgdfIYiNQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

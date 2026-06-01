@@ -13,9 +13,6 @@ tipo: "short"
 ---
 
 **Data:** 28 de maio de 2026
-**Canal:** Renan Santos
-**URL:** https://www.youtube.com/watch?v=9aOdBg4LBL0
-
 ## Resumo
 
 Renan responde a uma declaração de **Nikolas Ferreira** que ele classifica como "a fala mais psicopática que já vi um político falar em toda a minha vida." O contexto: Nikolas propôs que a direita apoiasse a aprovação da **escala 4x3** — uma medida que ele próprio considera "populista e irresponsável" — para que a "quebradeira" acontecesse antes das eleições e o eleitorado pudesse então fazer "uma escolha diferente."
@@ -43,3 +40,7 @@ Encerra desafiando outros pré-candidatos da direita a virem a público criticar
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/Empobrecimento e Mercado de Trabalho]] — debate sobre a escala 4x3 e seus impactos no emprego
+
+---
+
+<a href="https://www.youtube.com/watch?v=9aOdBg4LBL0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

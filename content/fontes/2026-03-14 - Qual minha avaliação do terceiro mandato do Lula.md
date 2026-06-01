@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=GAPDXC9ihNw"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=GAPDXC9ihNw)**
-
 Em resposta a uma pergunta de rua, Renan dá sua avaliação sintética do terceiro governo Lula e da trajetória da esquerda latino-americana.
 
 ## Resumo
@@ -50,3 +48,7 @@ Conclui que o petismo, como grande parte da esquerda na América Latina, "se esg
 
 - [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]]
 - [[fontes/2026-03-29 - LULA ESTÁ EM PÂNICO]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=GAPDXC9ihNw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

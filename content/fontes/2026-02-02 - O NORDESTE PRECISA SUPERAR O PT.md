@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=8Q5d1v32kY4"
 tipo: short
 ---
 
-**Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=8Q5d1v32kY4)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -45,3 +43,7 @@ Renan diz que o Brasil, sendo um país muito pobre, "vai precisar fazer coisas m
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=8Q5d1v32kY4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

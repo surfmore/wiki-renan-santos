@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=EOzoBKTFxII"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=EOzoBKTFxII)**
-
 Renan filma o bairro do Pinheirinho em Criciúma (SC) para demonstrar que a favelização e o domínio de facções criminosas avançam inclusive em estados considerados modelo de desenvolvimento.
 
 ## O que Renan documenta
@@ -38,3 +36,7 @@ A solução que propõe: **prendeu matou** + novas leis penais + evitar a faveli
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[fontes/2026-04-25 - Resposta sobre o bairro de Pinheirinho, em Criciúma]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=EOzoBKTFxII" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

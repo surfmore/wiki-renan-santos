@@ -13,8 +13,6 @@ tags:
   - tse
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ErEZWicBlv0)**
-
 Short gravado logo após a decisão do TSE que negou a ação de Renan contra o desfile pró-Lula no carnaval de 2026.
 
 ## A decisão do TSE
@@ -39,3 +37,7 @@ Renan anuncia que entrará com **novas ações no TSE** contra o uso das imagens
 
 - [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]]
 - [[temas/Mídia e Imprensa]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ErEZWicBlv0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=xHEwKmdxDaU"
 ---
 
 **Data:** 21 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=xHEwKmdxDaU)
-
 ## Resumo
 
 Renan Santos define o seu principal adversário nas eleições não como Flávio Bolsonaro ou Lula — mas como a **falta de imaginação do brasileiro**. Afirma que ambos "fazem parte do mesmo sistema corrupto" e que os dois estão envolvidos, direta ou indiretamente, nos escândalos do NSS e do Banco Master — um "arranjo político fracassado que não consegue passar nada" e que "não tem mais imaginação no Brasil diferente".
@@ -34,3 +31,7 @@ Sobre os demais candidatos: Renan se coloca como "o candidato da direita"; Fláv
 
 - [[pessoas/Flávio Bolsonaro]] — classificado como "candidato do centro"
 - Valdemar da Costa Neto — deveria estar preso, não influenciando política
+
+---
+
+<a href="https://www.youtube.com/watch?v=xHEwKmdxDaU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

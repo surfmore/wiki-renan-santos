@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=-qF87liui_8)**
-
 Renan denuncia o bloqueio de uma **hidrovia** na região norte do Brasil por um grupo indígena articulado pelo PSOL, resultando em caminhoneiros presos por **oito dias** sem comida e com carga perdida.
 
 ## O episódio
@@ -40,3 +38,7 @@ Sobre as populações indígenas em geral: "Índio vai parar de viver de mamata 
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
 - [[posicoes/Expulsão de ONGs Estrangeiras]]
 - [[posicoes/Proposta para Caminhoneiros]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=-qF87liui_8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

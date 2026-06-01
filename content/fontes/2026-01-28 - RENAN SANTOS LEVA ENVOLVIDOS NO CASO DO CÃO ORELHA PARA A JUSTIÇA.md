@@ -13,8 +13,6 @@ tags:
   - maus-tratos-animais
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=CNhVuWEudLA)**
-
 Renan anuncia as medidas jurídicas concretas que tomou como pré-candidato à presidência em resposta ao caso do cão Orelha.
 
 ## As ações protocoladas
@@ -46,3 +44,7 @@ Renan encerra pedindo sobriedade ao movimento que surgiu em torno do cão — cr
 - [[eventos/Caso do Cão Orelha]]
 - [[temas/Segurança Pública]]
 - [[fontes/2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=CNhVuWEudLA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

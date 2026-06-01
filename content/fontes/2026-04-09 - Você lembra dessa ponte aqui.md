@@ -31,6 +31,6 @@ Ele argumenta que Maranhão e Tocantins são estados "desproporcionalmente favor
 - [[temas/Infraestrutura e Estradas no Maranhão]]
 - [[temas/Corrupção Municipal]]
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=nmoUUsiUEG8)
+<a href="https://www.youtube.com/watch?v=nmoUUsiUEG8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

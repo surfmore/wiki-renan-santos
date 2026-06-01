@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=9eTwngJqL-c"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=9eTwngJqL-c)**
-
 Renan responde à propaganda do PT que associa Flávio ao Banco Master ("Bolso Master") e argumenta que Flávio é, na verdade, o candidato ideal para o PT.
 
 ## Conteúdo
@@ -54,3 +52,7 @@ Diferenças que Renan aponta entre si e Flávio: sem escândalos de corrupção,
 ## Pessoas mencionadas
 
 - [[pessoas/Flávio Bolsonaro]] — candidato fraco e favorito do PT segundo Renan
+
+---
+
+<a href="https://www.youtube.com/watch?v=9eTwngJqL-c" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

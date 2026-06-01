@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=whUnUEWaBUs"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=whUnUEWaBUs)**
-
 Renan denuncia o "Festival Melodia" em Ceilândia (DF) — um festival de música negra realizado com dinheiro do Ministério da Cultura sem nenhum artista negro no lineup.
 
 ## Conteúdo
@@ -45,3 +43,7 @@ Renan descreve dois modelos de uso criminoso de shows com dinheiro público:
 
 - [[temas/Corrupção Municipal]]
 - [[temas/Pautas Identitárias e de Gênero]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=whUnUEWaBUs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

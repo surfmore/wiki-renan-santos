@@ -23,3 +23,7 @@ Promete construir, como presidente, um memorial arquitetônico no local, com vis
 
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=h3dFdCAk-ak" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

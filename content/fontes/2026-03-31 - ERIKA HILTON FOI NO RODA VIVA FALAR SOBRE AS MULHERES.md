@@ -48,3 +48,7 @@ Fecha sob o lema: "Justiça e liberdade para todos".
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=4mkb5i0zemo
+
+---
+
+<a href="https://www.youtube.com/watch?v=4mkb5i0zemo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

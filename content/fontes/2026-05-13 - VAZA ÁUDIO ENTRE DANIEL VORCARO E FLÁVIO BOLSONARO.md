@@ -25,3 +25,7 @@ Renan reage ao vazamento do áudio entre Flávio Bolsonaro e Daniel Vorcaro, con
 ## Fonte
 URL: https://www.youtube.com/watch?v=oa29rtJkln8
 Data: 2026-05-13
+
+---
+
+<a href="https://www.youtube.com/watch?v=oa29rtJkln8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

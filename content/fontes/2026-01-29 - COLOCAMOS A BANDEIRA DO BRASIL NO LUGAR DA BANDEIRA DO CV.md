@@ -13,8 +13,6 @@ tags:
   - simbolismo
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=c7RfyHN1kNc)**
-
 Gravado em **Santa Quitéria (CE)**. Após a tomada da cidade pelo Comando Vermelho, a facção havia hasteado sua bandeira na **caixa d'água** do município — símbolo público de domínio territorial. Renan e sua equipe removem o símbolo e instalam a bandeira do Brasil no lugar.
 
 ## O contexto
@@ -35,3 +33,7 @@ O vídeo documenta um ato concreto de recuperação simbólica de território. P
 
 - [[temas/Segurança Pública]]
 - [[fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=c7RfyHN1kNc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

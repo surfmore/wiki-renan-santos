@@ -42,3 +42,7 @@ Renan aponta a ausência paterna como um dos maiores problemas do Brasil que afe
 ## Fonte
 URL: https://www.youtube.com/watch?v=zYKCmFo2_xU
 Data: 2026-05-18
+
+---
+
+<a href="https://www.youtube.com/watch?v=zYKCmFo2_xU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

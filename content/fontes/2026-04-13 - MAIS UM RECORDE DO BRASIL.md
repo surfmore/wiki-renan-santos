@@ -30,3 +30,7 @@ Apresenta sua proposta de [[posicoes/Reforma Fiscal|reforma fiscal]] que, segund
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=pblti0nkmzc
+
+---
+
+<a href="https://www.youtube.com/watch?v=pblti0nkmzc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

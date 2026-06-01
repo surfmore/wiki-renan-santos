@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=nptSZNE_Ofw)**
-
 Renan Santos analisa um pronunciamento de Lula em evento internacional sobre extremismo, onde o presidente fez uma autocrítica à esquerda sobre como "perdeu terreno" para a direita — e conclui que a visão de Lula sobre democracia é, em si, extremista.
 
 ## O diagnóstico de Renan sobre a fala de Lula
@@ -39,3 +37,7 @@ O vídeo termina com uma ameaça irônica:
 ## Temas relacionados
 
 - [[temas/Mídia e Imprensa]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=nptSZNE_Ofw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

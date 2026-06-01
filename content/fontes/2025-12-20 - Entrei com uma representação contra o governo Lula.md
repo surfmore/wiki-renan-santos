@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=pSOzcDOWdJg"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=pSOzcDOWdJg)**
-
 Renan reage a um vídeo de propaganda de Natal do governo Lula que mostrava uma menor de idade dançando funk, apresenta representação formal na PGR e o governo retira o conteúdo do ar.
 
 ## A propaganda
@@ -38,3 +36,7 @@ Renan anuncia que entrou com representação contra o governo Lula na **Procurad
 
 - [[temas/Pautas Identitárias e de Gênero]]
 - [[temas/Família e Paternidade]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=pSOzcDOWdJg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

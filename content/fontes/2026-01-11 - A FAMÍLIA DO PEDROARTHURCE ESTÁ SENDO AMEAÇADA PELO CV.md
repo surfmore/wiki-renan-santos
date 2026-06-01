@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=tOVEEdVw3zA"
 ---
 
-**Canal:** Renan Santos | **Data:** 11 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=tOVEEdVw3zA
-
 ---
 
 ## Resumo
@@ -31,3 +28,7 @@ Nota: o depoimento direto é de Pedro Arthur; Renan atua como narrador e emite o
 
 - [[temas/Segurança Pública]] — ameaças de facção a lideranças políticas locais
 - [[temas/Desigualdade Regional e Migração Interna]] — omissão do estado do Ceará diante do crime organizado
+
+---
+
+<a href="https://www.youtube.com/watch?v=tOVEEdVw3zA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

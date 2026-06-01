@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=57PN_DgUQsc"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=57PN_DgUQsc)**
-
 Vídeo em que Renan rebate uma ativista de esquerda que denunciava o serviço precário de energia elétrica em favelas e usa o caso para defender sua proposta de desfavelização.
 
 ## O caso: o "gato" de energia elétrica
@@ -43,3 +41,7 @@ Proposta em três etapas:
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=57PN_DgUQsc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

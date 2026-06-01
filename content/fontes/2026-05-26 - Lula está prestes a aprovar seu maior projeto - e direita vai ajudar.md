@@ -46,3 +46,7 @@ Conclui que o cenário mais provável é "informalidade, desemprego e quebradeir
 ## Pessoas mencionadas
 
 - [[pessoas/Valdemar Costa Neto]] — declara apoio do PL à PEC do 6x1 para não "dar a eleição para Lula"
+
+---
+
+<a href="https://www.youtube.com/watch?v=2QDplUZ1AZA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,8 +13,6 @@ tags:
   - érika-hilton
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=1Yaf1ukHjBk)**
-
 Short em que Renan critica a cena do desfile pró-Lula em que a deputada Érika Hilton aparece com faixa presidencial, e desmonta a lógica do carnaval como propaganda eleitoral.
 
 ## O carnaval como máquina política
@@ -44,3 +42,7 @@ Renan analisa que a própria tradição do carnaval refuta a seriedade da mensag
 
 - [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]]
 - [[temas/Pautas Identitárias e de Gênero]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=1Yaf1ukHjBk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

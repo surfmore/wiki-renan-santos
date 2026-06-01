@@ -13,8 +13,6 @@ tags:
   - bolsa-família
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=oDAbDuc6ta0)**
-
 Vídeo em formato de debate/entrevista. Um interlocutor apresenta dados do PAC e do pacto federativo; Renan rebate e desenvolve sua posição sobre o desenvolvimento do Nordeste.
 
 ## O argumento do interlocutor
@@ -41,3 +39,7 @@ O termo "coitadismo" é a síntese do que Renan critica: a narrativa de que o No
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[posicoes/Frente de Trabalho para o Bolsa Família]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=oDAbDuc6ta0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

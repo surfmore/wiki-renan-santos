@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=mRFuvk9cQ9g"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=mRFuvk9cQ9g)**
-
 Renan denuncia que dois de seus vídeos foram derrubados no Instagram por denúncias ligadas à empresa **Oakberry** (marca de açaí) e à **Igreja Lagoinha**, como retaliação pelas investigações que ele conduziu sobre o [[eventos/Escândalo Banco Master]].
 
 ## Resumo
@@ -47,3 +45,7 @@ Renan conclui que Haidar tenta censurá-lo para encobrir a ligação da empresa 
 
 - [[fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha]]
 - [[fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=mRFuvk9cQ9g" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

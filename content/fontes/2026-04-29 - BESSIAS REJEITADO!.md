@@ -9,7 +9,6 @@ fontes:
   - "2026-04-29 - BESSIAS REJEITADO!"
 ---
 
-**Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=I0BmRrRnqPQ)
 
 ## Resumo
 
@@ -45,3 +44,7 @@ Lembra que os três advogados pessoais de Lula no STF são: **Dias Toffoli**, **
 - [[fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF]]
 - [[fontes/2026-04-29 - FLÁVIO É FRACO]]
 - [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=I0BmRrRnqPQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -27,3 +27,7 @@ Meta de longo prazo: em 30 anos, o Brasil "não no jogo da submissão, mas no jo
 
 URL: https://www.youtube.com/watch?v=5h8Qa2C-6Yo
 Data: 2026-05-09
+
+---
+
+<a href="https://www.youtube.com/watch?v=5h8Qa2C-6Yo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

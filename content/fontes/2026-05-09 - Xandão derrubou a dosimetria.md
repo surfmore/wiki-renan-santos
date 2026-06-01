@@ -36,3 +36,7 @@ O vídeo foi publicado no Dia das Mães (segunda semana de maio de 2026).
 
 URL: https://www.youtube.com/watch?v=N7DhYhFHBL0
 Data: 2026-05-09
+
+---
+
+<a href="https://www.youtube.com/watch?v=N7DhYhFHBL0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

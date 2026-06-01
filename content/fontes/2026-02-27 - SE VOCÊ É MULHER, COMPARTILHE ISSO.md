@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=wLvCtkcA9fg)**
-
 Renan usa a nomeação de **Érika Hilton** para a presidência da Comissão da Mulher na Câmara dos Deputados para fazer uma crítica à representação feminina real vs. simbólica.
 
 ## Érika Hilton na Comissão da Mulher
@@ -40,3 +38,7 @@ Renan lista os problemas concretos que afetam mulheres brasileiras e que, segund
 
 - [[temas/Pautas Identitárias e de Gênero]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=wLvCtkcA9fg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

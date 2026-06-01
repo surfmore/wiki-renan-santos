@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=k_qPZrdHfBk"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=k_qPZrdHfBk)**
-
 Renan articula sua posição sobre usuários de crack em espaço público, respondendo ao argumento dos "direitos humanos" contra a internação compulsória.
 
 ## Conteúdo
@@ -45,3 +43,7 @@ Renan menciona que está "saindo agora a vacina do craque", descrevendo como "um
 - [[posicoes/Plano para Moradores de Rua]]
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
 - [[fontes/2026-04-25 - Resposta sobre o bairro de Pinheirinho, em Criciúma]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=k_qPZrdHfBk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,8 +13,6 @@ tags:
   - movimento-negro
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=aN1tZ4WfGC4)**
-
 Short sobre **Sofia**, menina negra pobre morta a tiros pelo crime organizado, e o silêncio das lideranças do movimento negro.
 
 ## O caso de Sofia
@@ -44,3 +42,7 @@ Renan estende a crítica para a sociedade como um todo — que se mobilizou pelo
 - [[temas/Segurança Pública]]
 - [[temas/Pautas Identitárias e de Gênero]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=aN1tZ4WfGC4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

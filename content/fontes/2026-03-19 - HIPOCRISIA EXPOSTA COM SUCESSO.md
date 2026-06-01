@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=P-DY_-JK_c4"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=P-DY_-JK_c4)**
-
 Renan critica o vídeo em que a deputada estadual **Fabiana Bolsonaro** se pintou de negra na Assembleia Legislativa de São Paulo para "denunciar a hipocrisia da causa trans", e usa o caso para contrastar desempenho legislativo real com shows políticos.
 
 ## Resumo
@@ -53,3 +51,7 @@ Como contraponto, cita que o deputado federal **Kim Kataguiri** (Partido Missão
 
 - [[fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA]]
 - [[fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=P-DY_-JK_c4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

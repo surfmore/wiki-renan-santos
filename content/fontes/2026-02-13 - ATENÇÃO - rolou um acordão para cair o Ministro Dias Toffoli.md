@@ -32,3 +32,7 @@ Renan convoca o espectador a exigir mais do que um único impeachment, e promete
 ## Eventos relacionados
 
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=-0R-8TyXz6s" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

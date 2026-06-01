@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=1v9DUT7eeIM"
 ---
 
-**Canal:** Renan Santos | **Data:** 5 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=1v9DUT7eeIM
-
 ---
 
 ## Resumo
@@ -44,3 +41,7 @@ Proposta completa:
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — combate direto ao crime
 - [[posicoes/Reforma Fiscal]] — funcionalismo dentro do teto constitucional
+
+---
+
+<a href="https://www.youtube.com/watch?v=1v9DUT7eeIM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

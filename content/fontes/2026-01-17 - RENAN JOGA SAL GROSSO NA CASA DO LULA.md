@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=7BGt-Z74dic"
 ---
 
-**Data:** 17 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=7BGt-Z74dic)**
-
 ## Resumo
 
 Renan filma de dentro do município de **Caetés (PE)**, diante da **casa da dona Lindu**, mãe de Lula, onde o presidente nasceu. O vídeo é uma "promessa simbólica" feita em território do que Renan chama de "o maior inimigo de todos nós".
@@ -31,3 +29,7 @@ O vídeo funciona como mobilização de pré-campanha — "nossa geração não 
 ## Pessoas mencionadas
 
 - **Lula** — acusado de enriquecimento ilícito e de ter filho e irmão no escândalo do INSS
+
+---
+
+<a href="https://www.youtube.com/watch?v=7BGt-Z74dic" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

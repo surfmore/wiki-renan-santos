@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=foEXwu24VMo"
 tipo: short
 ---
 
-**Data:** 1 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=foEXwu24VMo)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -49,3 +47,7 @@ Renan narra a trajetória do partido como prova de que a "morte" decretada pelos
 
 - [[pessoas/Flávio Bolsonaro]]
 - [[temas/Crítica à Direita Tradicional]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=foEXwu24VMo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

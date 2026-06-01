@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=IswxXzdFMQI"
 ---
 
-**Data:** 14 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=IswxXzdFMQI)**
-
 ## Resumo
 
 Renan comemora a prisão de **Fabiano Zettel** — ocorrida no mesmo dia em que houve operação contra Daniel Vorcaro — descrevendo-a como "momento para comemorar" e "mostra de independência da Polícia Federal."
@@ -39,3 +37,7 @@ Renan convoca para a **manifestação de 22 de janeiro**, onde pediria a prisão
 - **Fabiano Zettel** — cunhado de Vorcaro; pastor da Lagoinha; operador de festas; preso em jan/2026
 - [[pessoas/André Valadão]] — Igreja Lagoinha como cenário central do perfil de Zettel
 - **Daniel Vorcaro** — preso na mesma operação; ver [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=IswxXzdFMQI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

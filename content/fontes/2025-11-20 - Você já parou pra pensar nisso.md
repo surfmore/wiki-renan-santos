@@ -8,8 +8,6 @@ fontes:
   - "2025-11-20 - Você já parou pra pensar nisso"
 ---
 
-**Canal:** Renan Santos | **Data:** 20 de novembro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=8_k1hN7SY1A
 
 ## Resumo
 
@@ -29,3 +27,7 @@ Renan conclui que o assalto à mão armada, mesmo sem resultado de morte, "tem q
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=8_k1hN7SY1A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=tL6Oz5EE3UA"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=tL6Oz5EE3UA)**
-
 Renan Santos grava na **Favela da Providência** (RJ) — a mais antiga do Brasil — para apresentar em detalhe o **Marco Nacional da Desfavelização**, com custo estimado de **R$ 900 bilhões em 10 anos**.
 
 ## O diagnóstico
@@ -40,3 +38,7 @@ Custo: **R$ 900 bilhões em 10 anos**, combinando investimento público e privad
 - [[posicoes/Desfavelização do Rio de Janeiro]] — plano completo
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — retomada territorial
 - [[temas/Segurança Pública]] — condição prévia à urbanização
+
+---
+
+<a href="https://www.youtube.com/watch?v=tL6Oz5EE3UA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

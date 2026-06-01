@@ -26,3 +26,7 @@ Renan conclui com uma formulação direta: "Viver num lugar decente tem o seu pr
 ## Posições defendidas
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=mgVgdlOv5Yg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

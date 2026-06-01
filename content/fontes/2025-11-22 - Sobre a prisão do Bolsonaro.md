@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=ahC2GynzJ6U"
 ---
 
 **Data:** 22 de novembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=ahC2GynzJ6U
-
 ## Resumo
 
 Comentário de Renan sobre a **prisão de Jair Bolsonaro**. Toma distância dos dois lados: não celebra a "grande vitória de Alexandre de Moraes" nem defende Bolsonaro politicamente. Caracteriza o momento como "melancólico" para todos os envolvidos e pede humanidade na cobertura.
@@ -56,3 +53,7 @@ Para Renan, a prisão de Bolsonaro não é prioridade. O foco deve ser a "guerra
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Alexandre de Moraes]]
 - [[pessoas/Nikolas Ferreira]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ahC2GynzJ6U" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

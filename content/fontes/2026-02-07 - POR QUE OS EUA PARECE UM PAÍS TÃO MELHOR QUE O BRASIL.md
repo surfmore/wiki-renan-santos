@@ -12,8 +12,6 @@ fontes:
   - "2026-02-07 - POR QUE OS EUA PARECE UM PAÍS TÃO MELHOR QUE O BRASIL"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ynsai-Dz2LY)**
-
 Filmado em **Miami**, Renan usa a experiência cotidiana num parque público da cidade para responder à pergunta do título.
 
 ## A observação em Miami
@@ -40,3 +38,7 @@ Cita El Salvador: "o país mais perigoso das Américas, mais pobre que o nosso" 
 
 - [[temas/Segurança Pública]] — penas longas como deterrente, lei e ordem como condição de vida urbana digna
 - [[temas/Política Externa e Geopolítica]] — comparação EUA, El Salvador como modelos
+
+---
+
+<a href="https://www.youtube.com/watch?v=ynsai-Dz2LY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -9,7 +9,6 @@ fontes:
   - "2026-04-27 - PF do Lula censura cidadão"
 ---
 
-**Canal:** Renan Santos | **Data:** 27/04/2026 | [YouTube](https://www.youtube.com/watch?v=NHFwigAxtKk)
 
 ## Resumo
 
@@ -34,3 +33,7 @@ Renan anuncia que está oferecendo "auxílio jurídico" ao cidadão e que ele po
 
 - Cidadão tem direito de protestar contra o governo — nenhum policial pode impedir sem ação judicial
 - Uso da PF para proteger autoridade de manifestação é ditadura
+
+---
+
+<a href="https://www.youtube.com/watch?v=NHFwigAxtKk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

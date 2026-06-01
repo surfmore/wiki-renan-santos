@@ -13,8 +13,6 @@ tags:
   - nordeste
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=dbHFkC_ZnXQ)**
-
 Vídeo com depoimentos de um comerciante e um agricultor do interior nordestino sobre a escassez de mão de obra e a cultura de dependência do Bolsa Família. Renan atua como moderador da conversa.
 
 ## O que dizem os moradores locais
@@ -34,3 +32,7 @@ Os depoimentos são de moradores locais, não de Renan diretamente. O título do
 - [[posicoes/Frente de Trabalho para o Bolsa Família]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=dbHFkC_ZnXQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

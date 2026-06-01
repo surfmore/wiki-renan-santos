@@ -33,3 +33,7 @@ Renan dirige o recado ao mercado financeiro, imprensa e influenciadores bolsonar
 ## Fonte
 URL: https://www.youtube.com/watch?v=Yc4kyYrFWCA
 Data: 2026-05-13
+
+---
+
+<a href="https://www.youtube.com/watch?v=Yc4kyYrFWCA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

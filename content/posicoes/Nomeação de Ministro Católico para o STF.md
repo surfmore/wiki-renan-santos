@@ -1,0 +1,31 @@
+---
+title: "Nomeação de Ministro Católico para o STF"
+tags:
+  - posição
+  - stf
+  - religião
+  - liberdade-religiosa
+date: 2026-06-01
+fontes:
+  - "2026-06-01 - Frei Gilson é um Red Pill"
+---
+
+# Nomeação de Ministro Católico para o STF
+
+Renan Santos anuncia que, como presidente, nomearia um ministro do STF "terrivelmente católico" — em referência direta à expressão usada na indicação de [[pessoas/André Mendonça]] ao tribunal em 2021 ("terrivelmente evangélico").
+
+## O que propõe
+
+- Indicar ao STF um ministro que represente abertamente os valores católicos.
+- O novo ministro atuaria junto com [[pessoas/André Mendonça]] para "disciplinar a perseguição aos valores comuns do brasileiro".
+- Garantir que padres e pastores possam exercer sua pregação sem enquadramento criminal por defenderem a doutrina de suas igrejas.
+
+## Justificativa
+
+A proposta surge em resposta à ação do Ministério Público contra [[pessoas/Frei Gilson]], acusado de misoginia e homofobia por pregar doutrina católica. Para Renan, a maioria cristã do Brasil não está representada nas instituições — e o STF, em especial, age como instrumento de uma "minoria de esquerda de elite". A nomeação de um ministro católico seria uma forma de reequilibrar esse quadro.
+
+Ver [[temas/Liberdade Religiosa]] e [[temas/STF e Ativismo Judicial]].
+
+## Fontes
+
+- [[fontes/2026-06-01 - Frei Gilson é um Red Pill]]

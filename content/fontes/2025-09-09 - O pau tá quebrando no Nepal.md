@@ -14,8 +14,6 @@ tags:
   - stf
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=QdYJNUT6X-o)**
-
 Renan comenta a revolução no Nepal liderada por jovens da Geração Z, que derrubou em dois dias o governo de um partido de esquerda de matriz comunista, invadindo prédios públicos e destruindo espaços de poder.
 
 ## O contexto
@@ -35,3 +33,7 @@ A observação é feita no contexto do debate sobre censura judicial de redes so
 - [[temas/STF e Ativismo Judicial]]
 - [[temas/Política Externa e Geopolítica]]
 - [[temas/Mídia e Imprensa]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=QdYJNUT6X-o" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

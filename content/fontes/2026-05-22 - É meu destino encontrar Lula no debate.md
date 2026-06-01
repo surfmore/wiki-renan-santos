@@ -22,3 +22,7 @@ Vídeo de caráter anedótico, com conteúdo político mínimo além do gesto si
 ## Fonte
 URL: https://www.youtube.com/watch?v=qaPWhs6f10I
 Data: 2026-05-22
+
+---
+
+<a href="https://www.youtube.com/watch?v=qaPWhs6f10I" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

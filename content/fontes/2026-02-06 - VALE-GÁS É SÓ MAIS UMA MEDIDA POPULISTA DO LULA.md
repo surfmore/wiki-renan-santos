@@ -12,8 +12,6 @@ fontes:
   - "2026-02-06 - VALE-GÁS É SÓ MAIS UMA MEDIDA POPULISTA DO LULA"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=lcfkvxzhfLY)**
-
 Renan critica o Vale-Gás do governo Lula em debate, apresentando o argumento de que programas assistenciais em ano eleitoral configuram compra de voto.
 
 ## O argumento
@@ -40,3 +38,7 @@ Renan se recusa a competir oferecendo mais benefícios: "Se eu falar para as pes
 
 - [[temas/Empobrecimento e Mercado de Trabalho]] — assistencialismo vs. renda produtiva
 - [[temas/Carga Tributária]] — trabalhador paga os programas sem recebê-los
+
+---
+
+<a href="https://www.youtube.com/watch?v=lcfkvxzhfLY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

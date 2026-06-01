@@ -8,7 +8,6 @@ fontes:
   - "2026-05-05 - Você é a favor ou contra pregação em aviões"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=0QSpOjFyfmY) | **Canal:** Renan Santos | **Data:** 05/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -30,3 +29,7 @@ Encerra com declaração de governo: *"No Brasil que eu vou construir, o espaço
 ## Fontes
 
 - [[fontes/2026-05-05 - Você é a favor ou contra pregação em aviões]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=0QSpOjFyfmY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

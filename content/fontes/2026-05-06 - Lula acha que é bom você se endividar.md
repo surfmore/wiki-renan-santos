@@ -8,7 +8,6 @@ fontes:
   - "2026-05-06 - Lula acha que é bom você se endividar"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=6RnNW0SMwZM) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -36,3 +35,7 @@ Renan critica o programa **Desenrola** (1.0 e 2.0) do governo Lula. O vídeo par
 ## Fontes
 
 - [[fontes/2026-05-06 - Lula acha que é bom você se endividar]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=6RnNW0SMwZM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

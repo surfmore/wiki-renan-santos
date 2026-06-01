@@ -14,8 +14,6 @@ tags:
   - lava-jato
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=hsfwST_4qyQ)**
-
 Short em que Renan expõe a hipocrisia de Toffoli ao recusar-se a declarar suspeição no caso Banco Master, contrastando com sua postura na Lava-Jato.
 
 ## A posição de Toffoli em 2026
@@ -45,3 +43,7 @@ Renan convoca: apoiar a Polícia Federal no caso e ir às ruas, compartilhando a
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=hsfwST_4qyQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

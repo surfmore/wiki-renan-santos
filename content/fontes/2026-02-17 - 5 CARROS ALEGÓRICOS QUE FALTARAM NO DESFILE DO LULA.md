@@ -14,8 +14,6 @@ tags:
   - sátira
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=NnLWu3fRzmI)**
-
 Sátira de Renan sobre os cinco temas que, segundo ele, faltaram no desfile pró-Lula.
 
 ## Os cinco "carros" propostos
@@ -39,3 +37,7 @@ Renan sugere ainda um sexto carro — dos **membros do STF** amigos do Lula, "in
 - [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]]
 - [[eventos/Escândalo Banco Master]]
 - [[pessoas/Alexandre de Moraes]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=NnLWu3fRzmI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

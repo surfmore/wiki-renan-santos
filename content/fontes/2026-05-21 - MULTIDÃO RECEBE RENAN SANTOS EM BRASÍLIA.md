@@ -41,3 +41,7 @@ Live de evento de pré-campanha realizado em Brasília em 21/05/2026 — descrit
 ## Fonte
 URL: https://www.youtube.com/watch?v=cT2LyKfZenw
 Data: 2026-05-21
+
+---
+
+<a href="https://www.youtube.com/watch?v=cT2LyKfZenw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=H8bUaImmxNE"
 ---
 
 **Data:** 26 de novembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=H8bUaImmxNE
-
 ## Resumo
 
 Vídeo curto em que Renan retoma um caso anterior — uma juíza que foi filmada em tom amigável com um preso, tratando-o com benevolência — para informar que esse mesmo preso voltou a cometer crimes e morreu em confronto com a Polícia Militar.
@@ -37,3 +34,7 @@ Renan parabeniza a Polícia Militar:
 
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=H8bUaImmxNE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

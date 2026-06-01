@@ -13,9 +13,6 @@ fontes:
 
 # Carta aberta ao pequeno empresário brasileiro
 
-**Canal:** Renan Santos | **Data:** 29 de maio de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=VP78RgdFnh4
-
 ## Resumo
 
 Renan Santos dirige uma mensagem direta ao pequeno empresário brasileiro — manicures, donos de bar, restaurantes, escritórios de contabilidade, metalúrgicos, marceneiros, mecânicos, floriculturas — no contexto da aprovação da escala 6x1 pelo Congresso Nacional.
@@ -45,3 +42,7 @@ Renan defende que foi aos veículos de imprensa, falou na televisão e manteve "
 ## Fontes
 
 - [[fontes/2026-05-29 - Carta aberta ao pequeno empresário brasileiro]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=VP78RgdFnh4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -25,3 +25,7 @@ Renan desconstrói as versões de Flávio Bolsonaro sobre a relação com Daniel
 ## Fonte
 URL: https://www.youtube.com/watch?v=PezjZCK1zb0
 Data: 2026-05-14
+
+---
+
+<a href="https://www.youtube.com/watch?v=PezjZCK1zb0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,7 +10,6 @@ fontes:
   - "2026-03-09 - Eu fui no resort do Toffoli, o tal do Tayaya"
 ---
 
-**Canal:** Renan Santos | **Data:** 9 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=84ukI9cgV-4)
 
 ## Resumo
 
@@ -42,3 +41,7 @@ Prometeu que, ao chegar ao poder, enviará "essa turma" para um presídio de seg
 - **Ciro Nogueira** — lobista do cassino e do Banco Master
 - **Fabiano Zettel** — cunhado de Vorcaro; primeira compra no resort
 - **Ronaldo Fenômeno** — inaugurou o cassino
+
+---
+
+<a href="https://www.youtube.com/watch?v=84ukI9cgV-4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

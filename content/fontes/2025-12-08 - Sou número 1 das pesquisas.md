@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=be_adNV9r9Q"
 ---
 
 **Data:** 8 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=be_adNV9r9Q
-
 ## Resumo
 
 Renan denuncia o que chama de boicote sistemático dos institutos de pesquisa contra sua candidatura para as eleições de 2026. Usa um dado de pesquisa do Paraná Pesquisas para argumentar que o nicho "nenhum desses" — que ele afirma representar — é o maior da direita.
@@ -49,3 +46,7 @@ Termina com um apelo: "Institutos de pesquisa, não sejam dos. Me coloquem nas s
 - [[temas/Mídia e Imprensa]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Tarcísio de Freitas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=be_adNV9r9Q" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

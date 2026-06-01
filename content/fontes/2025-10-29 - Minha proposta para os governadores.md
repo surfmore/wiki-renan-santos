@@ -12,8 +12,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=nh0YgzVYUng)**
-
 Vídeo em que Renan Santos apresenta uma **estratégia anti-crime para governadores de oposição** e propõe uma **agenda única entre pré-candidatos à presidência**, a ser cumprida integralmente por quem vencer em 2026.
 
 ## O contexto: operação no Rio
@@ -54,3 +52,7 @@ Renan propõe que os pré-candidatos presidenciais endossem coletivamente esta a
 
 - [[pessoas/Tarcísio de Freitas]]
 - [[pessoas/Ratinho Júnior]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=nh0YgzVYUng" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

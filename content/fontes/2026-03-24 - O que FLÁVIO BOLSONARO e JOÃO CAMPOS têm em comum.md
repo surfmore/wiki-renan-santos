@@ -9,8 +9,6 @@ fontes:
   - "2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum"
 ---
 
-**Canal:** Renan Santos | **Data:** 24/03/2026
-**URL:** https://www.youtube.com/watch?v=X8WgKCgD44M
 
 ## Resumo
 
@@ -32,3 +30,7 @@ O Brasil tem problemas concretos urgentes que pedem "um líder forte que vai enf
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=X8WgKCgD44M" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

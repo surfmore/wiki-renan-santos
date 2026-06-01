@@ -13,8 +13,6 @@ tags:
   - saneamento
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Kq8WvH8-5gk)**
-
 Gravado em **Currais Novos (RN)**, município do interior do Rio Grande do Norte com sérios déficits de infraestrutura básica.
 
 ## Os números de Currais Novos
@@ -43,3 +41,7 @@ Renan critica a combinação de negligência com o básico e gasto com entreteni
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Fusão de Municípios]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Kq8WvH8-5gk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

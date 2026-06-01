@@ -9,8 +9,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=_oXqde6APf4"
 ---
 
-**Data:** 21 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=_oXqde6APf4)**
-
 ## Resumo
 
 Renan comenta a **pesquisa Atlas publicada naquele dia**, que mostrou que ele ultrapassou os governadores Ratinho Júnior, Romeu Zema e Ronaldo Caiado nas intenções de voto para a presidência. Segundo ele, o resultado é "assustador em muitos termos": não apenas cresceu em todos os cenários testados, mas cresceu em todas as regiões do país.
@@ -31,3 +29,7 @@ A meta declarada é **10% de intenção de voto até a metade do ano de 2026**. 
 - [[pessoas/Ratinho Júnior]] — governador superado na pesquisa
 - [[pessoas/Ronaldo Caiado]] — governador superado na pesquisa
 - [[pessoas/Flávio Bolsonaro]] — citado como candidato que, segundo Renan, perderia para Lula no segundo turno
+
+---
+
+<a href="https://www.youtube.com/watch?v=_oXqde6APf4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

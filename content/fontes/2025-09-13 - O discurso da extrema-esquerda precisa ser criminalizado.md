@@ -13,8 +13,6 @@ tags:
   - violência-política
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=wphFscbDHZs)**
-
 Renan faz declaração direta e sintética sobre a necessidade de criminalizar o discurso da esquerda radical.
 
 ## A tese
@@ -42,3 +40,7 @@ Vídeo complementa a série de declarações feitas após a morte de Charlie Kir
 ## Eventos
 
 - [[eventos/Morte de Charlie Kirk - Setembro de 2025]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=wphFscbDHZs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

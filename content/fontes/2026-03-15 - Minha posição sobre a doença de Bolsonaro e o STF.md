@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=q8MRm89Jzpg"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=q8MRm89Jzpg)**
-
 Renan defende, com base em argumentos humanitários e republicanos, que Jair Bolsonaro — muito doente e preso — deveria ter sua situação aliviada pelo STF. Ao mesmo tempo, critica Alexandre de Moraes por transformar o caso em "vendeta pessoal".
 
 ## Resumo
@@ -59,3 +57,7 @@ Termina com uma reflexão sobre como a política desumaniza as pessoas a ponto d
 
 - [[fontes/2026-04-09 - Xandão quer mudar delação premiada]]
 - [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=q8MRm89Jzpg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

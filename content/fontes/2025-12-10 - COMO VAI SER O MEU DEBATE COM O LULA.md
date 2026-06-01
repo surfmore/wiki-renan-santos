@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=H5HKjld_K54"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=H5HKjld_K54)**
-
 Vídeo em que Renan enuncia as perguntas que faria ao presidente Lula num debate presidencial de 2026, reunindo numa sequência a série de escândalos que associa ao governo.
 
 ## As perguntas ao presidente Lula
@@ -50,3 +48,7 @@ Por que os estados em que Lula é mais votado são os mais pobres, e por que Lul
 - [[temas/Segurança Pública]]
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=H5HKjld_K54" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

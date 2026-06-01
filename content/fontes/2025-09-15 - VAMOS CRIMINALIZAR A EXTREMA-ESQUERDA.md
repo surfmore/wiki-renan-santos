@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=fJVRBWdM2Yk)**
-
 Versão longa da proposta de criminalizar o uso político de "nazista" e "fascista" como incitação ao crime, com a lógica completa descrita por Renan Santos.
 
 ## A cadeia lógica que Renan descreve
@@ -40,3 +38,7 @@ Renan ironiza: pessoas que estudaram anos em universidades de ciências humanas,
 ## Temas relacionados
 
 - [[posicoes/Criminalização da Incitação pelo Discurso de Ódio Político]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=fJVRBWdM2Yk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

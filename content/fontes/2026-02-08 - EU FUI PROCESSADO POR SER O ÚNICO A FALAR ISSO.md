@@ -12,8 +12,6 @@ fontes:
   - "2026-02-08 - EU FUI PROCESSADO POR SER O ÚNICO A FALAR ISSO"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=6vKBKwuLuRM)**
-
 Renan explica que foi condenado em processo movido pela intelectual de esquerda **Djamila Ribeiro** e usa o caso para desenvolver a tese de que o movimento negro é um "braço do crime organizado" com financiamento de George Soros.
 
 ## A condenação por "jeca"
@@ -50,3 +48,7 @@ No seu governo, proibirá esse tipo de dinheiro de entrar no Brasil "para criar 
 - [[temas/Soberania Nacional e ONGs Estrangeiras]] — Soros, Instituto Marielle Franco, ONGs pró-descarceramento
 - [[temas/Segurança Pública]] — vítimas negras ignoradas pelo ativismo racial
 - [[temas/STF e Ativismo Judicial]] — condenação judicial por opinião
+
+---
+
+<a href="https://www.youtube.com/watch?v=6vKBKwuLuRM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

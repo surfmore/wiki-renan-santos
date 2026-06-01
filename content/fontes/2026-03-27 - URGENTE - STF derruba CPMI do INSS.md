@@ -53,3 +53,7 @@ Convoca **manifestação na Paulista** (a mesma referência do ato de 11 de abri
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=quidcPN5uV4
+
+---
+
+<a href="https://www.youtube.com/watch?v=quidcPN5uV4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

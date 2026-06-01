@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=AIxN6bq6Swc"
 ---
 
 **Data:** 4 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=AIxN6bq6Swc
-
 ## Resumo
 
 Renan mostra imagens de Belém após a COP30 e as usa para criticar o que chama de "ressaca moral" do evento: a cidade ficou pior do que antes, os beneficiários foram políticos locais e a Janja, e a conta ficou para o contribuinte.
@@ -48,3 +45,7 @@ Renan critica diretamente Belém e o Pará:
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[pessoas/Família Barbalho]]
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=AIxN6bq6Swc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

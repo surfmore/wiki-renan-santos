@@ -14,9 +14,6 @@ tipo: "short"
 ---
 
 **Data:** 27 de maio de 2026
-**Canal:** Renan Santos
-**URL:** https://www.youtube.com/watch?v=_spusOkYXqY
-
 ## Resumo
 
 Gravado em Salvador, Renan visita a primeira unidade do **Cesta do Povo** — mercadão da rede pública baiana — que, segundo ele, foi a origem do escândalo do Banco Master. O argumento central: um programa social do PT em Salvador evoluiu, em duas décadas, para a maior roubaleira da história do Brasil.
@@ -47,3 +44,7 @@ Sobre o silêncio político local: **ACM Neto** e **Jaques Wagner** — situaç�
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=_spusOkYXqY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

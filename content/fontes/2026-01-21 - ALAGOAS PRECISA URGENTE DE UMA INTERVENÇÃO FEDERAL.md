@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=d7WgznFQb3M"
 ---
 
-**Data:** 21 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=d7WgznFQb3M)**
-
 ## Resumo
 
 Renan parte de um caso concreto: **Gustavo**, secretário de saúde de Alagoas, desviou cerca de **R$ 100 milhões** da área da saúde para oferecer à amante "uma vida de princesa" — carro, empregos, empresas. Apesar da gravidade, Renan prevê que o governador responsável pela nomeação será reeleito sem consequências, porque o eleitorado alagoano, segundo ele, vende votos por sacos de cimento ou R$ 500.
@@ -37,3 +35,7 @@ A proposta é explícita: **intervenção federal em Alagoas**, com destituiçã
 
 - **Gustavo** (secretário de saúde de Alagoas, sem sobrenome mencionado) — acusado de desviar R$100M para amante
 - Famílias **Lira**, **Collor** e **Calheiros** citadas como oligarquias estruturais do estado
+
+---
+
+<a href="https://www.youtube.com/watch?v=d7WgznFQb3M" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

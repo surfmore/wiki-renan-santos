@@ -14,9 +14,6 @@ tags:
 ---
 
 **Data:** 26 de maio de 2026
-**Canal:** Renan Santos
-**URL:** https://www.youtube.com/watch?v=RNNhQLBH2p4
-
 ## Resumo
 
 Renan Santos faz um argumento simples sobre a estratégia eleitoral de Lula: o governo distribui benefícios pontuais (botijão de gás, subsídios de energia elétrica) ao mesmo tempo em que provoca a inflação que corrói o poder de compra da mesma população. A população, segundo Renan, já percebe esse padrão.
@@ -41,3 +38,7 @@ Renan usa o clip para reforçar seu próprio posicionamento em contraste: enquan
 ## Fontes relacionadas
 
 - [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — outra crítica à estratégia eleitoral do PT
+
+---
+
+<a href="https://www.youtube.com/watch?v=RNNhQLBH2p4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

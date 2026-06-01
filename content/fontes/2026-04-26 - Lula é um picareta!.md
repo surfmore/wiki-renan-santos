@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=pinC2jrXllw"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=pinC2jrXllw)**
-
 Renan responde a um vídeo de Lula afirmando que o Brasil poderia ser a sexta economia do mundo não fosse a má administração — argumentando que a responsabilidade é exatamente do PT.
 
 ## Conteúdo
@@ -47,3 +45,7 @@ Renan anuncia que vai enfrentar Lula nos debates eleitorais de 2026 e que Lula "
 - [[temas/Crítica à Direita Tradicional]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=pinC2jrXllw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

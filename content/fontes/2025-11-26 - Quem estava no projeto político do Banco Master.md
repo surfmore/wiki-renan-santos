@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=m65ehhD3sWI"
 ---
 
 **Data:** 26 de novembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=m65ehhD3sWI
-
 ## Resumo
 
 Um dos primeiros vídeos de Renan sobre o [[eventos/Escândalo Banco Master]], produzido antes da prisão de qualquer envolvido. Renan apresenta um "mapa" visual conectando Daniel Vorcaro a uma rede que inclui governo Lula, governo Bolsonaro, centrão e STF.
@@ -64,3 +61,7 @@ Renan descreve o funcionamento: o banco deu "um golpe gigantesco, multibilionár
 - [[pessoas/Guido Mantega]]
 - [[pessoas/Tarcísio de Freitas]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=m65ehhD3sWI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

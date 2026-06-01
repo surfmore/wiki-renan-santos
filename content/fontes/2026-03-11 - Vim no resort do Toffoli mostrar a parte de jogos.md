@@ -11,7 +11,6 @@ fontes:
   - "2026-03-11 - Vim no resort do Toffoli mostrar a parte de jogos que tentaram esconder"
 ---
 
-**Canal:** Renan Santos | **Data:** 11 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=Yv9F81iu6zI)
 
 ## Resumo
 
@@ -34,3 +33,7 @@ O vídeo complementa a exposição mais detalhada do resort em [[fontes/2026-03-
 - **Dias Toffoli** — concedeu licença para Pay Brokers operar as máquinas
 - [[pessoas/Ratinho Júnior]] — doação de R$ 400K; pai sócio; garoto-propaganda do Cred
 - **Pedro Deirô** — interlocutor local no Paraná
+
+---
+
+<a href="https://www.youtube.com/watch?v=Yv9F81iu6zI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

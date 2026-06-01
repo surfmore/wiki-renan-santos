@@ -28,3 +28,7 @@ Propõe como ação concreta: enviar o vídeo para pais e avós que ainda não c
 ## Fonte
 URL: https://www.youtube.com/watch?v=QRj1XfuwHeE
 Data: 2026-05-14
+
+---
+
+<a href="https://www.youtube.com/watch?v=QRj1XfuwHeE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=r73B5WO-ShI"
 ---
 
 **Data:** 21 de novembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=r73B5WO-ShI
-
 ## Resumo
 
 Renan entrevista ou reproduz um vídeo de uma moradora de Belém que descreve suas condições de vida — cobras, ratos, lixo, esgoto embaixo da casa — e que admite ter votado no candidato local mesmo recebendo apenas promessas por décadas. Renan usa o depoimento para contextualizar a COP30 e criticar a [[pessoas/Família Barbalho]].
@@ -48,3 +45,7 @@ Sobre a COP30 (realizada em Belém dias antes, novembro de 2025):
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[pessoas/Família Barbalho]]
 - [[temas/Agronegócio e Matopiba]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=r73B5WO-ShI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

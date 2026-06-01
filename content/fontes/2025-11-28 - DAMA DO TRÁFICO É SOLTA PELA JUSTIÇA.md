@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=ytLmkGW3rQE"
 ---
 
 **Data:** 28 de novembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=ytLmkGW3rQE
-
 ## Resumo
 
 Renan reage à notícia da soltura da **esposa de um chefe do Comando Vermelho no Amazonas** — denominada "Dama do tráfico" — para cumprir prisão domiciliar, justificada por problemas psicológicos das filhas. Usa o caso para atacar o judiciário como "tribunal do crime" e para criticar a assimetria no tratamento entre vítimas e criminosos.
@@ -42,3 +39,7 @@ Renan indica que já havia tratado do caso de debate com Lula, ao citar "Dama do
 
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ytLmkGW3rQE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

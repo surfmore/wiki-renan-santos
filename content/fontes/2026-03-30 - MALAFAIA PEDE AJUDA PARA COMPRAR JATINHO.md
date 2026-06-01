@@ -50,3 +50,7 @@ Usa o texto como chave do seu projeto político: "**não tenha vergonha de ser h
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=uJLNPNy6oSQ
+
+---
+
+<a href="https://www.youtube.com/watch?v=uJLNPNy6oSQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

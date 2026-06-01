@@ -8,7 +8,6 @@ fontes:
   - "2026-05-07 - Minha resposta ao Wesley Safadão"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=LS6uwJQr1Es) | **Canal:** Renan Santos | **Data:** 07/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -31,3 +30,7 @@ Aponta que outros artistas nordestinos (cita "Henrique e Juliano") são ricos se
 ## Fontes
 
 - [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=LS6uwJQr1Es" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

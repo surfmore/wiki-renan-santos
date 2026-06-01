@@ -21,3 +21,7 @@ O conteúdo político atribuível ao Renan é mínimo — trata-se essencialment
 ## Fonte
 URL: https://www.youtube.com/watch?v=YRIeHMZ0Ktw
 Data: 2026-05-15
+
+---
+
+<a href="https://www.youtube.com/watch?v=YRIeHMZ0Ktw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

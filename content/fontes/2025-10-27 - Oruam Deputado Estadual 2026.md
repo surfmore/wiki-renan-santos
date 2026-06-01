@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ERqIAbWD1Go)**
-
 Renan Santos reage ao anúncio de que **Oruam** — rapper, filho do traficante Marcinho VP, e que Renan considera porta-voz do Comando Vermelho — pretende se candidatar a **deputado estadual no Rio de Janeiro em 2026**.
 
 ## O interesse estratégico
@@ -40,3 +38,7 @@ Defende que esses eleitores devem ser **"ridicularizados"** e "demovidos dessa i
 - [[pessoas/Oruam]]
 - [[temas/Segurança Pública]]
 - [[temas/Pautas Identitárias e de Gênero]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ERqIAbWD1Go" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

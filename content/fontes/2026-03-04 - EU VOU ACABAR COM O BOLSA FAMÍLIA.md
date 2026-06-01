@@ -41,4 +41,6 @@ Renan cita explicitamente o **presidente Franklin Roosevelt** (EUA, anos 1930), 
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=JUh6vk4qKJQ](https://www.youtube.com/watch?v=JUh6vk4qKJQ)
+---
+
+<a href="https://www.youtube.com/watch?v=JUh6vk4qKJQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=_pALlrEEVG0"
 ---
 
 **Data:** 4 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=_pALlrEEVG0
-
 ## Resumo
 
 Renan denuncia uma mudança na **Lei de Diretrizes Orçamentárias (LDO)** que, segundo ele, permite pela primeira vez que o governo federal faça gastos e entregas nos três meses anteriores à eleição — período que hoje é vedado. Classifica a mudança como "fraude" e "golpe eleitoral."
@@ -44,3 +41,7 @@ Renan lista as ações que Lula já anuncia ou pratica:
 - [[temas/Empobrecimento e Mercado de Trabalho]]
 - [[temas/Carga Tributária]]
 - [[posicoes/Combate à Fraude Eleitoral via LDO]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=_pALlrEEVG0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

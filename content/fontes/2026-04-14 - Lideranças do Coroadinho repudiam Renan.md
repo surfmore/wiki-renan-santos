@@ -13,8 +13,6 @@ tags:
   - segurança
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=QyXS1zM-Rls)**
-
 Resposta de Renan a uma nota de repúdio emitida por uma associação de moradores do **bairro Coroadinho** (São Luís, MA), após Renan ter chamado a região de "filial do inferno."
 
 ## Conteúdo
@@ -47,3 +45,7 @@ Mais de 30% da população de São Luís vive em favelas. O prefeito Braide, que
 - [[temas/Segurança Pública]] — Bonde dos 40; cinco facções; taxa de homicídios
 - [[temas/Desigualdade Regional e Migração Interna]] — Coroadinho como síntese do colapso do MA; 30%+ de São Luís em favelas
 - [[posicoes/Desfavelização do Rio de Janeiro]] — proposta de transformar favelas em bairros, incluindo MA
+
+---
+
+<a href="https://www.youtube.com/watch?v=QyXS1zM-Rls" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

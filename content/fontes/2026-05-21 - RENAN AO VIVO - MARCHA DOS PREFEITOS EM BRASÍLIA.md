@@ -52,3 +52,7 @@ Recusa a pergunta sobre preferência entre PT e Bolsonaro no segundo turno. Afir
 ## Fonte
 URL: https://www.youtube.com/watch?v=HhWVnuqCcmw
 Data: 2026-05-21
+
+---
+
+<a href="https://www.youtube.com/watch?v=HhWVnuqCcmw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

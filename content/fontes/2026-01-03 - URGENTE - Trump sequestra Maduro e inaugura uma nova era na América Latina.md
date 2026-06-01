@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=xgnXRQFcfjI"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=xgnXRQFcfjI)**
-
 Renan comemora a operação americana que depôs Nicolás Maduro — descrita como uma invasão noturna ao palácio presidencial com poucas baixas — mas faz uma leitura ambivalente: é boa do ponto de vista humanitário, mas representa uma derrota geopolítica para o Brasil.
 
 ## Por que é boa notícia (humanitária e estratégica)
@@ -37,3 +35,7 @@ Renan descreve o movimento como uma **nova versão da Doutrina Monroe**: a Amér
 
 - [[temas/Política Externa e Geopolítica]]
 - [[temas/Imigração e Fronteiras]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=xgnXRQFcfjI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

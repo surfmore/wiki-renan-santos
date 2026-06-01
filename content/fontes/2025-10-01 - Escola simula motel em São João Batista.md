@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=LHjYyNWWXXU)**
-
 Renan Santos usa a viralização de um vídeo de uma escola em **São João Batista (MA)** — onde crianças simulavam práticas de motel com aprovação dos professores — para expor o que chama de "iceberg" de um problema nacional: cidades pequenas corruptas e inviáveis sustentadas com dinheiro federal.
 
 ## O caso em números
@@ -44,3 +42,7 @@ Renan usa o caso para reiterar:
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=LHjYyNWWXXU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -27,3 +27,7 @@ Renan lista as características que ele compartilharia com os dois: fundou o pr�
 ## Fonte
 URL: https://www.youtube.com/watch?v=xj90cmHOeUI
 Data: 2026-05-23
+
+---
+
+<a href="https://www.youtube.com/watch?v=xj90cmHOeUI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

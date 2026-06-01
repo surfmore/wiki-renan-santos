@@ -12,8 +12,6 @@ fontes:
   - "2026-02-10 - PROJETO LEVE POÇOS NO RIO GRANDE DO NORTE"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=TvuFple3kPU)**
-
 Renan visita instalação do projeto **Leve Poços** (site: levepoos.com) no sertão do Rio Grande do Norte — um poço artesiano movido por energia solar para irrigação agrícola em área remota da caatinga.
 
 ## O projeto
@@ -44,3 +42,7 @@ Renan anuncia intenção de ampliar o projeto para outros pontos do sertão. O s
 
 - [[temas/Desigualdade Regional e Migração Interna]] — desenvolvimento econômico no semiárido
 - [[temas/Agronegócio e Matopiba]] — agricultura familiar de pequeno porte no sertão
+
+---
+
+<a href="https://www.youtube.com/watch?v=TvuFple3kPU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

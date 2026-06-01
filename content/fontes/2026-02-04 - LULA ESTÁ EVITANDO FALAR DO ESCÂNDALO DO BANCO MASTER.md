@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=UktEiK2v80w"
 tipo: short
 ---
 
-**Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=UktEiK2v80w)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -46,3 +44,7 @@ Renan anuncia que estará na frente do Banco Master em São Paulo na quinta-feir
 ## Eventos relacionados
 
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=UktEiK2v80w" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

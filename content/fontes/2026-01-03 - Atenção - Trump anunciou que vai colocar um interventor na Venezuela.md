@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=iq9BXiI4W1Y"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=iq9BXiI4W1Y)**
-
 Renan usa o anúncio de Trump de um interventor para a transição democrática na Venezuela como argumento de validade para sua proposta de intervenção federal em estados brasileiros com baixo IDH.
 
 ## O paralelo Venezuela-estados deficitários brasileiros
@@ -37,3 +35,7 @@ Renan mostra um mapa com municípios "em cinza" — cidades "quase que exclusiva
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[temas/Política Externa e Geopolítica]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=iq9BXiI4W1Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

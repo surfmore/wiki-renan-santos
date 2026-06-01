@@ -13,8 +13,6 @@ tags:
   - agronegócio
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=FqT1cL_4zHM)**
-
 Renan explica a proposta de desenvolvimento do Nordeste a partir da região **Matopiba** (Maranhão, Tocantins, Piauí e Bahia). Destaca que o agronegócio oriundo do Centro-Oeste já invadiu essas regiões férteis, gerando "alto desenvolvimento econômico e desconstrução das antigas oligarquias".
 
 ## Proposta: indústria de biocombustíveis em Matopiba
@@ -37,3 +35,7 @@ Renan diferencia "industrialização" de simplesmente construir fábricas: defen
 
 - [[temas/Agronegócio e Matopiba]]
 - [[temas/Desigualdade Regional e Migração Interna]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=FqT1cL_4zHM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

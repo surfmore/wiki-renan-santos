@@ -33,3 +33,7 @@ Renan sugere um motivo: o **dono da CNN**, **Rubens Menin**, seria amigo tanto d
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=m37srOIRthE
+
+---
+
+<a href="https://www.youtube.com/watch?v=m37srOIRthE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

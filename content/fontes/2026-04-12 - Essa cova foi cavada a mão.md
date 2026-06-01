@@ -30,3 +30,7 @@ Apresenta propostas concretas: prefeito só poderá realizar shows se indicadore
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=c9fDeYzKVpM
+
+---
+
+<a href="https://www.youtube.com/watch?v=c9fDeYzKVpM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

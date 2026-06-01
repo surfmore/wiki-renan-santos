@@ -13,9 +13,6 @@ url: "https://www.youtube.com/watch?v=vayjq9xbUFs"
 ---
 
 **Data:** 27 de novembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=vayjq9xbUFs
-
 ## Resumo
 
 Discurso de motivação eleitoral com foco na estratégia de Renan de virar votos no Nordeste como condição necessária para derrotar o PT definitivamente.
@@ -46,3 +43,7 @@ Explica que o número do Partido Missão é 14 porque "o único número que supe
 
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[posicoes/Frente de Trabalho para o Bolsa Família]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=vayjq9xbUFs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

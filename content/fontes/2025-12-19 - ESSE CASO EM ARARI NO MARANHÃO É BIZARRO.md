@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=o2Kqmc9DrD8"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=o2Kqmc9DrD8)**
-
 Primeiro vídeo de Renan sobre Arari (MA), combinando denúncia de corrupção com crítica às redes sociais e ao pacto federativo. O caso da influencer Ingrid Andrade e do ex-prefeito Rui Filho viraria tema recorrente nos meses seguintes.
 
 ## O caso Arari
@@ -50,3 +48,7 @@ Renan usa o caso para três conclusões:
 - [[temas/Corrupção Municipal]]
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=o2Kqmc9DrD8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

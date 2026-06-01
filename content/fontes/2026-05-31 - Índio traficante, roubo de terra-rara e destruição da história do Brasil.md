@@ -29,3 +29,7 @@ Renan afirma que o status especial do indígena no Brasil estaria sendo usado pa
 ## Posições defendidas
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=mqN9TaBJ3ZY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

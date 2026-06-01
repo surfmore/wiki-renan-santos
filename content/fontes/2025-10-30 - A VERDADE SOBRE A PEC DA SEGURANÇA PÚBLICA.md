@@ -11,8 +11,6 @@ fontes:
   - "2025-10-30 - A VERDADE SOBRE A PEC DA SEGURANÇA PÚBLICA"
 ---
 
-**Canal:** Renan Santos | **Data:** 30 de outubro de 2025 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=O2Pw33Z8YkY
 
 ## Resumo
 
@@ -48,3 +46,7 @@ Renan defende que o caminho correto é: **penas duras**, **bandido na cadeia ou 
 - [[temas/Segurança Pública]]
 - [[posicoes/Expulsão de ONGs Estrangeiras]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=O2Pw33Z8YkY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

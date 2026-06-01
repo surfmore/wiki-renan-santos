@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=ggU3eQDGJCw"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=ggU3eQDGJCw)**
-
 Renan visita o **Marco Zero de Curitiba** — considerada a melhor capital do Brasil — e documenta a degradação do espaço público pela concentração de moradores de rua, usuários de drogas e traficantes, propondo legislação federal de intervenção.
 
 ## Resumo
@@ -49,3 +47,7 @@ Renan critica o modelo de "misturar assistência social com o centro de cidade":
 ## Fontes relacionadas
 
 - [[fontes/2026-04-01 - Eu odeio mendigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=ggU3eQDGJCw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

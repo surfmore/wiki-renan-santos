@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=P8MO7jRPHL8"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=P8MO7jRPHL8)**
-
 Renan compara duas cidades que visitou — **São Miguel do Oeste (SC)** e **Santo Antônio dos Lopes (MA)** — para demonstrar o paradoxo do pacto federativo: mais dinheiro federal não produz melhor qualidade de vida quando a classe política é ruim.
 
 ## Os dados comparados
@@ -44,3 +42,7 @@ O vídeo é uma colaboração com **Felipe Barcelos**, pré-candidato a deputado
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=P8MO7jRPHL8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

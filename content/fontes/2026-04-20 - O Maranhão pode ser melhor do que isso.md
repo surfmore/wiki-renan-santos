@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=Tty52sfOqvk"
 ---
 
 **Data:** 20 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=Tty52sfOqvk)
-
 ## Resumo
 
 Em visita ao sul do Maranhão — região que Renan descreve como "produtiva", cobrindo Estreito, Imperatriz e Balsas — Renan apresenta uma visão positiva do potencial do estado, em contraste com os vídeos anteriores sobre a miséria de São Luís e Coroadinho.
@@ -35,3 +32,7 @@ O sul do Maranhão é descrito como uma região que "invade o estado mais pobre 
 ## Pessoas mencionadas
 
 - Família Sarney, Brandão, Everton Rocha — classe política do MA, mencionados como símbolo do fracasso
+
+---
+
+<a href="https://www.youtube.com/watch?v=Tty52sfOqvk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

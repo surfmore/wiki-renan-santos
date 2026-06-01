@@ -41,3 +41,7 @@ O vídeo encerra com Renan declarando que torce pelo Brasil do Hendrick na Copa 
 ## Fontes
 
 - [[fontes/2026-05-31 - Existem dois caminhos o do João Fonseca e o do Neymar]] — vídeo original
+
+---
+
+<a href="https://www.youtube.com/watch?v=p7Qd1808gLA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -31,3 +31,7 @@ O vídeo tem caráter motivacional e identitário, sem propostas concretas novas
 
 URL: https://www.youtube.com/watch?v=l9TWvic-tec
 Data: 2026-05-11
+
+---
+
+<a href="https://www.youtube.com/watch?v=l9TWvic-tec" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

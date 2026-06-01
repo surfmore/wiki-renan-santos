@@ -8,7 +8,6 @@ fontes:
   - "2026-05-06 - O que é o prendeu m4tou"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=PylJ5V8SUzM) | **Canal:** Renan Santos | **Data:** 06/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -34,3 +33,7 @@ O vídeo também inclui trecho de comentário sobre a Globo naturalizar o tráfi
 ## Fontes
 
 - [[fontes/2026-05-06 - O que é o prendeu m4tou]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=PylJ5V8SUzM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

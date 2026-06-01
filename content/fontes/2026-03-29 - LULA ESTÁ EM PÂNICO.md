@@ -58,3 +58,7 @@ Fecha com a formulação: "eu sou o **remédio amargo** que vai fazer as reforma
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=lTTrI0zmpYk
+
+---
+
+<a href="https://www.youtube.com/watch?v=lTTrI0zmpYk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

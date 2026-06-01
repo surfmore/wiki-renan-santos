@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=_86LeYf9GXc"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=_86LeYf9GXc)**
-
 Renan visita **Guaraciaba**, no Oeste Catarinense, para mostrar uma obra de pavimentação iniciada no **PAC 1 do governo Dilma em 2012** — ainda em andamento 14 anos depois.
 
 ## O caso de Guaraciaba
@@ -45,3 +43,7 @@ Resultado: prefeitos e governadores de estados como Maranhão precisam entregar 
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[temas/Infraestrutura e Estradas no Maranhão]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=_86LeYf9GXc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

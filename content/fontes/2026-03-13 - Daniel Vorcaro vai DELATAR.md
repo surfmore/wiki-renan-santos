@@ -10,7 +10,6 @@ fontes:
   - "2026-03-13 - Daniel Vorcaro vai DELATAR!"
 ---
 
-**Canal:** Renan Santos | **Data:** 13 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=Q3NLLv9rKlQ)
 
 ## Resumo
 
@@ -32,3 +31,7 @@ Renan lança a campanha **#delaVorcaro** e pede que o público mantenha pressão
 - **Daniel Vorcaro** — mantido preso; delação pronta segundo Renan; fuga planejada para Dubai
 - **Marta Graeff** — ex-noiva de Vorcaro; estava na fuga planejada
 - **Cásio Nunes** — voto decisivo a favor da prisão
+
+---
+
+<a href="https://www.youtube.com/watch?v=Q3NLLv9rKlQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

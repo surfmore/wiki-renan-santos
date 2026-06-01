@@ -55,3 +55,7 @@ Afirma que toda a direita brasileira — incluindo ex-membros do seu próprio mo
 ## Fonte
 URL: https://www.youtube.com/watch?v=Mjrt13Iq9Gc
 Data: 2026-05-23
+
+---
+
+<a href="https://www.youtube.com/watch?v=Mjrt13Iq9Gc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -36,3 +36,7 @@ Compromete-se a eleger uma "bancada gigantesca pelo Partido Missão, só de gent
 
 URL: https://www.youtube.com/watch?v=vk1YmoAjq_g
 Data: 2026-05-11
+
+---
+
+<a href="https://www.youtube.com/watch?v=vk1YmoAjq_g" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

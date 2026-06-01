@@ -37,4 +37,6 @@ Este vídeo antecede em um dia a aprovação final no Senado, registrada em [[fo
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=W8yqYlGRVNY](https://www.youtube.com/watch?v=W8yqYlGRVNY)
+---
+
+<a href="https://www.youtube.com/watch?v=W8yqYlGRVNY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

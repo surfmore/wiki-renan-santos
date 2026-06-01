@@ -33,3 +33,7 @@ Renan convoca manifestação na Avenida Paulista no sábado (11 de abril) contra
 
 - [[eventos/Escândalo Banco Master]]
 - [[eventos/Manifestação na Paulista — 11 de abril de 2026]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=oAEzEIWzRYE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

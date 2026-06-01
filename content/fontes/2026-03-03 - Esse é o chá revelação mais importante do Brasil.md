@@ -43,4 +43,6 @@ Cita **estudo da FGV de 2007**: a maioria dos jovens que cometem crimes não tem
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=sak4Wd4-pPw](https://www.youtube.com/watch?v=sak4Wd4-pPw)
+---
+
+<a href="https://www.youtube.com/watch?v=sak4Wd4-pPw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

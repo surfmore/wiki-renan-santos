@@ -12,8 +12,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=4Z3-mEVLIw8"
 ---
 
-**Data:** 20 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=4Z3-mEVLIw8)**
-
 ## Resumo
 
 Renan interpela diretamente três figuras da direita evangélica — Nikolas Ferreira, Flávio Bolsonaro e Silas Malafaia — questionando por que nenhum deles comenta o **envolvimento da Igreja Lagoinha** nos escândalos do INSS e do Banco Master.
@@ -45,3 +43,7 @@ Renan conclui com referência a João 8:32 ("a verdade vos libertará"), ironiza
 - **Nikolas Ferreira** — viajou de jatinho com Valadão para fazer campanha em 2022; saiu andando sem explicar ao ser perguntado sobre a Lagoinha
 - **Daniel Vorcaro** — origem na Lagoinha; ver [[eventos/Escândalo Banco Master]]
 - **Fabiano Zettel** — pastor da Lagoinha Belvedere; operador de festas de Vorcaro; cunhado de Vorcaro
+
+---
+
+<a href="https://www.youtube.com/watch?v=4Z3-mEVLIw8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

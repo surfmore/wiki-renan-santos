@@ -10,7 +10,6 @@ fontes:
   - "2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=Z3jzGx5Ar9E) · Canal Renan Santos · Short · 19/02/2026
 
 ## Resumo
 
@@ -29,3 +28,7 @@ Cita o presidente do Senado **Alcolumbre** dançando nas redes sociais como sím
 
 - [[temas/Segurança Pública]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Z3jzGx5Ar9E" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

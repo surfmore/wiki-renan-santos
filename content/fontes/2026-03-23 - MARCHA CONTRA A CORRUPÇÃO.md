@@ -9,8 +9,6 @@ fontes:
   - "2026-03-23 - MARCHA CONTRA A CORRUPÇÃO!"
 ---
 
-**Canal:** Renan Santos | **Data:** 23/03/2026
-**URL:** https://www.youtube.com/watch?v=x6NcLuTvHTw
 
 ## Resumo
 
@@ -22,3 +20,7 @@ Contexto: o short foi publicado na mesma semana em que Renan convocou uma marcha
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=x6NcLuTvHTw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

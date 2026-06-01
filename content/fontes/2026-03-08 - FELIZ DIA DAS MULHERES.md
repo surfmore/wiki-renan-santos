@@ -9,7 +9,6 @@ fontes:
   - "2026-03-08 - FELIZ DIA DAS MULHERES"
 ---
 
-**Canal:** Renan Santos | **Data:** 8 de março de 2026 | [Assistir no YouTube](https://www.youtube.com/watch?v=sRiyGXodZWg)
 
 ## Resumo
 
@@ -29,3 +28,7 @@ No Dia Internacional da Mulher, Renan recusa o tom de "puxar o saco" das eleitor
 
 - [[temas/Pautas Identitárias e de Gênero]] — Dia da Mulher; crítica à esquerda feminista; imagem da mulher brasileira
 - [[temas/Segurança Pública]] — segurança das mulheres nas ruas como demanda central
+
+---
+
+<a href="https://www.youtube.com/watch?v=sRiyGXodZWg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

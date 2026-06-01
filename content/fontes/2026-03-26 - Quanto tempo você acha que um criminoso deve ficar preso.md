@@ -9,8 +9,6 @@ fontes:
   - "2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso"
 ---
 
-**Canal:** Renan Santos | **Data:** 26/03/2026
-**URL:** https://www.youtube.com/watch?v=cKqsLI1fUkc
 
 ## Resumo
 
@@ -39,3 +37,7 @@ Renan anuncia um site interativo que compara as penas atuais ("país da impunida
 ## Temas relacionados
 
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=cKqsLI1fUkc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

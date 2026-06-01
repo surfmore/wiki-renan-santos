@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=d756I7K_JXY"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=d756I7K_JXY)**
-
 Vídeo em que Renan avalia negativamente a bancada bolsonarista na Câmara dos Deputados — não pelas ideias, mas pela inefetividade parlamentar e pela estratégia de comunicação equivocada.
 
 ## A crítica à bancada bolsonarista
@@ -35,3 +33,7 @@ Renan afirma que a bancada "despertou para o problema da segurança pública ess
 
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Flávio Bolsonaro]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=d756I7K_JXY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

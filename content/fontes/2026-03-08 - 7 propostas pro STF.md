@@ -38,4 +38,6 @@ Renan abre lembrando que 83% das decisões do STF hoje são **monocráticas** �
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=ojYTVkCMIoU](https://www.youtube.com/watch?v=ojYTVkCMIoU)
+---
+
+<a href="https://www.youtube.com/watch?v=ojYTVkCMIoU" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

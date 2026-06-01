@@ -25,3 +25,7 @@ Propõe como alternativa reduzir impostos e melhorar a gestão pública — argu
 ## Posições defendidas
 
 - [[posicoes/Reforma Fiscal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=FTOLehqYvpM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

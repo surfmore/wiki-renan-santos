@@ -37,3 +37,7 @@ Conclui defendendo que o STF só deveria atuar em questões estritamente constit
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=losHWAf02Ug
+
+---
+
+<a href="https://www.youtube.com/watch?v=losHWAf02Ug" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -8,9 +8,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=rMBjrgkoPO8"
 ---
 
-**Canal:** Renan Santos | **Data:** 7 de janeiro de 2026 | **Tipo:** Short
-**URL:** https://www.youtube.com/watch?v=rMBjrgkoPO8
-
 ---
 
 ## Resumo
@@ -42,3 +39,7 @@ A questão central: ninguém do bolsonarismo fala da relação da Lagoinha com o
 - **Cléber Mendonça Filho** — diretor, citado de passagem
 - **Henrique Vorcaro** — pai de Daniel Vorcaro, perdoou dívida de Valadão
 - **Nikolas Ferreira** — viajava no jatinho de Valadão em 2022
+
+---
+
+<a href="https://www.youtube.com/watch?v=rMBjrgkoPO8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

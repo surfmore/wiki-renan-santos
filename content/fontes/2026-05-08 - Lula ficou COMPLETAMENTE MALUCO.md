@@ -8,7 +8,6 @@ fontes:
   - "2026-05-08 - Lula ficou COMPLETAMENTE MALUCO."
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=vTK2aIdro00) | **Canal:** Renan Santos | **Data:** 08/05/2026 | **Tipo:** short
 
 ## Resumo
 
@@ -25,3 +24,7 @@ O vídeo é curto e serve como comentário de conjuntura, sem apresentação de 
 ## Fontes
 
 - [[fontes/2026-05-08 - Lula ficou COMPLETAMENTE MALUCO.]] — este vídeo
+
+---
+
+<a href="https://www.youtube.com/watch?v=vTK2aIdro00" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

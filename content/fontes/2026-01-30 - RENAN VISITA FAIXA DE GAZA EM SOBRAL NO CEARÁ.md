@@ -13,8 +13,6 @@ tags:
   - desfavelização
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=9Bjy6MQ1L4A)**
-
 Gravado em **Sobral (CE)**, cidade frequentemente citada por Ciro Gomes como exemplo de gestão bem-sucedida. Renan documenta uma área batizada de **"faixa de Gaza"**: uma faixa de neutralidade entre um conjunto habitacional tomado pelo PCC e uma favela controlada pelo Comando Vermelho.
 
 ## O cenário
@@ -39,3 +37,7 @@ Renan apresenta o modelo que chama de **"bandeira, quartel, escola"**: os conjun
 
 - [[posicoes/Desfavelização do Rio de Janeiro]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=9Bjy6MQ1L4A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -40,3 +40,7 @@ O vídeo é um short de formato leve/humorístico. As posições sobre cotas, ab
 ## Fonte
 URL: https://www.youtube.com/watch?v=wX6FEu56bKY
 Data: 2026-05-20
+
+---
+
+<a href="https://www.youtube.com/watch?v=wX6FEu56bKY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

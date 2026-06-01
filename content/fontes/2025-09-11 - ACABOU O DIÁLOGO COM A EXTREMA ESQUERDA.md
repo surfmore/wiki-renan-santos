@@ -14,8 +14,6 @@ tags:
   - partido-missão
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=Wj-avUovcvk)**
-
 "Pronunciamento oficial da minha consciência": Renan tira conclusões políticas da morte de Charlie Kirk e anuncia uma virada de postura.
 
 ## O diagnóstico
@@ -48,3 +46,7 @@ Renan anuncia que irá **protocolar projeto de lei** para criminalizar o discurs
 ## Eventos
 
 - [[eventos/Morte de Charlie Kirk - Setembro de 2025]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Wj-avUovcvk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

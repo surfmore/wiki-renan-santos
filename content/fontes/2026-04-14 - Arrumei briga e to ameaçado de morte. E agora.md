@@ -39,3 +39,7 @@ Afirma que, independentemente de qual político esteja no poder — Brandão, Br
 
 - [[fontes/2026-04-14 - Ameaçado por chamar Coroadinho de filial do inferno]] — vídeo relacionado da mesma série
 - [[fontes/2026-04-14 - Lideranças do Coroadinho repudiam Renan]] — repercussão na série Maranhão
+
+---
+
+<a href="https://www.youtube.com/watch?v=PKBLGae-IcM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

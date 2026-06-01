@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=VmFJlhTP36Y)**
-
 Renan defende a distribuição de **semaglutida (Ozempic e similares) no SUS** como política de saúde pública, justificando com dados sobre obesidade e a iminente queda da patente do medicamento.
 
 ## O diagnóstico
@@ -38,3 +36,7 @@ Este vídeo detalha a proposta número 1 das [[posicoes/Propostas para Saúde]] 
 
 - [[posicoes/Propostas para Saúde]]
 - [[temas/Empobrecimento e Mercado de Trabalho]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=VmFJlhTP36Y" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

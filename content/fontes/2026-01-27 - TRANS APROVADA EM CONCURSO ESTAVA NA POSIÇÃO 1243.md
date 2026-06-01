@@ -13,8 +13,6 @@ tags:
   - pautas-identitárias
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=G7DUEggfhiY)**
-
 Renan usa o caso de **Duda Odara** — pessoa que se define como "transnegra" — como argumento central contra todos os sistemas de cotas no Brasil.
 
 ## O caso Duda Odara
@@ -41,3 +39,7 @@ Renan propõe que alunos de escola pública com **bom desempenho** sejam identif
 
 - [[temas/Pautas Identitárias e de Gênero]]
 - [[posicoes/Propostas para Educação]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=G7DUEggfhiY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

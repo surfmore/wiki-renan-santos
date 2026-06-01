@@ -10,7 +10,6 @@ fontes:
   - "2026-02-21 - O TRIBUNAL DE MINAS RESOLVEU INOVAR"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=-2Rr3hgSpbA) · Canal Renan Santos · Short · 21/02/2026
 
 ## Resumo
 
@@ -29,3 +28,7 @@ Renan afirma que precisa "desesperadamente chegar ao poder" para barrar esse tip
 - [[temas/Judiciário e Supersalários]]
 - [[temas/STF e Ativismo Judicial]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=-2Rr3hgSpbA" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

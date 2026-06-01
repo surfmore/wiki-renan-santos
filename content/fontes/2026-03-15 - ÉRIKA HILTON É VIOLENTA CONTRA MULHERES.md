@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=bT51EB9tp6A"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=bT51EB9tp6A)**
-
 Renan apresenta uma análise da postura da deputada federal **Érika Hilton** em relação às mulheres biológicas, argumentando que seu comportamento constitui uma forma de "violência simbólica".
 
 ## Resumo
@@ -46,3 +44,7 @@ Renan dirige o vídeo diretamente às mulheres, pedindo que reflitam sobre o tem
 
 - [[fontes/2026-03-31 - ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES]]
 - [[fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=bT51EB9tp6A" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -37,4 +37,6 @@ A saída proposta: cortar "todas as mamatas necessárias" para reduzir impostos 
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=3XaH2bVm2p8](https://www.youtube.com/watch?v=3XaH2bVm2p8)
+---
+
+<a href="https://www.youtube.com/watch?v=3XaH2bVm2p8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -13,8 +13,6 @@ tags:
   - esquerda
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=1tI8OHRjcAY)**
-
 Renan reage à morte de **Charlie Kirk**, ativista conservador americano, vítima de um atentado a tiro no pescoço. O vídeo foi iniciado com Kirk ainda vivo e teve a confirmação da morte registrada ao vivo durante a gravação.
 
 ## Reação de Renan
@@ -46,3 +44,7 @@ Conclui com a pergunta: "Até quando a gente vai achar normal que a violência d
 ## Eventos
 
 - [[eventos/Morte de Charlie Kirk - Setembro de 2025]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=1tI8OHRjcAY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

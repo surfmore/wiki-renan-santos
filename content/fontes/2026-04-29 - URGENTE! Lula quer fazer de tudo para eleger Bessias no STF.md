@@ -9,7 +9,6 @@ fontes:
   - "2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF"
 ---
 
-**Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=5tk9-JMozaE)
 
 ## Resumo
 
@@ -41,3 +40,7 @@ Renan convoca pressão popular nos senadores "direitistas antissistema" para bar
 - [[fontes/2026-04-29 - BESSIAS REJEITADO!]] — desfecho: Messias rejeitado pelo Senado
 - [[fontes/2026-04-29 - FLÁVIO É FRACO]] — Flávio admite que não articulou nada contra Messias
 - [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]] — leitura política do desfecho
+
+---
+
+<a href="https://www.youtube.com/watch?v=5tk9-JMozaE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -39,3 +39,7 @@ Propõe suas medidas habituais: metas e indicadores para prefeitos com **inelegi
 ## Pessoas mencionadas
 
 - **Cibelle** — prefeita de Santo Antônio dos Lopes (PL); salário superior ao prefeito de São Luís; gestão investigada por corrupção
+
+---
+
+<a href="https://www.youtube.com/watch?v=HyuOQXNjwgk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

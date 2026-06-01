@@ -26,3 +26,7 @@ O convite final: que a Globo cubra um evento seu ou o chame para um programa, "o
 ## Fonte
 URL: https://www.youtube.com/watch?v=yvo1947-p9k
 Data: 2026-05-13
+
+---
+
+<a href="https://www.youtube.com/watch?v=yvo1947-p9k" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

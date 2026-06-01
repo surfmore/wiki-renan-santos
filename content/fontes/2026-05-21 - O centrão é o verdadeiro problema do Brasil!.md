@@ -24,3 +24,7 @@ A solução, diz Renan, não é cognitiva: não é possível convencer o centrã
 ## Fonte
 URL: https://www.youtube.com/watch?v=rZpIJnLy2h0
 Data: 2026-05-21
+
+---
+
+<a href="https://www.youtube.com/watch?v=rZpIJnLy2h0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

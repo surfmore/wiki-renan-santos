@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=iKlsVbhoAZQ"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=iKlsVbhoAZQ)**
-
 Visita à **Fazenda Suzin**, em **São Joaquim (SC)**, durante a colheita de uva. Renan usa a vinícola como exemplo do agro de alto valor agregado e dos obstáculos criados pelo governo.
 
 ## Conteúdo
@@ -37,3 +35,7 @@ A agroindústria de qualidade — com processamento, marca e exportação — ge
 - [[temas/Agronegócio e Matopiba]]
 - [[temas/Carga Tributária]]
 - [[temas/Soberania Nacional e ONGs Estrangeiras]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=iKlsVbhoAZQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=aRhBEKB3evg"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=aRhBEKB3evg)**
-
 Renan usa a ironia do título — a "droga" é o "político alagoano" — para apresentar um panorama das oligarquias de Alagoas e propor intervenção federal no estado.
 
 ## As famílias que dominam Alagoas
@@ -55,3 +53,7 @@ Renan posiciona a escolha de forma direta: "De um lado você tem Lula, que é am
 - [[temas/Desigualdade Regional e Migração Interna]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=aRhBEKB3evg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

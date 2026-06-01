@@ -12,9 +12,6 @@ url: "https://www.youtube.com/watch?v=kmufonty9Nc"
 ---
 
 **Data:** 2 de dezembro de 2025
-**Canal:** Renan Santos (short)
-**URL:** https://www.youtube.com/watch?v=kmufonty9Nc
-
 ## Resumo
 
 A partir de um vídeo de um assassinato em que um ladrão mata um pai na frente do filho após este oferecer o próprio cofrinho de moedas para acalmá-lo, Renan faz um discurso de guerra total contra o crime organizado. Um dos vídeos mais radicais em tom de sua série de segurança pública.
@@ -45,3 +42,7 @@ Quanto aos líderes de facções:
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=kmufonty9Nc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

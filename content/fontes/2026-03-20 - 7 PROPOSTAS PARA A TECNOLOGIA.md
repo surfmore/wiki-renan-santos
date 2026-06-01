@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=fCcFe8yqgYc"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=fCcFe8yqgYc)**
-
 Renan Santos apresenta sete medidas inspiradas em modelos internacionais para transformar o Brasil em polo de tecnologia e empreendedorismo.
 
 ## As 7 propostas
@@ -41,3 +39,7 @@ O Brasil é "muito chato" para estrangeiros. Renan propõe vistos para **nômade
 
 - [[temas/Ambição Nacional e Soberania Tecnológica]] — contexto amplo das propostas de tecnologia
 - [[temas/Empobrecimento e Mercado de Trabalho]] — empreendedorismo vs. concurso público
+
+---
+
+<a href="https://www.youtube.com/watch?v=fCcFe8yqgYc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=m6Nf5vMqIW0)**
-
 Gravado no complexo da Igreja Lagoinha Belvedere, em Belo Horizonte. Renan investiga as conexões entre **Fabiano Zettel** — cunhado de Daniel Vorcaro e um dos personagens do escândalo do Banco Master — e o complexo comercial e religioso.
 
 ## Fabiano Zettel e a Lagoinha
@@ -32,3 +30,7 @@ Renan explicitamente ressalva que o vídeo **não é sobre os fiéis** e que nã
 
 - [[eventos/Escândalo Banco Master]]
 - [[temas/Corrupção Municipal]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=m6Nf5vMqIW0" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

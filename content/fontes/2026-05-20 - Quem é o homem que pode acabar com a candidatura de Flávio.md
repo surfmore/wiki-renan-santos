@@ -49,3 +49,7 @@ Renan fundou o Missão justamente para não depender de figuras como Valdemar. D
 ## Fonte
 URL: https://www.youtube.com/watch?v=9ZHB0-finG4
 Data: 2026-05-20
+
+---
+
+<a href="https://www.youtube.com/watch?v=9ZHB0-finG4" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

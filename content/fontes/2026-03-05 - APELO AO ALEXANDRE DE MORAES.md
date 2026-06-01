@@ -39,4 +39,6 @@ Renan admite que não acredita que o apelo funcionará, mas afirma que "antes de
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=DGbEZzJtZ98](https://www.youtube.com/watch?v=DGbEZzJtZ98)
+---
+
+<a href="https://www.youtube.com/watch?v=DGbEZzJtZ98" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

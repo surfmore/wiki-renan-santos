@@ -11,8 +11,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=xmWC6ZEylW8"
 ---
 
-**Data:** 16 de janeiro de 2026 | **Canal:** renan-canal | **[Assistir no YouTube](https://www.youtube.com/watch?v=xmWC6ZEylW8)**
-
 ## Resumo
 
 Renan reage a uma participante do Big Brother Brasil que defendeu, no programa, que mulheres deveriam ser maioria nos postos de gerência e nas faculdades por serem maioria da população. A declaração serve de ponto de partida para rebater o conjunto do argumento pró-cotas.
@@ -31,3 +29,7 @@ Conclui que o discurso de cotas e de vagas para todos é "apenas proselitismo po
 ## Posições defendidas
 
 - [[posicoes/Propostas para Educação]] — bolsa para melhores alunos de escola pública em escolas privadas de qualidade; fim de todas as cotas; universidade como formação de elite de pensamento; cursos técnicos
+
+---
+
+<a href="https://www.youtube.com/watch?v=xmWC6ZEylW8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

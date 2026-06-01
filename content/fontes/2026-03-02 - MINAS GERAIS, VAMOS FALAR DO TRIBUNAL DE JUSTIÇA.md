@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=PRmo4pPEsUk)**
-
 Gravado no Tribunal de Justiça de Minas Gerais, em Belo Horizonte. Renan usa dados orçamentários e salariais para denunciar o que chama de "mamata do judiciário" mineiro.
 
 ## Dados apresentados
@@ -39,3 +37,7 @@ Renan aponta que nenhum governador — de esquerda ou direita — conseguiu muda
 - [[temas/Judiciário e Supersalários]]
 - [[temas/STF e Ativismo Judicial]]
 - [[temas/Carga Tributária]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=PRmo4pPEsUk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

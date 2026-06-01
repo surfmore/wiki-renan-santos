@@ -10,7 +10,6 @@ fontes:
   - "2026-02-24 - ESSE CASO DE MG FICOU AINDA MAIS BIZARRO"
 ---
 
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=Gx5QglFu4-E) · Canal Renan Santos · Short · 24/02/2026
 
 ## Resumo
 
@@ -32,3 +31,7 @@ Renan encerra pedindo que o vídeo seja compartilhado e afirmando que mudanças 
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Segurança Pública]]
 - [[temas/STF e Ativismo Judicial]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=Gx5QglFu4-E" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

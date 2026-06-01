@@ -31,3 +31,7 @@ Inclui um trecho de Flávio Bolsonaro **elogiando** a revogação da taxa: *"Par
 
 URL: https://www.youtube.com/watch?v=0ICsuO-_TI8
 Data: 2026-05-12
+
+---
+
+<a href="https://www.youtube.com/watch?v=0ICsuO-_TI8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

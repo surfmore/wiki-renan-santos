@@ -10,8 +10,6 @@ fontes:
   - "2026-03-23 - NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL"
 ---
 
-**Canal:** Renan Santos | **Data:** 23/03/2026
-**URL:** https://www.youtube.com/watch?v=fuHLAtUfAEo
 
 ## Resumo
 
@@ -32,3 +30,7 @@ No vídeo [[fontes/2026-03-24 - Eu tô com muita inveja de El Salvador]], Renan 
 ## Temas relacionados
 
 - [[temas/Mídia e Imprensa]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=fuHLAtUfAEo" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -27,3 +27,7 @@ Renan descreve Nikolas como um influenciador que prioriza métricas de engajamen
 
 - [[pessoas/Nikolas Ferreira]] — elogiou o MC Pose do Rodo em suas redes sociais; recusou a relatoria do PL antiterrorismo por ter "seguidores em comum" com o crime organizado, segundo Renan.
 - **MC Pose do Rodo** — rapper associado ao Comando Vermelho, elogiado por Nikolas no Instagram.
+
+---
+
+<a href="https://www.youtube.com/watch?v=dLWwBgto-WQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

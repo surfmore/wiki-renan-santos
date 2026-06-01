@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=eb9Y50Y42Cg"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=eb9Y50Y42Cg)**
-
 Vídeo em que Renan Santos apresenta ao público o caso do cão Orelha, nomeando os envolvidos e as famílias que estariam acobertando o crime.
 
 ## O que aconteceu
@@ -45,3 +43,7 @@ Pedido direto ao público: **enviar dados das empresas dos pais** para que Renan
 
 - [[eventos/Caso do Cão Orelha]]
 - [[temas/Segurança Pública]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=eb9Y50Y42Cg" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

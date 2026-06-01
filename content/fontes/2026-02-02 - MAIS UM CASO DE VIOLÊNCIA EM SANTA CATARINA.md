@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=AReGWFyN2u8"
 tipo: short
 ---
 
-**Data:** 2 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=AReGWFyN2u8)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -42,3 +40,7 @@ A lógica: ocupar espaço público que os contribuintes financiam via impostos �
 - [[posicoes/Plano para Moradores de Rua]]
 - [[temas/Segurança Pública]]
 - [[pessoas/Alexandre de Moraes]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=AReGWFyN2u8" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

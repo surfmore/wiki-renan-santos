@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=TWp5LG7LSgY"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=TWp5LG7LSgY)**
-
 Renan comenta o início do distanciamento da **Rede Globo** em relação ao STF — especialmente a Alexandre de Moraes — e o silêncio de Flávio Bolsonaro diante da crise, contrastando com a iniciativa do senador Alessandro Vieira.
 
 ## Resumo
@@ -53,3 +51,7 @@ Encerra afirmando que, como pré-candidato sem "rabo preso com ninguém", pode e
 
 - [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]]
 - [[fontes/2026-04-03 - PREVISÃO SOBRE O STF]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=TWp5LG7LSgY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

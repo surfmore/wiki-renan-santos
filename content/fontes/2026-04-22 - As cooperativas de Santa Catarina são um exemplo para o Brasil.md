@@ -36,3 +36,7 @@ Detalha três tipos de cooperativa relevantes:
 - [[temas/Agronegócio e Matopiba]] — cooperativismo como modelo de desenvolvimento agrário para o Nordeste
 - [[temas/Desigualdade Regional e Migração Interna]] — SC como contraponto ao MA; retenção de pessoas no campo
 - [[temas/Empobrecimento e Mercado de Trabalho]] — alternativa ao assistencialismo via produtividade cooperativista
+
+---
+
+<a href="https://www.youtube.com/watch?v=8DzIH9sRGEw" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -10,8 +10,6 @@ canal: renan-canal
 url: "https://www.youtube.com/watch?v=YKfj_TOTeHM"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=YKfj_TOTeHM)**
-
 Renan responde à reação do governador de Santa Catarina, Jorginho Mello, após a visita ao bairro do Pinheirinho — área tomada por facção criminosa, crackudos e traficantes.
 
 ## Contexto
@@ -42,3 +40,7 @@ Renan declara seu pré-candidato ao governo de Santa Catarina: **Marcelo Brigade
 - [[posicoes/Plano para Moradores de Rua]]
 - [[fontes/2026-04-23 - Santa Catarina, não podemos deixar que a favelização tome conta do estado!]]
 - [[fontes/2026-04-26 - Conhecem o efeito Renan]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=YKfj_TOTeHM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

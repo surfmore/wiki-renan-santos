@@ -30,6 +30,6 @@ Menciona o **"livro amarelo"** — livro de propostas do MBL/pré-candidatura �
 - Instalação de refinarias de biocombustível no Matopiba como política de Estado.
 - Substituição de compra de votos por empregos industriais qualificados.
 
-## Link
+---
 
-[YouTube](https://www.youtube.com/watch?v=iS1yCBF4l8c)
+<a href="https://www.youtube.com/watch?v=iS1yCBF4l8c" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

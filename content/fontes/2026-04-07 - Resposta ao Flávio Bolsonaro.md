@@ -38,3 +38,7 @@ Encerra dizendo que não tem medo de Flávio, que é Flávio quem tem medo dele,
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=5DwCtZjksws
+
+---
+
+<a href="https://www.youtube.com/watch?v=5DwCtZjksws" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

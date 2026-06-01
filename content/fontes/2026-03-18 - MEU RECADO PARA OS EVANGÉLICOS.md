@@ -12,8 +12,6 @@ url: "https://www.youtube.com/watch?v=MMWiu86lShc"
 tipo: short
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=MMWiu86lShc)**
-
 Renan dirige-se diretamente aos evangélicos brasileiros que passaram a segui-lo após suas denúncias sobre a Igreja Lagoinha, distinguindo líderes corruptos de fiéis que são vítimas.
 
 ## Resumo
@@ -55,3 +53,7 @@ Avisa que o escândalo da Lagoinha dá munição à esquerda para propor a taxa�
 
 - [[fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!]]
 - [[fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=MMWiu86lShc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

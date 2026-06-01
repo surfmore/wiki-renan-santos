@@ -11,8 +11,6 @@ url: "https://www.youtube.com/watch?v=iCWDcYXKPHY"
 tipo: short
 ---
 
-**Data:** 4 de fevereiro de 2026 | **[Assistir no YouTube](https://www.youtube.com/watch?v=iCWDcYXKPHY)**
-**Canal:** Renan Santos
 **Duração estimada:** curto
 
 ## Resumo
@@ -48,3 +46,7 @@ Em caso de eleição, Renan promete que, durante o período de ajuste fiscal par
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Kim Kataguiri]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=iCWDcYXKPHY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

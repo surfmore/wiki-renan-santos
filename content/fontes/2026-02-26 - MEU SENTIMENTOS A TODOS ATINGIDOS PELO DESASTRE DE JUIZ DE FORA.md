@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=oqm0f52a1UE)**
-
 Renan exibe e comenta um vídeo da **prefeita de Juiz de Fora** ligando para o presidente Lula logo após o desastre e fazendo uma reunião nas redes sociais. Lula, segundo o relato, tratou a prefeita de maneira informal e disse que "ia levantar a mão" para ajudar antes de desligar — estava embarcando para os Emirados Árabes.
 
 ## A crítica à prefeita
@@ -43,3 +41,7 @@ Renan reitera sua proposta de **avaliação por indicadores**:
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[fontes/2026-02-27 - URGENTE - JUIZ DE FORA E UBÁ SOFREM COM DESASTRE]]
 - [[fontes/2026-03-02 - PETISTAS TENTARAM IMPEDIR DOAÇÕES EM JUIZ DE FORA]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=oqm0f52a1UE" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

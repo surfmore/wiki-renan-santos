@@ -13,8 +13,6 @@ canal: "renan-canal"
 tipo: "short"
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=bBFPVJ7h5OI)**
-
 Renan Santos critica o eleitorado do Pará por liderar nas pesquisas de governo do estado um candidato envolvido em escândalo de desvio de emendas — apresentado como suposta alternativa à oligarquia dos **[[pessoas/Família Barbalho|Barbalhos]]**.
 
 ## O caso Daniel Santos
@@ -48,3 +46,7 @@ Renan diz que sua **reforma administrativa** mudará esse quadro.
 - [[pessoas/Família Barbalho]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=bBFPVJ7h5OI" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

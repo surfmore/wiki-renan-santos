@@ -13,9 +13,6 @@ tipo: "short"
 ---
 
 **Data:** 27 de maio de 2026
-**Canal:** Renan Santos
-**URL:** https://www.youtube.com/watch?v=3j1N5us8yPs
-
 ## Resumo
 
 Renan grava ao vivo no local de uma chacina ocorrida naquela manhã em Salvador: um homem levou mais de 100 tiros como "justiçamento" do **Comando Vermelho** por ter roubado na área controlada pela facção.
@@ -38,3 +35,7 @@ A mensagem encerra com um aviso direto à polícia da Bahia e às facções:
 ## Pessoas mencionadas
 
 - [[pessoas/Jerônimo Rodrigues]] — ausente, implicitamente responsabilizado pelo domínio do CV em Salvador
+
+---
+
+<a href="https://www.youtube.com/watch?v=3j1N5us8yPs" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

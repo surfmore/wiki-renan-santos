@@ -31,3 +31,7 @@ Renan enquadra o caso como exemplo da sua tese de que **políticas municipais be
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=Qq5JToXIwNk
+
+---
+
+<a href="https://www.youtube.com/watch?v=Qq5JToXIwNk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

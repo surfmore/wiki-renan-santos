@@ -37,4 +37,6 @@ Renan anuncia que, como presidente do Partido Missão, publicará uma resoluçã
 
 ## Fontes
 
-- Vídeo: [youtube.com/watch?v=MFyMX6ulJmc](https://www.youtube.com/watch?v=MFyMX6ulJmc)
+---
+
+<a href="https://www.youtube.com/watch?v=MFyMX6ulJmc" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

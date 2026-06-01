@@ -46,3 +46,7 @@ Renan encerra posicionando-se como a única alternativa que não está envolvida
 ## Fonte
 URL: https://www.youtube.com/watch?v=CPBUADfG9Hk
 Data: 2026-05-16
+
+---
+
+<a href="https://www.youtube.com/watch?v=CPBUADfG9Hk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

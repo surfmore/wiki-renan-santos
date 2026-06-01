@@ -10,8 +10,6 @@ tags:
   - fonte
 ---
 
-**[Assistir no YouTube](https://www.youtube.com/watch?v=DCNx8aKaZBM)**
-
 Renan dirige-se diretamente ao eleitorado bolsonarista para denunciar o que chama de **"bolsopetismo"**: acordos entre o PL e o PT que beneficiam as duas cúpulas enquanto jogam as esperanças dos eleitores no lixo.
 
 ## A contradição do PL na dosimetria
@@ -47,3 +45,7 @@ Renan não pede ao eleitor bolsonarista que o apoie, mas que **cobre as lideran�
 - [[temas/Crítica à Direita Tradicional]]
 - [[pessoas/Flávio Bolsonaro]]
 - [[eventos/Escândalo Banco Master]]
+
+---
+
+<a href="https://www.youtube.com/watch?v=DCNx8aKaZBM" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

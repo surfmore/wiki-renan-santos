@@ -9,9 +9,6 @@ url: "https://www.youtube.com/watch?v=hgR7fnmEkdQ"
 ---
 
 **Data:** 16 de abril de 2026
-**Canal:** Renan Santos
-**Vídeo:** [YouTube](https://www.youtube.com/watch?v=hgR7fnmEkdQ)
-
 ## Resumo
 
 Renan critica o youtuber maranhense "Azul Caneta de Balsas" (criador de conteúdo) que anunciou candidatura a deputado federal por São Paulo. Em entrevista ao canal de **Paulo Matias**, o influenciador não conseguiu citar o que estava errado no Brasil, disse ser "mais na minha" sobre posicionamento político, e declarou ignorância completa sobre saúde, educação e outros temas ("não tô nessa área aí ainda").
@@ -32,3 +29,7 @@ Renan menciona o **Partido Missão** como sua resposta: partido que pretende col
 ## Posições defendidas
 
 - Partido Missão como alternativa às candidaturas sem preparo
+
+---
+
+<a href="https://www.youtube.com/watch?v=hgR7fnmEkdQ" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

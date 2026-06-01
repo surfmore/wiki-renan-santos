@@ -9,7 +9,6 @@ fontes:
   - "2026-04-29 - Esse é o começo do fim do Lula!"
 ---
 
-**Canal:** Renan Santos | **Data:** 29/04/2026 | [YouTube](https://www.youtube.com/watch?v=kZ6IT1iOi2E)
 
 ## Resumo
 
@@ -41,3 +40,7 @@ O acordo desmoronou porque o centrão (especialmente Alcolumbre) entrou em confl
 ## Fontes
 
 - [[fontes/2026-04-29 - BESSIAS REJEITADO!]] — confirmação da rejeição
+
+---
+
+<a href="https://www.youtube.com/watch?v=kZ6IT1iOi2E" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>

@@ -30,3 +30,7 @@ Defende que o governo federal nomeie um **interventor** para a prefeitura, únic
 ## Fonte
 
 - YouTube: https://www.youtube.com/watch?v=OMDYI4g66Zk
+
+---
+
+<a href="https://www.youtube.com/watch?v=OMDYI4g66Zk" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>
