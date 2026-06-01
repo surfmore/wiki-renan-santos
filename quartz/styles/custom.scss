@@ -1,3 +1,16 @@
 @use "./base.scss";
+@use "./variables.scss" as *;
 
-// put your custom CSS here!
+// Esconde foto de perfil no mobile (libera espaço no header)
+@media all and (max-width: 800px) {
+  .profile-image {
+    display: none;
+  }
+}
+
+// Margem inferior mínima no footer vazio
+footer:empty,
+footer:not(:has(*)) {
+  margin: 0;
+  padding: 0;
+}
