@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-02] ingest | Atenção, Maranhão! (ingest automático)
+- Fonte criada: fontes/2026-06-02 - Atenção, Maranhão!
+- Páginas criadas: pessoas/Cristiano Zanin, pessoas/Flávio Dino
+- Páginas atualizadas: temas/Pautas Identitárias e de Gênero, posicoes/Nomeação de Ministro Católico para o STF, index.md, log.md, wiki/.processed_ids
+- Nota: vídeo aborda ação no STF de grupos LGBT para proibir famílias maranhenses de retirar filhos de aulas com conteúdo de gênero; Renan critica ressalvas de Zanin e Dino à decisão do Gilmar Mendes; reitera proposta de nomear ministro "terrivelmente católico".
+
 ## [2026-06-02] ingest | O Cariani vai me cancelar (ingest automático)
 - Fonte criada: fontes/2026-06-02 - O Cariani vai me cancelar
 - Páginas atualizadas: posicoes/Propostas para Saúde, index.md, log.md, wiki/.processed_ids
@@ -1190,13 +1196,4 @@
 
 **Páginas criadas (3):**
 - pessoas/Kim Kataguiri
-- posicoes/Frente de Trabalho para o Bolsa Família
-- temas/Pautas Identitárias e de Gênero
-
-**Páginas atualizadas (12):**
-- eventos/Escândalo Banco Master (Lagoinha confirmada, Oakberry censura, Zettel preso, Vorcaro pré-delação)
-- temas/Crítica à Direita Tradicional (Bolsa Família Flávio, Fabiana blackface, maioridade penal governadores)
-- temas/Segurança Pública (maioridade penal, feminicídio, Curitiba degradada)
-- temas/STF e Ativismo Judicial (Globo x STF, anão delegado, Bolsonaro preso e vendeta Moraes)
-- temas/Mídia e Imprensa (censura Instagram, Wagner Moura e cinema da ditadura)
-- temas/Empobrecimento e Mer
+- posicoes/Frente

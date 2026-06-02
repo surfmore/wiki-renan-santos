@@ -5,8 +5,9 @@ tags:
   - gênero
   - identidade
   - esquerda
-date: 2026-03-19
+date: 2026-06-02
 fontes:
+  - "2026-06-02 - Atenção, Maranhão!"
   - "2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES"
   - "2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL"
   - "2026-03-19 - ANÃO DELEGADO, MINHA OPINIÃO"
@@ -14,6 +15,16 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Ação no STF para proibir famílias maranhenses de retirar filhos de aulas (junho de 2026)
+
+Em **2 de junho de 2026**, Renan reage a uma ação movida no STF pelo **Fórum Nacional dos Travestis**, **Aliança Nacional LGBT** e **Associação das Famílias Homotransafetivas** para proibir famílias maranhenses de retirar seus filhos de aulas de educação sexual e orientação sexual conduzidas pelo governo do estado.
+
+Renan se posiciona como favorável à educação sexual no Maranhão em termos gerais — citando o contexto de alta gravidez na adolescência e famílias desestruturadas. O que critica é o conteúdo ideológico promovido por esses grupos: "Eles usam da educação sexual apenas para mascarar suas reais intenções — promover uma visão ideológica que gera danos psicológicos irreversíveis nos jovens, envolvendo gênero e orientação sexual."
+
+Renan aponta que as ressalvas feitas pelos ministros **[[pessoas/Cristiano Zanin]]** e **[[pessoas/Flávio Dino]]** à decisão do ministro Gilmar Mendes explicitamente preservam o conteúdo de gênero e identidade sexual — o que, segundo ele, confirma que a ação "é realmente sobre isso." Descreve as famílias maranhenses como "muito humildes e muito pouco escolarizadas" e sem organização para se defender.
+
+Ver [[fontes/2026-06-02 - Atenção, Maranhão!]].
 
 ## Autismo: laudos fraudulentos vendidos e BPC duplicado (maio de 2026 — continuação)
 
@@ -234,23 +245,4 @@ Ver [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] e [[font
 
 ## Fontes
 
-- [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]]
-- [[fontes/2026-02-13 - O CASO QUE O MOVIMENTO NEGRO NÃO QUER FALAR SOBRE]]
-- [[fontes/2026-02-15 - ERIKA HILTON NOSSA FUTURA PRESIDENTA NO CARNAVAL]]
-- [[fontes/2026-02-17 - ESCOLA DE SAMBA TIRA SARRO DA FAMÍLIA CONSERVADORA EVANGÉLICA]]
-- [[fontes/2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES]]
-- [[fontes/2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL]]
-- [[fontes/2026-03-19 - ANÃO DELEGADO, MINHA OPINIÃO]]
-- [[fontes/2026-03-31 - ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES]]
-- [[fontes/2026-03-13 - Erika Hilton será cassada]]
-- [[fontes/2026-03-08 - FELIZ DIA DAS MULHERES]]
-- [[fontes/2026-03-10 - Precisamos falar sobre MULHER DE BANDIDO]]
-- [[fontes/2026-03-07 - Quando que esses homens tiveram licença pra atacar mulheres desse jeito]]
-- [[fontes/2026-03-05 - Precisamos falar algo delicado]]
-- [[fontes/2026-03-03 - Esse é o chá revelação mais importante do Brasil]]
-- [[fontes/2026-02-27 - SE VOCÊ É MULHER, COMPARTILHE ISSO]]
-- [[fontes/2026-02-26 - VOU PROIBIR MULHER NA MISSÃO]]
-- [[fontes/2026-02-11 - RESPOSTA AO PODPAH SOBRE A APRESENTAÇÃO DO BAD BUNNY]]
-- [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]]
-- [[fontes/2026-01-27 - TRANS APROVADA EM CONCURSO ESTAVA NA POSIÇÃO 1243]]
-- [[fontes/2026-02-08 - EU FUI PROCESSADO POR SER O ÚNICO A FALAR ISSO]]
+- [[fontes/2026-02-13 - SE VOCÊ É MULHER, 

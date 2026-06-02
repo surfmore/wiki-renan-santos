@@ -18,7 +18,7 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ## Pessoas
 
-[[pessoas/Renan Santos]] · [[pessoas/Daniel Vorcaro]] · [[pessoas/Flávio Bolsonaro]] · [[pessoas/Nikolas Ferreira]] · [[pessoas/Alexandre de Moraes]] · [[pessoas/Romeu Zema]] · [[pessoas/Kim Kataguiri]] · [[pessoas/Jerônimo Rodrigues]] · [[pessoas/André Valadão]] · [[pessoas/Ciro Nogueira]] · [[pessoas/Ronaldo Caiado]] · [[pessoas/Tarcísio de Freitas]] · [[pessoas/João Campos]] · [[pessoas/Érika Hilton]] · [[pessoas/Tabata Amaral]] · [[pessoas/Silas Malafaia]] · [[pessoas/Oruam]] · [[pessoas/Neymar]] · [[pessoas/Guido Mantega]] · [[pessoas/Wagner Moura]]
+[[pessoas/Renan Santos]] · [[pessoas/Daniel Vorcaro]] · [[pessoas/Flávio Bolsonaro]] · [[pessoas/Nikolas Ferreira]] · [[pessoas/Alexandre de Moraes]] · [[pessoas/Romeu Zema]] · [[pessoas/Kim Kataguiri]] · [[pessoas/Jerônimo Rodrigues]] · [[pessoas/André Valadão]] · [[pessoas/Ciro Nogueira]] · [[pessoas/Ronaldo Caiado]] · [[pessoas/Tarcísio de Freitas]] · [[pessoas/João Campos]] · [[pessoas/Érika Hilton]] · [[pessoas/Tabata Amaral]] · [[pessoas/Silas Malafaia]] · [[pessoas/Oruam]] · [[pessoas/Neymar]] · [[pessoas/Guido Mantega]] · [[pessoas/Wagner Moura]] · [[pessoas/Cristiano Zanin]] · [[pessoas/Flávio Dino]]
 
 ## Eventos
 
@@ -26,8 +26,4 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 ## Fontes recentes
 
-- [[fontes/2026-06-02 - O Cariani vai me cancelar]] — Canal Renan Santos · dedução IR para academia e esportes
-
-## Análises
-
-[[analises/Propostas de Governo - Comparativo
+- [[fontes/2026-06-02 - Atenção, Maranhão!]] — Canal Renan Santos · ação no STF contra famílias maranhenses;

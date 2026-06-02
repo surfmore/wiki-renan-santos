@@ -5,8 +5,9 @@ tags:
   - stf
   - religião
   - liberdade-religiosa
-date: 2026-06-01
+date: 2026-06-02
 fontes:
+  - "2026-06-02 - Atenção, Maranhão!"
   - "2026-06-01 - Frei Gilson é um Red Pill"
 ---
 
@@ -26,6 +27,4 @@ A proposta surge em resposta à ação do Ministério Público contra [[pessoas/
 
 Ver [[temas/Liberdade Religiosa]] e [[temas/STF e Ativismo Judicial]].
 
-## Fontes
-
-- [[fontes/2026-06-01 - Frei Gilson é um Red Pill]]
+## Reafirmação: prote
