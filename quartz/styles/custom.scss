@@ -1,16 +1,23 @@
 @use "./base.scss";
 @use "./variables.scss" as *;
 
-// Esconde foto de perfil no mobile (libera espaço no header)
+// Esconde foto de perfil no mobile
 @media all and (max-width: 800px) {
   .profile-image {
     display: none;
   }
 }
 
-// Margem inferior mínima no footer vazio
-footer:empty,
-footer:not(:has(*)) {
+// Footer vazio sem margem
+footer:empty {
   margin: 0;
   padding: 0;
+}
+
+// Wiki landing page cards
+.wiki-card {
+  background-color: var(--light) !important;
+}
+.wiki-card:hover .wiki-card-title {
+  color: var(--tertiary) !important;
 }
