@@ -4,10 +4,18 @@ tags:
   - tema
   - política
   - bolsonarismo
-date: 2026-06-01
+date: 2026-06-02
 ---
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
+
+## Flávio "é Janja": argumento sobre tarifas americanas presenteia o Lula (junho de 2026)
+
+Em **2 de junho de 2026**, Renan compara Flávio Bolsonaro a Janja após o senador afirmar que as tarifas americanas ao Brasil estariam atingindo Lula, e não as empresas exportadoras brasileiras. Renan identifica o raciocínio como idêntico ao usado pelo PT durante a polêmica taxação das "blusinhas" importadas — argumento que o mercado desmentiu. O efeito prático foi o oposto do pretendido: Flávio entregou ao presidente um discurso de defensor da soberania nacional, permitindo que Lula se apresentasse como quem protege o povo dos americanos.
+
+Renan estende a crítica ao histórico da família: "Os bolsonaristas são profissionais em fazer besteira — colocar bandeira americana na Paulista no 7 de Setembro, agradecer o Trump quando ele taxou o Brasil." Conclui que o PT "agradece esse trabalho de profissionais" e que "Lula quer manter o Flávio candidato para o segundo turno."
+
+Ver [[fontes/2026-06-02 - Flavio é Janja]].
 
 ## Rede do CV ao redor de Flávio no Rio de Janeiro — apelo ao eleitor conservador (junho de 2026)
 
@@ -482,18 +490,4 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 - [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]]
 - [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS]]
 - [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]]
-- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]]
-- [[fontes/2026-02-04 - PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASILIA DO NIKOLAS]]
-- [[fontes/2026-02-04 - VALE GÁS É PROGRAMA DE COMPRA DE VOTO DO LULA]]
-- [[fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COAF]]
-- [[fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI]]
-- [[fontes/2026-02-18 - VOCÊ NÃO ODEIA ESSES POLÍTICOS O SUFICIENTE]]
-- [[fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA]]
-- [[fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem]]
-- [[fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS]]
-- [[fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO]]
-- [[fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum]]
-- [[fontes/2026-03-24 - Eu tô com muita inveja de El Salvador]]
-- [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]]
-- [[fontes/2026-04-05 - O Brasil está empobrecendo]]
-- [[fontes/2026-04-01 - Quero conver
+- [

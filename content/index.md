@@ -140,7 +140,7 @@ title: "Índice"
 </div>
 
 <div class="wiki-stats">
-<div class="wiki-stat"><span class="num">601</span><span class="label">Fontes</span></div>
+<div class="wiki-stat"><span class="num">602</span><span class="label">Fontes</span></div>
 <div class="wiki-stat"><span class="num">21</span><span class="label">Temas</span></div>
 <div class="wiki-stat"><span class="num">23</span><span class="label">Posições</span></div>
 <div class="wiki-stat"><span class="num">42</span><span class="label">Pessoas</span></div>

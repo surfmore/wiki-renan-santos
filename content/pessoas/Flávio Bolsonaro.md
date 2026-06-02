@@ -4,12 +4,22 @@ tags:
   - pessoa
   - político
   - direita
-date: 2026-06-01
+date: 2026-06-02
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
+
+## "Flávio é Janja": argumento sobre tarifas americanas (junho de 2026)
+
+Em **2 de junho de 2026**, Renan compara Flávio Bolsonaro a Janja após o senador declarar, em entrevista sobre as tarifas impostas pelos EUA ao Brasil, que "quem está sendo retalhado não são as empresas brasileiras — quem está sendo retalhado é o próprio Lula." Renan identifica esse raciocínio como idêntico ao argumento petista de que a taxação das "blusinhas" importadas afetaria apenas empresas, não o consumidor.
+
+O efeito prático foi, segundo Renan, um presente ao adversário: ao defender que a tarifa atingiria somente Lula, Flávio entregou ao presidente um discurso de defensor da soberania nacional — exatamente o que Lula aproveitou. Renan estende a crítica ao padrão histórico da família: colocar a bandeira americana na Paulista no 7 de Setembro e agradecer Trump quando ele taxou o Brasil são, para ele, exemplos de que os bolsonaristas são "profissionais em fazer besteira" enquanto o PT "agradece esse trabalho de profissionais."
+
+Conclui que "Lula quer manter o Flávio candidato para o segundo turno" — ou seja, a permanência de Flávio na corrida beneficia o PT.
+
+Ver [[fontes/2026-06-02 - Flavio é Janja]].
 
 ## Rede do Comando Vermelho no Rio e apelo ao eleitor conservador (junho de 2026)
 
@@ -280,16 +290,4 @@ Prevê que Flávio será "devastado por Lula" nas eleições porque "tem rabo pr
 
 Em [[fontes/2025-12-13 - Legal seu projeto, Renan]], Renan usa uma analogia bíblica para classificar os três adversários: Lula = "o capeta", Tarcísio = "Barrabás", Flávio = **"Judas"** — "traiu tudo o que nós fizemos em nome das moedas de prata para comprar casa, de preferência moedas de prata devidamente lavadas numa loja da Copenhagen."
 
-Adiciona que todos os três "estão no celular do Vorcaro" — o Banco Master como elo entre adversários aparentemente opostos.
-
-## Candidato ideal de Trump, Moraes e Lula (dezembro de 2025)
-
-Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Renan formula pela primeira vez a tese de que **Flávio é candidato porque Trump, Alexandre de Moraes e Lula todos o preferem**: Flávio perde para o Lula no segundo turno, mantém a base bolsonarista sob o controle da família Bolsonaro e garante que os Bolsonaros mantenham "boa relação com as Cortes Superiores." "É um acordo bom para quase todo mundo — só não é bom para você."
-
-## Fontes principais (ordem cronológica decrescente)
-
-- [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]] — Valdemar como dono do bolsonarismo; Mensalão; PL R$ 953M
-- [[fontes/2026-05-17 - Quem é Flavio Bolsonaro]] — rachadinha, Adriano da Nóbrega, CPI do Master; apelo para desistir da candidatura
-- [[fontes/2026-05-17 - Lula disparou]] — Flávio em queda livre nas pesquisas; argumento para votar em Renan
-- [[fontes/2026-05-16 - Flávio Bolsonaro x Alexandre de Moraes. Quem vence]] — "duelo" irônico; Flávio perde para Moraes até em corrupção
-- [[fontes/2026-05-16 - O PT está serelep
+Adiciona que todos os três "estão no celular do Vorcaro" — o Banco M

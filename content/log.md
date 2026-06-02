@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-02] ingest | Flavio é Janja (ingest automático)
+- Fonte criada: fontes/2026-06-02 - Flavio é Janja
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, temas/Política Externa e Geopolítica, index.md, log.md, wiki/.processed_ids
+- Nota: Renan compara argumento de Flávio sobre tarifas americanas ao discurso petista das "blusinhas"; critica histórico de bajulação ao Trump; anuncia que usaria terras raras como alavanca de negociação com os EUA se eleito.
+
 ## [2026-06-02] ingest | Atenção, Maranhão! (ingest automático)
 - Fonte criada: fontes/2026-06-02 - Atenção, Maranhão!
 - Páginas criadas: pessoas/Cristiano Zanin, pessoas/Flávio Dino
@@ -1186,14 +1191,4 @@
 - fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!
 - fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal
 - fontes/2026-03-16 - VORCARO DELATOU O LULA
-- fontes/2026-03-16 - A melhor capital do Brasil está virando uma Cracolândia
-- fontes/2026-03-16 - A Igreja Lagoinha do Fabiano Zettel FECHOU!
-- fontes/2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES
-- fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF
-- fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula
-- fontes/2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL
-- fontes/2026-03-14 - GLOBO X STF, A GUERRA COMEÇOU
-
-**Páginas criadas (3):**
-- pessoas/Kim Kataguiri
-- posicoes/Frente
+- fontes/2026-03-16 - A melhor
