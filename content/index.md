@@ -24,6 +24,10 @@ Wiki público sobre **Renan Santos**, presidente do MBL e pré-candidato à pres
 
 [[eventos/Escândalo Banco Master]] · [[eventos/Prisão do Bolsonaro]] · [[eventos/Manifestação na Paulista — 11 de abril de 2026]] · [[eventos/Rio de Janeiro em Guerra — Outubro de 2025]] · [[eventos/PEC da Blindagem — Setembro de 2025]] · [[eventos/Manifestação do Banco Master 22 de janeiro de 2026]] · [[eventos/COP30 — Legado em Belém]] · [[eventos/Morte de Charlie Kirk - Setembro de 2025]] · [[eventos/Caso do Cão Orelha]] · [[eventos/Casamento Tabata Amaral e João Campos]] · [[eventos/Desfile do Carnaval 2026 e Escola de Samba Pró-Lula]] · [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]]
 
+## Fontes recentes
+
+- [[fontes/2026-06-02 - O Cariani vai me cancelar]] — Canal Renan Santos · dedução IR para academia e esportes
+
 ## Análises
 
-[[analises/Propostas de Governo - Comparativo por Área]] · [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] · [[analises/Timeline do Escândalo Banco Master]]
+[[analises/Propostas de Governo - Comparativo

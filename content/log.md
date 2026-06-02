@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-02] ingest | O Cariani vai me cancelar (ingest automático)
+- Fonte criada: fontes/2026-06-02 - O Cariani vai me cancelar
+- Páginas atualizadas: posicoes/Propostas para Saúde, index.md, log.md, wiki/.processed_ids
+- Nota: vídeo apresenta proposta de dedução do IR para gastos com academia, personal, pilates, suplementos e artes marciais; argumento preventivo ligado ao SUS. Menciona Renato Cariani e Balestrim sem substância suficiente para páginas próprias.
+
 ## [2026-06-01] ingest | Você também concorda com esse vídeo (ingest automático)
 - Fonte criada: fontes/2026-06-01 - Você também concorda com esse vídeo
 - Páginas atualizadas: pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
@@ -1194,15 +1199,4 @@
 - temas/Segurança Pública (maioridade penal, feminicídio, Curitiba degradada)
 - temas/STF e Ativismo Judicial (Globo x STF, anão delegado, Bolsonaro preso e vendeta Moraes)
 - temas/Mídia e Imprensa (censura Instagram, Wagner Moura e cinema da ditadura)
-- temas/Empobrecimento e Mercado de Trabalho (Bolsa Família, MEI, diagnóstico Lula)
-- temas/Carga Tributária (MEI 1,61% das isenções)
-- temas/Corrupção Municipal (deputado MT confesso)
-- posicoes/Plano para Moradores de Rua (Curitiba Marco Zero)
-- pessoas/Flávio Bolsonaro (Bolsa Família, doença do pai)
-- pessoas/Alexandre de Moraes (anão delegado, vendeta Bolsonaro)
-- wiki/index.md
-
-## [2026-04-14] ingest batch 5 | 20 shorts (2026-03-20 → 2026-03-26)
-
-**Fontes processadas (20):**
-- fontes/20
+- temas/Empobrecimento e Mer
