@@ -8,6 +8,14 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Porto de Pecém tomado pelo crime organizado (junho de 2026)
+
+Em **3 de junho de 2026**, ao visitar o Porto de Pecém (CE), Renan descreve o porto — construído com bilhões em recursos públicos — como tomado por facções criminosas. Segundo ele, o PCC utilizou o local para escoar drogas para a Europa e os EUA; depois GDE e Comando Vermelho passaram a disputar o controle. O Ceará é apontado por Renan como o **estado com maior número de homicídios do Brasil**, e sua posição geográfica privilegiada o torna alvo das facções justamente por oferecer rotas de exportação.
+
+Renan destaca que o Comando Vermelho cortou cabos de fibra ótica no entorno do porto e está instalando o **CVnet** — sua própria rede de internet — substituindo a infraestrutura legítima, prática que compara ao controle do PCC sobre o Porto de Santos. Critica o governador estadual por investir em projetos de conectividade e atração de empresas enquanto ignora o avanço das facções: "de nada adianta falar em fibra ótica se no fim do dia tudo isso será tocado por um bando de faccionado criminoso." Conclui que a destruição do crime organizado é pré-condição para qualquer desenvolvimento econômico no Ceará.
+
+Ver [[fontes/2026-06-03 - Eu fui no Porto de Pecem, no Ceará!]].
+
 ## Lula defende bandido: excludente de ilicitude para policiais (junho de 2026)
 
 Em **3 de junho de 2026**, reagindo a declaração de Lula de que "a polícia não pode matar antes de conversar", Renan chama a fala de "a maior defesa de bandido" que já viu. Diz que o discurso de Lula é construído para atrapalhar o trabalho das polícias e criminalizar a atividade policial.
@@ -726,22 +734,4 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 - [[fontes/2026-03-09 - Você acha o povo brasileiro civilizado]]
 - [[fontes/2026-03-08 - FELIZ DIA DAS MULHERES]]
 - [[fontes/2026-03-06 - Que Brasil vou pegar ano que vem]]
-- [[fontes/2026-03-06 - COMEÇOU A CENSURA CONTRA MIM]]
-- [[fontes/2026-03-05 - FAVELA É UMA M3RDA SIM]]
-- [[fontes/2026-03-04 - SENADO APROVA PL DO KIM QUE AUMENTA PENA PARA VAGABUNDO]]
-- [[fontes/2026-03-03 - ATENÇÃO - querem sabotar um projeto de segurança pública do kimkataguiri]]
-- [[fontes/2026-03-01 - O DESABAFO DESSE POLICIAL EMOCIONOU A TODOS]]
-- [[fontes/2026-02-24 - OS BANDIDOS PRECISAM TER MEDO]]
-- [[fontes/2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE]]
-- [[fontes/2026-02-18 - VOCÊ NÃO ODEIA ESSES POLÍTICOS O SUFICIENTE]]
-- [[fontes/2026-02-15 - 10 MEDIDAS PARA SEGURANÇA PÚBLICA]]
-- [[fontes/2026-02-15 - Sim, a estratégia das facções funciona]]
-- [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]]
-- [[fontes/2026-02-13 - O CASO QUE O MOVIMENTO NEGRO NÃO QUER FALAR SOBRE]]
-- [[fontes/2026-02-11 - O JUDICIÁRIO BRASILEIRO ACHOU PRUDENTE SOLTAR ESSE 'JOVEM RAPAZ']]
-- [[fontes/2026-02-05 - ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA]]
-- [[fontes/2026-02-01 - NÓS SOMOS A GERAÇÃO QUE VAI SALVAR O BRASIL]]
-- [[fontes/2026-01-31 - SOBRE OS MOTOBOYS ASSASSINADOS NO RJ]]
-- [[fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE]]
-- [[fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ]]
-- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS UR
+- [[fontes/2026-03-06 - COMEÇOU A CENSURA CONTR

@@ -1,5 +1,12 @@
 # Log de operações
 
+## [2026-06-03] ingest | Eu fui no Porto de Pecem, no Ceará! (ingest automático)
+- Fonte criada: fontes/2026-06-03 - Eu fui no Porto de Pecem, no Ceará!
+- Páginas atualizadas: temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: vídeo gravado no Porto de Pecém (CE); Renan descreve porto tomado por PCC, GDE e Comando Vermelho para exportação de drogas; destaca CVnet (rede de internet própria do CV); aponta Ceará como estado com maior número de homicídios; critica governador por omissão; propõe destruição do crime como pré-condição para desenvolvimento regional.
+
+## [2026-06-03] fix | Adicionado ID 620odl0hfUE ao manifesto .processed_ids (vaquinha já estava ingerida)
+
 ## [2026-06-03] ingest | Bora bater mais uma meta na minha vaquinha! (ingest automático)
 - Fonte criada: fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!
 - Páginas atualizadas: temas/Partido Missão, index.md, log.md, wiki/.processed_ids
@@ -1166,16 +1173,4 @@
 **Páginas criadas:**
 - temas/Infraestrutura e Estradas no Paraná
 - temas/Imigração e Fronteiras
-- posicoes/Propostas para Polícia Militar
-- posicoes/Propostas para Educação
-- posicoes/Propostas para Saúde
-
-**Páginas atualizadas:**
-- eventos/Escândalo Banco Master (Vorcaro preso; Marta Graeff; Resort Tayaya-JBS; CPI Alessandro Vieira; correção R$130M)
-- temas/STF e Ativismo Judicial (Viviane Barce; Lulinha/Flávio Dino; Resort Tayaya)
-- temas/Crítica à Direita Tradicional (CPI Alessandro Vieira)
-- temas/Segurança Pública (7 propostas PM; 60 anos reincidentes; Singapura)
-- temas/Pautas Identitárias e de Gênero (cassação Érika Hilton; Dia da Mulher; Marta Graeff)
-- temas/Corrupção Municipal (Presidente Vargas MA)
-- pessoas/Alexandre de Moraes (R$130M; mensagens secretas; Kim convoca)
-- pessoas/Flávio Bolsonaro
+- posicoes/Propostas para P
