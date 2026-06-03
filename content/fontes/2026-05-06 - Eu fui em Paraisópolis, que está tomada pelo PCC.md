@@ -30,7 +30,7 @@ Menciona [[pessoas/Kim Kataguiri]] como pré-candidato ao governo de São Paulo 
 ## Temas abordados
 
 - [[temas/Segurança Pública]] — PCC em Paraisópolis; controle territorial em São Paulo
-- [[posicoes/Desfavelização do Rio de Janeiro]] — modelo aplicado a Paraisópolis
+- [[posicoes/Desfavelização do Brasil]] — modelo aplicado a Paraisópolis
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — prender e matar líderes do PCC
 - [[pessoas/Kim Kataguiri]] — pré-candidato ao governo de SP
 

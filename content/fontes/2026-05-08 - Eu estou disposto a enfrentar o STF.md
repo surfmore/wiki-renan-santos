@@ -27,7 +27,7 @@ Renan distingue seu posicionamento de "provocação": *"Não vou ficar sendo mol
 
 - [[temas/STF e Ativismo Judicial]] — enfrentamento do STF como postura de governo
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Segurança Pública]]
 
 ## Fontes

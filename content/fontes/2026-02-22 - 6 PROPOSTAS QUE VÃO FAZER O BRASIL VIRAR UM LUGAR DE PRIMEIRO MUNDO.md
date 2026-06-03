@@ -40,7 +40,7 @@ Em formato de entrevista, Renan apresenta de forma sintética seis grandes área
 - [[posicoes/Propostas para Saúde]]
 - [[posicoes/Propostas para Educação]]
 - [[posicoes/Reforma Fiscal]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 

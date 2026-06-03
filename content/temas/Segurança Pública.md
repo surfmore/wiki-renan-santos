@@ -371,7 +371,7 @@ Em **30 de outubro de 2025**, Renan comenta imagens de suspeitos presos após tr
 
 No [[posicoes/Plano para Moradores de Rua]], Renan incorpora uma peça explícita de segurança pública: **alterar a Lei de Execução Penal** para endurecer a punição ao traficante "que leva droga para o mendigo", tendo como referência o caso da **cracolândia**. Ver [[fontes/2026-04-01 - Eu odeio mendigo]].
 
-## Desfavelização do Rio de Janeiro: as 6 medidas do BOPE
+## Desfavelização do Brasil: as 6 medidas do BOPE
 
 Em visita ao BOPE junto com o coronel **Busnelo** (pré-candidato ao governo do Rio), Renan apresenta um plano sequencial de desfavelização:
 
@@ -382,7 +382,7 @@ Em visita ao BOPE junto com o coronel **Busnelo** (pré-candidato ao governo do 
 5. **Incentivos a empresas e comércios** — para gerar emprego de qualidade local.
 6. **Fim da distinção morro/asfalto** — "a cidade é para todos".
 
-Ver [[posicoes/Desfavelização do Rio de Janeiro]] e [[fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa]].
+Ver [[posicoes/Desfavelização do Brasil]] e [[fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa]].
 
 ## Impunidade sistêmica e progressão de pena
 
@@ -681,7 +681,7 @@ O prefeito anterior, **Braguinha**, foi afastado pela Justiça após usar o CV n
 
 Em **30 de janeiro de 2026**, Renan mostra em Sobral a chamada **"faixa de Gaza"** local: uma faixa de neutralidade entre conjuntos habitacionais tomados pelo PCC e uma favela do Comando Vermelho. Os prédios na faixa estão completamente desocupados. O caso serve para reforçar a tese de que **construir habitações sem combater o crime é inútil**: o crime organizado toma os empreendimentos e "refaveliza".
 
-O modelo correto é o que Renan chama de **"bandeira, quartel, escola"**: bairro com normas, base policial permanente, e regras para os moradores que recebem os apartamentos. Ver [[fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ]] e [[posicoes/Desfavelização do Rio de Janeiro]].
+O modelo correto é o que Renan chama de **"bandeira, quartel, escola"**: bairro com normas, base policial permanente, e regras para os moradores que recebem os apartamentos. Ver [[fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ]] e [[posicoes/Desfavelização do Brasil]].
 
 ## Caso do Cão Orelha: federalização e impunidade sistêmica (janeiro de 2026)
 

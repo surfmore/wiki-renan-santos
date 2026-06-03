@@ -20,7 +20,7 @@ Sobre desfavelização: critica a complexificação do tema por acadêmicos e co
 
 ## Temas abordados
 
-- [[posicoes/Desfavelização do Rio de Janeiro]] — proposta de substituição de favelas por habitação regular
+- [[posicoes/Desfavelização do Brasil]] — proposta de substituição de favelas por habitação regular
 - [[temas/Segurança Pública]] — combate ao crime organizado
 
 ## Posições defendidas

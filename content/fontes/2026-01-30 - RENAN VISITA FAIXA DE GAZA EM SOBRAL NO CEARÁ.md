@@ -35,7 +35,7 @@ Renan apresenta o modelo que chama de **"bandeira, quartel, escola"**: os conjun
 
 ## Temas relacionados
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Segurança Pública]]
 
 ---

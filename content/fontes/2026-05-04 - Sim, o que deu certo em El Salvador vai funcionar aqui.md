@@ -36,7 +36,7 @@ Menciona [[pessoas/Oruam]] como exemplo da cultura de normalização do crime qu
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 
 ## Pessoas mencionadas
 

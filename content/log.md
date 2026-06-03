@@ -295,7 +295,7 @@
 - temas/Pautas Identitárias e de Gênero — nova seção: autismo (indústria do diagnóstico, escola inclusiva forçada, BPC)
 - temas/Carga Tributária — nova seção: taxa das blusinhas criada e revogada como fraude eleitoral
 - posicoes/Intervenção Federal em Estados com Baixo IDH — nova seção: Acre (mai/08)
-- posicoes/Desfavelização do Rio de Janeiro — nova seção: "indústria da favela" e invasão como crime inafiançável (mai/12)
+- posicoes/Desfavelização do Brasil — nova seção: "indústria da favela" e invasão como crime inafiançável (mai/12)
 - posicoes/Propostas para Educação — nova seção: salas separadas para autistas, revisão do BPC
 - pessoas/Flávio Bolsonaro — nova seção: confissão do accordão; elogio a Lula; sem propostas próprias
 - pessoas/Alexandre de Moraes — nova seção: derrubada da dosimetria; redigiu o texto e depois traiu
@@ -317,7 +317,7 @@
 - fontes/2026-02-25 - O LULA NÃO TEM NADA PARA PROPOR
 
 **Páginas atualizadas:**
-- posicoes/Desfavelização do Rio de Janeiro — nova seção: Marco Nacional Desfavelização (Providência, mar/27); R$ 900B/10 anos; tolerância zero invasões inafiançáveis; escolas cívico-militares; prefeito perde direitos políticos
+- posicoes/Desfavelização do Brasil — nova seção: Marco Nacional Desfavelização (Providência, mar/27); R$ 900B/10 anos; tolerância zero invasões inafiançáveis; escolas cívico-militares; prefeito perde direitos políticos
 - temas/Ambição Nacional e Soberania Tecnológica — nova seção: 7 propostas de tecnologia (Simples Tech, stock options, TIB, matching israelense, Thiel Fellowship, capital gains, visto nômade)
 - temas/Desigualdade Regional e Migração Interna — nova seção: Barcelos (AM), R$ 1000/mês sem trabalhar, IDH 0,5, interventor
 - posicoes/Intervenção Federal em Estados com Baixo IDH — nova seção: Barcelos como caso de interventor municipal
@@ -579,7 +579,7 @@
 - pessoas/Nikolas Ferreira (PEC da Blindagem set/16-17; devolveu relatoria PL anti-terrorismo set/27)
 - pessoas/Kim Kataguiri (único contra PEC da Blindagem set/16; semana produtiva set/23 — CPI do INSS, PL pensão socioafetiva, PL Ratonatão, MS STF, CNN debate; "205 Kim Kataguiris")
 - temas/Segurança Pública (Rui Ferraz Fontes assassinado set/15; PCC metanol como terrorismo out/01)
-- posicoes/Desfavelização do Rio de Janeiro (Diadema refavelizada set/30; resposta ao Intercept/"Bom Selvagem" out/05; "mentalidade favelada" out/03)
+- posicoes/Desfavelização do Brasil (Diadema refavelizada set/30; resposta ao Intercept/"Bom Selvagem" out/05; "mentalidade favelada" out/03)
 - posicoes/Fusão de Municípios (São João Batista MA / escola-motel / 11% água / prefeito Messinho out/01)
 - posicoes/Propostas para Educação (escolas militares + FGV 2007 ausência paterna out/02)
 
@@ -633,7 +633,7 @@
 - temas/STF e Ativismo Judicial (Rubens Casara + censura ao Antagonista out/22)
 - posicoes/Estado de Defesa e Direito Penal do Inimigo (programa 11 pontos para governadores out/29)
 - posicoes/Expulsão de ONGs Estrangeiras (Ford/Rockefeller/Open Society em contexto de segurança out/29)
-- posicoes/Desfavelização do Rio de Janeiro (Erika Hilton out/11; Régis Tadeu out/10; R$70-80B/ano; 5M moradias)
+- posicoes/Desfavelização do Brasil (Erika Hilton out/11; Régis Tadeu out/10; R$70-80B/ano; 5M moradias)
 - posicoes/Fusão de Municípios (Caiçara do Norte + São Bento do Norte, RN, out/13)
 
 **Conceitos novos documentados:**
@@ -675,7 +675,7 @@
 - temas/Corrupção Municipal (seção: centrão como inimigo estrutural / ciclo oligárquico nov/18)
 - pessoas/Kim Kataguiri (seção: aprovação TSE 7-0 / primeiro deputado nov/04)
 - pessoas/Oruam (seção: intermediação entre CV e TCP / caso Doca nov/01)
-- posicoes/Desfavelização do Rio de Janeiro (seção: R$90B/ano 8-10 anos nov/17)
+- posicoes/Desfavelização do Brasil (seção: R$90B/ano 8-10 anos nov/17)
 
 ---
 
@@ -919,7 +919,7 @@
 - fontes/2026-01-26 - EVONEY FERNANDES É CONDENADO POR RIFAS ILEGAIS EM TOCANTINS
 
 **Páginas criadas:** 15 fontes + eventos/Caso do Cão Orelha + pessoas/Ronaldo Caiado
-**Páginas atualizadas:** temas/Segurança Pública, temas/Crítica à Direita Tradicional, temas/Pautas Identitárias e de Gênero, temas/Desigualdade Regional e Migração Interna, temas/Corrupção Municipal, posicoes/Desfavelização do Rio de Janeiro, posicoes/Propostas para Educação, posicoes/Frente de Trabalho para o Bolsa Família, wiki/index.md, wiki/log.md
+**Páginas atualizadas:** temas/Segurança Pública, temas/Crítica à Direita Tradicional, temas/Pautas Identitárias e de Gênero, temas/Desigualdade Regional e Migração Interna, temas/Corrupção Municipal, posicoes/Desfavelização do Brasil, posicoes/Propostas para Educação, posicoes/Frente de Trabalho para o Bolsa Família, wiki/index.md, wiki/log.md
 
 ---
 
@@ -1085,7 +1085,7 @@
 - temas/Carga Tributária (taxação CPU/GPU; revogar taxações Haddad)
 - temas/Ambição Nacional e Soberania Tecnológica (GPU/AI; Stargate Argentina)
 - temas/Segurança Pública (policial que faz Uber)
-- posicoes/Desfavelização do Rio de Janeiro (escopo nacional; custo < 1 trilhão)
+- posicoes/Desfavelização do Brasil (escopo nacional; custo < 1 trilhão)
 - pessoas/Flávio Bolsonaro (manifesto março; Valdemar da Costa Neto)
 - wiki/index.md
 

@@ -34,7 +34,7 @@ Renan traça um paralelo direto entre o que aconteceu na Colômbia — onde o At
 ## Posições defendidas
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — "quero matar bandido como se não houvesse amanhã"
-- [[posicoes/Desfavelização do Rio de Janeiro]] — mencionada como agenda nacional, não restrita ao Rio
+- [[posicoes/Desfavelização do Brasil]] — mencionada como agenda nacional, não restrita ao Rio
 - [[posicoes/Reforma Fiscal]] — reformas amplas como parte do projeto de governo
 
 ---

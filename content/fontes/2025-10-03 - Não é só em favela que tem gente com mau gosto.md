@@ -36,7 +36,7 @@ O Partido Missão, segundo Renan, quer "reformar as cidades brasileiras para que
 
 ## Temas relacionados
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Pautas Identitárias e de Gênero]]
 
 ---

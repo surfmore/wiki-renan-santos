@@ -79,7 +79,7 @@ Ver [[fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 
 ## Fontes
 

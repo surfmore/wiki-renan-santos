@@ -39,7 +39,7 @@ Renan aponta que Tabata votou **contra a lei de licenciamento ambiental** — qu
 ## Pessoas relacionadas
 
 - [[pessoas/Tabata Amaral]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 
 ---
 

@@ -39,7 +39,7 @@ A proposta é combinar reforma fiscal com plano nacional de desfavelização par
 - [[temas/Desigualdade Regional e Migração Interna]]
 
 ## Posições defendidas
-- [[posicoes/Desfavelização do Rio de Janeiro]] — argumentos de desfavelização apresentados; proposta de 15 anos
+- [[posicoes/Desfavelização do Brasil]] — argumentos de desfavelização apresentados; proposta de 15 anos
 
 ## Fonte
 URL: https://www.youtube.com/watch?v=h_Ulw1Egi4Q

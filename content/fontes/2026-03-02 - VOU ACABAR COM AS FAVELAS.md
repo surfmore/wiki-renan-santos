@@ -28,7 +28,7 @@ A lista de efeitos colaterais positivos da desfavelização inclui: resolução 
 
 ## Temas e posições relacionadas
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Segurança Pública]]
 - [[posicoes/Reforma Fiscal]]
 

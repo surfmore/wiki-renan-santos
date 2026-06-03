@@ -35,7 +35,7 @@ O vídeo termina com um convite explícito para o Partido Missão e a formulaç�
 
 ## Temas abordados
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Segurança Pública]]
 - [[temas/Judiciário e Supersalários]]
 - [[temas/Ambição Nacional e Soberania Tecnológica]]

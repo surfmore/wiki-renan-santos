@@ -34,7 +34,7 @@ A solução que propõe: **prendeu matou** + novas leis penais + evitar a faveli
 
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[fontes/2026-04-25 - Resposta sobre o bairro de Pinheirinho, em Criciúma]]
 
 ---

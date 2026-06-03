@@ -1,5 +1,6 @@
 ---
-title: "Índice"
+title: "Quem é Renan Santos"
+description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
 ---
 
 <style>

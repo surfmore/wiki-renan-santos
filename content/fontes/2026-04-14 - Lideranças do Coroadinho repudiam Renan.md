@@ -44,7 +44,7 @@ Mais de 30% da população de São Luís vive em favelas. O prefeito Braide, que
 
 - [[temas/Segurança Pública]] — Bonde dos 40; cinco facções; taxa de homicídios
 - [[temas/Desigualdade Regional e Migração Interna]] — Coroadinho como síntese do colapso do MA; 30%+ de São Luís em favelas
-- [[posicoes/Desfavelização do Rio de Janeiro]] — proposta de transformar favelas em bairros, incluindo MA
+- [[posicoes/Desfavelização do Brasil]] — proposta de transformar favelas em bairros, incluindo MA
 
 ---
 

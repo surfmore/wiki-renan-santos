@@ -72,7 +72,7 @@ Renan conecta diretamente à estrutura familiar: jovens sem figura paterna em ca
 
 Este tema se articula diretamente com:
 - **Segurança pública**: família estruturada como prevenção de criminalidade. Ver [[temas/Segurança Pública]].
-- **Desfavelização**: o ciclo de pobreza e crime começa na família. Ver [[posicoes/Desfavelização do Rio de Janeiro]].
+- **Desfavelização**: o ciclo de pobreza e crime começa na família. Ver [[posicoes/Desfavelização do Brasil]].
 - **Pautas culturais**: a objetificação da mulher no funk como parte do problema. Ver [[temas/Pautas Identitárias e de Gênero]].
 
 ## Fontes

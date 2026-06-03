@@ -32,7 +32,7 @@ Sem regras claras e duras, qualquer programa habitacional será revertido. Este 
 
 ## Posições relacionadas
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 
 ---
 

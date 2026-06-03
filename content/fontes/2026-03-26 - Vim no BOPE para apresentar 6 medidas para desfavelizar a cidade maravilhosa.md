@@ -43,7 +43,7 @@ Incentivos fiscais e de área para bares, restaurantes, startups e empresas se i
 ## Temas e posições relacionadas
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Segurança Pública]]
 
 ---

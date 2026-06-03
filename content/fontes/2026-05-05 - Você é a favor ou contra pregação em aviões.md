@@ -24,7 +24,7 @@ Encerra com declaração de governo: *"No Brasil que eu vou construir, o espaço
 ## Temas abordados
 
 - [[temas/Família e Paternidade]] — relação de Renan com o universo evangélico
-- [[posicoes/Desfavelização do Rio de Janeiro]] — conceito de "desfavelização mental" aplicado ao espaço público
+- [[posicoes/Desfavelização do Brasil]] — conceito de "desfavelização mental" aplicado ao espaço público
 
 ## Fontes
 

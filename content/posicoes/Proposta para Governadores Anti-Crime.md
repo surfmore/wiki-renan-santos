@@ -37,7 +37,7 @@ Esta proposta amplia e consolida posições já defendidas em outros contextos:
 
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Expulsão de ONGs Estrangeiras]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 
 ## Fontes

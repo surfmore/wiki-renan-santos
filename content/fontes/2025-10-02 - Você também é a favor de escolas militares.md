@@ -34,7 +34,7 @@ O plano é sequencial: retomar os territórios controlados pelo crime → instal
 ## Posições relacionadas
 
 - [[posicoes/Propostas para Educação]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Família e Paternidade]]
 
 ---

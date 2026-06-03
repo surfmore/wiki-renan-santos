@@ -24,7 +24,7 @@ Critica que em São Paulo existem movimentos organizados que administram invasõ
 
 ## Posições defendidas
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 
 ## Fonte
 

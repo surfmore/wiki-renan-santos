@@ -47,7 +47,7 @@ Renan conclui que Flávio Bolsonaro era amigo de Daniel Vorcaro, "provavelmente 
 - [[pessoas/Flávio Bolsonaro]] — mansão financiada pelo BRB; amigo de Vorcaro
 - [[eventos/Escândalo Banco Master]] — BRB como braço do DF no esquema
 - [[temas/Desigualdade Regional e Migração Interna]] — favelas no DF a 30 min do Planalto
-- [[posicoes/Desfavelização do Rio de Janeiro]] — argumento sobre recursos desperdiçados em corrupção
+- [[posicoes/Desfavelização do Brasil]] — argumento sobre recursos desperdiçados em corrupção
 
 ---
 

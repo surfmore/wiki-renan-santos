@@ -36,7 +36,7 @@ Renan reitera o programa:
 
 ## Posições relacionadas
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 
 ---
 

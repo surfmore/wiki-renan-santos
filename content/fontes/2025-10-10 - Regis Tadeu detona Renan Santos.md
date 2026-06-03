@@ -47,7 +47,7 @@ Desafia Régis Tadeu: "Comparado ao restante da classe política, eu entendo mai
 
 ## Posição relacionada
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 
 ---
 

@@ -45,7 +45,7 @@ Renan propõe que os pré-candidatos presidenciais endossem coletivamente esta a
 - [[temas/Segurança Pública]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Expulsão de ONGs Estrangeiras]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[eventos/Rio de Janeiro em Guerra — Outubro de 2025]]
 
 ## Pessoas mencionadas

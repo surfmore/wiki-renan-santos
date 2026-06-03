@@ -213,7 +213,7 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 - [[posicoes/Combate à Fraude Eleitoral via LDO]]
 - [[posicoes/Criminalização da Compra e Venda de Votos]]
 - [[posicoes/Criminalização da Incitação pelo Discurso de Ódio Político]]
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Expulsão de ONGs Estrangeiras]]

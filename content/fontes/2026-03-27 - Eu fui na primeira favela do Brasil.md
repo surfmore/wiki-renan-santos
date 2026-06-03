@@ -35,7 +35,7 @@ Custo: **R$ 900 bilhões em 10 anos**, combinando investimento público e privad
 
 ## Temas e posições relacionados
 
-- [[posicoes/Desfavelização do Rio de Janeiro]] — plano completo
+- [[posicoes/Desfavelização do Brasil]] — plano completo
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — retomada territorial
 - [[temas/Segurança Pública]] — condição prévia à urbanização
 

@@ -38,7 +38,7 @@ Renan menciona o custo: **R$ 900 bilhões** para acabar com o "modelo arquitetô
 
 ## Temas relacionados
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Segurança Pública]]
 - [[temas/Pautas Identitárias e de Gênero]]
 

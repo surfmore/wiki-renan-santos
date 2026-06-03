@@ -30,7 +30,7 @@ Eliminar a "classe política vagabunda" do interior, principal aliada do PT naci
 "Vendeu voto: 10 anos de cadeia. Comprou o voto: 20." A compra de votos não é problema só do Nordeste — acontece também nas periferias das grandes cidades, incluindo São Paulo. Ver [[posicoes/Criminalização da Compra e Venda de Votos]].
 
 **4. Desfavelização completa das grandes cidades**
-Programa nacional de **R$ 900 bilhões em 10 anos** acabaria com a compra de voto nas periferias e melhoraria a vida de quem é base eleitoral do PT. Ver [[posicoes/Desfavelização do Rio de Janeiro]].
+Programa nacional de **R$ 900 bilhões em 10 anos** acabaria com a compra de voto nas periferias e melhoraria a vida de quem é base eleitoral do PT. Ver [[posicoes/Desfavelização do Brasil]].
 
 **5. Destruir o crime organizado**
 Implementar o **direito penal do inimigo** e fazer guerra às facções — que, segundo Renan, são "justamente amigas desse governo, a ponto de terem visitado o Ministério da Justiça dos Direitos Humanos durante a gestão Lula" com apoio de ONGs internacionais.

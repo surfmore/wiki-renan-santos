@@ -42,7 +42,7 @@ Renan apresenta o plano completo de desfavelização:
 
 ## Pessoas e posições relacionadas
 
-- [[posicoes/Desfavelização do Rio de Janeiro]]
+- [[posicoes/Desfavelização do Brasil]]
 - [[temas/Segurança Pública]]
 
 ---
