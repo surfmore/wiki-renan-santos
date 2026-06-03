@@ -12,7 +12,7 @@ const config: QuartzConfig = {
     pageTitleSuffix: " | Wiki Renan Santos",
     enableSPA: true,
     enablePopovers: true,
-    analytics: null,
+    analytics: { provider: "google", tagId: "G-06K27YBXFG" },
     locale: "pt-BR",
     baseUrl: "renansantos.wiki",
     ignorePatterns: ["private", "templates", ".obsidian"],
@@ -88,9 +88,4 @@ const config: QuartzConfig = {
       Plugin.Favicon(),
       Plugin.NotFoundPage(),
       // Comment out CustomOgImages to speed up build time
-      Plugin.CustomOgImages(),
-    ],
-  },
-}
-
-export default config
+      Plugin.CustomOgImages
