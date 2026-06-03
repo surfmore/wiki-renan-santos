@@ -1,5 +1,6 @@
 ---
 title: "Desfavelização do Brasil"
+draft: true
 tags:
   - posição
   - segurança
