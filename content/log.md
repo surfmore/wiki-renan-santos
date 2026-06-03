@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-03] ingest | Bora bater mais uma meta na minha vaquinha! (ingest automático)
+- Fonte criada: fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!
+- Páginas atualizadas: temas/Partido Missão, index.md, log.md, wiki/.processed_ids
+- Nota: vídeo de apelo de arrecadação; site da vaquinha caiu durante live com ~10.000 pessoas; meta de R$ 650.000; Missão em 1º lugar em doações entre partidos; Renan diz ter tirado 7 pontos de Lula no segundo turno. Sem posições novas.
+
 ## [2026-06-03] ingest | LULA SAI EM DEFESA DOS BANDIDOS (ingest automático)
 - Fonte criada: fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS
 - Páginas atualizadas: pessoas/Lula, temas/Segurança Pública, posicoes/Estado de Defesa e Direito Penal do Inimigo, index.md, log.md, wiki/.processed_ids
@@ -1173,17 +1178,4 @@
 - temas/Pautas Identitárias e de Gênero (cassação Érika Hilton; Dia da Mulher; Marta Graeff)
 - temas/Corrupção Municipal (Presidente Vargas MA)
 - pessoas/Alexandre de Moraes (R$130M; mensagens secretas; Kim convoca)
-- pessoas/Flávio Bolsonaro (CPI Alessandro Vieira)
-- pessoas/Kim Kataguiri (cassação Hilton; convocações Marta Graeff, Moraes, Viviane Barce)
-- pessoas/Ratinho Júnior (Pay Brokers R$400K; Cred; contrato Toffoli)
-- wiki/index.md
-
----
-
-## [2026-04-15] ingest batch 6 | 20 shorts (2026-03-14 → 2026-03-19)
-
-**Fontes processadas (20):**
-- fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR
-- fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO
-- fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha
-- fontes/2026-03-19 - ANÃO 
+- pessoas/Flávio Bolsonaro

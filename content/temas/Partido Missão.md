@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-05-25
 fontes:
+  - "2026-06-03 - Bora bater mais uma meta na minha vaquinha!"
   - "2026-05-07 - O que diferencia a Missão dos outros partidos"
   - "2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO"
   - "2025-12-25 - Por que a Geração Z está com o Partido Missão"
@@ -94,6 +95,10 @@ Ver [[posicoes/Estado de Defesa e Direito Penal do Inimigo]], [[posicoes/Propost
 
 O Missão financia sua campanha por doações populares. O PIX oficial é **pix@partidomissao.com**. Renan faz campanha recorrente de arrecadação, contrastando com o PL (R$ 953 milhões em fundo eleitoral, controlado por Valdemar da Costa Neto) e com o PT. Em maio de 2026, o partido já havia percorrido Pernambuco, Rio Grande do Norte, Ceará, Maranhão, Paraná, Santa Catarina e interior de São Paulo na pré-campanha.
 
+Em junho de 2026, Renan relata que durante uma live com ~10.000 espectadores o site da plataforma de vaquinha saiu do ar por excesso simultâneo de acessos, impedindo milhares de doações. Renan pediu desculpas pela escolha da plataforma e fixou meta de **R$ 650.000**. Explicou a lógica estratégica: doações populares numerosas servem como prova social para convencer grandes doadores corporativos. O Partido Missão registrou **primeiro lugar** entre os partidos com maior número de doações nessa fase inicial da pré-campanha.
+
+Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
+
 ## Pessoas relacionadas
 
 - [[pessoas/Renan Santos]] — fundador e candidato à presidência
@@ -101,13 +106,7 @@ O Missão financia sua campanha por doações populares. O PIX oficial é **pix@
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]] — vaquinha; site caiu; meta R$ 650k; 1º em doações; pesquisa -7 pts Lula
 - [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]] — Missão como projeto pessoal; critério de fracasso
 - [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]] — 547.000 validados; Missão como continuação do impeachment
-- [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]] — ruptura geracional; Geração Z já de direita
-- [[fontes/2025-12-21 - Essa é uma Missão pra vocês]] — missão de Natal; Google Trends
-- [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República.]] — 18% Gen-Z; 30%+ homens jovens; "fotografia vs. filme"
-- [[fontes/2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO]] — aprovação TSE 7 a 0; Kim como primeiro parlamentar
-- [[fontes/2025-10-24 - Não vai ter Missão]] — tentativa de bloqueio por Glauber Braga; resposta de Renan
-- [[fontes/2025-09-24 - Quer notícia boa]] — parecer favorável do MPE; contexto eleitoral sem Missão
-- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — primeira pesquisa com 2%; contexto da fundação
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Livro Amarelo; programa resumido
+- [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]] — ruptura geracional; Geração 
