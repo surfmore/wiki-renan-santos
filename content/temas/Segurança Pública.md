@@ -8,6 +8,16 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Lula defende bandido: excludente de ilicitude para policiais (junho de 2026)
+
+Em **3 de junho de 2026**, reagindo a declaração de Lula de que "a polícia não pode matar antes de conversar", Renan chama a fala de "a maior defesa de bandido" que já viu. Diz que o discurso de Lula é construído para atrapalhar o trabalho das polícias e criminalizar a atividade policial.
+
+Argumenta que exigir que um policial dialogue com um membro de facção armado com metralhadora seria sua sentença de morte. Afirma que o integrante de facção criminosa "não tem presunção de inocência" e que o tiro nesse contexto deve ter um **excludente de ilicitude** — sem responsabilidade penal para o agente. Promete usar a **AGU para defender policiais** contra acusações que considera injustas.
+
+Reafirma a fundamentação jurídica no **direito penal do inimigo** (Günter Jakobs) e diz que outros pré-candidatos estão copiando a tese, popularizada por sua candidatura. Propõe colocar áreas tomadas pelo crime em **estado de defesa** para uma operação de um ano que prenda ou mate todos os membros das facções.
+
+Ver [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]].
+
 ## Crime organizado é problema brasileiro, não americano (maio de 2026)
 
 Em **30 de maio de 2026**, na esteira da designação do PCC e do Comando Vermelho como organizações terroristas pelo governo americano, Renan afirma achar "importante essa repercussão" porque o Brasil vinha "naturalizando o crime organizado como parte da nossa vida." No entanto, sustenta que, do ponto de vista prático, é o Brasil quem tem que resolver o problema. Os Estados Unidos não fazem a lei de execuções penais brasileira, não comandam as polícias estaduais e não decidem sobre a ADPF no STF que impede a polícia de subir o morro.
@@ -734,19 +744,4 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 - [[fontes/2026-01-31 - SOBRE OS MOTOBOYS ASSASSINADOS NO RJ]]
 - [[fontes/2026-01-31 - ESTOU SENDO AMEAÇADO DE MORTE NESSA CIDADE]]
 - [[fontes/2026-01-30 - RENAN VISITA FAIXA DE GAZA EM SOBRAL NO CEARÁ]]
-- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]]
-- [[fontes/2026-01-29 - NOVAS INFORMAÇÕES SOBRE O CASO DO CÃO ORELHA]]
-- [[fontes/2026-01-28 - RENAN SANTOS LEVA ENVOLVIDOS NO CASO DO CÃO ORELHA PARA A JUSTIÇA]]
-- [[fontes/2026-01-31 - PRECISAMOS FEDERALIZAR O CASO DO CÃO ORELHA]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2026-02-07 - POR QUE OS EUA PARECE UM PAÍS TÃO MELHOR QUE O BRASIL]]
-- [[fontes/2026-01-10 - Atenção, carioca! Muito cuidado nas ruas]]
-- [[fontes/2025-09-15 - Mataram delegado que combatia o PCC]] — Rui Ferraz Fontes assassinado; narcoestado; pena de morte + prisão perpétua
-- [[fontes/2025-10-01 - Prendeu, Matou e a bebida envenenada do PCC]] — metanol; PCC como organização terrorista
-- [[fontes/2025-10-21 - Seu país tem heróis de verdade]]
-- [[fontes/2025-10-22 - O pior juiz do mundo mora no Brasil]]
-- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]]
-- [[fontes/2025-10-28 - O crime organizado já virou guerrilha]]
-- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]]
-- [[fontes/2025-10-29 - Minha proposta para os governadores]]
-- [[fontes/2026-01-11 - RENAN COMEÇA PRÉ-CAMPANHA EM PERNAMBUCO]]
+- [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS UR

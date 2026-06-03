@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-03] ingest | LULA SAI EM DEFESA DOS BANDIDOS (ingest automático)
+- Fonte criada: fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS
+- Páginas atualizadas: pessoas/Lula, temas/Segurança Pública, posicoes/Estado de Defesa e Direito Penal do Inimigo, index.md, log.md, wiki/.processed_ids
+- Nota: Renan reage à fala de Lula sobre polícia não poder "atirar antes de perguntar"; desenvolve argumento do excludente de ilicitude para policiais em confronto com membros de facção; reitera direito penal do inimigo (Günter Jakobs) e proposta de estado de defesa; promete usar a AGU para defender policiais.
+
 ## [2026-06-02] ingest | Flavio é Janja (ingest automático)
 - Fonte criada: fontes/2026-06-02 - Flavio é Janja
 - Páginas atualizadas: pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, temas/Política Externa e Geopolítica, index.md, log.md, wiki/.processed_ids
@@ -1181,14 +1186,4 @@
 - fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR
 - fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO
 - fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha
-- fontes/2026-03-19 - ANÃO DELEGADO, MINHA OPINIÃO
-- fontes/2026-03-18 - MEU RECADO PARA OS EVANGÉLICOS
-- fontes/2026-03-18 - Ele foi pego confessando corrupção. Vazou tudo!
-- fontes/2026-03-18 - A cidade no Maranhão que conseguiu unir Bolsonaro e Lula
-- fontes/2026-03-17 - WAGNER MOURA PERDEU O OSCAR
-- fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA
-- fontes/2026-03-17 - Não sabiam que eu estava ouvindo
-- fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!
-- fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal
-- fontes/2026-03-16 - VORCARO DELATOU O LULA
-- fontes/2026-03-16 - A melhor
+- fontes/2026-03-19 - ANÃO 

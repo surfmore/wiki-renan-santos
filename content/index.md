@@ -140,7 +140,7 @@ title: "Índice"
 </div>
 
 <div class="wiki-stats">
-<div class="wiki-stat"><span class="num">602</span><span class="label">Fontes</span></div>
+<div class="wiki-stat"><span class="num">603</span><span class="label">Fontes</span></div>
 <div class="wiki-stat"><span class="num">21</span><span class="label">Temas</span></div>
 <div class="wiki-stat"><span class="num">23</span><span class="label">Posições</span></div>
 <div class="wiki-stat"><span class="num">42</span><span class="label">Pessoas</span></div>
@@ -153,7 +153,7 @@ Conteúdo organizado com IA a partir de transcrições públicas. Registra o que
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">81 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa e desfavelização como solução estrutural.</p></a>
+<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">82 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">34 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>

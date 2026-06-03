@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-06-01
 fontes:
+  - "2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS"
   - "2026-06-01 - O verdadeiro plano do Lula"
   - "2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro"
   - "2026-05-18 - É meu destino encontrar Lula no debate"
@@ -27,6 +28,14 @@ fontes:
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## "A maior defesa de bandido": fala sobre polícia e segurança (junho de 2026)
+
+Em **3 de junho de 2026**, Renan reagiu a uma declaração de Lula de que "a polícia não pode matar antes de conversar", "tem que investigar" e "não pode atirar para depois perguntar". Renan classifica a fala como "a maior defesa de bandido" que já viu em sua vida.
+
+Segundo Renan, o discurso de Lula é estruturalmente construído para atrapalhar o trabalho das polícias e criminalizar a atividade policial, pois Lula "não acredita em combater o crime organizado." Argumenta que exigir que um policial dialogue com um membro de facção armado com metralhadora seria sua sentença de morte, sendo a única reação possível atirar antes de perguntar.
+
+Ver [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]].
 
 ## Plano de criar dependência para converter trabalhadores em eleitores (junho de 2026)
 
@@ -130,15 +139,4 @@ Ver [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]].
 
 ## O "fim do Lula" e a janela eleitoral (abril de 2026)
 
-Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Messias ao STF, Renan analisou: "O jogo está aberto para 2026." A derrota histórica de Lula na indicação de ministro ao STF foi lida como enfraquecimento real. Ver [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]].
-
-## Pessoas e eventos relacionados
-
-- [[pessoas/Guido Mantega]] — elo entre Lula e o Banco Master; R$1M/mês
-- [[pessoas/Flávio Bolsonaro]] — principal adversário da direita; Renan rejeita o enquadramento "Lula vs. Flávio"
-- [[pessoas/Alexandre de Moraes]] — STF controlado por Lula via indicações
-- [[pessoas/Davi Alcolumbre]] — racha centrão-Lula em 2026
-- [[eventos/Escândalo Banco Master]] — ligação de Lula via Mantega e Vorcaro
-- [[eventos/COP30 — Legado em Belém]] — Janja/ONG; Belém vs. Berlim
-- [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]] — derrota histórica no Senado
-- [[ev
+Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
