@@ -92,7 +92,7 @@ description: "Wiki público com tudo que Renan Santos já falou em seus vídeos 
 <img src="/static/renansantos.jpeg" alt="Renan Santos" />
 <div class="wiki-hero-text">
 <h1>Renan Santos</h1>
-<p>Presidente do MBL e fundador do Partido Missão. Pré-candidato à presidência com ~7% nas pesquisas. Esta wiki documenta suas posições, propostas e trajetória a partir das transcrições de seus vídeos.</p>
+<p>Presidente do MBL e fundador do Partido Missão. Pré-candidato à Presidência da República do Brasil. Este wiki documenta fielmente suas posições, propostas e trajetória com base em seus vídeos.</p>
 </div>
 </div>
 
@@ -105,7 +105,7 @@ description: "Wiki público com tudo que Renan Santos já falou em seus vídeos 
 </div>
 
 <div class="wiki-disclaimer">
-Conteúdo organizado com auxilio de IA a partir de transcrições de videos do Renan e registra exatamente o que ele disse! Erros? <a href="mailto:wikipoliticabr@gmail.com">wikipoliticabr@gmail.com</a>
+Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipoliticabr@gmail.com">wikipoliticabr@gmail.com</a>
 </div>
 
 <p class="wiki-section-title">🗂️ Temas</p>
