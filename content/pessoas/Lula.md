@@ -139,4 +139,32 @@ Ver [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]].
 
 ## O "fim do Lula" e a janela eleitoral (abril de 2026)
 
-Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
+Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Messias ao STF, Renan analisou: "O jogo está aberto para 2026." A derrota histórica de Lula na indicação de ministro ao STF foi lida como enfraquecimento real. Ver [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]].
+
+## Pessoas e eventos relacionados
+
+- [[pessoas/Guido Mantega]] — elo entre Lula e o Banco Master; R$1M/mês
+- [[pessoas/Flávio Bolsonaro]] — principal adversário da direita; Renan rejeita o enquadramento "Lula vs. Flávio"
+- [[pessoas/Alexandre de Moraes]] — STF controlado por Lula via indicações
+- [[pessoas/Davi Alcolumbre]] — racha centrão-Lula em 2026
+- [[eventos/Escândalo Banco Master]] — ligação de Lula via Mantega e Vorcaro
+- [[eventos/COP30 — Legado em Belém]] — Janja/ONG; Belém vs. Berlim
+- [[eventos/Tentativa de Lula de nomear Jorge Messias ao STF]] — derrota histórica no Senado
+- [[eventos/Rio de Janeiro em Guerra — Outubro de 2025]] — omissão do governo
+- [[temas/Desigualdade Regional e Migração Interna]] — Nordeste como feudo eleitoral do PT
+- [[posicoes/Combate à Fraude Eleitoral via LDO]] — LDO como "golpe eleitoral"
+
+## Fontes
+
+- [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — Lula igualmente envolvido; cronologia
+- [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]] — racha com o centrão; janela eleitoral
+- [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] — promessa de prender Janja
+- [[fontes/2026-01-09 - Resposta para Daniela Lima]] — defesa de Bolsonaro de crueldade; Renan confirma ser adversário de Lula
+- [[fontes/2025-12-04 - Lula quer FRAUDAR as eleições]] — LDO como golpe eleitoral
+- [[fontes/2025-11-18 - Você ainda vai me responder, Lula]] — Berlim vs. Belém; desafio ao debate
+- [[fontes/2025-11-05 - LULA CRITICA MEGA OPERAÇÃO NO RJ]] — Lula critica operação policial; "como eu odeio o Lula"
+- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]] — omissão de Lula enquanto Rio ardia
+- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — declaração desatualizada sobre o crime organizado
+- [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — sindicato do irmão; R$400M do INSS; gringos incrédulos
+- [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]] — discurso "extremista disfarçado"
+- [[fontes/2025-09-06 - Cuida de mim, painho!]] — Nordeste como feudo assistencialista

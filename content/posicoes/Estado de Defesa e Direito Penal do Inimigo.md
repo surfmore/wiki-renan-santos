@@ -49,4 +49,20 @@ Ver [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer cert
 
 Em **26 de abril de 2026**, em entrevista, Renan detalha por que Ceará e Bahia representam os casos mais urgentes de aplicação do estado de defesa:
 
-- **Ceará**: o governador é "especialmente leniente" com o Comando Vermelho. Durante a **tomada de Santa Quitéria** pelo crime, o governo estadual discutia o programa **"Pena Justa"** — proposta de soltar presos por alegadas condiçõe
+- **Ceará**: o governador é "especialmente leniente" com o Comando Vermelho. Durante a **tomada de Santa Quitéria** pelo crime, o governo estadual discutia o programa **"Pena Justa"** — proposta de soltar presos por alegadas condições inadequadas nos presídios — em vez de agir. Renan foi processado duas vezes por denunciar essa leniência.
+- **Bahia (Jerônimo Rodrigues)**: as forças policiais relatam querer agir mas não recebem o comando do governador.
+
+O Ceará tem números de homicídios por 100 mil habitantes "muito piores" do que o Rio de Janeiro — mas recebe menos atenção nacional.
+
+Detalhe operacional: se o governador "ficar ao lado do crime organizado" e se recusar a cooperar, Renan decretará **estado de defesa específico por tempo determinado** no estado ou município, usará as polícias estaduais e, se necessário, as Forças Armadas.
+
+> "Não existe democracia quando o crime organizado controla o território. A democracia pressupõe que o Estado tenha o monopólio da força."
+
+Ver [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]].
+
+## Fontes
+
+- [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]] — excludente de ilicitude; resposta à fala de Lula sobre "atirar antes de perguntar"
+- [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — proibição de símbolos de facções; BDM e CV em Salvador
+- [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]] — Ceará e Bahia como casos urgentes; mecanismo de afastamento de governador
+- [[fontes/2026-04-07 - O PCC chegou no interior do Maranhão]] — variante operacional; intervenção em bairros e cidades específicas

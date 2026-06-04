@@ -27,4 +27,13 @@ A proposta surge em resposta à ação do Ministério Público contra [[pessoas/
 
 Ver [[temas/Liberdade Religiosa]] e [[temas/STF e Ativismo Judicial]].
 
-## Reafirmação: prote
+## Reafirmação: proteção das crianças maranhenses (junho de 2026)
+
+Em **2 de junho de 2026**, Renan reitera a proposta no contexto de uma ação no STF que buscava proibir famílias maranhenses de retirar filhos de aulas com conteúdo de gênero. Afirma que nomeará um ministro "terrivelmente católico" para que, junto com André Mendonça, "barre esses absurdos que rolam no STF" e defenda "a integridade sexual das crianças brasileiras, especialmente das mais humildes."
+
+Ver [[fontes/2026-06-02 - Atenção, Maranhão!]].
+
+## Fontes
+
+- [[fontes/2026-06-02 - Atenção, Maranhão!]]
+- [[fontes/2026-06-01 - Frei Gilson é um Red Pill]]

@@ -36,4 +36,14 @@ No [[posicoes/Plano para Moradores de Rua]], a crítica reaparece no contexto da
 
 ## ONGs de segurança e a crise do Rio (outubro de 2025)
 
-Em **29 de outubro de 2025**, Renan incluiu pela primeira vez a proibição de ONGs financiadas por **Ford Foundation**, **Rockefeller Foundation** e **Open Society Foundation** como 
+Em **29 de outubro de 2025**, Renan incluiu pela primeira vez a proibição de ONGs financiadas por **Ford Foundation**, **Rockefeller Foundation** e **Open Society Foundation** como ponto explícito de seu programa de segurança pública — com **deportação imediata** de seus representantes. O contexto é a crise de segurança no Rio de Janeiro: para Renan, essas fundações financiam organizações que defendem o "direito penal mínimo" e sabotam operações policiais. Ver [[fontes/2025-10-29 - Minha proposta para os governadores]] e [[posicoes/Proposta para Governadores Anti-Crime]].
+
+## Fontes
+
+- [[fontes/2026-06-01 - Frei Gilson é um Red Pill]]
+- [[fontes/2025-10-29 - Minha proposta para os governadores]]
+- [[fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão]]
+- [[fontes/2026-04-07 - A ferrogrão está sendo sabotada]]
+- [[fontes/2026-04-05 - O agro brasileiro pode quebrar]]
+- [[fontes/2026-03-27 - VOU PERDER MINHA CANDIDATURA]]
+- [[fontes/2026-04-01 - Eu odeio mendigo]]

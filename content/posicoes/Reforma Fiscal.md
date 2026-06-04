@@ -3,10 +3,24 @@ title: "Reforma Fiscal"
 tags:
   - posição
   - economia
-date: 2026-04-13
+date: 2026-06-04
 ---
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras.
+
+## Isenção de IPTU e redução de impostos na folha (junho de 2026)
+
+Em **4 de junho de 2026**, Renan apresenta propostas específicas para aliviar a carga tributária sobre a classe trabalhadora endividada:
+
+- **Isenção de IPTU por 5 anos** para quem comprar casa própria, via lei federal
+- **Redução de impostos na folha salarial**: de cada R$ 3.000 pagos pelo empregador, apenas R$ 1.500 chegam ao trabalhador — distorção que promete corrigir
+- **Modelo trabalhista flexível** como parte do pacote de desoneração
+
+O contexto: endividamento estudantil gerado pelo FIES, que Renan estima em R$ 100 bilhões (65% de inadimplência). Para ele, a reforma fiscal tem função reparatória com a "geração condenada" pelo sistema de diplomas.
+
+Ver [[fontes/2026-06-04 - Sua geração foi condenada]].
+
+---
 
 ## Números apresentados
 

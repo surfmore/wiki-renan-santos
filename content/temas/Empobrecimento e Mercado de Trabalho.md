@@ -4,7 +4,21 @@ tags:
   - tema
   - economia
   - emprego
-date: 2026-06-01
+date: 2026-06-04
+---
+
+## Indústria do diploma do FIES: geração endividada (junho de 2026)
+
+Em **4 de junho de 2026**, Renan critica o que chama de "indústria do diploma do PT" — o FIES como programa que gerou endividamento em massa e formou uma geração com diplomas de baixa qualidade. Segundo ele, **65% dos alunos do FIES estão inadimplentes**, com uma dívida total estimada em **R$ 100 bilhões**.
+
+O argumento central: o governo Lula usou o acesso facilitado ao ensino superior como instrumento político, prometendo status social, mas entregando diplomas que não se convertem em empregos de qualidade. Renan cita o curso de Direito — formados ganham em média R$ 3.000/mês — e afirma que muitos formados em biomedicina, sociologia e áreas afins tornam-se vendedores, motoristas de aplicativo ou desempregados.
+
+> "Sessenta e cinco por cento dos alunos do FIES estão inadimplentes. O ensino superior privado brasileiro se tornou uma fábrica de diplomas que ilude o brasileiro jovem a achar que ele vai chegar em algum lugar."
+
+Como solução, propõe isenção de IPTU nos primeiros cinco anos para compra de casa própria, redução de impostos na folha salarial e um modelo trabalhista mais flexível.
+
+Ver [[fontes/2026-06-04 - Sua geração foi condenada]].
+
 ---
 
 ## Escala 6x1 como instrumento de dependência política (junho de 2026)
@@ -229,4 +243,15 @@ Ver [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]].
 
 - [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — escala 6x1; PL votando a favor por cálculo eleitoral; impactos econômicos
 - [[fontes/2026-05-25 - Resposta ao Luciano Huck]] — Bolsa Família como base econômica de municípios; 5 propostas
--
+- [[fontes/2026-05-07 - A minha geração fracassou!]] — geração dos 30-45 marcada pelo fracasso econômico
+- [[fontes/2026-05-06 - Lula acha que é bom você se endividar]] — Desenrola; 78% das famílias endividadas
+- [[fontes/2026-04-26 - Lula é um picareta!]] — Brasil ultrapassado por Botswana; desperdício do boom das commodities
+- [[fontes/2026-04-24 - Erika Hilton e escala 6x1]] — PEC como teatro eleitoral; 122 faltas de Érika Hilton
+- [[fontes/2026-03-29 - LULA ESTÁ EM PÂNICO]] — affordability; desemprego oculto; Selic acima de 15%
+- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]] — Bolsa Família atingindo quase 1/3 da população
+- [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]] — limite do MEI bloqueado por Haddad; 570 mil desenquadrados
+- [[fontes/2026-03-14 - Qual minha avaliação do terceiro mandato do Lula]] — diagnóstico do governo Lula como "não governo"
+- [[fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL]] — estigma do fracasso; modelo asiático de desenvolvimento
+- [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]] — cadeia causal: gasto excessivo → juros altos → baixa produtividade
+- [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]] — assistencialismo cresceu 500%, PIB menos de 300%; comparação com China e Índia
+- [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]] — trabalhador chamado de "playboy"; propaganda removida do governo Lula

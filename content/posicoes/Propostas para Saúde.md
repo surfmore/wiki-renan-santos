@@ -36,4 +36,18 @@ Toda cidade com mais de 30.000 habitantes terá praças com equipamentos de acad
 "Esse papo não é mimimi." O Brasil perde cerca de **R$ 78 bilhões por ano** em produtividade por depressão no trabalho. Acompanhamento psicológico via SUS é uma medida econômica, além de humanitária.
 
 **5. Escaneamento genético não obrigatório.**
-Exames genéticos — hoje acessíveis só aos mais ricos — seriam ofertados pelo SUS para identificar doenças futuras. O SUS econ
+Exames genéticos — hoje acessíveis só aos mais ricos — seriam ofertados pelo SUS para identificar doenças futuras. O SUS economizaria ao prever quais tratamentos e medicamentos comprar. Participação não é obrigatória.
+
+**6. Telemedicina.**
+Os melhores médicos das capitais atenderiam remotamente pacientes em regiões distantes, inclusive em cirurgias de alta complexidade. O paciente permanece perto da família; o especialista, na sua cidade.
+
+**7. Contratos de gestão por resultado em hospitais públicos.**
+KPIs objetivos: tempo de atendimento, taxa de infecção, mortalidade evitável, eficiência financeira. Os melhores contratos vão para as empresas com melhor desempenho.
+
+**8. Prontuário único + inteligência artificial.**
+O Brasil não tem prontuário unificado — dados de atendimentos em diferentes unidades se perdem. Com prontuário único e IA preditiva, será possível antecipar doenças, reduzir tempo de espera e cortar gastos.
+
+## Fontes
+
+- [[fontes/2026-06-02 - O Cariani vai me cancelar]] — dedução do IR para academia e esportes; longevidade no SUS
+- [[fontes/2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL]] — enunciação completa das propostas

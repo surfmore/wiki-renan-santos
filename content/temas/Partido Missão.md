@@ -109,4 +109,11 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 - [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]] — vaquinha; site caiu; meta R$ 650k; 1º em doações; pesquisa -7 pts Lula
 - [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]] — Missão como projeto pessoal; critério de fracasso
 - [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]] — 547.000 validados; Missão como continuação do impeachment
-- [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]] — ruptura geracional; Geração 
+- [[fontes/2025-12-25 - Por que a Geração Z está com o Partido Missão]] — ruptura geracional; Geração Z já de direita
+- [[fontes/2025-12-21 - Essa é uma Missão pra vocês]] — missão de Natal; Google Trends
+- [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República.]] — 18% Gen-Z; 30%+ homens jovens; "fotografia vs. filme"
+- [[fontes/2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO]] — aprovação TSE 7 a 0; Kim como primeiro parlamentar
+- [[fontes/2025-10-24 - Não vai ter Missão]] — tentativa de bloqueio por Glauber Braga; resposta de Renan
+- [[fontes/2025-09-24 - Quer notícia boa]] — parecer favorável do MPE; contexto eleitoral sem Missão
+- [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — primeira pesquisa com 2%; contexto da fundação
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Livro Amarelo; programa resumido
