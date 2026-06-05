@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-04] ingest | Estão ameaçando o PIX mais uma vez.
+- Fonte criada: fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.
+- Páginas criadas: pessoas/Eduardo Bolsonaro, posicoes/Proteção ao PIX
+- Páginas atualizadas: temas/Política Externa e Geopolítica, temas/Ambição Nacional e Soberania Tecnológica, pessoas/Lula, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia pressão dos EUA (Trump) para negociar o PIX e ameaça de taxação por Lula. Critica Eduardo Bolsonaro por defender interesses americanos. Assina compromisso público de não taxar o PIX nem negociá-lo.
+
 ## [2026-06-04] ingest | Sua geração foi condenada
 - Fonte criada: fontes/2026-06-04 - Sua geração foi condenada
 - Páginas atualizadas: temas/Empobrecimento e Mercado de Trabalho, posicoes/Reforma Fiscal, index.md, log.md, wiki/.processed_ids
@@ -1188,19 +1194,4 @@
 - temas/Crítica à Direita Tradicional (CPI Alessandro Vieira)
 - temas/Segurança Pública (7 propostas PM; 60 anos reincidentes; Singapura)
 - temas/Pautas Identitárias e de Gênero (cassação Érika Hilton; Dia da Mulher; Marta Graeff)
-- temas/Corrupção Municipal (Presidente Vargas MA)
-- pessoas/Alexandre de Moraes (R$130M; mensagens secretas; Kim convoca)
-- pessoas/Flávio Bolsonaro (CPI Alessandro Vieira)
-- pessoas/Kim Kataguiri (cassação Hilton; convocações Marta Graeff, Moraes, Viviane Barce)
-- pessoas/Ratinho Júnior (Pay Brokers R$400K; Cred; contrato Toffoli)
-- wiki/index.md
-
----
-
-## [2026-04-15] ingest batch 6 | 20 shorts (2026-03-14 → 2026-03-19)
-
-**Fontes processadas (20):**
-- fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR
-- fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO
-- fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha
-- fontes/2026-03-19 - ANÃO 
+- temas/Corrupção Municipal (Presidente Varga

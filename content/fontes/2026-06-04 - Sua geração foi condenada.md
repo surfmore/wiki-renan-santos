@@ -6,6 +6,12 @@ canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=vpLpbcKFUhA"
 tipo: "short"
 date: 2026-06-04
+tags:
+  - fonte
+  - fies
+  - educação
+  - endividamento
+  - carga-tributária
 ---
 
 # Sua geração foi condenada
@@ -23,7 +29,4 @@ Como solução para essa geração (que ele identifica como tendo entre 30 e 50 
 
 ## Posições defendidas
 - Redução de impostos na folha salarial e IPTU
-- Crítica ao modelo de ensino superior privado financiado pelo Estado
-
-## URL
-https://www.youtube.com/watch?v=vpLpbcKFUhA
+- Crítica ao modelo de ensino superior pri

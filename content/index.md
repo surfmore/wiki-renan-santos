@@ -97,10 +97,10 @@ description: "Wiki público com tudo que Renan Santos já falou em seus vídeos 
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">606</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">607</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">21</span><span class="label">Temas</span></a>
-<a class="wiki-stat" href="/posicoes"><span class="num">23</span><span class="label">Posições</span></a>
-<a class="wiki-stat" href="/pessoas"><span class="num">42</span><span class="label">Pessoas</span></a>
+<a class="wiki-stat" href="/posicoes"><span class="num">24</span><span class="label">Posições</span></a>
+<a class="wiki-stat" href="/pessoas"><span class="num">43</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">12</span><span class="label">Eventos</span></a>
 </div>
 
@@ -124,6 +124,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/posicoes/Proteção-ao-PIX"><div class="wiki-card-header"><span class="wiki-card-icon">💳</span><span class="wiki-card-title">Proteção ao PIX</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Compromisso de não taxar o PIX nem negociá-lo com os EUA; defesa da soberania tecnológica brasileira.</p></a>
 <a class="wiki-card" href="/posicoes/Desfavelização-do-Brasil"><div class="wiki-card-header"><span class="wiki-card-icon">🏘️</span><span class="wiki-card-title">Desfavelização do Brasil</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">R$ 900 bilhões em 10 anos, tolerância zero a invasões e escolas cívico-militares nas comunidades.</p></a>
 <a class="wiki-card" href="/posicoes/Fusão-de-Municípios"><div class="wiki-card-header"><span class="wiki-card-icon">🏙️</span><span class="wiki-card-title">Fusão de Municípios</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Unir municípios muito pequenos em macromunicípios com metas de desempenho.</p></a>
 <a class="wiki-card" href="/posicoes/Emendas-Parlamentares-Condicionadas-a-Metas"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Emendas com Metas</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Vincular repasse de emendas a indicadores. Inelegibilidade de 8 anos para prefeitos que gastarem em festas.</p></a>
@@ -133,11 +134,12 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Expulsão-de-ONGs-Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Cortar financiamento estrangeiro a ONGs que bloqueiam desenvolvimento e pregam guerra entre brasileiros.</p></a>
 <a class="wiki-card" href="/posicoes/Frente-de-Trabalho-para-o-Bolsa-Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒️</span><span class="wiki-card-title">Frente de Trabalho</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Substituir o Bolsa Família por frentes de trabalho remunerado inspiradas no New Deal de Roosevelt.</p></a>
 <a class="wiki-card" href="/posicoes/Reforma-Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Cortar R$ 3,3 trilhões em gastos em 10 anos e reduzir impostos a partir do 2º ano.</p></a>
-<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 23 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, caminhoneiros, anticorrupção e mais.</p></a>
+<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 24 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, cotado como chanceler.</p></a>
 <a class="wiki-card" href="/pessoas/Daniel-Vorcaro"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Daniel Vorcaro</span><span class="wiki-card-count">75 fontes</span></div><p class="wiki-card-desc">Banqueiro do Master, preso em jan. 2026. Renan o compara ao americano Jeffrey Epstein.</p></a>
 <a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">36 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes e visitas a Vorcaro preso.</p></a>
 <a class="wiki-card" href="/pessoas/Romeu-Zema"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Romeu Zema</span><span class="wiki-card-count">22 fontes</span></div><p class="wiki-card-desc">Ultrapassado por Renan nas pesquisas. Pai de Vorcaro doou R$ 1 milhão ao Partido Novo em 2022.</p></a>
@@ -147,7 +149,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/André-Valadão"><div class="wiki-card-header"><span class="wiki-card-icon">⛪</span><span class="wiki-card-title">André Valadão</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Pastor da Lagoinha com ligações a Fabiano Zettel e suspeitas de desvio do INSS via ONG.</p></a>
 <a class="wiki-card" href="/pessoas/Jerônimo-Rodrigues"><div class="wiki-card-header"><span class="wiki-card-icon">🚨</span><span class="wiki-card-title">Jerônimo Rodrigues</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Governador da Bahia acusado de impedir a PM e ser leniente com o CV e o PCC.</p></a>
 <a class="wiki-card" href="/pessoas/Érika-Hilton"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️‍🌈</span><span class="wiki-card-title">Érika Hilton</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Usou a AGU para processar uma jornalista e votou contra o aumento de penas para crimes hediondos.</p></a>
-<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 42 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
+<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 43 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📰 Eventos</p>
@@ -159,7 +161,4 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/PEC-da-Blindagem-—-Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🛡️</span><span class="wiki-card-title">PEC da Blindagem</span></div><p class="wiki-card-desc">Setembro de 2025. Renan denuncia a aprovação e quais parlamentares da direita votaram a favor.</p></a>
 <a class="wiki-card" href="/eventos/Manifestação-do-Banco-Master-22-de-janeiro-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Manifestação Banco Master</span></div><p class="wiki-card-desc">22 de janeiro de 2026. Ato organizado por Renan contra o esquema de Vorcaro.</p></a>
 <a class="wiki-card" href="/eventos/COP30-—-Legado-em-Belém"><div class="wiki-card-header"><span class="wiki-card-icon">🌿</span><span class="wiki-card-title">COP30 em Belém</span></div><p class="wiki-card-desc">Posição de Renan sobre o evento e o legado para a Amazônia e o Brasil.</p></a>
-<a class="wiki-card" href="/eventos/Morte-de-Charlie-Kirk---Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Morte de Charlie Kirk</span></div><p class="wiki-card-desc">Setembro de 2025. Homenagem de Renan ao conservador americano e o que ele representava.</p></a>
-<a class="wiki-card" href="/eventos/Caso-do-Cão-Orelha"><div class="wiki-card-header"><span class="wiki-card-icon">🐕</span><span class="wiki-card-title">Caso do Cão Orelha</span></div><p class="wiki-card-desc">Episódio viral e a posição de Renan sobre o caso e seus desdobramentos.</p></a>
-<a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 12 eventos →</span></div><p class="wiki-card-desc">Desfile do carnaval pró-Lula, casamento Tabata e Campos, tentativa de nomear Messias ao STF.</p></a>
-</div>
+<a class="wiki-card" href="/eventos/Morte-de-Charlie-Kirk---Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Morte de Charlie Kirk</span><

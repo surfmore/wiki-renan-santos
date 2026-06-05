@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-02-28
 fontes:
+  - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
   - "2026-01-03 - URGENTE - Trump sequestra Maduro"
   - "2026-01-03 - Qual o próximo país, Trump"
   - "2026-01-03 - Pronunciamento Oficial"
@@ -15,6 +16,16 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## Pressão americana sobre o PIX: Eduardo Bolsonaro defende interesses dos EUA (junho de 2026)
+
+Em **4 de junho de 2026**, Renan denuncia que o governo americano (Trump) voltou a pressionar o Brasil nas negociações bilaterais, exigindo que o PIX — sistema de pagamentos instantâneos brasileiro — seja colocado na mesa de negociação.
+
+Renan critica o deputado Eduardo Bolsonaro (PL-SP), irmão do candidato Flávio Bolsonaro, por ter gravado um vídeo defendendo a posição americana e comparando o PIX ao sistema Zelle, dos Estados Unidos. Renan aponta que o Zelle é privado, lento (minutos para processar) e opera por bandeiras americanas como Visa e Mastercard — ao contrário do PIX, que é instantâneo, gratuito e tecnologia brasileira. Lembra também que Eduardo comemorou quando Trump taxou o Brasil, classificando-o como alguém que "defende o interesse americano no Brasil."
+
+Renan assina compromisso público de não negociar o PIX com os EUA e desafia Lula e Flávio Bolsonaro a fazerem o mesmo.
+
+Ver [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]].
 
 ## Tarifas americanas e o erro estratégico da direita (junho de 2026)
 
@@ -91,14 +102,4 @@ Em **28 de maio de 2026**, gravando no **porto de Ilhéus (BA)**, Renan analisa 
 
 O alerta: a China usa a mesma estratégia na África — financia infraestrutura, o país dá calote, ela exige submissão geopolítica como compensação. O Brasil, "fiscalmente quebrado e incapaz de investir na própria infra", corre risco semelhante — tanto mais porque a ferrovia passa por regiões ricas em **minério de ferro, agricultura e terras raras**. Renan aponta que o Brasil é o "único país capaz de concorrer com a China" no processamento de terras raras, tornando o controle do território estratégico para Pequim.
 
-Posição: fará a ferrovia, mas com **investimento misto** — parte chinês, parte brasileiro, parte de iniciativa privada internacional — para não depender exclusivamente da China. *"Nossa função aqui não é agradar nem chinês nem americano, é agradar o Brasil."* Ver [[fontes/2026-05-28 - Vamos fazer o Peru grande]].
-
-## Fontes
-
-- [[fontes/2026-05-28 - Vamos fazer o Peru grande]] — ferrovia bioceânica Ilhéus–Shankai; risco de dependência da China; proposta de investimento misto
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]] — terras raras; terceira via entre Lula e Flávio Bolsonaro
-- [[fontes/2026-02-28 - KHAMENEI ESTÁ MORTO]] — mundo baseado em força; queda do BRICS; bomba como soberania
-- [[fontes/2026-01-03 - Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República]] — medidas imediatas pós-intervenção na Venezuela
-- [[fontes/2026-01-03 - Qual o próximo país, Trump]] — Brasil como "próximo caso" após Venezuela
-- [[fontes/2026-01-03 - URGENTE - Trump sequestra Maduro]] — intervenção americana na Venezuela; análise geopolítica
-- [[fontes/2026-01-03 - Atenção - Trump anunciou interventor na Venezuela]] — nova Doutrina Monroe; terras raras e petróleo
+Posição: fará a ferrovia, mas com **investimento misto** — parte chinês, parte brasileiro, parte de iniciativ

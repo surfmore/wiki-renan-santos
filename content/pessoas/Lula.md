@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-06-01
 fontes:
+  - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
   - "2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS"
   - "2026-06-01 - O verdadeiro plano do Lula"
   - "2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro"
@@ -28,6 +29,12 @@ fontes:
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## PIX: Lula quer taxar, diz Renan (junho de 2026)
+
+Em **4 de junho de 2026**, Renan afirma que Lula "não liga pro PIX" e o enxerga apenas como "um instrumento para tachar você na hora certa." Lula já tentou taxar o PIX com sua equipe econômica antes, e Renan prevê que, se reeleito, "provavelmente o PIX será taxado." A declaração faz parte de um vídeo em que Renan assina compromisso público de não taxar o PIX nem negociá-lo com os EUA, desafiando Lula e Flávio Bolsonaro a fazerem o mesmo.
+
+Ver [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]].
 
 ## "A maior defesa de bandido": fala sobre polícia e segurança (junho de 2026)
 
@@ -162,9 +169,4 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 - [[fontes/2026-01-09 - Resposta para Daniela Lima]] — defesa de Bolsonaro de crueldade; Renan confirma ser adversário de Lula
 - [[fontes/2025-12-04 - Lula quer FRAUDAR as eleições]] — LDO como golpe eleitoral
 - [[fontes/2025-11-18 - Você ainda vai me responder, Lula]] — Berlim vs. Belém; desafio ao debate
-- [[fontes/2025-11-05 - LULA CRITICA MEGA OPERAÇÃO NO RJ]] — Lula critica operação policial; "como eu odeio o Lula"
-- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]] — omissão de Lula enquanto Rio ardia
-- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — declaração desatualizada sobre o crime organizado
-- [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — sindicato do irmão; R$400M do INSS; gringos incrédulos
-- [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]] — discurso "extremista disfarçado"
-- [[fontes/2025-09-06 - Cuida de mim, painho!]] — Nordeste como feudo assistencialista
+- [[fontes/2025-11-05 - LUL

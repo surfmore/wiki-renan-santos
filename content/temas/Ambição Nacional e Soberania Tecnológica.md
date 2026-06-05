@@ -9,6 +9,16 @@ date: 2026-04-03
 
 Tema recorrente na retórica de Renan Santos: o Brasil teria **tamanho e capacidade** para se posicionar no "grande jogo da engenharia mundial", mas seria sabotado por uma **mentalidade coletiva de autodepreciação**. Sua formulação mais repetida é "nós nos odiamos tanto aqui no Brasil e achamos que somos tão ruins que nem conseguimos sonhar".
 
+## PIX como conquista tecnológica brasileira ameaçada (junho de 2026)
+
+Em **4 de junho de 2026**, Renan denuncia que o PIX — sistema de pagamentos instantâneos brasileiro — está sob ameaça simultânea dos EUA (que pressionam para negociá-lo) e do governo Lula (que quer taxá-lo). Renan descreve o PIX como "uma grande conquista brasileira, é tecnologia própria e ajudou demais o pequeno comerciante."
+
+Ele compara o PIX ao Zelle americano para demonstrar a superioridade tecnológica brasileira: o Zelle é privado, lento (minutos) e opera por bandeiras como Visa e Mastercard, enquanto o PIX é instantâneo, gratuito e público. O contraste serve à tese maior de que o Brasil tem capacidade tecnológica própria que precisa ser defendida contra interesses externos.
+
+Renan assina compromisso público de não negociar o PIX com os EUA nem taxá-lo — "o interesse brasileiro tem que sempre vir à frente do interesse de qualquer outro país."
+
+Ver [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] e [[posicoes/Proteção ao PIX]].
+
 ## Terras raras: construir a cadeia no Brasil, não exportar matéria-prima (maio de 2026)
 
 Em **21 e 23 de maio de 2026**, na Marcha dos Prefeitos e na Sabatina Esfera, Renan detalha sua proposta para terras raras. O Brasil tem 20% das reservas mundiais mas praticamente nenhum controle sobre processamento. A proposta é um marco regulatório que obrigue a construção da cadeia produtiva no Brasil — do mineral ao ímã, passando pela bateria para automóveis elétricos. Parcerias com EUA, Taiwan e Japão para transferência de tecnologia — mas sem exportar matéria-prima bruta: *"Vamos produzir a turbina do avião deles aqui."*
@@ -198,19 +208,4 @@ Crítica ao debate político brasileiro: discutir escala 6x1 "desenhada nos anos
 
 Em **10 de fevereiro de 2026**, usando o caso do Bad Bunny como ponto de partida, Renan articula o tema da autoestima nacional:
 
-> "O Brasil que eu defendo é um Brasil que quando vir grandes eventos vai mostrar ao mundo: produz avião, produz tecnologia, vai se livrar das favelas, terá cidades habitáveis."
-
-Compara a abertura das Olimpíadas na China — "orgulho do que está fazendo agora" — com a abertura no Brasil, que mostrou "favela, pobreza, somos um povo brejeiro que consegue ser feliz na adversidade." A imagem de dançarinos com cana-de-açúcar é sintoma de um problema maior de representação nacional.
-
-Ver [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]].
-
-## Fontes
-
-- [[fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
-- [[fontes/2026-03-04 - Eu vou transformar o Nordeste na Arábia Saudita]]
-- [[fontes/2026-03-04 - Campinas deveria ser o Vale do Silício brasileiro]]
-- [[fontes/2026-02-27 - EU VOU REVOGAR TODAS AS TAXAÇÕES DO HADDAD]]
-- [[fontes/2026-02-21 - DE QUEM É A CULPA DO BRASIL TER PERDIDO ESSA PATENTE]]
-- [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]]
-- [[fontes/2026-02-08 - PRECISAMOS NOS PREPARAR PARA UM FUTURO GLORIOSO]]
+> "O Brasil que eu defendo é um Brasil que quando vir grandes eventos vai mostrar ao mundo: produz avião, produz tecnologia, vai se livrar das f
