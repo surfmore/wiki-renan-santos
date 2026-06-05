@@ -65,6 +65,18 @@ Propôs o **Partido Missão** como voz dos jovens e de quem rejeita ser administ
 
 O programa do partido é chamado de **Livro Amarelo**, com propostas sobre segurança pública, industrialização do Nordeste e desigualdades regionais. Ver [[temas/Agronegócio e Matopiba]], [[temas/Segurança Pública]], [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
 
+## Ultrapassa Lula e Flávio Bolsonaro no Google Trends (junho de 2026)
+
+Em **5 de junho de 2026**, Renan anuncia que sua pré-candidatura ultrapassou Luiz Inácio Lula da Silva e Flávio Bolsonaro no **Google Trends** — métrica de volume de buscas — nas últimas 24 horas. Exibe gráfico com três linhas e afirma que a linha azul (a sua) superou a vermelha (Lula) e a amarela (Flávio).
+
+Renan atribui o fenômeno ao fato de falar sobre temas relevantes — **educação** (analfabetismo funcional), **segurança**, **corrupção** e **impunidade no judiciário** — sempre apresentando propostas em vez de apenas reclamar. Compara seu crescimento ao ocorrido na **Colômbia**, onde um "ilustre desconhecido" tornou-se provável próximo presidente. Menciona matéria da **Revista Veja** que confirmou sua militância como a maior entre os pré-candidatos.
+
+> "Todos os sinais de uma revolução estão no ar e você talvez não tenha percebido."
+
+Convoca apoiadores a compartilhar a pré-candidatura como prova de que a polarização "Lula contra Flávio" pode ser quebrada.
+
+Ver [[fontes/2026-06-05 - É oficial!]].
+
 ## Pré-candidatura à presidência
 
 Em setembro de 2025, apareceu em pesquisa do **Instituto Real Time Big Data** com **2% das intenções de voto** para a presidência, sem ter lançado candidatura formal e com o Partido Missão ainda em processo de formalização. Aparecia ao lado de Lula (42%), Tarcísio de Freitas (40%) e Romeu Zema (4%).

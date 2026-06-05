@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-05] ingest | É oficial! (ingest automático)
+- Fonte criada: fontes/2026-06-05 - É oficial!
+- Páginas atualizadas: pessoas/Renan Santos, index.md, log.md, wiki/.processed_ids
+- Nota: Renan anuncia que ultrapassou Lula e Flávio Bolsonaro no Google Trends nas últimas 24h. Atribui o feito a propor soluções em vez de apenas reclamar. Menciona Revista Veja sobre sua militância. Compara trajetória à Colômbia.
+
 ## [2026-06-05] ingest | Feminismo no judiciário livrou a monstra no caso do menino Henry Borel (ingest automático)
 - Fonte criada: fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel
 - Páginas criadas: posicoes/Pena de Morte e Prisão Perpétua

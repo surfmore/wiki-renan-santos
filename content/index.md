@@ -168,4 +168,5 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-05 - É oficial!]] — Renan anuncia que ultrapassou Lula e Flávio Bolsonaro no Google Trends; compara fenômeno ao ocorrido na Colômbia; menciona matéria da Veja sobre sua militância.
 - [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]] — Renan critica juíza feminista que livrou a mãe de Henry Borel da condenação; defende prisão perpétua para crimes hediondos
