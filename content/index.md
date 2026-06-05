@@ -124,6 +124,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/posicoes/Pena-de-Morte-e-Prisão-Perpétua"><div class="wiki-card-header"><span class="wiki-card-icon">⚰️</span><span class="wiki-card-title">Pena de Morte e Prisão Perpétua</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa da prisão perpétua para crimes hediondos e apoio à pena de morte em tese; promessa de alterar a legislação.</p></a>
 <a class="wiki-card" href="/posicoes/Proteção-ao-PIX"><div class="wiki-card-header"><span class="wiki-card-icon">💳</span><span class="wiki-card-title">Proteção ao PIX</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Compromisso de não taxar o PIX nem negociá-lo com os EUA; defesa da soberania tecnológica brasileira.</p></a>
 <a class="wiki-card" href="/posicoes/Desfavelização-do-Brasil"><div class="wiki-card-header"><span class="wiki-card-icon">🏘️</span><span class="wiki-card-title">Desfavelização do Brasil</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">R$ 900 bilhões em 10 anos, tolerância zero a invasões e escolas cívico-militares nas comunidades.</p></a>
 <a class="wiki-card" href="/posicoes/Fusão-de-Municípios"><div class="wiki-card-header"><span class="wiki-card-icon">🏙️</span><span class="wiki-card-title">Fusão de Municípios</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Unir municípios muito pequenos em macromunicípios com metas de desempenho.</p></a>
@@ -161,4 +162,10 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/PEC-da-Blindagem-—-Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🛡️</span><span class="wiki-card-title">PEC da Blindagem</span></div><p class="wiki-card-desc">Setembro de 2025. Renan denuncia a aprovação e quais parlamentares da direita votaram a favor.</p></a>
 <a class="wiki-card" href="/eventos/Manifestação-do-Banco-Master-22-de-janeiro-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Manifestação Banco Master</span></div><p class="wiki-card-desc">22 de janeiro de 2026. Ato organizado por Renan contra o esquema de Vorcaro.</p></a>
 <a class="wiki-card" href="/eventos/COP30-—-Legado-em-Belém"><div class="wiki-card-header"><span class="wiki-card-icon">🌿</span><span class="wiki-card-title">COP30 em Belém</span></div><p class="wiki-card-desc">Posição de Renan sobre o evento e o legado para a Amazônia e o Brasil.</p></a>
-<a class="wiki-card" href="/eventos/Morte-de-Charlie-Kirk---Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Morte de Charlie Kirk</span><
+<a class="wiki-card" href="/eventos/Morte-de-Charlie-Kirk---Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Morte de Charlie Kirk</span></div><p class="wiki-card-desc">Reação de Renan ao assassinato do ativista conservador americano em setembro de 2025.</p></a>
+<a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 12 eventos →</span></div><p class="wiki-card-desc">Banco Master, prisão de Bolsonaro, PEC da Blindagem e mais.</p></a>
+</div>
+
+## Fontes (cronológico)
+
+- [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]] — Renan critica juíza feminista que livrou a mãe de Henry Borel da condenação; defende prisão perpétua para crimes hediondos

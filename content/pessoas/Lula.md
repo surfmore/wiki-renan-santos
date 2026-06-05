@@ -169,4 +169,9 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 - [[fontes/2026-01-09 - Resposta para Daniela Lima]] — defesa de Bolsonaro de crueldade; Renan confirma ser adversário de Lula
 - [[fontes/2025-12-04 - Lula quer FRAUDAR as eleições]] — LDO como golpe eleitoral
 - [[fontes/2025-11-18 - Você ainda vai me responder, Lula]] — Berlim vs. Belém; desafio ao debate
-- [[fontes/2025-11-05 - LUL
+- [[fontes/2025-11-05 - LULA CRITICA MEGA OPERAÇÃO NO RJ]] — Lula critica operação policial; "como eu odeio o Lula"
+- [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]] — omissão de Lula enquanto Rio ardia
+- [[fontes/2025-10-24 - Vejam o que Lula falou sobre o tráfico]] — declaração desatualizada sobre o crime organizado
+- [[fontes/2025-10-15 - Tentei explicar isso para um gringo]] — sindicato do irmão; R$400M do INSS; gringos incrédulos
+- [[fontes/2025-09-25 - Não deixa eu ganhar, Lula]] — discurso "extremista disfarçado"
+- [[fontes/2025-09-06 - Cuida de mim, painho!]] — Nordeste como feudo assistencialista

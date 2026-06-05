@@ -4,13 +4,26 @@ tags:
   - tema
   - judiciário
   - privilégios
-date: 2026-03-02
+date: 2026-06-05
 fontes:
+  - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
   - "2026-03-02 - MINAS GERAIS, VAMOS FALAR DO TRIBUNAL DE JUSTIÇA"
   - "2026-03-01 - JUÍZA NÃO ESTÁ RECEBENDO LANCHE"
 ---
 
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
+
+## Juíza feminista no caso Henry Borel: ativismo judicial e impunidade (junho de 2026)
+
+Em **5 de junho de 2026**, Renan critica a atuação de uma juíza no caso Henry Borel que, segundo ele, anulou a decisão do Tribunal do Júri — que havia condenado a mãe por homicídio — e mandou os jurados votarem novamente para alterar o tipo penal para homicídio culposo, permitindo que a ré ficasse em liberdade.
+
+Renan descreve a juíza como "feminista", "ativista de extrema esquerda" e que escreve artigos sobre feminicídio. Ela teria fundamentado a decisão no argumento de que a condenação da mãe era "violência de gênero" e fruto do "machismo do patriarcado".
+
+> "Eu percebo que a justiça nesse país não existe."
+
+Renan promete que, em seu governo, essa juíza seria "afastada e não receber mais nada". O padrasto Jairinho recebeu 40 anos de prisão, mas na prática, segundo Renan, cumprirá 5 a 7 anos.
+
+Ver [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]].
 
 ## "O judiciário mais caro do mundo"
 

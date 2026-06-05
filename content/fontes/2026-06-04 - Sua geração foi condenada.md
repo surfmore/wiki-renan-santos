@@ -29,4 +29,7 @@ Como solução para essa geração (que ele identifica como tendo entre 30 e 50 
 
 ## Posições defendidas
 - Redução de impostos na folha salarial e IPTU
-- Crítica ao modelo de ensino superior pri
+- Crítica ao modelo de ensino superior privado financiado pelo Estado
+
+## URL
+https://www.youtube.com/watch?v=vpLpbcKFUhA

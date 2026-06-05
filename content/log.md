@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-05] ingest | Feminismo no judiciário livrou a monstra no caso do menino Henry Borel (ingest automático)
+- Fonte criada: fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel
+- Páginas criadas: posicoes/Pena de Morte e Prisão Perpétua
+- Páginas atualizadas: temas/Pautas Identitárias e de Gênero, temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica juíza feminista que livrou a mãe de Henry Borel da condenação pelo Tribunal do Júri. Defende prisão perpétua para crimes hediondos e promete alterar a legislação.
+
 ## [2026-06-04] ingest | Estão ameaçando o PIX mais uma vez.
 - Fonte criada: fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.
 - Páginas criadas: pessoas/Eduardo Bolsonaro, posicoes/Proteção ao PIX
@@ -1194,4 +1200,19 @@
 - temas/Crítica à Direita Tradicional (CPI Alessandro Vieira)
 - temas/Segurança Pública (7 propostas PM; 60 anos reincidentes; Singapura)
 - temas/Pautas Identitárias e de Gênero (cassação Érika Hilton; Dia da Mulher; Marta Graeff)
-- temas/Corrupção Municipal (Presidente Varga
+- temas/Corrupção Municipal (Presidente Vargas MA)
+- pessoas/Alexandre de Moraes (R$130M; mensagens secretas; Kim convoca)
+- pessoas/Flávio Bolsonaro (CPI Alessandro Vieira)
+- pessoas/Kim Kataguiri (cassação Hilton; convocações Marta Graeff, Moraes, Viviane Barce)
+- pessoas/Ratinho Júnior (Pay Brokers R$400K; Cred; contrato Toffoli)
+- wiki/index.md
+
+---
+
+## [2026-04-15] ingest batch 6 | 20 shorts (2026-03-14 → 2026-03-19)
+
+**Fontes processadas (20):**
+- fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR
+- fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO
+- fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha
+- fontes/2026-03-19 - ANÃO 

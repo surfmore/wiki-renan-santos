@@ -5,8 +5,9 @@ tags:
   - gênero
   - identidade
   - esquerda
-date: 2026-06-02
+date: 2026-06-05
 fontes:
+  - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
   - "2026-06-02 - Atenção, Maranhão!"
   - "2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES"
   - "2026-03-14 - MINHA RESPOSTA PARA O FEMINICÍDIO NO BRASIL"
@@ -15,6 +16,18 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Feminismo no judiciário: juíza livra mãe assassina no caso Henry Borel (junho de 2026)
+
+Em **5 de junho de 2026**, Renan critica a decisão de uma juíza que classificou como "feminista" e "ativista de extrema esquerda" no caso do menino Henry Borel — criança de 4 anos espancada até a morte pelo padrasto com a conivência da mãe. O Tribunal do Júri havia condenado a mãe, mas a juíza teria mandado o júri votar novamente para alterar o tipo penal para homicídio culposo.
+
+Renan descreve a juíza como alguém que "escreve artigos sobre feminicídio" e aplicou uma "violência de gênero" como argumento para livrar a mãe — tratando a condenação como fruto do "machismo do patriarcado". A própria defesa da mãe teria argumentado que ela era vítima do machismo e do patriarcado.
+
+> "Juiz que usa essa ideologia maldita do feminismo para permitir que mulher que comete crime fique livre, é inimiga do povo brasileiro."
+
+Renan promete que em seu governo essa juíza seria afastada sem salário e defende a prisão perpétua para ambos (mãe e padrasto).
+
+Ver [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]].
 
 ## Ação no STF para proibir famílias maranhenses de retirar filhos de aulas (junho de 2026)
 
@@ -245,6 +258,7 @@ Ver [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] e [[font
 
 ## Fontes
 
+- [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]]
 - [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]]
 - [[fontes/2026-02-13 - O CASO QUE O MOVIMENTO NEGRO NÃO QUER FALAR SOBRE]]
 - [[fontes/2026-02-15 - ERIKA HILTON NOSSA FUTURA PRESIDENTA NO CARNAVAL]]

@@ -208,4 +208,20 @@ Crítica ao debate político brasileiro: discutir escala 6x1 "desenhada nos anos
 
 Em **10 de fevereiro de 2026**, usando o caso do Bad Bunny como ponto de partida, Renan articula o tema da autoestima nacional:
 
-> "O Brasil que eu defendo é um Brasil que quando vir grandes eventos vai mostrar ao mundo: produz avião, produz tecnologia, vai se livrar das f
+> "O Brasil que eu defendo é um Brasil que quando vir grandes eventos vai mostrar ao mundo: produz avião, produz tecnologia, vai se livrar das favelas, terá cidades habitáveis."
+
+Compara a abertura das Olimpíadas na China — "orgulho do que está fazendo agora" — com a abertura no Brasil, que mostrou "favela, pobreza, somos um povo brejeiro que consegue ser feliz na adversidade." A imagem de dançarinos com cana-de-açúcar é sintoma de um problema maior de representação nacional.
+
+Ver [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]].
+
+## Fontes
+
+- [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — PIX como conquista tecnológica brasileira ameaçada por pressão americana e taxação de Lula
+- [[fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG]]
+- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
+- [[fontes/2026-03-04 - Eu vou transformar o Nordeste na Arábia Saudita]]
+- [[fontes/2026-03-04 - Campinas deveria ser o Vale do Silício brasileiro]]
+- [[fontes/2026-02-27 - EU VOU REVOGAR TODAS AS TAXAÇÕES DO HADDAD]]
+- [[fontes/2026-02-21 - DE QUEM É A CULPA DO BRASIL TER PERDIDO ESSA PATENTE]]
+- [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]]
+- [[fontes/2026-02-08 - PRECISAMOS NOS PREPARAR PARA UM FUTURO GLORIOSO]]
