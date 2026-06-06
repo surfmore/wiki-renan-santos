@@ -4,7 +4,20 @@ tags:
   - tema
   - economia
   - emprego
-date: 2026-06-04
+  - custo-de-vida
+date: 2026-06-06
+---
+
+## Leilão de energia e o custo para a classe média (junho de 2026)
+
+Em **6 de junho de 2026**, Renan denuncia que o leilão de usinas termoelétricas promovido pelo governo Lula, avaliado em R$ 1 trilhão, vai aumentar a conta de luz em **10%** — e que a classe média trabalhadora é quem vai pagar a conta.
+
+Segundo Renan, o padrão do governo Lula se repete: o leilão foi manipulado para beneficiar empresários aliados (como Joesley Batista), enquanto o custo é repassado para quem trabalha e produz. Ele conecta o caso ao programa Luz para Todos — a energia "gratuita" que Lula promete aos mais pobres, na prática, é paga por quem tem conta de luz em dia.
+
+Renan também menciona que, pela mesma lógica, o fim da escala 6x1 vai aumentar o preço de produtos e serviços para todos.
+
+Ver [[fontes/2026-06-06 - Parabéns! Sua luz vai ficar mais cara!]].
+
 ---
 
 ## Indústria do diploma do FIES: geração endividada (junho de 2026)

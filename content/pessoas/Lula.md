@@ -5,8 +5,9 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-06-01
+date: 2026-06-06
 fontes:
+  - "2026-06-06 - Parabéns! Sua luz vai ficar mais cara!"
   - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
   - "2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS"
   - "2026-06-01 - O verdadeiro plano do Lula"
@@ -29,6 +30,21 @@ fontes:
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## Leilão de termoelétricas: padrão de beneficiar bilionários às custas da classe média (junho de 2026)
+
+Em **6 de junho de 2026**, Renan denuncia um leilão de usinas termoelétricas de cerca de R$ 1 trilhão que, segundo ele, foi manipulado para beneficiar o empresário **Joesley Batista** (JBS/Friboi). Renan afirma que o governo Lula dobrou o valor teto do leilão faltando poucos dias, resultando em queda de preço de apenas 5% — sinal de "jogo combinado".
+
+Renan descreve o padrão que atribui a Lula:
+- De um lado, beneficiar "amigos multibilionários" com leilões superfaturados
+- De outro, distribuir "migalhas" aos mais pobres (como o programa Luz para Todos)
+- A classe média "que trabalha e produz" é quem paga a conta, com aumento estimado de **10% na conta de luz**
+
+Ele também critica a contradição entre a promessa de Lula em 2023 de investir em energia renovável e a realização de um leilão maciço de termoelétricas — energia "cara, velha e poluente". Renan propõe, em contraste, rever esses leilões e focar em energia renovável em seu governo.
+
+> "Em todos os temas que importam pro Lula, ele sempre faz a mesma coisa. De um lado ele ajuda seus amigos bilionários. Do outro ele joga uma migalha para alguém e a turma que tá no meio, que trabalha e produz, paga conta."
+
+Ver [[fontes/2026-06-06 - Parabéns! Sua luz vai ficar mais cara!]].
 
 ## PIX: Lula quer taxar, diz Renan (junho de 2026)
 
