@@ -4,8 +4,9 @@ tags:
   - tema
   - partido-missão
   - eleições-2026
-date: 2026-05-25
+date: 2026-06-01
 fontes:
+  - "2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!"
   - "2026-06-03 - Bora bater mais uma meta na minha vaquinha!"
   - "2026-05-07 - O que diferencia a Missão dos outros partidos"
   - "2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO"
@@ -20,6 +21,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro.
+
+## Crescimento nas pesquisas (junho de 2026)
+
+Em **1º de junho de 2026**, Renan anuncia que a pesquisa Real Time Big Data o colocou em **terceiro lugar** com **6%** das intenções de voto — o dobro dos 3% registrados anteriormente. Ele cita o Atlas como seu instituto de referência, que previu corretamente a ascensão do candidato colombiano Spriela (direita, partido pequeno, discurso anticrime). Renan traça um paralelo: assim como o Atlas captou Spriela na Colômbia, começa a captar seu crescimento no Brasil.
+
+Ver [[fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!]].
 
 ## Origem e fundação
 

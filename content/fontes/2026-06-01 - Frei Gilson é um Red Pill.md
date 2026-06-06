@@ -4,44 +4,35 @@ tags:
   - fonte
   - liberdade-religiosa
   - ministério-público
-  - stf
 date: 2026-06-01
+video_id: "a_D412rk2os"
+data: "2026-06-01"
+canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=a_D412rk2os"
-canal: renan-canal
-tipo: short
+tipo: "short"
 ---
 
-# Frei Gilson é um Red Pill
+Renan Santos defende Frei Gilson, alvo de ação do Ministério Público sob acusações de misoginia e homofobia. Renan argumenta que as acusações decorrem exclusivamente de Frei Gilson defender a doutrina da Igreja Católica — a visão bíblica da relação entre homem e mulher e a posição católica sobre homossexualidade. As acusações seriam enquadradas como crimes inafiançáveis, equiparados à injúria racial.
 
-Vídeo curto publicado em 1.º de junho de 2026 em que Renan Santos defende [[pessoas/Frei Gilson]] — padre católico popular acusado pelo Ministério Público de misoginia e homofobia — e apresenta o caso como exemplo de perseguição religiosa institucional no Brasil.
+Renan descreve Frei Gilson como parte de um renascimento católico no Brasil, com milhões de pessoas rezando o terço com ele diariamente na madrugada. Ele critica o Ministério Público por se voltar contra um padre em vez de focar no crime organizado e na corrupção política. Alerta que o mesmo raciocínio jurídico pode ser usado contra professores, pastores e cidadãos comuns.
 
-## Resumo
+Como solução, Renan promete que, se eleito presidente, nomeará um ministro "terrivelmente católico" para o STF, que atuará junto com André Mendonça ("terrivelmente evangélico") para disciplinar a perseguição aos valores cristãos. Também promete expulsar ONGs estrangeiras que "pregam guerra entre os brasileiros."
 
-Renan descreve Frei Gilson como um padre tradicional que "inspira multidões" e reza o terço diariamente com milhões de pessoas na madrugada, fazendo parte de um "renascimento católico" no Brasil. O episódio que motiva o vídeo é uma ação do Ministério Público contra o padre.
+Ele descreve o Brasil como "um país cristão, fundado pela ordem de Cristo" e diz que as autoridades precisam se submeter a esse fato. Conclui que nenhum outro pré-candidato está falando sobre o assunto.
 
-Segundo Renan, as acusações são duas: misoginia, por defender uma "visão bíblica da relação entre homem e mulher"; e homofobia, por seguir a doutrina católica de que o homossexualismo não é natural. Ambas estariam sendo tratadas como crimes inafiançáveis, equiparados à injúria racial. A conclusão de Renan: o MP quer prender um padre por pregar o que sua própria Igreja ensina.
+## Temas abordados
 
-Renan alerta que o caso tem implicações além do catolicismo: o mesmo raciocínio poderia ser aplicado a professores em sala de aula, pastores em pregações ou qualquer pessoa em conversas privadas dentro de uma empresa. Para ele, está se formando no Brasil um "regime opressivo" sustentado por "uma minoria de esquerda que ocupa posições de elite" e que não representa o sistema de valores da maioria da população. Encerra com a afirmação: "O Brasil é um país cristão. Ponto."
-
-Em tom de proposta presidencial, Renan anuncia que nomearia um ministro do STF "terrivelmente católico", que atuaria junto com o atual ministro [[pessoas/André Mendonça]] — descrito como "terrivelmente evangélico" — para "disciplinar essa perseguição aos valores comuns do brasileiro". Além disso, propõe ir "para cima" do que chama de discurso de ódio da extrema esquerda — que segundo ele prega conflito entre homens e mulheres, negros e brancos, gays e heterossexuais — e expulsar ONGs que recebem financiamento internacional para "pregar guerra entre os brasileiros", classificando o tema como questão de soberania nacional.
-
-## Temas
-
-- [[temas/Liberdade Religiosa]]
-- [[temas/Pautas Identitárias e de Gênero]]
-- [[temas/STF e Ativismo Judicial]]
-- [[temas/Soberania Nacional e ONGs Estrangeiras]]
-
-## Pessoas mencionadas
-
-- [[pessoas/Frei Gilson]] — padre católico popular, alvo do Ministério Público; Renan o defende e usa o caso como símbolo da perseguição religiosa
-- [[pessoas/André Mendonça]] — ministro do STF descrito como "terrivelmente evangélico"; Renan anuncia que trabalharia com ele para proteger a liberdade religiosa
+- [[temas/Liberdade Religiosa]] — defesa de Frei Gilson contra ação do MP
+- [[temas/Pautas Identitárias e de Gênero]] — crítica à criminalização da doutrina religiosa
+- [[temas/Soberania Nacional e ONGs Estrangeiras]] — promessa de expulsar ONGs estrangeiras
 
 ## Posições defendidas
 
-- [[posicoes/Nomeação de Ministro Católico para o STF]]
-- [[posicoes/Expulsão de ONGs Estrangeiras]]
+- [[posicoes/Nomeação de Ministro Católico para o STF]] — um ministro "terrivelmente católico" no STF
+- [[posicoes/Expulsão de ONGs Estrangeiras]] — expulsar ONGs que pregam "guerra entre brasileiros"
 
----
+## Pessoas mencionadas
 
-<a href="https://www.youtube.com/watch?v=a_D412rk2os" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>
+- [[pessoas/Frei Gilson]] — padre acusado pelo MP
+- [[pessoas/André Mendonça]] — citado como par para ministro católico no STF
+- **Lula** — mencionado como adversário que não fala do assunto

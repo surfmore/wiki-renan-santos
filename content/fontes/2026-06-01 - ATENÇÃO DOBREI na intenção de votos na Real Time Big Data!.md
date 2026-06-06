@@ -2,41 +2,38 @@
 title: "ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!"
 tags:
   - fonte
-  - short
-  - pré-campanha
-  - pesquisas
+  - pesquisas-eleitorais
+  - campanha
 date: 2026-06-01
-canal: renan-canal
+video_id: "VNyCwg8X5gY"
+data: "2026-06-01"
+canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=VNyCwg8X5gY"
+tipo: "short"
 ---
 
-## Resumo
+Renan Santos anuncia que a pesquisa Real Time Big Data o colocou em terceiro lugar na disputa presidencial, com 6% das intenções de voto — o dobro dos 3% registrados anteriormente pelo mesmo instituto. Ele destaca que, mesmo tendo ressalvas quanto à metodologia do instituto, o dado é relevante porque outros institutos tendem a captar a tendência depois. Em um cenário de segundo turno contra Lula, Renan afirma ter "tirado sete pontos do Lula."
 
-Renan comenta a divulgação de uma pesquisa do instituto Real Time Big Data que o colocou em terceiro lugar com 6% das intenções de voto — o dobro da medição anterior, em que aparecia com 3%. Ele reconhece que nunca levou muito a sério esse instituto, com o qual discorda metodologicamente, mas interpreta o ajuste como um sinal relevante de tendência.
+Renan explica que seu instituto de confiança é o Atlas, que acompanha desde 2020, por sua precisão em eleições internacionais — acertou resultados na Hungria, Chile, Argentina e, mais recentemente, na Colômbia. Na Colômbia, o Atlas previu a ascensão de Spriela, um candidato de direita de um partido pequeno, recém-surgido, com discurso anticrime e um felino como símbolo — paralelo que Renan traça com sua própria trajetória.
 
-No cenário de segundo turno contra Lula, a mesma pesquisa aponta que Renan tiraria sete pontos do presidente, o que ele considera um resultado expressivo para um candidato ainda pouco conhecido pelo grande público.
+Ele argumenta que o Atlas antecipa tendências de crescimento de candidatos novatos, enquanto os demais institutos captam o movimento depois. Por isso, vê com otimismo o resultado da Real Time Big Data como sinal de que seu crescimento está sendo reconhecido.
 
-Renan aproveita para reafirmar que o instituto que mais confia é o **Atlas** — e deixa claro que essa preferência é anterior à sua candidatura, desde 2020. Enumera os acertos do Atlas em eleições internacionais recentes: Hungria, Chile, Argentina e Colômbia. O caso colombiano recebe destaque: o Atlas previu a ascensão de **Abelardo de la Espriela**, candidato de um partido pequeno e recém-criado, de direita, com discurso anticrime e símbolo de um felino — características que Renan aproxima da sua própria trajetória, com uma menção irônica às "coincidências".
-
-Renan traça um paralelo direto entre o que aconteceu na Colômbia — onde o Atlas captou o crescimento de Espriela antes dos demais institutos, que depois o seguiram — e o que acredita que ocorrerá no Brasil. Define-se como "a novidade das eleições": sem compromissos com os grandes partidos, sem "rabo preso", com propostas concretas e disposição para confrontar Lula nos debates. Encerra enumerando sua agenda: combate ao crime, crescimento econômico, reformas amplas, desfavelização do Brasil e a meta de tornar o país uma das cinco maiores nações do mundo em trinta anos.
+Renan se posiciona como "a novidade das eleições" — sem rabo preso com ninguém, capaz de derrotar Lula nos debates. Enumera suas bandeiras: "matar bandido como se não houvesse amanhã", fazer a economia funcionar, realizar todas as reformas possíveis, desfavelizar o Brasil e torná-lo uma das cinco maiores nações do mundo em 30 anos. Encerra com otimismo, afirmando que o brasileiro quer o mesmo que ele.
 
 ## Temas abordados
 
-- [[temas/Crítica à Direita Tradicional]] — Renan se posiciona como alternativa nova, fora dos grandes partidos e sem compromissos com o establishment
-- [[temas/Segurança Pública]] — menciona combate ao crime como prioridade central da sua plataforma
-- [[temas/Ambição Nacional e Soberania Tecnológica]] — meta de Brasil entre as 5 maiores nações em 30 anos; reformas amplas
-
-## Pessoas mencionadas
-
-- **Abelardo de la Espriela** — candidato colombiano de direita que o Atlas previu como vencedor; partido pequeno e recém-criado, discurso anticrime, símbolo de felino; Renan traça paralelo implícito com sua própria candidatura
-- **Lula** — presidente em exercício; segundo Renan, ele o venceria em debates e em segundo turno retiraria sete pontos do presidente
+- [[temas/Partido Missão]] — crescimento nas pesquisas como pré-candidato
+- [[temas/Ambição Nacional e Soberania Tecnológica]] — proposta de colocar o Brasil entre as 5 maiores nações
+- [[temas/Segurança Pública]] — "matar bandido como se não houvesse amanhã"
+- [[posicoes/Desfavelização do Brasil]] — mencionada como bandeira de campanha
 
 ## Posições defendidas
 
-- [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] — "quero matar bandido como se não houvesse amanhã"
-- [[posicoes/Desfavelização do Brasil]] — mencionada como agenda nacional, não restrita ao Rio
-- [[posicoes/Reforma Fiscal]] — reformas amplas como parte do projeto de governo
+- Reformas econômicas amplas
+- Política de segurança de linha dura
+- Posicionamento antipolarização (nem PT nem bolsonarismo tradicional)
 
----
+## Menções
 
-<a href="https://www.youtube.com/watch?v=VNyCwg8X5gY" target="_blank" rel="noopener noreferrer">▶ Assistir no YouTube</a>
+- **Lula** — como adversário no segundo turno
+- **Spriela** — candidato colombiano de direita, paralelo traçado por Renan

@@ -97,7 +97,7 @@ description: "Wiki público com tudo que Renan Santos já falou em seus vídeos 
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">608</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">610</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">21</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">24</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">43</span><span class="label">Pessoas</span></a>
@@ -165,6 +165,11 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-02 - Atenção, Maranhão!]] — Renan denuncia ação no STF para proibir famílias maranhenses de retirar filhos de aulas com conteúdo de gênero; promete "derrubar por decreto" e nomear ministro católico.
+- [[fontes/2026-06-01 - Você também concorda com esse vídeo]] — Renan detalha ligações de Flávio Bolsonaro com figuras do Comando Vermelho no Rio (Bacelar, TH Joias, Índio do Lixão); apela ao eleitor conservador para não apoiar Flávio.
+- [[fontes/2026-06-01 - O verdadeiro plano do Lula]] — Renan analisa o fim da escala 6x1 proposto por Lula como instrumento de dependência política; mostra mapas que correlacionam Bolsa Família com votos no PT; compara modelo ao da Venezuela.
+- [[fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!]] — Renan anuncia que dobrou na pesquisa Real Time Big Data (3% → 6%); cita Atlas como instituto de referência que previu fenômeno similar na Colômbia.
+- [[fontes/2026-06-01 - Frei Gilson é um Red Pill]] — Renan defende Frei Gilson contra ação do MP por misoginia/homofobia; promete nomear ministro "terrivelmente católico" no STF; promete expulsar ONGs estrangeiras.
 - [[fontes/2026-06-06 - Parabéns! Sua luz vai ficar mais cara!]] — Renan denuncia leilão de termoelétricas de R$ 1 trilhão manipulado para beneficiar Joesley Batista, que vai aumentar a conta de luz em 10%.
 - [[fontes/2026-06-06 - Lembre-se do Gabriel]] — Renan recua do slogan "prender matô" para "matu" após processos; narra o latrocínio de Gabriel, jovem executado em Capão Redondo, e defende prisão degradante para criminosos violentos.
 - [[fontes/2026-06-05 - É oficial!]] — Renan anuncia que ultrapassou Lula e Flávio Bolsonaro no Google Trends; compara fenômeno ao ocorrido na Colômbia; menciona matéria da Veja sobre sua militância.

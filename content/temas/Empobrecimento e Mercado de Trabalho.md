@@ -5,7 +5,7 @@ tags:
   - economia
   - emprego
   - custo-de-vida
-date: 2026-06-06
+date: 2026-06-01
 ---
 
 ## Leilão de energia e o custo para a classe média (junho de 2026)

@@ -1,5 +1,30 @@
 # Log de operações
 
+## [2026-06-02] ingest | Atenção, Maranhão! (ingest automático)
+- Fonte criada: fontes/2026-06-02 - Atenção, Maranhão!
+- Páginas atualizadas: (já existiam) temas/Pautas Identitárias e de Gênero, posicoes/Nomeação de Ministro Católico para o STF, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia ação no STF de ONGs LGBT para proibir famílias maranhenses de retirar filhos de aulas com conteúdo de gênero. Promete "derrubar por decreto" e nomear ministro católico no STF.
+
+## [2026-06-01] ingest | Você também concorda com esse vídeo (ingest automático)
+- Fonte criada: fontes/2026-06-01 - Você também concorda com esse vídeo
+- Páginas atualizadas: (já existiam) pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Renan detalha ligações de Flávio Bolsonaro com figuras do Comando Vermelho no Rio (Bacelar, TH Joias, Índio do Lixão). Apela ao eleitor conservador para não apoiar Flávio. Cita-se como alternativa: "direita, séria e sem rabo preso."
+
+## [2026-06-01] ingest | O verdadeiro plano do Lula (ingest automático)
+- Fonte criada: fontes/2026-06-01 - O verdadeiro plano do Lula
+- Páginas atualizadas: (já existiam) pessoas/Lula, temas/Empobrecimento e Mercado de Trabalho, index.md, log.md, wiki/.processed_ids
+- Nota: Renan interpreta o fim da escala 6x1 proposto por Lula como plano de dependência política. Mostra mapas correlacionando Bolsa Família com votos no PT. Compara modelo ao da Venezuela. Critica carga tributária como entrave ao aumento salarial.
+
+## [2026-06-01] ingest | Frei Gilson é um Red Pill (ingest automático)
+- Fonte criada: fontes/2026-06-01 - Frei Gilson é um Red Pill
+- Páginas atualizadas: (já existiam) pessoas/Frei Gilson, temas/Liberdade Religiosa, posicoes/Nomeação de Ministro Católico para o STF, index.md, log.md, wiki/.processed_ids
+- Nota: Renan defende Frei Gilson contra ação do MP; promete nomear ministro "terrivelmente católico" no STF; promete expulsar ONGs estrangeiras. Classifica Brasil como "país cristão".
+
+## [2026-06-01] ingest | ATENÇÃO DOBREI na intenção de votos na Real Time Big Data! (ingest automático)
+- Fonte criada: fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!
+- Páginas atualizadas: temas/Partido Missão, index.md, log.md, wiki/.processed_ids
+- Nota: Renan anuncia que dobrou na pesquisa Real Time Big Data (3% → 6%). Cita Atlas como instituto de referência que previu vitória de Spriela na Colômbia. Traça paralelo com sua candidatura.
+
 ## [2026-06-06] ingest | Parabéns! Sua luz vai ficar mais cara! (ingest automático)
 - Fonte criada: fontes/2026-06-06 - Parabéns! Sua luz vai ficar mais cara!
 - Páginas atualizadas: pessoas/Lula, temas/Empobrecimento e Mercado de Trabalho, index.md, log.md, wiki/.processed_ids
