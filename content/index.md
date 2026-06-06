@@ -97,7 +97,7 @@ description: "Wiki público com tudo que Renan Santos já falou em seus vídeos 
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">607</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">608</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">21</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">24</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">43</span><span class="label">Pessoas</span></a>
@@ -110,7 +110,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">81 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa e desfavelização como solução estrutural.</p></a>
+<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">82 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">34 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
@@ -124,7 +124,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/posicoes/Pena-de-Morte-e-Prisão-Perpétua"><div class="wiki-card-header"><span class="wiki-card-icon">⚰️</span><span class="wiki-card-title">Pena de Morte e Prisão Perpétua</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa da prisão perpétua para crimes hediondos e apoio à pena de morte em tese; promessa de alterar a legislação.</p></a>
+<a class="wiki-card" href="/posicoes/Pena-de-Morte-e-Prisão-Perpétua"><div class="wiki-card-header"><span class="wiki-card-icon">⚰️</span><span class="wiki-card-title">Pena de Morte e Prisão Perpétua</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Defesa da prisão perpétua para crimes hediondos e apoio à pena de morte em tese; promessa de alterar a legislação.</p></a>
 <a class="wiki-card" href="/posicoes/Proteção-ao-PIX"><div class="wiki-card-header"><span class="wiki-card-icon">💳</span><span class="wiki-card-title">Proteção ao PIX</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Compromisso de não taxar o PIX nem negociá-lo com os EUA; defesa da soberania tecnológica brasileira.</p></a>
 <a class="wiki-card" href="/posicoes/Desfavelização-do-Brasil"><div class="wiki-card-header"><span class="wiki-card-icon">🏘️</span><span class="wiki-card-title">Desfavelização do Brasil</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">R$ 900 bilhões em 10 anos, tolerância zero a invasões e escolas cívico-militares nas comunidades.</p></a>
 <a class="wiki-card" href="/posicoes/Fusão-de-Municípios"><div class="wiki-card-header"><span class="wiki-card-icon">🏙️</span><span class="wiki-card-title">Fusão de Municípios</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Unir municípios muito pequenos em macromunicípios com metas de desempenho.</p></a>
@@ -165,4 +165,5 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-06 - Lembre-se do Gabriel]] — Renan recua do slogan "prender matô" para "matu" após processos; narra o latrocínio de Gabriel, jovem executado em Capão Redondo, e defende prisão degradante para criminosos violentos.
 - [[fontes/2026-06-05 - É oficial!]] — Renan anuncia que ultrapassou Lula e Flávio Bolsonaro no Google Trends; compara fenômeno ao ocorrido na Colômbia; menciona matéria da Veja sobre sua militância.

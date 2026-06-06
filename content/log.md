@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-06] ingest | Lembre-se do Gabriel (ingest automático)
+- Fonte criada: fontes/2026-06-06 - Lembre-se do Gabriel
+- Páginas atualizadas: temas/Segurança Pública, posicoes/Pena de Morte e Prisão Perpétua, index.md, log.md, wiki/.processed_ids
+- Nota: Renan recua do slogan "prender matô" para "matu" por causa de processos judiciais. Narra o caso de Gabriel, executado em Capão Redondo. Defende prisão degradante para criminosos violentos, sem cama, comida ou visitas.
+
 ## [2026-06-05] ingest | É oficial! (ingest automático)
 - Fonte criada: fontes/2026-06-05 - É oficial!
 - Páginas atualizadas: pessoas/Renan Santos, index.md, log.md, wiki/.processed_ids

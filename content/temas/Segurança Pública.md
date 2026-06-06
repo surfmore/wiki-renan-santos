@@ -8,6 +8,20 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Caso Gabriel: latrocínio em Capão Redondo e evolução do slogan (junho de 2026)
+
+Em **6 de junho de 2026**, Renan anuncia que está recuando no slogan "prender matô" devido aos múltiplos processos judiciais que tem enfrentado. O novo slogan passa a ser apenas "matu" — uma adaptação tática legal sem alteração na convicção.
+
+O anúncio é feito a partir do caso de **Gabriel**, jovem voluntário de uma ONG no Capão Redondo (SP), executado por um assaltante que não gostou do modelo do celular roubado — mesmo após o casal ter entregue o aparelho. Renan descreve Gabriel como filho único e contrasta sua morte com a provável impunidade do assassino.
+
+A partir desse caso, Renan detalha sua visão sobre o sistema penitenciário: o criminoso deve passar o resto da vida na cadeia sem cama confortável, sem boa alimentação, sem visitas íntimas, sem livros e sem progressão de pena. Ele quer que o assassino se lembre de Gabriel todos os dias, envelheça na prisão e morra como fracasso.
+
+> "Eu acho que o assaltante tem que morrer. E eu acho que a polícia brasileira tem que ter todos os meios possíveis para pegar bandidos, figuras más, figuras que cometem latrocínio. E eu quero que ela possa matá-los."
+
+Renan afirma que não deseja ensinar nada ao criminoso na cadeia e não quer que ele tenha sequer uma cama, boa comida ou visita íntima. Conclui que, enquanto os 40 mil "Gabriéis" anuais forem esquecidos pela imprensa, sua posição continuará sendo a de defesa da punição extrema.
+
+Ver [[fontes/2026-06-06 - Lembre-se do Gabriel]].
+
 ## Porto de Pecém tomado pelo crime organizado (junho de 2026)
 
 Em **3 de junho de 2026**, ao visitar o Porto de Pecém (CE), Renan descreve o porto — construído com bilhões em recursos públicos — como tomado por facções criminosas. Segundo ele, o PCC utilizou o local para escoar drogas para a Europa e os EUA; depois GDE e Comando Vermelho passaram a disputar o controle. O Ceará é apontado por Renan como o **estado com maior número de homicídios do Brasil**, e sua posição geográfica privilegiada o torna alvo das facções justamente por oferecer rotas de exportação.

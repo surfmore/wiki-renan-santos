@@ -5,12 +5,27 @@ tags:
   - segurança-pública
   - pena-de-morte
   - prisão-perpétua
-date: 2026-06-05
+date: 2026-06-06
 fontes:
+  - "2026-06-06 - Lembre-se do Gabriel"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
 ---
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
+
+## Prisão como punição degradante: o caso Gabriel (junho de 2026)
+
+Em **6 de junho de 2026**, ao narrar a execução de Gabriel — jovem morto por assaltante que não gostou do modelo do celular — Renan detalha sua visão sobre o sistema penitenciário para criminosos violentos: **pena sem qualquer conforto ou redenção**.
+
+Ele afirma que o criminoso deve passar o resto da vida na cadeia em condições degradantes: sem cama confortável, sem boa alimentação, sem livros, sem visitas íntimas, sem progressão de pena. A frase sintetiza sua posição sobre o propósito da pena:
+
+> "Eu não quero ensinar nada para esse rapaz na cadeia. Eu não quero que ele tenha uma cama. Eu não quero que ele coma bem. Eu não quero que ele tenha visita íntima."
+
+Renan defende que a polícia deve ter "todos os meios possíveis" para matar criminosos que cometem latrocínio. Se o criminoso se entregar, que passe o resto da vida na cadeia lembrando-se de Gabriel até morrer velho e arrependido.
+
+Para Renan, não há salvação nem redenção possível para esse tipo de criminoso — apenas a mãe de Gabriel, se quiser, poderá perdoá-lo, mas "muito menos o Estado brasileiro".
+
+Ver [[fontes/2026-06-06 - Lembre-se do Gabriel]].
 
 ## Prisão perpétua como promessa de campanha (junho de 2026)
 
