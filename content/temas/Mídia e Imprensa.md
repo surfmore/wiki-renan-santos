@@ -8,6 +8,14 @@ date: 2026-04-12
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
 
+## Netflix "Brasil 70": politização do futebol e hipocrisia sobre censura (junho de 2026)
+
+Em **6 de junho de 2026**, comentando a série documental "Brasil 70" da Netflix sobre a seleção brasileira campeã de 1970, Renan critica a politização do futebol pela esquerda. Ele aponta que o terceiro episódio trata da ditadura militar e os jogadores aparecem "dando pito" em Pelé por sua ausência de posição contrária ao regime.
+
+Renan argumenta que hoje há **mais censura nas redes sociais** do que a censura oficial que existia na época da ditadura. Ironiza a hipocrisia de artistas que criticavam a censura durante o regime militar e hoje a defendem nas plataformas digitais: "Não vai ter nenhum Chico Buarque, nenhum Gilberto Gil cantando Cálice reclamando da censura. Eles vão defender a censura em redes sociais."
+
+Ver [[fontes/2026-06-06 - Já politizaram a copa!]].
+
 ## Globo distorce tweet de Renan sobre crime organizado (maio de 2026)
 
 Em **30 de maio de 2026**, Renan denuncia matéria da Globo que publicou apenas a primeira frase de um tweet seu — "Americano nenhum vai matar nossos bandidos" — suprimindo o restante: "Quem vai matar seremos nós? Honra e glória aos nossos policiais." O objetivo, segundo Renan, era enquadrá-lo junto ao Lula e à "turma que defende bandido."

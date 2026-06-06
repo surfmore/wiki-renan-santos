@@ -214,8 +214,17 @@ Compara a abertura das Olimpíadas na China — "orgulho do que está fazendo ag
 
 Ver [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]].
 
+## Gastrodiplomacia e marca Brasil: agregar valor à produção nacional (junho de 2026)
+
+Em **6 de junho de 2026**, Renan propõe a gastrodiplomacia como parte de uma estratégia nacional de **construção de marca-país**. O diagnóstico é o mesmo de outros temas de ambição nacional: o Brasil produz matéria-prima de qualidade mas não captura o valor agregado.
+
+> "No Brasil a gente exporta o grão de café e compra o café pronto. O Brasil é o maior exportador de carne, mas a gente só fala de carne japonesa e argentina."
+
+Renan propõe políticas de **denominação de origem** (inspiradas no modelo europeu), **fomento a produtos artesanais exportáveis** e **promoção de restaurantes brasileiros no exterior** — transformando a culinária brasileira (paraense, mineira, baiana) em ativo de projeção internacional e desenvolvimento econômico. Ver [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] e [[posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira]].
+
 ## Fontes
 
+- [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia; agregação de valor; denominação de origem; marca Brasil
 - [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — PIX como conquista tecnológica brasileira ameaçada por pressão americana e taxação de Lula
 - [[fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG]]
 - [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]

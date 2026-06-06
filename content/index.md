@@ -135,7 +135,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Expulsão-de-ONGs-Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Cortar financiamento estrangeiro a ONGs que bloqueiam desenvolvimento e pregam guerra entre brasileiros.</p></a>
 <a class="wiki-card" href="/posicoes/Frente-de-Trabalho-para-o-Bolsa-Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒️</span><span class="wiki-card-title">Frente de Trabalho</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Substituir o Bolsa Família por frentes de trabalho remunerado inspiradas no New Deal de Roosevelt.</p></a>
 <a class="wiki-card" href="/posicoes/Reforma-Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Cortar R$ 3,3 trilhões em gastos em 10 anos e reduzir impostos a partir do 2º ano.</p></a>
-<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 24 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, caminhoneiros, anticorrupção e mais.</p></a>
+<a class="wiki-card" href="/posicoes/Gastrodiplomacia-e-Promoção-Internacional-da-Culinária-Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Política de estado para promover a culinária brasileira no exterior como instrumento de soft power e desenvolvimento econômico.</p></a>
+<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 25 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">👤 Pessoas</p>
@@ -165,6 +166,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — Renan propõe gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira; churrasco diplomático.
+- [[fontes/2026-06-06 - Já politizaram a copa!]] — Renan critica politização do futebol pela esquerda; compara 434 mortos na ditadura com violência atual das facções; critica hipocrisia sobre censura.
 - [[fontes/2026-06-02 - Atenção, Maranhão!]] — Renan denuncia ação no STF para proibir famílias maranhenses de retirar filhos de aulas com conteúdo de gênero; promete "derrubar por decreto" e nomear ministro católico.
 - [[fontes/2026-06-01 - Você também concorda com esse vídeo]] — Renan detalha ligações de Flávio Bolsonaro com figuras do Comando Vermelho no Rio (Bacelar, TH Joias, Índio do Lixão); apela ao eleitor conservador para não apoiar Flávio.
 - [[fontes/2026-06-01 - O verdadeiro plano do Lula]] — Renan analisa o fim da escala 6x1 proposto por Lula como instrumento de dependência política; mostra mapas que correlacionam Bolsa Família com votos no PT; compara modelo ao da Venezuela.

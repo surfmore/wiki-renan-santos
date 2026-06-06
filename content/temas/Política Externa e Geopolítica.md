@@ -104,8 +104,25 @@ O alerta: a China usa a mesma estratégia na África — financia infraestrutura
 
 Posição: fará a ferrovia, mas com **investimento misto** — parte chinês, parte brasileiro, parte de iniciativa privada internacional — para não depender exclusivamente da China. *"Nossa função aqui não é agradar nem chinês nem americano, é agradar o Brasil."* Ver [[fontes/2026-05-28 - Vamos fazer o Peru grande]].
 
+## Gastrodiplomacia: a culinária brasileira como instrumento de política externa (junho de 2026)
+
+Em **6 de junho de 2026**, Renan propõe a adoção da **gastrodiplomacia** como política de estado — usando a culinária brasileira como instrumento de [[posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira|soft power]] internacional. Ele cita Japão, Itália, Tailândia e Peru como exemplos de países que transformaram sua gastronomia em ferramenta de diplomacia cultural e desenvolvimento econômico.
+
+> "Conquistar os outros pelo estômago é uma grande estratégia afetiva."
+
+Renan diagnostica que o Brasil falha em se promover internacionalmente: exporta grão de café em vez de café pronto, é maior exportador de carne mas não é associado a ela, e mal é representado por algumas churrascarias nos Estados Unidos. A proposta inclui:
+- Política de **denominação de origem** para produtos brasileiros
+- **Fomento a produtos artesanais exportáveis** (queijo, vinho, café)
+- **Agregação de valor** em toda a cadeia produtiva
+- **Restaurantes brasileiros no exterior** como embaixadas gastronômicas
+
+Como presidente, promete fazer pessoalmente um churrasco diplomático servindo cajuzinho, maniçoba e muqueca, e promover restaurantes de comida paraense, mineira e baiana em outras nações: "Vamos ganhar eles pelo estômago também."
+
+Ver [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] e [[posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira]].
+
 ## Fontes
 
+- [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira
 - [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — pressão americana sobre o PIX; Eduardo Bolsonaro defende interesses dos EUA; compromisso de não negociar o PIX
 - [[fontes/2026-05-28 - Vamos fazer o Peru grande]] — ferrovia bioceânica Ilhéus–Shankai; risco de dependência da China; proposta de investimento misto
 - [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]] — terras raras; terceira via entre Lula e Flávio Bolsonaro

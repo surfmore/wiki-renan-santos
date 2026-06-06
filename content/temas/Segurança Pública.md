@@ -8,6 +8,16 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Ditadura militar vs. violência das facções: 434 mortos em 20 anos contra 4 dias de facções (junho de 2026)
+
+Em **6 de junho de 2026**, ao comentar a série "Brasil 70" da Netflix, Renan faz uma comparação contundente para contestar a narrativa sobre a ditadura militar brasileira. Ele afirma não ser defensor do regime militar — que "teve inúmeros defeitos" — mas sustenta que o Brasil governado pelo PT hoje é "muito, mas muito mais sanguinário."
+
+Renan apresenta o número de **434 mortos em mais de 20 anos de ditadura militar**, reconhecendo que haviam pessoas inocentes e jornalistas entre eles. Contrasta esse número com a violência atual: "Em coisa de quatro dias morre mais gente na mão das facções do que todas as vítimas da ditadura militar." Ele argumenta que a maior parte dos mortos pela ditadura eram "membros de organizações terroristas que faziam uso da violência e do terror para implementar um golpe comunista no país" e afirma que "ninguém liga pros mortos em nome das facções" enquanto se exige "indenização eterna pros terroristas que foram vítimas da ditadura militar."
+
+O argumento serve para reforçar sua tese central: a prioridade deve ser o combate ao crime organizado, que mata em escala muito superior ao que a ditadura já matou.
+
+Ver [[fontes/2026-06-06 - Já politizaram a copa!]].
+
 ## Caso Gabriel: latrocínio em Capão Redondo e evolução do slogan (junho de 2026)
 
 Em **6 de junho de 2026**, Renan anuncia que está recuando no slogan "prender matô" devido aos múltiplos processos judiciais que tem enfrentado. O novo slogan passa a ser apenas "matu" — uma adaptação tática legal sem alteração na convicção.

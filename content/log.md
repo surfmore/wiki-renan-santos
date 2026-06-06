@@ -1,5 +1,16 @@
 # Log de operações
 
+## [2026-06-06] ingest | Já politizaram a copa! (ingest automático)
+- Fonte criada: fontes/2026-06-06 - Já politizaram a copa!
+- Páginas atualizadas: temas/Segurança Pública, temas/Mídia e Imprensa, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica politização do futebol pela esquerda (série Brasil 70/Netflix); compara 434 mortos em 20 anos de ditadura com 4 dias de violência de facções; critica hipocrisia de artistas que defendiam liberdade de expressão e hoje apoiam censura em redes sociais.
+
+## [2026-06-06] ingest | Você já ouviu falar em gastrodiplomacia (ingest automático)
+- Fonte criada: fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia
+- Páginas criadas: posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira
+- Páginas atualizadas: temas/Política Externa e Geopolítica, temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: Renan propõe gastrodiplomacia como política de estado (modelos Japão, Itália, Tailândia, Peru); denominação de origem; fomento a produtos artesanais exportáveis; restaurantes brasileiros no exterior; promete churrasco diplomático como presidente.
+
 ## [2026-06-02] ingest | Atenção, Maranhão! (ingest automático)
 - Fonte criada: fontes/2026-06-02 - Atenção, Maranhão!
 - Páginas atualizadas: (já existiam) temas/Pautas Identitárias e de Gênero, posicoes/Nomeação de Ministro Católico para o STF, index.md, log.md, wiki/.processed_ids
