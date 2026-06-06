@@ -161,12 +161,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/Rio-de-Janeiro-em-Guerra-—-Outubro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">⚔️</span><span class="wiki-card-title">Rio em Guerra — Out. 2025</span></div><p class="wiki-card-desc">Crise de segurança no Rio e a resposta de Renan sobre a omissão do estado.</p></a>
 <a class="wiki-card" href="/eventos/PEC-da-Blindagem-—-Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🛡️</span><span class="wiki-card-title">PEC da Blindagem</span></div><p class="wiki-card-desc">Setembro de 2025. Renan denuncia a aprovação e quais parlamentares da direita votaram a favor.</p></a>
 <a class="wiki-card" href="/eventos/Manifestação-do-Banco-Master-22-de-janeiro-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Manifestação Banco Master</span></div><p class="wiki-card-desc">22 de janeiro de 2026. Ato organizado por Renan contra o esquema de Vorcaro.</p></a>
-<a class="wiki-card" href="/eventos/COP30-—-Legado-em-Belém"><div class="wiki-card-header"><span class="wiki-card-icon">🌿</span><span class="wiki-card-title">COP30 em Belém</span></div><p class="wiki-card-desc">Posição de Renan sobre o evento e o legado para a Amazônia e o Brasil.</p></a>
-<a class="wiki-card" href="/eventos/Morte-de-Charlie-Kirk---Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Morte de Charlie Kirk</span></div><p class="wiki-card-desc">Reação de Renan ao assassinato do ativista conservador americano em setembro de 2025.</p></a>
-<a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 12 eventos →</span></div><p class="wiki-card-desc">Banco Master, prisão de Bolsonaro, PEC da Blindagem e mais.</p></a>
-</div>
+<a class="wiki-card" href="/eventos/COP30-—-Legado-em-Belém"><div class="wiki-card-header"
 
 ## Fontes (cronológico)
 
 - [[fontes/2026-06-05 - É oficial!]] — Renan anuncia que ultrapassou Lula e Flávio Bolsonaro no Google Trends; compara fenômeno ao ocorrido na Colômbia; menciona matéria da Veja sobre sua militância.
-- [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]] — Renan critica juíza feminista que livrou a mãe de Henry Borel da condenação; defende prisão perpétua para crimes hediondos
