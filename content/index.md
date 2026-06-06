@@ -110,6 +110,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
 <a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">82 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
@@ -119,7 +120,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">19 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e a "geração que fracassou" por falta de oportunidades.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Voltado à geração jovem que rejeita PT-bolsonarismo.</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 21 temas →</span></div><p class="wiki-card-desc">Carga tributária, imigração, infraestrutura, liberdade religiosa, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 22 temas →</span></div><p class="wiki-card-desc">Carga tributária, imigração, infraestrutura, liberdade religiosa, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
@@ -141,6 +142,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/pessoas/Juliano-Cazarré"><div class="wiki-card-header"><span class="wiki-card-icon">🎭</span><span class="wiki-card-title">Juliano Cazarré</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ator da Globo de direita. Alvo de censura feminista por seu curso de masculinidade tradicional.</p></a>
 <a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, cotado como chanceler.</p></a>
 <a class="wiki-card" href="/pessoas/Daniel-Vorcaro"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Daniel Vorcaro</span><span class="wiki-card-count">75 fontes</span></div><p class="wiki-card-desc">Banqueiro do Master, preso em jan. 2026. Renan o compara ao americano Jeffrey Epstein.</p></a>
 <a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">36 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes e visitas a Vorcaro preso.</p></a>
@@ -151,7 +153,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/André-Valadão"><div class="wiki-card-header"><span class="wiki-card-icon">⛪</span><span class="wiki-card-title">André Valadão</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Pastor da Lagoinha com ligações a Fabiano Zettel e suspeitas de desvio do INSS via ONG.</p></a>
 <a class="wiki-card" href="/pessoas/Jerônimo-Rodrigues"><div class="wiki-card-header"><span class="wiki-card-icon">🚨</span><span class="wiki-card-title">Jerônimo Rodrigues</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Governador da Bahia acusado de impedir a PM e ser leniente com o CV e o PCC.</p></a>
 <a class="wiki-card" href="/pessoas/Érika-Hilton"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️‍🌈</span><span class="wiki-card-title">Érika Hilton</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Usou a AGU para processar uma jornalista e votou contra o aumento de penas para crimes hediondos.</p></a>
-<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 43 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
+<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 44 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📰 Eventos</p>
@@ -166,6 +168,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — Renan critica Flávio Bolsonaro por votar o PL da Misoginia; defende Juliano Cazarré de censura feminista; apresenta dados sobre saúde masculina.
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — Renan propõe gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira; churrasco diplomático.
 - [[fontes/2026-06-06 - Já politizaram a copa!]] — Renan critica politização do futebol pela esquerda; compara 434 mortos na ditadura com violência atual das facções; critica hipocrisia sobre censura.
 - [[fontes/2026-06-02 - Atenção, Maranhão!]] — Renan denuncia ação no STF para proibir famílias maranhenses de retirar filhos de aulas com conteúdo de gênero; promete "derrubar por decreto" e nomear ministro católico.

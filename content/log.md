@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-06] ingest | Flávio Bolsonaro censurou Juliano Cazarré (ingest automático)
+- Fonte criada: fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré
+- Páginas criadas: pessoas/Juliano Cazarré, temas/Masculinidade e Saúde do Homem
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, temas/Pautas Identitárias e de Gênero, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica Flávio Bolsonaro por votar o PL da Misoginia e defende Juliano Cazarré de censura feminista; apresenta dados sobre suicídio, evasão escolar e mortalidade masculina; cita Camille Paglia.
+
 ## [2026-06-06] ingest | Já politizaram a copa! (ingest automático)
 - Fonte criada: fontes/2026-06-06 - Já politizaram a copa!
 - Páginas atualizadas: temas/Segurança Pública, temas/Mídia e Imprensa, index.md, log.md, wiki/.processed_ids

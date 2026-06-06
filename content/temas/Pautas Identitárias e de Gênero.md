@@ -7,6 +7,7 @@ tags:
   - esquerda
 date: 2026-06-05
 fontes:
+  - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
   - "2026-06-02 - Atenção, Maranhão!"
   - "2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES"
@@ -16,6 +17,18 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Juliano Cazarré, censura e o PL da Misoginia (junho de 2026)
+
+Em **6 de junho de 2026**, Renan defende o ator Juliano Cazarré, alvo de feministas ativistas que querem proibir seu curso sobre masculinidade tradicional. O episódio serve como exemplo concreto do que Renan chama de uso do PL da Misoginia para censurar vozes conservadoras.
+
+Renan apresenta dados sobre a situação masculina como justificativa para o curso de Cazarré: 12 mil suicídios masculinos por ano, evasão escolar de meninos quase o dobro da de meninas, 94% dos jovens mortos são homens. Critica Flávio Bolsonaro e o Partido Novo por terem votado a favor do PL, classificando-os como "políticos fracos."
+
+Feministas são descritas como "inimigas do Brasil" que tratam homens como "um problema" e querem "castrá-los." Renan cita Camille Paglia como uma feminista que admite que o objetivo do movimento é "destruir o potencial criador e construtivo do homem."
+
+> "Feministas querem usar a lei da misoginia para censurar gente como Juliano Cazarré e qualquer um que tenta dizer para um menino que ele tem a dignidade de um ser humano."
+
+Ver [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]].
 
 ## Feminismo no judiciário: juíza livra mãe assassina no caso Henry Borel (junho de 2026)
 
@@ -258,6 +271,7 @@ Ver [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] e [[font
 
 ## Fontes
 
+- [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]]
 - [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]]
 - [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]]
 - [[fontes/2026-02-13 - O CASO QUE O MOVIMENTO NEGRO NÃO QUER FALAR SOBRE]]

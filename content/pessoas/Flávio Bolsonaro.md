@@ -11,6 +11,14 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Censura a Juliano Cazarré — voto no PL da Misoginia (junho de 2026)
+
+Em **6 de junho de 2026**, Renan critica Flávio Bolsonaro por ter votado a favor do PL da Misoginia, que classifica como instrumento de censura contra conservadores. O caso concreto: o ator Juliano Cazarré, que promove um curso sobre masculinidade tradicional, está sendo alvo de feministas que querem proibi-lo de falar — e Flávio, segundo Renan, "votou junto com a esquerda" para viabilizar essa censura.
+
+Renan contrasta: enquanto Flávio e o Partido Novo cedem à pauta feminista para capturar votos femininos, o crime organizado — que efetivamente mata mulheres — permanece intocado. Oferece solidariedade a Cazarré e repúdio a "políticos fracos como Flávio Bolsonaro."
+
+Ver [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]].
+
 ## "Flávio é Janja": argumento sobre tarifas americanas (junho de 2026)
 
 Em **2 de junho de 2026**, Renan compara Flávio Bolsonaro a Janja após o senador declarar, em entrevista sobre as tarifas impostas pelos EUA ao Brasil, que "quem está sendo retalhado não são as empresas brasileiras — quem está sendo retalhado é o próprio Lula." Renan identifica esse raciocínio como idêntico ao argumento petista de que a taxação das "blusinhas" importadas afetaria apenas empresas, não o consumidor.

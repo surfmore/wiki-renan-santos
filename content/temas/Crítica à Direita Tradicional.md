@@ -9,6 +9,12 @@ date: 2026-06-02
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
+## Flávio vota com a esquerda no PL da Misoginia e censura Cazarré (junho de 2026)
+
+Em **6 de junho de 2026**, Renan critica Flávio Bolsonaro e o Partido Novo por votarem a favor do PL da Misoginia. O caso concreto: o ator Juliano Cazarré está sendo censurado por feministas que querem proibir seu curso de masculinidade — e a direita parlamentar, em vez de defendê-lo, votou alinhada à esquerda. Renan classifica o episódio como mais uma demonstração de que "a direita tradicional não tem convicções" e cede ao oportunismo eleitoral.
+
+Ver [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]].
+
 ## Flávio "é Janja": argumento sobre tarifas americanas presenteia o Lula (junho de 2026)
 
 Em **2 de junho de 2026**, Renan compara Flávio Bolsonaro a Janja após o senador afirmar que as tarifas americanas ao Brasil estariam atingindo Lula, e não as empresas exportadoras brasileiras. Renan identifica o raciocínio como idêntico ao usado pelo PT durante a polêmica taxação das "blusinhas" importadas — argumento que o mercado desmentiu. O efeito prático foi o oposto do pretendido: Flávio entregou ao presidente um discurso de defensor da soberania nacional, permitindo que Lula se apresentasse como quem protege o povo dos americanos.
