@@ -80,6 +80,7 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 | Proibição de ministros do STF de interferir em investigações da Receita e COAF | Autonomia para os órgãos investigativos | [[fontes/2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS]] | 2026-02-26 |
 | Punição para juízes que transformam sentença em ato ideológico | Caso do juiz que condenou mãe praticante de homeschooling enquanto soltava tentativa de homicídio | [[fontes/2026-05-20 - Condenados por homeschooling]] | 2026-05-20 |
 | Extinção ou esvaziamento do Senado Federal | Representação distorcida (SP = Acre = 3 senadores); reduto de oligarquias; proposta de extinção ou reforma estrutural | [[fontes/2026-01-01 - Estou processando o Senado]] | 2026-01-01 |
+| Nomeação de ministro católico para o STF | Promessa de indicar magistrado "terrivelmente católico" para contrabalançar ativismo judicial progressista; "derrubar por decreto" decisões que violem liberdade religiosa | [[fontes/2026-06-02 - Atenção, Maranhão!]] | 2026-06-02 |
 
 ---
 
@@ -117,6 +118,7 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 | Prontuário único + inteligência artificial no SUS | Prever doenças, reduzir espera, cortar gastos | [[fontes/2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL]] | 2026-03-09 |
 | Censo "de guerra" de moradores de rua | Cadastrar todos com agentes de saúde; dimensionar o problema para dimensionar a solução | [[fontes/2026-04-01 - Eu odeio mendigo]] | 2026-04-01 |
 | Fim da luta antimanicomial | Brasil tem metade dos enfermos que deveriam estar em leitos psiquiátricos; referência: Japão com 33x mais leitos | [[fontes/2026-04-01 - Eu odeio mendigo]] | 2026-04-01 |
+| Dedução do IR para gastos com academia, personal, pilates, suplementos e artes marciais | Argumento preventivo ligado ao SUS: gasto em saúde preventiva reduz custo futuro do sistema | [[fontes/2026-06-02 - O Cariani vai me cancelar]] | 2026-06-02 |
 
 ---
 
@@ -150,6 +152,8 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 
 | Proposta | Detalhe | Fonte | Data |
 |---|---|---|---|
+| Gastrodiplomacia como política de estado | Denominação de origem para produtos brasileiros; fomento a queijo, vinho, café artesanais; restaurantes brasileiros no exterior como embaixadas gastronômicas; churrasco diplomático presidencial | [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] | 2026-06-06 |
+| Proteção ao PIX como soberania tecnológica | Compromisso público de não taxar o PIX nem negociá-lo com os EUA; tecnologia brasileira não pode ser moeda de troca | [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] | 2026-06-04 |
 | Expulsão de ONGs financiadas por governos estrangeiros | Bloquear dinheiro de UE, Noruega, Alemanha (Fundo Amazônia), Ford, Rockefeller, Open Society, Leonardo DiCaprio, Amazon Watch; tratar como questão de segurança nacional | [[fontes/2025-10-29 - Minha proposta para os governadores]] | 2025-10-29 |
 | Deportação imediata de representantes de ONGs proibidas | Aplica-se especialmente a entidades que financiam "direito penal mínimo" e sabotam operações policiais | [[fontes/2025-10-29 - Minha proposta para os governadores]] | 2025-10-29 |
 | Tipificar como terrorismo e sabotagem o bloqueio à produção de fertilizantes | Fosfato e potássio como questão de segurança alimentar/nacional | [[fontes/2026-04-05 - O agro brasileiro pode quebrar]] | 2026-04-05 |
@@ -217,6 +221,9 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 - [[posicoes/Emendas Parlamentares Condicionadas a Metas]]
 - [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]
 - [[posicoes/Expulsão de ONGs Estrangeiras]]
+- [[posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira]]
+- [[posicoes/Nomeação de Ministro Católico para o STF]]
+- [[posicoes/Proteção ao PIX]]
 - [[posicoes/Frente de Trabalho para o Bolsa Família]]
 - [[posicoes/Fusão de Municípios]]
 - [[posicoes/Intervenção Federal em Estados com Baixo IDH]]

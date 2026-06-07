@@ -155,7 +155,7 @@ A tese articula-se com [[temas/Crítica à Direita Tradicional]]: Renan acusa Fl
 
 ## Nordeste como hub de energia e data centers
 
-Em **4 de março de 2026**, Renan apresenta o Nordeste como potência energética em ascensão: concentra 92% da geração eólica do Brasil, com solar crescendo 28% ao ano. Um estudo aponta a região como a de **maior potencial de energia renovável do mundo**. A OpenAI investiu US$ 25 bilhões em um superdatacentro na Argentina — Renan não quer o Brasil ficar atrás.
+Em **4 de março de 2026**, Renan apresenta o Nordeste como potência energética em ascensão: concentra 92% da geração eólica do Brasil, com solar crescendo 28% ao ano. Um estudo aponta a região como a de **maior potencial de energia renovável do mundo**. Ver [[temas/Energia e Matriz Elétrica]]. A OpenAI investiu US$ 25 bilhões em um superdatacentro na Argentina — Renan não quer o Brasil ficar atrás.
 
 Suas três medidas para o Nordeste:
 1. **Marco nacional do data center** — atrair Google, Oracle, OpenAI para o Brasil.

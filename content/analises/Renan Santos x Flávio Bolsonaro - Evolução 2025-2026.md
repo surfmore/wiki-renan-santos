@@ -5,8 +5,13 @@ tags:
   - timeline
   - flávio-bolsonaro
   - eleições-2026
-date: 2026-05-25
+date: 2026-06-07
 fontes:
+  - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
+  - "2026-06-05 - É oficial!"
+  - "2026-06-02 - Flavio é Janja"
+  - "2026-06-01 - Você também concorda com esse vídeo"
+  - "2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!"
   - "2026-05-21 - Flávio Bolsonaro precisa de ajuda!"
   - "2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio"
   - "2026-05-17 - Quem é Flavio Bolsonaro"
@@ -101,9 +106,23 @@ Com as pesquisas mostrando Renan em terceiro lugar e crescendo, e o escândalo d
 
 **Caracterização do período:** Os ataques chegam ao ápice em densidade e intensidade. Renan usa cada novo episódio do escândalo do Banco Master como novo argumento de que Flávio não tem condições morais de enfrentar o PT. A linguagem é a mais dura do período.
 
+### Junho de 2026 — Consolidação da crise e virada nas pesquisas
+
+O mês de junho tráz uma aceleração dramática: o confronto se expande para além do Banco Master, e Renan ultrapassa Flávio nas pesquisas e no Google Trends.
+
+**01/06/2026** — Renan detalha ligações de Flávio com figuras do Comando Vermelho no Rio (Bacelar, TH Joias, Índio do Lixão), apelando ao eleitor conservador para não apoiar Flávio. Cita-se como alternativa viável: "direita, séria e sem rabo preso." No mesmo dia, anuncia que **dobrou na pesquisa Real Time Big Data (3% → 6%)** — ultrapassando numericamente Flávio em intenção de votos. Ver [[fontes/2026-06-01 - Você também concorda com esse vídeo]] e [[fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!]].
+
+**02/06/2026** — Renan critica Flávio por sua posição sobre tarifas americanas: Flávio declarou-se contra a retaliação brasileira, argumentando que "quem está sendo retalhado é o Lula." Renan diagnostica como erro estratégico grave que entrega a Lula o discurso de defensor da soberania nacional. Conclui que Flávio "não pode ser presidente porque não consegue defender o Brasil nem contra Trump." Ver [[fontes/2026-06-02 - Flavio é Janja]].
+
+**05/06/2026** — Renan anuncia ter **ultrapassado Lula e Flávio Bolsonaro no Google Trends** nas últimas 24 horas — o pico de busca mais alto entre todos os pré-candidatos. Ver [[fontes/2026-06-05 - É oficial!]].
+
+**06/06/2026** — O confronto atinge nova fronteira: Flávio Bolsonaro **vota a favor do PL da Misoginia** na Câmara. Renan critica duramente, apontando que Flávio apoiou projeto que censura homens por "discurso de ódio" contra mulheres. Renan defende o ator **Juliano Cazarré**, que foi alvo de censura feminista por seu curso de masculinidade tradicional, e contrapõe dados de saúde masculina ao argumento feminista. Ver [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]].
+
+**Caracterização do período:** Flávio não é mais apenas o adversário moral e eleitoral — ele é agora também o candidato em declínio numérico. A virada nas pesquisas e no Google Trends permite a Renan argumentar que sua tese ("Flávio bate e volta") estava correta. O PL da Misoginia adiciona uma nova dimensão ao conflito: Flávio agora também abandona pautas conservadoras para se alinhar ao establishment progressista, confirmando a acusação de Renan de que Flávio "não tem projeto de país." O tom é de confirmação das previsões antigas, menos de confronto direto — Renan fala como quem viu o futuro chegar.
+
 ## Síntese
 
-A trajetória das declarações de Renan Santos sobre Flávio Bolsonaro entre setembro de 2025 e maio de 2026 tem arco claro: começa como crítica estrutural à direita bolsonarista (adversário representativo de um sistema), passa por confronto eleitoral direto (adversário que tira votos da direita séria), alcança o acirramento moral em torno do Banco Master (cúmplice do STF que protegeu Toffoli em troca de imunidade) e termina com apelo à desistência combinado com acusação de crime eleitoral (caixa dois via Vorcaro).
+A trajetória das declarações de Renan Santos sobre Flávio Bolsonaro entre setembro de 2025 e junho de 2026 tem arco claro: começa como crítica estrutural à direita bolsonarista (adversário representativo de um sistema), passa por confronto eleitoral direto (adversário que tira votos da direita séria), alcança o acirramento moral em torno do Banco Master (cúmplice do STF que protegeu Toffoli em troca de imunidade) e termina com apelo à desistência combinado com acusação de crime eleitoral (caixa dois via Vorcaro).
 
 Dois elementos se mantêm constantes ao longo de todo o período: (1) a tese de que Flávio perde para Lula no segundo turno, sendo portanto um candidato que só serve aos interesses do PT; (2) a acusação de que a família Bolsonaro traiu o movimento anticorrupção que derrubou Dilma em troca de proteção pessoal via STF. Sobre esses dois pilares, Renan acrescenta novos argumentos à medida que o escândalo do Banco Master avança.
 
@@ -116,6 +135,11 @@ Dois elementos se mantêm constantes ao longo de todo o período: (1) a tese de 
 
 ## Fontes consultadas (cronológico decrescente)
 
+- [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — PL da Misoginia; censura a Cazarré; dados de saúde masculina
+- [[fontes/2026-06-05 - É oficial!]] — Renan ultrapassa Flávio no Google Trends
+- [[fontes/2026-06-02 - Flavio é Janja]] — erro de Flávio nas tarifas americanas; terras raras como alavanca
+- [[fontes/2026-06-01 - Você também concorda com esse vídeo]] — ligações de Flávio com CV; apelo ao eleitor conservador
+- [[fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!]] — Renan 6%; ultrapassa Flávio nas pesquisas
 - [[fontes/2026-05-21 - Flávio Bolsonaro precisa de ajuda!]] — visita de Flávio a Vorcaro preso; "Flávio é bandido. Ponto."
 - [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]] — Valdemar da Costa Neto; quem comanda Flávio
 - [[fontes/2026-05-17 - Quem é Flavio Bolsonaro]] — rachadinha detalhada; Adriano da Nóbrega; apelo à desistência

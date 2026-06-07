@@ -3,6 +3,14 @@
 ## [2026-06-07] ingest | O Chelsea está apoiando o Lula (ingest automático)
 - Fonte criada: fontes/2026-06-07 - O Chelsea está apoiando o Lula
 - Páginas atualizadas: posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+
+## [2026-06-07] lint | Lint completo do wiki
+- **Fontes duplicadas excluídas (9)**: Rua desvafelizada (typo), Escola simula motel (2ª versão), Kim/Lula MP 1303 (2ª versão), Nikolas/CV (2ª versão), Pneu furado (2ª versão), Centro Monitoramento PA (2ª versão), Pinto do Equador (2ª versão), Feedback Loop (2ª versão), Coroadinho (3ª versão)
+- **Draft eliminado**: posicoes/Desfavelização do Rio de Janeiro (arquivo com draft:true, conteúdo >90% duplicado de Desfavelização do Brasil)
+- **Análises atualizadas (3)**: Timeline Banco Master (+Valdemar entrega Flávio, Vila Rabelo/BRB), Propostas de Governo (+Gastrodiplomacia, Proteção ao PIX, Nomeação Ministro Católico, Dedução IR saúde), Evolução Renan×Flávio (+junho 2026: PL Misoginia, pesquisas, Google Trends)
+- **Páginas criadas (4)**: pessoas/Joesley Batista, pessoas/Carlos Brandão, temas/Energia e Matriz Elétrica, eventos/Leilão de Termoelétricas de 2026
+- **Cross-references corrigidas**: Gastrodiplomacia→Política Externa, Ambição Nacional→Energia e Matriz Elétrica; links para Kim Kataguiri, Nikolas Ferreira, Infraestrutura MA redirecionados para fontes canônicas
+- **index.md**: stats corrigidos (fontes 610→606, temas 21→23, posições 24→26, pessoas 43→46, eventos 12→13); novos cards adicionados; contagens de "ver todos" atualizadas
 - Nota: Renan critica Chelsea FC e Lula por investimento superficial em quadra na favela; propõe desfavelização com bolsas de estudo como alternativa à "caricatura pra gringo ver".
 
 ## [2026-06-06] ingest | Flávio Bolsonaro censurou Juliano Cazarré (ingest automático)

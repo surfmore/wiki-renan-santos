@@ -4,7 +4,7 @@ tags:
   - analise
   - timeline
   - evento
-date: 2026-05-25
+date: 2026-06-07
 ---
 
 O **Banco Master**, controlado por **Daniel Vorcaro**, está no centro do que Renan Santos classifica como "o maior escândalo de corrupção da história do Brasil" — superior à Lava-Jato por envolver simultaneamente membros do STF, representantes de todos os principais partidos e figuras do mercado financeiro. Renan acompanhou o caso de novembro de 2025 até maio de 2026, produzindo mais de 120 vídeos sobre o tema. A tese central que ele desenvolveu ao longo do tempo: o banco não foi apenas um esquema financeiro, mas um instrumento de captura transpartidária do poder — que explica por que nenhum dos grandes players políticos quer investigar o caso a fundo.
@@ -265,6 +265,18 @@ Ver [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Maste
 
 ---
 
+### 25 de maio de 2026 — Valdemar Costa Neto entrega Flávio
+
+O presidente do PL, **Valdemar Costa Neto**, concede entrevista revelando que Flávio Bolsonaro estava "desesperado" com as investigações, que sabia do envolvimento de Flávio com Vorcaro e que o PL não bancaria a defesa jurídica do senador. Renan interpreta como traição consumada de Valdemar a Flávio: o dono do partido abandonou o candidato para salvar a própria pele. Ver [[fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!]] e [[pessoas/Valdemar Costa Neto]].
+
+---
+
+### 25 de maio de 2026 — Vila Rabelo: o BRB como elo do esquema
+
+Renan revela que o **Banco Regional de Brasília (BRB)** — estatal do governo do Distrito Federal — atuou como intermediário crucial do esquema: comprou carteiras podres de crédito do Banco Master por **R$ 16 bilhões**, sendo a maior delas a da **Vila Rabelo** (condomínio de luxo em Brasília). Ibaneis Rocha (governador do DF) nomeou o presidente do BRB, que tentou comprar o próprio Banco Master com o dinheiro do banco público. A CPMI do Banco Master no DF foi abafada. Ver [[fontes/2026-05-25 - O que Daniel Vorcaro tem a ver com a Vila Rabelo]].
+
+---
+
 ## Conexões políticas documentadas
 
 Os valores abaixo foram afirmados por Renan Santos em seus vídeos. **Este wiki não verificou as informações de forma independente.** Ver as fontes correspondentes para contexto.
@@ -290,14 +302,16 @@ Os valores abaixo foram afirmados por Renan Santos em seus vídeos. **Este wiki 
 
 ## Síntese
 
-Os vídeos de Renan Santos sobre o Banco Master, vistos em conjunto, formam a narrativa de um escândalo que ele interpreta como estrutural — e não episódico. A tese central, reiterada do primeiro ao último vídeo: o banco não foi apenas um fraude financeira, mas um mecanismo de captura política que distribuiu dinheiro de forma suficientemente ampla para garantir proteção em todos os quadrantes do sistema. PT e bolsonarismo ficaram igualmente paralisados; STF ficou comprometido antes de poder julgar; mercado financeiro ficou exposto o suficiente para não querer investigar.
+Os vídeos de Renan Santos sobre o Banco Master, vistos em conjunto, formam a narrativa de um escândalo que ele interpreta como estrutural — e não episódico. A tese central, reiterada do primeiro ao último vídeo: o banco não foi apenas uma fraude financeira, mas um mecanismo de captura política que distribuiu dinheiro de forma suficientemente ampla para garantir proteção em todos os quadrantes do sistema. PT e bolsonarismo ficaram igualmente paralisados; STF ficou comprometido antes de poder julgar; mercado financeiro ficou exposto o suficiente para não querer investigar.
 
-O elemento que distingue a cobertura de Renan é a insistência no aspecto bipartidário — documentada em pelo menos cinco vídeos separados nos quais ele explicitamente confronta aliados potenciais da direita que se calam. O caso Flávio Bolsonaro (áudio de maio de 2026) é a confirmação mais dramática dessa tese: o senador que mais se beneficiaria eleitoralmente de denunciar o caso estava, na verdade, do outro lado do balcão.
+O elemento que distingue a cobertura de Renan é a insistência no aspecto bipartidário — documentada dezenas de vezes ao longo da cronologia. O caso Flávio Bolsonaro (áudio de maio de 2026, visita à prisão, Valdemar entregando o próprio candidato) é a confirmação mais dramática dessa tese: o senador que mais se beneficiaria eleitoralmente de denunciar o caso estava, na verdade, do outro lado do balcão. A partir de 25 de maio, a delação de Vorcaro e a quebra de sigilo começam a produzir efeitos concretos — Valdemar Costa Neto abandona Flávio publicamente, e o elo BRB/Vila Rabelo expõe a captura de bancos estatais pelo esquema.
 
 ## Fontes consultadas
 
 As fontes abaixo foram consultadas para a produção desta análise, do mais recente para o mais antigo.
 
+- [[fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!]] — Valdemar entrega Flávio; desespero no PL
+- [[fontes/2026-05-25 - O que Daniel Vorcaro tem a ver com a Vila Rabelo]] — BRB como intermediário; R$ 16B em carteiras podres
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]]
 - [[fontes/2026-05-21 - Flávio Bolsonaro precisa de ajuda!]]
 - [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]]

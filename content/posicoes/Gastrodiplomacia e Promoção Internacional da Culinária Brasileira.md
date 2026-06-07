@@ -33,6 +33,10 @@ A proposta inclui cinco medidas concretas:
 
 Renan argumenta que o Brasil falha em se promover gastronomicamente: exporta grão de café e compra café pronto, é o maior exportador de carne mas o mundo só fala de carne japonesa e argentina, e mal é representado por algumas churrascarias nos EUA. Para ele, o problema não é o desconhecimento mundial, mas a falta de promoção pelo próprio Brasil.
 
+## Ver também
+
+- [[temas/Política Externa e Geopolítica]] — contexto geopolítico da proposta
+
 ## Fontes
 
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — proposta completa de gastrodiplomacia e denominação de origem

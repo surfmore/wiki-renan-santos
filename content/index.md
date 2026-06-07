@@ -1,6 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
+date: 2026-06-07
 ---
 
 <style>
@@ -97,11 +98,11 @@ description: "Wiki público com tudo que Renan Santos já falou em seus vídeos 
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">610</span><span class="label">Fontes</span></a>
-<a class="wiki-stat" href="/temas"><span class="num">21</span><span class="label">Temas</span></a>
-<a class="wiki-stat" href="/posicoes"><span class="num">24</span><span class="label">Posições</span></a>
-<a class="wiki-stat" href="/pessoas"><span class="num">43</span><span class="label">Pessoas</span></a>
-<a class="wiki-stat" href="/eventos"><span class="num">12</span><span class="label">Eventos</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">606</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
+<a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
+<a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
+<a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
 
 <div class="wiki-disclaimer">
@@ -120,7 +121,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">19 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e a "geração que fracassou" por falta de oportunidades.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Voltado à geração jovem que rejeita PT-bolsonarismo.</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 22 temas →</span></div><p class="wiki-card-desc">Carga tributária, imigração, infraestrutura, liberdade religiosa, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; Nordeste como polo de energia renovável; lixo em energia.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 temas →</span></div><p class="wiki-card-desc">Carga tributária, imigração, infraestrutura, liberdade religiosa, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
@@ -137,7 +139,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Frente-de-Trabalho-para-o-Bolsa-Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒️</span><span class="wiki-card-title">Frente de Trabalho</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Substituir o Bolsa Família por frentes de trabalho remunerado inspiradas no New Deal de Roosevelt.</p></a>
 <a class="wiki-card" href="/posicoes/Reforma-Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Cortar R$ 3,3 trilhões em gastos em 10 anos e reduzir impostos a partir do 2º ano.</p></a>
 <a class="wiki-card" href="/posicoes/Gastrodiplomacia-e-Promoção-Internacional-da-Culinária-Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Política de estado para promover a culinária brasileira no exterior como instrumento de soft power e desenvolvimento econômico.</p></a>
-<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 25 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, caminhoneiros, anticorrupção e mais.</p></a>
+<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 26 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">👤 Pessoas</p>
@@ -153,7 +155,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/André-Valadão"><div class="wiki-card-header"><span class="wiki-card-icon">⛪</span><span class="wiki-card-title">André Valadão</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Pastor da Lagoinha com ligações a Fabiano Zettel e suspeitas de desvio do INSS via ONG.</p></a>
 <a class="wiki-card" href="/pessoas/Jerônimo-Rodrigues"><div class="wiki-card-header"><span class="wiki-card-icon">🚨</span><span class="wiki-card-title">Jerônimo Rodrigues</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Governador da Bahia acusado de impedir a PM e ser leniente com o CV e o PCC.</p></a>
 <a class="wiki-card" href="/pessoas/Érika-Hilton"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️‍🌈</span><span class="wiki-card-title">Érika Hilton</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Usou a AGU para processar uma jornalista e votou contra o aumento de penas para crimes hediondos.</p></a>
-<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 44 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
+<a class="wiki-card" href="/pessoas/Joesley-Batista"><div class="wiki-card-header"><span class="wiki-card-icon">🥩</span><span class="wiki-card-title">Joesley Batista</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Empresário da JBS. Maior beneficiado de leilão de termoelétricas de R$ 1 tri; R$ 40M a Ciro Nogueira.</p></a>
+<a class="wiki-card" href="/pessoas/Carlos-Brandão"><div class="wiki-card-header"><span class="wiki-card-icon">🏗️</span><span class="wiki-card-title">Carlos Brandão</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Governador do MA. Omissão em estradas, ponte de Estreito desabada e competição com Braide após denúncias.</p></a>
+<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 46 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📰 Eventos</p>
@@ -164,6 +168,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/Rio-de-Janeiro-em-Guerra-—-Outubro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">⚔️</span><span class="wiki-card-title">Rio em Guerra — Out. 2025</span></div><p class="wiki-card-desc">Crise de segurança no Rio e a resposta de Renan sobre a omissão do estado.</p></a>
 <a class="wiki-card" href="/eventos/PEC-da-Blindagem-—-Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🛡️</span><span class="wiki-card-title">PEC da Blindagem</span></div><p class="wiki-card-desc">Setembro de 2025. Renan denuncia a aprovação e quais parlamentares da direita votaram a favor.</p></a>
 <a class="wiki-card" href="/eventos/Manifestação-do-Banco-Master-22-de-janeiro-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Manifestação Banco Master</span></div><p class="wiki-card-desc">22 de janeiro de 2026. Ato organizado por Renan contra o esquema de Vorcaro.</p></a>
+<a class="wiki-card" href="/eventos/Leilão-de-Termoelétricas-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">🔥</span><span class="wiki-card-title">Leilão de Termoelétricas</span></div><p class="wiki-card-desc">Junho de 2026. Leilão manipulado de R$ 1 tri para beneficiar Joesley Batista; aumento de 10% na conta de luz.</p></a>
 <a class="wiki-card" href="/eventos/COP30-—-Legado-em-Belém"><div class="wiki-card-header"
 
 ## Fontes (cronológico)
