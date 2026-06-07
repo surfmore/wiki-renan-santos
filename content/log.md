@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-07] ingest | Já ouviu falar em Gilmarpalooza (ingest automático)
+- Fonte criada: fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza
+- Páginas atualizadas: temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia diárias de R$ 30.000 do TJ-PI para juízes em Lisboa no "Gilmarpalooza" (Fórum Jurídico de Lisboa)
+
 ## [2026-06-07] ingest | O Chelsea está apoiando o Lula (ingest automático)
 - Fonte criada: fontes/2026-06-07 - O Chelsea está apoiando o Lula
 - Páginas atualizadas: posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids

@@ -174,6 +174,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes em Lisboa no "Gilmarpalooza"; critica gastos do judiciário com viagens de luxo.
 - [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — Renan critica Chelsea/Lula por investimento superficial em quadra na favela; propõe desfavelização com bolsas de estudo como alternativa real.
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — Renan critica Flávio Bolsonaro por votar o PL da Misoginia; defende Juliano Cazarré de censura feminista; apresenta dados sobre saúde masculina.
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — Renan propõe gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira; churrasco diplomático.

@@ -6,12 +6,31 @@ tags:
   - privilégios
 date: 2026-06-05
 fontes:
+  - "2026-06-07 - Já ouviu falar em Gilmarpalooza"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
   - "2026-03-02 - MINAS GERAIS, VAMOS FALAR DO TRIBUNAL DE JUSTIÇA"
   - "2026-03-01 - JUÍZA NÃO ESTÁ RECEBENDO LANCHE"
 ---
 
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
+
+## "Gilmarpalooza": diárias de R$ 30.000 para juízes em Lisboa (junho de 2026)
+
+Em **7 de junho de 2026**, Renan denuncia o **Fórum Jurídico de Lisboa**, que apelida de "Gilmarpalooza", como um esquema de gastos públicos com viagens de luxo para magistrados e autoridades brasileiras.
+
+Dados apresentados:
+- **TJ do Piauí** — um dos estados mais pobres do Brasil — pagou diárias de **R$ 30.000** para desembargadores participarem do evento em Lisboa.
+- **Governo do Tocantins**: 8 convidados pagos.
+- **Advocacia Geral da União (AGU)**: 22 pessoas.
+- **Tribunal de Contas da União (TCU)**: 13 pessoas.
+
+A abertura do evento contou com **Gilmar Mendes** (STF), o presidente da Câmara **Hugo Mota**, e discurso de **Alexandre de Moraes**.
+
+Renan ironiza que, com R$ 30.000 de diária, é possível alugar uma Ferrari, jantar nos restaurantes mais caros — além dos jantares já pagos pelo evento — e comprar roupas de luxo. Caracteriza o encontro como o momento em que a "elite jurídica que manda num país muito pobre" busca refúgio em Lisboa para viver um padrão de vida que a realidade brasileira não permite.
+
+> "Lisboa só é Lisboa porque não tem gente do judiciário e da política fazendo o que fazem no Brasil."
+
+Ver [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]].
 
 ## Juíza feminista no caso Henry Borel: ativismo judicial e impunidade (junho de 2026)
 
@@ -103,6 +122,7 @@ Em **12 de setembro de 2025**, Renan exibe imagens de uma juíza conversando de 
 
 ## Fontes
 
+- [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes em Lisboa no "Gilmarpalooza"
 - [[fontes/2025-09-10 - Prepare-se para ficar revoltado]]
 - [[fontes/2025-09-12 - Até quando você vai aguentar esse esculacho]]
 - [[fontes/2025-12-13 - TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO....]]
