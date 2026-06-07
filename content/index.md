@@ -169,7 +169,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/PEC-da-Blindagem-—-Setembro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">🛡️</span><span class="wiki-card-title">PEC da Blindagem</span></div><p class="wiki-card-desc">Setembro de 2025. Renan denuncia a aprovação e quais parlamentares da direita votaram a favor.</p></a>
 <a class="wiki-card" href="/eventos/Manifestação-do-Banco-Master-22-de-janeiro-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Manifestação Banco Master</span></div><p class="wiki-card-desc">22 de janeiro de 2026. Ato organizado por Renan contra o esquema de Vorcaro.</p></a>
 <a class="wiki-card" href="/eventos/Leilão-de-Termoelétricas-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">🔥</span><span class="wiki-card-title">Leilão de Termoelétricas</span></div><p class="wiki-card-desc">Junho de 2026. Leilão manipulado de R$ 1 tri para beneficiar Joesley Batista; aumento de 10% na conta de luz.</p></a>
-<a class="wiki-card" href="/eventos/COP30-—-Legado-em-Belém"><div class="wiki-card-header"
+<a class="wiki-card" href="/eventos/COP30-—-Legado-em-Belém"><div class="wiki-card-header"><span class="wiki-card-icon">🌿</span><span class="wiki-card-title">COP30 — Legado em Belém</span></div><p class="wiki-card-desc">Novembro de 2025. Críticas de Renan ao uso político da COP30 e ao legado deixado para a população local.</p></a>
+</div>
 
 ## Fontes (cronológico)
 
