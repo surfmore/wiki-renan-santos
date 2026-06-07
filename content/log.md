@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-07] ingest | O Chelsea está apoiando o Lula (ingest automático)
+- Fonte criada: fontes/2026-06-07 - O Chelsea está apoiando o Lula
+- Páginas atualizadas: posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica Chelsea FC e Lula por investimento superficial em quadra na favela; propõe desfavelização com bolsas de estudo como alternativa à "caricatura pra gringo ver".
+
 ## [2026-06-06] ingest | Flávio Bolsonaro censurou Juliano Cazarré (ingest automático)
 - Fonte criada: fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré
 - Páginas criadas: pessoas/Juliano Cazarré, temas/Masculinidade e Saúde do Homem

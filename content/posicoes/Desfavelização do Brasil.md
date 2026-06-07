@@ -14,6 +14,18 @@ fontes:
 
 Renan Santos apresenta um plano de seis medidas para eliminar as favelas do Rio de Janeiro, desenvolvido ao lado do **coronel Busnelo** (BOPE), pré-candidato ao governo do estado. O plano articula segurança pública, urbanismo e economia formal.
 
+## "Migalha" internacional: Chelsea, Lula e a caricatura do Brasil (junho de 2026)
+
+Em **7 de junho de 2026**, Renan critica o Chelsea FC (Premier League) por pintar uma quadra esportiva em uma favela brasileira — iniciativa celebrada pelo presidente Lula. Renan classifica o gesto como **"migalha"**: um investimento superficial que reforça a imagem caricatural que o estrangeiro tem do Brasil.
+
+> "O gringo, especialmente o gringo que gosta de futebol, enxerga o Brasil como uma gigantesca favela. Essa favela é cercada para uma floresta amazônica gigantesca e nessa favela saem muitos jogadores de futebol e moças com bundas grandes."
+
+Renan argumenta que investir apenas na quadra — cercada por habitações precárias sem saneamento — é investir na **caricatura**, não no desenvolvimento real. Ele contrapõe que seu governo ofereceria, além de urbanização, **bolsas de estudo** em escolas especiais para atletas e **bolsas para os melhores alunos** nas melhores escolas da cidade, formando engenheiros e empresários, não apenas jogadores.
+
+O episódio é usado para reforçar a tese da **"mentalidade favelada"** — a aceitação, pelo brasileiro, de uma imagem degradada de si mesmo. "Quando você aceita a caricatura que os outros fazem de você, você já morreu por dentro. E eu não aceito isso pro meu país."
+
+Ver [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]].
+
 ## Desfavelização vs. "indústria da favela": invasão como negócio (maio de 2026)
 
 Em **12 de maio de 2026**, Renan visita a área do Terminal de Cargas de Guarulhos para mostrar o ciclo que chama de "indústria da favela": terreno invadido → barraco → casa de alvenaria → governo entrega apartamentos → moradores vendem ou alugam e participam de nova invasão.
@@ -140,6 +152,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — crítica à "migalha" internacional; caricatura do Brasil como favela; bolsas de estudo como alternativa
 - [[fontes/2026-05-12 - Tutorial sobre como ganhar um apartamento em São Paulo]]
 - [[fontes/2025-09-30 - Rua desfavelizada vira favela de novo]] — Diadema refavelizada em 2025; condicionalidade; educação
 - [[fontes/2025-10-03 - Não é só em favela que tem gente com mau gosto]] — "mentalidade favelada"; "gororoba cultural"; dimensão cultural
