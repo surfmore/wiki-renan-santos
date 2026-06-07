@@ -115,4 +115,4 @@ Renan aponta que Nikolas também **recusou ser relator** do projeto de lei que t
 
 > "Você não apenas tem medo porque você é uma franga. Você tem seguidores em comum com essa gentalha, você quer ganhar seguidor junto."
 
-Ver [[fontes/2025-10-23 - NIKOLAS FERREIRA FAZ ELOGIOS AO MC DO COMANDO VERMELHO...]].
+Ver [[fontes/2025-10-23 - Nikolas Ferreira elogia MC do Comando Vermelho]].

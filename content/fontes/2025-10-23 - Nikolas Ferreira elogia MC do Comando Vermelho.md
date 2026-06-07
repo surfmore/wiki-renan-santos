@@ -5,8 +5,6 @@ tags:
   - crítica-à-direita
   - segurança
 date: 2025-10-23
-fontes:
-  - "2025-10-23 - NIKOLAS FERREIRA FAZ ELOGIOS AO MC DO COMANDO VERMELHO..."
 url: "https://www.youtube.com/watch?v=dLWwBgto-WQ"
 canal: "renan-canal"
 tipo: "short"

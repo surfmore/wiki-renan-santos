@@ -6,8 +6,6 @@ tags:
   - corrupção
   - educação
 date: 2025-10-01
-fontes:
-  - "2025-10-01 - Escola simula motel, mas o buraco é muito mais embaixo!"
 url: "https://www.youtube.com/watch?v=LHjYyNWWXXU"
 canal: "renan-canal"
 tipo: "short"

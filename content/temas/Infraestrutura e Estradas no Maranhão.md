@@ -15,7 +15,7 @@ Na rodovia estadual MA-06, Renan mostra crateras e buracos ao longo do trajeto q
 
 Em outro vídeo, Renan comenta o estado geral das BRs e estradas do Nordeste como evidência do descompasso entre a [[temas/Carga Tributária|carga tributária brasileira]] e os serviços públicos efetivamente entregues.
 
-Em 9 de abril, durante o trajeto até Balsas, Renan furou **dois pneus de uma vez** numa BR federal sem sinalização, e usou o incidente para denunciar o risco a caminhoneiros e a mulheres dirigindo sozinhas. Ver [[fontes/2026-04-09 - Pneu furado no meio de uma BR no Maranhão]].
+Em 9 de abril, durante o trajeto até Balsas, Renan furou **dois pneus de uma vez** numa BR federal sem sinalização, e usou o incidente para denunciar o risco a caminhoneiros e a mulheres dirigindo sozinhas. Ver [[fontes/2026-04-09 - Problemas de pré-candidato que não tem jatinho - pneu furado no Maranhão]].
 
 ## Ponte de Estreito
 
@@ -66,7 +66,7 @@ Em 20 de março, Renan sistematiza sete medidas para o setor de transporte rodov
 - [[fontes/2026-04-15 - Essa é a competição que quero ver]] — efeito das denúncias; Brandão vs. Braide
 - [[fontes/2026-04-10 - Povo do Maranhão, hora de falar BEM de vocês]] — modelo Inpasa/Balsas; potencial do Matopiba
 - [[fontes/2026-04-09 - Você lembra dessa ponte aqui]] — ponte de Estreito; sobrepreço; 14 famílias sem indenização
-- [[fontes/2026-04-09 - Pneu furado no meio de uma BR no Maranhão]] — pneus furados; denúncia das BRs sem sinalização
+- [[fontes/2026-04-09 - Problemas de pré-candidato que não tem jatinho - pneu furado no Maranhão]] — pneus furados; denúncia das BRs sem sinalização
 - [[fontes/2026-03-25 - FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA]] — Via Dutra; proposta de TAV São Paulo–Rio
 - [[fontes/2026-03-23 - Novos vídeos sobre a ponte que desabou entre Tocantins e Maranhão]] — análise causal do colapso da ponte
 - [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] — 7 medidas para o setor de transporte rodoviário

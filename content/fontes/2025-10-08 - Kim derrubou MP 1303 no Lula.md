@@ -5,8 +5,6 @@ tags:
   - partido-missão
   - legislação
 date: 2025-10-08
-fontes:
-  - "2025-10-08 - URGENTE; Kim entrou com o grosso no Lula!"
 url: "https://www.youtube.com/watch?v=1J5BdDv6quk"
 canal: "renan-canal"
 tipo: "short"

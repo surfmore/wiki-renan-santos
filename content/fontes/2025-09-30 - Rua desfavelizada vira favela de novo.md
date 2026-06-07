@@ -5,8 +5,6 @@ tags:
   - desfavelização
   - habitação
 date: 2025-09-30
-fontes:
-  - "2025-09-30 - Rua desvafelizada vira favela de novo"
 url: "https://www.youtube.com/watch?v=mgVgdlOv5Yg"
 canal: "renan-canal"
 tipo: "short"

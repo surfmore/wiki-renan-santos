@@ -61,7 +61,7 @@ Renan enuncia a meta: **"205 Kim Kataguiris"** — um deputado do perfil de Kim 
 
 Em **8 de outubro de 2025**, Kim apresentou requerimento que **derrubou a MP 1303/25** do governo Lula na Câmara. A medida provisória taxaria criptoativos, LCI e LCA — gerando receita para o governo no ano eleitoral. Renan comemorou a vitória legislativa e a descreveu como diretamente prejudicial à estratégia de reeleição de Lula.
 
-Nikolas Ferreira votou contra o requerimento de Kim — fato que Renan usou para reiterar a crítica ao parlamentar mineiro. Ver [[fontes/2025-10-08 - URGENTE - Kim entrou com o grosso no Lula!]].
+Nikolas Ferreira votou contra o requerimento de Kim — fato que Renan usou para reiterar a crítica ao parlamentar mineiro. Ver [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]].
 
 ## Aprovação do Partido Missão no TSE (novembro de 2025)
 
@@ -139,7 +139,7 @@ Ver [[fontes/2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!]].
 - [[fontes/2026-05-28 - Resposta para Nikolas Ferreira]] — votou contra a escala 4x3; citado como contraponto à proposta "psicopática" de Nikolas
 - [[fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA]] — único de direita a votar contra e a discursar no plenário
 - [[fontes/2025-09-23 - Expulsei o Kim do MBL]] — semana produtiva set/23; meta "205 Kim Kataguiris"
-- [[fontes/2025-10-08 - URGENTE - Kim entrou com o grosso no Lula!]] — derrubada da MP 1303/25; Nikolas vota contra
+- [[fontes/2025-10-08 - Kim derrubou MP 1303 no Lula]] — derrubada da MP 1303/25; Nikolas vota contra
 - [[fontes/2025-11-04 - KIM KATAGUIRI PRIMEIRO DEPUTADO FEDERAL PELA MISSÃO]] — aprovação do partido TSE 7-0; primeiro deputado do Missão
 - [[fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO]] — aumento de penas; contraponto à "direita de show"
 - [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]] — voto favorável ao limite do MEI
