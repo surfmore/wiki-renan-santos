@@ -17,6 +17,12 @@ fontes:
   - "2025-11-22 - Sobre a prisão do Bolsonaro"
 ---
 
+## R$ 17 milhões em PIX de idosos aplicados em renda fixa (junho de 2026)
+
+Em **8 de junho de 2026**, Renan denuncia que Bolsonaro pediu doações via PIX a seus seguidores para custear sua assessoria jurídica — com milhões de idosos doando. O COAF descobriu que os **R$ 17 milhões** arrecadados foram aplicados em renda fixa para o ex-presidente viver sem trabalhar, em vez de serem usados para a finalidade declarada. Renan classifica o episódio como parte de um padrão maior de exploração financeira de idosos pela direita populista.
+
+Ver [[fontes/2026-06-08 - Abuso de idosos]].
+
 **Quem é:** Jair Messias Bolsonaro, presidente da República de 2019 a 2022, fundador do PL (junto com Valdemar Costa Neto). Para Renan Santos, é uma figura ambivalente: um ex-aliado que traiu o movimento anticorrupção ao destruir a Lava-Jato para proteger a família, mas que ainda assim merece tratamento humanitário — "não quero tripudiar de um idoso".
 
 > "Eu acho que o Jair Bolsonaro foi um covarde e que os filhos deles são criminosos, especialmente Flávio."

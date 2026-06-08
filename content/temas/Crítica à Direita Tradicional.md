@@ -9,6 +9,18 @@ date: 2026-06-02
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
+## Bolsonarismo vive de exploração financeira de idosos (junho de 2026)
+
+Em **8 de junho de 2026**, Renan denuncia que a direita bolsonarista (e sua equivalente trumpista nos EUA) estruturou seu modelo de financiamento político em cima da exploração de pessoas idosas. O argumento: idosos concentram patrimônio (aposentadorias, imóveis, investimentos) mas têm baixa familiaridade com tecnologia, tendem a confiar em figuras de autoridade e são menos céticos com promoções digitais — o que os torna alvo preferencial.
+
+Renan cita dois exemplos concretos:
+- **Jair Bolsonaro** pediu doações via PIX para sua assessoria jurídica; milhões de idosos doaram R$ 17 milhões. O COAF descobriu que o dinheiro foi aplicado em renda fixa para o ex-presidente viver sem trabalhar.
+- Nos EUA, grupos republicanos criaram ONGs arrecadando doações de idosos prometendo construir o muro contra imigrantes mexicanos — muro que nunca foi construído.
+
+Renan cita o deputado republicano **Dan Crenshaw**, que teria reconhecido: "Temos vários aproveitadores entre nós no movimento conservador. Uma das funções do nosso grupo político é proteger os mais velhos."
+
+Ver [[fontes/2026-06-08 - Abuso de idosos]].
+
 ## Flávio vota com a esquerda no PL da Misoginia e censura Cazarré (junho de 2026)
 
 Em **6 de junho de 2026**, Renan critica Flávio Bolsonaro e o Partido Novo por votarem a favor do PL da Misoginia. O caso concreto: o ator Juliano Cazarré está sendo censurado por feministas que querem proibir seu curso de masculinidade — e a direita parlamentar, em vez de defendê-lo, votou alinhada à esquerda. Renan classifica o episódio como mais uma demonstração de que "a direita tradicional não tem convicções" e cede ao oportunismo eleitoral.

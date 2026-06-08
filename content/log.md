@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-08] ingest | Abuso de idosos (ingest automático)
+- Fonte criada: fontes/2026-06-08 - Abuso de idosos
+- Páginas atualizadas: temas/Crítica à Direita Tradicional, pessoas/Jair Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia exploração financeira de idosos pela direita bolsonarista/trumpista; R$ 17M em PIX de Bolsonaro aplicados em renda fixa; propõe lei contra exploração da confiança de idosos.
+
 ## [2026-06-08] ingest | Já imaginou rasgar o Brasil de ferrovias (ingest automático)
 - Fonte criada: fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias
 - Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
