@@ -9,6 +9,14 @@ date: 2026-06-02
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
+## Nikolas abandona Flávio e Renan pede união da direita (junho de 2026)
+
+Em **8 de junho de 2026**, Renan responde a rumores de que Nikolas Ferreira estaria abandonando Flávio Bolsonaro. Interpreta o gesto como sinal do reconhecimento de que Flávio "perde pro Lula no segundo turno" por ser o candidato mais rejeitado. Cita pesquisa RealTime Big Data: 48% buscam algo novo (nem Lula nem Flávio), e 26% desses preferem Renan.
+
+Renan recusa o rótulo de "terceira via" — diz ser o único candidato de direita, enquanto Flávio seria de centro/centrão, aliado de Eduardo Cunha, Cláudio Castro e Ciro Nogueira. Convoca a direita a se unir em torno de sua pré-candidatura como única alternativa capaz de derrotar Lula.
+
+Ver [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]].
+
 ## Bolsonarismo vive de exploração financeira de idosos (junho de 2026)
 
 Em **8 de junho de 2026**, Renan denuncia que a direita bolsonarista (e sua equivalente trumpista nos EUA) estruturou seu modelo de financiamento político em cima da exploração de pessoas idosas. O argumento: idosos concentram patrimônio (aposentadorias, imóveis, investimentos) mas têm baixa familiaridade com tecnologia, tendem a confiar em figuras de autoridade e são menos céticos com promoções digitais — o que os torna alvo preferencial.

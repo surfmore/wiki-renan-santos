@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-08] ingest | Nikolas vai abandonar Flávio (ingest automático)
+- Fonte criada: fontes/2026-06-08 - Nikolas vai abandonar Flávio
+- Páginas atualizadas: pessoas/Nikolas Ferreira, pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Renan responde a rumores de que Nikolas estaria abandonando Flávio; cita pesquisa RealTime Big Data (48% buscam novo, 26% desses são Renan); pede união da direita; critica Flávio como candidato de centrão aliado de Eduardo Cunha, Cláudio Castro e Ciro Nogueira.
+
 ## [2026-06-08] ingest | Abuso de idosos (ingest automático)
 - Fonte criada: fontes/2026-06-08 - Abuso de idosos
 - Páginas atualizadas: temas/Crítica à Direita Tradicional, pessoas/Jair Bolsonaro, index.md, log.md, wiki/.processed_ids

@@ -98,7 +98,7 @@ date: 2026-06-07
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">610</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">611</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -174,6 +174,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]] — Renan responde a rumores de que Nikolas Ferreira estaria abandonando Flávio Bolsonaro; cita pesquisa RealTime Big Data (48% buscam novo, 26% desses são Renan); pede união da direita em torno de sua candidatura.
 - [[fontes/2026-06-08 - Abuso de idosos]] — Renan denuncia a exploração financeira de idosos como padrão da direita bolsonarista/trumpista; cita R$ 17 milhões em PIX de Bolsonaro aplicados em renda fixa; propõe lei contra exploração da confiança de idosos.
 - [[fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias]] — Renan apresenta plano ferroviário em 3 fases para conectar São Paulo, Campinas, Ribeirão Preto, São José dos Campos, Goiânia, Brasília e Rio de Janeiro.
 - [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — Renan alerta que MG está se tornando o novo RJ; dados mostram 14% de aumento nas mortes violentas contra 8% de queda nacional; PCC, CV e TCP em três frentes; propõe estado de defesa e transferência de faccionados para presídios remotos.

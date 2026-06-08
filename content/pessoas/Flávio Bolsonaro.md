@@ -11,6 +11,14 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Nikolas abandona e pesquisa mostra Flávio como mais rejeitado (junho de 2026)
+
+Em **8 de junho de 2026**, Renan comenta os rumores de que Nikolas Ferreira estaria abandonando a campanha de Flávio. Cita pesquisa RealTime Big Data: 48% dos brasileiros buscam alternativa a Lula e Flávio — e 26% desses preferem Renan. Flávio é descrito como o candidato mais rejeitado, "mais até que o Lula", enquanto Renan seria o menos conhecido e menos rejeitado, com maior potencial de crescimento.
+
+Renan reitera que Flávio está cercado por aliados do centrão (Eduardo Cunha, Cláudio Castro, Ciro Nogueira) e que sua candidatura é "terceira via", não de direita. Conclui que o abandono de Nikolas é sintoma do reconhecimento de que Flávio perde para Lula no segundo turno.
+
+Ver [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]].
+
 ## Censura a Juliano Cazarré — voto no PL da Misoginia (junho de 2026)
 
 Em **6 de junho de 2026**, Renan critica Flávio Bolsonaro por ter votado a favor do PL da Misoginia, que classifica como instrumento de censura contra conservadores. O caso concreto: o ator Juliano Cazarré, que promove um curso sobre masculinidade tradicional, está sendo alvo de feministas que querem proibi-lo de falar — e Flávio, segundo Renan, "votou junto com a esquerda" para viabilizar essa censura.

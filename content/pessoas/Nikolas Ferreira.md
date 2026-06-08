@@ -11,6 +11,16 @@ Deputado federal por Minas Gerais, um dos mais votados da história do Brasil, l
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
 
+## Rumores de abandono de Flávio Bolsonaro — "não dependo nem do Nicolas, nem do Flávio" (junho de 2026)
+
+Em **8 de junho de 2026**, Renan responde a rumores de que Nikolas Ferreira estaria abandonando a campanha de Flávio Bolsonaro. Afirma que sua pré-campanha tem propostas e não depende de Nikolas nem de Flávio para vencer. Mostra Nikolas dando depoimento enfático de apoio a Flávio, mas contra-argumenta citando pesquisa RealTime Big Data: 48% dos brasileiros buscam algo novo — e 26% desses são eleitores de Renan.
+
+Renan interpreta o movimento de Nikolas como oportunista: Flávio está em queda nas pesquisas, é o candidato mais rejeitado (mais até que Lula) e tem alianças com figuras do centrão (Eduardo Cunha, Cláudio Castro, Ciro Nogueira). Nikolas, que já votou com a esquerda na escala 6x1, estaria sinalizando desembarque para não se associar a uma candidatura fadada à derrota.
+
+Renan pede união da direita em torno de sua candidatura, a única que considera capaz de derrotar Lula.
+
+Ver [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]].
+
 ## Votou com o PT na escala 6x1: "Eu sei jogar o jogo também" (maio de 2026)
 
 Em **29 de maio de 2026**, Renan dirige uma carta aberta ao pequeno empresário brasileiro e cita Nikolas como exemplo central de traição à base conservadora. Nikolas votou a favor da escala 6x1 — junto com PL, PP, União Brasil, PSD, PT e Érika Hilton — e justificou o voto com a frase:
