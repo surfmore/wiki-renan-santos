@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-08] ingest | Já imaginou rasgar o Brasil de ferrovias (ingest automático)
+- Fonte criada: fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: Renan apresenta em Americana (SP) plano ferroviário em 3 fases conectando SP-Campinas-Ribeirão Preto-São José dos Campos-Goiânia/Brasília-Rio; denuncia abandono de ferrovia do século XIX que virou cracolândia.
+
 ## [2026-06-07] ingest | Minas Gerais é o novo Rio de Janeiro (ingest automático)
 - Fonte criada: fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro
 - Páginas atualizadas: temas/Segurança Pública, posicoes/Estado de Defesa e Direito Penal do Inimigo, index.md, log.md, wiki/.processed_ids

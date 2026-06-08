@@ -98,7 +98,7 @@ date: 2026-06-07
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">606</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">607</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -117,7 +117,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">34 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
 <a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">32 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão. Crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
-<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica: startups, terras raras, defesa aeroespacial.</p></a>
+<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">19 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica: ferrovias, startups, terras raras, defesa aeroespacial.</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">19 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e a "geração que fracassou" por falta de oportunidades.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Voltado à geração jovem que rejeita PT-bolsonarismo.</p></a>
@@ -174,6 +174,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias]] — Renan apresenta plano ferroviário em 3 fases para conectar São Paulo, Campinas, Ribeirão Preto, São José dos Campos, Goiânia, Brasília e Rio de Janeiro.
 - [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — Renan alerta que MG está se tornando o novo RJ; dados mostram 14% de aumento nas mortes violentas contra 8% de queda nacional; PCC, CV e TCP em três frentes; propõe estado de defesa e transferência de faccionados para presídios remotos.
 - [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes em Lisboa no "Gilmarpalooza"; critica gastos do judiciário com viagens de luxo.
 - [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — Renan critica Chelsea/Lula por investimento superficial em quadra na favela; propõe desfavelização com bolsas de estudo como alternativa real.

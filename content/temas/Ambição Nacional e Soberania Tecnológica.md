@@ -9,6 +9,20 @@ date: 2026-04-03
 
 Tema recorrente na retórica de Renan Santos: o Brasil teria **tamanho e capacidade** para se posicionar no "grande jogo da engenharia mundial", mas seria sabotado por uma **mentalidade coletiva de autodepreciação**. Sua formulação mais repetida é "nós nos odiamos tanto aqui no Brasil e achamos que somos tão ruins que nem conseguimos sonhar".
 
+## Plano ferroviário em três fases: conectar o eixo econômico do país (junho de 2026)
+
+Em **8 de junho de 2026**, em Americana (SP), na estação de trem de sua cidade natal, Renan denuncia o abandono da malha ferroviária paulista — uma ferrovia do século XIX que virou cracolândia — e apresenta seu plano de expansão ferroviária em três fases:
+
+- **Fase 1:** Estender o trecho São Paulo-Campinas até Ribeirão Preto, passando por Americana, conectando o agronegócio e as universidades da região.
+- **Fase 2:** Conectar o ramal São Paulo-Campinas até São José dos Campos, "o maior polo industrial da América Latina".
+- **Fase 3:** Puxar Ribeirão Preto até Goiânia e Brasília (no "Expresso Pequi") e, do outro lado, até o Rio de Janeiro.
+
+Renan argumenta que o eixo Rio–São José dos Campos–São Paulo–Campinas–Americana–Ribeirão Preto já é a maior concentração econômica do país, e conectar tudo isso com trilhos — tanto para passageiros quanto para cargas — seria um motor de desenvolvimento.
+
+O plano contrapõe-se à falta de ambição que Renan critica: o projeto atual de modernização se limita ao trecho São Paulo-Campinas, deixando todo o interior desassistido. Enquanto o mundo avança, o Brasil "está perdendo o trem da história".
+
+Ver [[fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias]].
+
 ## PIX como conquista tecnológica brasileira ameaçada (junho de 2026)
 
 Em **4 de junho de 2026**, Renan denuncia que o PIX — sistema de pagamentos instantâneos brasileiro — está sob ameaça simultânea dos EUA (que pressionam para negociá-lo) e do governo Lula (que quer taxá-lo). Renan descreve o PIX como "uma grande conquista brasileira, é tecnologia própria e ajudou demais o pequeno comerciante."
