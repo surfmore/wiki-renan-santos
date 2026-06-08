@@ -9,6 +9,18 @@ date: 2026-04-03
 
 Tema recorrente na retórica de Renan Santos: o Brasil teria **tamanho e capacidade** para se posicionar no "grande jogo da engenharia mundial", mas seria sabotado por uma **mentalidade coletiva de autodepreciação**. Sua formulação mais repetida é "nós nos odiamos tanto aqui no Brasil e achamos que somos tão ruins que nem conseguimos sonhar".
 
+## Robótica nacional: a única fábrica de robô do Brasil (junho de 2026)
+
+Em **8 de junho de 2026**, também em Americana (SP), Renan visita a única fábrica de robôs do Brasil, que produz robôs para moendas de cana-de-açúcar. A fábrica é ligada ao agronegócio e representa um caso concreto de inovação tecnológica brasileira de ponta.
+
+Antes dos robôs, dezenas de trabalhadores morriam por ano moídos pelo maquinário que soldavam manualmente. Um engenheiro e um empreendedor criaram uma solução combinando automação, matemática aplicada e robótica, eliminando a mortandade e aumentando a produtividade.
+
+Renan destaca que a tecnologia não está disponível sequer nos Estados Unidos, e que a fábrica já exporta para o sudeste asiático e se prepara para entrar no mercado americano — gerando empregos de qualidade no Brasil. O caso serve como argumento contra os estereótipos de que o agro brasileiro é atrasado: "o agro brasileiro é tecnológico."
+
+A conclusão política: "Já parou para pensar que tipo de país a gente teria se o governo não ficasse sabotando os brasileiros?" Renan promete que em seu governo casos como este serão cada vez mais comuns — "basta o governo não atrapalhar."
+
+Ver [[fontes/2026-06-08 - A única fábrica de robô do Brasil]].
+
 ## Plano ferroviário em três fases: conectar o eixo econômico do país (junho de 2026)
 
 Em **8 de junho de 2026**, em Americana (SP), na estação de trem de sua cidade natal, Renan denuncia o abandono da malha ferroviária paulista — uma ferrovia do século XIX que virou cracolândia — e apresenta seu plano de expansão ferroviária em três fases:

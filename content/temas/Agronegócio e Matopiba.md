@@ -10,6 +10,16 @@ date: 2026-05-29
 
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.
 
+## Robótica no agro: fábrica de robôs em Americana (junho de 2026)
+
+Em **8 de junho de 2026**, Renan visita em Americana (SP) a única fábrica de robôs do Brasil, voltada à produção de robôs para moendas de cana-de-açúcar. O caso ilustra a tese de que o agro brasileiro é tecnológico e de alta produtividade.
+
+Antes da automação, dezenas de trabalhadores morriam por ano moídos pelo maquinário que soldavam manualmente. A solução — desenvolvida por um engenheiro e um empreendedor brasileiros — eliminou a mortandade, aumentou a produtividade e gerou uma tecnologia que não existe nos Estados Unidos. A fábrica já exporta para o sudeste asiático e se prepara para entrar no mercado americano.
+
+Renan usa o caso para argumentar que, quando o governo não atrapalha, brasileiros são capazes de competir globalmente com inovação de ponta.
+
+Ver [[fontes/2026-06-08 - A única fábrica de robô do Brasil]].
+
 ## A tese
 
 Renan argumenta que, dentro do próprio Maranhão, o **sul agrícola** já tem PIB per capita **muito maior que o norte**, onde está a capital São Luís. A produção de milho no sul alimenta três cadeias simultaneamente: **etanol** (combustível), **ração animal** (queijo, leite, carne, frango) e, potencialmente, **biodiesel**. É a partir desse milho — diz ele — que "acaba o Bolsa Família" e "as pessoas saem da dependência do Estado".
