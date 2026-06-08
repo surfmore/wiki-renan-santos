@@ -8,6 +8,18 @@ date: 2026-04-11
 
 Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete **estado de defesa** para enfrentar militarmente o crime organizado, combinando a medida com uma legislação que chama de **"direito penal do inimigo"**.
 
+## Estado de defesa em Minas Gerais e transferência de faccionados (junho de 2026)
+
+Em **7 de junho de 2026**, Renan detalha a aplicação de sua proposta de estado de defesa especificamente para Minas Gerais, que descreve como estando em processo de "se tornar o novo Rio de Janeiro" devido ao avanço do PCC, Comando Vermelho e TCP em três frentes simultâneas.
+
+As medidas previstas para MG:
+1. **Estado de defesa** em todas as favelas controladas pelo crime organizado no estado — em Juiz de Fora (CV), Triângulo Mineiro (PCC) e região metropolitana de BH (TCP/CV)
+2. **Transferência de presos faccionados** dos presídios mineiros para presídios de segurança máxima na Amazônia ou no litoral, isolando-os do contato com a população
+3. **Corte de privilégios do judiciário** para gerar receita vinculada ao aumento salarial dos policiais mineiros
+4. **AGU à disposição** de policiais para protegê-los de acusações do MP após ações legítimas
+
+Ver [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]].
+
 ## Excludente de ilicitude e "tiro antes de perguntar" (junho de 2026)
 
 Em **3 de junho de 2026**, reagindo a declaração de Lula de que "a polícia não pode matar antes de conversar" e deve investigar antes de atirar, Renan afirma ser "a maior defesa de bandido" que já viu. Argumenta que o discurso de Lula é estruturalmente voltado a criminalizar a atividade policial.
@@ -62,6 +74,7 @@ Ver [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]].
 
 ## Fontes
 
+- [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — estado de defesa em MG; transferência de faccionados para presídios remotos; proteção jurídica a policiais
 - [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]] — excludente de ilicitude; resposta à fala de Lula sobre "atirar antes de perguntar"
 - [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — proibição de símbolos de facções; BDM e CV em Salvador
 - [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]] — Ceará e Bahia como casos urgentes; mecanismo de afastamento de governador

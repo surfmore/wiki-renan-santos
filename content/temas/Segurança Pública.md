@@ -8,6 +8,23 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Minas Gerais como novo Rio de Janeiro: avanço do crime organizado em três frentes (junho de 2026)
+
+Em **7 de junho de 2026**, Renan alerta que Minas Gerais está se tornando o novo Rio de Janeiro em violência urbana. Apresenta dados: desde 2018, as mortes violentas em MG **aumentaram 14%**, enquanto a média nacional **caiu 8%**. Atribui o fenômeno à localização geográfica do estado, que faz fronteira com São Paulo (PCC), Rio de Janeiro (Comando Vermelho) e Bahia (ambas as facções).
+
+Renan descreve a situação em diferentes regiões:
+- **Juiz de Fora** — periferia tomada pelo Comando Vermelho
+- **Triângulo Mineiro** — tomada pelo PCC, especialmente em Araguari
+- **Belo Horizonte** — favela onde "Niícolas" surgiu controlada pelo **TCP (Terceiro Comando Puro)**, que Renan descreve como grupo que criou o "Complexo de Israel", versão própria e corrupta do cristianismo
+
+No **Aglomerado da Serra** (BH), o tráfico passou um áudio impondo regras para motoristas de Uber — as mesmas regras clássicas do Rio de Janeiro: vidro baixado, luz interna acesa, farol baixo, sob pena de levar bala. Para Renan, isso prova que o modus operandi do crime organizado carioca já se instalou em Minas.
+
+Renan critica o governo mineiro por dar bilhões em renúncia fiscal para "empresários amigos" em vez de dar aumento salarial à polícia. Propõe como presidente: **estado de defesa** em todas as favelas controladas pelo crime em MG; transferência de presos faccionados para presídios de segurança máxima em áreas remotas (Amazônia ou litoral); corte de privilégios do judiciário para financiar a polícia; e proteção jurídica via AGU para policiais em operação.
+
+Encerra pedindo que mineiros sigam **Ben Mendes**, pré-candidato do Partido Missão ao governo de Minas Gerais.
+
+Ver [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]].
+
 ## Ditadura militar vs. violência das facções: 434 mortos em 20 anos contra 4 dias de facções (junho de 2026)
 
 Em **6 de junho de 2026**, ao comentar a série "Brasil 70" da Netflix, Renan faz uma comparação contundente para contestar a narrativa sobre a ditadura militar brasileira. Ele afirma não ser defensor do regime militar — que "teve inúmeros defeitos" — mas sustenta que o Brasil governado pelo PT hoje é "muito, mas muito mais sanguinário."

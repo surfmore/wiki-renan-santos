@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-07] ingest | Minas Gerais é o novo Rio de Janeiro (ingest automático)
+- Fonte criada: fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro
+- Páginas atualizadas: temas/Segurança Pública, posicoes/Estado de Defesa e Direito Penal do Inimigo, index.md, log.md, wiki/.processed_ids
+- Nota: Renan alerta que MG está se tornando o novo RJ — dados de 14% de aumento nas mortes violentas (vs 8% queda nacional); PCC, CV e TCP avançam em Juiz de Fora, Triângulo Mineiro e BH; propõe estado de defesa em favelas, transferência de faccionados para presídios remotos, corte de privilégios do judiciário para financiar polícia e proteção jurídica via AGU.
+
 ## [2026-06-07] ingest | Já ouviu falar em Gilmarpalooza (ingest automático)
 - Fonte criada: fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza
 - Páginas atualizadas: temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
