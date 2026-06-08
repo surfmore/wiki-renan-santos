@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-08] ingest | Pré-candidato a presidência dá aula sobre Brasil (ingest automático)
+- Fonte criada: fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil
+- Páginas atualizadas: pessoas/Renan Santos, index.md, log.md, wiki/.processed_ids
+- Nota: Renan faz reflexão sobre república vs. democracia; critica falta de "regra una" no Brasil; usa analogia com Roma para defender união nacional contra o crime organizado.
+
 ## [2026-06-08] ingest | A única fábrica de robô do Brasil (ingest automático)
 - Fonte criada: fontes/2026-06-08 - A única fábrica de robô do Brasil
 - Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, temas/Agronegócio e Matopiba, index.md, log.md, wiki/.processed_ids

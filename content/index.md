@@ -98,7 +98,7 @@ date: 2026-06-07
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">612</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">613</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -174,6 +174,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]] — reflexão sobre república vs. democracia; falta de "regra una"; analogia com Roma para criticar polarização brasileira
 - [[fontes/2026-06-08 - A única fábrica de robô do Brasil]] — Renan visita a única fábrica de robôs do Brasil em Americana; robôs para moendas de cana eliminam mortes de trabalhadores; tecnologia nacional exportada para Ásia e EUA; defesa do empreendedorismo sem sabotagem do governo.
 - [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]] — Renan responde a rumores de que Nikolas Ferreira estaria abandonando Flávio Bolsonaro; cita pesquisa RealTime Big Data (48% buscam novo, 26% desses são Renan); pede união da direita em torno de sua candidatura.
 - [[fontes/2026-06-08 - Abuso de idosos]] — Renan denuncia a exploração financeira de idosos como padrão da direita bolsonarista/trumpista; cita R$ 17 milhões em PIX de Bolsonaro aplicados em renda fixa; propõe lei contra exploração da confiança de idosos.

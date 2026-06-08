@@ -13,6 +13,18 @@ fontes:
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É pré-candidato à presidência da República e uma das principais vozes da direita não-bolsonarista no Brasil.
 
+## Visão política e filosófica
+
+### República vs. Democracia: a falta de "regra una" no Brasil (junho de 2026)
+
+Renan desenvolve uma reflexão sobre a distinção entre democracia e república. Para ele, a democracia só pode funcionar dentro de um regime republicano sólido — isto é, um sistema com valores compartilhados e um contrato social claro que todos respeitam. No Brasil, argumenta, esse contrato não existe e as pessoas "nem fingem mais ter um contrato."
+
+A consequência é que o país se tornou um "jogo de poder": juízes decidem com base em interesses pessoais e amizades, não no interesse público; a política virou "todo mundo contra todo mundo". Ele compara a situação ao período pré-César em Roma, quando legiões romanas lutavam contra legiões romanas.
+
+Sua proposta é uma liderança que una o país contra um inimigo comum — o crime organizado — e que seja capaz de integrar pessoas de diferentes campos políticos, incluindo bolsonaristas, em torno de uma agenda pró-mercado e de segurança pública.
+
+Ver [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]].
+
 ## Dados pessoais
 
 - **Nascimento:** 14 de fevereiro de 1984, bairro Operário (Mooca), São Paulo
@@ -147,6 +159,7 @@ Ver [[fontes/2026-05-19 - 6,9% DISPAREI NA ATLAS]].
 
 ## Fontes
 
+- [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]] — visão política sobre república vs. democracia e a falta de "regra una" no Brasil
 - [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] — sabatina Esfera: ajuste fiscal, STF, terras raras, eleitorado
 - [[fontes/2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA]] — maior evento de pré-campanha; vaquinha maior do Brasil
 - [[fontes/2026-05-21 - RENAN AO VIVO - MARCHA DOS PREFEITOS EM BRASÍLIA]] — marcha dos prefeitos; discurso e coletiva
