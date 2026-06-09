@@ -98,7 +98,7 @@ date: 2026-06-09
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">627</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">628</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -118,11 +118,12 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">34 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
 <a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">32 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão. Crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
 <a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica: ferrovias, robótica, startups, terras raras, defesa aeroespacial.</p></a>
-<a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">19 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e a "geração que fracassou" por falta de oportunidades.</p></a>
+<a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Voltado à geração jovem que rejeita PT-bolsonarismo.</p></a>
+<a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza" e reforma como prioridade fiscal.</p></a>
 <a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; Nordeste como polo de energia renovável; lixo em energia.</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 temas →</span></div><p class="wiki-card-desc">Carga tributária, imigração, infraestrutura, liberdade religiosa, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
@@ -174,6 +175,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-09 - Eu achei os números da economia do Lula]] — Renan apresenta dados: dólar, juros futuros, bolsa em queda recorde de 8 semanas, inflação, empresas em recuperação judicial; critica Flávio e Nikolas por apoiarem medidas populistas de Lula.
 - [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]] — reflexão sobre república vs. democracia; falta de "regra una"; analogia com Roma para criticar polarização brasileira
 - [[fontes/2026-06-08 - A única fábrica de robô do Brasil]] — Renan visita a única fábrica de robôs do Brasil em Americana; robôs para moendas de cana eliminam mortes de trabalhadores; tecnologia nacional exportada para Ásia e EUA; defesa do empreendedorismo sem sabotagem do governo.
 - [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]] — Renan responde a rumores de que Nikolas Ferreira estaria abandonando Flávio Bolsonaro; cita pesquisa RealTime Big Data (48% buscam novo, 26% desses são Renan); pede união da direita em torno de sua candidatura.

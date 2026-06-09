@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-09] ingest | Eu achei os números da economia do Lula
+- Fonte criada: fontes/2026-06-09 - Eu achei os números da economia do Lula
+- Páginas atualizadas: temas/Empobrecimento e Mercado de Trabalho, pessoas/Lula, index.md, log.md, wiki/.processed_ids
+- Nota: Renan apresenta indicadores macroeconômicos (dólar, juros, bolsa em queda recorde, inflação) para argumentar que o Brasil está quebrando sob Lula. Compara com crise de Dilma e critica direita por apoiar medidas populistas.
+
 ## [2026-06-09] lint | Lint completo do wiki — links quebrados, data, atualizações
 - **Links quebrados corrigidos (8):**
   - `fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro` → link `[[temas/Crime Organizado]]` removido (inexistente); redirecionado para Segurança Pública

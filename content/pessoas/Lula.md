@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-06-06
 fontes:
+  - "2026-06-09 - Eu achei os números da economia do Lula"
   - "2026-06-06 - Parabéns! Sua luz vai ficar mais cara!"
   - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
   - "2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS"
@@ -30,6 +31,22 @@ fontes:
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## "O Brasil quebrou": dados macroeconômicos do governo Lula (junho de 2026)
+
+Em **9 de junho de 2026**, Renan apresenta indicadores macroeconômicos para sustentar a tese de que "o Lula quebrou o Brasil":
+
+- **Dólar disparou** recentemente.
+- **Juros futuros** em alta máxima — sinal de que o mercado enxerga risco de calote.
+- **Bolsa em queda por 8 semanas seguidas** — recorde desde o Plano Real (30 anos).
+- **Empresas em recuperação judicial** batendo recorde.
+- **Inflação** voltou a subir (alimentos, bens, serviços), motivando aumento de juros.
+
+Renan traça um paralelo direto com o **final do mandato de Dilma Rousseff**: medidas populistas (gás, energia, Bolsa Família) que, em vez de melhorar a vida, agravam a crise porque o custo de vida sobe mais que o benefício. Critica também o **fim da escala 6x1** como medida que já está fechando pequenos negócios.
+
+> "O Lula não está te ajudando. Ele está quebrando o Brasil e você vai pagar a conta."
+
+Ver [[fontes/2026-06-09 - Eu achei os números da economia do Lula]].
 
 ## Leilão de termoelétricas: padrão de beneficiar bilionários às custas da classe média (junho de 2026)
 

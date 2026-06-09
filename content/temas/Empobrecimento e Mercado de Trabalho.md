@@ -8,6 +8,29 @@ tags:
 date: 2026-06-01
 ---
 
+## Dólar, juros, bolsa e inflação: "todos os números apontam para o colapso" (junho de 2026)
+
+Em **9 de junho de 2026**, Renan apresenta uma série de indicadores macroeconômicos para demonstrar que o Brasil está quebrando sob o governo Lula:
+
+- **Dólar disparou** nos últimos dias.
+- **Juros futuros** (curva de juros) em alta — o que Renan interpreta como "expectativa de calote" do Brasil.
+- **Bolsa de Valores** caindo por **oito semanas consecutivas** — a primeira vez que isso acontece desde a criação do Plano Real, há mais de 30 anos.
+- **Empresas em recuperação judicial** batendo recorde.
+- **Inflação** voltou a aumentar (preço da comida, bens e serviços), motivando novo aumento dos juros.
+- O dinheiro do cidadão fica mais caro ao mesmo tempo em que tudo fica mais caro.
+
+Renan compara o cenário com a **crise de Dilma Rousseff** no final do mandato dela: medidas populistas de curto prazo (botijão de gás, energia elétrica gratuita, Bolsa Família, BPC) que, na prática, não compensam a perda de poder de compra.
+
+> "A pessoa acha que ficou um pouquinho mais rica porque tem um botijão de gás, mas a comida que ela vai cozinhar ali ficou mais cara."
+
+Renan também relata que **bares, restaurantes, comércio, barbeiros e manicures** já estão fechando um dia por semana por conta do impacto esperado do **fim da escala 6x1**, mesmo antes da implementação formal — e que **Flávio Bolsonaro** e **Nikolas Ferreira** votaram a favor da medida, além de Flávio ser favorável ao vale-gás de Lula.
+
+> "Eles topam quebrar o Brasil junto com o PT se isso der mais chances eleitorais para eles."
+
+Ver [[fontes/2026-06-09 - Eu achei os números da economia do Lula]].
+
+---
+
 ## Leilão de energia e o custo para a classe média (junho de 2026)
 
 Em **6 de junho de 2026**, Renan denuncia que o leilão de usinas termoelétricas promovido pelo governo Lula, avaliado em R$ 1 trilhão, vai aumentar a conta de luz em **10%** — e que a classe média trabalhadora é quem vai pagar a conta.
