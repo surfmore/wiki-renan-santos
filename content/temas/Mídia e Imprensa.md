@@ -8,6 +8,18 @@ date: 2026-04-12
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
 
+## Helane Cataned da Globo News: "terror" com outsider (junho de 2026)
+
+Em **9 de junho de 2026**, Renan responde à jornalista Helane Cataned, da Globo News, que teria classificado sua ascensão nas pesquisas como "preocupante" e atribuído o fenômeno à frustração da juventude com a política tradicional. A jornalista expressou a tese de que outsiders só têm chance quando a política tradicional deixa vácuo.
+
+Renan rebate: (1) a preocupação com o outsider revela a dependência da imprensa em relação ao poder estabelecido — jornalistas que "vivem de contato e proximidade com o poder" temem pessoas novas com quem não têm contato; (2) a política tradicional está desmoralizada por escândalos como o NSS (Lula) e o Banco Master (STF e Flávio Bolsonaro), o que explica o espaço para alternativas; (3) seus apoiadores jovens são movidos por esperança, não por descrença — o slogan do Partido Missão é "O futuro é glorioso".
+
+Renan lista as propostas do partido (desfavelização, segurança máxima, contas públicas, industrialização do Nordeste) e defende a comunicação direta por vídeos como alternativa à assessoria de imprensa tradicional, que descreve como "puxar saco" de jornalistas em vez de ser fiscalizado por eles.
+
+> "Não tenha medo do desconhecido, apenas pesquise. Isso é na prática o trabalho de um jornalista."
+
+Ver [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]].
+
 ## Netflix "Brasil 70": politização do futebol e hipocrisia sobre censura (junho de 2026)
 
 Em **6 de junho de 2026**, comentando a série documental "Brasil 70" da Netflix sobre a seleção brasileira campeã de 1970, Renan critica a politização do futebol pela esquerda. Ele aponta que o terceiro episódio trata da ditadura militar e os jogadores aparecem "dando pito" em Pelé por sua ausência de posição contrária ao regime.
@@ -144,6 +156,7 @@ Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 �
 
 ## Fontes
 
+- [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Resposta a Helane Cataned; defesa da comunicação direta; outsider vs. imprensa tradicional
 - [[fontes/2025-11-19 - Resposta para a humorista alemã]]
 - [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]]
 - [[fontes/2026-04-11 - Feedback Loop e eleições]]

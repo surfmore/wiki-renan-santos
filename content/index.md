@@ -98,7 +98,7 @@ date: 2026-06-09
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">614</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">615</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -119,8 +119,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">32 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão. Crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
 <a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica: ferrovias, robótica, startups, terras raras, defesa aeroespacial.</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
-<a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
-<a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">12 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Voltado à geração jovem que rejeita PT-bolsonarismo. Regras públicas para coalizões.</p></a>
+<a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
+<a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
 <a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza" e reforma como prioridade fiscal.</p></a>
 <a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; Nordeste como polo de energia renovável; lixo em energia.</p></a>
 <a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
@@ -175,6 +175,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Renan responde a Helane Cataned (Globo News) que teme seu crescimento como outsider; defende comunicação direta; lista propostas do Missão.
 - [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]] — Renan nega rumores de aliança com PSDB; estabelece regras públicas para coalizões com base na agenda do Missão; denuncia descaso de Ciro Nogueira, Arthur Lira e Aécio Neves.
 - [[fontes/2026-06-09 - Eu achei os números da economia do Lula]] — Renan apresenta dados: dólar, juros futuros, bolsa em queda recorde de 8 semanas, inflação, empresas em recuperação judicial; critica Flávio e Nikolas por apoiarem medidas populistas de Lula.
 - [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]] — reflexão sobre república vs. democracia; falta de "regra una"; analogia com Roma para criticar polarização brasileira

@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-06-01
 fontes:
+  - "2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento."
   - "2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!"
   - "2026-06-03 - Bora bater mais uma meta na minha vaquinha!"
   - "2026-05-07 - O que diferencia a Missão dos outros partidos"
@@ -20,7 +21,13 @@ fontes:
   - "2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)"
 ---
 
-Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro.
+Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Propostas centrais reafirmadas (junho de 2026)
+
+Em **9 de junho de 2026**, ao responder à jornalista Helane Cataned (Globo News), Renan lista os cinco eixos do programa do Missão: desfavelizar o Brasil, endurecer o combate ao crime ("matar bandido e encarcerar"), resolver as contas públicas, industrializar o Nordeste e ser amigo de quem trabalha e produz.
+
+Ver [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]].
 
 ## Regras públicas para coalizões (junho de 2026)
 
@@ -129,6 +136,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Cinco eixos do programa reafirmados; slogan "O futuro é glorioso"
 - [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]] — vaquinha; site caiu; meta R$ 650k; 1º em doações; pesquisa -7 pts Lula
 - [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]] — Missão como projeto pessoal; critério de fracasso
 - [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]] — 547.000 validados; Missão como continuação do impeachment
