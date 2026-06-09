@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-09] ingest | Minha resposta oficial estamos com o PSDB
+- Fonte criada: fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB
+- Páginas atualizadas: temas/Partido Missão, pessoas/Ciro Nogueira, posicoes/Fusão de Municípios, posicoes/Estado de Defesa e Direito Penal do Inimigo, posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos, index.md, log.md, wiki/.processed_ids
+- Nota: Renan nega rumores de aliança com PSDB; critica presidencialismo de coalizão; estabelece regras públicas para coalizões com base na agenda do Missão; denuncia descaso de Ciro Nogueira ("candidato apenas para lacrar"), Arthur Lira e Aécio Neves.
+
 ## [2026-06-09] ingest | Eu achei os números da economia do Lula
 - Fonte criada: fontes/2026-06-09 - Eu achei os números da economia do Lula
 - Páginas atualizadas: temas/Empobrecimento e Mercado de Trabalho, pessoas/Lula, index.md, log.md, wiki/.processed_ids

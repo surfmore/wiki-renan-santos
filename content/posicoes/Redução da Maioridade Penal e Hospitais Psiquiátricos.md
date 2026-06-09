@@ -12,6 +12,12 @@ fontes:
 
 Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que considera irrecuperáveis: a redução efetiva da maioridade penal para crimes violentos e a restauração do sistema de internação psiquiátrica compulsória.
 
+## Condição para coalizões políticas (junho de 2026)
+
+Em **9 de junho de 2026**, Renan inclui a redução da maioridade penal como uma das condições não negociáveis para qualquer partido interessado em formar coalizão com o Partido Missão. A proposta aparece na lista de compromissos que os partidos aliados precisariam endossar por escrito para aderir ao governo.
+
+Ver [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]].
+
 ## Redução da maioridade penal
 
 **Proposta**: menores de 14 anos a 17 anos que cometerem crimes violentos devem ser tratados como adultos pelo sistema penal.

@@ -13,6 +13,12 @@ Senador da República pelo PP (Progressistas), presidente do partido, e uma das 
 
 > Nota: esta página reúne afirmações feitas por Renan Santos em seus vídeos. Acusações são reprodução das declarações dele.
 
+## Descaso com Renan Santos (junho de 2026)
+
+Em **9 de junho de 2026**, Renan revela que Ciro Nogueira o chamou de **"um candidato apenas para lacrar"** — uma declaração que Renan usa para ilustrar como a política tradicional o trata com desdém. A fala é citada no contexto em que Renan anuncia regras públicas para coalizões, indicando que, apesar do descaso inicial, logo os políticos terão que lidar com seu crescimento nas pesquisas.
+
+Ver [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]].
+
 ## Perfil completo: família, Pedro II e trajetória nacional (maio de 2026)
 
 Em **12 de maio de 2026**, Renan traça o perfil mais detalhado de Nogueira, descrevendo-o como "o homem mais poderoso do Brasil" e a síntese do sistema político que mantém o país pobre.

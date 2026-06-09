@@ -8,6 +8,12 @@ date: 2026-04-11
 
 Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete **estado de defesa** para enfrentar militarmente o crime organizado, combinando a medida com uma legislação que chama de **"direito penal do inimigo"**.
 
+## Condição para coalizões políticas (junho de 2026)
+
+Em **9 de junho de 2026**, Renan inclui o direito penal do inimigo como uma das condições não negociáveis para qualquer partido interessado em formar coalizão com o Partido Missão. A proposta de "acabar com as facções no Brasil" é listada entre os compromissos que os partidos aliados precisariam endossar por escrito.
+
+Ver [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]].
+
 ## Estado de defesa em Minas Gerais e transferência de faccionados (junho de 2026)
 
 Em **7 de junho de 2026**, Renan detalha a aplicação de sua proposta de estado de defesa especificamente para Minas Gerais, que descreve como estando em processo de "se tornar o novo Rio de Janeiro" devido ao avanço do PCC, Comando Vermelho e TCP em três frentes simultâneas.

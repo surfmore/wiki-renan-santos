@@ -22,6 +22,22 @@ fontes:
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro.
 
+## Regras públicas para coalizões (junho de 2026)
+
+Em **9 de junho de 2026**, respondendo a rumores de que o Missão estaria negociando aliança com o PSDB, Renan nega qualquer conversa com partidos — diz não ter tido reunião com partido algum até aquele momento. Aproveita para criticar o modelo de **presidencialismo de coalizão**, que descreve como um sistema em que partidos aderem ao governo não por programa, mas por cargos e ministérios — citando mensalão, petrolão e orçamento secreto como consequências.
+
+Reconhecendo que precisará de coalizão para aprovar seus projetos "muito ambiciosos", Renan estabelece **regras públicas** para qualquer partido interessado em conversar com o Missão:
+
+1. **Compromisso com a agenda do partido:** redução da maioridade penal, combate a privilégios, reformas econômicas, direito penal do inimigo (fim das facções), fusão de municípios e lei de responsabilidade gerencial
+2. **Interlocutores honestos e com ficha limpa**
+3. **Compromisso por escrito**, com resolução pública informando ao eleitor o motivo da adesão
+
+> "Assim, todo mundo sabe o motivo deles aderirem ao governo e o eleitor não é enganado."
+
+Renan também menciona que a política tradicional o tratou com descaso: **Ciro Nogueira** o chamou de "candidato apenas para lacrar", **Arthur Lira** disse que ele não tem conhecimento de Alagoas, e **Aécio Neves** deu entrevista na Band opinando sobre ele.
+
+Ver [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]].
+
 ## Crescimento nas pesquisas (junho de 2026)
 
 Em **1º de junho de 2026**, Renan anuncia que a pesquisa Real Time Big Data o colocou em **terceiro lugar** com **6%** das intenções de voto — o dobro dos 3% registrados anteriormente. Ele cita o Atlas como seu instituto de referência, que previu corretamente a ascensão do candidato colombiano Spriela (direita, partido pequeno, discurso anticrime). Renan traça um paralelo: assim como o Atlas captou Spriela na Colômbia, começa a captar seu crescimento no Brasil.

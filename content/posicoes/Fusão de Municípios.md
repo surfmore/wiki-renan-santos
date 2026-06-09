@@ -8,6 +8,12 @@ date: 2026-04-11
 
 Renan Santos defende a **fusão de municípios pequenos em "macromunicípios"** como forma de tornar cidades do interior brasileiro viáveis administrativamente.
 
+## Condição para coalizões políticas (junho de 2026)
+
+Em **9 de junho de 2026**, Renan inclui a fusão de municípios como uma das condições não negociáveis para qualquer partido interessado em formar coalizão com o Partido Missão. A proposta é apresentada como parte da agenda que os partidos aliados precisariam endossar por escrito, com resolução pública.
+
+Ver [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]].
+
 ## "Roubo federativo": o pacto que só beneficia políticos (abril de 2026)
 
 Em **23 de abril de 2026**, Renan formula sua crítica mais direta ao pacto federativo: chama-o de **"roubo federativo"** — um sistema que retira dinheiro de quem trabalha nas regiões produtivas e o entrega a políticos corruptos do Norte e Nordeste, sem retorno em qualidade de vida para a população.
