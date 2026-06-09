@@ -25,7 +25,7 @@ Renan argumenta que há "uma política de estado para tornar os nossos meninos c
 
 ## Crítica à abordagem feminista
 
-Renan critica o que chama de hipocrisia feminista: ativistas querem censurar cursos sobre masculinidade saudável enquanto, segundo ele, são coniventes com a cultura do tráfico que objetifica mulheres. Cita a feminista [[pessoas/Camille Paglia]] como alguém que admite que feministas querem "destruir o potencial criador e construtivo do homem."
+Renan critica o que chama de hipocrisia feminista: ativistas querem censurar cursos sobre masculinidade saudável enquanto, segundo ele, são coniventes com a cultura do tráfico que objetifica mulheres. Cita a feminista Camille Paglia como alguém que admite que feministas querem "destruir o potencial criador e construtivo do homem."
 
 Nas palavras de Renan: "Elas não querem nenhuma política pública, tão pouco privada, que olhe pros rapazes como parte da solução. Feministas querem tratar homens como um problema, querem castrá-los, querem destruir o potencial criador e construtivo do homem."
 

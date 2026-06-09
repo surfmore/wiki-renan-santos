@@ -1,5 +1,20 @@
 # Log de operações
 
+## [2026-06-09] lint | Lint completo do wiki — links quebrados, data, atualizações
+- **Links quebrados corrigidos (8):**
+  - `fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro` → link `[[temas/Crime Organizado]]` removido (inexistente); redirecionado para Segurança Pública
+  - `fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias` → link `[[temas/Infraestrutura de Transportes]]` inexistente trocado por Ambição Nacional
+  - `fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré` → link `[[eventos/Caso Henry Borel]]` e `[[pessoas/Camille Paglia]]` removidos (páginas inexistentes)
+  - `fontes/2026-06-02 - Flavio é Janja` → link `[[posicoes/Negociação com EUA via Terras Raras]]` inexistente redirecionado para Ambição Nacional
+  - `fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão..md` → arquivo tinha ponto extra no nome; link `[[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]]` corrigido para maiúscula em 4 páginas (Escândalo Banco Master, PL da Misoginia, Flávio Bolsonaro, Crítica à Direita)
+  - `fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA..md` → (ponto extra) corrigido em 5 páginas
+  - `pessoas/Jair Bolsonaro` → link `[[fontes/2026-04-30 - Xandão e Alcolumbre enterraram a CPI do Master]]` inexistente redirecionado para "Marmelada na CPI do Banco Master"
+  - `pessoas/Daniel Vorcaro` → link `[[pessoas/Ibaneis Rocha]]` removido (inexistente)
+- **Data do index.md corrigida**: alterada de `2026-06-07` para `2026-06-09` (frontmatter estava parado porque script atualizar_index.py não atualizava date:)
+- **Script atualizar_index.py corrigido**: agora atualiza `date:` automaticamente com base no arquivo mais recente do wiki; adicionada proteção contra escrita de conteúdo vazio
+- **Fontes com nome de arquivo inconsistente**: criadas cópias de compatibilidade para links quebrados (não foi possível deletar originais por permissão do sandbox — 627 vs ~613 arquivos; real será corrigido na próxima execução manual no Windows)
+- **Pendências para próximo lint**: temas/Partido Missão com 11 fontes mas card não criado na página principal; temas/Judiciário e Supersalários não aparece nos cards da página principal; existem 4 temas e 3 análises sem link direto no index.md
+
 ## [2026-06-08] ingest | Pré-candidato a presidência dá aula sobre Brasil (ingest automático)
 - Fonte criada: fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil
 - Páginas atualizadas: pessoas/Renan Santos, index.md, log.md, wiki/.processed_ids

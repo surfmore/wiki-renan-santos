@@ -237,7 +237,7 @@ Ver [[fontes/2026-04-10 - Direita, centro e esquerda no Banco Master]].
 
 **Ciro Nogueira** (PP), presidente do partido, é preso em operação de desdobramento do escândalo. Renan descreve Nogueira como "talvez o maior lobista do Banco Master no Congresso": apresentou emenda no Senado que aumentaria o valor coberto pelo FGC (permitindo que a fraude crescesse), coordenava a atuação política do banco no Congresso, e servia como elo entre Vorcaro e a política desde o período em que foi ministro da Casa Civil de Bolsonaro.
 
-Ver [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]] e [[pessoas/Ciro Nogueira]].
+Ver [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]] e [[pessoas/Ciro Nogueira]].
 
 ---
 
@@ -316,7 +316,7 @@ As fontes abaixo foram consultadas para a produção desta análise, do mais rec
 - [[fontes/2026-05-21 - Flávio Bolsonaro precisa de ajuda!]]
 - [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]]
 - [[fontes/2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora]]
-- [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]]
+- [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]]
 - [[fontes/2026-05-06 - O ÚNICO que fala de todos os lados do Banco Master]]
 - [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]]
 - [[fontes/2026-04-10 - Direita, centro e esquerda no Banco Master]]

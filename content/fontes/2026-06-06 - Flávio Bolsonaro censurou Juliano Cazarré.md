@@ -34,11 +34,11 @@ Renan apresenta estatísticas para defender a necessidade de políticas pública
 
 - **[[pessoas/Juliano Cazarré]]** — Ator da Globo de direita, pró-família, alvo de censura de feministas por seu curso de masculinidade. Renan oferece solidariedade.
 - **[[pessoas/Flávio Bolsonaro]]** — Criticado por votar a favor do PL da Misoginia e censurar Cazarré
-- **[[pessoas/Camille Paglia]]** — Feminista citada por Renan que reconhece que feministas querem "destruir o potencial criador e construtivo do homem"
+- **Camille Paglia** — Feminista citada por Renan que reconhece que feministas querem "destruir o potencial criador e construtivo do homem"
 
 ## Contexto citado
 
-Renan menciona o caso do menino [[eventos/Caso Henry Borel]] — criança de 4 anos espancada até a morte pelo padrasto com conivência da mãe; uma juíza classificada como feminista manteve a mãe em liberdade. O caso serve como exemplo do que Renan chama de "feminismo no judiciário".
+Renan menciona o caso do menino Henry Borel — criança de 4 anos espancada até a morte pelo padrasto com conivência da mãe; uma juíza classificada como feminista manteve a mãe em liberdade. O caso serve como exemplo do que Renan chama de "feminismo no judiciário".
 
 ## URL
 

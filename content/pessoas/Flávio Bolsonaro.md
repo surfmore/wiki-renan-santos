@@ -220,7 +220,7 @@ Ver [[fontes/2026-01-20 - POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA N�
 
 ## Ciro Nogueira como vice cogitado (maio de 2026)
 
-Renan aponta que, em entrevista, Flávio Bolsonaro mencionou **Ciro Nogueira** como possível vice em sua chapa presidencial. Nogueira foi preso em maio de 2026 na **operação compliance zero** por seu papel como lobista do Banco Master. Para Renan, a escolha cogitada reforça o padrão de Flávio: alinha-se com figuras que ele mesmo diz combater. Ver [[pessoas/Ciro Nogueira]] e [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]].
+Renan aponta que, em entrevista, Flávio Bolsonaro mencionou **Ciro Nogueira** como possível vice em sua chapa presidencial. Nogueira foi preso em maio de 2026 na **operação compliance zero** por seu papel como lobista do Banco Master. Para Renan, a escolha cogitada reforça o padrão de Flávio: alinha-se com figuras que ele mesmo diz combater. Ver [[pessoas/Ciro Nogueira]] e [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]].
 
 ## Apoio a Márcio Canela em Belford Roxo (maio de 2026)
 
@@ -244,7 +244,7 @@ Renan lista o padrão de traições: fim da CPI da Lava Toga (para proteger a do
 
 O Partido Missão anunciou que vai judicializar para forçar a CPI do Master na pauta. Renan desafiou Flávio a "pegar a sua bancada e mandar colocar na pauta" — prevendo que não o fará.
 
-Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]].
+Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]].
 
 ## "Bolso Master": PT usa escândalo contra Flávio (abril de 2026)
 
@@ -323,7 +323,7 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 - [[fontes/2026-04-29 - URGENTE! Lula quer fazer de tudo para eleger Bessias no STF]]
 - [[fontes/2026-04-29 - Por que Flavio Bolsonaro quer esconder o plano dele]]
 - [[fontes/2026-05-03 - Belford Roxo é pior que o Maranhão]]
-- [[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]]
+- [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]]
 - [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]]
 - [[fontes/2026-04-30 - Flávio Bolsonaro é a única salvação contra Lula]]
 - [[fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA]]
@@ -331,16 +331,4 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 - [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
 - [[fontes/2026-04-01 - Um pedido de desculpas]]
 - [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
-- [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]
-- [[fontes/2026-04-05 - O Brasil está empobrecendo]]
-- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]]
-- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]]
-- [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]]
-- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]]
-- [[fontes/2025-12-13 - Legal seu projeto, Renan]]
-- [[fontes/2025-12-14 - Sobre a treta Tarcísio x Flávio Bolsonaro]]
-- [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS]]
-- [[fontes/2026-01-12 - RENAN RESPONDE SE APOIARIA O FLÁVIO B
+- [[fontes/2026-03-31 - O PT começou a atacar o Flávio

@@ -223,7 +223,7 @@ A composição eleitoral de Renan, segundo pesquisa da "Nexos" citada em **1º d
 
 > "Eu vou pro Nordeste e roubo votos do PT por lá. Isso é uma bomba atômica."
 
-Ver [[fontes/2026-04-30 - Flávio Bolsonaro é a única salvação contra Lula]] e [[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]].
+Ver [[fontes/2026-04-30 - Flávio Bolsonaro é a única salvação contra Lula]] e [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]].
 
 ## "Teatro das tesouras": acordo para suprimir CPI do Master (abril/maio de 2026)
 
@@ -245,7 +245,7 @@ Para Renan, o caso sintetiza a tese central: PT e bolsonarismo "fazem negócio" 
 
 > "As ideologias são apenas um véu que cobre a verdadeira política brasileira, que é a política do centrão da corrupção."
 
-Ver [[pessoas/Ciro Nogueira]] e [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]].
+Ver [[pessoas/Ciro Nogueira]] e [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]].
 
 ## O caso Flávio Bolsonaro
 
@@ -519,33 +519,4 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 - [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]]
 - [[fontes/2026-02-04 - PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASILIA DO NIKOLAS]]
 - [[fontes/2026-02-04 - VALE GÁS É PROGRAMA DE COMPRA DE VOTO DO LULA]]
-- [[fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COAF]]
-- [[fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI]]
-- [[fontes/2026-02-18 - VOCÊ NÃO ODEIA ESSES POLÍTICOS O SUFICIENTE]]
-- [[fontes/2026-03-24 - URGENTE - Flávio Bolsonaro e toda a direita vota a favor de projeto FEMINISTA]]
-- [[fontes/2026-03-25 - Você pode ser PRESO pela lei da misoginia que passou ontem]]
-- [[fontes/2026-03-25 - ESTOU EM TERCEIRO NAS PESQUISAS]]
-- [[fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO]]
-- [[fontes/2026-03-24 - O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum]]
-- [[fontes/2026-03-24 - Eu tô com muita inveja de El Salvador]]
-- [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]]
-- [[fontes/2026-04-05 - O Brasil está empobrecendo]]
-- [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
-- [[fontes/2026-04-01 - Um pedido de desculpas]]
-- [[fontes/2026-03-31 - Caiado e Lula são VELHOS]]
-- [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]
-- [[fontes/2026-03-28 - Eu vim pro Rio de Janeiro e passei por 4 países diferentes]]
-- [[fontes/2026-03-28 - CNN LANÇA O CANDIDATO FANTASMA]]
-- [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]]
-- [[fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO]]
-- [[fontes/2026-03-16 - Veja a opinião desses governadores sobre redução da maioridade penal]]
-- [[fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF]]
-- [[fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA]]
-- [[fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA]]
-- [[fontes/2026-03-02 - ENVIE ESSE VÍDEO PARA SEU AMIGO BOLSONARISTA]]
-- [[fontes/2026-03-02 - PARABÉNS, FLÁVIO BOLSONARO]]
-- [[fontes/2026-02-10 - VOCÊ ESTÁ SENDO FEITO DE OTÁRIO!]]
-- [[fontes/2026-02-09 - MINHA RESPOSTA A MATÉRIA DA FOLHA!]]
-- [[fontes/2026-01-30 - MINHA OPINIÃO SOBRE O CAIADO NO PSD]]
-- [[fontes/2026-02-09 - ELES PERDERAM A CHANCE DE OURO]]
+- [[fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COA

@@ -36,7 +36,7 @@ Encerra com uma reflexão sobre o Piauí — estado de origem de Nogueira, um do
 
 ## Fontes
 
-- [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]] — este vídeo
+- [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]] — este vídeo
 
 ---
 

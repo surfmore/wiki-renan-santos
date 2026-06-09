@@ -35,7 +35,7 @@ Conclui: "Não é uma discussão sobre interrupções ou uma pretensa misoginia 
 
 ### Nota sobre o Flávio Bolsonaro
 
-Em outros vídeos do mesmo período (ver [[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]]), Renan menciona que Flávio Bolsonaro votou a favor desse projeto — considerando-o mais um episódio do padrão de votos alinhados à esquerda.
+Em outros vídeos do mesmo período (ver [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]]), Renan menciona que Flávio Bolsonaro votou a favor desse projeto — considerando-o mais um episódio do padrão de votos alinhados à esquerda.
 
 ## Temas relacionados
 

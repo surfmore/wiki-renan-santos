@@ -98,7 +98,7 @@ Ver [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIO
 
 Renan formula a tese de que o acordão que enterrou a CPI do Banco Master envolveu negociação sobre a dosimetria da pena de Jair Bolsonaro — com **Davi Alcolumbre** e **Alexandre de Moraes** como articuladores. Flávio teria "rabo preso" com o STF: sua carreira política existe porque **Toffoli** derrubou as provas do COAF na rachadinha e **Gilmar Mendes** criou manobra que travou o processo no foro privilegiado de Brasília.
 
-Ver [[fontes/2026-04-30 - Xandão e Alcolumbre enterraram a CPI do Master]] e [[pessoas/Davi Alcolumbre]].
+Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[pessoas/Davi Alcolumbre]].
 
 ## "Covarde, mas não merece crueldade"
 

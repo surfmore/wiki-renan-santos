@@ -23,7 +23,7 @@ O vídeo é curto e serve como comentário de conjuntura, sem apresentação de 
 
 ## Fontes
 
-- [[fontes/2026-05-08 - Lula ficou COMPLETAMENTE MALUCO.]] — este vídeo
+- [[fontes/2026-05-08 - Lula ficou COMPLETAMENTE MALUCO]] — este vídeo
 
 ---
 

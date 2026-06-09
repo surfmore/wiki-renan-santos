@@ -41,5 +41,5 @@ Por fim, Renan anuncia sua posição como futuro presidente: usaria as reservas 
 
 ## Posições defendidas
 
-- [[posicoes/Negociação com EUA via Terras Raras]]
+- [[temas/Ambição Nacional e Soberania Tecnológica]] — uso de terras raras como alavanca de negociação com os EUA
 - [[temas/Crítica à Direita Tradicional]]

@@ -42,7 +42,7 @@ Em 1º de maio de 2026, Renan formulou a tese mais direta: Flávio Bolsonaro, Al
 
 Em 22 de maio de 2026, confirmando o esquema: "O soterramento da CPI do Banco Master foi articulado por Hugo Mota (PB), Alcolumbre (AP) e Flávio Bolsonaro — representando o centrão bipartidário."
 
-Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão.]].
+Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]].
 
 ### O "prefeito de Turilândia que preside o Senado" (maio de 2026)
 
@@ -83,7 +83,7 @@ Ver [[fontes/2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE]] e 
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — centrão bipartidário soterrou a CPI
 - [[fontes/2026-05-21 - O centrão é o verdadeiro problema do Brasil!]] — "homem mais poderoso do Brasil" é senador do Amapá
 - [[fontes/2026-05-15 - Turilândia, no Maranhão, é um caso a ser estudado]] — Alcolumbre como "prefeito de Turilândia que preside o Senado"
-- [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão.]] — "accordão" Flávio-Moraes-Alcolumbre
+- [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]] — "accordão" Flávio-Moraes-Alcolumbre
 - [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] — articulação da derrubada da CPI; Oto Lobo; Amapá no Master
 - [[fontes/2026-04-29 - BESSIAS REJEITADO!]] — racha com Lula; derrota histórica
 - [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]] — análise: jogo aberto para 2026

@@ -62,7 +62,7 @@ Renan encerra pedindo que os mineiros sigam **Ben Mendes**, pré-candidato do Pa
 ## Principais temas abordados
 
 - [[temas/Segurança Pública]] — diagnóstico da expansão do crime organizado em MG; proposta de estado de defesa em favelas mineiras
-- [[temas/Crime Organizado]] — PCC, Comando Vermelho e TCP atuando em MG
+- Crime Organizado (PCC, Comando Vermelho e TCP) — coberto em [[temas/Segurança Pública]]
 - [[temas/Desigualdade Regional e Migração Interna]] — contraste entre fronteiras estaduais e fluxo do crime
 
 ## Posições defendidas

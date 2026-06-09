@@ -38,7 +38,7 @@ Renan argumenta que o eixo Rio–São José dos Campos–São Paulo–Campinas�
 
 ## Principais temas
 
-- [[temas/Infraestrutura de Transportes|Infraestrutura de Transportes]]
+- [[temas/Ambição Nacional e Soberania Tecnológica]] — plano ferroviário como motor de desenvolvimento
 - [[temas/Desigualdade Regional e Migração Interna|Desigualdade Regional]]
 
 ## Pessoas mencionadas

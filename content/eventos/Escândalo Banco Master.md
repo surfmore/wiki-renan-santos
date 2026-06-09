@@ -372,7 +372,7 @@ Em **1º de maio de 2026**, Renan formula a tese mais direta: Flávio Bolsonaro,
 
 O Partido Missão anunciou que vai judicializar para obrigar a pauta da CPI.
 
-Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]].
+Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]].
 
 ## Tentativa de aprovar Messias no STF como operação de proteção (abril de 2026)
 
@@ -390,7 +390,7 @@ Renan descreve Nogueira como "talvez o maior lobista do Banco Master no Congress
 - Coordenava a **atuação política do banco** no Congresso.
 - Servia como **elo entre Vorcaro e a política** — iniciou essa relação quando era ministro da Casa Civil de Bolsonaro.
 
-O caso reforça a tese de Renan de que o escândalo envolve tanto PT quanto bolsonarismo: Nogueira era simultaneamente aliado de Lula, ministro de Bolsonaro e operador de Vorcaro. Ver [[pessoas/Ciro Nogueira]] e [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]].
+O caso reforça a tese de Renan de que o escândalo envolve tanto PT quanto bolsonarismo: Nogueira era simultaneamente aliado de Lula, ministro de Bolsonaro e operador de Vorcaro. Ver [[pessoas/Ciro Nogueira]] e [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]].
 
 ## Pessoas relacionadas
 

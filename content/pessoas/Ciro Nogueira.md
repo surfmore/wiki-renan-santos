@@ -57,4 +57,4 @@ Renan usa Nogueira para ilustrar sua tese de que PT e bolsonarismo "fazem negóc
 ## Fontes
 
 - [[fontes/2026-05-12 - Você sabe quem é o homem mais poderoso do Brasil]]
-- [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]]
+- [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]]

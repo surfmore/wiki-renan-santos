@@ -108,7 +108,7 @@ Renan descreveu o celular de Zettel como uma "bomba": "tem muitas informações 
 - [[pessoas/Alexandre de Moraes]] — esposa com contrato com o banco; liminar favorável
 - [[pessoas/Dias Toffoli]] — viagem de jatinho com advogado do banco; liminar favorável
 - [[pessoas/Tarcísio de Freitas]] — churrasco com Vorcaro; doação de campanha de Zettel
-- [[pessoas/Ibaneis Rocha]] — BRB tentou comprar o banco
+- Ibaneis Rocha — BRB tentou comprar o banco
 
 ## Fontes
 

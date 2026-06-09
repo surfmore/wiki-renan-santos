@@ -17,7 +17,7 @@ O perfil político de Ciro segundo Renan: esteve na base de todos os governos �
 
 O auge do poder: durante o governo Bolsonaro, a partir de 2021, Ciro acumulou o cargo de ministro da Casa Civil com poderes concentrados por decreto. Nesse período, construiu sua parceria com **Daniel Vorcaro** (Banco Master), ajudando a construir a rede de relacionamentos do banco com o STF, o governo Bolsonaro e depois o governo Lula. Também tentou passar emenda aumentando o FGC para R$ 1 milhão por usuário — a chamada "emenda Vorcaro".
 
-Ciro era cotado como vice na chapa de Flávio Bolsonaro quando foi preso na **Operação Compliance Zero** (mencionada em [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA.]]).
+Ciro era cotado como vice na chapa de Flávio Bolsonaro quando foi preso na **Operação Compliance Zero** (mencionada em [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]]).
 
 Renan encerra: *"Esse homem quer que o Brasil se torne um gigantesco Piauí."* E conclui que o principal inimigo do Brasil não é Lula nem Bolsonaro — é o sistema político representado por figuras como Ciro Nogueira.
 
