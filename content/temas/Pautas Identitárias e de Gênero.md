@@ -5,8 +5,9 @@ tags:
   - gênero
   - identidade
   - esquerda
-date: 2026-06-05
+date: 2026-06-09
 fontes:
+  - "2026-06-09 - Cotas num hospital privado"
   - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
   - "2026-06-02 - Atenção, Maranhão!"
@@ -17,6 +18,18 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Cotas em hospital privado: MP exige 55% de cotistas no Albert Einstein (junho de 2026)
+
+Em **9 de junho de 2026**, Renan critica a decisão do Ministério Público que teria "fechado" o Hospital Albert Einstein ao exigir, via Termo de Ajuste de Conduta (TAC), que 55% de seu quadro de funcionários seja composto por cotistas. O hospital — considerado o melhor da América Latina, onde até o presidente Lula se trata e que mantém convênios públicos com hospitais de subúrbio — teria sido forçado a interromper o atendimento.
+
+Renan sustenta que a política de cotas não funciona, citando um estudo da Unesp e outro americano que mostram que alunos cotistas têm desempenho acadêmico inferior, reprovam mais em matérias difíceis e migram de cursos de exatas para humanas. Ele aponta que o próprio PT encerrou sua política interna de cotas sob o argumento de que precisava de mais eficácia na gestão.
+
+> "Além de uma ingerência arbitrária na gestão privada, a gente pode ter uma certeza: a qualidade do serviço vai piorar. Perde o consumidor, perde o hospital, perdem as universidades, perdemos todos, mas ganha o promotor lacrador que vai achar que resolveu todos os problemas do mundo com uma canetada."
+
+Como alternativa, Renan propõe selecionar os melhores alunos de origens humildes com base no desempenho no ensino fundamental e oferecer bolsas de estudo para que concorram em igualdade com alunos de classe média. Reitera a promessa de acabar com todos os tipos de cota em seu governo.
+
+Ver [[fontes/2026-06-09 - Cotas num hospital privado]].
 
 ## Juliano Cazarré, censura e o PL da Misoginia (junho de 2026)
 
@@ -271,6 +284,7 @@ Ver [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] e [[font
 
 ## Fontes
 
+- [[fontes/2026-06-09 - Cotas num hospital privado]] — MP exige 55% de cotistas no Hospital Albert Einstein; Renan critica e propõe alternativa meritocrática
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]]
 - [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]]
 - [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]]

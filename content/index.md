@@ -98,7 +98,7 @@ date: 2026-06-09
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">615</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">616</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -175,6 +175,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-09 - Cotas num hospital privado]] — Renan critica MP por exigir 55% de cotistas no Hospital Albert Einstein; propõe alternativa meritocrática com bolsas por desempenho no ensino fundamental.
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Renan responde a Helane Cataned (Globo News) que teme seu crescimento como outsider; defende comunicação direta; lista propostas do Missão.
 - [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]] — Renan nega rumores de aliança com PSDB; estabelece regras públicas para coalizões com base na agenda do Missão; denuncia descaso de Ciro Nogueira, Arthur Lira e Aécio Neves.
 - [[fontes/2026-06-09 - Eu achei os números da economia do Lula]] — Renan apresenta dados: dólar, juros futuros, bolsa em queda recorde de 8 semanas, inflação, empresas em recuperação judicial; critica Flávio e Nikolas por apoiarem medidas populistas de Lula.

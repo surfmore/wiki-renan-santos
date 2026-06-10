@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-09] ingest | Cotas num hospital privado
+- Fonte criada: fontes/2026-06-09 - Cotas num hospital privado
+- Páginas atualizadas: temas/Pautas Identitárias e de Gênero, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica a exigência do Ministério Público de 55% de cotistas no Hospital Albert Einstein; defende alternativa meritocrática com bolsas; cita estudos da Unesp e dos EUA contra cotas.
+
 ## [2026-06-09] ingest | Jornalista da Globo News está aterrorizada com meu crescimento
 - Fonte criada: fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.
 - Páginas atualizadas: temas/Mídia e Imprensa, temas/Partido Missão, index.md, log.md, wiki/.processed_ids
