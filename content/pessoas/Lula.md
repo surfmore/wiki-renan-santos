@@ -32,6 +32,16 @@ fontes:
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
 
+## Sigilo na autorização de bets: Lula acusado de proteger empresas de aposta (junho de 2026)
+
+Em **10 de junho de 2026**, Renan denuncia que Lula colocou em sigilo o processo que autoriza empresas de apostas online (bets) a funcionar no Brasil. Renan aponta contradição: Lula publicamente se diz contra as bets, mas na prática protege sua entrada no país. As bets têm sede na Rússia e China — países que Renan descreve como aliados de Lula — e são usadas para lavagem de dinheiro de facções como CV e PCC.
+
+A **1x Bet**, banida em vários países, foi autorizada no Brasil. Renan questiona: "Será que tem grana nessa história?" e aponta envolvimento de PT e Centrão.
+
+> "O Lula, que fica fingindo por aí que é contra as Bets, resolveu proteger a entrada das bets que tomam dinheiro dos brasileiros e mandam esse dinheiro para paraísos fiscais."
+
+Ver [[fontes/2026-06-10 - O tigrinho vai me perseguir]].
+
 ## "O Brasil quebrou": dados macroeconômicos do governo Lula (junho de 2026)
 
 Em **9 de junho de 2026**, Renan apresenta indicadores macroeconômicos para sustentar a tese de que "o Lula quebrou o Brasil":

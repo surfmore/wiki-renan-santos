@@ -98,9 +98,9 @@ date: 2026-06-11
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">616</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">620</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
-<a class="wiki-stat" href="/posicoes"><span class="num">26</span><span class="label">Posições</span></a>
+<a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
@@ -112,12 +112,12 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
 <a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
-<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">83 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa e desfavelização como solução estrutural.</p></a>
+<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">84 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">34 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
 <a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">32 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão. Crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
-<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica: ferrovias, robótica, startups, terras raras, defesa aeroespacial.</p></a>
+<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">21 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica: ferrovias, robótica, drones, startups, terras raras, defesa aeroespacial.</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
@@ -139,8 +139,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Expulsão-de-ONGs-Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Cortar financiamento estrangeiro a ONGs que bloqueiam desenvolvimento e pregam guerra entre brasileiros.</p></a>
 <a class="wiki-card" href="/posicoes/Frente-de-Trabalho-para-o-Bolsa-Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒️</span><span class="wiki-card-title">Frente de Trabalho</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Substituir o Bolsa Família por frentes de trabalho remunerado inspiradas no New Deal de Roosevelt.</p></a>
 <a class="wiki-card" href="/posicoes/Reforma-Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Cortar R$ 3,3 trilhões em gastos em 10 anos e reduzir impostos a partir do 2º ano.</p></a>
+<a class="wiki-card" href="/posicoes/Proibição-de-Bets-e-Cassinos-Online"><div class="wiki-card-header"><span class="wiki-card-icon">🎰</span><span class="wiki-card-title">Proibição de Bets</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Revogação de autorização de bets, tributação pesada, proibição de remessa ao exterior e combate à lavagem de dinheiro de facções.</p></a>
 <a class="wiki-card" href="/posicoes/Gastrodiplomacia-e-Promoção-Internacional-da-Culinária-Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Política de estado para promover a culinária brasileira no exterior como instrumento de soft power e desenvolvimento econômico.</p></a>
-<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 26 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, caminhoneiros, anticorrupção e mais.</p></a>
+<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 27 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">👤 Pessoas</p>
@@ -175,6 +176,10 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-10 - A pior proposta dessa eleição É MINHA!!!]] — Renan responde à imprensa que chamou sua proposta de presídio gigante no Ceará de "pior das eleições"; defende estado de defesa e enfrentamento ao CV.
+- [[fontes/2026-06-10 - Bem-vinda, Dona Hilda!]] — Depoimento espontâneo de Dona Hilda, avó da esposa de membro da equipe, elogiando Renan.
+- [[fontes/2026-06-10 - Fizeram essa macumba num canavial]] — Renan propõe política industrial para fabricar drones agrícolas no Brasil com incentivo à produção de baterias e certificação ANAC acelerada.
+- [[fontes/2026-06-10 - O tigrinho vai me perseguir]] — Renan critica Lula por colocar em sigilo processo que autoriza bets no Brasil; promete proibir cassinos online e prender envolvidos.
 - [[fontes/2026-06-09 - Cotas num hospital privado]] — Renan critica MP por exigir 55% de cotistas no Hospital Albert Einstein; propõe alternativa meritocrática com bolsas por desempenho no ensino fundamental.
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Renan responde a Helane Cataned (Globo News) que teme seu crescimento como outsider; defende comunicação direta; lista propostas do Missão.
 - [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]] — Renan nega rumores de aliança com PSDB; estabelece regras públicas para coalizões com base na agenda do Missão; denuncia descaso de Ciro Nogueira, Arthur Lira e Aécio Neves.

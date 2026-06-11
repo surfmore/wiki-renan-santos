@@ -13,6 +13,14 @@ Senador da República pelo PP (Progressistas), presidente do partido, e uma das 
 
 > Nota: esta página reúne afirmações feitas por Renan Santos em seus vídeos. Acusações são reprodução das declarações dele.
 
+## Jatinho de dono de bet: férias na Europa e Ásia custeadas por bets (junho de 2026)
+
+Em **10 de junho de 2026**, ao denunciar o esquema de proteção do governo Lula às bets, Renan cita Ciro Nogueira como exemplo da conexão entre políticos e o setor de apostas. Nogueira teria passado férias na Europa e na Ásia usando um jato particular de um dono de bet.
+
+Renan usa o caso para ligar Nogueira ao esquema de bets que, segundo ele, envolve PT e Centrão e serve como sistema de lavagem de dinheiro e evasão de divisas.
+
+Ver [[fontes/2026-06-10 - O tigrinho vai me perseguir]].
+
 ## Descaso com Renan Santos (junho de 2026)
 
 Em **9 de junho de 2026**, Renan revela que Ciro Nogueira o chamou de **"um candidato apenas para lacrar"** — uma declaração que Renan usa para ilustrar como a política tradicional o trata com desdém. A fala é citada no contexto em que Renan anuncia regras públicas para coalizões, indicando que, apesar do descaso inicial, logo os políticos terão que lidar com seu crescimento nas pesquisas.

@@ -1,5 +1,26 @@
 # Log de operações
 
+## [2026-06-10] ingest | O tigrinho vai me perseguir
+- Fonte criada: fontes/2026-06-10 - O tigrinho vai me perseguir
+- Páginas criadas: posicoes/Proibição de Bets e Cassinos Online
+- Páginas atualizadas: pessoas/Lula, pessoas/Ciro Nogueira, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica Lula por colocar em sigilo autorização de bets; denuncia lavagem de dinheiro para CV e PCC; propõe revogação e prender envolvidos.
+
+## [2026-06-10] ingest | Fizeram essa macumba num canavial
+- Fonte criada: fontes/2026-06-10 - Fizeram essa macumba num canavial
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: Renan propõe política industrial para fabricar drones agrícolas no Brasil; incentivo à produção de baterias e certificação ANAC acelerada.
+
+## [2026-06-10] ingest | Bem-vinda, Dona Hilda!
+- Fonte criada: fontes/2026-06-10 - Bem-vinda, Dona Hilda!
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: Depoimento espontâneo de Dona Hilda elogiando Renan; conteúdo leve de campanha, sem posições políticas.
+
+## [2026-06-10] ingest | A pior proposta dessa eleição É MINHA!!!
+- Fonte criada: fontes/2026-06-10 - A pior proposta dessa eleição É MINHA!!!
+- Páginas atualizadas: temas/Segurança Pública, posicoes/Estado de Defesa e Direito Penal do Inimigo, index.md, log.md, wiki/.processed_ids
+- Nota: Renan responde à imprensa que chamou sua proposta de mega-presídio no Ceará de "pior das eleições"; defende estado de defesa e homenagem a Antônia Ioni.
+
 ## [2026-06-09] ingest | Cotas num hospital privado
 - Fonte criada: fontes/2026-06-09 - Cotas num hospital privado
 - Páginas atualizadas: temas/Pautas Identitárias e de Gênero, index.md, log.md, wiki/.processed_ids

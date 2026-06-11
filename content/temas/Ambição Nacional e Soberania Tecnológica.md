@@ -9,6 +9,23 @@ date: 2026-04-03
 
 Tema recorrente na retórica de Renan Santos: o Brasil teria **tamanho e capacidade** para se posicionar no "grande jogo da engenharia mundial", mas seria sabotado por uma **mentalidade coletiva de autodepreciação**. Sua formulação mais repetida é "nós nos odiamos tanto aqui no Brasil e achamos que somos tão ruins que nem conseguimos sonhar".
 
+## Indústria nacional de drones agrícolas: proposta para competir com a China (junho de 2026)
+
+Em **10 de junho de 2026**, em diálogo com seu editor, Renan aborda a dependência brasileira de drones agrícolas importados da China. Enquanto a frota de drones agrícolas no Brasil saltou de menos de 3.000 (2021) para mais de 35.000 unidades, quase todos são chineses — apesar de o Brasil fabricar o **Aobba**, um dos maiores drones de ataque da América Latina.
+
+Renan identifica os entraves e propõe soluções:
+
+1. **Política de incentivo à produção de baterias** — o Brasil tem lítio e terras raras em abundância, mas não produz baterias em escala. Baterias que serviriam tanto para drones quanto para carros elétricos.
+2. **Incentivo para empresas chinesas instalarem fábricas no Brasil** — vinculado à transferência de tecnologia e formação de parcerias com empresas brasileiras,类似 ao que a BYD fez na Bahia.
+3. **Certificação ANAC mais ágil para fabricantes nacionais** — hoje a homologação favorece quem já tem escala (os chineses). Proposta de trilho de certificação acelerada para protótipos nacionais.
+4. **Marcos regulatórios trabalhistas e fiscais mais ágeis** — para tornar o Brasil competitivo na produção de componentes como motores, baterias e fibra de carbono.
+
+> "Botar o drone para voar aqui no matagal deveria ser muito fácil, mas há uma questão muito simples. Nós poderíamos fabricar os motores, as baterias, os componentes em fibra de carbono, mas hoje nós não o fazemos. E mais, para importar esses componentes da China, a gente paga uma alíquota de 30%. Isso inviabiliza a produção por aqui."
+
+O diagnóstico combina com a tese central de Renan: o Brasil tem capacidade e recursos, mas é travado por tributação elevada (30% de alíquota de importação sobre componentes), burocracia regulatória e falta de política industrial estratégica.
+
+Ver [[fontes/2026-06-10 - Fizeram essa macumba num canavial]].
+
 ## Robótica nacional: a única fábrica de robô do Brasil (junho de 2026)
 
 Em **8 de junho de 2026**, também em Americana (SP), Renan visita a única fábrica de robôs do Brasil, que produz robôs para moendas de cana-de-açúcar. A fábrica é ligada ao agronegócio e representa um caso concreto de inovação tecnológica brasileira de ponta.

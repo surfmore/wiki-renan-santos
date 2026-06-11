@@ -8,6 +8,16 @@ date: 2026-04-11
 
 Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete **estado de defesa** para enfrentar militarmente o crime organizado, combinando a medida com uma legislação que chama de **"direito penal do inimigo"**.
 
+## Mega-presídio no Ceará com nome de heroína do CV (junho de 2026)
+
+Em **10 de junho de 2026**, Renan detalha sua proposta de construir o maior presídio do mundo no estado do Ceará, em homenagem a Antônia Ioni Rodrigues da Silva — cozinheira morta pelo Comando Vermelho por se recusar a envenenar a comida de policiais. O presídio gigante seria acompanhado de estado de defesa no Ceará e, se necessário, afastamento do governador.
+
+> "Vou precisar botar estado de defesa no estado do Ceará. Se necessário, eu vou afastar o governador, caso ele não colabore, e vamos instalar, sim, um presídio gigantesco."
+
+A proposta se alinha ao modelo CECOT de El Salvador que Renan defende replicar no Brasil.
+
+Ver [[fontes/2026-06-10 - A pior proposta dessa eleição É MINHA!!!]].
+
 ## Condição para coalizões políticas (junho de 2026)
 
 Em **9 de junho de 2026**, Renan inclui o direito penal do inimigo como uma das condições não negociáveis para qualquer partido interessado em formar coalizão com o Partido Missão. A proposta de "acabar com as facções no Brasil" é listada entre os compromissos que os partidos aliados precisariam endossar por escrito.

@@ -8,6 +8,18 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Mega-presídio no Ceará: Renan responde à imprensa que chamou proposta de "pior das eleições" (junho de 2026)
+
+Em **10 de junho de 2026**, Renan responde à imprensa que classificou sua proposta de construir o maior presídio do mundo no Ceará como "a pior proposta das eleições de 2026". Ironiza a crítica apontando a contradição do jornal O Povo (CE), que na mesma edição noticiava homicídios e a atuação do Comando Vermelho enquanto condenava a solução — o enfrentamento ao crime.
+
+Renan afirma que o Ceará é o estado que mais vem sendo tomado pelo crime organizado no Brasil, com uma das taxas de homicídio mais altas do país. Diz que pretende dar o nome de **Antônia Ioni Rodrigues da Silva** ao presídio — a cozinheira de escola que se recusou a envenenar a comida dos policiais a mando do CV e foi morta por isso.
+
+Anuncia que, se necessário, vai decretar **estado de defesa** no Ceará e afastar o governador caso ele não colabore. Menciona que Hugo Leonardo, pré-candidato da Missão ao governo cearense, teve farda e arma retiradas e está sob ameaça por denunciar que a polícia no estado não consegue trabalhar.
+
+> "A gente no Brasil fica vivendo aquela bobeira da dicotomia entre mais escolas ou mais presídios. Pois bem, eu vou fazer mais presídios do que escolas, até porque o que nós precisamos é reformar nossas escolas e prender bandido como se não houvesse amanhã."
+
+Ver [[fontes/2026-06-10 - A pior proposta dessa eleição É MINHA!!!]].
+
 ## Minas Gerais como novo Rio de Janeiro: avanço do crime organizado em três frentes (junho de 2026)
 
 Em **7 de junho de 2026**, Renan alerta que Minas Gerais está se tornando o novo Rio de Janeiro em violência urbana. Apresenta dados: desde 2018, as mortes violentas em MG **aumentaram 14%**, enquanto a média nacional **caiu 8%**. Atribui o fenômeno à localização geográfica do estado, que faz fronteira com São Paulo (PCC), Rio de Janeiro (Comando Vermelho) e Bahia (ambas as facções).
