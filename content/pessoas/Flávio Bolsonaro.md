@@ -11,6 +11,12 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Pesquisa Quest: Lula abre distância e Banco Master corrói confiança (junho de 2026)
+
+Em **11 de junho de 2026**, Renan comenta a pesquisa Quest: Lula abriu distância de Flávio, que não foi bem no levantamento. O [[eventos/Escândalo Banco Master]] impactou a confiança que o eleitor tem em Flávio. Renan projeta que, como tem o maior desconhecimento entre os candidatos, ao se tornar mais conhecido vai reduzir a distância para Flávio e ir ao segundo turno.
+
+Ver [[fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!]].
+
 ## Nikolas abandona e pesquisa mostra Flávio como mais rejeitado (junho de 2026)
 
 Em **8 de junho de 2026**, Renan comenta os rumores de que Nikolas Ferreira estaria abandonando a campanha de Flávio. Cita pesquisa RealTime Big Data: 48% dos brasileiros buscam alternativa a Lula e Flávio — e 26% desses preferem Renan. Flávio é descrito como o candidato mais rejeitado, "mais até que o Lula", enquanto Renan seria o menos conhecido e menos rejeitado, com maior potencial de crescimento.

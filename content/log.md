@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-11] ingest | Eu disparei contra o Lula no segundo turno!
+- Fonte criada: fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!
+- Páginas atualizadas: pessoas/Lula, pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: Renan anuncia crescimento na pesquisa Quest contra Lula no segundo turno; Flávio perde terreno com escândalos do Banco Master; projeta ir ao segundo turno.
+
 ## [2026-06-10] ingest | O tigrinho vai me perseguir
 - Fonte criada: fontes/2026-06-10 - O tigrinho vai me perseguir
 - Páginas criadas: posicoes/Proibição de Bets e Cassinos Online

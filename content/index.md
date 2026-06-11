@@ -98,7 +98,7 @@ date: 2026-06-11
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">620</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">621</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -176,6 +176,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!]] — Renan anuncia crescimento contra Lula no segundo turno pela pesquisa Quest; Flávio perde terreno; Banco Master impacta confiança.
 - [[fontes/2026-06-10 - A pior proposta dessa eleição É MINHA!!!]] — Renan responde à imprensa que chamou sua proposta de presídio gigante no Ceará de "pior das eleições"; defende estado de defesa e enfrentamento ao CV.
 - [[fontes/2026-06-10 - Bem-vinda, Dona Hilda!]] — Depoimento espontâneo de Dona Hilda, avó da esposa de membro da equipe, elogiando Renan.
 - [[fontes/2026-06-10 - Fizeram essa macumba num canavial]] — Renan propõe política industrial para fabricar drones agrícolas no Brasil com incentivo à produção de baterias e certificação ANAC acelerada.

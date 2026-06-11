@@ -32,6 +32,12 @@ fontes:
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
 
+## "Disparo" contra Lula no segundo turno — pesquisa Quest (junho de 2026)
+
+Em **11 de junho de 2026**, Renan anuncia que foi o candidato que mais cresceu contra Lula no cenário de segundo turno da pesquisa Quest. Embora apareça em terceiro lugar entre todos os candidatos no primeiro turno, no segundo turno contra Lula ele teve o maior crescimento. Renan argumenta que, somando os votos "não sei" (que interpreta como rejeição a Lula) com suas intenções, ele vai buscar o presidente. As chances de Lula vencer no primeiro turno, segundo Renan, estão diminuindo devido ao impacto da política econômica no bolso dos eleitores.
+
+Ver [[fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!]].
+
 ## Sigilo na autorização de bets: Lula acusado de proteger empresas de aposta (junho de 2026)
 
 Em **10 de junho de 2026**, Renan denuncia que Lula colocou em sigilo o processo que autoriza empresas de apostas online (bets) a funcionar no Brasil. Renan aponta contradição: Lula publicamente se diz contra as bets, mas na prática protege sua entrada no país. As bets têm sede na Rússia e China — países que Renan descreve como aliados de Lula — e são usadas para lavagem de dinheiro de facções como CV e PCC.
