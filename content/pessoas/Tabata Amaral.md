@@ -6,13 +6,24 @@ tags:
   - oposição
 date: 2026-05-08
 fontes:
+  - "2026-06-11 - Aprovada redução da maioridade penal"
   - "2026-05-08 - Tabata Amaral é solidária com o Recife"
   - "2025-10-08 - Resposta para a Tabata Amaral"
 ---
 
-Deputada federal, fundadora do **Movimento Democrático Brasileiro** (Solidariedade), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
+Deputada federal, fundadora do **Partido Solidariedade** (ex-PSB), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Voto contra redução da maioridade penal na CCJ (junho de 2026)
+
+Em **11 de junho de 2026**, a CCJ da Câmara dos Deputados aprovou projeto de redução da maioridade penal para diversos crimes. Tabata Amaral votou contra. Renan reagiu com duras críticas, afirmando que ela "está mais à esquerda do que a gente imagina" e que "sempre vota com PT e PSOL" quando instada a votar.
+
+Renan afirmou que as mãos de Tabata estão "sujas de sangue" por crimes cometidos por menores que poderiam ter sido prevenidos, e criticou a elite multibilionária que financia a construção de sua imagem pública como "pessoa sensata".
+
+> "Nunca caiam no papo da Tabata Amaral. Ela não pode ver uma lei sensata a favor dos brasileiros de verdade que ela já vota contra."
+
+Ver [[fontes/2026-06-11 - Aprovada redução da maioridade penal]].
 
 ## O episódio dos puxadinhos
 

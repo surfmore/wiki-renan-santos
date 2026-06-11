@@ -7,10 +7,21 @@ tags:
   - psiquiatria
 date: 2025-12-03
 fontes:
+  - "2026-06-11 - Aprovada redução da maioridade penal"
   - "2025-12-03 - Você é a favor da redução da maioridade penal"
 ---
 
 Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que considera irrecuperáveis: a redução efetiva da maioridade penal para crimes violentos e a restauração do sistema de internação psiquiátrica compulsória.
+
+## Aprovação na CCJ da Câmara (junho de 2026)
+
+Em **11 de junho de 2026**, a CCJ da Câmara dos Deputados aprovou o projeto de redução da maioridade penal para diversos crimes. Renan celebrou a aprovação como "boa notícia", embora tenha ressaltado que o texto não é tão abrangente quanto ele gostaria — classificando-o como "um início".
+
+Renan criticou [[pessoas/Tabata Amaral]] como a principal voz contra o projeto entre os deputados que se apresentam como moderados, apontando que ela votou com PT, PSOL e PCdoB. Também mencionou [[pessoas/Túlio Gadelha]] entre os opositores.
+
+> "Jovem delinquente pagar pelos seus crimes devia ser o básico."
+
+Ver [[fontes/2026-06-11 - Aprovada redução da maioridade penal]].
 
 ## Condição para coalizões políticas (junho de 2026)
 

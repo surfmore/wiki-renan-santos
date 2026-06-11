@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-11] ingest | Aprovada redução da maioridade penal
+- Fonte criada: fontes/2026-06-11 - Aprovada redução da maioridade penal
+- Páginas atualizadas: posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos, pessoas/Tabata Amaral, index.md, log.md, wiki/.processed_ids
+- Nota: CCJ da Câmara aprova redução da maioridade penal; Renan celebra mas critica Tabata Amaral por votar contra; menciona Túlio Gadelha e PSOL/PT/PCdoB como opositores.
+
 ## [2026-06-11] ingest | Eu disparei contra o Lula no segundo turno!
 - Fonte criada: fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!
 - Páginas atualizadas: pessoas/Lula, pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
