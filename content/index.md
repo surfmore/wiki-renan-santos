@@ -98,7 +98,7 @@ date: 2026-06-11
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">622</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">623</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -176,6 +176,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]] — Veja expõe campanha antecipada de Safadão para Efraim Filho; Renan reitera crítica ao judiciário cearense e defende fim de festas públicas.
 - [[fontes/2026-06-11 - Aprovada redução da maioridade penal]] — CCJ da Câmara aprova redução da maioridade penal; Renan celebra mas crítica Tabata Amaral por votar contra.
 - [[fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!]] — Renan anuncia crescimento contra Lula no segundo turno pela pesquisa Quest; Flávio perde terreno; Banco Master impacta confiança.
 - [[fontes/2026-06-10 - A pior proposta dessa eleição É MINHA!!!]] — Renan responde à imprensa que chamou sua proposta de presídio gigante no Ceará de "pior das eleições"; defende estado de defesa e enfrentamento ao CV.

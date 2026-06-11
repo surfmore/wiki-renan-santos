@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-11] ingest | Deu ruim pro Wesley Safadao
+- Fonte criada: fontes/2026-06-11 - Deu ruim pro Wesley Safadao
+- Páginas atualizadas: pessoas/Wesley Safadão, temas/Corrupção Municipal, index.md, log.md, wiki/.processed_ids
+- Nota: Veja expõe campanha antecipada de Safadão para Efraim Filho em Campina Grande; Renan diz que "a casa começou a cair"; reitera crítica ao judiciário cearense e defende fim de festas públicas.
+
 ## [2026-06-11] ingest | Aprovada redução da maioridade penal
 - Fonte criada: fontes/2026-06-11 - Aprovada redução da maioridade penal
 - Páginas atualizadas: posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos, pessoas/Tabata Amaral, index.md, log.md, wiki/.processed_ids

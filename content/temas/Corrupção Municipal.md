@@ -3,10 +3,20 @@ title: "Corrupção Municipal"
 tags:
   - tema
   - corrupção
-date: 2026-04-13
+date: 2026-06-11
 ---
 
 Durante sua viagem pelo Maranhão em abril de 2026, Renan Santos usou episódios concretos para denunciar o que descreve como falência administrativa e desvio de recursos em prefeituras do interior. O tema aparece conectado à sua proposta de [[posicoes/Fusão de Municípios|fusão de municípios]] e à defesa de intervenção federal.
+
+## Veja expõe Safadão em campanha antecipada para Efraim Filho (junho de 2026)
+
+Em **11 de junho de 2026**, Renan comenta que a revista **Veja** publicou matéria revelando que [[pessoas/Wesley Safadão]] fez campanha eleitoral antecipada para o deputado **Efraim Filho** (União Brasil-PB, direita bolsonarista) durante as festas de São João em Campina Grande. Renan afirma que "a casa começou a cair" para Safadão.
+
+No vídeo, Renan explica novamente o mecanismo: deputados enviam emendas → prefeitos organizam festas → artistas contratados com cachês milionários divulgam os políticos. Ele reitera que perdeu a ação que Safadão moveu contra ele na Justiça do Ceará, criticando o judiciário local como "defensor de políticos locais" — cita ter perdido também ações contra o governador **Elmano de Freitas** (PT).
+
+Renan defende que festas com dinheiro público devem acabar: festas devem ter financiamento majoritariamente privado, e prefeituras sem capacidade fiscal não devem pagar cachês milionários.
+
+Ver [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]].
 
 ## Chapada Gaúcha: cassação de vereadora que denunciou agressor sexual (maio de 2026)
 
@@ -301,6 +311,7 @@ Ver [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]
 
 ## Fontes
 
+- [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]] — Veja expõe campanha antecipada de Safadão para Efraim Filho
 - [[fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele]] — Everton Rocha; INSS; fazenda com pista de pouso
 - [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; Cibelle (PL)
 - [[fontes/2026-02-19 - MAIS UM BELO EXEMPLO DA CLASSE POLÍTICA DO MARANHÃO]]

@@ -4,8 +4,9 @@ tags:
   - pessoa
   - corrupção-municipal
   - shows-públicos
-date: 2026-05-25
+date: 2026-06-11
 fontes:
+  - "2026-06-11 - Deu ruim pro Wesley Safadao"
   - "2026-05-07 - Minha resposta ao Wesley Safadão"
   - "2026-05-03 - O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO"
   - "2026-04-29 - Fui censurado pelo Wesley Safadao"
@@ -15,6 +16,16 @@ fontes:
 ---
 
 **Quem é:** Cantor e empresário cearense de forró e tecnobrega. Renan Santos o usa como o caso mais emblemático do esquema de desvio de dinheiro público via shows musicais em municípios pobres — e de censura judicial a um pré-candidato à presidência.
+
+## Veja expõe campanha antecipada de Safadão para Efraim Filho (junho de 2026)
+
+Em **11 de junho de 2026**, Renan comenta que a revista **Veja** publicou matéria revelando que Wesley Safadão fez campanha eleitoral antecipada para o deputado **Efraim Filho** (União Brasil-PB, direita bolsonarista) durante as festas de São João em Campina Grande. Renan afirma que "a casa começou a cair" para Safadão, que o havia censurado judicialmente meses antes.
+
+Renan reapresenta o esquema: deputados enviam emendas → prefeitos organizam festas → artistas são contratados com cachês milionários → artistas divulgam os políticos. Ele reitera que cidades não autossustentáveis não devem pagar cachês milionários e que, em seu governo, festas com dinheiro público acabarão.
+
+Sobre a liminar que perdeu para Safadão na Justiça do Ceará, Renan critica o judiciário local — que "costuma defender políticos locais" — e cita que também perdeu ações contra o governador **Elmano de Freitas** (PT).
+
+Ver [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]].
 
 ## O que o Renan Santos disse
 
@@ -67,6 +78,7 @@ Renan usa o caso Safadão como porta de entrada para uma crítica estrutural: o 
 
 ## Fontes
 
+- [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]] — Veja expõe campanha antecipada para Efraim Filho; "casa começou a cair"
 - [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]] — proposta de lei de responsabilidade gerencial; tom conciliatório
 - [[fontes/2026-05-03 - O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO]] — MP da Paraíba aciona Coxixola; 61% do orçamento de educação
 - [[fontes/2026-04-29 - Fui censurado pelo Wesley Safadao]] — liminar proibindo Renan de falar sobre contratos públicos
