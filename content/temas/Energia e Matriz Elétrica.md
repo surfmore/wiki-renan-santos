@@ -15,6 +15,14 @@ fontes:
 
 Renan Santos aborda a matriz elétrica brasileira sob dois ângulos principais: a denúncia de corrupção nos leilões de energia e a proposta de transição para fontes renováveis como política de desenvolvimento regional.
 
+## CDE e subsídios seletivos na conta de luz (junho de 2026)
+
+Em **12 de junho de 2026**, Renan critica um relatório de Érika Hilton que isenta entidades LGBT do pagamento de energia elétrica, financiado pela CDE (Conta de Desenvolvimento Energético) — tarifa que representa cerca de 15% da conta de luz de todos os consumidores. Ele questiona por que apenas ONGs da causa gay e trans recebem o benefício, enquanto orfanatos, hospitais, igrejas e outras entidades assistenciais não.
+
+Renan conecta o projeto ao que chama de "Eletrolão" (leilão de termoelétricas que aumentaria a conta em mais 16%) e ao programa "Luz para Todos", que já acrescentaria mais 10%. Ao todo, a conta de luz do brasileiro poderia aumentar em mais de 26%. Ele afirma: "O Brasil é um dos países que mais produz energia renovável e barata do mundo, mas que tem uma das contas de luz mais cara."
+
+Em um governo seu, promete derrubar políticas como essa. Ver [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]].
+
 ## Leilão de termoelétricas manipulado (junho de 2026)
 
 Em **6 de junho de 2026**, Renan denuncia um leilão de usinas termoelétricas de **cerca de R$ 1 trilhão** manipulado para beneficiar **Joesley Batista** (JBS) e outros aliados do governo Lula. O governo teria dobrado o valor teto do leilão dias antes. O TCU percebeu a irregularidade e a FIESP entrou com ação judicial. A estimativa: aumento de **10% na conta de luz** do brasileiro.
@@ -39,6 +47,7 @@ Renan visita usina de transformação de lixo em energia em **Pouso Alegre (MG)*
 
 ## Fontes
 
+- [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — CDE e subsídios seletivos para ONGs LGBT; aumento de 26% na conta de luz
 - [[fontes/2026-06-06 - Parabéns! Sua luz vai ficar mais cara!]] — leilão de termoelétricas manipulado; aumento de 10% na conta
 - [[fontes/2026-03-04 - Eu vou transformar o Nordeste na Arábia Saudita]] — Nordeste como polo de energia renovável
 - [[fontes/2026-04-05 - Lixo em energia em Pouso Alegre]] — usina de transformação de lixo em energia

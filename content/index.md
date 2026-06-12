@@ -98,7 +98,7 @@ date: 2026-06-12
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">624</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">625</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -122,7 +122,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
 <a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza", gastos do MP-CE na Copa e reforma como prioridade fiscal.</p></a>
-<a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; Nordeste como polo de energia renovável; lixo em energia.</p></a>
+<a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; CDE e subsídios seletivos na conta de luz; Nordeste como polo de energia renovável.</p></a>
 <a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
 
@@ -156,7 +156,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Nikolas-Ferreira"><div class="wiki-card-header"><span class="wiki-card-icon">🎭</span><span class="wiki-card-title">Nikolas Ferreira</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Oportunista que silenciou sobre Bolsonaro, votou pela PEC da Blindagem e pela escala 6x1.</p></a>
 <a class="wiki-card" href="/pessoas/André-Valadão"><div class="wiki-card-header"><span class="wiki-card-icon">⛪</span><span class="wiki-card-title">André Valadão</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Pastor da Lagoinha com ligações a Fabiano Zettel e suspeitas de desvio do INSS via ONG.</p></a>
 <a class="wiki-card" href="/pessoas/Jerônimo-Rodrigues"><div class="wiki-card-header"><span class="wiki-card-icon">🚨</span><span class="wiki-card-title">Jerônimo Rodrigues</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Governador da Bahia acusado de impedir a PM e ser leniente com o CV e o PCC.</p></a>
-<a class="wiki-card" href="/pessoas/Érika-Hilton"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️‍🌈</span><span class="wiki-card-title">Érika Hilton</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Usou a AGU para processar uma jornalista e votou contra o aumento de penas para crimes hediondos.</p></a>
+<a class="wiki-card" href="/pessoas/Érika-Hilton"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️‍🌈</span><span class="wiki-card-title">Érika Hilton</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Relatório que isenta ONGs LGBT de energia elétrica financiado pelo CDE; usou a AGU para processar jornalista; votou contra aumento de penas para crimes hediondos.</p></a>
 <a class="wiki-card" href="/pessoas/Joesley-Batista"><div class="wiki-card-header"><span class="wiki-card-icon">🥩</span><span class="wiki-card-title">Joesley Batista</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Empresário da JBS. Maior beneficiado de leilão de termoelétricas de R$ 1 tri; R$ 40M a Ciro Nogueira.</p></a>
 <a class="wiki-card" href="/pessoas/Carlos-Brandão"><div class="wiki-card-header"><span class="wiki-card-icon">🏗️</span><span class="wiki-card-title">Carlos Brandão</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Governador do MA. Omissão em estradas, ponte de Estreito desabada e competição com Braide após denúncias.</p></a>
 <a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 46 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
@@ -176,6 +176,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — Renan critica relatório de Érika Hilton que isenta ONGs LGBT de pagar energia; financiado pelo CDE que representa 15% da conta de luz; conecta ao "Eletrolão" e "Luz para Todos"; promete derrubar subsídios seletivos.
 - [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]] — Renan denuncia gastos do MP do Ceará com diárias para a Copa do Mundo e supersalários de 87% dos membros.
 - [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]] — Veja expõe campanha antecipada de Safadão para Efraim Filho; Renan reitera crítica ao judiciário cearense e defende fim de festas públicas.
 - [[fontes/2026-06-11 - Aprovada redução da maioridade penal]] — CCJ da Câmara aprova redução da maioridade penal; Renan celebra mas crítica Tabata Amaral por votar contra.

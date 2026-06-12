@@ -5,12 +5,24 @@ tags:
   - político
   - esquerda
   - psol
-date: 2026-05-04
+date: 2026-06-12
 ---
 
 Deputada federal pelo PSOL (SP), figura usada por Renan Santos recorrentemente como exemplo da "esquerda identitária" que, na sua leitura, prejudica as mulheres reais ao priorizar pautas simbólicas sobre segurança física e punição efetiva de crimes.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Relatório de isenção de energia para ONGs LGBT (junho de 2026)
+
+Em **12 de junho de 2026**, Renan critica um relatório aprovado por Érika Hilton que isenta entidades de assistência a gays e trans do pagamento de energia elétrica. O benefício é financiado pela CDE (Conta de Desenvolvimento Energético) — tarifa que representa cerca de 15% da conta de luz de todos os consumidores.
+
+Renan questiona a seletividade: "Existem milhares de tipos de entidades assistenciais no país. Orfanatos, hospitais beneficentes, igrejas, comunidades que fazem caridade, casas de repouso, ONGs que atendem crianças com deficiência. Nenhuma delas conta com esse benefício, apenas ONGs que atuam na causa gay e trans."
+
+Ele também critica a fonte de receita: "Sabe quando você desliga o ar condicionado para economizar energia? Essa economia não é para você, é pros outros. E agora você vai ter que deixar seu banho mais curto, passar um calorzinho pra Erica Hilton ganhar voto."
+
+Renan conecta o projeto ao "Eletrolão" (leilão de termoelétricas) e ao programa "Luz para Todos" de Lula, que aumentariam a conta em mais 26% ao todo. Ele afirma que em seu governo políticas como essa seriam derrubadas.
+
+Ver [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] e [[temas/Energia e Matriz Elétrica]].
 
 ## Perseguição à jornalista Madeleine Lackso via AGU (abril de 2026)
 
@@ -65,6 +77,7 @@ Ver [[pessoas/Oruam]].
 
 ## Fontes
 
+- [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — relatório de isenção de energia para ONGs LGBT financiado pelo CDE
 - [[fontes/2026-04-19 - Erika Hilton x Madeleine Lackso]]
 - [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estupro coletivo]]
 - [[fontes/2026-05-01 - A proposta mais burra que você vai ver hoje]]
