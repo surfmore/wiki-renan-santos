@@ -14,6 +14,25 @@ fontes:
 
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
 
+## MP do Ceará: supersalários e diárias para a Copa do Mundo (junho de 2026)
+
+Em **12 de junho de 2026**, Renan denunciou os gastos do **Ministério Público do Ceará (MP-CE)**, que enviou membros para a **Copa do Mundo** com diárias pagas pelo contribuinte, enquanto as cidades sob sua jurisdição enfrentam domínio do Comando Vermelho.
+
+Três figuras foram satirizadas como "o time do MP-CE na Copa":
+
+1. **Derek Leite** — promotor de Fortaleza sem resultados expressivos, enquanto a capital cearense é tomada pelo CV com altos índices de homicídio.
+2. **Vander Timbó** — promotor de Caucaia, cidade também controlada pelo CV; foi para os Estados Unidos.
+3. **Ébertos** — procurador-geral de justiça do Ceará. Foi para a Copa do Mundo feminina. Filho do desembargador **Raimundo Nonato** e sobrinho do ministro do STJ **Teodoro Santos** (apontado pelo governador Elmano de Freitas).
+
+Os três gastaram em média **R$ 3.000 por dia em hotel** com dinheiro público. Renan revela ainda dados estruturais do MP-CE:
+
+- **87% dos membros** do MP-CE receberam entre **R$ 100 e R$ 500 mil acima do teto** no último ano.
+- O gasto total com penduricalhos foi de **R$ 93 milhões**, subindo para **R$ 140 milhões** no ano seguinte.
+
+Renan conecta o episódio ao **nepotismo** e às **relações do governo do Ceará com o Comando Vermelho**.
+
+Ver [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]].
+
 ## "Gilmarpalooza": diárias de R$ 30.000 para juízes em Lisboa (junho de 2026)
 
 Em **7 de junho de 2026**, Renan denuncia o **Fórum Jurídico de Lisboa**, que apelida de "Gilmarpalooza", como um esquema de gastos públicos com viagens de luxo para magistrados e autoridades brasileiras.
@@ -122,6 +141,7 @@ Em **12 de setembro de 2025**, Renan exibe imagens de uma juíza conversando de 
 
 ## Fontes
 
+- [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]] — Renan denuncia gastos do MP-CE com diárias para a Copa do Mundo e supersalários
 - [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes em Lisboa no "Gilmarpalooza"
 - [[fontes/2025-09-10 - Prepare-se para ficar revoltado]]
 - [[fontes/2025-09-12 - Até quando você vai aguentar esse esculacho]]

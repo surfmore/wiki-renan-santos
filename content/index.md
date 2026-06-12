@@ -98,7 +98,7 @@ date: 2026-06-12
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">623</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">624</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -121,7 +121,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
-<a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza" e reforma como prioridade fiscal.</p></a>
+<a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza", gastos do MP-CE na Copa e reforma como prioridade fiscal.</p></a>
 <a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; Nordeste como polo de energia renovável; lixo em energia.</p></a>
 <a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
@@ -176,6 +176,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]] — Renan denuncia gastos do MP do Ceará com diárias para a Copa do Mundo e supersalários de 87% dos membros.
 - [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]] — Veja expõe campanha antecipada de Safadão para Efraim Filho; Renan reitera crítica ao judiciário cearense e defende fim de festas públicas.
 - [[fontes/2026-06-11 - Aprovada redução da maioridade penal]] — CCJ da Câmara aprova redução da maioridade penal; Renan celebra mas crítica Tabata Amaral por votar contra.
 - [[fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!]] — Renan anuncia crescimento contra Lula no segundo turno pela pesquisa Quest; Flávio perde terreno; Banco Master impacta confiança.

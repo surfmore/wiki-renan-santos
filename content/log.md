@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-12] ingest | Você que está acompanhando a Copa, viu esse time
+- Fonte criada: fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time
+- Páginas atualizadas: temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia gastos do MP do Ceará com diárias para a Copa do Mundo; 87% dos membros receberam acima do teto; nepotismo no judiciário cearense.
+
 ## [2026-06-11] ingest | Deu ruim pro Wesley Safadao
 - Fonte criada: fontes/2026-06-11 - Deu ruim pro Wesley Safadao
 - Páginas atualizadas: pessoas/Wesley Safadão, temas/Corrupção Municipal, index.md, log.md, wiki/.processed_ids
