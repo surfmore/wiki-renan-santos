@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-08] ingest | Nikolas vai abandonar Flávio
+- Fonte criada: fontes/2026-06-08 - Nikolas vai abandonar Flávio
+- Páginas atualizadas: pessoas/Nikolas Ferreira, pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Renan responde a rumores de que Nikolas Ferreira abandonaria Flávio Bolsonaro; cita pesquisa RealTime Big Data (48% buscam novo, 26% desses são Renan); recusa rótulo de terceira via; pede união da direita em torno de sua candidatura.
+
 ## [2026-06-12] ingest | Você que está acompanhando a Copa, viu esse time
 - Fonte criada: fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time
 - Páginas atualizadas: temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids

@@ -1,49 +1,43 @@
 ---
 title: "Nikolas vai abandonar Flávio"
+tags:
+  - fonte
+  - eleições 2026
+  - direita
+  - nikolas ferreira
+  - flávio bolsonaro
 video_id: "QZGzuG1jS7E"
 data: "2026-06-08"
-date: 2026-06-08
 canal: "renan-canal"
 url: "https://www.youtube.com/watch?v=QZGzuG1jS7E"
 tipo: "short"
-tags:
-  - fonte
-  - eleições-2026
-  - crítica-à-direita
-  - nikolas-ferreira
-  - flavio-bolsonaro
+date: 2026-06-08
 ---
 
 # Nikolas vai abandonar Flávio
 
-Renan responde aos rumores de que Nikolas Ferreira estaria abandonando a campanha de Flávio Bolsonaro à Presidência. Afirma que sua pré-campanha tem propostas e não depende de Nikolas nem de Flávio para vencer as eleições.
+Renan Santos responde a rumores de que o deputado Nikolas Ferreira estaria abandonando a pré-campanha de Flávio Bolsonaro. Começa dizendo que sua pré-campanha é baseada em propostas e que não depende de Nikolas nem de Flávio para vencer as eleições.
 
-Nikolas é mostrado em um depoimento público dando seu apoio enfático a Flávio, afirmando que ele pode vencer Lula. Renan contra-argumenta citando pesquisa RealTime Big Data: 48% dos brasileiros buscam algo novo que não é nem Lula nem Flávio — e 26% desses são eleitores de Renan.
+Ele exibe um trecho de Nikolas declarando apoio entusiasmado a Flávio, com Nikolas afirmando que Flávio "vai ser presidente do Brasil, vai melhorar" e que não há "espaço para uma terceira via." Renan contesta diretamente essa declaração com dados: segundo pesquisa RealTime Big Data, 48% dos brasileiros estão procurando algo novo que não é nem Lula nem Flávio — e 26% desses são eleitores de Renan.
 
-Renan recusa o rótulo de "terceira via" e se posiciona como o único candidato de direita, enquanto classifica Flávio como candidato de centro/centrão. Enumera os aliados de Flávio: Eduardo Cunha, Cláudio Castro, Ciro Nogueira e a "lei da misogenia" (PL da Misoginia). Diz que Flávio é a verdadeira terceira via e que ele, Renan, vai tirar Flávio do segundo turno e depois derrotar Lula.
+Renan rejeita o rótulo de "terceira via", dizendo que não há chance para uma terceira via. Ele se posiciona como "o candidato de direita", enquanto classifica Flávio Bolsonaro como "candidato de centro no centrão." Enumera as alianças de Flávio (Eduardo Cunha, Cláudio Castro, Ciro Nogueira cotado como vice, e a aprovação da lei da misoginia) como evidências de que sua candidatura não é de direita.
 
-Sobre Nikolas, Renan lembra que ele votou com as esquerdas a favor do fim da escala 6x1. Conclui com um apelo para que a direita se una em torno de sua pré-candidatura — a única "capaz de derrotar o Lula, destruir o crime organizado e mudar o Brasil". Finaliza afirmando que "Flávio Bolsonaro é erro. Flávio Bolsonaro é derrota certa pro Lula. Flávio Bolsonaro é envolvimento com gente ligada ao Comando Vermelho."
+Argumenta que Flávio "cheio de escândalos perde pro Lula no segundo turno" e que Nikolas percebeu isso. Cita que Flávio é o candidato mais rejeitado, "mais até que o Lula", enquanto ele próprio é o menos conhecido e o menos rejeitado, com "muita oportunidade de crescimento."
+
+Renan questiona se Nikolas é realmente de direita, lembrando que ele votou com as esquerdas a favor do fim da escala 6x1. Convida Nikolas e toda a direita a se unirem em torno de sua pré-candidatura, a única que considera capaz de derrotar Lula, destruir o crime organizado e mudar o Brasil de fato. Conclui pedindo o compartilhamento do vídeo para que a mensagem chegue a Nikolas.
 
 ## Temas abordados
 
-- [[temas/Crítica à Direita Tradicional]] — Nikolas como oportunista que abandona Flávio no momento de fraqueza; Flávio como candidato de centro/centrão
-- [[temas/Empobrecimento e Mercado de Trabalho]] — Nikolas votou com a esquerda no fim da escala 6x1
+- [[temas/Crítica à Direita Tradicional]] — Renan critica a direita representada por Flávio Bolsonaro e Nikolas Ferreira como oportunista e sem projeto de país
 
 ## Pessoas mencionadas
 
-- **[[pessoas/Nikolas Ferreira]]** — deputado que estaria abandonando Flávio; depoimento de apoio enfraquecido por votação com a esquerda na escala 6x1
-- **[[pessoas/Flávio Bolsonaro]]** — candidato mais rejeitado, aliado de Eduardo Cunha, Cláudio Castro e Ciro Nogueira; Renan diz que perde pro Lula no segundo turno
-- **[[pessoas/Ciro Nogueira]]** — citado como possível vice de Flávio
-- **Eduardo Cunha** — citado como aliado de Flávio
-
-## Posições defendidas
-
-- [[posicoes/Fusão de Municípios]] — implícito na proposta de mudar o Brasil
-- [[posicoes/Desfavelização do Brasil]] — implícito na promessa de destruir o crime organizado
-
-## Pesquisa citada
-
-- RealTime Big Data: 48% buscam algo novo (nem Lula nem Flávio); 26% desses são eleitores de Renan
+- [[pessoas/Nikolas Ferreira]] — Deputado federal que estaria abandonando a candidatura de Flávio; Renan questiona sua lealdade à direita
+- [[pessoas/Flávio Bolsonaro]] — Pré-candidato à presidência, caracterizado por Renan como candidato do centrão, não de direita
+- [[pessoas/Ciro Nogueira]] — Mencionado como cotado a vice de Flávio, parte do centrão
+- Eduardo Cunha — Ex-deputado mencionado como aliado de Flávio
+- Cláudio Castro — Governador do RJ mencionado como aliado de Flávio
+- [[pessoas/Lula]] — Presidente e adversário político que Renan afirma que Flávio não conseguiria derrotar
 
 ## URL
 
