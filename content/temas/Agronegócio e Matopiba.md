@@ -10,6 +10,18 @@ date: 2026-05-29
 
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.
 
+## Cinturão verde e transferência tecnológica com o Japão (junho de 2026)
+
+Em **12 de junho de 2026**, Renan mostra uma máquina agrícola automatizada japonesa utilizada para plantio de hortaliças (cebolinha) e denuncia que o pequeno agricultor brasileiro — o produtor do chamado **cinturão verde** (alface, agrião, cebola, tomate) — está quebrando por endividamento, alterações trabalhistas e custo da mão de obra. A máquina custa cerca de 4.000 ienes no Japão, mas chega ao Brasil a dezenas de milhares de reais devido a impostos de importação e falta de financiamento.
+
+Ele cita **Saito**, um nipo-brasileiro que se tornou o maior produtor de cebolinha do Japão, usando estas máquinas com alta produtividade — modelo que não seria viável no Brasil com a carga tributária atual.
+
+Renan propõe eliminar **impostos sobre toda máquina que aumente a produtividade do trabalhador brasileiro** (agrícola ou não), como meta de primeiro ano de governo. Traça paralelo com a **Embrapa** — fruto de cooperação Brasil-Japão que resolveu o solo do Cerrado — e propõe nova revolução no cinturão verde para gerar milhares de empregos e baratear a comida.
+
+> "Eu vou tirar os impostos de todas as máquinas agrícolas ou não, que aumentem a produtividade do trabalhador brasileiro. Isso é uma meta que eu já vou colocar no primeiro ano da minha gestão."
+
+Ver [[fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa]].
+
 ## Robótica no agro: fábrica de robôs em Americana (junho de 2026)
 
 Em **8 de junho de 2026**, Renan visita em Americana (SP) a única fábrica de robôs do Brasil, voltada à produção de robôs para moendas de cana-de-açúcar. O caso ilustra a tese de que o agro brasileiro é tecnológico e de alta produtividade.

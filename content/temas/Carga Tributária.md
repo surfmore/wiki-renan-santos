@@ -8,6 +8,14 @@ date: 2026-04-13
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
+## Imposto sobre máquinas agrícolas: sabotagem ao pequeno produtor (junho de 2026)
+
+Em **12 de junho de 2026**, Renan denuncia o efeito dos impostos de importação sobre máquinas agrícolas. Uma máquina automatizada para plantio de hortaliças que custa 4.000 ienes no Japão chega ao pequeno agricultor brasileiro a dezenas de milhares de reais. O resultado: o produtor do cinturão verde (alface, tomate, cebola, agrião) quebra por falta de produtividade e a comida fica mais cara na mesa do consumidor.
+
+Renan propõe eliminar impostos sobre **toda máquina que aumente a produtividade do trabalhador** — agrícola ou não — como meta de primeiro ano de governo, e traça paralelo com a Embrapa, fruto de cooperação Brasil-Japão.
+
+Ver [[fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa]].
+
 ## Taxa das blusinhas: criada para arrecadar, revogada como "presente" eleitoral (maio de 2026)
 
 Em **12 de maio de 2026**, Renan denuncia a revogação da taxa de importações de baixo valor ("taxa das blusinhas") por Lula como fraude eleitoral clássica: apresentar como presente algo que o próprio governo criou.

@@ -98,7 +98,7 @@ date: 2026-06-12
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">625</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">626</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -176,6 +176,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa]] — Renan mostra máquina agrícola automática japonesa; denuncia impostos que impedem pequeno agricultor de acessar tecnologia; propõe eliminar impostos sobre máquinas que aumentem produtividade; cita Saito, nipo-brasileiro maior produtor de cebolinha do Japão; paralelo com Embrapa.
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — Renan critica relatório de Érika Hilton que isenta ONGs LGBT de pagar energia; financiado pelo CDE que representa 15% da conta de luz; conecta ao "Eletrolão" e "Luz para Todos"; promete derrubar subsídios seletivos.
 - [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]] — Renan denuncia gastos do MP do Ceará com diárias para a Copa do Mundo e supersalários de 87% dos membros.
 - [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]] — Veja expõe campanha antecipada de Safadão para Efraim Filho; Renan reitera crítica ao judiciário cearense e defende fim de festas públicas.

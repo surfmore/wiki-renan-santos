@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-12] ingest | Vamos transformar o agro brasileiro com tecnologia japonesa 🇯🇵 (ingest automático)
+- Fonte criada: fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa
+- Páginas atualizadas: temas/Agronegócio e Matopiba, temas/Carga Tributária, index.md, log.md, wiki/.processed_ids
+- Nota: Renan mostra máquina agrícola automática japonesa; denuncia carga tributária que impede pequeno agricultor de acessar tecnologia; propõe eliminar impostos sobre máquinas que aumentem produtividade; cita Saito, maior produtor de cebolinha do Japão; traça paralelo com a Embrapa.
+
 ## [2026-06-12] ingest | Erika Hilton achou a solução para a sua conta de luz! (ingest automático)
 - Fonte criada: fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!
 - Páginas atualizadas: pessoas/Érika Hilton, temas/Energia e Matriz Elétrica, index.md, log.md, wiki/.processed_ids
