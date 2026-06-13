@@ -98,8 +98,8 @@ date: 2026-06-13
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">627</span><span class="label">Fontes</span></a>
-<a class="wiki-stat" href="/temas"><span class="num">23</span><span class="label">Temas</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">628</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/temas"><span class="num">24</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
@@ -111,6 +111,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/temas/Sebastianismo-e-Messianismo-Político"><div class="wiki-card-header"><span class="wiki-card-icon">👑</span><span class="wiki-card-title">Sebastianismo e Messianismo Político</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Análise do mito de Dom Sebastião como chave para entender o messianismo na política brasileira, do coronelismo nordestino a Lula e Bolsonaro.</p></a>
 <a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
 <a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">84 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
@@ -123,7 +124,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
 <a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">9 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza", gastos do MP-CE na Copa e reforma como prioridade fiscal.</p></a>
 <a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; CDE e subsídios seletivos na conta de luz; Nordeste como polo de energia renovável.</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 24 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
@@ -176,6 +177,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-13 - E se Marrocos derrotar o Brasil hoje]] — Renan usa o jogo Brasil x Marrocos pela Copa para explicar o Sebastianismo e sua influência na política brasileira, de Dom Sebastião a Lula e Bolsonaro.
 - [[fontes/2026-06-13 - Fui censurado....]] — Renan é censurado pela justiça do Maranhão após denunciar ex-prefeito corrupto de Arari e sua influenciadora; crítica ao judiciário maranhense.
 - [[fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa]] — Renan mostra máquina agrícola automática japonesa; denuncia impostos que impedem pequeno agricultor de acessar tecnologia; propõe eliminar impostos sobre máquinas que aumentem produtividade; cita Saito, nipo-brasileiro maior produtor de cebolinha do Japão; paralelo com Embrapa.
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — Renan critica relatório de Érika Hilton que isenta ONGs LGBT de pagar energia; financiado pelo CDE que representa 15% da conta de luz; conecta ao "Eletrolão" e "Luz para Todos"; promete derrubar subsídios seletivos.

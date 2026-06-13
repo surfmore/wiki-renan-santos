@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-13] ingest | E se Marrocos derrotar o Brasil hoje (ingest automático)
+- Fonte criada: fontes/2026-06-13 - E se Marrocos derrotar o Brasil hoje
+- Páginas criadas: temas/Sebastianismo e Messianismo Político
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: Renan explica o Sebastianismo (mito de Dom Sebastião) e sua influência na política brasileira, conectando a Batalha de Alcácer Quibir ao messianismo de Lula e Bolsonaro. Primeiro vídeo da série "Países da Copa".
+
 ## [2026-06-13] ingest | Fui censurado... (ingest automático)
 - Fonte criada: fontes/2026-06-13 - Fui censurado....
 - Páginas atualizadas: temas/Corrupção Municipal, temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
