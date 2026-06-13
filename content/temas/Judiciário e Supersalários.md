@@ -14,6 +14,16 @@ fontes:
 
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
 
+## Justiça do Maranhão: censura a denunciante de corrupção (junho de 2026)
+
+Em **13 de junho de 2026**, Renan anuncia que foi **censurado pela justiça do Maranhão** após ser processado por uma influenciadora de Arari (MA) que faz vídeos pornográficos com o ex-prefeito corrupto Rui Filho. A decisão obriga Renan a remover os vídeos sobre o caso e pagar indenização.
+
+Renan descreve a justiça maranhense como "uma das mais caras e cheias de privilégio de todo o país", que produziu [[pessoas/Flávio Dino]] como ministro do STF. Ele ironiza que, para a justiça maranhense, "não há exceção da verdade, mas sim ofensa" quando se trata de proteger figuras locais. O episódio é apresentado como evidência de que o judiciário local funciona como barreira à accountability: quem denuncia a corrupção é punido, não quem a pratica.
+
+> "Aí depois reclamam quando eu digo que o Maranhão tá todo errado."
+
+Ver [[fontes/2026-06-13 - Fui censurado....]].
+
 ## MP do Ceará: supersalários e diárias para a Copa do Mundo (junho de 2026)
 
 Em **12 de junho de 2026**, Renan denunciou os gastos do **Ministério Público do Ceará (MP-CE)**, que enviou membros para a **Copa do Mundo** com diárias pagas pelo contribuinte, enquanto as cidades sob sua jurisdição enfrentam domínio do Comando Vermelho.

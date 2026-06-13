@@ -281,6 +281,16 @@ Em **26 de dezembro de 2025**, Renan usa Turilândia (MA) como caso de corrupç�
 
 O detalhe central para Renan: o dinheiro não foi extraído da cidade — veio de **repasses federais pagos por contribuintes de outros estados**. A cidade tem salário médio de 30% do salário mínimo e 97% do orçamento dependente de transferências externas. Renan usa o caso para sustentar que cidades com esse perfil não têm capacidade de se autogerir democraticamente e deveriam ser fundidas e administradas por interventor federal. Ver [[fontes/2025-12-26 - Você já ouviu falar de Turilândia]].
 
+## Arari (MA): Renan é censurado pela justiça após denunciar ex-prefeito corrupto e sua influenciadora (junho de 2026)
+
+Em **13 de junho de 2026**, Renan anuncia que foi **censurado pela justiça do Maranhão** após ser processado por **Ingrid Andrade** — a influenciadora de Arari que faz vídeos pornográficos com o ex-prefeito corrupto **Rui Filho**. A decisão judicial obriga Renan a remover os vídeos que fez sobre o caso e pagar indenização.
+
+Renan usa o episódio para criticar a justiça maranhense: "uma das mais caras e cheias de privilégio de todo o país", que produziu Flávio Dino como ministro do STF, e que "não há exceção da verdade, mas sim ofensa" quando se trata de proteger figuras corruptas locais. Renan compara Ingrid a [[pessoas/Deolane Bezerra]] — "pessoa feia, grotesca em todos os sentidos, com ligações estranhas com pessoas criminosas."
+
+Renan afirma que Ingrid foi convidada pelo **União Brasil** a ser candidata a deputada federal. Conclui: "se você denuncia o problema, você termina censurado".
+
+Ver [[fontes/2026-06-13 - Fui censurado....]]
+
 ## Arari (MA): emenda roubada e a influencer do ex-prefeito (dezembro de 2025)
 
 Em **19 de dezembro de 2025** — o primeiro vídeo sobre o caso —, Renan expõe **Arari (MA)** a partir de reportagem do Fantástico: o ex-prefeito **Rui Filho** desviou uma emenda parlamentar **integralmente**, sem nem simular obra. Após perder a eleição, enriqueceu e se tornou o "sugar daddy" de **Ingrid Andrade**, influencer com 1,2 milhão de seguidores que declara publicamente ter ficado com ele por dinheiro e ter dado "golpe da barriga."

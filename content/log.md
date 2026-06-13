@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-13] ingest | Fui censurado... (ingest automático)
+- Fonte criada: fontes/2026-06-13 - Fui censurado....
+- Páginas atualizadas: temas/Corrupção Municipal, temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
+- Nota: Renan anuncia que foi censurado pela justiça do Maranhão após ser processado por Ingrid Andrade, influenciadora de Arari (MA) que faz vídeos pornográficos com ex-prefeito corrupto Rui Filho. Critica o judiciário maranhense como caro, cheio de privilégios e cúmplice da corrupção local.
+
 ## [2026-06-12] ingest | Vamos transformar o agro brasileiro com tecnologia japonesa 🇯🇵 (ingest automático)
 - Fonte criada: fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa
 - Páginas atualizadas: temas/Agronegócio e Matopiba, temas/Carga Tributária, index.md, log.md, wiki/.processed_ids
