@@ -7,6 +7,25 @@ tags:
 date: 2026-04-03
 ---
 
+## EUA restringem acesso à IA mais avançada como questão de segurança nacional (junho de 2026)
+
+Em **14 de junho de 2026**, Renan denuncia que o governo americano proibiu a **Anthropic** (empresa criadora do Claude, principal concorrente do ChatGPT) de disponibilizar a versão mais moderna de sua inteligência artificial para cidadãos não americanos. A decisão é justificada por segurança nacional — e Renan aponta que a Anthropic foi a empresa cuja tecnologia foi usada na invasão da Venezuela pelo governo americano.
+
+Renan alerta que o acesso à inteligência artificial mais avançada ficará restrito a grandes nações, criando vantagens produtivas, militares e tecnológicas gigantescas contra o Brasil e demais países. A resposta que propõe:
+
+1. **Transformar o Brasil no "país dos data centers"** — usar energia abundante como infraestrutura para atrair empresas de IA que precisam de processamento intensivo.
+2. **Negociar acesso à tecnologia** — oferecer energia e capacidade de data centers em troca de acesso a modelos de IA avançados.
+3. **Usar terras raras como moeda de troca** — se os EUA não quiserem ceder tecnologia, o Brasil pode negociar com outras nações e reter terras raras, deixando os EUA dependentes da China.
+4. **Investimento próprio em IA** — criticar o investimento de apenas R$ 23 bilhões do governo Lula (menos de 1% do que os EUA investem) e prometer foco prioritário no tema como questão de segurança nacional.
+
+> "O meu governo vai focar muito nisso, porque é questão de segurança nacional e desenvolvimento econômico. Nós temos que colocar as nossas vantagens na mesa. O Brasil será, no meu governo, o país dos data centers, o país que vai usar energia como infraestrutura para que essas inteligências artificiais funcionem."
+>
+> "Só haverá inteligência artificial global caso todos falhem com os Estados Unidos. Se os Estados Unidos não quiserem ceder pra gente a sua tecnologia, nós vamos negociar a nossa energia e os nossos data centers com outras nações."
+
+O contraste com os demais candidatos: "Um tá falando de te dar vale gás, o outro tá dançando. Definitivamente o jogo sério precisa de pessoas sérias e inteligentes."
+
+Ver [[fontes/2026-06-14 - Vão proibir seu ChatGPT]].
+
 Tema recorrente na retórica de Renan Santos: o Brasil teria **tamanho e capacidade** para se posicionar no "grande jogo da engenharia mundial", mas seria sabotado por uma **mentalidade coletiva de autodepreciação**. Sua formulação mais repetida é "nós nos odiamos tanto aqui no Brasil e achamos que somos tão ruins que nem conseguimos sonhar".
 
 ## Indústria nacional de drones agrícolas: proposta para competir com a China (junho de 2026)
@@ -267,6 +286,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso à IA mais avançada; proposta de Brasil como país dos data centers; terras raras como moeda de troca
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia; agregação de valor; denominação de origem; marca Brasil
 - [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — PIX como conquista tecnológica brasileira ameaçada por pressão americana e taxação de Lula
 - [[fontes/2026-04-03 - Sim, uma equipe de F1 com a Embraer e a WEG]]

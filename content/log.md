@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-14] ingest | Vão proibir seu ChatGPT (ingest automático)
+- Fonte criada: fontes/2026-06-14 - Vão proibir seu ChatGPT
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: Renan alerta que EUA proibiram Anthropic de compartilhar IA mais avançada com não americanos; propõe Brasil como país dos data centers e terras raras como moeda de troca.
+
 ## [2026-06-13] ingest | E se Marrocos derrotar o Brasil hoje (ingest automático)
 - Fonte criada: fontes/2026-06-13 - E se Marrocos derrotar o Brasil hoje
 - Páginas criadas: temas/Sebastianismo e Messianismo Político
