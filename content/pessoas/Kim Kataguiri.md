@@ -4,8 +4,9 @@ tags:
   - pessoa
   - político
   - partido-missão
-date: 2026-03-19
+date: 2026-06-14
 fontes:
+  - "2026-06-14 - O Japão tem uma estratégia para golear o Brasil"
   - "2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO"
   - "2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!"
   - "2026-03-31 - Você já conhece a PEC do IPVA do kimkataguiri"
@@ -14,6 +15,16 @@ fontes:
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. Fatos aqui apresentados como citações de Renan não são verificados independentemente por este wiki.
+
+## Referência no modelo japonês de gestão municipal (junho de 2026)
+
+Em **14 de junho de 2026**, Renan menciona Kim Kataguiri no contexto do modelo de administração municipal japonês. Após descrever como o Japão usa fusão de municípios e indicadores de desempenho para resolver cidades falidas, Renan faz uma analogia com o futebol:
+
+> "Houve um tempo que o Japão chamou o Zico para imitar a gente no futebol. Hoje eu chamo o Kim Kataguiri para me ajudar a administrar o Brasil, copiando as coisas certas dos japoneses."
+
+A referência situa Kim como o braço administrativo para implementar no Brasil políticas de gestão pública inspiradas no Japão — especificamente a fusão de municípios inviáveis, tema central da [[posicoes/Fusão de Municípios]] de Renan.
+
+Ver [[fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil]].
 
 ## PL de penas para roubo e furto sancionado (maio de 2026)
 

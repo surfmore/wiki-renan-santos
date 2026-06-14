@@ -3,10 +3,28 @@ title: "Fusão de Municípios"
 tags:
   - posição
   - reforma-política
-date: 2026-04-11
+date: 2026-06-14
 ---
 
 Renan Santos defende a **fusão de municípios pequenos em "macromunicípios"** como forma de tornar cidades do interior brasileiro viáveis administrativamente.
+
+## O modelo japonês de gestão municipal (junho de 2026)
+
+Em **14 de junho de 2026**, usando a série "Países na Copa" como pano de fundo, Renan apresenta o modelo de administração municipal do Japão como inspiração para o Brasil. A analogia começa com o futebol: o Japão pode derrotar o Brasil na Copa não por ter maiores talentos, mas por aplicar **disciplina administrativa** ao time — e o mesmo vale para a gestão pública.
+
+O exemplo concreto é a política japonesa de **fusão de municípios**, iniciada após a cidade de **Yubari** — cidade mineradora — declarar falência em **2007** após a queda da atividade de mineração. O governo japonês criou legislação específica para monitorar e auxiliar municípios em dificuldade, usando:
+
+- **Indicadores de desempenho** rigorosos para avaliar a viabilidade de cada cidade
+- **Classificação por cores** (amarela e vermelha) para cidades em situação crítica
+- Cidades que não batessem os indicadores seriam alvo de **intervenção federal** ou **fundidas com cidades vizinhas**
+
+O modelo forçava a administração municipal a melhorar seus indicadores para continuar existindo ou incentivava fusões para resolver problemas de forma mais eficiente.
+
+Renan conclui que a maioria das cidades brasileiras é insustentável e que adotar a estratégia japonesa melhoraria a política e a vida nos interiores. Cita Kim Kataguiri como aliado para implementar o modelo:
+
+> "Houve um tempo que o Japão chamou o Zico para imitar a gente no futebol. Hoje eu chamo o Kim Kataguiri para me ajudar a administrar o Brasil, copiando as coisas certas dos japoneses."
+
+Ver [[fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil]].
 
 ## Condição para coalizões políticas (junho de 2026)
 
