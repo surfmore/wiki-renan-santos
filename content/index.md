@@ -98,7 +98,7 @@ date: 2026-06-14
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">630</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">631</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">24</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
@@ -113,7 +113,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <div class="wiki-grid">
 <a class="wiki-card" href="/temas/Sebastianismo-e-Messianismo-Político"><div class="wiki-card-header"><span class="wiki-card-icon">👑</span><span class="wiki-card-title">Sebastianismo e Messianismo Político</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Análise do mito de Dom Sebastião como chave para entender o messianismo na política brasileira, do coronelismo nordestino a Lula e Bolsonaro.</p></a>
 <a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
-<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">84 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios e desfavelização como solução estrutural.</p></a>
+<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">85 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios, portos e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">35 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
@@ -177,6 +177,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas]] — Renan denuncia a rota do PCC pelo Porto de Paranaguá para exportar cocaína para a Holanda; propõe intervenção nos portos e rejeita a legalização das drogas com base no exemplo holandês.
 - [[fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil]] — Renan usa o exemplo do Japão na Copa para defender o modelo japonês de fusão de municípios como inspiração para o Brasil; cita Kim Kataguiri como aliado para implementar a política.
 - [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso de não americanos à IA mais avançada; Renan propõe Brasil como país dos data centers e uso de terras raras como moeda de troca.
 - [[fontes/2026-06-13 - E se Marrocos derrotar o Brasil hoje]] — Renan usa o jogo Brasil x Marrocos pela Copa para explicar o Sebastianismo e sua influência na política brasileira, de Dom Sebastião a Lula e Bolsonaro.

@@ -8,6 +8,20 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Rota PCC-Holanda: Paranaguá, Rotterdam e o tráfico internacional (junho de 2026)
+
+Em **14 de junho de 2026**, no episódio da série "Países na Copa", Renan denuncia a conexão entre Brasil e Holanda através do tráfico internacional de drogas. O PCC utiliza o **Porto de Paranaguá (PR)** para exportar cocaína para a Europa, tendo como destino principal o **Porto de Rotterdam**, na Holanda — descrito como o maior ponto de entrada de drogas do continente europeu.
+
+Renan revela que a facção holandesa **"Tag"** — descrita como a versão local do PCC — matou um jornalista que investigava essa rota bilionária. Os lucros da exportação de drogas para a Europa, segundo ele, "alimentam todos os outros braços dessa facção, tornando ela hoje a mais poderosa da América do Sul."
+
+**Proposta:** intervenção federal em todos os portos brasileiros que estão sob "ocupação silenciosa do PCC" — Paranaguá, Santos e Pecém entre eles.
+
+Renan também usa a Holanda como contra-exemplo no debate sobre legalização de drogas: argumenta que a Holanda não tem PCC, Comando Vermelho ou facções fazendo **ocupação territorial** — portanto, a legalização não resolveria o problema brasileiro. "Qualquer discussão sobre o tema tem que passar antes por eliminar, destruir completamente as nossas facções."
+
+Critica jornalistas e sociólogos que citam o exemplo holandês para justificar o uso recreativo de drogas no Brasil, classificando o argumento como "conversa mole."
+
+Ver [[fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas]].
+
 ## Mega-presídio no Ceará: Renan responde à imprensa que chamou proposta de "pior das eleições" (junho de 2026)
 
 Em **10 de junho de 2026**, Renan responde à imprensa que classificou sua proposta de construir o maior presídio do mundo no Ceará como "a pior proposta das eleições de 2026". Ironiza a crítica apontando a contradição do jornal O Povo (CE), que na mesma edição noticiava homicídios e a atuação do Comando Vermelho enquanto condenava a solução — o enfrentamento ao crime.

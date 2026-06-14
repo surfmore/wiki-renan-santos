@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-14] ingest | O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas (ingest automático)
+- Fonte criada: fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas
+- Páginas atualizadas: temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia a rota do PCC pelo Porto de Paranaguá para exportar cocaína para a Holanda — Roterdam; propõe intervenção nos portos; rejeita legalização das drogas usando o exemplo holandês como contra-argumento.
+
 ## [2026-06-14] ingest | O Japão tem uma estratégia para golear o Brasil (ingest automático)
 - Fonte criada: fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil
 - Páginas atualizadas: posicoes/Fusão de Municípios, pessoas/Kim Kataguiri, index.md, log.md, wiki/.processed_ids
