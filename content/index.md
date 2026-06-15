@@ -98,7 +98,7 @@ date: 2026-06-15
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">632</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">633</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">24</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -178,6 +178,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-15 - O Brasil está cínico]] — Renan reflete sobre o cinismo da sociedade brasileira a partir da morte trágica de uma moça em Limeira e dos comentários jocosos nas redes sociais; critica a normalização do absurdo e a alma corrompida do país
 - [[fontes/2026-06-14 - Romário está sendo cancelado!]] — Renan comenta o cancelamento de Romário por corrigir Fernanda Gentil; alerta para os riscos da Lei da Misoginia criminalizar divergências de opinião
 - [[fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas]] — Renan denuncia a rota do PCC pelo Porto de Paranaguá para exportar cocaína para a Holanda; propõe intervenção nos portos e rejeita a legalização das drogas com base no exemplo holandês.
 - [[fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil]] — Renan usa o exemplo do Japão na Copa para defender o modelo japonês de fusão de municípios como inspiração para o Brasil; cita Kim Kataguiri como aliado para implementar a política.
