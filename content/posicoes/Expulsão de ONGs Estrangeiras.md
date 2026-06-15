@@ -24,6 +24,14 @@ No vídeo "O agro brasileiro pode quebrar" (5 de abril), Renan eleva o tom e pro
 
 Ver também [[temas/Soberania Nacional e ONGs Estrangeiras]].
 
+## BR-163, Cargill e a invasão que parou a Ferrogrão (junho de 2026)
+
+Em **15 de junho de 2026**, Renan denuncia da BR-163, no Pará, a invasão da base da **Cargill** por indígenas ligados a ONGs e ao PSOL, que reclamavam de uma hidrovia conectada à Ferrogrão. A invasão gerou uma greve e paralisou o funcionamento da ferrovia. O governo cedeu às ameaças em vez de remover os invasores.
+
+Renan afirma: "ONG vagabunda que sabota o Brasil vai ser colocada para fora. Vamos alterar a legislação para que índio vagabundo que trabalha com invasão seja preso." O episódio reforça a conexão entre o bloqueio de infraestrutura e o financiamento estrangeiro de ONGs.
+
+Ver [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]].
+
 ## ONGs com pautas culturais e conflito social (junho de 2026)
 
 Em **1.º de junho de 2026**, Renan amplia o escopo da proposta para além das ONGs ambientais e de segurança: anuncia que expulsaria do Brasil **ONGs que recebem dinheiro internacional para pregar guerra entre os brasileiros** — especificamente aquelas que, segundo ele, difundem discursos que "pregam o ódio entre homens e mulheres, entre negros e brancos, entre gays e heterossexuais". Classifica essa atuação como "violência disfarçada de tolerância" e enquadra o tema como **questão de soberania nacional**. O contexto é a defesa de [[pessoas/Frei Gilson]] e a crítica à perseguição religiosa. Ver [[fontes/2026-06-01 - Frei Gilson é um Red Pill]] e [[temas/Liberdade Religiosa]].
@@ -40,6 +48,7 @@ Em **29 de outubro de 2025**, Renan incluiu pela primeira vez a proibição de O
 
 ## Fontes
 
+- [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]]
 - [[fontes/2026-06-01 - Frei Gilson é um Red Pill]]
 - [[fontes/2025-10-29 - Minha proposta para os governadores]]
 - [[fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão]]

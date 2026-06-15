@@ -276,6 +276,18 @@ Compara a abertura das Olimpíadas na China — "orgulho do que está fazendo ag
 
 Ver [[fontes/2026-02-10 - BAD BUNNY FAZ ATO POLÍTICO NO SUPER BOWL E IRRITA DONALD TRUMP]].
 
+## Ferrogrão e BR-163: a sabotagem da infraestrutura logística no Pará (junho de 2026)
+
+Em **15 de junho de 2026**, Renan grava da **BR-163**, no Pará, para denunciar o estado da principal estrada de escoamento agrícola e mineral da região. A rodovia federal está "absolutamente esburacada", com crateras tão profundas que "uma pessoa pode deitar aqui que ela não atinge o nível do asfalto". Renan aponta que a BR-163 não recebe investimentos federais e se tornou intrafegável.
+
+Ele contextualiza que a **Ferrogrão** — ferrovia que escoaria a produção do Centro-Oeste para portos do Norte — foi projetada justamente para eliminar a dependência dessa estrada, reduzindo poluição, tráfego de caminhões e custos logísticos. No entanto, a base da **Cargill** foi invadida por indígenas ligados a **ONGs** e ao **PSOL**, que reclamavam de uma hidrovia conectada à ferrovia, geraram uma greve e paralisaram o projeto.
+
+O governo, em vez de remover os invasores, cedeu às pressões. Renan responde com três propostas concretas: **expulsar ONGs estrangeiras** que sabotam o Brasil, **alterar a legislação** para prender indígenas que participam de invasões criminosas, e **recapear as estradas brasileiras** além de destravar a Ferrogrão.
+
+O episódio ilustra a tese recorrente de Renan: o Brasil teria capacidade infraestrutural e logística para competir globalmente, mas é travado por um sistema que cede a pressões de grupos com financiamento estrangeiro.
+
+Ver [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]].
+
 ## Gastrodiplomacia e marca Brasil: agregar valor à produção nacional (junho de 2026)
 
 Em **6 de junho de 2026**, Renan propõe a gastrodiplomacia como parte de uma estratégia nacional de **construção de marca-país**. O diagnóstico é o mesmo de outros temas de ambição nacional: o Brasil produz matéria-prima de qualidade mas não captura o valor agregado.
@@ -286,6 +298,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] — BR-163 no Pará em ruínas; Ferrogrão sabotada por ONGs e PSOL; propostas de expulsão e repavimentação
 - [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso à IA mais avançada; proposta de Brasil como país dos data centers; terras raras como moeda de troca
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia; agregação de valor; denominação de origem; marca Brasil
 - [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — PIX como conquista tecnológica brasileira ameaçada por pressão americana e taxação de Lula

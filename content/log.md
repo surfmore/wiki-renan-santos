@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-15] ingest | Quando a Ferrogrão vai sair do papel (ingest automático)
+- Fonte criada: fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, posicoes/Expulsão de ONGs Estrangeiras, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia da BR-163 no Pará o estado deplorável da estrada de escoamento agrícola; a Ferrogrão sabotada por invasão de base da Cargill por indígenas ligados a ONGs e PSOL; propõe expulsão de ONGs estrangeiras e alteração da legislação.
+
 ## [2026-06-15] lint | Lint completo — links quebrados, stale files, contagens
 - **Stale files removidos (16)**: arquivos órfãos em site/content/fontes/ que não existiam em wiki/fontes/ — nomes truncados/alternativos de versões anteriores
 - **Fontes renomeadas (4)**: removidos pontos extras ao final de nomes (ex: "2026-05-01 - Sim, Flavio fez acordo com o Xandão..md" → "...Xandão.md")
