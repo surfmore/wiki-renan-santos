@@ -5,8 +5,9 @@ tags:
   - gênero
   - identidade
   - esquerda
-date: 2026-06-09
+date: 2026-06-14
 fontes:
+  - "2026-06-14 - Romário está sendo cancelado!"
   - "2026-06-09 - Cotas num hospital privado"
   - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
@@ -18,6 +19,22 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Caso Romário: cancelamento e o perigo da Lei da Misoginia (junho de 2026)
+
+Em **14 de junho de 2026**, Renan comenta a polêmica envolvendo o senador [[pessoas/Romário]], que foi alvo de campanha de cancelamento nas redes após corrigir de forma veemente a comentarista esportiva Fernanda Gentil durante transmissão da Copa do Mundo.
+
+Renan defende Romário no episódio, argumentando que ele apenas deu sua opinião como daria com qualquer comentarista homem. Citou Renata Fan como exemplo de mulher que participa de programas esportivos, é corrigida e corrige homens, sem tratamento especial. A deputada do PSOL Fernanda Melchiona havia classificado o discurso de Romário como "forma de diminuir profissionalmente as mulheres."
+
+Renan usa o caso como alerta concreto sobre os riscos da Lei da Misoginia: se a lei for aprovada, episódios como esse poderiam se tornar inquéritos e processos penais, e Romário poderia ser preso por discordar de uma comentarista em uma área em que é especialista.
+
+> "Se a lei da misoginia passar, coisas como essa podem se tornar, por exemplo, inquéritos e processos penais. E um cara como Romário, em última instância, pode ser preso simplesmente porque ele discordou de maneira veemente de uma comentarista."
+
+Renan critica Romário por, como senador, não ter se oposto ao projeto — "em vez de ter se oposto a esse projeto absurdo da lei da misoginia, ele preferiu se ausentar."
+
+> "Eu quero viver num país em que homens e mulheres possam opinar numa boa, sem medo de cancelamento e sem patrulha de gente desocupada. Judiciário vai cuidar de bandido e não de cidadão dando opinião."
+
+Ver [[fontes/2026-06-14 - Romário está sendo cancelado!]].
 
 ## Cotas em hospital privado: MP exige 55% de cotistas no Albert Einstein (junho de 2026)
 
@@ -284,6 +301,7 @@ Ver [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] e [[font
 
 ## Fontes
 
+- [[fontes/2026-06-14 - Romário está sendo cancelado!]] — Renan usa o cancelamento de Romário para alertar sobre os riscos da Lei da Misoginia
 - [[fontes/2026-06-09 - Cotas num hospital privado]] — MP exige 55% de cotistas no Hospital Albert Einstein; Renan critica e propõe alternativa meritocrática
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]]
 - [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]]

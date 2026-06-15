@@ -98,10 +98,10 @@ date: 2026-06-14
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">631</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">632</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">24</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
-<a class="wiki-stat" href="/pessoas"><span class="num">46</span><span class="label">Pessoas</span></a>
+<a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
 
@@ -147,6 +147,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/pessoas/Romário"><div class="wiki-card-header"><span class="wiki-card-icon">⚽</span><span class="wiki-card-title">Romário</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ex-jogador e senador. Renan o chama de craque do futebol mas péssimo senador; critica sua omissão sobre a Lei da Misoginia.</p></a>
 <a class="wiki-card" href="/pessoas/Juliano-Cazarré"><div class="wiki-card-header"><span class="wiki-card-icon">🎭</span><span class="wiki-card-title">Juliano Cazarré</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ator da Globo de direita. Alvo de censura feminista por seu curso de masculinidade tradicional.</p></a>
 <a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, cotado como chanceler.</p></a>
 <a class="wiki-card" href="/pessoas/Daniel-Vorcaro"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Daniel Vorcaro</span><span class="wiki-card-count">75 fontes</span></div><p class="wiki-card-desc">Banqueiro do Master, preso em jan. 2026. Renan o compara ao americano Jeffrey Epstein.</p></a>
@@ -160,7 +161,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Érika-Hilton"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️‍🌈</span><span class="wiki-card-title">Érika Hilton</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Relatório que isenta ONGs LGBT de energia elétrica financiado pelo CDE; usou a AGU para processar jornalista; votou contra aumento de penas para crimes hediondos.</p></a>
 <a class="wiki-card" href="/pessoas/Joesley-Batista"><div class="wiki-card-header"><span class="wiki-card-icon">🥩</span><span class="wiki-card-title">Joesley Batista</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Empresário da JBS. Maior beneficiado de leilão de termoelétricas de R$ 1 tri; R$ 40M a Ciro Nogueira.</p></a>
 <a class="wiki-card" href="/pessoas/Carlos-Brandão"><div class="wiki-card-header"><span class="wiki-card-icon">🏗️</span><span class="wiki-card-title">Carlos Brandão</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Governador do MA. Omissão em estradas, ponte de Estreito desabada e competição com Braide após denúncias.</p></a>
-<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 46 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
+<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 47 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📰 Eventos</p>
@@ -177,6 +178,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-14 - Romário está sendo cancelado!]] — Renan comenta o cancelamento de Romário por corrigir Fernanda Gentil; alerta para os riscos da Lei da Misoginia criminalizar divergências de opinião
 - [[fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas]] — Renan denuncia a rota do PCC pelo Porto de Paranaguá para exportar cocaína para a Holanda; propõe intervenção nos portos e rejeita a legalização das drogas com base no exemplo holandês.
 - [[fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil]] — Renan usa o exemplo do Japão na Copa para defender o modelo japonês de fusão de municípios como inspiração para o Brasil; cita Kim Kataguiri como aliado para implementar a política.
 - [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso de não americanos à IA mais avançada; Renan propõe Brasil como país dos data centers e uso de terras raras como moeda de troca.

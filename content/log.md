@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-14] ingest | Romário está sendo cancelado! (ingest automático)
+- Fonte criada: fontes/2026-06-14 - Romário está sendo cancelado!
+- Páginas criadas: pessoas/Romário
+- Páginas atualizadas: temas/Pautas Identitárias e de Gênero, index.md, log.md, wiki/.processed_ids
+- Nota: Renan comenta o cancelamento de Romário após corrigir Fernanda Gentil na Copa; alerta sobre os riscos da Lei da Misoginia criminalizar opiniões divergentes; critica Romário como péssimo senador por se omitir do debate.
+
 ## [2026-06-14] ingest | O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas (ingest automático)
 - Fonte criada: fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas
 - Páginas atualizadas: temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
