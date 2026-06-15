@@ -43,7 +43,7 @@ Renan aponta duas votações de Érika Hilton como diretamente responsáveis pel
 
 > "Sim, Érika Hilton, Lula, o PT e companhia estão com as mãos sujas de sangue por todos os crimes hediondos cometidos por esses jovens."
 
-Ver [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estupro coletivo]].
+Ver [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estvpro coletivo]].
 
 ## PEC da escala 6x1: 122 faltas e ausência na própria votação (abril de 2026)
 
@@ -79,7 +79,7 @@ Ver [[pessoas/Oruam]].
 
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — relatório de isenção de energia para ONGs LGBT financiado pelo CDE
 - [[fontes/2026-04-19 - Erika Hilton x Madeleine Lackso]]
-- [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estupro coletivo]]
+- [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estvpro coletivo]]
 - [[fontes/2026-05-01 - A proposta mais burra que você vai ver hoje]]
 - [[fontes/2026-03-15 - ÉRIKA HILTON É VIOLENTA CONTRA MULHERES]]
 - [[fontes/2026-03-31 - ERIKA HILTON FOI NO RODA VIVA FALAR SOBRE AS MULHERES]]

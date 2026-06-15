@@ -273,7 +273,7 @@ Em **6 de fevereiro de 2026**, Renan comenta propaganda oficial do governo Lula 
 
 > "O PT, o partido dos trabalhadores, é inimigo de quem trabalha."
 
-Ver [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]].
+Ver [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]].
 
 ## Fontes
 
@@ -290,4 +290,4 @@ Ver [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]].
 - [[fontes/2026-02-25 - ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL]] — estigma do fracasso; modelo asiático de desenvolvimento
 - [[fontes/2026-02-24 - TEM COMO ACABAR A ESCALA 6x1 NO BRASIL]] — cadeia causal: gasto excessivo → juros altos → baixa produtividade
 - [[fontes/2026-02-23 - VIRAMOS O PAÍS DO ASSISTENCIALISMO]] — assistencialismo cresceu 500%, PIB menos de 300%; comparação com China e Índia
-- [[fontes/2026-02-06 - O QUE O PT PENSA DE QUEM TRABALHA]] — trabalhador chamado de "playboy"; propaganda removida do governo Lula
+- [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]] — trabalhador chamado de "playboy"; propaganda removida do governo Lula

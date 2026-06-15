@@ -22,7 +22,7 @@ Renan descreve a justiça maranhense como "uma das mais caras e cheias de privil
 
 > "Aí depois reclamam quando eu digo que o Maranhão tá todo errado."
 
-Ver [[fontes/2026-06-13 - Fui censurado....]].
+Ver [[fontes/2026-06-13 - Fui censurado...]].
 
 ## MP do Ceará: supersalários e diárias para a Copa do Mundo (junho de 2026)
 
@@ -137,7 +137,7 @@ Ver [[fontes/2026-02-04 - DEPUTADOS VOTAM PARA AUMENTAR SALÁRIO ATÉ R$77 MIL P
 
 ## Investigação de Marcola prescreveu após 16 anos (dezembro de 2025)
 
-Em [[fontes/2025-12-13 - TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO....]], Renan usa a notícia de que uma investigação de **174 réus por associação criminosa envolvendo Marcola** prescreveu após 16 anos — simplesmente porque os investigadores "não conseguiram citar um cara" — para ilustrar o colapso entre custo e entrega do judiciário.
+Em [[fontes/2025-12-13 - TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO...]], Renan usa a notícia de que uma investigação de **174 réus por associação criminosa envolvendo Marcola** prescreveu após 16 anos — simplesmente porque os investigadores "não conseguiram citar um cara" — para ilustrar o colapso entre custo e entrega do judiciário.
 
 O dado comparativo: o Brasil gasta, **em porcentagem do PIB, 10 vezes mais em judiciário do que a Argentina** — e a Argentina "também é conhecida por ser um país de privilégios." Renan resume: "Pagamos para ter a justiça mais cara do mundo. Os caras ganham os mundos e fundos com todas as verbas indenizatórias e não conseguem resolver nem o mais óbvio."
 
@@ -155,7 +155,7 @@ Em **12 de setembro de 2025**, Renan exibe imagens de uma juíza conversando de 
 - [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes em Lisboa no "Gilmarpalooza"
 - [[fontes/2025-09-10 - Prepare-se para ficar revoltado]]
 - [[fontes/2025-09-12 - Até quando você vai aguentar esse esculacho]]
-- [[fontes/2025-12-13 - TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO....]]
+- [[fontes/2025-12-13 - TEMOS O JUDICIÁRIO MAIS CARO DO MUNDO...]]
 - [[fontes/2026-03-02 - MINAS GERAIS, VAMOS FALAR DO TRIBUNAL DE JUSTIÇA]]
 - [[fontes/2026-03-01 - JUÍZA NÃO ESTÁ RECEBENDO LANCHE]]
 - [[fontes/2026-02-21 - O TRIBUNAL DE MINAS RESOLVEU INOVAR]]

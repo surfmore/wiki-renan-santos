@@ -86,12 +86,12 @@ Detalhe operacional: se o governador "ficar ao lado do crime organizado" e se re
 
 > "Não existe democracia quando o crime organizado controla o território. A democracia pressupõe que o Estado tenha o monopólio da força."
 
-Ver [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]].
+Ver [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]].
 
 ## Fontes
 
 - [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — estado de defesa em MG; transferência de faccionados para presídios remotos; proteção jurídica a policiais
 - [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]] — excludente de ilicitude; resposta à fala de Lula sobre "atirar antes de perguntar"
 - [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — proibição de símbolos de facções; BDM e CV em Salvador
-- [[fontes/2026-04-26 - Estados leniéticos e o caso do Ceará e Bahia]] — Ceará e Bahia como casos urgentes; mecanismo de afastamento de governador
+- [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]] — Ceará e Bahia como casos urgentes; mecanismo de afastamento de governador
 - [[fontes/2026-04-07 - O PCC chegou no interior do Maranhão]] — variante operacional; intervenção em bairros e cidades específicas

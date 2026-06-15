@@ -223,7 +223,7 @@ A composição eleitoral de Renan, segundo pesquisa da "Nexos" citada em **1º d
 
 > "Eu vou pro Nordeste e roubo votos do PT por lá. Isso é uma bomba atômica."
 
-Ver [[fontes/2026-04-30 - Flávio Bolsonaro é a única salvação contra Lula]] e [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]].
+Ver [[fontes/2026-04-30 - Flavio Bolsonaro é a única salvação contra Lula]] e [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]].
 
 ## "Teatro das tesouras": acordo para suprimir CPI do Master (abril/maio de 2026)
 
@@ -508,7 +508,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
-- [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República.]]
+- [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República]]
 - [[fontes/2025-12-16 - A OPOSIÇÃO NO BRASIL É HORRÍVEL]]
 - [[fontes/2025-12-15 - Resposta ao Nikolas Ferreira]]
 - [[fontes/2025-12-14 - Sobre a treta Tarcísio x Flávio Bolsonaro]]
@@ -519,4 +519,4 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 - [[fontes/2026-02-01 - FLÁVIO BOLSONARO DESTRUIU A NOSSA REVOLUÇÃO]]
 - [[fontes/2026-02-04 - PARABÉNS AOS ENVOLVIDOS NA MARCHA ATÉ BRASILIA DO NIKOLAS]]
 - [[fontes/2026-02-04 - VALE GÁS É PROGRAMA DE COMPRA DE VOTO DO LULA]]
-- [[fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COA
+- [[fontes/2026-02-12 - TOFFOLI DESTRÓI TRABALHO DO COAF]]

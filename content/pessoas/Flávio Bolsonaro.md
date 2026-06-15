@@ -262,7 +262,7 @@ A composição eleitoral de Renan, citando pesquisa da "Nexos", inclui eleitores
 
 > "Eu sou a bomba atômica que eles não esperavam."
 
-Ver [[fontes/2026-04-30 - Flávio Bolsonaro é a única salvação contra Lula]].
+Ver [[fontes/2026-04-30 - Flavio Bolsonaro é a única salvação contra Lula]].
 
 ## Manifesto de março de 2026: "discurso corajoso" sem citar ninguém
 
@@ -331,10 +331,10 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 - [[fontes/2026-05-03 - Belford Roxo é pior que o Maranhão]]
 - [[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]]
 - [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]]
-- [[fontes/2026-04-30 - Flávio Bolsonaro é a única salvação contra Lula]]
+- [[fontes/2026-04-30 - Flavio Bolsonaro é a única salvação contra Lula]]
 - [[fontes/2026-03-13 - PARABÉNS PARA A DIREITA BRASILEIRA]]
 - [[fontes/2026-04-07 - Resposta ao Flávio Bolsonaro]]
 - [[fontes/2026-04-01 - Quero conversar com você, eleitor bolsonarista]]
 - [[fontes/2026-04-01 - Um pedido de desculpas]]
 - [[fontes/2026-03-29 - O Flávio Bolsonaro votou pra cair na armadilha. E sabia disso]]
-- [[fontes/2026-03-31 - O PT começou a atacar o Flávio
+- [[fontes/2026-03-31 - O PT começou a atacar o Flávio Bolsonaro]]

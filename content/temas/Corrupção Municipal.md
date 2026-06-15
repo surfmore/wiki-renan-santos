@@ -289,7 +289,7 @@ Renan usa o episódio para criticar a justiça maranhense: "uma das mais caras e
 
 Renan afirma que Ingrid foi convidada pelo **União Brasil** a ser candidata a deputada federal. Conclui: "se você denuncia o problema, você termina censurado".
 
-Ver [[fontes/2026-06-13 - Fui censurado....]]
+Ver [[fontes/2026-06-13 - Fui censurado...]]
 
 ## Arari (MA): emenda roubada e a influencer do ex-prefeito (dezembro de 2025)
 

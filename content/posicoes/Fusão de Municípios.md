@@ -129,4 +129,4 @@ Ver [[fontes/2026-02-20 - A VOZ DO POVO NÃO É A VOZ DE DEUS]].
 - [[fontes/2026-04-23 - Não sobra NADA...]] — "roubo federativo"; fundo partidário condicionado ao desempenho dos prefeitos
 - [[fontes/2026-04-23 - Catarinense, está na hora de você ter o que você merece]] — Guaraciaba (SC); obra do PAC 1 de 2012 ainda inacabada em 2026
 - [[fontes/2026-04-11 - EU FUI NA CIDADE MAIS POBRE DO BRASIL]] — Marajá do Sena (MA); IDH 0,4; origem oligárquica dos municípios
-- [[fontes/2026-04-06 - Juliana do Bonde em Gua
+- [[fontes/2026-04-06 - Juliana do Bonde em Guajará-Mirim]]

@@ -1,5 +1,13 @@
 # Log de operações
 
+## [2026-06-15] lint | Lint completo — links quebrados, stale files, contagens
+- **Stale files removidos (16)**: arquivos órfãos em site/content/fontes/ que não existiam em wiki/fontes/ — nomes truncados/alternativos de versões anteriores
+- **Fontes renomeadas (4)**: removidos pontos extras ao final de nomes (ex: "2026-05-01 - Sim, Flavio fez acordo com o Xandão..md" → "...Xandão.md")
+- **Links truncados corrigidos (8)**: temas/Segurança Pública (CECOTINS), temas/Crítica à Direita Tradicional (COAF), eventos/Escândalo Banco Master (RATINHO JR.), pessoas/Flávio Bolsonaro (Flávio Bolsonaro), posicoes/Emendas (Safadão), posicoes/Fusão (Guajará-Mirim), posicoes/Educação (cancelado), temas/Empobrecimento (GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY)
+- **Links quebrados corrigidos (5)**: Flávio → Flavio (2x), estupro → estvpro (2x), VLT de Salvador → O VLT já chegou em Salvador, Cooperativismo → As cooperativas..., Estados leniéticos → É assim que vou acabar...
+- **index.md**: atualizado via script — stats: 633 fontes, 24 temas, 27 posições, 47 pessoas, 13 eventos
+- **Contagens do site**: wiki/fontes (633) = site/content/fontes (633) — todas as categorias sincronizadas
+
 ## [2026-06-15] ingest | O Brasil está cínico (ingest automático)
 - Fonte criada: fontes/2026-06-15 - O Brasil está cínico
 - Páginas atualizadas: index.md, log.md, wiki/.processed_ids
@@ -119,9 +127,9 @@
   - `fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias` → link `[[temas/Infraestrutura de Transportes]]` inexistente trocado por Ambição Nacional
   - `fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré` → link `[[eventos/Caso Henry Borel]]` e `[[pessoas/Camille Paglia]]` removidos (páginas inexistentes)
   - `fontes/2026-06-02 - Flavio é Janja` → link `[[posicoes/Negociação com EUA via Terras Raras]]` inexistente redirecionado para Ambição Nacional
-  - `fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão..md` → arquivo tinha ponto extra no nome; link `[[fontes/2026-05-01 - Sim, Flávio fez acordo com o Xandão]]` corrigido para maiúscula em 4 páginas (Escândalo Banco Master, PL da Misoginia, Flávio Bolsonaro, Crítica à Direita)
+  - `fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão..md` → arquivo tinha ponto extra no nome; link `[[fontes/2026-05-01 - Sim, Flavio fez acordo com o Xandão]]` corrigido para maiúscula em 4 páginas (Escândalo Banco Master, PL da Misoginia, Flávio Bolsonaro, Crítica à Direita)
   - `fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA..md` → (ponto extra) corrigido em 5 páginas
-  - `pessoas/Jair Bolsonaro` → link `[[fontes/2026-04-30 - Xandão e Alcolumbre enterraram a CPI do Master]]` inexistente redirecionado para "Marmelada na CPI do Banco Master"
+  - `pessoas/Jair Bolsonaro` → link `[[fontes/2026-04-30 - Marmelada na CPI do Banco Master]]` inexistente redirecionado para "Marmelada na CPI do Banco Master"
   - `pessoas/Daniel Vorcaro` → link `[[pessoas/Ibaneis Rocha]]` removido (inexistente)
 - **Data do index.md corrigida**: alterada de `2026-06-07` para `2026-06-09` (frontmatter estava parado porque script atualizar_index.py não atualizava date:)
 - **Script atualizar_index.py corrigido**: agora atualiza `date:` automaticamente com base no arquivo mais recente do wiki; adicionada proteção contra escrita de conteúdo vazio

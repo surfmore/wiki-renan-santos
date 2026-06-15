@@ -146,7 +146,7 @@ Contexto legal: o **PL 1112 de 2023**, que aumentava penas para crimes hediondos
 
 Renan relaciona a postura do PT a um projeto ideológico de usar o "jovem marginal" como instrumento de "destruir o sistema".
 
-Ver [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estupro coletivo]].
+Ver [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estvpro coletivo]].
 
 ## PL da Misoginia: criação de espaços cinzentos (abril de 2026)
 

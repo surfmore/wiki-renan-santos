@@ -129,5 +129,5 @@ Ver [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] e [[posico
 - [[fontes/2026-02-28 - KHAMENEI ESTÁ MORTO]] — mundo baseado em força; queda do BRICS; bomba como soberania
 - [[fontes/2026-01-03 - Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República]] — medidas imediatas pós-intervenção na Venezuela
 - [[fontes/2026-01-03 - Qual o próximo país, Trump]] — Brasil como "próximo caso" após Venezuela
-- [[fontes/2026-01-03 - URGENTE - Trump sequestra Maduro]] — intervenção americana na Venezuela; análise geopolítica
-- [[fontes/2026-01-03 - Atenção - Trump anunciou interventor na Venezuela]] — nova Doutrina Monroe; terras raras e petróleo
+- [[fontes/2026-01-03 - URGENTE - Trump sequestra Maduro e inaugura uma nova era na América Latina]] — intervenção americana na Venezuela; análise geopolítica
+- [[fontes/2026-01-03 - Atenção - Trump anunciou que vai colocar um interventor na Venezuela]] — nova Doutrina Monroe; terras raras e petróleo

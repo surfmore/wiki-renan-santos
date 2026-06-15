@@ -87,4 +87,4 @@ Ver [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]].
 
 - [[fontes/2026-05-21 - RENAN AO VIVO - MARCHA DOS PREFEITOS EM BRASÍLIA]] — proposta de inversão deputado/prefeito; alteração do Art. 167 §7 da CF
 - [[fontes/2026-05-21 - Quem paga a banda escolhe a música!]] — "quem paga a banda escolhe a música"
-- [[fontes/2026-05-07 - Minha resposta ao Wesley Safadã
+- [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]]

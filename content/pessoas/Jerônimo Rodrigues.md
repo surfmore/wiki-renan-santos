@@ -31,11 +31,11 @@ O primeiro é o **VLT de Salvador**: orçado em R$1 bilhão, já custou mais de 
 
 > "Lugar controlado pelo PT sempre fica mais pobre."
 
-O segundo é o **domínio das facções sobre o território de Salvador**: mais de 20 facções disputam o município, cobram "taxa de proteção" de 30% de empresas de internet para operar nos bairros e assassinam trabalhadores que atuam em áreas sob controle de facções rivais. Três instaladores de internet foram assassinados por trabalhar em área de facção rival — episódio que Renan usa para ilustrar a omissão do governador. Ver [[fontes/2026-05-26 - VLT de Salvador e facções]].
+O segundo é o **domínio das facções sobre o território de Salvador**: mais de 20 facções disputam o município, cobram "taxa de proteção" de 30% de empresas de internet para operar nos bairros e assassinam trabalhadores que atuam em áreas sob controle de facções rivais. Três instaladores de internet foram assassinados por trabalhar em área de facção rival — episódio que Renan usa para ilustrar a omissão do governador. Ver [[fontes/2026-05-26 - O VLT já chegou em Salvador]].
 
 ## Fontes
 
 - [[fontes/2026-05-28 - Transformaram um presídio na Bahia em hotel de luxo!]] — presídio-hotel; relação entre crime e coligação de governo
 - [[fontes/2026-05-27 - Eu fui onde morreu um homem com 100 tiros]] — chacina do CV; responsabilização de Jerônimo
 - [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — praia da Gamboa controlada pelo CV; leniência do governador
-- [[fontes/2026-05-26 - VLT de Salvador e facções]] — VLT acima do orçamento; facções cobrando taxa de proteção; migração da população
+- [[fontes/2026-05-26 - O VLT já chegou em Salvador]] — VLT acima do orçamento; facções cobrando taxa de proteção; migração da população

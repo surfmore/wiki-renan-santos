@@ -432,4 +432,4 @@ O caso reforça a tese de Renan de que o escândalo envolve tanto PT quanto bols
 - [[fontes/2026-03-08 - O que um país sério tem que fazer com Alexandre de Moraes]]
 - [[fontes/2026-03-23 - DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA]]
 - [[fontes/2026-03-22 - Edir Macedo tem seu próprio Banco Master]]
-- [[fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDA
+- [[fontes/2026-03-24 - RATINHO JR. NÃO SERÁ MAIS CANDIDATO]]

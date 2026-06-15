@@ -98,7 +98,7 @@ date: 2026-06-15
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">633</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">634</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">24</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -184,7 +184,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil]] — Renan usa o exemplo do Japão na Copa para defender o modelo japonês de fusão de municípios como inspiração para o Brasil; cita Kim Kataguiri como aliado para implementar a política.
 - [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso de não americanos à IA mais avançada; Renan propõe Brasil como país dos data centers e uso de terras raras como moeda de troca.
 - [[fontes/2026-06-13 - E se Marrocos derrotar o Brasil hoje]] — Renan usa o jogo Brasil x Marrocos pela Copa para explicar o Sebastianismo e sua influência na política brasileira, de Dom Sebastião a Lula e Bolsonaro.
-- [[fontes/2026-06-13 - Fui censurado....]] — Renan é censurado pela justiça do Maranhão após denunciar ex-prefeito corrupto de Arari e sua influenciadora; crítica ao judiciário maranhense.
+- [[fontes/2026-06-13 - Fui censurado...]] — Renan é censurado pela justiça do Maranhão após denunciar ex-prefeito corrupto de Arari e sua influenciadora; crítica ao judiciário maranhense.
 - [[fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa]] — Renan mostra máquina agrícola automática japonesa; denuncia impostos que impedem pequeno agricultor de acessar tecnologia; propõe eliminar impostos sobre máquinas que aumentem produtividade; cita Saito, nipo-brasileiro maior produtor de cebolinha do Japão; paralelo com Embrapa.
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — Renan critica relatório de Érika Hilton que isenta ONGs LGBT de pagar energia; financiado pelo CDE que representa 15% da conta de luz; conecta ao "Eletrolão" e "Luz para Todos"; promete derrubar subsídios seletivos.
 - [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]] — Renan denuncia gastos do MP do Ceará com diárias para a Copa do Mundo e supersalários de 87% dos membros.
@@ -209,9 +209,4 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — Renan critica Chelsea/Lula por investimento superficial em quadra na favela; propõe desfavelização com bolsas de estudo como alternativa real.
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — Renan critica Flávio Bolsonaro por votar o PL da Misoginia; defende Juliano Cazarré de censura feminista; apresenta dados sobre saúde masculina.
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — Renan propõe gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira; churrasco diplomático.
-- [[fontes/2026-06-06 - Já politizaram a copa!]] — Renan critica politização do futebol pela esquerda; compara 434 mortos na ditadura com violência atual das facções; critica hipocrisia sobre censura.
-- [[fontes/2026-06-02 - Atenção, Maranhão!]] — Renan denuncia ação no STF para proibir famílias maranhenses de retirar filhos de aulas com conteúdo de gênero; promete "derrubar por decreto" e nomear ministro católico.
-- [[fontes/2026-06-01 - Você também concorda com esse vídeo]] — Renan detalha ligações de Flávio Bolsonaro com figuras do Comando Vermelho no Rio (Bacelar, TH Joias, Índio do Lixão); apela ao eleitor conservador para não apoiar Flávio.
-- [[fontes/2026-06-01 - O verdadeiro plano do Lula]] — Renan analisa o fim da escala 6x1 proposto por Lula como instrumento de dependência política; mostra mapas que correlacionam Bolsa Família com votos no PT; compara modelo ao da Venezuela.
-- [[fontes/2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!]] — Renan anuncia que dobrou na pesquisa Real Time Big Data (3% → 6%); cita Atlas como instituto de referência que previu fenômeno similar na Colômbia.
-- [[fontes/2026-06-01 - Frei Gilson é um Red Pill]] — Renan defende Frei Gilson con
+- [[fontes/2026-06-06 - Já politizaram a copa!]] — Renan critica politização do futebol pela esquerda; c

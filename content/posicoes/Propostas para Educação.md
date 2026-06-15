@@ -78,7 +78,7 @@ A posição: crianças autistas com necessidades especiais devem ter **salas sep
 
 A crítica adicional: a lei abriu mercado para laudos falsos de autismo que permitem acesso ao BPC e a isenções fiscais. *"No meu governo, vamos passar o pente fino no BPC e pegar advogado e psiquiatra usando laudo falso."*
 
-Ver [[fontes/2026-05-09 - Letícia Sabatella autista]] e [[fontes/2026-05-10 - Renan é autista Por que razão ele foi cancelado]].
+Ver [[fontes/2026-05-09 - Letícia Sabatella autista]] e [[fontes/2026-05-10 - Renan é autista Por que razão ele foi cancelado]] cancelado]].
 
 ## Homeschooling: regulamentação e punição a juízes ideológicos (maio de 2026)
 
@@ -98,4 +98,4 @@ Ver [[fontes/2026-05-20 - Condenados por homeschooling]].
 - [[fontes/2026-05-20 - Condenados por homeschooling]] — homeschooling; juiz ideológico Júnior da Luz Miranda; punições para juízes
 - [[fontes/2026-05-13 - O que os estudantes da USP fizeram]] — fim da autonomia universitária; jubilamento de grevistas; endowments; custo de R$ 643M para contribuintes
 - [[fontes/2026-05-09 - Letícia Sabatella autista]] — salas separadas para autistas; Lei Berenice Piana; laudos falsos
-- [[fontes/2026-05-10 - Renan é autista Por que razão ele foi 
+- [[fontes/2026-05-10 - Renan é autista Por que razão ele foi cancelado]] 
