@@ -10,7 +10,7 @@ fontes:
   - "2026-01-03 - URGENTE - Trump sequestra Maduro"
   - "2026-01-03 - Qual o próximo país, Trump"
   - "2026-01-03 - Pronunciamento Oficial"
-  - "2026-01-03 - Atenção - Trump anunciou interventor na Venezuela"
+  - "2026-01-03 - Atenção - Trump anunciou interventor na Venezuela]]"
   - "2026-02-28 - KHAMENEI ESTÁ MORTO"
   - "2026-06-02 - Flavio é Janja"
 ---
