@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-16] ingest | Eu fui no maior aquífero do mundo (ingest automático)
+- Fonte criada: fontes/2026-06-16 - Eu fui no maior aquífero do mundo
+- Páginas criadas: temas/Recursos Hídricos e Saneamento
+- Páginas atualizadas: pessoas/Família Barbalho, eventos/COP30 — Legado em Belém, temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: Renan visita Alter do Chão (PA) e expõe o paradoxo do maior aquífero do mundo ao lado da maior cidade brasileira sem saneamento; crítica aos Barbalhos e à taxação de poços artesianos pela concessionária paraense.
+
 ## [2026-06-15] ingest | O governo espanhol comprou minha pre-campanha (ingest automático)
 - Fonte criada: fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha
 - Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids

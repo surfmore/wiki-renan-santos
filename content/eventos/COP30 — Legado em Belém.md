@@ -6,8 +6,9 @@ tags:
   - belém
   - corrupção
   - desigualdade
-date: 2025-11-17
+date: 2026-06-16
 fontes:
+  - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2025-11-17 - O Brasil está sendo humilhado!"
   - "2025-11-18 - Você ainda vai me responder, Lula!"
   - "2025-11-19 - Resposta para a humorista alemã"
@@ -48,6 +49,12 @@ A COP30 sabotou dois pilares do desenvolvimento do Pará, na leitura de Renan:
 - O **agronegócio**, principal vetor econômico do estado
 
 > "Um evento de autossabotagem. Vou pagar quatro bilhões para me autoabotar aqui."
+
+## Saneamento e o paradoxo do aquífero (junho de 2026)
+
+Em **16 de junho de 2026**, em visita a Alter do Chão (PA), Renan revela que a COP30 também pressionou o governo paraense a firmar parceria com a iniciativa privada para uma empresa de saneamento — já que Belém, cidade-sede do evento, era descrita como "altamente favelizada" com "pouquíssimo saneamento." A população de Santarém, cidade a 750 km de Belém assentada sobre o maior aquífero do mundo, tem apenas 3% de cobertura de saneamento e 40% de acesso à água potável.
+
+A pressão internacional da COP, na leitura de Renan, forçou o governo dos [[pessoas/Família Barbalho]] a agir — mas sem resolver o problema estrutural de décadas de descaso. Ver [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]].
 
 ## A ressaca moral (dezembro de 2025)
 

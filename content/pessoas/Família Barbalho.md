@@ -5,14 +5,21 @@ tags:
   - oligarquia
   - pará
   - nordeste
-date: 2025-12-23
+date: 2026-06-16
 fontes:
+  - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2025-12-23 - Por que Pará ama os Barbalhos"
 ---
 
 Oligarquia política do Pará que, segundo Renan Santos, domina o estado há mais de um século — desde o período colonial. Renan usa a família como exemplo máximo de como uma dynasty política se perpetua mesmo produzindo indicadores sociais desastrosos.
 
 > Nota: esta página reproduz afirmações de Renan Santos sobre a família. Não constitui verificação independente.
+
+## Santarém: maior aquífero do mundo, menor cidade sem saneamento (junho de 2026)
+
+Em **16 de junho de 2026**, durante visita a Alter do Chão (PA), Renan expõe o paradoxo do Pará sob os Barbalhos: o estado abriga o **maior reservatório de água doce do mundo** (com o dobro do Aquífero Guarani, capaz de abastecer o planeta por 21 anos), mas **Santarém** — maior cidade próxima, com 330.000 habitantes — é a **maior cidade do Brasil sem saneamento básico**. Apenas 3% têm saneamento e 40% têm acesso à água potável.
+
+Renan denuncia que a concessionária paraense de águas passou a **taxar moradores que têm poço artesiano** em suas próprias casas, e que o governo, pressionado pela COP30, recorreu a parceria privada que também foi paralisada. Sua conclusão: o Pará é tratado como "colônia de exploração da Família Barbalho." Ver [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]].
 
 ## Origem colonial
 

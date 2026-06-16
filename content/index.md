@@ -98,8 +98,8 @@ date: 2026-06-16
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">636</span><span class="label">Fontes</span></a>
-<a class="wiki-stat" href="/temas"><span class="num">24</span><span class="label">Temas</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">637</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/temas"><span class="num">25</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
@@ -111,6 +111,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/temas/Recursos-Hídricos-e-Saneamento"><div class="wiki-card-header"><span class="wiki-card-icon">💧</span><span class="wiki-card-title">Recursos Hídricos e Saneamento</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Paradoxo do Brasil como potência hídrica: maior aquífero do mundo em Alter do Chão ao lado da maior cidade sem saneamento do país; taxação de poços artesianos no Pará e aquífero não perfurado no RN.</p></a>
 <a class="wiki-card" href="/temas/Sebastianismo-e-Messianismo-Político"><div class="wiki-card-header"><span class="wiki-card-icon">👑</span><span class="wiki-card-title">Sebastianismo e Messianismo Político</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Análise do mito de Dom Sebastião como chave para entender o messianismo na política brasileira, do coronelismo nordestino a Lula e Bolsonaro.</p></a>
 <a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
 <a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">85 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios, portos e desfavelização como solução estrutural.</p></a>
@@ -124,7 +125,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
 <a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">9 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza", gastos do MP-CE na Copa e reforma como prioridade fiscal.</p></a>
 <a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; CDE e subsídios seletivos na conta de luz; Nordeste como polo de energia renovável.</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 24 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 25 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
@@ -178,6 +179,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]] — Renan visita Alter do Chão (PA), o maior aquífero do mundo; paradoxo de Santarém sem água potável; crítica aos Barbalhos; taxação de poços artesianos; pressão da COP30 sobre saneamento.
 - [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Renan analisa a Espanha como exemplo de soft power e nation branding; contraste com a perda de competitividade brasileira em cultura, esportes e turismo; lição para o Brasil construir marca-país forte.
 - [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] — Renan denuncia da BR-163 no Pará o estado deplorável da estrada e a sabotagem da Ferrogrão por ONGs e PSOL; propõe expulsão de ONGs estrangeiras, alteração da legislação e repavimentação das estradas.
 - [[fontes/2026-06-15 - O Brasil está cínico]] — Renan reflete sobre o cinismo da sociedade brasileira a partir da morte trágica de uma moça em Limeira e dos comentários jocosos nas redes sociais; critica a normalização do absurdo e a alma corrompida do país

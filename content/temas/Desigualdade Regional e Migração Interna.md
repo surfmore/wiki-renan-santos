@@ -5,13 +5,22 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-05-25
+date: 2026-06-16
 fontes:
+  - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA"
   - "2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA"
 ---
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
+
+## Santarém (PA): o maior aquífero do mundo sem saneamento (junho de 2026)
+
+Em **16 de junho de 2026**, em visita a Alter do Chão (PA), Renan expõe um novo paradoxo da desigualdade regional: o Pará abriga o **maior reservatório de água doce do mundo** (com o dobro do Aquífero Guarani), mas Santarém — maior cidade próxima, com 330.000 habitantes — é a **maior cidade brasileira sem saneamento básico**. Apenas 3% têm saneamento e 40% têm acesso à água potável. A concessionária paraense ainda **taxa moradores com poço artesiano**.
+
+Renan conecta o caso ao domínio da [[pessoas/Família Barbalho]], que trata o estado como "colônia de exploração", e à [[eventos/COP30 — Legado em Belém|COP30]], que pressionou o governo paraense a buscar parceria privada de saneamento — sem resolver o problema estrutural de décadas.
+
+Ver [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]].
 
 ## Santo Antônio dos Lopes (MA): a cidade mais rica que parece a mais pobre (abril de 2026)
 
