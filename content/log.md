@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-16] ingest | 10% em SP! (ingest automático)
+- Fonte criada: fontes/2026-06-16 - 10% em SP!
+- Páginas atualizadas: pessoas/Renan Santos, temas/Partido Missão, index.md, log.md, wiki/.processed_ids
+- Nota: Renan anuncia 10% em São Paulo pela RealTime Big Data com coleta presencial; projeta ultrapassar Flávio e enfrentar Lula no segundo turno; classifica SP como "cavalaria" da campanha.
+
 ## [2026-06-08] ingest | Nikolas vai abandonar Flávio (ingest automático)
 - Fonte criada: fontes/2026-06-08 - Nikolas vai abandonar Flávio
 - Páginas atualizadas: pessoas/Nikolas Ferreira, pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids

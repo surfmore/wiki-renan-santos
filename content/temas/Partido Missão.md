@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-06-01
 fontes:
+  - "2026-06-16 - 10% em SP!"
   - "2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento."
   - "2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!"
   - "2026-06-03 - Bora bater mais uma meta na minha vaquinha!"
@@ -22,6 +23,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## 10% em São Paulo pela RealTime Big Data (junho de 2026)
+
+Em **16 de junho de 2026**, Renan anuncia 10% das intenções de voto em São Paulo pela RealTime Big Data com coleta presencial — o primeiro dígito duplo de sua pré-campanha. Projeta ultrapassar Flávio Bolsonaro e enfrentar Lula no segundo turno, com meta de chegar a 20% em dois meses. Classifica São Paulo como a "cavalaria" da campanha.
+
+Ver [[fontes/2026-06-16 - 10% em SP!]].
 
 ## Propostas centrais reafirmadas (junho de 2026)
 

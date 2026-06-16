@@ -98,7 +98,7 @@ date: 2026-06-16
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">637</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">638</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">25</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -122,7 +122,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">24 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica; soft power; ferrovias, robótica, drones, data centers, terras raras, defesa aeroespacial.</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
-<a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
+<a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros; crescimento nas pesquisas (6% nacional, 10% em SP). Regras públicas para coalizões.</p></a>
 <a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">9 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza", gastos do MP-CE na Copa e reforma como prioridade fiscal.</p></a>
 <a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; CDE e subsídios seletivos na conta de luz; Nordeste como polo de energia renovável.</p></a>
 <a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 25 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
@@ -179,6 +179,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-16 - 10% em SP!]] — Renan comemora 10% das intenções de voto em São Paulo pela RealTime Big Data; projeta ultrapassar Flávio Bolsonaro e enfrentar Lula no segundo turno; classifica SP como a "cavalaria" da campanha.
 - [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]] — Renan visita Alter do Chão (PA), o maior aquífero do mundo; paradoxo de Santarém sem água potável; crítica aos Barbalhos; taxação de poços artesianos; pressão da COP30 sobre saneamento.
 - [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Renan analisa a Espanha como exemplo de soft power e nation branding; contraste com a perda de competitividade brasileira em cultura, esportes e turismo; lição para o Brasil construir marca-país forte.
 - [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] — Renan denuncia da BR-163 no Pará o estado deplorável da estrada e a sabotagem da Ferrogrão por ONGs e PSOL; propõe expulsão de ONGs estrangeiras, alteração da legislação e repavimentação das estradas.

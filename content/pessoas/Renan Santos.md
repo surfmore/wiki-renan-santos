@@ -13,6 +13,14 @@ fontes:
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É pré-candidato à presidência da República e uma das principais vozes da direita não-bolsonarista no Brasil.
 
+## 10% em São Paulo pela RealTime Big Data (junho de 2026)
+
+Em **16 de junho de 2026**, Renan anuncia que a pesquisa **RealTime Big Data** com coleta presencial o colocou com **10% das intenções de voto em São Paulo** — o primeiro dígito duplo de sua pré-campanha. Ele traça a trajetória: passar do 1%, ultrapassar os governadores, chegar aos 10% antes de agosto, e agora mirar em ultrapassar Flávio Bolsonaro para enfrentar Lula no segundo turno.
+
+Classifica São Paulo como a **"cavalaria"** da campanha. Embora seja paulistano, diz que pouco falou do estado durante a campanha porque está rodando o Brasil. Projeta que São Paulo dará **70% dos votos** no segundo turno contra Lula e estabelece a meta de transformar os 10% em **20% em dois meses**.
+
+Ver [[fontes/2026-06-16 - 10% em SP!]].
+
 ## Visão política e filosófica
 
 ### República vs. Democracia: a falta de "regra una" no Brasil (junho de 2026)
