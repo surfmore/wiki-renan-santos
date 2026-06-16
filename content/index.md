@@ -98,7 +98,7 @@ date: 2026-06-15
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">635</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">636</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">24</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -118,7 +118,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">35 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
 <a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">32 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão. Crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
-<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">23 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica: ferrovias, robótica, drones, startups, data centers, terras raras, defesa aeroespacial.</p></a>
+<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">24 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica; soft power; ferrovias, robótica, drones, data centers, terras raras, defesa aeroespacial.</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros. Slogan "O futuro é glorioso". Regras públicas para coalizões.</p></a>
@@ -178,6 +178,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Renan analisa a Espanha como exemplo de soft power e nation branding; contraste com a perda de competitividade brasileira em cultura, esportes e turismo; lição para o Brasil construir marca-país forte.
 - [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] — Renan denuncia da BR-163 no Pará o estado deplorável da estrada e a sabotagem da Ferrogrão por ONGs e PSOL; propõe expulsão de ONGs estrangeiras, alteração da legislação e repavimentação das estradas.
 - [[fontes/2026-06-15 - O Brasil está cínico]] — Renan reflete sobre o cinismo da sociedade brasileira a partir da morte trágica de uma moça em Limeira e dos comentários jocosos nas redes sociais; critica a normalização do absurdo e a alma corrompida do país
 - [[fontes/2026-06-14 - Romário está sendo cancelado!]] — Renan comenta o cancelamento de Romário por corrigir Fernanda Gentil; alerta para os riscos da Lei da Misoginia criminalizar divergências de opinião

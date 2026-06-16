@@ -4,8 +4,30 @@ tags:
   - tema
   - tecnologia
   - soberania
-date: 2026-04-03
+  - soft-power
+date: 2026-06-15
 ---
+
+## Soft power e nation branding: a lição da Espanha para o Brasil (junho de 2026)
+
+Em **15 de junho de 2026**, na série "Países da Copa", Renan analisa a **Espanha** como exemplo de país que construiu uma economia baseada em **soft power, carisma e competitividade cultural**. Ele contrasta o sucesso espanhol com a perda de ambição brasileira.
+
+Renan lista as áreas em que a Espanha se tornou referência global:
+- **Esportes**: futebol (Yamal, Real Madrid), F1 (Alonso), MotoGP (Pedrosa), tênis (Alcaraz)
+- **Moda**: Zara (maior fast fashion do mundo), Balenciaga
+- **Cinema**: segunda maior produtora da Europa (Almodóvar)
+- **Gastronomia**: melhores restaurantes do mundo
+- **Turismo**: 12 vezes mais turistas que o Brasil, apesar de ser muito menor
+
+Ele reconhece as contradições espanholas — "vota muito mal, colocando governos corruptos de esquerda", irresponsabilidade fiscal, fronteiras deficientes — mas argumenta que o país prospera porque construiu **vantagens competitivas em áreas que geram afeto internacional**.
+
+A lição para o Brasil: "Nós aqui ficamos deitados em berço esplêndido, achando que o mundo vai nos descobrir apenas porque sim." Renan diagnostica que o Brasil é forte exatamente nas mesmas áreas (comida, futebol, festas) mas perdeu competitividade — "não adianta ter praia bonita se você tem bandido", "não adianta se orgulhar do futebol se você perde."
+
+> "Nós temos que ser mais espanhóis nessa área."
+
+O vídeo reforça a tese central de que o Brasil precisa construir uma **marca-país forte** e ser competitivo em cultura, esportes e turismo — complementando as propostas de desenvolvimento tecnológico e industrial que Renan já defende.
+
+Ver [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]].
 
 ## EUA restringem acesso à IA mais avançada como questão de segurança nacional (junho de 2026)
 
@@ -298,6 +320,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Soft power espanhol como contraste com o Brasil; lição de nation branding e competitividade cultural
 - [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] — BR-163 no Pará em ruínas; Ferrogrão sabotada por ONGs e PSOL; propostas de expulsão e repavimentação
 - [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso à IA mais avançada; proposta de Brasil como país dos data centers; terras raras como moeda de troca
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia; agregação de valor; denominação de origem; marca Brasil

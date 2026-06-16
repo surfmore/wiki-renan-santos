@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-15] ingest | O governo espanhol comprou minha pre-campanha (ingest automático)
+- Fonte criada: fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: Renan analisa a Espanha como exemplo de soft power e nation branding na série "Países da Copa"; contraste com a perda de competitividade brasileira; lição de construção de marca-país.
+
 ## [2026-06-15] ingest | Quando a Ferrogrão vai sair do papel (ingest automático)
 - Fonte criada: fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel
 - Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, posicoes/Expulsão de ONGs Estrangeiras, index.md, log.md, wiki/.processed_ids
