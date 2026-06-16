@@ -98,7 +98,7 @@ date: 2026-06-16
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">638</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">639</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">25</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -179,6 +179,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-16 - Eu visitei uma das cidades construídas pela Ford no estado do Pará]] — Renan visita Belterra (PA), cidade planejada pela Ford em 1934; contraste com urbanização brasileira; lição de que bom investimento em infraestrutura gera cultura cívica e previne favelização.
 - [[fontes/2026-06-16 - 10% em SP!]] — Renan comemora 10% das intenções de voto em São Paulo pela RealTime Big Data; projeta ultrapassar Flávio Bolsonaro e enfrentar Lula no segundo turno; classifica SP como a "cavalaria" da campanha.
 - [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]] — Renan visita Alter do Chão (PA), o maior aquífero do mundo; paradoxo de Santarém sem água potável; crítica aos Barbalhos; taxação de poços artesianos; pressão da COP30 sobre saneamento.
 - [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Renan analisa a Espanha como exemplo de soft power e nation branding; contraste com a perda de competitividade brasileira em cultura, esportes e turismo; lição para o Brasil construir marca-país forte.
