@@ -10,6 +10,16 @@ date: 2026-05-29
 
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.
 
+## ICMBio e a perseguição a pequenos produtores no Pará (junho de 2026)
+
+Em **17 de junho de 2026**, Renan denuncia a atuação do **ICMBio (Instituto Chico Mendes de Conservação da Biodiversidade)** no Pará, que cria reservas ambientais desapropriando pequenos produtores rurais sem indenização justa e depois os expulsa de "zonas de amortecimento" de quilômetros ao redor das reservas. Relata uma rebelião de agricultores que recuperaram o gado tomado pelo órgão.
+
+> "Não tô falando aqui de grandes latifundiários, tô falando de pequenos produtores rurais que estão perdendo tudo por conta dessa gente maldita."
+
+Anuncia 4 propostas: (1) suspender novas expropriações e demarcações até que indenizações sejam pagas, (2) proteger ocupantes atuais nas terras, (3) usar a AGU contra agentes do ICMBio que perseguirem moradores, (4) reduzir zonas de amortecimento para no máximo 400 metros de reservas já estabelecidas.
+
+Ver [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]].
+
 ## Cinturão verde e transferência tecnológica com o Japão (junho de 2026)
 
 Em **12 de junho de 2026**, Renan mostra uma máquina agrícola automatizada japonesa utilizada para plantio de hortaliças (cebolinha) e denuncia que o pequeno agricultor brasileiro — o produtor do chamado **cinturão verde** (alface, agrião, cebola, tomate) — está quebrando por endividamento, alterações trabalhistas e custo da mão de obra. A máquina custa cerca de 4.000 ienes no Japão, mas chega ao Brasil a dezenas de milhares de reais devido a impostos de importação e falta de financiamento.
@@ -108,6 +118,7 @@ Ver [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]].
 
 ## Fontes
 
+- [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — ICMBio e perseguição a pequenos produtores no Pará; 4 propostas de reforma
 - [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]] — vassoura de bruxa; destruição da lavoura cacaueira; proposta para Embrapa
 - [[fontes/2026-04-24 - Essa vinícola vai te mostrar todo o potencial do agro]] — agro de alto valor agregado; vinícola de São Joaquim (SC)
 - [[fontes/2026-04-22 - As cooperativas de Santa Catarina são um exemplo para o Brasil]] — modelo cooperativista replicável para o Nordeste

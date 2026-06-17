@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-17] ingest | O Richard Rasmussen avisou, a ICMBio precisa PARAR (ingest automático)
+- Fonte criada: fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR
+- Páginas criadas: temas/Ambientalismo e Produtores Rurais
+- Páginas atualizadas: temas/Agronegócio e Matopiba, index.md, log.md, wiki/.processed_ids
+- Nota: Renan apoia denúncia de Richard Rasmussen contra o ICMBio no Pará; critica órgãos ambientais (ICMBio, IBAMA, FUNAI) como inimigos do produtor rural; anuncia 4 propostas para proteger pequenos agricultores.
+
 ## [2026-06-17] ingest | Resposta ao Eduardo Bolsonaro (ingest automático)
 - Fonte criada: fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro
 - Páginas criadas: (nenhuma nova)
