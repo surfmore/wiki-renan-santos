@@ -13,6 +13,16 @@ Senador da República pelo PP (Progressistas), presidente do partido, e uma das 
 
 > Nota: esta página reúne afirmações feitas por Renan Santos em seus vídeos. Acusações são reprodução das declarações dele.
 
+## Festas com Vorcaro, jatinhos e prostitutas (junho de 2026)
+
+Em **17 de junho de 2026**, novos vazamentos do escândalo Banco Master revelaram fotos de Ciro Nogueira em momentos de lazer com Daniel Vorcaro. As revelações indicam que Vorcaro contratava jatinhos particulares para transportar garotas de programa para festas com autoridades — incluindo ministros do STF e políticos —, e que Nogueira fazia parte do círculo íntimo do banqueiro.
+
+Um membro do governo Bolsonaro teria recebido **R$ 11 milhões** de Vorcaro, e Renan recorda que Flávio Bolsonaro declarou publicamente que Nogueira seria seu "vice-presidente perfeito" — conectando-o diretamente à rede de relações do banqueiro.
+
+Renan conclui: "havia festas com ia, festas em tranches computad e toda essa gente estava na folha de pagamento do Daniel Vorcaro."
+
+Ver [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]].
+
 ## Jatinho de dono de bet: férias na Europa e Ásia custeadas por bets (junho de 2026)
 
 Em **10 de junho de 2026**, ao denunciar o esquema de proteção do governo Lula às bets, Renan cita Ciro Nogueira como exemplo da conexão entre políticos e o setor de apostas. Nogueira teria passado férias na Europa e na Ásia usando um jato particular de um dono de bet.

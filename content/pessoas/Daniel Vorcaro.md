@@ -21,6 +21,16 @@ fontes:
 
 ## O que o Renan Santos disse
 
+### Novos vazamentos: jatinhos, prostitutas e festas com autoridades (junho de 2026)
+
+Em **17 de junho de 2026**, novos vazamentos revelaram que Vorcaro contratava jatinhos particulares para transportar garotas de programa — descritas como "modelos" brasileiras e estrangeiras — para participar de festas com autoridades brasileiras, incluindo ministros do STF e grandes políticos. Mensagens vazadas mostram Vorcaro dando instruções explícitas: "pega o avião aí pras kengas."
+
+Segundo Renan, as festas serviam a dois propósitos: facilitar negócios e, quando necessário, usar as imagens comprometedoras para chantagear os participantes. Vazaram também fotos de Vorcaro com **Ciro Nogueira** em momentos de lazer, evidenciando a intimidade entre ambos. Um membro do governo Bolsonaro teria recebido R$ 11 milhões de Vorcaro.
+
+Renan conecta as revelações à declaração de [[pessoas/Flávio Bolsonaro]] de que Ciro Nogueira seria seu "vice-presidente perfeito" e conclui: "havia festas com ia, festas em tranches computad e toda essa gente estava na folha de pagamento do Daniel Vorcaro."
+
+Ver [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]].
+
 ### O áudio com Flávio Bolsonaro e a acusação de caixa dois (maio de 2026)
 
 Em 13 de maio de 2026, vazou áudio de Flávio Bolsonaro enviado a Vorcaro pedindo dinheiro para cobrir contas de pré-campanha e agradecendo a "liberdade para cobrar." Renan apresentou quatro versões contraditórias de Flávio para explicar a relação e concluiu que o filme "Dark Horse" (R$ 134 milhões — cinco vezes o orçamento de "Ainda Estou Aqui") foi fachada para caixa dois. O Partido Missão protocolou representação no Ministério Público Eleitoral e convidou Zema e Caiado a fazer o mesmo.

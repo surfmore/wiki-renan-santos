@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-17] ingest | Você está sabendo do novo escândalo do Vorcaro (ingest automático)
+- Fonte criada: fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro
+- Páginas atualizadas: pessoas/Daniel Vorcaro, pessoas/Ciro Nogueira, pessoas/Flávio Bolsonaro, eventos/Escândalo Banco Master, index.md, log.md, wiki/.processed_ids
+- Nota: Novos vazamentos revelam Vorcaro contratando jatinhos para prostitutas em festas com autoridades; fotos com Ciro Nogueira; R$ 11 milhões para membro do governo Bolsonaro; Renan conecta à declaração de Flávio sobre Nogueira como VP.
+
 ## [2026-06-17] ingest | O Richard Rasmussen avisou, a ICMBio precisa PARAR (ingest automático)
 - Fonte criada: fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR
 - Páginas criadas: temas/Ambientalismo e Produtores Rurais

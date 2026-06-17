@@ -9,6 +9,18 @@ date: 2026-04-13
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
 
+## Novos vazamentos: jatinhos, prostitutas e festas com autoridades (junho de 2026)
+
+Em **17 de junho de 2026**, novos vazamentos revelaram que Daniel Vorcaro contratava jatinhos particulares para transportar garotas de programa — descritas como "modelos" brasileiras e estrangeiras — para festas com autoridades brasileiras. Mensagens vazadas mostram Vorcaro dando instruções explícitas: "pega o avião aí pras kengas." As festas incluíam ministros do STF, grandes políticos e pequenos políticos brasileiros.
+
+Segundo Renan, o sistema tinha dupla função: facilitar negócios e obter material de chantagem contra os participantes. Vazaram também fotos de Vorcaro com **Ciro Nogueira** em momentos de lazer, e revelações de que um **membro do governo Bolsonaro recebeu R$ 11 milhões** de Vorcaro. [[pessoas/Flávio Bolsonaro]] havia declarado que Nogueira seria seu "vice-presidente perfeito."
+
+Renan contrasta sua situação pessoal — voo atrasado e 12 horas de barco para a Ilha de Marajó — com a dos acompanhantes de Vorcaro viajando de jatinho: "vida de pré-candidato pobre."
+
+Ver [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]].
+
+---
+
 ## Valdemar confirma que Flávio foi cobrar Vorcaro (maio de 2026)
 
 Em **25 de maio de 2026**, Renan reproduz entrevista de Valdemar Costa Neto em que o presidente do PL admite inadvertidamente que Flávio Bolsonaro visitou Vorcaro na prisão para tentar cobrar o saldo restante do contrato — não para romper relações. Frase de Valdemar: *"O que o Flávio fez é natural. Vai me pagar, você vai pagar o restante ou não dá?"* Para Renan, o próprio aliado de Flávio confirmou a tese de caixa dois. Renan questionou ainda se Valdemar fez isso sem querer ou deliberadamente para tirar Flávio da candidatura.

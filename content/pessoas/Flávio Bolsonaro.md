@@ -17,6 +17,12 @@ Em **14 de junho de 2026**, ao comentar a restrição dos EUA ao compartilhament
 
 Ver [[fontes/2026-06-14 - Vão proibir seu ChatGPT]].
 
+## Conexão com Vorcaro via Ciro Nogueira (junho de 2026)
+
+Em **17 de junho de 2026**, novos vazamentos do escândalo Banco Master mostraram fotos de [[pessoas/Ciro Nogueira]] em momentos de lazer com Daniel Vorcaro — o mesmo Nogueira que Flávio havia declarado publicamente ser seu "vice-presidente perfeito." Renan usa a declaração de Flávio para conectá-lo à rede de jatinhos, festas e prostitutas de Vorcaro, e à revelação de que um membro do governo Bolsonaro recebeu R$ 11 milhões do banqueiro.
+
+Ver [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]].
+
 ## Pesquisa Quest: Lula abre distância e Banco Master corrói confiança (junho de 2026)
 
 Em **11 de junho de 2026**, Renan comenta a pesquisa Quest: Lula abriu distância de Flávio, que não foi bem no levantamento. O [[eventos/Escândalo Banco Master]] impactou a confiança que o eleitor tem em Flávio. Renan projeta que, como tem o maior desconhecimento entre os candidatos, ao se tornar mais conhecido vai reduzir a distância para Flávio e ir ao segundo turno.
