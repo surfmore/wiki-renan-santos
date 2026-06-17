@@ -17,6 +17,12 @@ fontes:
   - "2025-11-22 - Sobre a prisão do Bolsonaro"
 ---
 
+## Jair convidou Alexandre de Moraes para vice (junho de 2026)
+
+Em **17 de junho de 2026**, ao responder a Eduardo Bolsonaro, Renan exibiu um vídeo em que Jair Bolsonaro convida publicamente Alexandre de Moraes para ser seu vice-presidente na chapa de 2026: *"Eu vou, eu gostaria de convidá-la para ser meu vice em 26."* Renan usa o episódio como prova da hipocrisia da família Bolsonaro: enquanto atacam Moraes publicamente e incitam apoiadores a pedir intervenção militar, nos bastidores negociam e fazem acordos com ele.
+
+Ver [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]].
+
 ## R$ 17 milhões em PIX de idosos aplicados em renda fixa (junho de 2026)
 
 Em **8 de junho de 2026**, Renan denuncia que Bolsonaro pediu doações via PIX a seus seguidores para custear sua assessoria jurídica — com milhões de idosos doando. O COAF descobriu que os **R$ 17 milhões** arrecadados foram aplicados em renda fixa para o ex-presidente viver sem trabalhar, em vez de serem usados para a finalidade declarada. Renan classifica o episódio como parte de um padrão maior de exploração financeira de idosos pela direita populista.
@@ -127,6 +133,8 @@ A posição consolidada de Renan sobre Jair Bolsonaro pode ser resumida em dois 
 
 ## Fontes
 
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Jair convidou Moraes para vice; print sobre Gilmar Mendes
+- [[fontes/2026-06-08 - Abuso de idosos]] — R$ 17M em PIX de idosos aplicados em renda fixa
 - [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]] — abandono da candidatura de Flávio; quatro versões contraditórias
 - [[fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF]] — tratamento humanitário; "vendeta" de Moraes; Michele tomando decisões contrárias
 - [[fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI]] — Toffoli e o COAF; 2019; destruição da Lava-Jato

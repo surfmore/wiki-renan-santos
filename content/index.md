@@ -98,7 +98,7 @@ date: 2026-06-17
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">639</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">640</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">25</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -150,7 +150,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <div class="wiki-grid">
 <a class="wiki-card" href="/pessoas/Romário"><div class="wiki-card-header"><span class="wiki-card-icon">⚽</span><span class="wiki-card-title">Romário</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ex-jogador e senador. Renan o chama de craque do futebol mas péssimo senador; critica sua omissão sobre a Lei da Misoginia.</p></a>
 <a class="wiki-card" href="/pessoas/Juliano-Cazarré"><div class="wiki-card-header"><span class="wiki-card-icon">🎭</span><span class="wiki-card-title">Juliano Cazarré</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ator da Globo de direita. Alvo de censura feminista por seu curso de masculinidade tradicional.</p></a>
-<a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, cotado como chanceler.</p></a>
+<a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, atacou Renan na Jovem Pan.</p></a>
 <a class="wiki-card" href="/pessoas/Daniel-Vorcaro"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Daniel Vorcaro</span><span class="wiki-card-count">75 fontes</span></div><p class="wiki-card-desc">Banqueiro do Master, preso em jan. 2026. Renan o compara ao americano Jeffrey Epstein.</p></a>
 <a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">36 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes e visitas a Vorcaro preso.</p></a>
 <a class="wiki-card" href="/pessoas/Romeu-Zema"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Romeu Zema</span><span class="wiki-card-count">22 fontes</span></div><p class="wiki-card-desc">Ultrapassado por Renan nas pesquisas. Pai de Vorcaro doou R$ 1 milhão ao Partido Novo em 2022.</p></a>
@@ -179,6 +179,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan responde a ataque de Eduardo Bolsonaro na Jovem Pan, expondo as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, Gilmar Mendes, Moraes).
 - [[fontes/2026-06-16 - Eu visitei uma das cidades construídas pela Ford no estado do Pará]] — Renan visita Belterra (PA), cidade planejada pela Ford em 1934; contraste com urbanização brasileira; lição de que bom investimento em infraestrutura gera cultura cívica e previne favelização.
 - [[fontes/2026-06-16 - 10% em SP!]] — Renan comemora 10% das intenções de voto em São Paulo pela RealTime Big Data; projeta ultrapassar Flávio Bolsonaro e enfrentar Lula no segundo turno; classifica SP como a "cavalaria" da campanha.
 - [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]] — Renan visita Alter do Chão (PA), o maior aquífero do mundo; paradoxo de Santarém sem água potável; crítica aos Barbalhos; taxação de poços artesianos; pressão da COP30 sobre saneamento.

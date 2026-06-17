@@ -9,6 +9,12 @@ date: 2026-04-09
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
 
+## Jair Bolsonaro o convidou para vice (junho de 2026)
+
+Em **17 de junho de 2026**, ao responder a Eduardo Bolsonaro, Renan exibe um vídeo em que Jair Bolsonaro convida publicamente Alexandre de Moraes para ser seu vice-presidente na chapa de 2026. Renan usa o episódio como prova da hipocrisia da família Bolsonaro: enquanto atacam Moraes publicamente e incitam apoiadores a pedir intervenção militar, nos bastidores negociam e fazem acordos com ele.
+
+Ver [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]].
+
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
 ## Derrubada da dosimetria: Moraes como arquiteto e traidor do acordo (maio de 2026)

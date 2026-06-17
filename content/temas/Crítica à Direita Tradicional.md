@@ -9,6 +9,12 @@ date: 2026-06-02
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
+## Eduardo Bolsonaro ataca Renan na Jovem Pan (junho de 2026)
+
+Em **17 de junho de 2026**, Eduardo Bolsonaro atacou Renan no programa da Jovem Pan, acusando-o de ser responsável pela derrota de Jair Bolsonaro em 2022 por ter defendido o impeachment e por "fazer coraçãozinho pro Moraes". Renan respondeu expondo as relações espúrias da família Bolsonaro com ministros do STF — Toffoli, Gilmar Mendes e o próprio Moraes —, evidenciando a hipocrisia de atacar o STF publicamente enquanto negociam proteção judicial nos bastidores.
+
+Ver [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]].
+
 ## Lula e Flávio ignoram guerra tecnológica por IA (junho de 2026)
 
 Em **14 de junho de 2026**, ao comentar a decisão dos EUA de restringir o acesso à inteligência artificial mais avançada, Renan critica tanto Lula quanto Flávio Bolsonaro por não estarem discutindo temas de relevância estratégica e geopolítica — "um tá falando de te dar vale gás, o outro tá dançando" — enquanto a competição global por tecnologia avança sem o Brasil. O episódio reforça sua tese de que a direita tradicional (Flávio) e a esquerda (Lula) são igualmente incapazes de oferecer um projeto de nação que enfrente os desafios reais do país.
@@ -514,6 +520,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Eduardo ataca Renan na Jovem Pan; Renan expõe hipocrisia da família Bolsonaro com o STF
 - [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República]]
 - [[fontes/2025-12-16 - A OPOSIÇÃO NO BRASIL É HORRÍVEL]]
 - [[fontes/2025-12-15 - Resposta ao Nikolas Ferreira]]

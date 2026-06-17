@@ -21,6 +21,16 @@ Renan aponta que o Zelle é um sistema privado, lento (leva minutos para process
 
 Ver [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]].
 
+## Ataque a Renan na Jovem Pan e resposta (junho de 2026)
+
+Em **17 de junho de 2026**, Eduardo Bolsonaro atacou Renan Santos durante entrevista no programa da Jovem Pan. Eduardo afirmou que Renan e Kim Kataguiri seriam responsáveis pela derrota de Jair Bolsonaro em 2022 — por terem defendido o impeachment de Bolsonaro e mandado o "pessoal ir pra praia" na eleição. Também acusou Renan de "fazer coraçãozinho pro Alexandre de Moraes".
+
+Renan respondeu com a exposição das relações da família Bolsonaro com ministros do STF que teriam beneficiado Flávio e Jair: Toffoli anulou provas do COAF contra Flávio; Gilmar Mendes retirou o caso das rachadinhas do TJ-RJ; a família pediu votos para o irmão de Gilmar Mendes; Jair Bolsonaro pediu para não baterem em Gilmar Mendes (print exibido por Renan); Flávio foi favorável a Zanin no STF; e Jair Bolsonaro convidou Alexandre de Moraes para ser vice.
+
+Renan ironizou que Eduardo "perdeu a linha" e recomendou que ele ficasse nos Estados Unidos — onde mora para fugir da justiça brasileira — gerando "menos danos para todo mundo".
+
+Ver [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]].
+
 ## Condenação por Moraes: Renan o defende mesmo sendo adversário (abril de 2026)
 
 Em **17 de abril de 2026**, Alexandre de Moraes votou pela condenação de Eduardo Bolsonaro por declaração feita em 2021 sobre a deputada Tabata Amaral. Eduardo havia dito que a campanha de Tabata foi financiada por Jorge Paulo Lemann (dono da Procter & Gamble, fabricante de absorventes) — crítica ao projeto de lei dela que colocou absorventes nos gastos públicos.
@@ -35,6 +45,7 @@ Eduardo Bolsonaro é mencionado em outros vídeos no contexto do alinhamento da 
 
 ## Fontes
 
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — ataque a Renan na Jovem Pan e resposta expondo relações da família com o STF
 - [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — defesa dos interesses americanos sobre o PIX
 - [[fontes/2026-04-17 - Eduardo Bolsonaro será preso!]] — condenação por Moraes; Renan o defende
 - [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]] — fracasso da Magnitsky

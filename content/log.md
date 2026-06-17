@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-17] ingest | Resposta ao Eduardo Bolsonaro (ingest automático)
+- Fonte criada: fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: pessoas/Eduardo Bolsonaro, pessoas/Jair Bolsonaro, pessoas/Alexandre de Moraes, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Eduardo Bolsonaro atacou Renan na Jovem Pan; Renan respondeu expondo as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, Gilmar Mendes, Moraes).
+
 ## [2026-06-17] fix | Correção de ingest incompleta — Vão proibir seu ChatGPT
 - **Problema**: ingest anterior criou fonte e atualizou Ambição Nacional, index.md e log.md, mas não registrou video_id `qD0yIujxQDg` em `.processed_ids` nem atualizou páginas de Política Externa, Crítica à Direita Tradicional, Flávio Bolsonaro e Lula.
 - **Correções**: 
