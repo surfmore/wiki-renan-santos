@@ -4,12 +4,29 @@ tags:
   - posicao
   - educacao
   - meritocracia
-date: 2026-03-11
+date: 2026-06-17
 fontes:
+  - "2026-06-17 - A Inglaterra vai ganhar a Cop"
   - "2026-03-11 - 7 propostas para a educação!"
 ---
 
 Renan apresentou sete propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico e corte de gastos ineficientes. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Método fônico obrigatório: a lição inglesa (junho de 2026)
+
+Em **17 de junho de 2026**, Renan aprofunda sua defesa do método fônico na alfabetização usando o exemplo da Inglaterra. Ele traça um paralelo: assim como os ingleses inventaram o futebol e o ensinaram ao Brasil, também espalharam pelo mundo o método **Whole Language** (palavra inteira) de alfabetização.
+
+A Inglaterra aplicou o método Whole Language nos anos 1970 e o resultado foi desastroso — caiu de 3º para 19º nos rankings internacionais de leitura. Em 2006, os ingleses proibiram o método e retornaram ao método fônico. O país então subiu de 58% para 82% nos testes de leitura, tornando-se o melhor país em língua inglesa e o quarto mundial em todas as línguas.
+
+Renan denuncia que o Brasil atualmente aplica o mesmo método que fracassou na Inglaterra. Critica que o método fônico (o "Caminho Suave", que ele e seus pais usaram) não é mais obrigatório, permitindo métodos alternativos que raramente funcionam.
+
+> "Eu, portanto, vou fazer igual aos ingleses. Vou tornar obrigatório o método fônico em todas as escolas e eliminar de uma vez por todas esse método alternativo que fez as nossas crianças se tornarem, infelizmente, despreparadas pro mundo."
+
+A proposta é: **tornar obrigatório o método fônico** como política nacional de alfabetização, em substituição ao método Whole Language atualmente adotado nas escolas públicas brasileiras.
+
+Ver [[fontes/2026-06-17 - A Inglaterra vai ganhar a Cop]].
+
+## As 7 propostas
 
 ## As 7 propostas
 

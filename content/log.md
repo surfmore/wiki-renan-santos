@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-17] ingest | A Inglaterra vai ganhar a Cop (ingest automático)
+- Fonte criada: fontes/2026-06-17 - A Inglaterra vai ganhar a Cop
+- Páginas atualizadas: posicoes/Propostas para Educação, index.md, log.md, wiki/.processed_ids
+- Nota: Renan defende o método fônico obrigatório nas escolas brasileiras a partir do exemplo da Inglaterra, que abandonou o método Whole Language em 2006 após fracasso nos rankings de leitura.
+
 ## [2026-06-17] ingest | Você está sabendo do novo escândalo do Vorcaro (ingest automático)
 - Fonte criada: fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro
 - Páginas atualizadas: pessoas/Daniel Vorcaro, pessoas/Ciro Nogueira, pessoas/Flávio Bolsonaro, eventos/Escândalo Banco Master, index.md, log.md, wiki/.processed_ids

@@ -98,7 +98,7 @@ date: 2026-06-17
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">642</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">643</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">26</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -137,7 +137,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Fusão-de-Municípios"><div class="wiki-card-header"><span class="wiki-card-icon">🏙️</span><span class="wiki-card-title">Fusão de Municípios</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Unir municípios muito pequenos em macromunicípios com metas de desempenho.</p></a>
 <a class="wiki-card" href="/posicoes/Emendas-Parlamentares-Condicionadas-a-Metas"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Emendas com Metas</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Vincular repasse de emendas a indicadores. Inelegibilidade de 8 anos para prefeitos que gastarem em festas.</p></a>
 <a class="wiki-card" href="/posicoes/Intervenção-Federal-em-Estados-com-Baixo-IDH"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️</span><span class="wiki-card-title">Intervenção em Estados com Baixo IDH</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Enviar interventores a municípios com IDH cronicamente baixo e reduzir transferências federais como incentivo.</p></a>
-<a class="wiki-card" href="/posicoes/Propostas-para-Educação"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Educação</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Método fônico, modelo técnico alemão, voucher escolar, bolsa empreendedor e fim de todas as cotas.</p></a>
+<a class="wiki-card" href="/posicoes/Propostas-para-Educação"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Educação</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Método fônico obrigatório, modelo técnico alemão, voucher escolar, bolsa empreendedor e fim de todas as cotas.</p></a>
 <a class="wiki-card" href="/posicoes/Estado-de-Defesa-e-Direito-Penal-do-Inimigo"><div class="wiki-card-header"><span class="wiki-card-icon">🛡️</span><span class="wiki-card-title">Estado de Defesa</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Estado de defesa em favelas controladas pelo crime; aplicação em MG, RJ, CE e BA com transferência de faccionados para presídios remotos.</p></a>
 <a class="wiki-card" href="/posicoes/Expulsão-de-ONGs-Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Cortar financiamento estrangeiro a ONGs que bloqueiam desenvolvimento e pregam guerra entre brasileiros.</p></a>
 <a class="wiki-card" href="/posicoes/Frente-de-Trabalho-para-o-Bolsa-Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒️</span><span class="wiki-card-title">Frente de Trabalho</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Substituir o Bolsa Família por frentes de trabalho remunerado inspiradas no New Deal de Roosevelt.</p></a>
@@ -180,6 +180,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-17 - A Inglaterra vai ganhar a Cop]] — Renan compara futebol e educação para defender o método fônico obrigatório; denuncia que o Brasil ainda usa o método Whole Language que fracassou na Inglaterra nos anos 1970.
 - [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]] — Novos vazamentos do escândalo Banco Master mostram Vorcaro contratando jatinhos para prostitutas em festas com autoridades; fotos com Ciro Nogueira; R$ 11 milhões para membro do governo Bolsonaro; Renan conecta à declaração de Flávio sobre Nogueira como VP.
 - [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — Renan apoia a denúncia de Richard Rasmussen contra o ICMBio no Pará; critica órgãos ambientais como inimigos do produtor rural; anuncia 4 propostas para proteger pequenos agricultores.
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan responde a ataque de Eduardo Bolsonaro na Jovem Pan, expondo as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, Gilmar Mendes, Moraes).
