@@ -11,6 +11,12 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Crítica por ignorar guerra tecnológica (junho de 2026)
+
+Em **14 de junho de 2026**, ao comentar a restrição dos EUA ao compartilhamento de IA avançada, Renan critica Flávio Bolsonaro por estar "dançando" enquanto o jogo geopolítico e tecnológico avança sem o Brasil — em contraste com temas estratégicos que sua pré-campanha está discutindo, como soberania tecnológica, data centers e terras raras.
+
+Ver [[fontes/2026-06-14 - Vão proibir seu ChatGPT]].
+
 ## Pesquisa Quest: Lula abre distância e Banco Master corrói confiança (junho de 2026)
 
 Em **11 de junho de 2026**, Renan comenta a pesquisa Quest: Lula abriu distância de Flávio, que não foi bem no levantamento. O [[eventos/Escândalo Banco Master]] impactou a confiança que o eleitor tem em Flávio. Renan projeta que, como tem o maior desconhecimento entre os candidatos, ao se tornar mais conhecido vai reduzir a distância para Flávio e ir ao segundo turno.

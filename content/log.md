@@ -1,5 +1,15 @@
 # Log de operações
 
+## [2026-06-17] fix | Correção de ingest incompleta — Vão proibir seu ChatGPT
+- **Problema**: ingest anterior criou fonte e atualizou Ambição Nacional, index.md e log.md, mas não registrou video_id `qD0yIujxQDg` em `.processed_ids` nem atualizou páginas de Política Externa, Crítica à Direita Tradicional, Flávio Bolsonaro e Lula.
+- **Correções**: 
+  - Adicionado `qD0yIujxQDg` ao final de `.processed_ids`
+  - Criada seção "Guerra tecnológica" em temas/Política Externa e Geopolítica
+  - Criada seção "Lula e Flávio ignoram guerra tecnológica" em temas/Crítica à Direita Tradicional
+  - Criada seção "Crítica por ignorar guerra tecnológica" em pessoas/Flávio Bolsonaro
+  - Criada seção "Crítica por subinvestimento em IA" em pessoas/Lula
+- Nota: ingest foi bem-sucedida (fonte, log, index criados) mas incompleta nas cross-references.
+
 ## [2026-06-16] ingest | Eu visitei uma das cidades construídas pela Ford no estado do Pará (ingest automático)
 - Fonte criada: fontes/2026-06-16 - Eu visitei uma das cidades construídas pela Ford no estado do Pará
 - Páginas atualizadas: index.md, log.md, wiki/.processed_ids

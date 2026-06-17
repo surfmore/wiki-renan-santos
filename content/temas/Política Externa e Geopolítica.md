@@ -6,16 +6,25 @@ tags:
   - geopolítica
 date: 2026-02-28
 fontes:
+  - "2026-06-14 - Vão proibir seu ChatGPT"
   - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
+  - "2026-06-02 - Flavio é Janja"
+  - "2026-02-28 - KHAMENEI ESTÁ MORTO"
   - "2026-01-03 - URGENTE - Trump sequestra Maduro"
   - "2026-01-03 - Qual o próximo país, Trump"
   - "2026-01-03 - Pronunciamento Oficial"
-  - "2026-01-03 - Atenção - Trump anunciou interventor na Venezuela]]"
-  - "2026-02-28 - KHAMENEI ESTÁ MORTO"
-  - "2026-06-02 - Flavio é Janja"
+  - "2026-01-03 - Atenção - Trump anunciou interventor na Venezuela"
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## Guerra tecnológica: EUA restringem acesso à inteligência artificial avançada (junho de 2026)
+
+Em **14 de junho de 2026**, Renan alerta que o governo americano proibiu a Anthropic — criadora do Claude, maior concorrente do ChatGPT — de compartilhar sua versão mais moderna de IA com cidadãos não americanos, por questões de segurança nacional. Renan contextualiza a decisão como parte de uma **guerra tecnológica entre grandes nações**, onde inteligência artificial é "instrumento de guerra e de poder." Cita que a Anthropic foi utilizada pelo governo americano na **invasão da Venezuela**, demonstrando que a tecnologia tem aplicações militares diretas.
+
+Renan propõe que o Brasil use suas vantagens comparativas (energia abundante, terras raras, potencial para data centers) como moeda de negociação com EUA, China e outras nações para obter acesso a tecnologias de IA — e, se necessário, negociar as terras raras com outros países para não deixar os EUA na mão da China.
+
+Ver [[fontes/2026-06-14 - Vão proibir seu ChatGPT]].
 
 ## Pressão americana sobre o PIX: Eduardo Bolsonaro defende interesses dos EUA (junho de 2026)
 

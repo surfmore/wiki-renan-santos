@@ -9,6 +9,12 @@ date: 2026-06-02
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
+## Lula e Flávio ignoram guerra tecnológica por IA (junho de 2026)
+
+Em **14 de junho de 2026**, ao comentar a decisão dos EUA de restringir o acesso à inteligência artificial mais avançada, Renan critica tanto Lula quanto Flávio Bolsonaro por não estarem discutindo temas de relevância estratégica e geopolítica — "um tá falando de te dar vale gás, o outro tá dançando" — enquanto a competição global por tecnologia avança sem o Brasil. O episódio reforça sua tese de que a direita tradicional (Flávio) e a esquerda (Lula) são igualmente incapazes de oferecer um projeto de nação que enfrente os desafios reais do país.
+
+Ver [[fontes/2026-06-14 - Vão proibir seu ChatGPT]].
+
 ## Nikolas abandona Flávio e Renan pede união da direita (junho de 2026)
 
 Em **8 de junho de 2026**, Renan responde a rumores de que Nikolas Ferreira estaria abandonando Flávio Bolsonaro. Interpreta o gesto como sinal do reconhecimento de que Flávio "perde pro Lula no segundo turno" por ser o candidato mais rejeitado. Cita pesquisa RealTime Big Data: 48% buscam algo novo (nem Lula nem Flávio), e 26% desses preferem Renan.

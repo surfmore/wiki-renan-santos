@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-06-06
 fontes:
+  - "2026-06-14 - Vão proibir seu ChatGPT"
   - "2026-06-09 - Eu achei os números da economia do Lula"
   - "2026-06-06 - Parabéns! Sua luz vai ficar mais cara!"
   - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
@@ -31,6 +32,12 @@ fontes:
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## Crítica por subinvestimento em inteligência artificial (junho de 2026)
+
+Em **14 de junho de 2026**, Renan critica Lula por investir apenas R$ 23 bilhões em inteligência artificial — menos de 1% do investimento americano — e por focar em pautas como vale-gás em vez de soberania tecnológica. Renan argumenta que o Brasil trata IA como "instrumento de guerra e de poder" e que o país precisa de um investimento robusto e de uma estratégia nacional para não ficar para trás na competição global por tecnologia.
+
+Ver [[fontes/2026-06-14 - Vão proibir seu ChatGPT]].
 
 ## "Disparo" contra Lula no segundo turno — pesquisa Quest (junho de 2026)
 
