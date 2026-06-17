@@ -9,6 +9,21 @@ date: 2026-04-03
 
 Crítica sistemática ao **Supremo Tribunal Federal** ocupa lugar central na pré-candidatura de Renan Santos. Para ele, o STF deixou de ser um tribunal constitucional e se tornou uma **"quarta instância de deliberação"** que decide politicamente temas que caberiam ao Legislativo, servindo como **"guardião do patrimonialismo brasileiro"** e da "agenda da esquerda".
 
+## A hipocrisia da família Bolsonaro com o STF (junho de 2026)
+
+Em **17 de junho de 2026**, ao responder a um ataque de Eduardo Bolsonaro na Jovem Pan, Renan expõe o que chama de "relações espúrias" da família Bolsonaro com ministros do STF, evidenciando a contradição entre o discurso público de enfrentamento e os acordos nos bastidores:
+
+- **Dias Toffoli** anulou as provas obtidas pelo COAF contra Flávio Bolsonaro, salvando-o e a todos os envolvidos no petrolão.
+- **Gilmar Mendes** retirou o caso das rachadinhas do Tribunal de Justiça do Rio de Janeiro, beneficiando Flávio.
+- A família Bolsonaro pediu votos para o irmão de Gilmar Mendes em Mato Grosso.
+- Jair Bolsonaro pediu ao filho Eduardo que não atacasse Gilmar Mendes — Renan exibe um print como prova.
+- **Flávio Bolsonaro** votou a favor da nomeação de **Cristiano Zanin**, advogado pessoal de Lula, como ministro do STF.
+- **Jair Bolsonaro** convidou publicamente **Alexandre de Moraes** — seu algoz no STF — para ser vice-presidente em sua chapa de 2026.
+
+Renan usa os episódios para argumentar que a família Bolsonaro "coloca as pessoas na frente dos quartéis para pedir golpe militar e no fim do dia fazem acordos com aqueles que vocês criticam para se manterem soltos e fazendo negócios."
+
+Ver [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]].
+
 ## Reforma do STF: propostas na Sabatina Esfera (maio de 2026)
 
 Em **23 de maio de 2026**, na Sabatina do Fórum Esfera com Daniela Lima, Renan reafirma e detalha sua proposta de reforma do Judiciário: STF deve cumprir apenas o papel de guardião da Constituição e árbitro de temas abstratos, não de última instância legislativa. Fim das decisões monocráticas, filtro de entrada (8.000 ações no STF vs. 50 na Suprema Corte americana), tribunal para foro privilegiado com desembargadores sorteados de outros estados com mandato de 2 anos.
@@ -297,6 +312,7 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, Gilmar Mendes, Moraes) em resposta a ataque de Eduardo
 - [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]]
 - [[fontes/2026-04-17 - Eduardo Bolsonaro será preso!]]
 - [[fontes/2026-04-29 - BESSIAS REJEITADO!]]

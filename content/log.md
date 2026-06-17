@@ -4,6 +4,7 @@
 - Fonte criada: fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro
 - Páginas criadas: (nenhuma nova)
 - Páginas atualizadas: pessoas/Eduardo Bolsonaro, pessoas/Jair Bolsonaro, pessoas/Alexandre de Moraes, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Páginas atualizadas adicionais (2ª execução): temas/STF e Ativismo Judicial
 - Nota: Eduardo Bolsonaro atacou Renan na Jovem Pan; Renan respondeu expondo as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, Gilmar Mendes, Moraes).
 
 ## [2026-06-17] fix | Correção de ingest incompleta — Vão proibir seu ChatGPT
