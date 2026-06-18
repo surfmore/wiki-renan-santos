@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-18] ingest | Você já ouviu falar em Fordlandia (ingest automático)
+- Fonte criada: fontes/2026-06-18 - Você já ouviu falar em Fordlandia
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: Renan narra a história de Fordlândia — a cidade fantasma da Ford no Pará — como uma lição sobre choque cultural, autossabotagem e fracasso de projetos de desenvolvimento na Amazônia.
+
 ## [2026-06-18] ingest | Lula conseguiu uma proeza! (ingest automático)
 - Fonte criada: fontes/2026-06-18 - Lula conseguiu uma proeza!
 - Páginas criadas: (nenhuma nova)

@@ -98,7 +98,7 @@ date: 2026-06-18
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">646</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">647</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -182,6 +182,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-18 - Você já ouviu falar em Fordlandia]] — Renan conta a história de Fordlândia, a cidade fantasma construída pela Ford no Pará, como lição sobre choque cultural, autossabotagem e o fracasso de desenvolvimento na Amazônia.
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Renan critica proposta de Lula de permitir que bandidos devolvam celulares roubados pelo correio em vez de irem à delegacia; defende linha dura com 30 anos de prisão para criminosos em flagrante.
 - [[fontes/2026-06-18 - Noruega vs Iraque]] — Renan compara a gestão do petróleo entre Noruega (fundo soberano) e Iraque (corrupção); propõe modelo norueguês para o Brasil sem privatizar a Petrobras; Amapá mais perigoso que Bagdá.
 - [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Renan denuncia em Santarém o bloqueio de hidrovia da Cargill por grupo indígena articulado com o PT e ONGs internacionais; crítica à FUNAI e promessa de fim de demarcações fraudulentas.
