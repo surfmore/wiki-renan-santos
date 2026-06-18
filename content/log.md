@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-18] ingest | Noruega vs Iraque (ingest automático)
+- Fonte criada: fontes/2026-06-18 - Noruega vs Iraque
+- Páginas criadas: temas/Petróleo e Gestão de Recursos Naturais, posicoes/Fundo Soberano para o Petróleo
+- Páginas atualizadas: temas/Segurança Pública, pessoas/Davi Alcolumbre, index.md, log.md, wiki/.processed_ids
+- Nota: Renan compara gestão do petróleo entre Noruega (fundo soberano) e Iraque (corrupção); propõe modelo norueguês para o Brasil sem privatizar a Petrobras; Amapá mais perigoso que Bagdá.
+
 ## [2026-06-17] ingest | Índios vagabundos estão sabotando o país (ingest automático)
 - Fonte criada: fontes/2026-06-17 - Índios vagabundos estão sabotando o país
 - Páginas atualizadas: temas/Agronegócio e Matopiba, temas/Soberania Nacional e ONGs Estrangeiras, temas/Ambientalismo e Produtores Rurais, index.md, log.md, wiki/.processed_ids

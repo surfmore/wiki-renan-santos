@@ -5,8 +5,9 @@ tags:
   - senado
   - centrão
   - banco-master
-date: 2026-05-25
+date: 2026-06-18
 fontes:
+  - "2026-06-18 - Noruega vs Iraque"
   - "2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro"
   - "2026-05-21 - O centrão é o verdadeiro problema do Brasil!"
   - "2026-05-15 - Turilândia, no Maranhão, é um caso a ser estudado"
@@ -19,6 +20,10 @@ fontes:
 ---
 
 **Quem é:** Senador pelo Amapá (União Brasil) e presidente do Senado Federal. Figura do centrão que Renan Santos usa como síntese do que chama de "poder oligárquico desproporcional" — um político de um dos estados menos populosos e mais pobres do Brasil que controla o Congresso Nacional.
+
+### Petróleo no Amapá: o risco da maldição dos recursos (junho de 2026)
+
+Em **18 de junho de 2026**, ao comparar Noruega e Iraque na gestão do petróleo, Renan citou a descoberta de petróleo no Amapá e questionou: "Alguém confia que um sujeito como Alcolumbre e a sua turma vai fazer uma boa gestão desse dinheiro?" A pergunta sintetiza a desconfiança de Renan de que a elite política local repita o modelo iraquiano — onde a riqueza do petróleo é drenada por corrupção. Ver [[fontes/2026-06-18 - Noruega vs Iraque]].
 
 ## O que o Renan Santos disse
 
@@ -80,6 +85,7 @@ Ver [[fontes/2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE]] e 
 
 ## Fontes
 
+- [[fontes/2026-06-18 - Noruega vs Iraque]] — petróleo no Amapá e a desconfiança sobre a gestão de Alcolumbre
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — centrão bipartidário soterrou a CPI
 - [[fontes/2026-05-21 - O centrão é o verdadeiro problema do Brasil!]] — "homem mais poderoso do Brasil" é senador do Amapá
 - [[fontes/2026-05-15 - Turilândia, no Maranhão, é um caso a ser estudado]] — Alcolumbre como "prefeito de Turilândia que preside o Senado"

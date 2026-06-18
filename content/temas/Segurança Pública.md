@@ -8,6 +8,12 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Facções criminosas vs. terrorismo: o caso do Amapá (junho de 2026)
+
+Em **18 de junho de 2026**, no vídeo "Noruega vs Iraque", Renan afirma que as facções criminosas brasileiras matam mais do que organizações terroristas como o Estado Islâmico. Ele aponta que o Amapá é o estado mais perigoso do Brasil e que "é mais seguro viver em Bagdá do que em Macapá".
+
+A comparação serve para criticar a gestão dos recursos do petróleo no Amapá — que, combinada com a violência do crime organizado, cria um cenário pior que o de países em guerra. Ver [[fontes/2026-06-18 - Noruega vs Iraque]].
+
 ## Rota PCC-Holanda: Paranaguá, Rotterdam e o tráfico internacional (junho de 2026)
 
 Em **14 de junho de 2026**, no episódio da série "Países na Copa", Renan denuncia a conexão entre Brasil e Holanda através do tráfico internacional de drogas. O PCC utiliza o **Porto de Paranaguá (PR)** para exportar cocaína para a Europa, tendo como destino principal o **Porto de Rotterdam**, na Holanda — descrito como o maior ponto de entrada de drogas do continente europeu.

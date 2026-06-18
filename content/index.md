@@ -98,9 +98,9 @@ date: 2026-06-18
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">644</span><span class="label">Fontes</span></a>
-<a class="wiki-stat" href="/temas"><span class="num">26</span><span class="label">Temas</span></a>
-<a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">645</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
+<a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
@@ -111,6 +111,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/temas/Petróleo-e-Gestão-de-Recursos-Naturais"><div class="wiki-card-header"><span class="wiki-card-icon">🛢️</span><span class="wiki-card-title">Petróleo e Gestão de Recursos Naturais</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Comparação entre Noruega (fundo soberano) e Iraque (corrupção); proposta de modelo norueguês para o petróleo brasileiro sem privatizar a Petrobras.</p></a>
 <a class="wiki-card" href="/temas/Ambientalismo-e-Produtores-Rurais"><div class="wiki-card-header"><span class="wiki-card-icon">🌿</span><span class="wiki-card-title">Ambientalismo e Produtores Rurais</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Crítica ao ICMBio e órgãos ambientais que desapropriam pequenos produtores rurais na Amazônia; 4 propostas de reforma.</p></a>
 <a class="wiki-card" href="/temas/Recursos-Hídricos-e-Saneamento"><div class="wiki-card-header"><span class="wiki-card-icon">💧</span><span class="wiki-card-title">Recursos Hídricos e Saneamento</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Paradoxo do Brasil como potência hídrica: maior aquífero do mundo em Alter do Chão ao lado da maior cidade sem saneamento do país; taxação de poços artesianos no Pará e aquífero não perfurado no RN.</p></a>
 <a class="wiki-card" href="/temas/Sebastianismo-e-Messianismo-Político"><div class="wiki-card-header"><span class="wiki-card-icon">👑</span><span class="wiki-card-title">Sebastianismo e Messianismo Político</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Análise do mito de Dom Sebastião como chave para entender o messianismo na política brasileira, do coronelismo nordestino a Lula e Bolsonaro.</p></a>
@@ -126,11 +127,12 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros; crescimento nas pesquisas (6% nacional, 10% em SP). Regras públicas para coalizões.</p></a>
 <a class="wiki-card" href="/temas/Judiciário-e-Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">9 fontes</span></div><p class="wiki-card-desc">Custo bilionário do judiciário, diárias de R$ 30 mil no "Gilmarpalooza", gastos do MP-CE na Copa e reforma como prioridade fiscal.</p></a>
 <a class="wiki-card" href="/temas/Energia-e-Matriz-Elétrica"><div class="wiki-card-header"><span class="wiki-card-icon">⚡</span><span class="wiki-card-title">Energia e Matriz Elétrica</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Denúncia de leilão de termoelétricas manipulado; CDE e subsídios seletivos na conta de luz; Nordeste como polo de energia renovável.</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 26 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 27 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/posicoes/Fundo-Soberano-para-o-Petróleo"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Fundo Soberano para o Petróleo</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Lucro da Petrobras deve ir para fundo soberano nos moldes noruegueses, não para tapar rombo fiscal; rejeição à privatização da Petrobras.</p></a>
 <a class="wiki-card" href="/posicoes/Pena-de-Morte-e-Prisão-Perpétua"><div class="wiki-card-header"><span class="wiki-card-icon">⚰️</span><span class="wiki-card-title">Pena de Morte e Prisão Perpétua</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Defesa da prisão perpétua para crimes hediondos e apoio à pena de morte em tese; promessa de alterar a legislação.</p></a>
 <a class="wiki-card" href="/posicoes/Proteção-ao-PIX"><div class="wiki-card-header"><span class="wiki-card-icon">💳</span><span class="wiki-card-title">Proteção ao PIX</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Compromisso de não taxar o PIX nem negociá-lo com os EUA; defesa da soberania tecnológica brasileira.</p></a>
 <a class="wiki-card" href="/posicoes/Desfavelização-do-Brasil"><div class="wiki-card-header"><span class="wiki-card-icon">🏘️</span><span class="wiki-card-title">Desfavelização do Brasil</span><span class="wiki-card-count">12 fontes</span></div><p class="wiki-card-desc">R$ 900 bilhões em 10 anos, tolerância zero a invasões, escolas cívico-militares e crítica à caricatura internacional.</p></a>
@@ -144,7 +146,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Reforma-Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Cortar R$ 3,3 trilhões em gastos em 10 anos e reduzir impostos a partir do 2º ano.</p></a>
 <a class="wiki-card" href="/posicoes/Proibição-de-Bets-e-Cassinos-Online"><div class="wiki-card-header"><span class="wiki-card-icon">🎰</span><span class="wiki-card-title">Proibição de Bets</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Revogação de autorização de bets, tributação pesada, proibição de remessa ao exterior e combate à lavagem de dinheiro de facções.</p></a>
 <a class="wiki-card" href="/posicoes/Gastrodiplomacia-e-Promoção-Internacional-da-Culinária-Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Política de estado para promover a culinária brasileira no exterior como instrumento de soft power e desenvolvimento econômico.</p></a>
-<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 27 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
+<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 28 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">👤 Pessoas</p>
@@ -180,6 +182,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-18 - Noruega vs Iraque]] — Renan compara a gestão do petróleo entre Noruega (fundo soberano) e Iraque (corrupção); propõe modelo norueguês para o Brasil sem privatizar a Petrobras; Amapá mais perigoso que Bagdá.
 - [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Renan denuncia em Santarém o bloqueio de hidrovia da Cargill por grupo indígena articulado com o PT e ONGs internacionais; crítica à FUNAI e promessa de fim de demarcações fraudulentas.
 - [[fontes/2026-06-17 - A Inglaterra vai ganhar a Cop]] — Renan compara futebol e educação para defender o método fônico obrigatório; denuncia que o Brasil ainda usa o método Whole Language que fracassou na Inglaterra nos anos 1970.
 - [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]] — Novos vazamentos do escândalo Banco Master mostram Vorcaro contratando jatinhos para prostitutas em festas com autoridades; fotos com Ciro Nogueira; R$ 11 milhões para membro do governo Bolsonaro; Renan conecta à declaração de Flávio sobre Nogueira como VP.
