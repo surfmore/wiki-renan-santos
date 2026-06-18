@@ -1,9 +1,13 @@
 # Log de operações
 
+## [2026-06-18] fix | Correção de ingest incompleta — Meu governo vai vingar as pessoas boas do Brasil
+- **Problema**: ingest anterior criou fonte, atualizou temas/Segurança Pública, index.md e log.md, mas não registrou video_id `Xjnl-cBqwnY` em `.processed_ids`.
+- **Correção**: adicionado `Xjnl-cBqwnY` ao final de `.processed_ids`
+
 ## [2026-06-18] ingest | Meu governo vai vingar as pessoas boas do Brasil (ingest automático)
 - Fonte criada: fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.
 - Páginas criadas: (nenhuma nova)
-- Páginas atualizadas: temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Páginas atualizadas: temas/Segurança Pública, index.md, log.md
 - Nota: Renan faz compromisso pessoal de "vingar vítimas do crime organizado"; revela que sua mãe foi sequestrada duas vezes; promete que bandidos serão presos ou mortos; propõe reformas para baratear produtos.
 
 ## [2026-06-18] ingest | Você já ouviu falar em Fordlandia (ingest automático)
