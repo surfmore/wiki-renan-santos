@@ -8,6 +8,16 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## "Proeza" de Lula: devolução de celular pelo correio e a crítica de Renan (junho de 2026)
+
+Em **18 de junho de 2026**, Renan critica uma proposta de Lula que permitiria a criminosos devolver celulares roubados pelo correio, em vez de irem a uma delegacia, porque os bandidos "têm medo" da polícia. Renan ironiza a proposta como mais um exemplo de Lula colocando "os sentimentos do bandido em primeiro lugar."
+
+No contraste com sua própria posição, Renan afirma que em seu governo criminosos em flagrante "vão tomar uns tiros" e, se forem a julgamento, pegarão 30 anos de prisão sem possibilidade de saída.
+
+> "A réal é que se o bandido assaltar alguém a mão armada, eu vou pegar ele. Se isso acontecer em flagrante, provavelmente ele vai tomar uns tiros e ele vai morrer. E caso vá a julgamento, ele vai pegar 30 anos de cadeia e de lá não vai sair."
+
+Ver [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] e [[pessoas/Lula]].
+
 ## Facções criminosas vs. terrorismo: o caso do Amapá (junho de 2026)
 
 Em **18 de junho de 2026**, no vídeo "Noruega vs Iraque", Renan afirma que as facções criminosas brasileiras matam mais do que organizações terroristas como o Estado Islâmico. Ele aponta que o Amapá é o estado mais perigoso do Brasil e que "é mais seguro viver em Bagdá do que em Macapá".

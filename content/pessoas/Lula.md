@@ -31,6 +31,22 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## "Lula conseguiu uma proeza": proposta de devolução de celular pelo correio (junho de 2026)
+
+Em **18 de junho de 2026**, Renan critica uma proposta de Lula que permitiria a criminosos devolver celulares roubados pelo correio, em vez de pessoalmente em uma delegacia. A justificativa seria que os bandidos têm medo de ir à delegacia "porque não sabem o tipo de delegado que vão encontrar" — sugerindo que o bandido pode ter receio de que o delegado roube o celular.
+
+Renan ironiza: "Como é que é? Lula tá imaginando que um bandido de boa fé está muito preocupado em devolver um celular numa delegacia." Ele afirma que a lógica de Lula é sempre colocar "os sentimentos do bandido em primeiro lugar", evitando que o criminoso se sinta inseguro ao aparecer numa delegacia onde pode ser fichado ou preso por outros crimes.
+
+Renan informa que todas as associações de delegados e investigadores de polícia civil do Brasil estão entrando com ações legais contra Lula por essa declaração. Ele classifica a proposta como mais uma ofensa aos profissionais concursados das delegacias.
+
+> "A questão não é sequer ofensa, é o fato Lula tá sempre colocando o direito do bandido, os sentimentos do bandido em primeiro lugar."
+
+No contraste com sua própria posição, Renan afirma que em seu governo "se o bandido assaltar alguém a mão armada, eu vou pegar ele" — em flagrante, levaria tiros, e se for a julgamento, pegaria 30 anos de cadeia.
+
+Renan também afirma que Lula só vence Flávio Bolsonaro no segundo turno, mas perderia para ele, Caiado ou outros.
+
+Ver [[fontes/2026-06-18 - Lula conseguiu uma proeza!]].
+
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
 
 ## Crítica por subinvestimento em inteligência artificial (junho de 2026)
