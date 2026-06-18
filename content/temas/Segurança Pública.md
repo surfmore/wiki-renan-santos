@@ -8,6 +8,18 @@ date: 2026-05-25
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## "Vingar as pessoas boas": compromisso pessoal e motivação familiar (junho de 2026)
+
+Em **18 de junho de 2026**, Renan faz um pronunciamento de tom profundamente pessoal. Questionado sobre qual compromisso público assume, ele promete que no final do primeiro ano de mandato o brasileiro conseguirá comprar um item de alto valor no celular sem se endividar e sem medo de ser roubado.
+
+Renan revela que sua mãe foi sequestrada duas vezes — motivação pessoal que o leva a dizer que quer "vingar as vítimas do crime organizado". Para os criminosos, declara: "ou ele vai estar preso ou eu vou matar ele." Afirma não ter perdão e que é consumido pela "raiva da injustiça".
+
+> "Se eu pudesse 30 anos praticamente depois, eu gostaria de estrangular o cara que praticamente torturou minha mãe. Eu não tenho perdão com esses caras."
+
+Contrasta a "moça correta, trabalhadora, boa filha" com influenciadoras como Virgínia Fonseca e Deolane Bezerra, que segundo ele recebem valor e atenção no país enquanto o brasileiro honesto se sente injustiçado.
+
+Ver [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]].
+
 ## "Proeza" de Lula: devolução de celular pelo correio e a crítica de Renan (junho de 2026)
 
 Em **18 de junho de 2026**, Renan critica uma proposta de Lula que permitiria a criminosos devolver celulares roubados pelo correio, em vez de irem a uma delegacia, porque os bandidos "têm medo" da polícia. Renan ironiza a proposta como mais um exemplo de Lula colocando "os sentimentos do bandido em primeiro lugar."

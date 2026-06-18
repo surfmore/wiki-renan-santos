@@ -98,7 +98,7 @@ date: 2026-06-18
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">647</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">648</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -116,7 +116,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Recursos-Hídricos-e-Saneamento"><div class="wiki-card-header"><span class="wiki-card-icon">💧</span><span class="wiki-card-title">Recursos Hídricos e Saneamento</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Paradoxo do Brasil como potência hídrica: maior aquífero do mundo em Alter do Chão ao lado da maior cidade sem saneamento do país; taxação de poços artesianos no Pará e aquífero não perfurado no RN.</p></a>
 <a class="wiki-card" href="/temas/Sebastianismo-e-Messianismo-Político"><div class="wiki-card-header"><span class="wiki-card-icon">👑</span><span class="wiki-card-title">Sebastianismo e Messianismo Político</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Análise do mito de Dom Sebastião como chave para entender o messianismo na política brasileira, do coronelismo nordestino a Lula e Bolsonaro.</p></a>
 <a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
-<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">86 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios, portos e desfavelização como solução estrutural.</p></a>
+<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">87 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios, portos e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">35 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
@@ -182,6 +182,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]] — Renan faz compromisso pessoal de "vingar as vítimas do crime organizado"; revela que sua mãe foi sequestrada duas vezes; promete devastar o crime — bandido preso ou morto — e reformas para baratear produtos.
 - [[fontes/2026-06-18 - Você já ouviu falar em Fordlandia]] — Renan conta a história de Fordlândia, a cidade fantasma construída pela Ford no Pará, como lição sobre choque cultural, autossabotagem e o fracasso de desenvolvimento na Amazônia.
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Renan critica proposta de Lula de permitir que bandidos devolvam celulares roubados pelo correio em vez de irem à delegacia; defende linha dura com 30 anos de prisão para criminosos em flagrante.
 - [[fontes/2026-06-18 - Noruega vs Iraque]] — Renan compara a gestão do petróleo entre Noruega (fundo soberano) e Iraque (corrupção); propõe modelo norueguês para o Brasil sem privatizar a Petrobras; Amapá mais perigoso que Bagdá.
