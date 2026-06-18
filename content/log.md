@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-17] ingest | Índios vagabundos estão sabotando o país (ingest automático)
+- Fonte criada: fontes/2026-06-17 - Índios vagabundos estão sabotando o país
+- Páginas atualizadas: temas/Agronegócio e Matopiba, temas/Soberania Nacional e ONGs Estrangeiras, temas/Ambientalismo e Produtores Rurais, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia em Santarém o bloqueio de hidrovia da Cargill por grupo indígena e PT; crítica à FUNAI e promessa de acabar com demarcações que impedem infraestrutura.
+
 ## [2026-06-17] ingest | A Inglaterra vai ganhar a Cop (ingest automático)
 - Fonte criada: fontes/2026-06-17 - A Inglaterra vai ganhar a Cop
 - Páginas atualizadas: posicoes/Propostas para Educação, index.md, log.md, wiki/.processed_ids

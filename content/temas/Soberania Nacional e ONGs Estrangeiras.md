@@ -9,6 +9,12 @@ date: 2026-04-12
 
 Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura e exploração de recursos no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
 
+## Bloqueio em Santarém: Cargill e a hidrovia parada (junho de 2026)
+
+Em **17 de junho de 2026**, em Santarém (PA), Renan denuncia que a expansão da hidrovia conectada à estrutura da **Cargill** foi barrada por um grupo indígena articulado com o PT. Segundo ele, a etnia teria desaparecido no século XVII e "reaparecido" com o governo petista anos atrás para bloquear a obra. Renan critica FUNAI, antropólogos de esquerda, PSOL e organizações internacionais, alegando um plano para manter o Pará na pobreza. Promete acabar com demarcações que considera fraudulentas.
+
+Ver [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]].
+
 ## O caso da Ferrogrão
 
 Em vídeo de 12 de abril de 2026, Renan comenta a ação que levou o PSOL e ONGs indígenas ao STF para barrar a Ferrogrão, citando relatório da FUNAI sobre uma tribo localizada a 160 km da ferrovia. Nomeia as entidades envolvidas e mapeia suas fontes de financiamento:
@@ -92,6 +98,7 @@ Ver [[fontes/2026-02-10 - Atenção - o celular que vai derrubar a república es
 
 ## Fontes
 
+- [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]]
 - [[fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão]]
 - [[fontes/2026-04-07 - A ferrogrão está sendo sabotada]]
 - [[fontes/2026-04-05 - O agro brasileiro pode quebrar]]

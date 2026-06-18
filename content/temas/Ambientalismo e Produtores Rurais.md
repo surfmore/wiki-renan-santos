@@ -12,6 +12,10 @@ fontes:
 
 Renan Santos critica a atuação de órgãos ambientais brasileiros — especialmente o **ICMBio (Instituto Chico Mendes de Conservação da Biodiversidade)** — como instrumentos de uma agenda ideológica que prejudica pequenos produtores rurais, especialmente na região amazônica. O tema aparece como extensão de sua crítica mais ampla ao ambientalismo que, segundo ele, bloqueia o desenvolvimento do Brasil.
 
+## Denúncia de bloqueio indígena em Santarém (junho de 2026)
+
+No mesmo dia, em Santarém (PA), Renan denuncia que a expansão da hidrovia da **Cargill** foi barrada por um grupo indígena que, segundo ele, teria desaparecido no século XVII e "reaparecido" com o PT. Acusa a **FUNAI** e antropólogos de extrema-esquerda de fabricar demarcações para bloquear o desenvolvimento da região. Promete acabar com o que classifica como "farra" de falsas declarações indígenas usadas para impedir obras. Ver [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]].
+
 ## Denúncia contra o ICMBio (junho de 2026)
 
 Em **17 de junho de 2026**, apoiando a denúncia feita pelo influenciador Richard Rasmussen, Renan detalha o modus operandi do ICMBio no Pará:
@@ -44,4 +48,5 @@ Renan conecta a crítica ao ambientalismo com:
 
 ## Fontes
 
+- [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Denúncia de bloqueio indígena e crítica à FUNAI em Santarém
 - [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — Denúncia contra o ICMBio e 4 propostas de reforma

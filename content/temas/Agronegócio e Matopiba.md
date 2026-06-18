@@ -10,6 +10,12 @@ date: 2026-05-29
 
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.
 
+## Cargill e o bloqueio indígena em Santarém (junho de 2026)
+
+Em **17 de junho de 2026**, gravando em Santarém (PA), Renan mostra a estrutura de escoamento de grãos da **Cargill** que conecta a produção do Centro-Oeste ao mercado internacional via hidrovia e Canal do Panamá. Denuncia que a expansão da hidrovia foi barrada por um grupo indígena articulado com o PT — uma etnia que, segundo ele, teria desaparecido no século XVII e "reaparecido" com o governo petista. Renan critica FUNAI, PSOL e ONGs internacionais pelo bloqueio e promete acabar com a "farra" de demarcações fraudulentas que impedem obras de infraestrutura.
+
+Ver [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]].
+
 ## ICMBio e a perseguição a pequenos produtores no Pará (junho de 2026)
 
 Em **17 de junho de 2026**, Renan denuncia a atuação do **ICMBio (Instituto Chico Mendes de Conservação da Biodiversidade)** no Pará, que cria reservas ambientais desapropriando pequenos produtores rurais sem indenização justa e depois os expulsa de "zonas de amortecimento" de quilômetros ao redor das reservas. Relata uma rebelião de agricultores que recuperaram o gado tomado pelo órgão.
@@ -118,6 +124,7 @@ Ver [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]].
 
 ## Fontes
 
+- [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Cargill em Santarém; bloqueio indígena e do PT à hidrovia; crítica à FUNAI
 - [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — ICMBio e perseguição a pequenos produtores no Pará; 4 propostas de reforma
 - [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]] — vassoura de bruxa; destruição da lavoura cacaueira; proposta para Embrapa
 - [[fontes/2026-04-24 - Essa vinícola vai te mostrar todo o potencial do agro]] — agro de alto valor agregado; vinícola de São Joaquim (SC)

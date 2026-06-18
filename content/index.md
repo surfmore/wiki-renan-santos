@@ -98,7 +98,7 @@ date: 2026-06-17
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">643</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">644</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">26</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">27</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -180,6 +180,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Renan denuncia em Santarém o bloqueio de hidrovia da Cargill por grupo indígena articulado com o PT e ONGs internacionais; crítica à FUNAI e promessa de fim de demarcações fraudulentas.
 - [[fontes/2026-06-17 - A Inglaterra vai ganhar a Cop]] — Renan compara futebol e educação para defender o método fônico obrigatório; denuncia que o Brasil ainda usa o método Whole Language que fracassou na Inglaterra nos anos 1970.
 - [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]] — Novos vazamentos do escândalo Banco Master mostram Vorcaro contratando jatinhos para prostitutas em festas com autoridades; fotos com Ciro Nogueira; R$ 11 milhões para membro do governo Bolsonaro; Renan conecta à declaração de Flávio sobre Nogueira como VP.
 - [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — Renan apoia a denúncia de Richard Rasmussen contra o ICMBio no Pará; critica órgãos ambientais como inimigos do produtor rural; anuncia 4 propostas para proteger pequenos agricultores.
