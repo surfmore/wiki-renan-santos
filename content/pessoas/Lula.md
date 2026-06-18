@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-06-06
 fontes:
+  - "2026-06-18 - Lula conseguiu uma proeza!"
   - "2026-06-14 - Vão proibir seu ChatGPT"
   - "2026-06-09 - Eu achei os números da economia do Lula"
   - "2026-06-06 - Parabéns! Sua luz vai ficar mais cara!"
@@ -235,6 +236,7 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Renan critica proposta de Lula para devolução de celulares roubados pelo correio; contrasta com 30 anos de prisão para assalto à mão armada
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — Lula igualmente envolvido; cronologia
 - [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]] — racha com o centrão; janela eleitoral
 - [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] — promessa de prender Janja

@@ -798,6 +798,39 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Crítica de Renan à proposta de Lula de devolução de celular pelo correio; defesa de confronto armado e 30 anos de prisão
+- [[fontes/2026-06-18 - Noruega vs Iraque]] — Comparação do Amapá com Bagdá; facções matam mais que terroristas
+- [[fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas]] — Rota PCC-Holanda via Paranaguá
+- [[fontes/2026-06-10 - A pior proposta dessa eleição É MINHA!!!]] — Presídio gigante no Ceará; estado de defesa
+- [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — Avanço do crime em MG
+- [[fontes/2026-06-06 - Já politizaram a copa!]] — 434 mortos na ditadura vs. 4 dias de facções
+- [[fontes/2026-06-06 - Lembre-se do Gabriel]] — Crime em Capão Redondo; evolução do slogan
+- [[fontes/2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel]] — Pena de morte e prisão perpétua
+- [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]] — Lula defende bandido; excludente de ilicitude
+- [[fontes/2026-06-03 - Eu fui no Porto de Pecem, no Ceará!]] — Porto de Pecém tomado por facções
+- [[fontes/2026-05-30 - A Globo resolveu me atacar!]] — PCC/CV como terroristas; Bukele como modelo
+- [[fontes/2026-05-24 - A Bahia governada pelo PT já era]] — Bahia segundo estado mais violento
+- [[fontes/2026-05-24 - Você viu o que falei]] — Bahia, Complexo da Penha, direito penal do inimigo
+- [[fontes/2026-05-23 - Por que eu quero fazer uma intervenção no Porto de Santos]] — Intervenção no Porto de Santos
+- [[fontes/2026-05-22 - Deolane Bezerra presa!]] — Influenciadores e direito penal do inimigo
+- [[fontes/2026-05-21 - F3minicídi0 não existe]] — Feminicídio; punição como dissuasão
+- [[fontes/2026-05-18 - O Brasil odeia seus heróis]] — MC Rian, Felipe Marques Monteiro, cultura de favela
+- [[fontes/2026-05-18 - Conscientizar ou punir]] — Violência doméstica e punição
+- [[fontes/2026-05-12 - A origem do prendeu matou]] — Origem do bordão; direito penal do inimigo
+- [[fontes/2026-05-11 - Conheça a rua do medo que fica no bairro de maior qualidade de vida em São Paulo]] — Rua do medo em Pinheiros
+- [[fontes/2026-05-06 - Eu fui em Paraisópolis, que está tomada pelo PCC]] — Paraisópolis dominada pelo PCC
+- [[fontes/2026-05-06 - O que é o prendeu m4tou]] — Conceito de prendeu matou
+- [[fontes/2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui]] — El Salvador como modelo
+- [[fontes/2026-05-02 - Oruam m4t0u um pai de família]] — Normalização do crime; responsabilidade difusa
+- [[fontes/2026-04-28 - Pena de morte no Brasil]] — Pena de morte; reocupação do território
+- [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]] — Governadores lenientes; proposta de ação
+- [[fontes/2026-04-25 - Resposta sobre o bairro de Pinheirinho, em Criciúma]] — Resposta sobre Pinheirinho SC
+- [[fontes/2026-04-23 - Santa Catarina, não podemos deixar que a favelização tome conta do estado!]] — Favelização de SC
+- [[fontes/2026-04-23 - O que fazer com crackudo]] — Internação compulsória para usuários de crack
+- [[fontes/2026-04-20 - Esse menino é um herói!]] — Legítima defesa e invasão de domicílio
+- [[fontes/2026-04-14 - Presídio de Pedrinhas]] — Presídio de Pedrinhas; modelo CECOT
+- [[fontes/2026-04-14 - Ameaçado por chamar Coroadinho de filial do inferno]] — Favela Coroadinho
+- [[fontes/2026-04-14 - Lideranças do Coroadinho repudiam Renan]] — Resposta a nota de repúdio
 - [[fontes/2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa]]
 - [[fontes/2026-03-26 - Quanto tempo você acha que um criminoso deve ficar preso]]
 - [[fontes/2026-03-24 - Quem rouba a mão armada precisa ficar MUITO preso]]
