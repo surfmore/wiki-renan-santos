@@ -9,6 +9,18 @@ date: 2026-04-13
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
 
+## Presidente da Câmara e Jorge Wagner (PT/BA) são envolvidos (junho de 2026)
+
+Em **19 de junho de 2026**, Renan denuncia que novos desdobramentos do escândalo atingiram o **presidente da Câmara dos Deputados** e **Jorge Wagner, do PT da Bahia**. Paralelamente, revela que **Flávio Bolsonaro** foi pego negociando dinheiro sujo para um filme tocado por sua família, que acabou financiando seu irmão nos Estados Unidos.
+
+Renan aproveita o anúncio para criticar a alienação da população brasileira, distraída pela Copa do Mundo (jogo Brasil x Haiti) enquanto o escândalo avança. Ele observa que gostaria de convocar uma manifestação contra o Banco Master, mas reconhece que ninguém iria — as pessoas desistiram de lutar.
+
+Ver [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]].
+
+---
+
+## Novos vazamentos: jatinhos, prostitutas e festas com autoridades (junho de 2026)
+
 ## Novos vazamentos: jatinhos, prostitutas e festas com autoridades (junho de 2026)
 
 Em **17 de junho de 2026**, novos vazamentos revelaram que Daniel Vorcaro contratava jatinhos particulares para transportar garotas de programa — descritas como "modelos" brasileiras e estrangeiras — para festas com autoridades brasileiras. Mensagens vazadas mostram Vorcaro dando instruções explícitas: "pega o avião aí pras kengas." As festas incluíam ministros do STF, grandes políticos e pequenos políticos brasileiros.

@@ -98,7 +98,7 @@ date: 2026-06-19
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">648</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">649</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -155,7 +155,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Juliano-Cazarré"><div class="wiki-card-header"><span class="wiki-card-icon">🎭</span><span class="wiki-card-title">Juliano Cazarré</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ator da Globo de direita. Alvo de censura feminista por seu curso de masculinidade tradicional.</p></a>
 <a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, atacou Renan na Jovem Pan.</p></a>
 <a class="wiki-card" href="/pessoas/Daniel-Vorcaro"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Daniel Vorcaro</span><span class="wiki-card-count">76 fontes</span></div><p class="wiki-card-desc">Banqueiro do Master, preso em jan. 2026. Jatinhos para prostitutas em festas com autoridades, fotos com Ciro Nogueira — Renan o compara a Jeffrey Epstein.</p></a>
-<a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">37 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes; visitas a Vorcaro; chamou Ciro Nogueira de "vice perfeito".</p></a>
+<a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">38 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes; visitas a Vorcaro; chamou Ciro Nogueira de "vice perfeito"; dinheiro sujo para filme da família bancou irmão nos EUA.</p></a>
 <a class="wiki-card" href="/pessoas/Romeu-Zema"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Romeu Zema</span><span class="wiki-card-count">22 fontes</span></div><p class="wiki-card-desc">Ultrapassado por Renan nas pesquisas. Pai de Vorcaro doou R$ 1 milhão ao Partido Novo em 2022.</p></a>
 <a class="wiki-card" href="/pessoas/Kim-Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">21 fontes</span></div><p class="wiki-card-desc">Aliado no Partido Missão. Único parlamentar de direita a votar contra a PEC da Blindagem.</p></a>
 <a class="wiki-card" href="/pessoas/Alexandre-de-Moraes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Alexandre de Moraes</span><span class="wiki-card-count">16 fontes</span></div><p class="wiki-card-desc">"Elemento de proteção" do Banco Master. Esposa com contratos milionários ligados ao banco.</p></a>
@@ -182,6 +182,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]] — Renan critica a alienação da população durante a Copa do Mundo enquanto novos desdobramentos do escândalo Banco Master (presidente da Câmara, Jorge Wagner/PT) são ignorados; paralelo entre Brasil e Haiti como país sem lei.
 - [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]] — Renan faz compromisso pessoal de "vingar as vítimas do crime organizado"; revela que sua mãe foi sequestrada duas vezes; promete devastar o crime — bandido preso ou morto — e reformas para baratear produtos.
 - [[fontes/2026-06-18 - Você já ouviu falar em Fordlandia]] — Renan conta a história de Fordlândia, a cidade fantasma construída pela Ford no Pará, como lição sobre choque cultural, autossabotagem e o fracasso de desenvolvimento na Amazônia.
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Renan critica proposta de Lula de permitir que bandidos devolvam celulares roubados pelo correio em vez de irem à delegacia; defende linha dura com 30 anos de prisão para criminosos em flagrante.

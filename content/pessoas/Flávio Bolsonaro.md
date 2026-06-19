@@ -11,6 +11,12 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Dinheiro sujo para filme da família bancou irmão nos EUA (junho de 2026)
+
+Em **19 de junho de 2026**, Renan revela que Flávio Bolsonaro foi pego negociando **dinheiro sujo** para um **filme tocado por sua família**, que acabou financiando seu irmão nos Estados Unidos. O caso envolve novos desdobramentos do [[eventos/Escândalo Banco Master]], onde o presidente da Câmara e Jorge Wagner (PT/BA) também foram implicados. Renan critica a falta de reação popular diante das revelações, ofuscadas pela Copa do Mundo.
+
+Ver [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]].
+
 ## Crítica por ignorar guerra tecnológica (junho de 2026)
 
 Em **14 de junho de 2026**, ao comentar a restrição dos EUA ao compartilhamento de IA avançada, Renan critica Flávio Bolsonaro por estar "dançando" enquanto o jogo geopolítico e tecnológico avança sem o Brasil — em contraste com temas estratégicos que sua pré-campanha está discutindo, como soberania tecnológica, data centers e terras raras.
