@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-19] ingest | Flávio Bolsonaro tem ligação com o comando vermelho (ingest automático)
+- Fonte criada: fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: Renan desmonta vídeo de Flávio gerado por IA; reapresenta conexões de Flávio com Carlos Castro, Bacelar, TH Joias e Adriano da Nóbrega, todos ligados ao crime organizado no Rio; critica omissão de Flávio como senador e contrasta com sua própria proposta de combate ao crime.
+
 ## [2026-06-19] ingest | Hoje tem Brasil x Haiti! (ingest automático)
 - Fonte criada: fontes/2026-06-19 - Hoje tem Brasil x Haiti!
 - Páginas criadas: (nenhuma nova)

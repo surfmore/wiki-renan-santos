@@ -11,6 +11,21 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Vídeo com IA sobre o CV e as conexões reais de Flávio com o crime organizado (junho de 2026)
+
+Em **19 de junho de 2026**, Renan desmonta o vídeo recente de Flávio Bolsonaro, gerado por inteligência artificial, em que aparece prometendo "explodir o Comando Vermelho com mísseis". Renan afirma que a peça é artificial porque a história real de Flávio com o crime organizado é bem diferente.
+
+Renan reapresenta as conexões de Flávio com figuras associadas ao CV:
+
+- **Carlos Castro** — aliado de Flávio, afastado e investigado por relações com o crime organizado.
+- **Rodrigo Bacelar** — apoiado por Flávio para governador; parceiro de TH Joias. A Polícia Federal determinou ambos como "núcleo operacional e político do Comando Vermelho na política do Rio".
+- **TH Joias** — descrito como membro do Comando Vermelho. O melhor amigo de Flávio é próximo da turma de TH Joias, que foi presa em operação por relação com o CV.
+- **Adriano da Nóbrega** — assassino de aluguel, bicheiro, do crime organizado; parentes trabalhavam no gabinete de Flávio na rachadinha.
+
+Renan também critica que Flávio, como senador no governo do pai, não fez nada contra o crime organizado, não ajudou a agenda de Moro e lutou contra a CPI da Lava Toga. Conclui que "Flávio não é a favor da luta contra o crime organizado porque ele próprio se relaciona com os caras do crime organizado."
+
+Ver [[fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho]].
+
 ## Dinheiro sujo para filme da família bancou irmão nos EUA (junho de 2026)
 
 Em **19 de junho de 2026**, Renan revela que Flávio Bolsonaro foi pego negociando **dinheiro sujo** para um **filme tocado por sua família**, que acabou financiando seu irmão nos Estados Unidos. O caso envolve novos desdobramentos do [[eventos/Escândalo Banco Master]], onde o presidente da Câmara e Jorge Wagner (PT/BA) também foram implicados. Renan critica a falta de reação popular diante das revelações, ofuscadas pela Copa do Mundo.
