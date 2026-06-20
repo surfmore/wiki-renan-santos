@@ -5,12 +5,21 @@ tags:
   - ambientalismo
   - agro
   - amazonia
-date: 2026-06-17
+date: 2026-06-20
 fontes:
+  - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR"
 ---
 
 Renan Santos critica a atuação de órgãos ambientais brasileiros — especialmente o **ICMBio (Instituto Chico Mendes de Conservação da Biodiversidade)** — como instrumentos de uma agenda ideológica que prejudica pequenos produtores rurais, especialmente na região amazônica. O tema aparece como extensão de sua crítica mais ampla ao ambientalismo que, segundo ele, bloqueia o desenvolvimento do Brasil.
+
+## Exemplo positivo de desenvolvimento sustentável em Marajó (junho de 2026)
+
+Em **20 de junho de 2026**, Renan visita uma ecofazenda no arquipélago do Marajó (PA) que, diferentemente dos bloqueios ambientais que critica, apresenta um modelo de desenvolvimento sustentável bem-sucedido. O projeto combina agricultura com preservação da floresta, produzindo cacau (livre de vassoura-de-bruxa) e café na região amazônica. A ecofazenda, financiada pelo norte-americano **Deric Galo** (ligado ao projeto Rios Voadores), opera no modelo de fazenda-escola, treinando ribeirinhos para se tornarem autossustentáveis.
+
+Renan contrapõe este exemplo ao abandono da ilha (pobreza, prostituição infantil) e sugere que a atração de capital humano internacional qualificado pode transformar a região. Ele defende "mais projetos como esse e menos visitas a lá Epstein aqui na região", em referência a casos de exploração sexual de menores associados a estrangeiros.
+
+Ver [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]].
 
 ## Denúncia de bloqueio indígena em Santarém (junho de 2026)
 
@@ -48,5 +57,6 @@ Renan conecta a crítica ao ambientalismo com:
 
 ## Fontes
 
+- [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]] — Exemplo positivo de ecofazenda sustentável no Marajó
 - [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Denúncia de bloqueio indígena e crítica à FUNAI em Santarém
 - [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — Denúncia contra o ICMBio e 4 propostas de reforma

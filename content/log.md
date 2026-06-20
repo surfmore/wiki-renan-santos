@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-20] ingest | Como esse exemplo pode salvar Marajó (ingest automático)
+- Fonte criada: fontes/2026-06-20 - Como esse exemplo pode salvar Marajó
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Ambientalismo e Produtores Rurais, temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: Renan visita ecofazenda no Marajó que combina agricultura com floresta; produção de cacau e café na Amazônia; modelo fazenda-escola financiado por norte-americano (Deric Galo, projeto Rios Voadores); contraste com abandono da ilha
+
 ## [2026-06-20] ingest | Precisamosa libertar 25 milhões de brasileiros! (ingest automático de 5 pendentes)
 - Fonte criada: fontes/2025-09-09 - Precisamosa libertar 25 milhões de brasileiros!
 - Páginas criadas: (nenhuma nova)

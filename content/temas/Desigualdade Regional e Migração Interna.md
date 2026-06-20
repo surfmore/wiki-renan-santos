@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2025-09-06
 fontes:
+  - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA"
@@ -28,6 +29,16 @@ Ver [[fontes/2025-09-06 - Cuida de mim, painho!!!!]].
 Em **2 de setembro de 2025**, no vídeo autobiográfico, Renan explica que o Livro Amarelo do Partido Missão propõe a **industrialização do Nordeste** como um dos pilares para superar as desigualdades regionais. O projeto envolve transformar as potencialidades regionais em cadeias produtivas de alto valor agregado.
 
 Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
+
+## Exemplo de desenvolvimento sustentável no Marajó (junho de 2026)
+
+Em **20 de junho de 2026**, Renan visita uma ecofazenda no arquipélago do Marajó — mesma região de Melgaço, o pior IDH do Brasil — e apresenta um contraste intencional. Desta vez, o foco é um **projeto que funciona**: uma fazenda-escola que combina agricultura com preservação florestal, gerando emprego para ribeirinhos, produzindo cacau e café na Amazônia, e sendo financeiramente sustentável com investimento privado internacional.
+
+Renan observa que a maioria dos visitantes do projeto são estrangeiros, não brasileiros, e defende mais iniciativas do tipo como caminho para superar o abandono da ilha — onde prostituição infantil, pobreza e falta de infraestrutura são endêmicas. A mensagem contrasta com o tom crítico dos demais vídeos sobre a região: em vez de denunciar a ausência do Estado, mostra uma solução concreta em operação.
+
+O projeto é financiado pelo norte-americano **Deric Galo**, vinculado ao projeto **Rios Voadores**, e opera com sistema próprio de compostagem e treinamento de mão de obra local.
+
+Ver [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]].
 
 ## Melgaço (PA): o pior IDH do Brasil (junho de 2026)
 
@@ -391,6 +402,7 @@ Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo m
 
 ## Fontes
 
+- [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]] — Ecofazenda sustentável no Marajó como exemplo positivo de desenvolvimento regional
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); pior IDH do Brasil; palafita sem saneamento; crítica à Universidade Federal do Marajó
 - [[fontes/2026-05-25 - O PT destruiu a Bahia]] — Bahia com maior número de pessoas no Bolsa Família; indicadores de Salvador
 - [[fontes/2026-05-24 - A Bahia governada pelo PT já era]] — panorama do estado após dezoito anos de PT
