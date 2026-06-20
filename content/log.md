@@ -1,5 +1,35 @@
 # Log de operações
 
+## [2026-06-20] ingest | Precisamosa libertar 25 milhões de brasileiros! (ingest automático de 5 pendentes)
+- Fonte criada: fontes/2025-09-09 - Precisamosa libertar 25 milhões de brasileiros!
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Segurança Pública, temas/Imigração e Fronteiras, index.md, log.md, wiki/.processed_ids
+- Nota: Renan defende ação multifatorial contra crime organizado; crítica a Temer e Witzel; propõe Força Aérea, fronteira e mudança no paradigma penal.
+
+## [2026-06-20] ingest | Que se D4ne a MAGALU! (ingest automático de 5 pendentes)
+- Fonte criada: fontes/2025-09-08 - Que se D4ne a MAGALU!
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Carga Tributária, temas/Empobrecimento e Mercado de Trabalho, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica "taxa das blusinhas" como protecionismo em favor de intermediários como Magalu; defende eliminação de taxas.
+
+## [2026-06-20] ingest | Cuida de mim, painho!!!! (ingest automático de 5 pendentes)
+- Fonte criada: fontes/2025-09-06 - Cuida de mim, painho!!!!
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica PT por manter Nordeste dependente de assistencialismo em vez de desenvolvimento real.
+
+## [2026-06-20] ingest | QUEM É RENAN SANTOS (ingest automático de 5 pendentes)
+- Fonte criada: fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Partido Missão, temas/Crítica à Direita Tradicional, temas/Desigualdade Regional e Migração Interna, pessoas/Kim Kataguiri, pessoas/Jair Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: Autobiografia completa de Renan — infância, USP, MBL, críticas a Bolsonaro, fundação do Partido Missão.
+
+## [2026-06-20] ingest | QUEM É RENAN SANTOS — reportagem (ingest automático de 5 pendentes)
+- Fonte criada: fontes/2025-09-02 - QUEM É RENAN SANTOS [QrFE87WpcEs]
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Segurança Pública, posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+- Nota: Reportagem sobre primeira pesquisa com 2%; Renan anuncia guerra às facções criminosas e desfavelização.
+
 ## [2026-06-19] ingest | Essa é a água que essa senhora toma. (ingest automático)
 - Fonte criada: fontes/2026-06-19 - Essa é a água que essa senhora toma.
 - Páginas criadas: (nenhuma nova)

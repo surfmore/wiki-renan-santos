@@ -4,10 +4,18 @@ tags:
   - tema
   - política
   - bolsonarismo
-date: 2026-06-02
+date: 2025-09-02
 ---
 
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
+
+## Raiz da crítica: Renan nunca acreditou em Bolsonaro (setembro de 2025)
+
+Em **2 de setembro de 2025**, Renan revela pela primeira vez em seu vídeo autobiográfico que **nunca acreditou em Jair Bolsonaro**, classificando-o como uma "farsa" — algo que ele afirma ter sido comprovado pela fraqueza do ex-presidente nos anos seguintes. Renan defende que é possível ser de direita, enfrentar o petismo e ser duro com criminosos "sem precisar se ajoelhar pro político famoso em questão".
+
+Ele afirma que sua posição independente em relação a Bolsonaro lhe custou perseguições: foi investigado pela PF, COAF e polícia civil durante o governo Bolsonaro, sendo absolvido em todas as ocasiões. Renan também critica a lógica da direita da época: "se você está com Bolsonaro, pode tudo; se não está, tem que ir pra cadeia."
+
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
 
 ## Eduardo Bolsonaro ataca Renan na Jovem Pan (junho de 2026)
 

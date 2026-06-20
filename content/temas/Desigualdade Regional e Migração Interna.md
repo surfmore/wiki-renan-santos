@@ -5,15 +5,29 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-06-19
+date: 2025-09-06
 fontes:
   - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA"
   - "2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA"
+  - "2025-09-06 - Cuida de mim, painho!"
+  - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
+
+## Crítica ao assistencialismo do PT no Nordeste (setembro de 2025)
+
+Em **6 de setembro de 2025**, Renan faz um desabafo contra a política do PT para o Nordeste: em vez de tornar a região rica, o partido teria optado pelo "assistencialismo mais barato" — distribuição de botijões, auxílios e Bolsa Família — para manter dependência eleitoral. Ele argumenta que o PT nunca tratou de resolver os problemas estruturais das desigualdades regionais, preferindo manter o eleitor dependente de programas assistenciais.
+
+Ver [[fontes/2025-09-06 - Cuida de mim, painho!!!!]].
+
+## Industrialização do Nordeste como objetivo do Missão (setembro de 2025)
+
+Em **2 de setembro de 2025**, no vídeo autobiográfico, Renan explica que o Livro Amarelo do Partido Missão propõe a **industrialização do Nordeste** como um dos pilares para superar as desigualdades regionais. O projeto envolve transformar as potencialidades regionais em cadeias produtivas de alto valor agregado.
+
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
 
 ## Melgaço (PA): o pior IDH do Brasil (junho de 2026)
 

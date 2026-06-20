@@ -3,10 +3,18 @@ title: "Carga Tributária"
 tags:
   - tema
   - economia
-date: 2026-04-13
+date: 2025-09-09
 ---
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
+
+## Primeira crítica à "taxa das blusinhas" e ao protecionismo (setembro de 2025)
+
+Em **8 de setembro de 2025**, Renan critica pela primeira vez a "taxa das blusinhas" — tributo de 20% sobre compras internacionais de até US$ 50. Ele aponta que a arrecadação ficou quatro vezes abaixo do previsto e que o consumo de 14 milhões de brasileiros foi reduzido. Para Renan, a taxa protege o monopólio de intermediários como a Magazine Luiza, que têm acesso exclusivo ao mercado chinês.
+
+Renan defende que o brasileiro pobre não pode perder a dignidade de consumir produtos acessíveis que aumentam sua produtividade — seja um mouse, um acessório de trabalho ou uma roupa — e propõe a eliminação de todas essas taxas.
+
+Ver [[fontes/2025-09-08 - Que se D4ne a MAGALU!]].
 
 ## Imposto sobre máquinas agrícolas: sabotagem ao pequeno produtor (junho de 2026)
 

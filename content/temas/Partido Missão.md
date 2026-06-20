@@ -24,6 +24,14 @@ fontes:
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
 
+## Origens: o caminho até a fundação do Missão (setembro de 2025)
+
+Em **2 de setembro de 2025**, no vídeo autobiográfico "QUEM É RENAN SANTOS", Renan conta a trajetória que levou à fundação do Partido Missão. Após abandonar a faculdade de Direito da USP por ter sofrido um golpe de colegas no partido estudantil que fundou, trabalhou reestruturando empresas em dificuldade durante os governos Lula e Dilma. A crise econômica do governo Dilma e as manifestações de 2013 o levaram a fundar o Movimento Brasil Livre (MBL) com amigos.
+
+O MBL cresceu a ponto de lançar deputados (como Kim Kataguiri) e criar uma academia de lideranças, o clube Vale Mais e uma revista. O passo seguinte foi o Partido Missão — descrito por Renan como o partido montado mais rápido da história do Brasil em número de estados e fichas validadas, com mais de 547 mil membros. O programa do partido está consolidado no **Livro Amarelo**, que propõe tratamento inédito para criminosos, industrialização do Nordeste e enfrentamento das desigualdades regionais.
+
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
+
 ## 10% em São Paulo pela RealTime Big Data (junho de 2026)
 
 Em **16 de junho de 2026**, Renan anuncia 10% das intenções de voto em São Paulo pela RealTime Big Data com coleta presencial — o primeiro dígito duplo de sua pré-campanha. Projeta ultrapassar Flávio Bolsonaro e enfrentar Lula no segundo turno, com meta de chegar a 20% em dois meses. Classifica São Paulo como a "cavalaria" da campanha.

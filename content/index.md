@@ -98,7 +98,7 @@ date: 2026-06-20
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">651</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">656</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -230,4 +230,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — Renan critica Chelsea/Lula por investimento superficial em quadra na favela; propõe desfavelização com bolsas de estudo como alternativa real.
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — Renan critica Flávio Bolsonaro por votar o PL da Misoginia; defende Juliano Cazarré de censura feminista; apresenta dados sobre saúde masculina.
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — Renan propõe gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira; churrasco diplomático.
-- [[fontes/2026-06-06 - Já politizaram a copa!]] — Renan critica politização do futebol pela esquerda; c
+- [[fontes/2026-06-06 - Já politizaram a copa!]] — Renan critica politização do futebol pela esquerda; comparação com métodos educacionais e defesa do método fônico.
+- [[fontes/2025-09-09 - Precisamosa libertar 25 milhões de brasileiros!]] — Renan defende que 25 milhões de brasileiros vivem presos nas mãos do crime organizado; propõe ação multifatorial com Força Aérea, polícias e mudanças nas leis penais; crítica à GLO de Temer e a Witzel.
+- [[fontes/2025-09-08 - Que se D4ne a MAGALU!]] — Renan critica a "taxa das blusinhas" que reduziu o consumo de 14 milhões de brasileiros; aponta protecionismo em favor da Magazine Luiza; defende eliminação das taxas.
+- [[fontes/2025-09-06 - Cuida de mim, painho!!!!]] — Renan faz desabafo contra Lula e o PT, que mantêm o Nordeste na pobreza com assistencialismo barato em vez de desenvolvimento real.
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]] — Autobiografia: Renan conta sua história pessoal, da infância na Mooca à fundação do MBL e do Partido Missão; crítica a Bolsonaro como "farsa".
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS [QrFE87WpcEs]]] — Reportagem televisiva sobre a primeira aparição de Renan em pesquisa presidencial com 2%; discurso de guerra ao crime organizado.

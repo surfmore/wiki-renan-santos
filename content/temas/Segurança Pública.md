@@ -3,10 +3,26 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-05-25
+date: 2025-09-09
 ---
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
+
+## "Precisamos libertar 25 milhões de brasileiros": visão estratégica (setembro de 2025)
+
+Em **9 de setembro de 2025**, Renan afirma que 25 milhões de brasileiros vivem "presos nas mãos do crime organizado" e defende uma abordagem multifatorial: uso de todas as forças policiais, da Força Aérea para controle de fronteiras e alterações nas leis penais. Critica a GLO de Michel Temer como ineficaz ("feita de Brasília olhando") e a atuação de Wilson Witzel como "malandra" por descer de helicóptero sem compromisso real com a retomada de territórios.
+
+Renan propõe romper com o paradigma ressocializador do direito penal brasileiro — que remonta aos constituintes de 1988 — para um modelo focado na punição. Ele anuncia que a primeira ocupação de seu governo demonstrará esse novo enfoque.
+
+Ver [[fontes/2025-09-09 - Precisamosa libertar 25 milhões de brasileiros!]].
+
+## Primeira aparição em pesquisa e o discurso de "guerra" (setembro de 2025)
+
+Em **2 de setembro de 2025**, logo após aparecer com 2% em pesquisa presidencial, Renan formula pela primeira vez de forma pública o núcleo de sua plataforma de segurança: "prender e matar bandidos, libertar as favelas do comando do crime organizado." Em reportagem televisiva, ele afirma que "cansamos de buscar a paz" e que é preciso "declarar guerra às facções criminosas", invadir áreas ocupadas pelo tráfico e prender colaboradores.
+
+Renan propõe reocupar o território e desfavelizar os locais tomados pelo crime organizado.
+
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [QrFE87WpcEs]]].
 
 ## "Vingar as pessoas boas": compromisso pessoal e motivação familiar (junho de 2026)
 
