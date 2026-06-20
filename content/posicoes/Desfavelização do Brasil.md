@@ -5,14 +5,25 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-03-27
+date: 2026-06-19
 fontes:
+  - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-03-27 - Eu fui na primeira favela do Brasil"
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
 
 Renan Santos apresenta um plano de seis medidas para eliminar as favelas do Rio de Janeiro, desenvolvido ao lado do **coronel Busnelo** (BOPE), pré-candidato ao governo do estado. O plano articula segurança pública, urbanismo e economia formal.
+
+## Palafitas no Pará: o extremo da desfavelização (junho de 2026)
+
+Em **19 de junho de 2026**, em **Melgaço (PA)** — cidade com o pior IDH do Brasil — Renan documenta o que considera o caso extremo da necessidade de desfavelização: **palafitas sobre a água**, onde não há sequer solo para construir infraestrutura básica. Uma família de oito filhos consome água contaminada, com todas as crianças sofrendo de diarreia crônica e uma delas diagnosticada com verminose.
+
+Renan é enfático: **todo o bairro de palafitas deveria ser evacuado** e **favela de palafita tem que deixar de existir**. Ele rejeita a romantização cultural desse tipo de moradia ("tem gente que acha que é uma característica cultural que agrega a paisagem") e defende que o poder público tem a obrigação de remover as famílias para condições dignas.
+
+O caso conecta a desfavelização à sua proposta de **lei de responsabilidade gerencial**: políticos que não resolverem esses problemas devem se tornar inelegíveis. Também critica a prioridade do governo Lula de criar uma **Universidade Federal do Marajó** onde as pessoas "mal conseguem ler e escrever."
+
+Ver [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]].
 
 ## "Migalha" internacional: Chelsea, Lula e a caricatura do Brasil (junho de 2026)
 
@@ -152,6 +163,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); palafita sem saneamento; defesa de evacuação de áreas de palafita; lei de responsabilidade gerencial
 - [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — crítica à "migalha" internacional; caricatura do Brasil como favela; bolsas de estudo como alternativa
 - [[fontes/2026-05-12 - Tutorial sobre como ganhar um apartamento em São Paulo]]
 - [[fontes/2025-09-30 - Rua desfavelizada vira favela de novo]] — Diadema refavelizada em 2025; condicionalidade; educação

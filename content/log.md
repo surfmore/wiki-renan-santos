@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-19] ingest | Essa é a água que essa senhora toma. (ingest automático)
+- Fonte criada: fontes/2026-06-19 - Essa é a água que essa senhora toma.
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Recursos Hídricos e Saneamento, temas/Desigualdade Regional e Migração Interna, posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+- Nota: Renan visita Melgaço (PA), cidade de pior IDH do Brasil, para documentar condições desumanas de palafita sem água potável nem esgoto; oito crianças com diarreia crônica e verminose; defesa da evacuação de áreas de palafita e da lei de responsabilidade gerencial; crítica à proposta de Universidade Federal do Marajó.
+
 ## [2026-06-19] ingest | Flávio Bolsonaro tem ligação com o comando vermelho (ingest automático)
 - Fonte criada: fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho
 - Páginas criadas: (nenhuma nova)

@@ -5,14 +5,25 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-06-16
+date: 2026-06-19
 fontes:
+  - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2026-03-01 - CONHEÇA A CIDADE BRASILEIRA QUE RECEBE MENOS BOLSA FAMÍLIA"
   - "2026-02-26 - MINHA PROPOSTA PARA RESOLVER A MIGRAÇÃO INTERNA"
 ---
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
+
+## Melgaço (PA): o pior IDH do Brasil (junho de 2026)
+
+Em **19 de junho de 2026**, Renan visita **Melgaço (PA)** — cidade com o **pior IDH do Brasil** — para documentar o extremo da desigualdade regional. Em uma palafita, ele mostra uma mãe de 46 anos com oito filhos que consomem água contaminada: todas as crianças têm diarreia semanal e um menino de seis anos foi diagnosticado com verminose. O ambiente ao redor é de completo abandono: esgoto a céu aberto, lixo acumulado, animais em contato com fezes humanas.
+
+Renan critica a proposta do governo Lula de criar uma **Universidade Federal do Marajó** no local — "num lugar em que as pessoas mal conseguem ler e escrever" — e defende a **lei de responsabilidade gerencial** como instrumento para forçar políticos a entregarem serviços básicos antes de projetos de imagem.
+
+O caso reforça sua tese central: o problema da desigualdade regional não é falta de recursos, mas **má gestão política** que perpetua a pobreza enquanto políticos fazem campanha sem resolver problemas estruturais.
+
+Ver [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]].
 
 ## Santarém (PA): o maior aquífero do mundo sem saneamento (junho de 2026)
 
@@ -366,6 +377,7 @@ Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo m
 
 ## Fontes
 
+- [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); pior IDH do Brasil; palafita sem saneamento; crítica à Universidade Federal do Marajó
 - [[fontes/2026-05-25 - O PT destruiu a Bahia]] — Bahia com maior número de pessoas no Bolsa Família; indicadores de Salvador
 - [[fontes/2026-05-24 - A Bahia governada pelo PT já era]] — panorama do estado após dezoito anos de PT
 - [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]] — indicadores da Brasilândia

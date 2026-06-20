@@ -98,7 +98,7 @@ date: 2026-06-19
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">650</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">651</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -113,7 +113,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <div class="wiki-grid">
 <a class="wiki-card" href="/temas/Petróleo-e-Gestão-de-Recursos-Naturais"><div class="wiki-card-header"><span class="wiki-card-icon">🛢️</span><span class="wiki-card-title">Petróleo e Gestão de Recursos Naturais</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Comparação entre Noruega (fundo soberano) e Iraque (corrupção); proposta de modelo norueguês para o petróleo brasileiro sem privatizar a Petrobras.</p></a>
 <a class="wiki-card" href="/temas/Ambientalismo-e-Produtores-Rurais"><div class="wiki-card-header"><span class="wiki-card-icon">🌿</span><span class="wiki-card-title">Ambientalismo e Produtores Rurais</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Crítica ao ICMBio e órgãos ambientais que desapropriam pequenos produtores rurais na Amazônia; 4 propostas de reforma.</p></a>
-<a class="wiki-card" href="/temas/Recursos-Hídricos-e-Saneamento"><div class="wiki-card-header"><span class="wiki-card-icon">💧</span><span class="wiki-card-title">Recursos Hídricos e Saneamento</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Paradoxo do Brasil como potência hídrica: maior aquífero do mundo em Alter do Chão ao lado da maior cidade sem saneamento do país; taxação de poços artesianos no Pará e aquífero não perfurado no RN.</p></a>
+<a class="wiki-card" href="/temas/Recursos-Hídricos-e-Saneamento"><div class="wiki-card-header"><span class="wiki-card-icon">💧</span><span class="wiki-card-title">Recursos Hídricos e Saneamento</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Paradoxo do Brasil como potência hídrica: maior aquífero do mundo em Alter do Chão ao lado da maior cidade sem saneamento; Melgaço (PA), pior IDH do Brasil; palafitas sem água potável; taxação de poços artesianos.</p></a>
 <a class="wiki-card" href="/temas/Sebastianismo-e-Messianismo-Político"><div class="wiki-card-header"><span class="wiki-card-icon">👑</span><span class="wiki-card-title">Sebastianismo e Messianismo Político</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Análise do mito de Dom Sebastião como chave para entender o messianismo na política brasileira, do coronelismo nordestino a Lula e Bolsonaro.</p></a>
 <a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
 <a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">87 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios, portos e desfavelização como solução estrutural.</p></a>
@@ -182,6 +182,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Renan visita Melgaço (PA), o pior IDH do Brasil; palafita sem água nem esgoto; oito crianças com diarreia e verminose; crítica à Universidade Federal do Marajó; defesa da lei de responsabilidade gerencial
 - [[fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho]] — Renan desmonta vídeo de Flávio gerado por IA sobre explodir o CV; reapresenta as conexões reais de Flávio com Carlos Castro, Rodrigo Bacelar, TH Joias e Adriano da Nóbrega, todos ligados ao crime organizado no Rio.
 - [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]] — Renan critica a alienação da população durante a Copa do Mundo enquanto novos desdobramentos do escândalo Banco Master (presidente da Câmara, Jorge Wagner/PT) são ignorados; paralelo entre Brasil e Haiti como país sem lei.
 - [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]] — Renan faz compromisso pessoal de "vingar as vítimas do crime organizado"; revela que sua mãe foi sequestrada duas vezes; promete devastar o crime — bandido preso ou morto — e reformas para baratear produtos.

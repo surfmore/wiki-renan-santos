@@ -6,8 +6,9 @@ tags:
   - saneamento
   - água
   - infraestrutura
-date: 2026-06-16
+date: 2026-06-19
 fontes:
+  - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME"
 ---
@@ -15,6 +16,20 @@ fontes:
 # Recursos Hídricos e Saneamento
 
 Renan Santos recorre ao paradoxo do **Brasil como potência hídrica mundial** que não consegue levar água potável e saneamento básico à sua própria população para criticar a gestão política dos recursos naturais e a perpetuação da desigualdade por oligarquias regionais.
+
+## Melgaço (PA): o pior IDH do Brasil e a completa ausência de saneamento (junho de 2026)
+
+Em **19 de junho de 2026**, Renan visita **Melgaço (PA)**, cidade que descreve como tendo o **pior IDH do Brasil**. Em uma palafita, ele documenta a vida de uma mãe de **46 anos com oito filhos** que consomem água completamente contaminada — todos os filhos têm **diarreia toda semana** e um menino de seis anos foi diagnosticado com **verminose** causada pela água.
+
+O cenário ao redor inclui: pessoas defecando no chão, animais andando sobre fezes, lixo acumulado nos "banheiros" que será levado pela enchente. Renan classifica a situação como "uma das coisas mais desumanas que você pode ver" e critica a naturalização da pobreza extrema por parte do poder público, que faz campanha eleitoral no local mas não resolve os problemas estruturais.
+
+> "Tem gente que acha que é uma característica cultural que agrega a paisagem você morar desta maneira nesse lugar. Eu não acho."
+
+Renan defende que **todo o bairro de palafitas deve ser evacuado** e que **favela de palafita tem que deixar de existir**. Ele propõe a **lei de responsabilidade gerencial** como mecanismo para forçar políticos a resolverem esses problemas sob pena de inelegibilidade.
+
+Contrapõe a situação à proposta de Lula de criar uma **Universidade Federal do Marajó**: "num local em que as pessoas mal conseguem ler e escrever."
+
+Ver [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]].
 
 ## Alter do Chão: o maior aquífero do mundo sem água para beber (junho de 2026)
 
@@ -44,5 +59,6 @@ Ver [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]] e [[temas/
 
 ## Fontes
 
+- [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); pior IDH do Brasil; palafita sem água nem esgoto; oito filhos com diarreia e verminose; crítica à Universidade Federal do Marajó; lei de responsabilidade gerencial
 - [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]] — Alter do Chão (PA); maior aquífero do mundo; paradoxo de Santarém; taxação de poços artesianos; crítica aos Barbalhos
 - [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]] — Açu (RN); aquífero sem água; Projeto Leve Poços
