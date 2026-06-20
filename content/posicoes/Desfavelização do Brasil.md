@@ -15,6 +15,16 @@ fontes:
 
 Renan Santos apresenta um plano de seis medidas para eliminar as favelas do Rio de Janeiro, desenvolvido ao lado do **coronel Busnelo** (BOPE), pré-candidato ao governo do estado. O plano articula segurança pública, urbanismo e economia formal.
 
+## Haiti como espelho: favelas e Maranhão como "pequenos Haitis" (junho de 2026)
+
+Em **20 de junho de 2026**, Renan usa o Haiti como referência para dimensionar o problema da favelização no Brasil. Ele afirma que não acredita que o Brasil vá se tornar um Haiti, mas que "alguns pequenos lugares do nosso país já o são" — citando explicitamente as **favelas** e o **estado do Maranhão**.
+
+O paralelo é estabelecido a partir da descrição do Haiti: 90% da capital controlada pelo crime organizado, estado capturado por facções, fome e miséria generalizadas. Para Renan, as favelas brasileiras — especialmente no Maranhão — já apresentam o mesmo fenômeno de substituição do estado pelo crime organizado como autoridade efetiva no território.
+
+A conexão com a proposta de desfavelização é direta: se o crime capturou o estado em certos territórios, a retomada desses territórios (medida 1 do plano: retomada territorial pela força) é pré-condição para qualquer urbanização ou desenvolvimento.
+
+Ver [[fontes/2026-06-20 - O que podemos aprender com o Haiti]].
+
 ## Palafitas no Pará: o extremo da desfavelização (junho de 2026)
 
 Em **19 de junho de 2026**, em **Melgaço (PA)** — cidade com o pior IDH do Brasil — Renan documenta o que considera o caso extremo da necessidade de desfavelização: **palafitas sobre a água**, onde não há sequer solo para construir infraestrutura básica. Uma família de oito filhos consome água contaminada, com todas as crianças sofrendo de diarreia crônica e uma delas diagnosticada com verminose.

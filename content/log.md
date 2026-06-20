@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-20] ingest | O que podemos aprender com o Haiti
+- Fonte criada: fontes/2026-06-20 - O que podemos aprender com o Haiti
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: temas/Segurança Pública, temas/Imigração e Fronteiras, temas/Política Externa e Geopolítica, posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+- Nota: Renan usa o Haiti como estudo de caso sobre estado capturado pelo crime; 200.000 haitianos no Brasil; compara favelas e Maranhão com o Haiti
+
 ## [2026-06-20] ingest | Como esse exemplo pode salvar Marajó (ingest automático)
 - Fonte criada: fontes/2026-06-20 - Como esse exemplo pode salvar Marajó
 - Páginas criadas: (nenhuma nova)

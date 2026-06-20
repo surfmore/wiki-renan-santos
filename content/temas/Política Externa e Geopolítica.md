@@ -18,6 +18,16 @@ fontes:
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
 
+## Haiti como estudo de caso: MINUSTAH, Santos Cruz e o colapso pós-missão (junho de 2026)
+
+Em **20 de junho de 2026**, na série "Países na Copa", Renan analisa o Haiti como caso emblemático de falência estatal e intervenção internacional. Ele descreve a atuação da MINUSTAH (Missão das Nações Unidas no Haiti) como um momento em que o Brasil cumpriu "um bom papel", destacando a liderança do general **Santos Cruz** que "conseguiu colocar ordem naquela bagunça."
+
+A análise geopolítica de Renan aponta a fragilidade do modelo de intervenção internacional: a ordem imposta pela ONU durou apenas enquanto a força esteve presente — "foi só sair que as facções voltaram e o crime voltou a ser regra." Hoje 90% de Porto Príncipe é controlado pelo crime organizado, e o país segue sendo o mais pobre das Américas.
+
+O caso é usado para extrair uma lição sobre soberania e controle territorial: sem capacidade estatal própria e permanente, nenhuma intervenção externa resolve problemas estruturais de um país.
+
+Ver [[fontes/2026-06-20 - O que podemos aprender com o Haiti]].
+
 ## Guerra tecnológica: EUA restringem acesso à inteligência artificial avançada (junho de 2026)
 
 Em **14 de junho de 2026**, Renan alerta que o governo americano proibiu a Anthropic — criadora do Claude, maior concorrente do ChatGPT — de compartilhar sua versão mais moderna de IA com cidadãos não americanos, por questões de segurança nacional. Renan contextualiza a decisão como parte de uma **guerra tecnológica entre grandes nações**, onde inteligência artificial é "instrumento de guerra e de poder." Cita que a Anthropic foi utilizada pelo governo americano na **invasão da Venezuela**, demonstrando que a tecnologia tem aplicações militares diretas.

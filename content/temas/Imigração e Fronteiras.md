@@ -11,6 +11,14 @@ fontes:
   - "2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina"
 ---
 
+## Imigração haitiana: 200 mil no Brasil e o alerta de Renan (junho de 2026)
+
+Em **20 de junho de 2026**, Renan aborda a imigração haitiana no Brasil em seu vídeo sobre o Haiti. Segundo ele, existem cerca de **200.000 haitianos vivendo no Brasil**. Ele faz uma distinção: "alguns são trabalhadores e cumprem um bom papel", enquanto "outros se tornam moradores de rua, vivem de benefícios sociais e se tornam um fardo pro pagador de impostos brasileiros."
+
+O alerta se conecta à posição mais ampla de Renan sobre imigração: o Brasil, um país com seus próprios problemas sociais e fiscais, não pode absorver indefinidamente fluxos migratórios sem capacidade de integração. O caso haitiano é apresentado como exemplo de imigração que, na ausência de políticas de integração efetivas, gera ônus ao estado e à sociedade.
+
+Ver [[fontes/2026-06-20 - O que podemos aprender com o Haiti]].
+
 ## Fronteira com a Argentina: Bolsa Família para estrangeiros (abril de 2026)
 
 Em **21 de abril de 2026**, Renan grava na **ponte entre Paraíso (SC) e Missiones (Argentina)** para denunciar a ausência de fiscalização no lado brasileiro: "qualquer um pode passar, incluindo traficantes." O contraste com o lado argentino é explícito — posto alfandegário, área de controle e presença da Polícia Federal argentina.

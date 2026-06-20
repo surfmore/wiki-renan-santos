@@ -8,6 +8,18 @@ date: 2025-09-09
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Lição do Haiti: quando o crime captura o estado (junho de 2026)
+
+Em **20 de junho de 2026**, como parte da série "Países na Copa", Renan usa o Haiti como advertência sobre a relação entre estado e crime organizado. Ele descreve um país onde 90% da capital Porto Príncipe é controlada por facções criminosas, a fome é regra, e a população come bolinhos de argila para sobreviver.
+
+A tese central do vídeo: "Quando você entrega o estado pro crime organizado, o crime desorganiza o estado. O estado se torna apenas um instrumento de achaque do crime para com as pessoas." Renan cita a atuação da ONU no Haiti (MINUSTAH), onde o Brasil cumpriu um papel que ele considera positivo sob o comando do general Santos Cruz — mas a ordem durou apenas enquanto a força internacional esteve presente.
+
+Renan afirma que não acredita que o Brasil vá virar um Haiti, mas sustenta que "alguns pequenos lugares do nosso país já o são", citando favelas e o estado do Maranhão como exemplos de territórios onde o crime já capturou o estado. O paralelo com o Maranhão se conecta à sua análise sobre o Presídio de Pedrinhas e o surgimento do Bonde dos 40 e do PCM.
+
+> "Viver nesse lugar se torna o inferno."
+
+Ver [[fontes/2026-06-20 - O que podemos aprender com o Haiti]].
+
 ## "Precisamos libertar 25 milhões de brasileiros": visão estratégica (setembro de 2025)
 
 Em **9 de setembro de 2025**, Renan afirma que 25 milhões de brasileiros vivem "presos nas mãos do crime organizado" e defende uma abordagem multifatorial: uso de todas as forças policiais, da Força Aérea para controle de fronteiras e alterações nas leis penais. Critica a GLO de Michel Temer como ineficaz ("feita de Brasília olhando") e a atuação de Wilson Witzel como "malandra" por descer de helicóptero sem compromisso real com a retomada de territórios.
