@@ -30,6 +30,12 @@ Em **2 de setembro de 2025**, no vídeo autobiográfico, Renan explica que o Liv
 
 Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
 
+## Visita à cidade com pior IDH do Brasil (junho de 2026)
+
+Em **21 de junho de 2026**, Renan visita a cidade com pior IDH do Brasil, na região Norte, e documenta a gravidez na adolescência como "regra" na região — meninas de 15-16 anos engravidando de homens mais velhos (até 28 anos), ausência de casamento e relacionamentos estáveis, crianças crescendo sem figura paterna. Ele descreve o "modelo de família" local como "um atraso de vida para todo mundo" e defende planejamento familiar como política de Estado, envolvimento de igrejas e educação sexual nas escolas.
+
+Ver [[fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês]].
+
 ## Exemplo de desenvolvimento sustentável no Marajó (junho de 2026)
 
 Em **20 de junho de 2026**, Renan visita uma ecofazenda no arquipélago do Marajó — mesma região de Melgaço, o pior IDH do Brasil — e apresenta um contraste intencional. Desta vez, o foco é um **projeto que funciona**: uma fazenda-escola que combina agricultura com preservação florestal, gerando emprego para ribeirinhos, produzindo cacau e café na Amazônia, e sendo financeiramente sustentável com investimento privado internacional.

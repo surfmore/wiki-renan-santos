@@ -10,6 +10,21 @@ date: 2026-03-05
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## Região Norte: o pior IDH e a gravidez na adolescência como regra (junho de 2026)
+
+Em **21 de junho de 2026**, visitando a cidade com pior IDH do Brasil (região Norte), Renan entrevista uma jovem de **16 anos** que engravidou de um homem de **28 anos** — a gravidez "acabou acontecendo". Também encontra uma senhora de **46 anos** com oito filhos e inúmeros netos; uma de suas filhas engravidou aos 15 anos.
+
+Renan constata que os estados da região Norte têm as **menores taxas de casamento** do Brasil — "a tal da monogamia patriarcal não acontece com a mesma intensidade, talvez fruto de um legado indígena" — e que a **gravidez na adolescência** não é exceção, mas **regra** nos lugares mais pobres da região. Denuncia que boa parte dessas gestações resulta de abuso por pais e parentes, relacionamentos com forasteiros ou com outros adolescentes — e que o "descaso na região é gigantesco."
+
+A partir desse diagnóstico, propõe:
+- **Planejamento familiar** como política de Estado
+- **Envolvimento de igrejas e comunidades religiosas** para formar famílias com presença paterna
+- **Educação sexual e psicológica** nas escolas
+
+A conclusão: "O modelo de família aqui na região e a forma como as pessoas se relacionam é basicamente um atraso de vida para todo mundo."
+
+Ver [[fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês]].
+
 ## Brasilândia: o ciclo da favela explicado (maio de 2026)
 
 Em **18 de maio de 2026**, gravando na Brasilândia (271.000 hab., zona norte de São Paulo), Renan explica o ciclo familiar que alimenta a favela: menina sem pai → carência afetiva → relacionamento com garoto disfuncional (também sem pai) → gravidez na adolescência → abandono → criança sem pai → menino entra no crime; menina repete o ciclo. A interrupção desse ciclo é parte central da proposta de desfavelização: não basta reformar imóveis, é preciso "mudar a cultura que faz com que as pessoas que vivam aqui sofram muito mais."

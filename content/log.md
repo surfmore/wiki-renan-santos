@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-21] ingest | Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês (ingest automático)
+- Fonte criada: fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês
+- Páginas criadas: posicoes/Planejamento Familiar e Educação Sexual nas Escolas
+- Páginas atualizadas: temas/Família e Paternidade, temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: Renan visita cidade com pior IDH do Brasil; documenta gravidez na adolescência, baixas taxas de casamento na região Norte e ausência paterna; cita estudo da FGV; propõe planejamento familiar como política de Estado com igrejas e educação sexual nas escolas
+
 ## [2026-06-21] analise | A Viagem ao Pará — Diagnóstico do Brasil Profundo
 - Arquivo: analises/A Viagem ao Pará - Diagnóstico do Brasil Profundo
 - Páginas consultadas: fontes/* (8 fontes específicas da viagem ao Pará), pessoas/Família Barbalho, temas/Recursos Hídricos e Saneamento, temas/Ambientalismo e Produtores Rurais, temas/Desigualdade Regional e Migração Interna, posicoes/Desfavelização do Brasil, posicoes/Intervenção Federal em Estados com Baixo IDH, posicoes/Expulsão de ONGs Estrangeiras, posicoes/Emendas Parlamentares Condicionadas a Metas

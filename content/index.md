@@ -98,9 +98,9 @@ date: 2026-06-21
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">659</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">660</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
-<a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
+<a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
@@ -132,6 +132,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/posicoes/Planejamento-Familiar-e-Educação-Sexual-nas-Escolas"><div class="wiki-card-header"><span class="wiki-card-icon">👶</span><span class="wiki-card-title">Planejamento Familiar</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Planejamento familiar como política de Estado com igrejas e comunidades religiosas; educação sexual e psicológica nas escolas.</p></a>
 <a class="wiki-card" href="/posicoes/Fundo-Soberano-para-o-Petróleo"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Fundo Soberano para o Petróleo</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Lucro da Petrobras deve ir para fundo soberano nos moldes noruegueses, não para tapar rombo fiscal; rejeição à privatização da Petrobras.</p></a>
 <a class="wiki-card" href="/posicoes/Pena-de-Morte-e-Prisão-Perpétua"><div class="wiki-card-header"><span class="wiki-card-icon">⚰️</span><span class="wiki-card-title">Pena de Morte e Prisão Perpétua</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Defesa da prisão perpétua para crimes hediondos e apoio à pena de morte em tese; promessa de alterar a legislação.</p></a>
 <a class="wiki-card" href="/posicoes/Proteção-ao-PIX"><div class="wiki-card-header"><span class="wiki-card-icon">💳</span><span class="wiki-card-title">Proteção ao PIX</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Compromisso de não taxar o PIX nem negociá-lo com os EUA; defesa da soberania tecnológica brasileira.</p></a>
@@ -146,7 +147,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Reforma-Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Cortar R$ 3,3 trilhões em gastos em 10 anos e reduzir impostos a partir do 2º ano.</p></a>
 <a class="wiki-card" href="/posicoes/Proibição-de-Bets-e-Cassinos-Online"><div class="wiki-card-header"><span class="wiki-card-icon">🎰</span><span class="wiki-card-title">Proibição de Bets</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Revogação de autorização de bets, tributação pesada, proibição de remessa ao exterior e combate à lavagem de dinheiro de facções.</p></a>
 <a class="wiki-card" href="/posicoes/Gastrodiplomacia-e-Promoção-Internacional-da-Culinária-Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Política de estado para promover a culinária brasileira no exterior como instrumento de soft power e desenvolvimento econômico.</p></a>
-<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 28 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
+<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 29 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">👤 Pessoas</p>
@@ -182,6 +183,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês]] — Renan visita a cidade com pior IDH do Brasil; documenta gravidez na adolescência como regra na região Norte; propõe planejamento familiar, igrejas e educação sexual nas escolas
 - [[fontes/2026-06-20 - Efeito Renan Santos em Belém!]] — Renan mostra rua de Belém servindo de depósito de lixo; após denúncia, prefeitura envia retroescavadeira; crítica à gestão de Hélder Barbalho
 - [[fontes/2026-06-20 - O que podemos aprender com o Haiti]] — Renan analisa o Haiti como lição sobre estado capturado pelo crime organizado; 90% de Porto Príncipe sob facções; 200.000 haitianos no Brasil; comparação com favelas e Maranhão
 - [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]] — Renan visita ecofazenda sustentável no Marajó que combina agricultura com preservação florestal; produção de cacau e café na Amazônia; modelo de fazenda-escola com investimento privado internacional; apelo por mais projetos como este e menos exploração sexual na região
