@@ -5,8 +5,9 @@ tags:
   - oligarquia
   - pará
   - nordeste
-date: 2026-06-16
+date: 2026-06-20
 fontes:
+  - "2026-06-20 - Efeito Renan Santos em Belém!"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2025-12-23 - Por que Pará ama os Barbalhos"
 ---

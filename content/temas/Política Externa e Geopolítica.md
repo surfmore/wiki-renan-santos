@@ -4,9 +4,9 @@ tags:
   - tema
   - política-externa
   - geopolítica
-date: 2026-02-28
+date: 2026-06-20
 fontes:
-  - "2026-06-14 - Vão proibir seu ChatGPT"
+  - "2026-06-20 - O que podemos aprender com o Haiti"
   - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
   - "2026-06-02 - Flavio é Janja"
   - "2026-02-28 - KHAMENEI ESTÁ MORTO"

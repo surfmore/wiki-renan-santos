@@ -5,8 +5,9 @@ tags:
   - imigracao
   - fronteiras
   - venezuela
-date: 2026-04-21
+date: 2026-06-20
 fontes:
+  - "2026-06-20 - O que podemos aprender com o Haiti"
   - "2026-04-21 - EU INVADI A ARGENTINA"
   - "2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina"
 ---
