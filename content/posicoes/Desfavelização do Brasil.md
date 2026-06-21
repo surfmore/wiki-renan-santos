@@ -5,13 +5,24 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-06-19
+date: 2026-06-21
 fontes:
+  - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-03-27 - Eu fui na primeira favela do Brasil"
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Belém: Jurunas como retrato do Brasil que precisa ser desfavelizado (junho de 2026)
+
+Em **21 de junho de 2026**, em visita à **favela do Jurunas**, em Belém, Renan reafirma a desfavelização como eixo central de sua candidatura. O contraste entre a [[eventos/COP30 — Legado em Belém|COP30]] (R$ 4 bilhões gastos) e a realidade local (R$ 3 bilhões necessários para desfavelizar o Pará) é usado para ilustrar a inversão de prioridades que sua proposta de governo pretende corrigir.
+
+Renan observa que a região é controlada pelo **Comando Vermelho** e que a prefeitura só age quando exposta publicamente — após ele gravar um story, a limpeza foi feita. O episódio reforça sua tese de que a desfavelização exige não apenas construção de moradias, mas **presença permanente do Estado** e **responsabilização política** de gestores que abandonam a população.
+
+> "O político erra, a população erra e todos nós temos que buscar uma solução. Meu nome é Renan Santos e eu sou pré-candidato à presidência da República para desfavelizar o Brasil."
+
+Ver [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]].
 
 Renan Santos apresenta um plano de seis medidas para eliminar as favelas do Rio de Janeiro, desenvolvido ao lado do **coronel Busnelo** (BOPE), pré-candidato ao governo do estado. O plano articula segurança pública, urbanismo e economia formal.
 
@@ -173,6 +184,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Jurunas (Belém); R$ 4 bi da COP vs. R$ 3 bi para saneamento; prefeitura age só quando exposta; Comando Vermelho controlando a área
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); palafita sem saneamento; defesa de evacuação de áreas de palafita; lei de responsabilidade gerencial
 - [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — crítica à "migalha" internacional; caricatura do Brasil como favela; bolsas de estudo como alternativa
 - [[fontes/2026-05-12 - Tutorial sobre como ganhar um apartamento em São Paulo]]

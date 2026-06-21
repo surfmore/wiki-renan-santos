@@ -5,8 +5,9 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2025-09-06
+date: 2026-06-21
 fontes:
+  - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
@@ -29,6 +30,14 @@ Ver [[fontes/2025-09-06 - Cuida de mim, painho!!!!]].
 Em **2 de setembro de 2025**, no vídeo autobiográfico, Renan explica que o Livro Amarelo do Partido Missão propõe a **industrialização do Nordeste** como um dos pilares para superar as desigualdades regionais. O projeto envolve transformar as potencialidades regionais em cadeias produtivas de alto valor agregado.
 
 Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
+
+## Jurunas (Belém): a capital da COP30 sem saneamento básico (junho de 2026)
+
+Em **21 de junho de 2026**, Renan visita a **favela do Jurunas**, em Belém (PA), para documentar o abandono de uma capital que sediou a [[eventos/COP30 — Legado em Belém|COP30]] em novembro de 2025. Esgoto e córrego a céu aberto, alagamentos, lixo acumulado — Belém é a **capital brasileira com o menor índice de saneamento básico** e mais da metade da população vive em favelas.
+
+Renan compara os R$ 4 bilhões gastos na COP30 com os R$ 3 bilhões que seriam necessários para desfavelizar o Pará. Moradores confirmam que a prefeitura só age quando exposta e que a COP30 não trouxe benefício ao bairro. A região é controlada pelo Comando Vermelho.
+
+O episódio ilustra como a desigualdade regional se mantém: recursos federais e eventos internacionais são direcionados ao estado, mas a população local permanece em condições degradantes sob a gestão da [[pessoas/Família Barbalho|oligarquia dos Barbalhos]] e do governo federal aliado. Ver [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]].
 
 ## Visita à cidade com pior IDH do Brasil (junho de 2026)
 

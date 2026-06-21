@@ -6,8 +6,9 @@ tags:
   - belém
   - corrupção
   - desigualdade
-date: 2026-06-16
+date: 2026-06-21
 fontes:
+  - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2025-11-17 - O Brasil está sendo humilhado!"
   - "2025-11-18 - Você ainda vai me responder, Lula!"
@@ -19,6 +20,16 @@ fontes:
 A **COP30** foi realizada em **Belém (PA)** em novembro de 2025, com custo declarado por Renan de mais de **R$ 4 bilhões** pagos pelo Brasil. Renan Santos usa o balanço do evento como símbolo de governo populista que usa o dinheiro público para propaganda enquanto a população local vive na miséria.
 
 > Nota: esta página reproduz as críticas de Renan Santos sobre o evento. Não constitui avaliação independente.
+
+## Jurunas: a favela que a COP30 não escondeu (junho de 2026)
+
+Em **21 de junho de 2026**, Renan visita a **favela do Jurunas**, em Belém, para mostrar que, sete meses após a COP30, as condições da cidade não mudaram. Esgoto a céu aberto, alagamentos, lixo acumulado e completo abandono — a mesma realidade que ele já havia documentado em novembro de 2025.
+
+Renan aponta o contraste: a COP30 custou **R$ 4 bilhões**, mas **R$ 3 bilhões** seriam suficientes para desfavelizar e levar saneamento a todo o Pará. Belém permanece como a capital brasileira com o **menor índice de saneamento básico**, e mais da metade da população vive em favelas. A região do Jurunas é controlada pelo Comando Vermelho — mais um exemplo de onde o Estado se ausenta, o crime ocupa.
+
+> "A COP30 gastou mais de 4 bilhões. Precisaria de 3 bilhões para desfavelizar e colocar saneamento para todas essas pessoas. Por que que essa foi uma escolha? Porque a COP e não as pessoas."
+
+Moradores entrevistados confirmam que o prefeito **Igor Normando** "só aparece na televisão" e que a COP30 não trouxe benefício algum ao bairro — um deles sequer sabia o que era o evento. Ver [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]].
 
 ## Reação imediata dos participantes (novembro de 2025)
 
@@ -78,6 +89,7 @@ Renan menciona contrato de **Janja** por meio de uma ONG estrangeira da qual ela
 
 ## Fontes
 
+- [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — visita ao Jurunas; esgoto a céu aberto; R$ 4 bi da COP vs. R$ 3 bi para saneamento; morador não sabe o que é COP30
 - [[fontes/2025-11-17 - O Brasil está sendo humilhado]] — reação dos gringos; ONGs na COP; Barbalhos enriquecidos
 - [[fontes/2025-11-18 - Você ainda vai me responder, Lula]] — Berlim vs. Belém; contrato da Janja; desafio ao debate
 - [[fontes/2025-11-19 - Resposta para a humorista alemã]] — brasilificação; modelo alemão de imigração; "Embraer como padrão"

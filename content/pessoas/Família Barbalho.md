@@ -5,8 +5,9 @@ tags:
   - oligarquia
   - pará
   - nordeste
-date: 2026-06-20
+date: 2026-06-21
 fontes:
+  - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-20 - Efeito Renan Santos em Belém!"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2025-12-23 - Por que Pará ama os Barbalhos"
@@ -15,6 +16,16 @@ fontes:
 Oligarquia política do Pará que, segundo Renan Santos, domina o estado há mais de um século — desde o período colonial. Renan usa a família como exemplo máximo de como uma dynasty política se perpetua mesmo produzindo indicadores sociais desastrosos.
 
 > Nota: esta página reproduz afirmações de Renan Santos sobre a família. Não constitui verificação independente.
+
+## Jurunas: Renan denuncia abandono de Belém sob os Barbalhos (junho de 2026)
+
+Em **21 de junho de 2026**, durante visita à **favela do Jurunas** em Belém, Renan expõe o descaso da gestão municipal — ligada à [[pessoas/Família Barbalho|oligarquia Barbalho]] — e do governo federal sob [[pessoas/Lula]], aliado da família. O local tem esgoto a céu aberto, alagamentos crônicos e lixo acumulado. Moradores entrevistados dizem que o prefeito **Igor Normando** "só aparece na televisão para contar mentira" e que a **COP30** — realizada em Belém em novembro de 2025 — não trouxe benefício algum ao bairro.
+
+Renan compara o custo da COP30 (R$ 4 bilhões) com o que seria necessário para resolver o saneamento básico do Pará (R$ 3 bilhões), concluindo que a prioridade dos Barbalhos foi o evento internacional, não a população. A região é controlada pelo Comando Vermelho — padrão típico nas áreas administradas pela oligarquia, segundo Renan.
+
+> "A COP30 gastou mais de 4 bilhões. Precisaria de 3 bilhões para desfavelizar e colocar saneamento para todas essas pessoas."
+
+Ver [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]].
 
 ## Santarém: maior aquífero do mundo, menor cidade sem saneamento (junho de 2026)
 

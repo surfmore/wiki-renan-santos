@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-21] ingest | Eu fui na favela de Jurunas, em Belém (ingest automático)
+- Fonte criada: fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém
+- Páginas criadas: nenhuma (todas já existiam)
+- Páginas atualizadas: eventos/COP30 — Legado em Belém, pessoas/Família Barbalho, temas/Recursos Hídricos e Saneamento, posicoes/Desfavelização do Brasil, temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: Renan visita a favela do Jurunas em Belém; denuncia esgoto a céu aberto; compara R$ 4 bi da COP30 com R$ 3 bi necessários para saneamento no Pará; Comando Vermelho controla a região
+
 ## [2026-06-21] ingest | Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês (ingest automático)
 - Fonte criada: fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês
 - Páginas criadas: posicoes/Planejamento Familiar e Educação Sexual nas Escolas

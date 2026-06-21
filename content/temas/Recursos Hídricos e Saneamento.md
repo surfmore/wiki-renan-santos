@@ -6,8 +6,9 @@ tags:
   - saneamento
   - água
   - infraestrutura
-date: 2026-06-19
+date: 2026-06-21
 fontes:
+  - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME"
@@ -16,6 +17,16 @@ fontes:
 # Recursos Hídricos e Saneamento
 
 Renan Santos recorre ao paradoxo do **Brasil como potência hídrica mundial** que não consegue levar água potável e saneamento básico à sua própria população para criticar a gestão política dos recursos naturais e a perpetuação da desigualdade por oligarquias regionais.
+
+## Jurunas (Belém): esgoto a céu aberto na capital da COP30 (junho de 2026)
+
+Em **21 de junho de 2026**, Renan visita a **favela do Jurunas**, em Belém (PA), e documenta esgoto e córrego a céu aberto, alagamentos constantes e lixo acumulado nas ruas. Ele lembra que Belém é a **capital brasileira com o menor índice de saneamento básico** e que mais da metade da população vive em favelas — contradição exposta pela [[eventos/COP30 — Legado em Belém|COP30]], realizada na cidade em novembro de 2025.
+
+Renan compara os valores: a COP30 custou **R$ 4 bilhões**; com **R$ 3 bilhões** seria possível desfavelizar e levar saneamento a todo o Pará. Moradores confirmam que a prefeitura só age quando exposta publicamente — após Renan gravar um story sobre o local, a limpeza foi feita. Um morador, porém, nota que a população também contribui para o problema ao jogar lixo de volta.
+
+> "A COP30 gastou mais de 4 bilhões. Precisaria de 3 bilhões para desfavelizar e colocar saneamento para todas essas pessoas. Por que que essa foi uma escolha? Porque a COP e não as pessoas."
+
+Ver [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]].
 
 ## Melgaço (PA): o pior IDH do Brasil e a completa ausência de saneamento (junho de 2026)
 
@@ -59,6 +70,7 @@ Ver [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]] e [[temas/
 
 ## Fontes
 
+- [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Jurunas (Belém); esgoto a céu aberto; R$ 4 bi da COP vs. R$ 3 bi para saneamento; capital com pior saneamento do Brasil
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); pior IDH do Brasil; palafita sem água nem esgoto; oito filhos com diarreia e verminose; crítica à Universidade Federal do Marajó; lei de responsabilidade gerencial
 - [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]] — Alter do Chão (PA); maior aquífero do mundo; paradoxo de Santarém; taxação de poços artesianos; crítica aos Barbalhos
 - [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]] — Açu (RN); aquífero sem água; Projeto Leve Poços
