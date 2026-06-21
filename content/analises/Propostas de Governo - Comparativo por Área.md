@@ -4,10 +4,10 @@ tags:
   - analise
   - propostas
   - governo
-date: 2026-05-25
+date: 2026-06-21
 ---
 
-Compilação das propostas concretas de Renan Santos documentadas em seus vídeos, organizadas por área temática. Cada proposta inclui link para o vídeo onde foi apresentada. **Este é um registro das falas do Renan, não um programa oficial de governo.** As propostas foram extraídas entre setembro de 2025 e maio de 2026 e podem ter sido detalhadas ou refinadas ao longo do tempo — quando há evolução relevante, ela é indicada.
+Compilação das propostas concretas de Renan Santos documentadas em seus vídeos, organizadas por área temática. Cada proposta inclui link para o vídeo onde foi apresentada. **Este é um registro das falas do Renan, não um programa oficial de governo.** As propostas foram extraídas entre setembro de 2025 e junho de 2026 e podem ter sido detalhadas ou refinadas ao longo do tempo — quando há evolução relevante, ela é indicada.
 
 ## Como ler esta página
 
@@ -61,6 +61,9 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 | Proibição da mendicância | Agravante se houver exploração de menores ou cafetinagem | [[fontes/2026-04-01 - Eu odeio mendigo]] | 2026-04-01 |
 | Tolerância zero para invasão de terra (crime inafiançável) | Qualquer nova invasão de terreno público ou privado resulta em prisão imediata | [[fontes/2026-03-27 - Eu fui na primeira favela do Brasil]] | 2026-03-27 |
 | Memorial de policiais caídos em combate | Parte do programa de valorização | [[fontes/2025-10-29 - Minha proposta para os governadores]] | 2025-10-29 |
+| Proibição de bets e cassinos online | Revogação de autorização, tributação pesada, proibição de remessa ao exterior, combate à lavagem de dinheiro de facções | [[fontes/2026-06-10 - O tigrinho vai me perseguir]] | 2026-06-10 |
+| 30 anos de prisão para criminosos em flagrante | Resposta direta à proposta de Lula de permitir que bandidos devolvam celulares pelo correio; linha dura como desincentivo | [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] | 2026-06-18 |
+| "Vingar as vítimas do crime organizado" | Compromisso pessoal de perseguir e prender ou matar bandidos; inspirado no sequestro de sua própria mãe | [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]] | 2026-06-18 |
 
 ---
 
@@ -101,6 +104,7 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 | Salas separadas para alunos autistas com necessidades especiais | Escolas especiais em vez de inclusão forçada; pente fino em laudos falsos de autismo para BPC | [[fontes/2026-05-09 - Letícia Sabatella autista]] | 2026-05-09 |
 | Regulamentação do homeschooling | Estado avalia resultados via provas, não o método; ferramenta legítima para famílias que podem oferecê-lo | [[fontes/2026-05-20 - Condenados por homeschooling]] | 2026-05-20 |
 | Escolas cívico-militares nas antigas favelas | Formação de jovens com figuras masculinas de referência para impedir sedução pelo crime | [[fontes/2026-03-27 - Eu fui na primeira favela do Brasil]] | 2026-03-27 |
+| Método fônico obrigatório nas escolas brasileiras | Abandonar o método Whole Language (fracassado na Inglaterra nos anos 1970); adotar método fônico que a Inglaterra adotou em 2006 com recuperação nos rankings de leitura | [[fontes/2026-06-17 - A Inglaterra vai ganhar a Cop]] | 2026-06-17 |
 
 ---
 
@@ -139,12 +143,21 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 
 | Proposta | Detalhe | Fonte | Data |
 |---|---|---|---|
-| Fechar a cadeia do diesel no Brasil | Reformar refinarias para produzir diesel a partir do pré-sal; desacoplamento do preço internacional | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
-| Ampliar biodiesel de cana e milho | Centro de custo próprio, desacoplado do petróleo | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
 | Corredor elétrico para caminhões em rodovias federais | Postos de troca de bateria; redução de impostos de importação para caminhões elétricos | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
 | Tabela dinâmica de frete (atualização semanal) | Refletir variações de combustível e peças via ferramentas tecnológicas | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
-| Ferrogrão (Pará), Hidrovia Paraná-Paraguai, Hidrovia Tocantins-Araguaína | Desbloquear os três projetos travados por Marina Silva, STF e burocracia | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
+| Ferrogrão (Pará), Hidrovia Paraná-Paraguai, Hidrovia Tocantins-Araguaína | Desbloquear os três projetos travados por Marina Silva, ONGs, STF e burocracia; repavimentar BR-163 | [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] e [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
 | Elevar teto do MEI do caminhoneiro para R$ 350 mil | Atual: R$ 251 mil, defasado desde 2014 | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
+| Plano ferroviário nacional em 3 fases | Fase 1: SP–Campinas–Ribeirão Preto; Fase 2: São José dos Campos; Fase 3: Goiânia–Brasília–Rio de Janeiro | [[fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias]] | 2026-06-08 |
+
+---
+
+## Energia e Recursos Naturais
+
+| Proposta | Detalhe | Fonte | Data |
+|---|---|---|---|
+| Fundo soberano para o petróleo (modelo norueguês) | Lucro da Petrobras direcionado a fundo soberano nos moldes da Noruega (US$ 1,7 tri); rejeição à privatização da Petrobras; conta separada do orçamento fiscal | [[fontes/2026-06-18 - Noruega vs Iraque]] | 2026-06-18 |
+| Fechar cadeia do diesel no Brasil | Reformar refinarias para produzir diesel a partir do pré-sal; desacoplamento do preço internacional | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
+| Ampliar biodiesel de cana e milho | Centro de custo próprio, desacoplado do petróleo | [[fontes/2026-03-20 - Os caminhoneiros vão entrar em greve]] | 2026-03-20 |
 
 ---
 
@@ -183,6 +196,9 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 | Bolsa empreendedor para melhores alunos do Enem | Investimento para abrir startup + incubadora; "não prestar concurso — abrir startup" | [[fontes/2026-03-11 - 7 propostas para a educação]] | 2026-03-11 |
 | Programa nuclear brasileiro — bomba atômica em 30 anos | Via desenvolvimento da cadeia de terras raras e indústria bélica; "força é a única garantia" | (ver [[temas/Programa Nuclear Brasileiro]]) | — |
 | Cadeia de terras raras do mineral ao ímã/bateria | MAGBRAS como referência; empresas mistas; integração vertical no Brasil | (ver [[temas/Ambição Nacional e Soberania Tecnológica]]) | — |
+| Brasil como país dos data centers | Aproveitar energia limpa e posição geográfica para atrair data centers hiperscale; usar terras raras como moeda de troca com EUA para acesso irrestrito a IA avançada | [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] | 2026-06-14 |
+| Política industrial de drones agrícolas | Fabricar drones no Brasil com incentivo à produção de baterias; certificação ANAC acelerada | [[fontes/2026-06-10 - Fizeram essa macumba num canavial]] | 2026-06-10 |
+| Eliminar impostos sobre máquinas que aumentem produtividade | Máquinas agrícolas automatizadas (como as japonesas) devem ter isenção total de impostos para pequeno agricultor; paralelo com Embrapa | [[fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa]] | 2026-06-12 |
 
 ---
 
@@ -194,6 +210,12 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 | Prender Janja se eleito presidente | Mencionado em vídeo de 24 de janeiro de 2026; contexto: acusação de uso indevido de cargo na OEI/COP 30 | [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] | 2026-01-24 |
 | Pastores que enriquecem com a fé alheia: 10+ anos de prisão e confisco | Proposta apresentada no contexto do escândalo da Lagoinha | [[fontes/2026-03-18 - MEU RECADO PARA OS EVANGÉLICOS]] | 2026-03-18 |
 | Depoimento compulsório de Marta Graeff sobre o esquema Vorcaro | *"Se ela sabia, ela tem que contar. Se não contar, tem que ir presa."* (convocação pelo Kim Kataguiri no Congresso, endossada por Renan) | [[fontes/2026-03-10 - Precisamos falar sobre MULHER DE BANDIDO]] | 2026-03-10 |
+
+---
+
+**Eliminar impostos sobre máquinas agrícolas:** Proposta de isenção total para máquinas que aumentem produtividade, inspirada em visita a máquina japonesa automatizada que um agricultor não consegue importar pelo custo tributário (12/jun/2026).
+
+**Fundo soberano do petróleo:** Proposta apresentada em 18/jun/2026, inspirada no modelo norueguês (US$ 1,7 trilhão). Renan rejeita privatização da Petrobras mas defende que o lucro vá para um fundo fora do alcance do governo, não para tapar rombo fiscal.
 
 ---
 
@@ -238,3 +260,5 @@ Cada linha da tabela corresponde a uma proposta formulada explicitamente por Ren
 - [[posicoes/Reforma Fiscal]]
 - [[posicoes/Reforma do Senado Federal]]
 - [[posicoes/Transparência Digital e Anticorrupção]]
+- [[posicoes/Fundo Soberano para o Petróleo]]
+- [[posicoes/Proibição de Bets e Cassinos Online]]

@@ -239,3 +239,10 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[fontes/2025-09-06 - Cuida de mim, painho!!!!]] — Renan faz desabafo contra Lula e o PT, que mantêm o Nordeste na pobreza com assistencialismo barato em vez de desenvolvimento real.
 - [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]] — Autobiografia: Renan conta sua história pessoal, da infância na Mooca à fundação do MBL e do Partido Missão; crítica a Bolsonaro como "farsa".
 - [[fontes/2025-09-02 - QUEM É RENAN SANTOS [QrFE87WpcEs]]] — Reportagem televisiva sobre a primeira aparição de Renan em pesquisa presidencial com 2%; discurso de guerra ao crime organizado.
+
+## Análises
+
+- [[analises/Timeline do Escândalo Banco Master]] — Linha do tempo completa do escândalo, de nov/2025 a jun/2026
+- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Evolução da relação entre os dois pré-candidatos
+- [[analises/Propostas de Governo - Comparativo por Área]] — Compilação de todas as propostas de Renan por área temática
+- [[analises/A Viagem ao Pará - Diagnóstico do Brasil Profundo]] — Análise da viagem de campanha pelo Pará (jun/2026) como diagnóstico do Brasil profundo

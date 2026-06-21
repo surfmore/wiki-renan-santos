@@ -5,8 +5,14 @@ tags:
   - timeline
   - flávio-bolsonaro
   - eleições-2026
-date: 2026-06-07
+date: 2026-06-21
 fontes:
+  - "2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho"
+  - "2026-06-19 - Hoje tem Brasil x Haiti!"
+  - "2026-06-17 - Resposta ao Eduardo Bolsonaro"
+  - "2026-06-16 - 10% em SP!"
+  - "2026-06-11 - Eu disparei contra o Lula no segundo turno!"
+  - "2026-06-08 - Nikolas vai abandonar Flávio"
   - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
   - "2026-06-05 - É oficial!"
   - "2026-06-02 - Flavio é Janja"
@@ -118,13 +124,25 @@ O mês de junho tráz uma aceleração dramática: o confronto se expande para a
 
 **06/06/2026** — O confronto atinge nova fronteira: Flávio Bolsonaro **vota a favor do PL da Misoginia** na Câmara. Renan critica duramente, apontando que Flávio apoiou projeto que censura homens por "discurso de ódio" contra mulheres. Renan defende o ator **Juliano Cazarré**, que foi alvo de censura feminista por seu curso de masculinidade tradicional, e contrapõe dados de saúde masculina ao argumento feminista. Ver [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]].
 
-**Caracterização do período:** Flávio não é mais apenas o adversário moral e eleitoral — ele é agora também o candidato em declínio numérico. A virada nas pesquisas e no Google Trends permite a Renan argumentar que sua tese ("Flávio bate e volta") estava correta. O PL da Misoginia adiciona uma nova dimensão ao conflito: Flávio agora também abandona pautas conservadoras para se alinhar ao establishment progressista, confirmando a acusação de Renan de que Flávio "não tem projeto de país." O tom é de confirmação das previsões antigas, menos de confronto direto — Renan fala como quem viu o futuro chegar.
+**08/06/2026** — Renan responde a rumores de que **Nikolas Ferreira abandonaria Flávio**. Exibe dados da pesquisa RealTime Big Data: 48% dos brasileiros buscam algo novo (nem Lula nem Flávio) — e 26% desses são eleitores de Renan. Rejeita o rótulo de "terceira via" e se posiciona como "o candidato de direita", classificando Flávio como "candidato de centro no centrão." Enumera as alianças de Flávio (Eduardo Cunha, Cláudio Castro, Ciro Nogueira) como prova de que sua candidatura não é de direita. Convida Nikolas e toda a direita a se unirem em torno de sua pré-candidatura. Ver [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]].
+
+**11/06/2026** — Renan anuncia crescimento contra Lula no segundo turno pela pesquisa **Quest**. Flávio perde terreno com os escândalos do Banco Master. Renan projeta ir ao segundo turno contra Lula — sem Flávio. Ver [[fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!]].
+
+**16/06/2026** — Pesquisa **RealTime Big Data** com coleta presencial coloca Renan com **10% das intenções de voto em São Paulo** — primeiro dígito duplo. Renan traça a trajetória: 1% → ultrapassar governadores → 10% → ultrapassar Flávio → enfrentar Lula. Classifica SP como a "cavalaria" da campanha. Ver [[fontes/2026-06-16 - 10% em SP!]].
+
+**17/06/2026** — **Eduardo Bolsonaro** ataca Renan na Jovem Pan, acusando-o de ter causado a derrota de Jair em 2022. Renan responde expondo as "relações espúrias" de toda a família Bolsonaro com o STF: Flávio foi salvo por Toffoli (COAF anulado), Flávio foi salvo por Gilmar Mendes (rachadinha retirada do TJ-RJ), e a família Bolsonaro pediu votos para o irmão de Gilmar Mendes em Mato Grosso. O episódio é significativo porque mostra a família Bolsonaro unida contra Renan — Flávio, Eduardo e Jair operando como bloco para defender o nome da família. Ver [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]].
+
+**19/06/2026** — Renan vai além e expõe as **conexões de Flávio com o Comando Vermelho**. Desmonta um vídeo de Flávio gerado por IA em que o senador promete "explodir o CV com mísseis" e reapresenta as conexões reais: Carlos Castro (aliado afastado por ligações com o crime), Rodrigo Bacelar (classificado pela PF como núcleo político do CV), TH Joias (membro do CV), e Adriano da Nóbrega (assassino de aluguel cujos parentes trabalhavam no gabinete de Flávio). Conclui: *"Flávio não é a favor da luta contra o crime organizado porque ele próprio se relaciona com os caras do crime organizado."* No mesmo dia, revela que Flávio negociou "dinheiro sujo" para financiar filme da família e a estadia de Eduardo nos EUA. Ver [[fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho]] e [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]].
+
+**Caracterização do período:** Flávio não é mais apenas o adversário moral e eleitoral — ele é agora também o candidato em declínio numérico. A virada nas pesquisas e no Google Trends permite a Renan argumentar que sua tese ("Flávio bate e volta") estava correta. O PL da Misoginia adiciona uma nova dimensão ao conflito: Flávio agora também abandona pautas conservadoras para se alinhar ao establishment progressista, confirmando a acusação de Renan de que Flávio "não tem projeto de país." A crise se aprofunda com Nikolas (seu principal aliado na Câmara) cogitando abandono, Eduardo tendo que defender publicamente o irmão, e as conexões com o Comando Vermelho sendo expostas em detalhe. O tom é de confirmação das previsões antigas, menos de confronto direto — Renan fala como quem viu o futuro chegar e agora assiste aos fatos confirmarem cada acusação.
 
 ## Síntese
 
 A trajetória das declarações de Renan Santos sobre Flávio Bolsonaro entre setembro de 2025 e junho de 2026 tem arco claro: começa como crítica estrutural à direita bolsonarista (adversário representativo de um sistema), passa por confronto eleitoral direto (adversário que tira votos da direita séria), alcança o acirramento moral em torno do Banco Master (cúmplice do STF que protegeu Toffoli em troca de imunidade) e termina com apelo à desistência combinado com acusação de crime eleitoral (caixa dois via Vorcaro).
 
 Dois elementos se mantêm constantes ao longo de todo o período: (1) a tese de que Flávio perde para Lula no segundo turno, sendo portanto um candidato que só serve aos interesses do PT; (2) a acusação de que a família Bolsonaro traiu o movimento anticorrupção que derrubou Dilma em troca de proteção pessoal via STF. Sobre esses dois pilares, Renan acrescenta novos argumentos à medida que o escândalo do Banco Master avança.
+
+Em junho de 2026, a crise de Flávio se aprofunda em três frentes simultâneas: (a) **eleitoral** — Nikolas cogita abandono, Renan atinge 10% em SP e ultrapassa Flávio nas pesquisas e no Google Trends; (b) **familiar** — Eduardo precisa defender publicamente o irmão na Jovem Pan, e Renan expõe as relações de toda a família com o STF; e (c) **criminal** — Renan documenta as conexões de Flávio com o Comando Vermelho via Bacelar, TH Joias e Adriano da Nóbrega, elevando a acusação de "bandido" para "aliado do crime organizado." O cerco se fecha de todos os lados — e Renan se posiciona como o único beneficiário político do colapso de Flávio.
 
 ## Pessoas relacionadas
 
@@ -135,6 +153,12 @@ Dois elementos se mantêm constantes ao longo de todo o período: (1) a tese de 
 
 ## Fontes consultadas (cronológico decrescente)
 
+- [[fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho]] — Conexões de Flávio com CV; Carlos Castro, Bacelar, TH Joias, Adriano da Nóbrega
+- [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]] — Flávio negociou dinheiro sujo para filme da família; dinheiro financiou Eduardo nos EUA
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe relações espúrias da família Bolsonaro com STF (Toffoli, Gilmar, Moraes)
+- [[fontes/2026-06-16 - 10% em SP!]] — Renan atinge 10% em SP pela RealTime; ultrapassa Flávio
+- [[fontes/2026-06-11 - Eu disparei contra o Lula no segundo turno!]] — Renan cresce contra Lula; Flávio perde terreno com escândalos
+- [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]] — Nikolas cogita abandonar Flávio; 48% buscam novo; Renan 26% dos que buscam
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — PL da Misoginia; censura a Cazarré; dados de saúde masculina
 - [[fontes/2026-06-05 - É oficial!]] — Renan ultrapassa Flávio no Google Trends
 - [[fontes/2026-06-02 - Flavio é Janja]] — erro de Flávio nas tarifas americanas; terras raras como alavanca

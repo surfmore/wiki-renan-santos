@@ -4,7 +4,7 @@ tags:
   - analise
   - timeline
   - evento
-date: 2026-06-07
+date: 2026-06-21
 ---
 
 O **Banco Master**, controlado por **Daniel Vorcaro**, está no centro do que Renan Santos classifica como "o maior escândalo de corrupção da história do Brasil" — superior à Lava-Jato por envolver simultaneamente membros do STF, representantes de todos os principais partidos e figuras do mercado financeiro. Renan acompanhou o caso de novembro de 2025 até maio de 2026, produzindo mais de 120 vídeos sobre o tema. A tese central que ele desenvolveu ao longo do tempo: o banco não foi apenas um esquema financeiro, mas um instrumento de captura transpartidária do poder — que explica por que nenhum dos grandes players políticos quer investigar o caso a fundo.
@@ -277,6 +277,43 @@ Renan revela que o **Banco Regional de Brasília (BRB)** — estatal do governo 
 
 ---
 
+### 17 de junho de 2026 — Novos vazamentos: jatinhos, prostitutas e Ciro Nogueira
+
+Novos vazamentos de mensagens de Daniel Vorcaro revelam que o banqueiro contratava **jatinhos particulares** para transportar garotas de programa — descritas como "modelos" brasileiras e estrangeiras — para festas com autoridades brasileiras, incluindo "ministros do STF, grandes políticos brasileiros e pequenos políticos brasileiros." Em uma das mensagens vazadas, Vorcaro escreve: *"pega o avião aí pras kengas."* Renan descreve o padrão como duplo: fazer negócios com as autoridades e, quando necessário, usar imagens comprometedoras como instrumento de chantagem.
+
+Vazam também registros da **relação próxima entre Vorcaro e Ciro Nogueira**, com fotos dos dois juntos já após a prisão de Nogueira. Um membro do governo Bolsonaro teria recebido R$ 11 milhões de Vorcaro. Renan conecta esses fatos à declaração de Flávio Bolsonaro de que Ciro Nogueira seria seu "vice-presidente perfeito." Conclui: *"Havia festas com ia, havia festas em tranches computad e toda essa gente estava na folha de pagamento do Daniel Vorcaro."*
+
+Renan contrasta sua própria situação: enquanto as acompanhantes de Vorcaro viajavam de jatinho, ele estava com voo atrasado de Santarém para Belém, pegando 12 horas de barco para a Ilha de Marajó — "vida de pré-candidato pobre."
+
+Ver [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]].
+
+---
+
+### 19 de junho de 2026 — Presidente da Câmara e Jorge Wagner (PT) no radar
+
+Novos desdobramentos revelam conexões do escândalo com o **presidente da Câmara dos Deputados** e com **Jorge Wagner**, do PT da Bahia. Paralelamente, **Flávio Bolsonaro** é mencionado como tendo negociado "dinheiro sujo" para um filme de sua família, que acabou financiando a permanência do irmão Eduardo Bolsonaro nos Estados Unidos.
+
+Renan critica a alienação da população durante a Copa do Mundo — Brasil joga contra o Haiti no mesmo dia — enquanto o escândalo se expande. Gostaria de convocar outra manifestação, mas reconhece que "ninguém iria." Traça paralelo direto entre Brasil e Haiti: *"Um lugar sem regra, sem lei, em que grupos de bandidos violentos assolam as ruas e outros grupos de bandidos controlam o poder."*
+
+Ver [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]].
+
+---
+
+### 19 de junho de 2026 — Flávio Bolsonaro e as conexões com o Comando Vermelho
+
+Renan desmonta um vídeo recente de Flávio Bolsonaro gerado por inteligência artificial, no qual o senador aparece prometendo "explodir o Comando Vermelho com mísseis." Para Renan, a peça é artificial porque, no mundo real, as conexões de Flávio com o crime organizado são extensas e documentadas:
+
+- **Carlos Castro** — aliado de Flávio, afastado e investigado por relações com o crime organizado.
+- **Rodrigo Bacelar** — ex-presidente da ALERJ apoiado por Flávio; classificado pela Polícia Federal como parte do "núcleo operacional e político do Comando Vermelho na política do Rio."
+- **TH Joias** — descrito como membro do Comando Vermelho, não apenas "pouco ligado"; parceiro de Bacelar.
+- **Adriano da Nóbrega** — assassino de aluguel do crime organizado; parentes trabalhavam no gabinete de Flávio no esquema da rachadinha.
+
+Como deputado estadual, Flávio integrou a base do governo mais corrupto do Rio. Como senador no governo do pai, não fez nada contra o crime organizado, combateu a CPI da Lava Toga e lutou contra a agenda anticrime de Moro. Renan conclui: *"Flávio não é a favor da luta contra o crime organizado porque ele próprio se relaciona com os caras do crime organizado."*
+
+Ver [[fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho]].
+
+---
+
 ## Conexões políticas documentadas
 
 Os valores abaixo foram afirmados por Renan Santos em seus vídeos. **Este wiki não verificou as informações de forma independente.** Ver as fontes correspondentes para contexto.
@@ -304,12 +341,17 @@ Os valores abaixo foram afirmados por Renan Santos em seus vídeos. **Este wiki 
 
 Os vídeos de Renan Santos sobre o Banco Master, vistos em conjunto, formam a narrativa de um escândalo que ele interpreta como estrutural — e não episódico. A tese central, reiterada do primeiro ao último vídeo: o banco não foi apenas uma fraude financeira, mas um mecanismo de captura política que distribuiu dinheiro de forma suficientemente ampla para garantir proteção em todos os quadrantes do sistema. PT e bolsonarismo ficaram igualmente paralisados; STF ficou comprometido antes de poder julgar; mercado financeiro ficou exposto o suficiente para não querer investigar.
 
-O elemento que distingue a cobertura de Renan é a insistência no aspecto bipartidário — documentada dezenas de vezes ao longo da cronologia. O caso Flávio Bolsonaro (áudio de maio de 2026, visita à prisão, Valdemar entregando o próprio candidato) é a confirmação mais dramática dessa tese: o senador que mais se beneficiaria eleitoralmente de denunciar o caso estava, na verdade, do outro lado do balcão. A partir de 25 de maio, a delação de Vorcaro e a quebra de sigilo começam a produzir efeitos concretos — Valdemar Costa Neto abandona Flávio publicamente, e o elo BRB/Vila Rabelo expõe a captura de bancos estatais pelo esquema.
+O elemento que distingue a cobertura de Renan é a insistência no aspecto bipartidário — documentada dezenas de vezes ao longo da cronologia. O caso Flávio Bolsonaro (áudio de maio de 2026, visita à prisão, Valdemar entregando o próprio candidato) é a confirmação mais dramática dessa tese: o senador que mais se beneficiaria eleitoralmente de denunciar o caso estava, na verdade, do outro lado do balcão.
+
+A partir de 25 de maio, a delação de Vorcaro e a quebra de sigilo começam a produzir efeitos concretos — Valdemar Costa Neto abandona Flávio publicamente, e o elo BRB/Vila Rabelo expõe a captura de bancos estatais pelo esquema. Em junho, novos vazamentos revelam jatinhos contratados para festas com prostitutas e autoridades, fotos de Vorcaro com Ciro Nogueira, pagamentos de R$ 11 milhões a membros do governo Bolsonaro, e conexões do presidente da Câmara e de Jorge Wagner (PT/BA) com o esquema. Simultaneamente, Renan documenta as ligações de Flávio Bolsonaro com figuras do Comando Vermelho (Bacelar, TH Joias, Adriano da Nóbrega), aprofundando a tese de que a captura do Estado pelo crime organizado é o verdadeiro pano de fundo do escândalo.
 
 ## Fontes consultadas
 
 As fontes abaixo foram consultadas para a produção desta análise, do mais recente para o mais antigo.
 
+- [[fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho]] — Conexões de Flávio com CV; Carlos Castro, Bacelar, TH Joias, Adriano da Nóbrega
+- [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]] — Presidente da Câmara e Jorge Wagner no radar; alienação da Copa
+- [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]] — Jatinhos para prostitutas; fotos com Ciro Nogueira; R$ 11M para membro do governo Bolsonaro
 - [[fontes/2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!]] — Valdemar entrega Flávio; desespero no PL
 - [[fontes/2026-05-25 - O que Daniel Vorcaro tem a ver com a Vila Rabelo]] — BRB como intermediário; R$ 16B em carteiras podres
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]]

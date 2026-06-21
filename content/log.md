@@ -1,5 +1,15 @@
 # Log de operações
 
+## [2026-06-21] analise | A Viagem ao Pará — Diagnóstico do Brasil Profundo
+- Arquivo: analises/A Viagem ao Pará - Diagnóstico do Brasil Profundo
+- Páginas consultadas: fontes/* (8 fontes específicas da viagem ao Pará), pessoas/Família Barbalho, temas/Recursos Hídricos e Saneamento, temas/Ambientalismo e Produtores Rurais, temas/Desigualdade Regional e Migração Interna, posicoes/Desfavelização do Brasil, posicoes/Intervenção Federal em Estados com Baixo IDH, posicoes/Expulsão de ONGs Estrangeiras, posicoes/Emendas Parlamentares Condicionadas a Metas
+- Páginas atualizadas: index.md (adição da seção Análises com 4 entradas)
+
+## [2026-06-21] maint | Atualização de 3 análises existentes
+- Timeline do Escândalo Banco Master: adicionados desdobramentos de junho (jatinhos/prostitutas, Ciro Nogueira, Flávio/CV, presidente da Câmara/Jorge Wagner)
+- Renan Santos x Flávio Bolsonaro: adicionados jun/08-19 (Nikolas abandona Flávio, 10% SP, resposta Eduardo, conexões CV)
+- Propostas de Governo: adicionadas novas propostas (fundo soberano, bets, ferroviário, método fônico, drones, data centers, eliminação impostos máquinas agrícolas)
+
 ## [2026-06-20] ingest | Efeito Renan Santos em Belém! (ingest automático)
 - Fonte criada: fontes/2026-06-20 - Efeito Renan Santos em Belém!
 - Páginas criadas: (nenhuma nova)
