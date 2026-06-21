@@ -8,6 +8,10 @@ date: 2026-06-11
 
 Durante sua viagem pelo Maranhão em abril de 2026, Renan Santos usou episódios concretos para denunciar o que descreve como falência administrativa e desvio de recursos em prefeituras do interior. O tema aparece conectado à sua proposta de [[posicoes/Fusão de Municípios|fusão de municípios]] e à defesa de intervenção federal.
 
+## "Efeito Renan Santos": Belém só limpa rua após denúncia (junho de 2026)
+
+Em **20 de junho de 2026**, Renan mostra uma rua de Belém do Pará tomada por lixo e entulho. Após sua denúncia pública, a prefeitura de Hélder Barbalho enviou uma retroescavadeira para limpeza — o que ele batizou de "Efeito Renan Santos". Renan critica a administração municipal por precisar de "alguém de fora" para fazer o básico. O episódio exemplifica o padrão de negligência e reatividade que, segundo ele, define a gestão da [[pessoas/Família Barbalho]] em Belém. Ver [[fontes/2026-06-20 - Efeito Renan Santos em Belém!]].
+
 ## Veja expõe Safadão em campanha antecipada para Efraim Filho (junho de 2026)
 
 Em **11 de junho de 2026**, Renan comenta que a revista **Veja** publicou matéria revelando que [[pessoas/Wesley Safadão]] fez campanha eleitoral antecipada para o deputado **Efraim Filho** (União Brasil-PB, direita bolsonarista) durante as festas de São João em Campina Grande. Renan afirma que "a casa começou a cair" para Safadão.

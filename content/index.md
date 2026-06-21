@@ -98,7 +98,7 @@ date: 2026-06-20
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">658</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">659</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">28</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -182,6 +182,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-20 - Efeito Renan Santos em Belém!]] — Renan mostra rua de Belém servindo de depósito de lixo; após denúncia, prefeitura envia retroescavadeira; crítica à gestão de Hélder Barbalho
 - [[fontes/2026-06-20 - O que podemos aprender com o Haiti]] — Renan analisa o Haiti como lição sobre estado capturado pelo crime organizado; 90% de Porto Príncipe sob facções; 200.000 haitianos no Brasil; comparação com favelas e Maranhão
 - [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]] — Renan visita ecofazenda sustentável no Marajó que combina agricultura com preservação florestal; produção de cacau e café na Amazônia; modelo de fazenda-escola com investimento privado internacional; apelo por mais projetos como este e menos exploração sexual na região
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Renan visita Melgaço (PA), o pior IDH do Brasil; palafita sem água nem esgoto; oito crianças com diarreia e verminose; crítica à Universidade Federal do Marajó; defesa da lei de responsabilidade gerencial

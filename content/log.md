@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-20] ingest | Efeito Renan Santos em Belém! (ingest automático)
+- Fonte criada: fontes/2026-06-20 - Efeito Renan Santos em Belém!
+- Páginas criadas: (nenhuma nova)
+- Páginas atualizadas: pessoas/Família Barbalho, temas/Corrupção Municipal, index.md, log.md, wiki/.processed_ids
+- Nota: Renan mostra rua em Belém com lixo acumulado; após denúncia prefeitura envia retroescavadeira; ele batiza de "Efeito Renan Santos"; crítica à gestão de Hélder Barbalho
+
 ## [2026-06-20] ingest | O que podemos aprender com o Haiti
 - Fonte criada: fontes/2026-06-20 - O que podemos aprender com o Haiti
 - Páginas criadas: (nenhuma nova)

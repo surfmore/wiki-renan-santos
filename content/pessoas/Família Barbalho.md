@@ -33,6 +33,10 @@ Filho de Laércio, **Jader Barbalho** governou o Pará, foi ministro e senador r
 
 Filho de Jader, **Hélder Barbalho** é o governador atual do Pará. Descrito por Renan como envolvido em "inúmeros escândalos de corrupção" e com "altíssima aprovação popular" apesar dos indicadores sociais ruins do estado. Renan o descreve como o elo que perpetua o controle familiar sobre Belém, onde mais de 50% da população vive em favelas.
 
+### "Efeito Renan Santos": negligência exposta em Belém (junho de 2026)
+
+Em **20 de junho de 2026**, Renan publica um vídeo mostrando uma rua de Belém que servia como depósito de lixo, com entulho e sujeira acumulados. Após sua denúncia, a prefeitura enviou uma retroescavadeira para iniciar a limpeza — o que ele chamou de "Efeito Renan Santos". Renan critica a gestão municipal por precisar que alguém de fora aponte o óbvio para agir: "precisa vir alguém de fora pra apontar o erro e vocês fazerem o básico." O episódio ilustra a tese de Renan de que a [[pessoas/Família Barbalho]] trata o Pará como propriedade particular, só reagindo quando exposta publicamente. Ver [[fontes/2026-06-20 - Efeito Renan Santos em Belém!]].
+
 ## Élder Filho (terceira geração em formação)
 
 Filho de Hélder, **Élder Filho** tem 18 anos e já é presidente da juventude do MDB e conselheiro do clube de futebol Remo. Faz "palestras no Expo Favela" — irônico para Renan, dado que a família controla uma capital onde a maioria vive em favelas.
