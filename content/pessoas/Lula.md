@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-06-06
 fontes:
+  - "2026-06-22 - Essa declaração é o fim do governo Lula"
   - "2026-06-18 - Lula conseguiu uma proeza!"
   - "2026-06-14 - Vão proibir seu ChatGPT"
   - "2026-06-09 - Eu achei os números da economia do Lula"
@@ -31,6 +32,18 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Jaques Wagner ameaça Lula após ser pego no Banco Master (junho de 2026)
+
+Em **22 de junho de 2026**, Renan comenta a declaração pública de **Jaques Wagner** (líder do governo Lula no Senado, PT/BA) — pego no escândalo do Banco Master — que teria dito que Lula não tem moral para removê-lo do governo porque Lula passou por escândalos piores e foi preso.
+
+Renan identifica três implicações da declaração: (1) Wagner admite estar envolvido no escândalo; (2) confirma publicamente que Lula foi preso em um escândalo — fato que o PT sempre negou; (3) deixa uma ameaça velada a Lula, sugerindo que, se for prejudicado, tem informação suficiente para retaliar.
+
+Renan explica que Wagner, junto com **Guido Mantega**, era o responsável por fazer o lobby de **Daniel Vorcaro** diretamente com Lula. Após ser "fritado" pelo PT — que tentava passar uma imagem de agenda ética —, Wagner deu o recado publicamente. Renan observa que tanto PT quanto bolsonarismo estão envolvidos no escândalo e critica a distração da população com a Copa do Mundo.
+
+> "O PT e o bolsonismo estão envolvidos até o fim. E não fosse a Copa do Mundo, o povo estaria acordado."
+
+Ver [[fontes/2026-06-22 - Essa declaração é o fim do governo Lula]].
 
 ## "Lula conseguiu uma proeza": proposta de devolução de celular pelo correio (junho de 2026)
 

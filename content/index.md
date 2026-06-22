@@ -98,7 +98,7 @@ date: 2026-06-22
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">661</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">662</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -171,7 +171,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📰 Eventos</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/eventos/Escândalo-Banco-Master"><div class="wiki-card-header"><span class="wiki-card-icon">💥</span><span class="wiki-card-title">Escândalo Banco Master</span><span class="wiki-card-count">+1 fonte</span></div><p class="wiki-card-desc">Fraude, prisões, festas com prostitutas e conexões de Vorcaro com a elite política e judicial — novos vazamentos revelam jatinhos, chantagem e laços com Ciro Nogueira.</p></a>
+<a class="wiki-card" href="/eventos/Escândalo-Banco-Master"><div class="wiki-card-header"><span class="wiki-card-icon">💥</span><span class="wiki-card-title">Escândalo Banco Master</span><span class="wiki-card-count">+1 fonte</span></div><p class="wiki-card-desc">Fraude, prisões, festas com prostitutas e conexões de Vorcaro com a elite política e judicial — Jaques Wagner ameaça Lula após ser pego no esquema; novos vazamentos revelam jatinhos, chantagem e laços com Ciro Nogueira.</p></a>
 <a class="wiki-card" href="/eventos/Prisão-do-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🔒</span><span class="wiki-card-title">Prisão do Bolsonaro</span></div><p class="wiki-card-desc">Como Renan reagiu e o que disse sobre o processo e os acordos da direita com Moraes.</p></a>
 <a class="wiki-card" href="/eventos/Manifestação-na-Paulista-—-11-de-abril-de-2026"><div class="wiki-card-header"><span class="wiki-card-icon">📣</span><span class="wiki-card-title">Manifestação na Paulista</span></div><p class="wiki-card-desc">11 de abril de 2026. Participação e posição de Renan sobre o ato.</p></a>
 <a class="wiki-card" href="/eventos/Rio-de-Janeiro-em-Guerra-—-Outubro-de-2025"><div class="wiki-card-header"><span class="wiki-card-icon">⚔️</span><span class="wiki-card-title">Rio em Guerra — Out. 2025</span></div><p class="wiki-card-desc">Crise de segurança no Rio e a resposta de Renan sobre a omissão do estado.</p></a>
@@ -183,6 +183,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-22 - Essa declaração é o fim do governo Lula]] — Jaques Wagner (PT/BA), pego no escândalo Banco Master, declara que Lula não tem moral para demiti-lo porque Lula passou por escândalos piores e foi preso; Renan vê ameaça direta a Lula
 - [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Renan visita a favela do Jurunas em Belém; esgoto a céu aberto; R$ 4 bi da COP vs. R$ 3 bi para saneamento; Comando Vermelho controlando a região
 - [[fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês]] — Renan visita a cidade com pior IDH do Brasil; documenta gravidez na adolescência como regra na região Norte; propõe planejamento familiar, igrejas e educação sexual nas escolas
 - [[fontes/2026-06-20 - Efeito Renan Santos em Belém!]] — Renan mostra rua de Belém servindo de depósito de lixo; após denúncia, prefeitura envia retroescavadeira; crítica à gestão de Hélder Barbalho

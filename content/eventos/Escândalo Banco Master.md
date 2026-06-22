@@ -9,6 +9,24 @@ date: 2026-04-13
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
 
+## Jaques Wagner declara que Lula não tem moral para demiti-lo (junho de 2026)
+
+Em **22 de junho de 2026**, Renan comenta a declaração pública de **Jaques Wagner** (líder do governo Lula no Senado, PT/BA) — pego no escândalo — que teria dito a Lula que ele não tem moral para removê-lo do governo porque Lula passou por escândalos piores e foi preso. Renan identifica três implicações:
+
+1. **Wagner admite o envolvimento** — reconhece que está "no meio da merda".
+2. **Wagner admite a condenação de Lula** — confirma publicamente que Lula foi preso em um escândalo, algo que o PT sempre negou.
+3. **Wagner ameaça Lula** — deixa claro que, se for demitido ou prejudicado, tem informação suficiente para retaliar.
+
+Renan explica que Wagner, junto com [[pessoas/Guido Mantega]], era o contato e lobista de **Daniel Vorcaro** junto a Lula. Após ser "fritado" pelo PT (com Gleisi Hoffmann tentando adotar uma agenda ética), Wagner deu o recado publicamente. Renan observa que tanto o PT quanto o bolsonarismo estão envolvidos no escândalo, e critica a distração da população com a Copa do Mundo.
+
+> "O PT e o bolsonismo estão envolvidos até o fim. E não fosse a Copa do Mundo, o povo estaria acordado."
+
+Renan conclui com um apelo: o Brasil pode dar certo se der chance às novas gerações, mas "o futuro, antes de tudo, tem que ser honesto."
+
+Ver [[fontes/2026-06-22 - Essa declaração é o fim do governo Lula]].
+
+---
+
 ## Presidente da Câmara e Jorge Wagner (PT/BA) são envolvidos (junho de 2026)
 
 Em **19 de junho de 2026**, Renan denuncia que novos desdobramentos do escândalo atingiram o **presidente da Câmara dos Deputados** e **Jorge Wagner, do PT da Bahia**. Paralelamente, revela que **Flávio Bolsonaro** foi pego negociando dinheiro sujo para um filme tocado por sua família, que acabou financiando seu irmão nos Estados Unidos.
