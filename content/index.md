@@ -98,7 +98,7 @@ date: 2026-06-22
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">662</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">663</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -183,6 +183,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-22 - Resposta aos índios do PSOL]] — PSOL e grupos indígenas entram com ação no MP contra Renan por suas denúncias de bloqueio ao desenvolvimento no Pará; Renan reafirma críticas e desafia tentativa de censura
 - [[fontes/2026-06-22 - Essa declaração é o fim do governo Lula]] — Jaques Wagner (PT/BA), pego no escândalo Banco Master, declara que Lula não tem moral para demiti-lo porque Lula passou por escândalos piores e foi preso; Renan vê ameaça direta a Lula
 - [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Renan visita a favela do Jurunas em Belém; esgoto a céu aberto; R$ 4 bi da COP vs. R$ 3 bi para saneamento; Comando Vermelho controlando a região
 - [[fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês]] — Renan visita a cidade com pior IDH do Brasil; documenta gravidez na adolescência como regra na região Norte; propõe planejamento familiar, igrejas e educação sexual nas escolas

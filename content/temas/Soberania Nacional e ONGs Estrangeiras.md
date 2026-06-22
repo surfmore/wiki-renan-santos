@@ -9,6 +9,12 @@ date: 2026-04-12
 
 Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura e exploração de recursos no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
 
+## PSOL e indígenas acionam MP contra Renan (junho de 2026)
+
+Em **22 de junho de 2026**, Renan anuncia que o **PSOL** e grupos indígenas ligados ao partido entraram com uma ação no **Ministério Público** contra ele, como resposta a suas denúncias sobre bloqueios ao desenvolvimento no Pará. Em tom irônico, Renan diz estar "retirando a pré-candidatura" e afirma que querem calá-lo. Ele reafirma suas acusações, defende que a verdade precisa ser dita e que sabotadores do desenvolvimento sejam investigados e presos. Sua resposta ao que classifica como tentativa de censura é: "Não vão calar".
+
+Ver [[fontes/2026-06-22 - Resposta aos índios do PSOL]].
+
 ## Bloqueio em Santarém: Cargill e a hidrovia parada (junho de 2026)
 
 Em **17 de junho de 2026**, em Santarém (PA), Renan denuncia que a expansão da hidrovia conectada à estrutura da **Cargill** foi barrada por um grupo indígena articulado com o PT. Segundo ele, a etnia teria desaparecido no século XVII e "reaparecido" com o governo petista anos atrás para bloquear a obra. Renan critica FUNAI, antropólogos de esquerda, PSOL e organizações internacionais, alegando um plano para manter o Pará na pobreza. Promete acabar com demarcações que considera fraudulentas.

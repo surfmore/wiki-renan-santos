@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-22] ingest | Resposta aos índios do PSOL
+- Fonte criada: fontes/2026-06-22 - Resposta aos índios do PSOL
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Soberania Nacional e ONGs Estrangeiras, index.md, log.md, wiki/.processed_ids
+- Nota: PSOL e grupos indígenas entram com ação no MP contra Renan por suas denúncias de bloqueio ao desenvolvimento no Pará; Renan reafirma críticas e desafia tentativa de censura
+
 ## [2026-06-22] ingest | Essa declaração é o fim do governo Lula
 - Fonte criada: fontes/2026-06-22 - Essa declaração é o fim do governo Lula
 - Páginas criadas: nenhuma (conteúdo adicionado a páginas existentes)
