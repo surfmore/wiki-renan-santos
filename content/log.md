@@ -3,8 +3,9 @@
 ## [2026-06-22] ingest | Essa declaração é o fim do governo Lula
 - Fonte criada: fontes/2026-06-22 - Essa declaração é o fim do governo Lula
 - Páginas criadas: nenhuma (conteúdo adicionado a páginas existentes)
-- Páginas atualizadas: eventos/Escândalo Banco Master, pessoas/Lula, index.md, log.md, wiki/.processed_ids
+- Páginas atualizadas: eventos/Escândalo Banco Master, pessoas/Lula, index.md, log.md
 - Nota: Jaques Wagner (PT/BA), pego no escândalo do Banco Master, declara publicamente que Lula não tem moral para demiti-lo; Renan identifica 3 implicações: Wagner admite envolvimento, admite condenação de Lula (que o PT negava), e deixa ameaça a Lula
+- Correção: video_id S0IzsN1G-m0 não estava em .processed_ids; adicionado nesta execução
 
 ## [2026-06-21] ingest | Verificação automática de shorts pendentes | Verificação automática de shorts pendentes
 - Resultado: nenhum short pendente — todos os 648 shorts já foram ingeridos em execuções anteriores
