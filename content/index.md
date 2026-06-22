@@ -98,7 +98,7 @@ date: 2026-06-22
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">663</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">664</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -146,7 +146,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Frente-de-Trabalho-para-o-Bolsa-Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒️</span><span class="wiki-card-title">Frente de Trabalho</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Substituir o Bolsa Família por frentes de trabalho remunerado inspiradas no New Deal de Roosevelt.</p></a>
 <a class="wiki-card" href="/posicoes/Reforma-Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Cortar R$ 3,3 trilhões em gastos em 10 anos e reduzir impostos a partir do 2º ano.</p></a>
 <a class="wiki-card" href="/posicoes/Proibição-de-Bets-e-Cassinos-Online"><div class="wiki-card-header"><span class="wiki-card-icon">🎰</span><span class="wiki-card-title">Proibição de Bets</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Revogação de autorização de bets, tributação pesada, proibição de remessa ao exterior e combate à lavagem de dinheiro de facções.</p></a>
-<a class="wiki-card" href="/posicoes/Gastrodiplomacia-e-Promoção-Internacional-da-Culinária-Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Política de estado para promover a culinária brasileira no exterior como instrumento de soft power e desenvolvimento econômico.</p></a>
+<a class="wiki-card" href="/posicoes/Gastrodiplomacia-e-Promoção-Internacional-da-Culinária-Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Política de estado para promover a culinária brasileira no exterior como instrumento de soft power e desenvolvimento econômico; caso do açaí do Pará como produto-estratégico.</p></a>
 <a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 29 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
@@ -183,6 +183,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-22 - Virei um apanhador de açaí no Pará!]] — Renan grava no Pará sobre o potencial econômico do açaí; exportações saltaram de 300 mil para 150 milhões de reais; defende venda de produto processado, criação de marcas globais e chefs como embaixadores; crítica a restrições ambientais
 - [[fontes/2026-06-22 - Resposta aos índios do PSOL]] — PSOL e grupos indígenas entram com ação no MP contra Renan por suas denúncias de bloqueio ao desenvolvimento no Pará; Renan reafirma críticas e desafia tentativa de censura
 - [[fontes/2026-06-22 - Essa declaração é o fim do governo Lula]] — Jaques Wagner (PT/BA), pego no escândalo Banco Master, declara que Lula não tem moral para demiti-lo porque Lula passou por escândalos piores e foi preso; Renan vê ameaça direta a Lula
 - [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Renan visita a favela do Jurunas em Belém; esgoto a céu aberto; R$ 4 bi da COP vs. R$ 3 bi para saneamento; Comando Vermelho controlando a região

@@ -5,10 +5,22 @@ tags:
   - agro
   - maranhão
   - nordeste
-date: 2026-05-29
+date: 2026-06-22
 ---
 
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.
+
+## Açaí do Pará: valor agregado e exportação de produto processado (junho de 2026)
+
+Em **22 de junho de 2026**, gravando no Pará, Renan usa o açaí como caso exemplar de produto amazônico com potencial de gerar riqueza via processamento e exportação. As exportações de açaí saltaram de aproximadamente 300 mil reais para mais de 150 milhões de reais em poucos anos, mas ainda representam menos de 10% da produção total.
+
+Renan defende que o Brasil adote uma política de promoção de exportações de produtos nacionais, vendendo o açaí já processado (não a matéria-prima bruta), criando marcas globais e usando chefs de cozinha como embaixadores. Alerta que, sem isso, o açaí pode ser apropriado por outras nações como ocorreu com a castanha de caju.
+
+Ele também cobra crédito e condições para formação de cooperativas entre ribeirinhos, e critica as restrições ambientais que, segundo ele, atrapalham o desenvolvimento da cadeia produtiva.
+
+> "Gostos à parte, a questão é que o mundo tá se viciando na versão doce do açaí. (...) Caso o açaí caia no gosto global, essa fruta vai deixar de ser um mero fruto e vai se tornar pepita de ouro."
+
+Ver [[fontes/2026-06-22 - Virei um apanhador de açaí no Pará!]] e [[posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira]].
 
 ## Cargill e o bloqueio indígena em Santarém (junho de 2026)
 
@@ -124,6 +136,7 @@ Ver [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]].
 
 ## Fontes
 
+- [[fontes/2026-06-22 - Virei um apanhador de açaí no Pará!]] — açaí como produto de valor agregado; exportação; cooperativismo; crítica a restrições ambientais
 - [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Cargill em Santarém; bloqueio indígena e do PT à hidrovia; crítica à FUNAI
 - [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — ICMBio e perseguição a pequenos produtores no Pará; 4 propostas de reforma
 - [[fontes/2026-05-29 - Como o PT ajudou a destruir o cacau no sul]] — vassoura de bruxa; destruição da lavoura cacaueira; proposta para Embrapa

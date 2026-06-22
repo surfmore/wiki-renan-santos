@@ -6,9 +6,10 @@ tags:
   - culinária
   - desenvolvimento-econômico
   - soft-power
-date: 2026-06-06
+date: 2026-06-22
 fontes:
   - "2026-06-06 - Você já ouviu falar em gastrodiplomacia"
+  - "2026-06-22 - Virei um apanhador de açaí no Pará!"
 ---
 
 # Gastrodiplomacia e Promoção Internacional da Culinária Brasileira
@@ -28,6 +29,24 @@ A proposta inclui cinco medidas concretas:
 5. **Churrasco diplomático presidencial** — como presidente, Renan promete fazer pessoalmente churrasco servido com cajuzinho, maniçoba e muqueca em visitas internacionais
 
 > "A diplomacia vai ter churrasco, vai ter maniçoba e vai ter muqueca."
+
+## O caso do açaí como produto-estratégico (junho de 2026)
+
+Em **22 de junho de 2026**, gravando no Pará, Renan usa o açaí como exemplo concreto do que a gastrodiplomacia pode alcançar. Ele mostra que as exportações de açaí saltaram de ~300 mil reais para 150 milhões de reais, mas ainda representam menos de 10% da produção total — a maior parte é consumida internamente.
+
+Renan alerta que, sem uma política de promoção internacional, o açaí pode sofrer o mesmo destino da castanha de caju — produto de origem brasileira que foi apropriado por outras nações e hoje o mundo sequer associa ao Brasil.
+
+As medidas que defende especificamente para o açaí:
+
+1. **Vender o açaí já processado**, não a matéria-prima bruta
+2. **Criar marcas globais ligadas ao açaí** — marcas brasileiras reconhecidas internacionalmente
+3. **Usar chefs de cozinha brasileiros como embaixadores** da culinária nacional, utilizando açaí como ingrediente
+4. **Cooperativismo e crédito** para ribeirinhos produtores
+5. **Fim de restrições ambientais excessivas** que impedem o desenvolvimento da cadeia produtiva
+
+> "O açaí saiu da mesa do ribeirinho e se tornou um produto nacional. Gostos à parte, o mundo tá se viciando na versão doce do açaí. Caso o açaí caia no gosto global, essa fruta vai deixar de ser um mero fruto e vai se tornar pepita de ouro."
+
+Ver [[fontes/2026-06-22 - Virei um apanhador de açaí no Pará!]].
 
 ## Diagnóstico
 
