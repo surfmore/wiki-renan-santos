@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-23] ingest | Uma cidade construída no meio do nada pela Ford
+- Fonte criada: fontes/2026-06-23 - Uma cidade construída no meio do nada pela Ford
+- Páginas criadas: nenhuma (conteúdo já coberto pela fonte anterior de Fordlândia)
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: Terceiro vídeo de Renan sobre as cidades da Ford no Pará. Reconta a história de Fordlândia com foco adicional no surto de malária e custo humano. Nenhum conteúdo novo para temas/posições/páginas existentes.
+
 ## [2026-06-22] ingest | Virei um apanhador de açaí no Pará!
 - Fonte criada: fontes/2026-06-22 - Virei um apanhador de açaí no Pará!
 - Páginas atualizadas: posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira, temas/Agronegócio e Matopiba, index.md, log.md, wiki/.processed_ids
