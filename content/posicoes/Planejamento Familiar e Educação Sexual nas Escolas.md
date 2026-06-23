@@ -5,14 +5,23 @@ tags:
   - planejamento-familiar
   - educacao-sexual
   - família
-date: 2026-06-21
+date: 2026-06-23
 fontes:
+  - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês"
 ---
 
 # Planejamento Familiar e Educação Sexual nas Escolas
 
 Renan Santos defende o **planejamento familiar como política de Estado**, com envolvimento ativo de igrejas e comunidades religiosas, combinado com **educação sexual e psicológica obrigatória nas escolas** das regiões mais pobres. A posição emerge do diagnóstico de que a gravidez na adolescência e a desestruturação familiar são as causas raiz da perpetuação da pobreza e da criminalidade.
+
+## Retrato do ciclo: Dona Benedita e a filha de 16 anos (junho de 2026)
+
+Em **23 de junho de 2026**, Renan aprofunda o diagnóstico com a história de **Dona Benedita**, em Melgaço (PA). Aos 46 anos, ela tem oito filhos e cinco netos — duas filhas já são mães, uma de 18 e outra de **16 anos**, grávida de um homem de 28. A adolescente não estuda, não trabalha, e quando questionada sobre voltar a estudar, responde com indiferença: "Também, né? Também pode ser assim."
+
+Renan observa que o marido de Dona Benedita está bêbado às 4 da tarde, e descreve a cena como o "mundo que o PT fomenta" — uma comunidade onde as pessoas não têm "nenhuma perspectiva de futuro" e "nenhum controle sobre suas próprias vidas." O vídeo serve como contraponto factual à propaganda do governo sobre os programas sociais.
+
+Ver [[fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT]].
 
 ## Visita à cidade com pior IDH (junho de 2026)
 

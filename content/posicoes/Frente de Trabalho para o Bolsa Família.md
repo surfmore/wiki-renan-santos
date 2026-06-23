@@ -5,13 +5,22 @@ tags:
   - assistencialismo
   - trabalho
   - infraestrutura
-date: 2026-03-17
+date: 2026-06-23
 fontes:
+  - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA"
   - "2026-03-17 - Não sabiam que eu estava ouvindo"
 ---
 
 Proposta central de Renan Santos para reformar o Bolsa Família: em vez de cortar o benefício, condicionar o acesso à participação em **frentes de trabalho** — inspirado no modelo do presidente americano Franklin Roosevelt durante a Grande Depressão.
+
+## Exemplo concreto: a família de Dona Benedita em Melgaço (junho de 2026)
+
+Em **23 de junho de 2026**, Renan entrevista **Dona Benedita**, ribeirinha de Melgaço (PA) que ilustra o ciclo que sua proposta pretende romper: ela tem oito filhos, dos quais **seis estão no Bolsa Família** (além dela própria). Apenas dois têm emprego formal. Sua filha de 16 anos está grávida, não estuda e não trabalha — e responde com indiferença à possibilidade de voltar a estudar ("Também, né? Também pode ser assim").
+
+O caso é apresentado como o retrato de uma comunidade onde o Bolsa Família, em vez de ponte para o desenvolvimento, tornou-se um **estilo de vida hereditário** que atravessa gerações — Dona Benedita recebe Bolsa Família, seus filhos recebem, e agora os netos já nascem nesse ciclo.
+
+Ver [[fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT]].
 
 ## Confirmação direta: "ou rala ou rola" (abril de 2026)
 

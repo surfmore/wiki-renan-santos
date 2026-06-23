@@ -5,8 +5,9 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-06-21
+date: 2026-06-23
 fontes:
+  - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-19 - Essa é a água que essa senhora toma"
@@ -18,6 +19,16 @@ fontes:
 ---
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
+
+## Retrato da pobreza em Melgaço: a família de Dona Benedita (junho de 2026)
+
+Em **23 de junho de 2026**, Renan volta a Melgaço (PA) para mostrar um retrato íntimo do pior IDH do Brasil através da história de **Dona Benedita**, ribeirinha de 46 anos morando em palafita sem saneamento. Ela tem oito filhos: apenas dois com emprego formal, seis no Bolsa Família (além dela própria). Aos 46 anos, já tem cinco netos — uma filha de 16 anos está grávida de um homem de 28 anos, não estuda e não trabalha. O marido, às 4 da tarde, já está bebado.
+
+Renan usa o caso para denunciar o que chama de "mundo que o PT fomenta e considera absolutamente normal": pessoas sem perspectiva de futuro, sem controle sobre suas próprias vidas, existindo apenas à custa do contribuinte. Ele conclui que "esse tipo de Brasil não tem que existir" e que é função do poder público "trazer civilização para os seus rincões mais distantes."
+
+O episódio reforça sua tese central de que o problema da desigualdade regional não é falta de recursos, mas a perpetuação de um ciclo de pobreza, dependência e falta de perspectivas que o poder público tem o dever de romper.
+
+Ver [[fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT]].
 
 ## Crítica ao assistencialismo do PT no Nordeste (setembro de 2025)
 

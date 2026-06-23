@@ -5,14 +5,23 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-06-21
+date: 2026-06-23
 fontes:
+  - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-19 - Essa é a água que essa senhora toma"
   - "2026-03-27 - Eu fui na primeira favela do Brasil"
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Melgaço: palafita como extremo da favelização no Brasil (junho de 2026)
+
+Em **23 de junho de 2026**, Renan mostra o extremo da favelização brasileira em Melgaço (PA): **Dona Benedita**, 46 anos, mora em uma **casa de palafita sem saneamento básico** com oito filhos. A cena é apresentada como o "mundo por trás da propaganda do PT" — pessoas vivendo em condições subumanas, sem perspectiva de futuro, enquanto o governo federal exibe índices macroeconômicos positivos.
+
+O caso de Melgaço ilustra a tese de Renan de que a desfavelização não pode se limitar às grandes cidades como Rio e São Paulo — o fenômeno atinge também os rincões mais distantes do país, onde palafitas ribeirinhas substituem as favelas urbanas.
+
+Ver [[fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT]].
 
 ## Belém: Jurunas como retrato do Brasil que precisa ser desfavelizado (junho de 2026)
 

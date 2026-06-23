@@ -98,7 +98,7 @@ date: 2026-06-23
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">665</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">666</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">47</span><span class="label">Pessoas</span></a>
@@ -183,6 +183,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT]] — Renan entrevista Dona Benedita em Melgaço (PA); 6 de 8 filhos no Bolsa Família, filha de 16 grávida; denúncia do que chama de "mundo que o PT fomenta"
 - [[fontes/2026-06-23 - Uma cidade construída no meio do nada pela Ford]] — Renan retoma a história de Fordlândia com foco no custo humano, surto de malária e cruzes de crianças no cemitério local; choque cultural e rebeliões dos trabalhadores
 - [[fontes/2026-06-22 - Virei um apanhador de açaí no Pará!]] — Renan grava no Pará sobre o potencial econômico do açaí; exportações saltaram de 300 mil para 150 milhões de reais; defende venda de produto processado, criação de marcas globais e chefs como embaixadores; crítica a restrições ambientais
 - [[fontes/2026-06-22 - Resposta aos índios do PSOL]] — PSOL e grupos indígenas entram com ação no MP contra Renan por suas denúncias de bloqueio ao desenvolvimento no Pará; Renan reafirma críticas e desafia tentativa de censura

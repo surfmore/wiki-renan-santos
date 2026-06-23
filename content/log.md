@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-06-23] ingest | O que é o mundo por trás da propaganda do PT
+- Fonte criada: fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT
+- Páginas atualizadas: temas/Desigualdade Regional e Migração Interna, posicoes/Frente de Trabalho para o Bolsa Família, posicoes/Planejamento Familiar e Educação Sexual nas Escolas, posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+- Nota: video_id n6BJF7gNiaY. Renan entrevista Dona Benedita em Melgaço (PA) — 8 filhos, 6 no Bolsa Família, filha de 16 grávida. Retrato da pobreza como "mundo que o PT fomenta".
+
 ## [2026-06-23] ingest | Uma cidade construída no meio do nada pela Ford
 - Fonte criada: fontes/2026-06-23 - Uma cidade construída no meio do nada pela Ford
 - Páginas criadas: nenhuma (conteúdo já coberto pela fonte anterior de Fordlândia)
