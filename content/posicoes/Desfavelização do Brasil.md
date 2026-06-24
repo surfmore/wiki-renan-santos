@@ -5,8 +5,9 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-06-23
+date: 2026-06-24
 fontes:
+  - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-19 - Essa é a água que essa senhora toma"
@@ -14,6 +15,14 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Melgaço: moradora endossa desfavelização e pede moradia digna (junho de 2026)
+
+Em **24 de junho de 2026**, Renan entrevista uma moradora anônima em Melgaço (PA) — a cidade com pior IDH do Brasil — para testar o apoio popular às suas bandeiras. Questionada sobre o que gostaria de ver de mudança, ela menciona **saúde, água tratada, energia elétrica estável** e **desfavelizar a cidade**. Seu maior desejo pessoal é "aprontar a casa" — melhorar a habitação onde vive.
+
+A moradora também endossa o slogan "prendeu matou", dizendo que deseja "uma pausa" nos violentos. O episódio é usado por Renan para mostrar que as próprias vítimas da pobreza extrema apoiam políticas duras contra o crime e querem moradia digna — contrariando a narrativa de que a desfavelização seria impopular entre os mais pobres.
+
+Ver [[fontes/2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país]].
 
 ## Melgaço: palafita como extremo da favelização no Brasil (junho de 2026)
 

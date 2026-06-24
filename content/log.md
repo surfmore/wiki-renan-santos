@@ -1,5 +1,15 @@
 # Log de operações
 
+## [2026-06-24] ingest | Será que defendem o que nós defendemos na cidade com pior IDH do país
+- Fonte criada: fontes/2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país
+- Páginas atualizadas: posicoes/Desfavelização do Brasil, temas/Desigualdade Regional e Migração Interna, temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: video_id CB2bTwVzGtE. Renan entrevista moradora em Melgaço (PA); ela endossa "prendeu matou" e pede água tratada, energia estável e desfavelização.
+
+## [2026-06-24] ingest | Você torce pra Coreia do sul e nem sabe!
+- Fonte criada: fontes/2026-06-24 - Você torce pra Coreia do sul e nem sabe!
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: video_id P4ViKKe41lA. Quinto vídeo da série "Países na Copa". Renan compara os modelos de desenvolvimento da Coreia do Sul (liberal, exportador) com o brasileiro (protecionista, "campeões nacionais").
+
 ## [2026-06-23] ingest | O que é o mundo por trás da propaganda do PT
 - Fonte criada: fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT
 - Páginas atualizadas: temas/Desigualdade Regional e Migração Interna, posicoes/Frente de Trabalho para o Bolsa Família, posicoes/Planejamento Familiar e Educação Sexual nas Escolas, posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids

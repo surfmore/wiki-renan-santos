@@ -5,8 +5,22 @@ tags:
   - tecnologia
   - soberania
   - soft-power
-date: 2026-06-15
+date: 2026-06-24
 ---
+
+## Coreia do Sul: o modelo de desenvolvimento que o Brasil deveria copiar (junho de 2026)
+
+Em **24 de junho de 2026**, na série "Países na Copa", Renan analisa o **modelo de desenvolvimento econômico da Coreia do Sul** em contraste com o Brasil. A Coreia, que até os anos 1980 era mais pobre que o Brasil, adotou políticas liberalizantes e se tornou uma das nações mais ricas e influentes do mundo.
+
+**O modelo coreano:** políticas agressivamente liberais — liberdade para abrir negócios, contratar e demitir, investir em novas tecnologias — combinadas com uma "participação amigável do Estado" que criou grandes grupos econômicos (chaebols como Samsung, Hyundai, LG) voltados para a conquista do mercado global.
+
+**O modelo brasileiro:** leis hostis às empresas, crédito caro, marcos regulatórios inseguros, leis trabalhistas "impossíveis", infraestrutura inexistente. Quando o Estado brasileiro tentou atuar junto à iniciativa privada, criou "reservas econômicas nacionais com empresários amigos dos políticos" — os "campeões nacionais" do governo Dilma, que recebem subsídios para explorar o mercado interno com produtos ruins e caros, bloqueando a concorrência estrangeira.
+
+**Resultado:** a Coreia hoje domina setores inteiros (carros, celulares, TVs, navios) e expandiu para serviços e arte (K-pop, doramas, cinema vencedor do Oscar). O Brasil, que nos anos 1980 exportava novelas, hoje tem brasileiros consumindo cultura coreana.
+
+A conclusão de Renan: "Não adianta a gente admirar até o lifestyle deles enquanto adota políticas opostas do que eles fizeram." O Brasil precisa copiar o modelo coreano de liberalização econômica e incentivo à competição global.
+
+Ver [[fontes/2026-06-24 - Você torce pra Coreia do sul e nem sabe!]].
 
 ## Soft power e nation branding: a lição da Espanha para o Brasil (junho de 2026)
 

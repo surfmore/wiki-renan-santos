@@ -5,8 +5,9 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-06-23
+date: 2026-06-24
 fontes:
+  - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
@@ -19,6 +20,14 @@ fontes:
 ---
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
+
+## Melgaço: moradora anônima endossa "prendeu matou" e pede infraestrutura básica (junho de 2026)
+
+Em **24 de junho de 2026**, Renan retorna a Melgaço (PA) — cidade com o pior IDH do Brasil — e entrevista uma moradora anônima para testar o apoio popular a suas bandeiras. Ela expressa desejo por **água tratada, energia elétrica estável** e **desfavelização da cidade**. Quando questionada sobre o slogan "prendeu matou", ela concorda e diz que os violentos precisam de "uma pausa". Seu maior desejo pessoal é "aprontar a casa" — melhorar sua habitação.
+
+A moradora apoia Renan ao saber que ele é candidato contra Lula. O episódio reforça a tese de Renan de que a população mais pobre deseja soluções concretas (infraestrutura, moradia, segurança) em vez de assistencialismo, e que a cidade com o pior IDH do Brasil é também um termômetro do apoio popular a suas propostas.
+
+Ver [[fontes/2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país]].
 
 ## Retrato da pobreza em Melgaço: a família de Dona Benedita (junho de 2026)
 

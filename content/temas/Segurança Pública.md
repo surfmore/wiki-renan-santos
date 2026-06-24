@@ -8,6 +8,14 @@ date: 2025-09-09
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## Apoio popular ao "prendeu matou" na cidade mais pobre do Brasil (junho de 2026)
+
+Em **24 de junho de 2026**, Renan testa o apoio popular ao slogan "prendeu matou" na cidade com o pior IDH do Brasil (Melgaço, PA). Uma moradora anônima, ao ser perguntada se concorda com a política, responde afirmativamente e diz desejar "uma pausa" nos violentos — expressão que Renan interpreta como apoio ao endurecimento penal. A moradora também menciona que gostaria de ver melhorias em **água tratada, energia estável** e **desfavelização**.
+
+O episódio serve a Renan como evidência de que as camadas mais pobres e vulneráveis — justamente as que mais sofrem com a violência — endossam suas propostas de segurança, contrariando a narrativa de que políticas duras seriam impopulares entre a população de baixa renda.
+
+Ver [[fontes/2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país]].
+
 ## Lição do Haiti: quando o crime captura o estado (junho de 2026)
 
 Em **20 de junho de 2026**, como parte da série "Países na Copa", Renan usa o Haiti como advertência sobre a relação entre estado e crime organizado. Ele descreve um país onde 90% da capital Porto Príncipe é controlada por facções criminosas, a fome é regra, e a população come bolinhos de argila para sobreviver.
