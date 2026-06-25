@@ -38,7 +38,7 @@ Renan afirma que as chances de Lula vencer no primeiro turno são cada vez menor
 
 ## Temas abordados
 
-- [[temas/Empobrecimento-e-Mercado-de-Trabalho]] — impacto econômico desastrosa no bolso dos eleitores
+- [[temas/Empobrecimento e Mercado de Trabalho]] — impacto econômico desastroso no bolso dos eleitores
 - [[temas/Desigualdade Regional e Migração Interna|Desigualdade Regional]] — desenvolvimento do Nordeste
 
 ## Posições defendidas

@@ -51,7 +51,7 @@ Renan conecta o episódio às relações do **governo do Ceará com o Comando Ve
 - **Ébertos** — procurador-geral de justiça do Ceará; foi para a Copa do Mundo feminina; filho de desembargador e sobrinho de ministro do STJ
 - **Raimundo Nonato** — desembargador, pai de Ébertos
 - **Teodoro Santos** — ministro do STJ, tio de Ébertos, apontado pelo governador Elmano de Freitas
-- [[pessoas/Elmano de Freitas]] — governador do Ceará; mencionado por ter apontado Teodoro Santos ao STJ
+- **Elmano de Freitas** — governador do Ceará; mencionado por ter apontado Teodoro Santos ao STJ
 
 ## URL
 

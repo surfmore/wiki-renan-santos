@@ -25,7 +25,7 @@ O vídeo conecta a negligência municipal ao domínio prolongado da [[pessoas/Fa
 ## Principais temas
 
 - [[temas/Corrupção Municipal]] — negligência na gestão de resíduos e espaços públicos em Belém
-- [[temas/Desigualdade Regional]] — contraste entre o discurso político e a realidade das ruas na capital paraense
+- [[temas/Desigualdade Regional e Migração Interna|Desigualdade Regional]] — contraste entre o discurso político e a realidade das ruas na capital paraense
 - [[eventos/COP30 — Legado em Belém]] — continuação da crítica ao legado deixado pela COP30 na cidade
 
 ## Pessoas mencionadas

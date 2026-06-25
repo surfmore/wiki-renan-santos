@@ -32,7 +32,7 @@ Renan explica que Jaques Wagner, junto com [[pessoas/Guido Mantega]], era o resp
 
 ## Temas abordados
 
-- [[temas/Corrupção]] — escândalo Banco Master atinge PT e bolsonarismo simultaneamente
+- [[temas/Corrupção Municipal|Corrupção]] — escândalo Banco Master atinge PT e bolsonarismo simultaneamente
 - Crítica à falta de atenção da população ao escândalo, distraída pela Copa do Mundo
 
 ## Posições defendidas

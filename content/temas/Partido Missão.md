@@ -19,7 +19,7 @@ fontes:
   - "2025-10-24 - Não vai ter Missão"
   - "2025-09-24 - Quer notícia boa"
   - "2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!"
-  - "2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)"
+  - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
@@ -162,4 +162,4 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 - [[fontes/2025-10-24 - Não vai ter Missão]] — tentativa de bloqueio por Glauber Braga; resposta de Renan
 - [[fontes/2025-09-24 - Quer notícia boa]] — parecer favorável do MPE; contexto eleitoral sem Missão
 - [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — primeira pesquisa com 2%; contexto da fundação
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Livro Amarelo; programa resumido
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]] — Livro Amarelo; programa resumido

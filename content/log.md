@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-25] ingest | Resposta para a mulher do Boulos
+- Fonte criada: fontes/2026-06-25 - Resposta para a mulher do Boulos
+- Páginas criadas: pessoas/Guilherme Boulos
+- Páginas atualizadas: posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+- Nota: video_id F2DDPYnlESo. Renan responde à esposa de Boulos; esclarece "passar uma régua" (regularizar favelas existentes, proibir novas invasões, prender membros do MTST) e acusa movimentos de moradia de máfia com fraudes no Minha Casa, Minha Vida.
+
 ## [2026-06-24] ingest | Será que defendem o que nós defendemos na cidade com pior IDH do país
 - Fonte criada: fontes/2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país
 - Páginas atualizadas: posicoes/Desfavelização do Brasil, temas/Desigualdade Regional e Migração Interna, temas/Segurança Pública, index.md, log.md, wiki/.processed_ids

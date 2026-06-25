@@ -37,7 +37,7 @@ Como proposta, Renan defende que festas com dinheiro público devem acabar no se
 ## Temas abordados
 
 - [[temas/Corrupção Municipal]] — esquema de emendas, festas públicas e desvio de recursos
-- [[temas/Desigualdade Regional]] — cidades do Nordeste não autossustentáveis que gastam recursos em festas
+- [[temas/Desigualdade Regional e Migração Interna|Desigualdade Regional]] — cidades do Nordeste não autossustentáveis que gastam recursos em festas
 
 ## Posições defendidas
 

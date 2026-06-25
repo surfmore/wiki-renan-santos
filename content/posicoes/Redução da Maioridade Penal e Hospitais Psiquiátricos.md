@@ -17,7 +17,7 @@ Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que cons
 
 Em **11 de junho de 2026**, a CCJ da Câmara dos Deputados aprovou o projeto de redução da maioridade penal para diversos crimes. Renan celebrou a aprovação como "boa notícia", embora tenha ressaltado que o texto não é tão abrangente quanto ele gostaria — classificando-o como "um início".
 
-Renan criticou [[pessoas/Tabata Amaral]] como a principal voz contra o projeto entre os deputados que se apresentam como moderados, apontando que ela votou com PT, PSOL e PCdoB. Também mencionou [[pessoas/Túlio Gadelha]] entre os opositores.
+Renan criticou [[pessoas/Tabata Amaral]] como a principal voz contra o projeto entre os deputados que se apresentam como moderados, apontando que ela votou com PT, PSOL e PCdoB. Também mencionou **Túlio Gadelha** entre os opositores.
 
 > "Jovem delinquente pagar pelos seus crimes devia ser o básico."
 

@@ -37,7 +37,7 @@ Encerra pedindo que o vídeo seja compartilhado, afirmando que querem calá-lo, 
 ## Pessoas mencionadas
 
 - [[pessoas/Lula]] — Mencionado como alguém que "topa" o barulho feito pelo PSOL e o Brasil não se desenvolve
-- [[pessoas/PSOL]] (partido) — Acusado de articular grupos indígenas e ONGs para travar o desenvolvimento
+- **PSOL** (partido) — Acusado de articular grupos indígenas e ONGs para travar o desenvolvimento
 
 ## URL do YouTube
 

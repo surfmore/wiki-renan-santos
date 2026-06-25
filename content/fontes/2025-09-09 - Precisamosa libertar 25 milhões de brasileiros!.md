@@ -28,7 +28,7 @@ Renan promete que a primeira ocupação de seu governo demonstrará esse foco: l
 
 - [[temas/Segurança Pública]] — guerra ao crime organizado, integração nacional das forças de segurança
 - [[temas/Imigração e Fronteiras]] — fronteira do Paraná com Paraguai como rota de entrada de drogas
-- [[posicoes/Estado de Defesa]] — ocupação de territórios, mudança paradigmática no direito penal
+- [[posicoes/Estado de Defesa e Direito Penal do Inimigo|Estado de Defesa]] — ocupação de territórios, mudança paradigmática no direito penal
 
 ## Posições defendidas
 

@@ -24,7 +24,7 @@ Renan conclui afirmando que pretende construir "mais presídios do que escolas" 
 ## Temas abordados
 
 - [[temas/Segurança Pública]] — proposta de presídio gigante e estado de defesa
-- [[temas/Crime Organizado]] — Comando Vermelho no Ceará
+- [[temas/Segurança Pública|Crime Organizado]] — Comando Vermelho no Ceará
 
 ## Posições defendidas
 

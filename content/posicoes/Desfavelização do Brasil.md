@@ -5,8 +5,9 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-06-24
+date: 2026-06-25
 fontes:
+  - "2026-06-25 - Resposta para a mulher do Boulos"
   - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
@@ -15,6 +16,25 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Resposta a Boulos e MTST: desfavelização não é agressão (junho de 2026)
+
+Em **25 de junho de 2026**, Renan responde à esposa de **Guilherme Boulos** (líder do MTST e pré-candidato do PSOL), que organizou um protesto contra ele. Ela distorceu a frase "passar uma régua nas favelas" como ameaça física aos moradores.
+
+Renan esclarece que "passar uma régua" significa:
+
+1. **Regularizar** todas as favelas pré-existentes
+2. **Proibir** novas invasões — especialmente as organizadas pelo MTST
+3. **Prender** membros do MTST envolvidos em invasões
+4. Implementar o **plano nacional de desfavelização**
+
+Renan acusa a esposa de Boulos de usar apartamentos do **Minha Casa, Minha Vida** para "barganhas malandras": comprar e doar ao movimento, configurando fraude. Ele afirma que os movimentos de moradia invadem terrenos, recebem apartamentos públicos e em muitos casos os **vendem** — prática que classifica como crime.
+
+> "Com o nosso programa funcionando, ou teu marido perde emprego ou vocês vão em cana."
+
+A fala reitera a posição de Renan de que a desfavelização exige a **criminalização dos movimentos de moradia que organizam invasões**, já registrada na resposta ao Intercept (outubro de 2025) e no Marco Nacional da Desfavelização (março de 2026). Renan diz ainda que fica feliz que mais pessoas estão debatendo seu programa.
+
+Ver [[fontes/2026-06-25 - Resposta para a mulher do Boulos]].
 
 ## Melgaço: moradora endossa desfavelização e pede moradia digna (junho de 2026)
 
@@ -202,6 +222,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-06-25 - Resposta para a mulher do Boulos]] — Renan responde à esposa de Boulos (MTST); esclarece "passar uma régua" e acusa movimentos de moradia de máfia com fraudes no Minha Casa, Minha Vida
 - [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Jurunas (Belém); R$ 4 bi da COP vs. R$ 3 bi para saneamento; prefeitura age só quando exposta; Comando Vermelho controlando a área
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); palafita sem saneamento; defesa de evacuação de áreas de palafita; lei de responsabilidade gerencial
 - [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — crítica à "migalha" internacional; caricatura do Brasil como favela; bolsas de estudo como alternativa

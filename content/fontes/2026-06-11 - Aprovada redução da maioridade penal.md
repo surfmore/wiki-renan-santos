@@ -20,7 +20,7 @@ tags:
 
 Renan Santos anuncia a aprovação, na CCJ da Câmara dos Deputados, do projeto que reduz a maioridade penal para diversos crimes. Ele classifica a medida como uma "boa notícia", embora ressalte que o texto não é tão abrangente quanto ele gostaria — chamando-o de "um início".
 
-Renan critica os partidos e políticos que votaram contra a proposta: PSOL, PCdoB, PT e o deputado [[pessoas/Túlio Gadelha]]. Mas seu alvo principal é [[pessoas/Tabata Amaral]], que ele acusa de enganar o eleitorado ao se apresentar como moderada mas votar consistentemente com a esquerda.
+Renan critica os partidos e políticos que votaram contra a proposta: PSOL, PCdoB, PT e o deputado **Túlio Gadelha**. Mas seu alvo principal é [[pessoas/Tabata Amaral]], que ele acusa de enganar o eleitorado ao se apresentar como moderada mas votar consistentemente com a esquerda.
 
 > "Toda vez que um menor assalta você, toda vez que você vê casos absurdos, violência sexual contra menas tocada por menor de idade — lembre-se da Tabata Amaral."
 
@@ -42,7 +42,7 @@ Renan menciona que a aprovação ocorreu na CCJ da Câmara dos Deputados e expre
 ## Pessoas mencionadas
 
 - [[pessoas/Tabata Amaral]] — principal alvo da crítica; votou contra o projeto na CCJ
-- [[pessoas/Túlio Gadelha]] — citado entre os que votaram contra (mencionado de passagem)
+- **Túlio Gadelha** — citado entre os que votaram contra (mencionado de passagem)
 
 ## Posições defendidas
 

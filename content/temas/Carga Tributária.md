@@ -82,7 +82,7 @@ Sua crítica: a taxa não gerou o desenvolvimento industrial prometido, apenas e
 
 > "Vai derrubar todas essas taxas merda e [dane-se] a Magalu."
 
-Ver [[fontes/2025-09-08 - Que se Dane a MAGALU!]].
+Ver [[fontes/2025-09-08 - Que se D4ne a MAGALU!]].
 
 ## Taxação de CPU e GPU: sabotagem à IA
 

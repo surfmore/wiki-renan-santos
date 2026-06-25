@@ -26,7 +26,7 @@ Renan explica sua proposta de declarar guerra às facções criminosas, invadir 
 
 - [[temas/Segurança Pública]] — declaração de guerra às facções, invasão de territórios ocupados pelo tráfico
 - [[posicoes/Desfavelização do Brasil]] — reocupar território e desfavelizar
-- [[posicoes/Estado de Defesa]] — declaração de guerra ao crime organizado
+- [[posicoes/Estado de Defesa e Direito Penal do Inimigo|Estado de Defesa]] — declaração de guerra ao crime organizado
 
 ## URL do YouTube
 

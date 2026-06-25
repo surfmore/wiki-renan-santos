@@ -43,7 +43,7 @@ Ver [[fontes/2026-06-23 - O que é o mundo por trás da propaganda do PT]].
 
 Em **6 de setembro de 2025**, Renan faz um desabafo contra a política do PT para o Nordeste: em vez de tornar a região rica, o partido teria optado pelo "assistencialismo mais barato" — distribuição de botijões, auxílios e Bolsa Família — para manter dependência eleitoral. Ele argumenta que o PT nunca tratou de resolver os problemas estruturais das desigualdades regionais, preferindo manter o eleitor dependente de programas assistenciais.
 
-Ver [[fontes/2025-09-06 - Cuida de mim, painho!!!!]].
+Ver [[fontes/2025-09-06 - Cuida de mim, painho!]].
 
 ## Industrialização do Nordeste como objetivo do Missão (setembro de 2025)
 

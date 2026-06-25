@@ -36,7 +36,7 @@ Renan ironiza que Eduardo "perdeu a linha" e recomenda que ele "frite um hambúr
 
 ## Posições defendidas
 
-- [[posicoes/Não-fuga da justiça]] — Renan afirma que vai responder no Brasil se for perseguido, ao contrário de Eduardo Bolsonaro que foge nos EUA
+- **Não-fuga da justiça** — Renan afirma que vai responder no Brasil se for perseguido, ao contrário de Eduardo Bolsonaro que foge nos EUA
 
 ## Pessoas mencionadas
 

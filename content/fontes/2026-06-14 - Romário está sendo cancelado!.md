@@ -39,7 +39,7 @@ Renan defende um país onde homens e mulheres possam opinar livremente, sem medo
 ## Temas abordados
 
 - [[temas/Pautas Identitárias e de Gênero]] — Lei da Misoginia, feminismo e censura
-- [[temas/Liberdade de Expressão]] — Direito de opinar sem medo de cancelamento
+- [[temas/Mídia e Imprensa|Liberdade de Expressão]] — Direito de opinar sem medo de cancelamento
 
 ## Pessoas mencionadas
 
