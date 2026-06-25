@@ -1,5 +1,26 @@
 # Log de operações
 
+## [2026-06-25] lint | Correções pós-lint
+- Páginas criadas: pessoas/Deolane Bezerra (já existia nas fontes mas sem página própria)
+- Broken links corrigidos:
+  - `[[pessoas/PSOL]]` → texto simples em fontes/2026-06-22 - Resposta aos índios do PSOL
+  - `[[pessoas/Elmano de Freitas]]` → texto simples em fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time
+  - `[[pessoas/Túlio Gadelha]]` → texto simples em fontes/2026-06-11 - Aprovada redução da maioridade penal e posicoes/Redução da Maioridade Penal
+  - `[[posicoes/Não-fuga da justiça]]` → texto simples em fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro
+  - `[[posicoes/Estado de Defesa]]` → [[posicoes/Estado de Defesa e Direito Penal do Inimigo|Estado de Defesa]] (2 fontes)
+  - `[[temas/Empobrecimento-e-Mercado-de-Trabalho]]` → [[temas/Empobrecimento e Mercado de Trabalho]]
+  - `[[temas/Liberdade de Expressão]]` → [[temas/Mídia e Imprensa|Liberdade de Expressão]]
+  - `[[temas/Crime Organizado]]` → [[temas/Segurança Pública|Crime Organizado]]
+  - `[[temas/Desigualdade Regional]]` (curto) → [[temas/Desigualdade Regional e Migração Interna|Desigualdade Regional]] (2 fontes)
+  - `[[temas/Corrupção]]` (curto) → [[temas/Corrupção Municipal|Corrupção]]
+  - `[[fontes/2025-09-06 - Cuida de mim, painho!!!!]]` → painho! (index.md e temas/Desigualdade Regional)
+- Links de fonte corrigidos:
+  - `(suJJjWFu_44)` → `[suJJjWFu_44]` em pessoas/Renan Santos.md e temas/Partido Missão.md
+  - `Dane` → `D4ne` em temas/Carga Tributária.md
+- 6 fontes duplicadas deletadas (mesmo video_id, nomes diferentes)
+- 5 cards de pessoas adicionados ao index (Haddad, Lewandowski, Campos Neto, Alessandro Vieira, Janja)
+- Nota: pessoas/Guilherme Boulos criada no ingest anterior
+
 ## [2026-06-25] ingest | Resposta para a mulher do Boulos
 - Fonte criada: fontes/2026-06-25 - Resposta para a mulher do Boulos
 - Páginas criadas: pessoas/Guilherme Boulos

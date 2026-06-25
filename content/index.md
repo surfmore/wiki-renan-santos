@@ -98,7 +98,7 @@ date: 2026-06-25
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">669</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">663</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">49</span><span class="label">Pessoas</span></a>
