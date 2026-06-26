@@ -1,5 +1,9 @@
 # Log de operações
 
+## [2026-06-26] ingest | Verificação automática de shorts pendentes
+- Resultado: nenhum short pendente — todos os 662 shorts já foram ingeridos em execuções anteriores
+- Nenhuma página criada ou modificada
+
 ## [2026-06-26] ingest | A Cazé TV vai acabar!
 - Fonte criada: fontes/2026-06-26 - A Cazé TV vai acabar!
 - Páginas criadas: nenhuma
