@@ -5,7 +5,19 @@ tags:
   - economia
   - emprego
   - custo-de-vida
-date: 2026-06-01
+date: 2026-06-26
+---
+
+## O desabafo do trabalhador que "não sai do lugar" (junho de 2026)
+
+Em **26 de junho de 2026**, Renan comenta um vídeo viral de um trabalhador brasileiro que desabafa: "trampa, trampa e não sai do lugar." O homem relata que trabalha duro, não tem vergonha de serviço, mas não consegue progredir — o dinheiro "vai embora rápido," carne virou luxo e ele não tem esperança de que o amanhã seja melhor.
+
+Renan usa o depoimento como diagnóstico do empobrecimento real da população trabalhadora sob o sistema atual. Ele aponta que o dinheiro roubado dessas pessoas — via juros, impostos e custo Brasil — é mandado para Brasília, onde financia supersalários de juízes (R$ 100 a R$ 400 mil por mês), festas de empresários como Vorcaro e assistencialismo eleitoreiro. Para Renan, o desabafo representa o "primeiro sinal de uma revolta" que está surgindo "de baixo para cima."
+
+> "Isso aqui é um país que as pessoas podem desistir dele ou podem tocar uma revolução. Nós não podemos desistir do Brasil porque o Brasil é um país de pessoas como ele."
+
+Ver [[fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena]].
+
 ---
 
 ## Dólar, juros, bolsa e inflação: "todos os números apontam para o colapso" (junho de 2026)

@@ -8,6 +8,16 @@ date: 2026-06-25
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
+## Imposto sobre consumo como imposto sobre o pobre (junho de 2026)
+
+Em **26 de junho de 2026**, ao comentar um desabafo viral de um trabalhador brasileiro que não consegue progredir financeiramente, Renan faz uma análise de como o sistema tributário brasileiro penaliza desproporcionalmente os mais pobres. Ele explica que, como o trabalhador de baixa renda não consegue poupar — gasta quase tudo com consumo — e a tributação brasileira incide fortemente sobre o consumo, o pobre acaba pagando proporcionalmente mais impostos do que o rico.
+
+> "Quando o trabalhador é mais pobre, os impostos incidem mais sobre ele, porque a renda dele não é grande, ele não consegue poupar, gasta tudo com consumo e a tributação é muito forte sobre consumo."
+
+Renan descreve o Brasil como um "sistema de extração de trabalho" em que o dinheiro produzido por quem trabalha é drenado para Brasília por meio de impostos, juros e custo Brasil, financiando o que ele chama de "farra dos ministros do STF, dos partidos políticos, da gastança inútil, do autofuncionalismo e do assistencialismo do Bolsa Família".
+
+Ver [[fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena]].
+
 ## Comparação com o Paraguai: carga tributária como vantagem competitiva (junho de 2026)
 
 Em **25 de junho de 2026**, na série "Países na Copa", Renan compara a carga tributária do Brasil (33% do PIB) com a do Paraguai (14% do PIB). Ele destaca que um pneu no Paraguai chega a ser cinco vezes mais barato que no Brasil — o imposto de importação sobre pneus no Brasil é de 25%. As alíquotas máximas paraguaias para circulação de mercadorias, renda e impostos sobre empresas não passam de 10%.

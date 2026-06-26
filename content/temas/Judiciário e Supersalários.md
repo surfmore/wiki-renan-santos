@@ -14,6 +14,18 @@ fontes:
 
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
 
+## Juízes ganhando R$ 100 a 400 mil: a farra dos supersalários (junho de 2026)
+
+Em **26 de junho de 2026**, ao comentar o desabafo de um trabalhador que relata não conseguir comprar carne — que "virou luxo" — Renan contrasta a realidade do trabalhador com a dos magistrados brasileiros. Ele afirma que juízes ganham entre R$ 100 mil e R$ 400 mil por mês, enquanto o trabalhador que produz não tem dinheiro para o básico.
+
+> "É juiz ganhando R$ 100, 200, 300, R$ 400.000 por mês. É promotor na mesma coisa, mesmo esquema."
+
+Para Renan, esses supersalários são financiados pelo sistema de extração de trabalho que drena recursos dos que produzem para sustentar o que ele chama de "farra do autofuncionalismo". O judiciário brasileiro é apresentado como um dos principais destinos do dinheiro arrecadado via impostos sobre consumo — que pesam desproporcionalmente sobre os mais pobres.
+
+Ver [[fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena]].
+
+---
+
 ## Justiça do Maranhão: censura a denunciante de corrupção (junho de 2026)
 
 Em **13 de junho de 2026**, Renan anuncia que foi **censurado pela justiça do Maranhão** após ser processado por uma influenciadora de Arari (MA) que faz vídeos pornográficos com o ex-prefeito corrupto Rui Filho. A decisão obriga Renan a remover os vídeos sobre o caso e pagar indenização.

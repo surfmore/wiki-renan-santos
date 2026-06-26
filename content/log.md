@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-26] ingest | O desabafo desse cara é do Brasil que vale a pena
+- Fonte criada: fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Carga Tributária, temas/Empobrecimento e Mercado de Trabalho, temas/Judiciário e Supersalários, posicoes/Reforma Fiscal, index.md, log.md, wiki/.processed_ids
+- Nota: video_id NA-qVyHY55o. Renan comenta desabafo viral de trabalhador; crítica ao sistema tributário regressivo, supersalários de juízes (R$ 100-400 mil) e assistencialismo; contrasta a realidade do trabalhador com a "farra" do funcionalismo.
+
 ## [2026-06-26] ingest | O Valverde é melhor que o Paquetá
 - Fonte criada: fontes/2026-06-26 - O Valverde é melhor que o Paquetá
 - Páginas criadas: nenhuma

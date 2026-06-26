@@ -8,6 +8,16 @@ date: 2026-06-26
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
 
+## Sistema tributário regressivo: imposto sobre consumo penaliza o pobre (junho de 2026)
+
+Em **26 de junho de 2026**, ao comentar o desabafo viral de um trabalhador brasileiro, Renan aponta que o sistema tributário brasileiro é regressivo — penaliza desproporcionalmente os mais pobres. Como o trabalhador de baixa renda não consegue poupar e gasta quase tudo com consumo, a alta tributação sobre bens e serviços faz com que ele pague proporcionalmente mais impostos do que o rico, que pode investir e poupar.
+
+> "Quando o trabalhador é mais pobre, os impostos incidem mais sobre ele, porque a renda dele não é grande, ele não consegue poupar, gasta tudo com consumo e a tributação é muito forte sobre consumo."
+
+Renan argumenta que o Brasil é um "sistema de extração de trabalho" onde o dinheiro de quem produz é drenado para sustentar supersalários do judiciário, gastança pública e assistencialismo. Sua [[posicoes/Reforma Fiscal|proposta de reforma]] busca reverter essa lógica — cortando gastos públicos e reduzindo a carga sobre o consumo e o trabalho.
+
+Ver [[fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena]].
+
 ## Caso Uruguai: a LCU como modelo de teto de gastos (junho de 2026)
 
 Em **26 de junho de 2026**, na série "Países da Copa", Renan compara a economia brasileira com a uruguaia e destaca a **LCU (Lei de Contenção de Gastos)** aprovada no Uruguai em 2020. A lei copiava o teto de gastos que o Brasil teve e que foi destruído, segundo ele, por Bolsonaro e Lula.
