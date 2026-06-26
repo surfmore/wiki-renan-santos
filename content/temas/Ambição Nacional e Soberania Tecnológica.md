@@ -5,8 +5,18 @@ tags:
   - tecnologia
   - soberania
   - soft-power
-date: 2026-06-24
+date: 2026-06-25
 ---
+
+## Paraguai: o vizinho que está dando um baile no Brasil (junho de 2026)
+
+Em **25 de junho de 2026**, na série "Países na Copa", Renan compara o Brasil com o Paraguai para mostrar como uma carga tributária baixa (14% do PIB contra 33% do Brasil) e um ambiente mais amigável para empresas estão atraindo investimentos brasileiros para o país vizinho. O Paraguai planeja usar a energia sobressalente de **Itaipu** — uma obra construída pelos brasileiros — para entrar no mercado de **data centers**.
+
+Renan destaca que a lógica paraguaia é usar o Mercosul para acessar o mercado consumidor brasileiro enquanto mantém políticas de competitividade que o Brasil não adota. Empresários, produtores rurais e criadores de startup estão se mudando para o Paraguai.
+
+> "O Paraguai como nação tá dando um baile na gente. Aguarde até eles te contarem o que eles vão fazer com a energia sobressalente de Itaipu."
+
+Ver [[fontes/2026-06-25 - Eu comprei esse pneu no Paraguai!]] e [[temas/Carga Tributária]].
 
 ## Coreia do Sul: o modelo de desenvolvimento que o Brasil deveria copiar (junho de 2026)
 
@@ -334,6 +344,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-06-25 - Eu comprei esse pneu no Paraguai!]] — Comparação Brasil-Paraguai; carga tributária e data centers de Itaipu
 - [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Soft power espanhol como contraste com o Brasil; lição de nation branding e competitividade cultural
 - [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] — BR-163 no Pará em ruínas; Ferrogrão sabotada por ONGs e PSOL; propostas de expulsão e repavimentação
 - [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso à IA mais avançada; proposta de Brasil como país dos data centers; terras raras como moeda de troca

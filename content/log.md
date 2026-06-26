@@ -1,5 +1,17 @@
 # Log de operações
 
+## [2026-06-25] ingest | Você é a favor da caça de Javaporcos
+- Fonte criada: fontes/2026-06-25 - Você é a favor da caça de Javaporcos
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Ambientalismo e Produtores Rurais, index.md, log.md, wiki/.processed_ids
+- Nota: video_id U3xLfIwCDCw. Renan defende o abate do javaporco como política ambiental, econômica e de saúde pública; critica ativismo urbano que defende praga invasora por sentimentalismo; menciona Richard Rasmussen, César Rincon e Firmino Cortadas.
+
+## [2026-06-25] ingest | Eu comprei esse pneu no Paraguai!
+- Fonte criada: fontes/2026-06-25 - Eu comprei esse pneu no Paraguai!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Carga Tributária, temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: video_id 0Tn_6dDC62o. Série "Países na Copa". Renan compara economia brasileira com a paraguaia; carga tributária de 33% vs 14%, data centers usando Itaipu, atração de investimentos brasileiros para o Paraguai.
+
 ## [2026-06-25] lint | Correções pós-lint
 - Páginas criadas: pessoas/Deolane Bezerra (já existia nas fontes mas sem página própria)
 - Broken links corrigidos:

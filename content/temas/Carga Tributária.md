@@ -3,10 +3,20 @@ title: "Carga Tributária"
 tags:
   - tema
   - economia
-date: 2025-09-09
+date: 2026-06-25
 ---
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
+
+## Comparação com o Paraguai: carga tributária como vantagem competitiva (junho de 2026)
+
+Em **25 de junho de 2026**, na série "Países na Copa", Renan compara a carga tributária do Brasil (33% do PIB) com a do Paraguai (14% do PIB). Ele destaca que um pneu no Paraguai chega a ser cinco vezes mais barato que no Brasil — o imposto de importação sobre pneus no Brasil é de 25%. As alíquotas máximas paraguaias para circulação de mercadorias, renda e impostos sobre empresas não passam de 10%.
+
+Renan aponta que essa diferença tributária está atraindo investimentos multimilionários de brasileiros, empresas e até startups para o Paraguai, que também planeja usar a energia de Itaipu para entrar no mercado de data centers — uma obra construída pelos brasileiros. Ele critica: "o produto original vai ser feito no Paraguai."
+
+> "A lógica Paraguai é a seguinte: eles veem o mercado consumidor gigantesco do Brasil como oportunidade, participam do Mercosul, o que garante acesso ao nosso mercado, e tomam as decisões em termos de competitividade que a gente não toma."
+
+Ver [[fontes/2026-06-25 - Eu comprei esse pneu no Paraguai!]].
 
 ## Primeira crítica à "taxa das blusinhas" e ao protecionismo (setembro de 2025)
 

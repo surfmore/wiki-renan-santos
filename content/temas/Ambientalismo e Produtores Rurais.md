@@ -5,13 +5,30 @@ tags:
   - ambientalismo
   - agro
   - amazonia
-date: 2026-06-20
+date: 2026-06-25
 fontes:
+  - "2026-06-25 - Você é a favor da caça de Javaporcos"
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR"
 ---
 
 Renan Santos critica a atuação de órgãos ambientais brasileiros — especialmente o **ICMBio (Instituto Chico Mendes de Conservação da Biodiversidade)** — como instrumentos de uma agenda ideológica que prejudica pequenos produtores rurais, especialmente na região amazônica. O tema aparece como extensão de sua crítica mais ampla ao ambientalismo que, segundo ele, bloqueia o desenvolvimento do Brasil.
+
+## Defesa do abate do javaporco como política ambiental e de manejo de fauna (junho de 2026)
+
+Em **25 de junho de 2026**, Renan se posiciona na polêmica envolvendo **César Rincon** (namorado da cantora Ana Castela), que foi atacado nas redes sociais após postar a caça de 124 javaporcos em uma fazenda. Renan defende o abate do **javaporco** — híbrido de javali com porco doméstico — como política ambiental, econômica e de saúde pública.
+
+Ele explica que o javaporco não é um animal nativo do Brasil, mas uma praga invasora vinda da Argentina e do Uruguai que se espalhou pelo campo brasileiro. O híbrido combina a **força do javali com a capacidade reprodutiva do porco** — "o pior dos dois mundos" — e causa danos multimilionários (já bilionários) a plantações, fauna nativa e biodiversidade.
+
+Renan critica a população urbana que defende a praga por sentimentalismo e ataca caçadores nas redes sociais, citando os casos de **Richard Rasmussen** e **Firmino Cortadas**, que também sofreram ataques por defender o abate controlado.
+
+> "O javaporco não é um animal normal. Ele é um híbrido de um javali com o porco. Nesse sentido, ele tem a força do javali, mas a capacidade reprodutiva do porco."
+
+**Proposta concreta**: "Eu como presidente da República vou instituir a caça ao javaporco como uma **política ambiental**, de segurança aos biomas brasileiros." Ele defende que o governo federal contrate caçadores para eliminar a praga, classificando a questão como ambiental, econômica e de saúde pública.
+
+> "O debate público não pode ficar contaminado com ignorância e burrice, especialmente quando são baseados em sentimentalismo porco em nome de um porco que é uma praga."
+
+Ver [[fontes/2026-06-25 - Você é a favor da caça de Javaporcos]].
 
 ## Exemplo positivo de desenvolvimento sustentável em Marajó (junho de 2026)
 
@@ -57,6 +74,7 @@ Renan conecta a crítica ao ambientalismo com:
 
 ## Fontes
 
+- [[fontes/2026-06-25 - Você é a favor da caça de Javaporcos]] — Defesa do abate do javaporco como política ambiental de manejo de fauna invasora
 - [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]] — Exemplo positivo de ecofazenda sustentável no Marajó
 - [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]] — Denúncia de bloqueio indígena e crítica à FUNAI em Santarém
 - [[fontes/2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR]] — Denúncia contra o ICMBio e 4 propostas de reforma
