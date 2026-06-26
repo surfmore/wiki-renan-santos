@@ -98,10 +98,10 @@ date: 2026-06-26
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">665</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">666</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
-<a class="wiki-stat" href="/pessoas"><span class="num">49</span><span class="label">Pessoas</span></a>
+<a class="wiki-stat" href="/pessoas"><span class="num">50</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
 
@@ -152,6 +152,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/pessoas/Michele-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Michele Bolsonaro</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Esposa de Jair Bolsonaro que atacou Flávio publicamente. Renan suspeita de ambições presidenciais futuras. Aliada de Valdemar, Malafaia e Nikolas.</p></a>
 <a class="wiki-card" href="/pessoas/Deolane-Bezerra"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Deolane Bezerra</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Advogada e influenciadora presa por lavagem de dinheiro para o PCC. Renan a usa como exemplo de normalização do crime nas camadas populares.</p></a>
 <a class="wiki-card" href="/pessoas/Fernando-Haddad"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Fernando Haddad</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Ministro da Fazenda de Lula. Renan o critica por política tributária que onera trabalhadores e microempreendedores enquanto protege grandes lobbies.</p></a>
 <a class="wiki-card" href="/pessoas/Ricardo-Lewandowski"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Ricardo Lewandowski</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Ministro do STF e ex-presidente da Corte. Alvo de críticas de Renan por decisões que considera lenientes com o crime organizado.</p></a>
@@ -163,7 +164,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Juliano-Cazarré"><div class="wiki-card-header"><span class="wiki-card-icon">🎭</span><span class="wiki-card-title">Juliano Cazarré</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ator da Globo de direita. Alvo de censura feminista por seu curso de masculinidade tradicional.</p></a>
 <a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, atacou Renan na Jovem Pan.</p></a>
 <a class="wiki-card" href="/pessoas/Daniel-Vorcaro"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Daniel Vorcaro</span><span class="wiki-card-count">76 fontes</span></div><p class="wiki-card-desc">Banqueiro do Master, preso em jan. 2026. Jatinhos para prostitutas em festas com autoridades, fotos com Ciro Nogueira — Renan o compara a Jeffrey Epstein.</p></a>
-<a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">39 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes; visitas a Vorcaro; chamou Ciro Nogueira de "vice perfeito"; dinheiro sujo para filme da família bancou irmão nos EUA.</p></a>
+<a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">40 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes; visitas a Vorcaro; chamou Ciro Nogueira de "vice perfeito"; dinheiro sujo para filme da família bancou irmão nos EUA.</p></a>
 <a class="wiki-card" href="/pessoas/Romeu-Zema"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Romeu Zema</span><span class="wiki-card-count">22 fontes</span></div><p class="wiki-card-desc">Ultrapassado por Renan nas pesquisas. Pai de Vorcaro doou R$ 1 milhão ao Partido Novo em 2022.</p></a>
 <a class="wiki-card" href="/pessoas/Kim-Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">21 fontes</span></div><p class="wiki-card-desc">Aliado no Partido Missão. Único parlamentar de direita a votar contra a PEC da Blindagem.</p></a>
 <a class="wiki-card" href="/pessoas/Alexandre-de-Moraes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Alexandre de Moraes</span><span class="wiki-card-count">16 fontes</span></div><p class="wiki-card-desc">"Elemento de proteção" do Banco Master. Esposa com contratos milionários ligados ao banco.</p></a>
@@ -173,7 +174,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Érika-Hilton"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️‍🌈</span><span class="wiki-card-title">Érika Hilton</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Relatório que isenta ONGs LGBT de energia elétrica financiado pelo CDE; usou a AGU para processar jornalista; votou contra aumento de penas para crimes hediondos.</p></a>
 <a class="wiki-card" href="/pessoas/Joesley-Batista"><div class="wiki-card-header"><span class="wiki-card-icon">🥩</span><span class="wiki-card-title">Joesley Batista</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Empresário da JBS. Maior beneficiado de leilão de termoelétricas de R$ 1 tri; R$ 40M a Ciro Nogueira.</p></a>
 <a class="wiki-card" href="/pessoas/Carlos-Brandão"><div class="wiki-card-header"><span class="wiki-card-icon">🏗️</span><span class="wiki-card-title">Carlos Brandão</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Governador do MA. Omissão em estradas, ponte de Estreito desabada e competição com Braide após denúncias.</p></a>
-<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 49 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
+<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 50 pessoas →</span></div><p class="wiki-card-desc">Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📰 Eventos</p>
@@ -190,6 +191,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-26 - Michele vs Flávio Bolsonaro]] — Renan comenta o racha público entre Michele e Flávio Bolsonaro após ataque em vídeo; Flávio é humilhado e Renan dá a vitória a Michele
 - [[fontes/2026-06-25 - Você é a favor da caça de Javaporcos]] — Renan defende o abate do javaporco como política ambiental e de manejo de fauna invasora; crítica ao ativismo urbano
 - [[fontes/2026-06-25 - Eu comprei esse pneu no Paraguai!]] — Série Países na Copa: comparação da economia brasileira com a paraguaia; carga tributária, competitividade e data centers
 - [[fontes/2026-06-25 - Resposta para a mulher do Boulos]] — Renan responde à esposa de Boulos (MTST/PSOL); esclarece "passar uma régua" e acusa movimentos de moradia de máfia com fraudes no Minha Casa, Minha Vida

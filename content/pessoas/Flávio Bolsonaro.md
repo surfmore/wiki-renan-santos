@@ -11,6 +11,12 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Humilhação pública por Michele Bolsonaro (junho de 2026)
+
+Em **26 de junho de 2026**, [[pessoas/Michele Bolsonaro]] gravou um vídeo atacando Flávio publicamente, chamando-o de "falso". Renan comenta que concorda com parte das críticas dela — Flávio é um "líder inábil" — e observa que a situação expõe o racha total na família Bolsonaro. Renan critica a resposta de Flávio: em vez de rebater as acusações, publicou vídeos como o em que voa de avião a jato para resgatar [[pessoas/Neymar]]. Renan ironiza que Flávio "não consegue fazer campanha para nada" e que, quando precisa falar, imita Renan (bordão "prendeu, matou"). Conclui que "um líder de verdade jamais se submeteria a uma humilhação pública dessas" e que Flávio "não consegue fazer nenhuma dessas tarefas" de resolver o próprio núcleo familiar, partido e bloco político.
+
+Ver [[fontes/2026-06-26 - Michele vs Flávio Bolsonaro]].
+
 ## Vídeo com IA sobre o CV e as conexões reais de Flávio com o crime organizado (junho de 2026)
 
 Em **19 de junho de 2026**, Renan desmonta o vídeo recente de Flávio Bolsonaro, gerado por inteligência artificial, em que aparece prometendo "explodir o Comando Vermelho com mísseis". Renan afirma que a peça é artificial porque a história real de Flávio com o crime organizado é bem diferente.

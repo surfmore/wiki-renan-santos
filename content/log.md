@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-26] ingest | Michele vs Flávio Bolsonaro
+- Fonte criada: fontes/2026-06-26 - Michele vs Flávio Bolsonaro
+- Páginas criadas: pessoas/Michele Bolsonaro
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: video_id _LyHRSGwCjg. Michele ataca Flávio em vídeo público; Renan concorda com críticas, questiona ambições presidenciais dela; racha expõe incapacidade de gestão da família Bolsonaro.
+
 ## [2026-06-25] ingest | Você é a favor da caça de Javaporcos
 - Fonte criada: fontes/2026-06-25 - Você é a favor da caça de Javaporcos
 - Páginas criadas: nenhuma
