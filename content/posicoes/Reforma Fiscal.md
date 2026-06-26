@@ -3,10 +3,29 @@ title: "Reforma Fiscal"
 tags:
   - posição
   - economia
-date: 2026-06-04
+date: 2026-06-26
 ---
 
-Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras.
+Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
+
+## Caso Uruguai: a LCU como modelo de teto de gastos (junho de 2026)
+
+Em **26 de junho de 2026**, na série "Países da Copa", Renan compara a economia brasileira com a uruguaia e destaca a **LCU (Lei de Contenção de Gastos)** aprovada no Uruguai em 2020. A lei copiava o teto de gastos que o Brasil teve e que foi destruído, segundo ele, por Bolsonaro e Lula.
+
+Características da LCU uruguaia que Renan elogia:
+- **Metas fiscais duras**: teto de crescimento do gasto público e teto de endividamento
+- **Resiliência política**: sobreviveu a governos de esquerda e de direita — um referendo popular para revogá-la foi rejeitado pela população
+- **Resultados**: PIB per capita mais que o dobro do brasileiro; juros de 5% (Brasil: 15%); inflação de 3% ao ano
+
+> "Enquanto no Brasil esquerda e direita destruíram o teto de gastos, lá esquerda e direita se submetem à ciência econômica e à matemática."
+
+Renan usa o caso uruguaio para argumentar que uma regra fiscal crível, blindada contra populismo fiscal, é condição necessária para estabilidade econômica e crescimento sustentável.
+
+Ver [[fontes/2026-06-26 - O Valverde é melhor que o Paquetá]].
+
+---
+
+## Isenção de IPTU e redução de impostos na folha (junho de 2026)
 
 ## Isenção de IPTU e redução de impostos na folha (junho de 2026)
 
@@ -66,6 +85,7 @@ Ver [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]].
 
 ## Fontes
 
+- [[fontes/2026-06-26 - O Valverde é melhor que o Paquetá]] — caso Uruguai (LCU) como modelo de teto de gastos; comparação de PIB per capita, juros e inflação
 - [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] — debate com Aldo Rebelo; desvinculação de aposentadorias; fim de gatilhos automáticos
 - [[fontes/2026-05-13 - RENAN VISITA A FÁBRICA DA AETHRA - Pouso Alegre - MG]] — sequência corte de gastos/impostos
 - [[fontes/2026-04-13 - MAIS UM RECORDE DO BRASIL]]

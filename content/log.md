@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-26] ingest | O Valverde é melhor que o Paquetá
+- Fonte criada: fontes/2026-06-26 - O Valverde é melhor que o Paquetá
+- Páginas criadas: nenhuma
+- Páginas atualizadas: posicoes/Reforma Fiscal, index.md, log.md, wiki/.processed_ids
+- Nota: video_id vNRnMJ-VLpg. Série "Países da Copa". Renan compara Brasil e Uruguai; destaca a LCU uruguaia como modelo de teto de gastos que sobreviveu a governos de esquerda e direita; Uruguai tem PIB per capita 2x maior, juros de 5% vs 15%, inflação de 3% vs 30%+ na Argentina.
+
 ## [2026-06-26] ingest | Michele vs Flávio Bolsonaro
 - Fonte criada: fontes/2026-06-26 - Michele vs Flávio Bolsonaro
 - Páginas criadas: pessoas/Michele Bolsonaro
