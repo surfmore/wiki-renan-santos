@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-26] ingest | A Cazé TV vai acabar!
+- Fonte criada: fontes/2026-06-26 - A Cazé TV vai acabar!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: posicoes/Proibição de Bets e Cassinos Online, pessoas/Tabata Amaral, pessoas/Érika Hilton, index.md, log.md, wiki/.processed_ids
+- Nota: video_id lRSXdxqPe8w. Controvérsia sobre Cazé TV e bets; seletividade de Tabata Amaral e Érika Hilton; 5 milhões de famílias do Bolsa Família apostam em bets; proposta de restrição por renda e impostos altos.
+
 ## [2026-06-26] ingest | O desabafo desse cara é do Brasil que vale a pena
 - Fonte criada: fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena
 - Páginas criadas: nenhuma

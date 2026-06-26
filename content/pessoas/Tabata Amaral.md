@@ -4,8 +4,9 @@ tags:
   - pessoa
   - política
   - oposição
-date: 2026-05-08
+date: 2026-06-26
 fontes:
+  - "2026-06-26 - A Cazé TV vai acabar!"
   - "2026-06-11 - Aprovada redução da maioridade penal"
   - "2026-05-08 - Tabata Amaral é solidária com o Recife"
   - "2025-10-08 - Resposta para a Tabata Amaral"
@@ -14,6 +15,17 @@ fontes:
 Deputada federal, fundadora do **Partido Solidariedade** (ex-PSB), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Hipocrisia sobre bets e Cazé TV (junho de 2026)
+
+Em **26 de junho de 2026**, Renan acusa Tabata Amaral de **duplo padrão** em relação às bets. Ela atacou publicamente a Cazé TV por seu modelo de financiamento baseado em casas de apostas online. No entanto:
+
+1. O **São João do Recife** — cidade administrada por seu marido, o prefeito [[pessoas/João Campos]] — foi bancado por uma bet.
+2. Tabata havia atacado a **mesma bet** quando ela patrocinou eventos em São Paulo, mas **apagou a postagem** ao perceber que o patrocinador do São João do Recife era o mesmo.
+
+Renan usa o episódio para ilustrar o padrão que atribui a Tabata: "ela ataca a irregularidade quando ela não está com ela; e faz vista grossa quando está com ela."
+
+Ver [[fontes/2026-06-26 - A Cazé TV vai acabar!]]
 
 ## Voto contra redução da maioridade penal na CCJ (junho de 2026)
 
@@ -45,5 +57,8 @@ Durante as enchentes graves que atingiram a região metropolitana do Recife em m
 
 ## Fontes
 
+## Fontes
+
+- [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — hipocrisia sobre bets: ataca Cazé TV mas São João do Recife foi bancado por bet
 - [[fontes/2026-05-08 - Tabata Amaral é solidária com o Recife]] — solidariedade performática nas enchentes de Recife
 - [[fontes/2025-10-08 - Resposta para a Tabata Amaral]] — puxadinhos, burocracia, duplo padrão, licenciamento ambiental

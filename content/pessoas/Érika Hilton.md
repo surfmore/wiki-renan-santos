@@ -5,12 +5,22 @@ tags:
   - político
   - esquerda
   - psol
-date: 2026-06-12
+date: 2026-06-26
 ---
 
 Deputada federal pelo PSOL (SP), figura usada por Renan Santos recorrentemente como exemplo da "esquerda identitária" que, na sua leitura, prejudica as mulheres reais ao priorizar pautas simbólicas sobre segurança física e punição efetiva de crimes.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Ataque seletivo à Cazé TV (junho de 2026)
+
+Em **26 de junho de 2026**, Renan critica Érika Hilton por atacar a Cazé TV — plataforma de streaming esportivo — por seu financiamento via bets, mas não comentar todas as **outras emissoras brasileiras que também usam bet**. Para Renan, a crítica seletiva revela que o ataque é na verdade um "bloqueio a um novo entrante no mercado de mídia brasileiro."
+
+> "Se os outros podem, por que a Cazé não pode?"
+
+Renan conecta a seletividade ao padrão mais amplo de hipocrisia que atribui à esquerda: leis e regras são aplicadas rigorosamente contra adversários, mas ignoradas quando beneficiam aliados.
+
+Ver [[fontes/2026-06-26 - A Cazé TV vai acabar!]] e [[posicoes/Proibição de Bets e Cassinos Online]].
 
 ## Relatório de isenção de energia para ONGs LGBT (junho de 2026)
 
@@ -77,6 +87,7 @@ Ver [[pessoas/Oruam]].
 
 ## Fontes
 
+- [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — ataque seletivo à Cazé TV; não crítica outras emissoras que também usam bets
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — relatório de isenção de energia para ONGs LGBT financiado pelo CDE
 - [[fontes/2026-04-19 - Erika Hilton x Madeleine Lackso]]
 - [[fontes/2026-05-04 - O que Erika Hilton tem a ver com o estvpro coletivo]]
