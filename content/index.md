@@ -98,7 +98,7 @@ date: 2026-06-27
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">670</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">671</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">50</span><span class="label">Pessoas</span></a>
@@ -191,6 +191,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-27 - Virei persona non grata em Belém!]] — Renan reage à moção de repúdio da Câmara de Vereadores de Belém que o declarou persona non grata; exibe imagens da favela do Jurunas com urubus; critica a gestão da Família Barbalho; desafia outras câmaras a fazerem o mesmo
 - [[fontes/2026-06-27 - Oruam reapareceu!]] — Vítor Antu (pré-candidato a deputado federal pelo Missão/RJ) comenta reaparecimento de Oruam; compara Rio com Dubai; afirma que Renan defende intervenção federal no RJ
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — Controvérsia sobre a Cazé TV; Renan aponta seletividade de Tabata Amaral e Érika Hilton contra a Cazé TV; 5 milhões de famílias do Bolsa Família apostam em bets; propõe fim ou restrição severa das bets
 - [[fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena]] — Renan comenta desabafo viral de trabalhador que não consegue progredir; crítica ao sistema tributário que penaliza os pobres, supersalários do judiciário e assistencialismo

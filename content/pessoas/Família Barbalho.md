@@ -5,8 +5,9 @@ tags:
   - oligarquia
   - pará
   - nordeste
-date: 2026-06-21
+date: 2026-06-27
 fontes:
+  - "2026-06-27 - Virei persona non grata em Belém!"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-20 - Efeito Renan Santos em Belém!"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
@@ -16,6 +17,18 @@ fontes:
 Oligarquia política do Pará que, segundo Renan Santos, domina o estado há mais de um século — desde o período colonial. Renan usa a família como exemplo máximo de como uma dynasty política se perpetua mesmo produzindo indicadores sociais desastrosos.
 
 > Nota: esta página reproduz afirmações de Renan Santos sobre a família. Não constitui verificação independente.
+
+## Persona non grata em Belém: Renan reage à moção da Câmara (junho de 2026)
+
+Em **27 de junho de 2026**, a **Câmara de Vereadores de Belém** aprovou uma moção declarando Renan Santos **persona non grata** na cidade, sob a justificativa de que ele comparou partes de Belém a um "cenário de guerra". A decisão foi articulada por vereadores ligados à base da [[pessoas/Família Barbalho]].
+
+Renan reagiu com deboche e desafio. Ele ironizou os vereadores chamando-os de "urubus que vivem do dinheiro público e de puxar saco de político corrupto" e disse que penduraria a moção emoldurada primeiro no escritório e depois no Palácio do Planalto. Propôs uma "competição": desafiou outras câmaras municipais a também declararem-no persona non grata, prometendo que quanto mais moções de repúdio receber, mais falará dos problemas das cidades.
+
+> "Quanto mais vocês fizerem isso, mais eu vou falar dos problemas dessas cidades. E quando eu for presidente, a vida mansa de vocês vai acabar."
+
+Renan aproveitou para reexibir as condições degradantes da favela do Jurunas e do Mercado Ver-o-Peso, com urubus e lixo, reiterando que a situação é resultado da má gestão da oligarquia Barbalho. Ele reafirmou que "favela não é bom. É pedacinho do inferno, sim" e que a culpa é dos políticos que abandonam a população.
+
+O episódio marca uma escalada no confronto de Renan com o establishment político paraense, que vinha sendo denunciado por ele desde o início de sua viagem ao Pará em junho de 2026. Ver [[fontes/2026-06-27 - Virei persona non grata em Belém!]].
 
 ## Jurunas: Renan denuncia abandono de Belém sob os Barbalhos (junho de 2026)
 

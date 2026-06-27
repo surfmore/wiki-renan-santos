@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-27] ingest | Virei persona non grata em Belém!
+- Fonte criada: fontes/2026-06-27 - Virei persona non grata em Belém!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: pessoas/Família Barbalho, index.md, log.md, wiki/.processed_ids
+- Nota: video_id hGcPShFq_o8. Renan reage à moção de repúdio da Câmara de Vereadores de Belém que o declarou persona non grata por comparar partes da cidade a um cenário de guerra. Ele trata a decisão como motivo de orgulho e desafia outras câmaras a fazerem o mesmo. Exibe imagens da favela do Jurunas e critica a gestão da Família Barbalho.
+
 ## [2026-06-27] ingest | Verificação automática de shorts pendentes
 - Resultado: nenhum short pendente — todos os 663 shorts já foram ingeridos em execuções anteriores
 - Nenhuma página criada ou modificada
