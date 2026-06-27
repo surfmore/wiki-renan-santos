@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-27] ingest | Oruam reapareceu!
+- Fonte criada: fontes/2026-06-27 - Oruam reapareceu!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: posicoes/Intervenção Federal em Estados com Baixo IDH, index.md, log.md, wiki/.processed_ids
+- Nota: video_id kteSy_eAAt4. Vídeo com Vítor Antu (pré-candidato a deputado federal pelo Missão/RJ) como falante principal. Comenta reaparecimento de Oruam, compara Rio com Dubai. Renan mencionado como co-defensor de intervenção federal no RJ. Conteúdo do Vítor Antu não atribuído a Renan — apenas a posição de intervenção federal.
+
 ## [2026-06-26] ingest | Verificação automática de shorts pendentes
 - Resultado: nenhum short pendente — todos os 662 shorts já foram ingeridos em execuções anteriores
 - Nenhuma página criada ou modificada

@@ -98,7 +98,7 @@ date: 2026-06-27
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">669</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">670</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">50</span><span class="label">Pessoas</span></a>
@@ -139,7 +139,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Desfavelização-do-Brasil"><div class="wiki-card-header"><span class="wiki-card-icon">🏘️</span><span class="wiki-card-title">Desfavelização do Brasil</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">R$ 900 bilhões em 10 anos, tolerância zero a invasões, escolas cívico-militares, visita a Jurunas (Belém) e crítica à caricatura internacional.</p></a>
 <a class="wiki-card" href="/posicoes/Fusão-de-Municípios"><div class="wiki-card-header"><span class="wiki-card-icon">🏙️</span><span class="wiki-card-title">Fusão de Municípios</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Unir municípios muito pequenos em macromunicípios com metas de desempenho.</p></a>
 <a class="wiki-card" href="/posicoes/Emendas-Parlamentares-Condicionadas-a-Metas"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Emendas com Metas</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Vincular repasse de emendas a indicadores. Inelegibilidade de 8 anos para prefeitos que gastarem em festas.</p></a>
-<a class="wiki-card" href="/posicoes/Intervenção-Federal-em-Estados-com-Baixo-IDH"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️</span><span class="wiki-card-title">Intervenção em Estados com Baixo IDH</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Enviar interventores a municípios com IDH cronicamente baixo e reduzir transferências federais como incentivo.</p></a>
+<a class="wiki-card" href="/posicoes/Intervenção-Federal-em-Estados-com-Baixo-IDH"><div class="wiki-card-header"><span class="wiki-card-icon">🏳️</span><span class="wiki-card-title">Intervenção em Estados com Baixo IDH</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Enviar interventores a municípios com IDH cronicamente baixo e reduzir transferências federais como incentivo.</p></a>
 <a class="wiki-card" href="/posicoes/Propostas-para-Educação"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Educação</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Método fônico obrigatório, modelo técnico alemão, voucher escolar, bolsa empreendedor e fim de todas as cotas.</p></a>
 <a class="wiki-card" href="/posicoes/Estado-de-Defesa-e-Direito-Penal-do-Inimigo"><div class="wiki-card-header"><span class="wiki-card-icon">🛡️</span><span class="wiki-card-title">Estado de Defesa</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Estado de defesa em favelas controladas pelo crime; aplicação em MG, RJ, CE e BA com transferência de faccionados para presídios remotos.</p></a>
 <a class="wiki-card" href="/posicoes/Expulsão-de-ONGs-Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Cortar financiamento estrangeiro a ONGs que bloqueiam desenvolvimento e pregam guerra entre brasileiros.</p></a>
@@ -191,6 +191,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-27 - Oruam reapareceu!]] — Vítor Antu (pré-candidato a deputado federal pelo Missão/RJ) comenta reaparecimento de Oruam; compara Rio com Dubai; afirma que Renan defende intervenção federal no RJ
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — Controvérsia sobre a Cazé TV; Renan aponta seletividade de Tabata Amaral e Érika Hilton contra a Cazé TV; 5 milhões de famílias do Bolsa Família apostam em bets; propõe fim ou restrição severa das bets
 - [[fontes/2026-06-26 - O desabafo desse cara é do Brasil que vale a pena]] — Renan comenta desabafo viral de trabalhador que não consegue progredir; crítica ao sistema tributário que penaliza os pobres, supersalários do judiciário e assistencialismo
 - [[fontes/2026-06-26 - O Valverde é melhor que o Paquetá]] — Série Países da Copa: Renan compara a economia brasileira com a uruguaia; destaca a LCU como modelo de teto de gastos que falta no Brasil

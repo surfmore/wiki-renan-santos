@@ -4,12 +4,25 @@ tags:
   - posição
   - regionalismo
   - federalismo
-date: 2026-01-09
+date: 2026-06-27
 fontes:
+  - "2026-06-27 - Oruam reapareceu!"
   - "2026-01-09 - O Maior Carnaval do Brasil"
 ---
 
 Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países africanos e gastam recursos federais em festas e projetos sem impacto real no desenvolvimento da população.
+
+## Rio de Janeiro: proposta de intervenção federal (junho de 2026)
+
+Em **27 de junho de 2026**, em vídeo publicado em seu canal, o pré-candidato a deputado federal **Vítor Antu** (Partido Missão/RJ) afirma que **Renan Santos defende uma intervenção federal no Rio de Janeiro**. A proposta, segundo Vítor Antu, consiste em o governo federal assumir a função administrativa do estado, mobilizando o Exército e a Justiça Federal para "fazer uma faxina nos morros e na política fluminense."
+
+O contexto da proposta é o agravamento da crise de segurança no Rio, com o Comando Vermelho infiltrando a política estadual — exemplificado pelas prisões de Rodrigo Bacelar (ex-presidente da ALERJ) e TH Joias (deputado estadual), ambos presos por associação e vazamento de informações para o CV.
+
+A proposta de intervenção no RJ se conecta à tese mais ampla de Renan de que estados com instituições frágeis e riqueza de recursos naturais sofrem da "maldição dos recursos": a classe política se apodera da receita do petróleo para se perpetuar no poder em vez de desenvolver a economia.
+
+Vítor Antu declara: *"Se nós chegarmos ao poder, nós vamos prender ou matar todos os traficantes e políticos corruptos que colaboraram pra destruição do nosso estado, do Oruan ao Rodrigo Bacelar."*
+
+Ver [[fontes/2026-06-27 - Oruam reapareceu!]].
 
 ## Acre: intervenção como resposta à calamidade (maio de 2026)
 
@@ -98,6 +111,7 @@ Argumento: com 884.000 habitantes, 40% de ocupação da PEA, pior saneamento do 
 
 ## Fontes
 
+- [[fontes/2026-06-27 - Oruam reapareceu!]] — Vítor Antu afirma que Renan defende intervenção federal no Rio de Janeiro
 - [[fontes/2026-05-08 - O Acre deveria ser um Estado]]
 - [[fontes/2025-12-17 - Eu sou a pessoa mais odiada no Acre!]]
 - [[fontes/2026-01-09 - O Maior Carnaval do Brasil]]
