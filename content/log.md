@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-28] ingest | Expulsei o Caze TV
+- Fonte criada: fontes/2026-06-28 - Expulsei o Caze TV
+- Páginas criadas: nenhuma
+- Páginas atualizadas: posicoes/Proibição de Bets e Cassinos Online, temas/Partido Missão, pessoas/Ciro Nogueira, index.md, log.md, wiki/.processed_ids
+- Nota: video_id nPZDUI43w2A. Renan expulsa Gabriel de Almeida (candidato do Missão no RJ) por divulgar bets; reafirma posição contra apostas online e critica hipocrisia regulatória
+
 ## [2026-06-28] ingest | O que o Brasil pode aprender com o México nessa Copa do Mundo
 - Fonte criada: fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo
 - Páginas criadas: nenhuma

@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-06-01
 fontes:
+  - "2026-06-28 - Expulsei o Caze TV"
   - "2026-06-16 - 10% em SP!"
   - "2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento."
   - "2026-06-01 - ATENÇÃO DOBREI na intenção de votos na Real Time Big Data!"
@@ -23,6 +24,16 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Expulsão de Gabriel de Almeida por divulgar bets (junho de 2026)
+
+Em **28 de junho de 2026**, Renan anuncia a expulsão de **Gabriel de Almeida**, candidato do Missão no Rio de Janeiro, por divulgar plataformas de apostas online (bets) para seus seguidores. Renan descreve a atitude como desrespeito aos membros do partido e aos colegas militantes, e afirma que a medida visa mostrar que o partido tem padrões éticos mais elevados. A decisão impede que o candidato participe das eleições pelo partido.
+
+> "O partido missão não é lugar de vendedor de bet. Quer vender bet, vai vender fora daqui."
+
+O episódio também serve para Renan criticar a hipocrisia no tratamento das bets no Brasil: políticos como [[pessoas/Ciro Nogueira]] e veículos tradicionais de imprensa podem promover apostas sem consequências, enquanto candidatos de partidos alternativos são atacados pelo mesmo comportamento.
+
+Ver [[fontes/2026-06-28 - Expulsei o Caze TV]].
 
 ## Origens: o caminho até a fundação do Missão (setembro de 2025)
 
@@ -151,6 +162,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida por bets; padrões éticos do partido
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Cinco eixos do programa reafirmados; slogan "O futuro é glorioso"
 - [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]] — vaquinha; site caiu; meta R$ 650k; 1º em doações; pesquisa -7 pts Lula
 - [[fontes/2026-05-07 - O que diferencia a Missão dos outros partidos]] — Missão como projeto pessoal; critério de fracasso

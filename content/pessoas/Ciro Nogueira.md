@@ -6,6 +6,7 @@ tags:
   - centrão
 date: 2026-05-07
 fontes:
+  - "2026-06-28 - Expulsei o Caze TV"
   - "2026-05-07 - BOM DIA, CIRO NOGUEIRA."
 ---
 
@@ -22,6 +23,14 @@ Um membro do governo Bolsonaro teria recebido **R$ 11 milhões** de Vorcaro, e R
 Renan conclui: "havia festas com ia, festas em tranches computad e toda essa gente estava na folha de pagamento do Daniel Vorcaro."
 
 Ver [[fontes/2026-06-17 - Você está sabendo do novo escândalo do Vorcaro]].
+
+## "O grande lobista do tema" das bets no Congresso (junho de 2026)
+
+Em **28 de junho de 2026**, ao anunciar a expulsão de um candidato do Partido Missão por divulgar bets, Renan se refere a Ciro Nogueira como **"o grande lobista do tema"** das apostas online. Descreve Nogueira como alguém que "anda com o governo federal do PT, andava com o governo federal do Bolsonaro" e "viajava de jatinho com gente de bet e até ali tava tudo bem" — contrastando com o tratamento dado a candidatos de partidos menores que promovem o mesmo tipo de aposta.
+
+O episódio reforça a caracterização de Nogueira como figura central na articulação política do setor de bets, operando nos governos Lula e Bolsonaro.
+
+Ver [[fontes/2026-06-28 - Expulsei o Caze TV]].
 
 ## Jatinho de dono de bet: férias na Europa e Ásia custeadas por bets (junho de 2026)
 
@@ -80,5 +89,6 @@ Renan usa Nogueira para ilustrar sua tese de que PT e bolsonarismo "fazem negóc
 
 ## Fontes
 
+- [[fontes/2026-06-28 - Expulsei o Caze TV]] — Renan chama Nogueira de "grande lobista" das bets; critica tratamento diferenciado
 - [[fontes/2026-05-12 - Você sabe quem é o homem mais poderoso do Brasil]]
 - [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]]

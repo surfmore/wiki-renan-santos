@@ -7,11 +7,24 @@ tags:
   - crime-organizado
 date: 2026-06-26
 fontes:
+  - "2026-06-28 - Expulsei o Caze TV"
   - "2026-06-26 - A Cazé TV vai acabar!"
   - "2026-06-10 - O tigrinho vai me perseguir"
 ---
 
 Renan Santos defende uma posição radicalmente contrária à operação de empresas de apostas online (bets) e cassinos virtuais no Brasil, que ele descreve como um sistema de evasão de divisas e lavagem de dinheiro para facções criminosas.
+
+## Expulsão de candidato do Missão por divulgar bets (junho de 2026)
+
+Em **28 de junho de 2026**, Renan anuncia a expulsão de **Gabriel de Almeida**, candidato do Partido Missão no Rio de Janeiro, por divulgar plataformas de apostas online para seus seguidores. O anúncio é feito com o gancho provocativo de que teria expulsado "Casemiro da Cazé TV".
+
+Renan explica que a medida serve para demonstrar que o Missão tem padrões éticos mais altos que os partidos tradicionais. Ele aponta a hipocrisia no tratamento das bets: enquanto [[pessoas/Ciro Nogueira]] viaja de jatinho de dono de bet sem consequências e veículos tradicionais de imprensa podem divulgar apostas livremente, candidatos de partidos alternativos são perseguidos pelo tema.
+
+> "O partido missão não é lugar de vendedor de bet. Quer vender bet, vai vender fora daqui."
+
+Renan reafirma seu compromisso de passar uma legislação clara em Brasília delimitando o funcionamento de bets e cassinos online, citando especialmente o "jogo do tigrinho". O argumento central é que o Brasil é um país de pessoas pobres que gastam mal seu dinheiro com apostas em vez de investir em educação.
+
+Ver [[fontes/2026-06-28 - Expulsei o Caze TV]].
 
 ## O caso Cazé TV e o princípio da seletividade (junho de 2026)
 
@@ -54,5 +67,6 @@ Renan também alerta que dinheiro de programas sociais (Bolsa Família, BPC) e a
 
 ## Fontes
 
+- [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida do Missão por divulgar bets; reafirmação da posição
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — seletividade na regulação de bets; 5 milhões de famílias do Bolsa Família apostam; proposta de restrição por renda
 - [[fontes/2026-06-10 - O tigrinho vai me perseguir]] — crítica à regulamentação sigilosa de bets por Lula; proposta de revogação e combate
