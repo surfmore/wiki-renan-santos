@@ -1,5 +1,9 @@
 # Log de operações
 
+## [2026-06-28] ingest | Verificação automática de shorts pendentes
+- Resultado: nenhum short pendente — todos os 666 shorts já foram ingeridos em execuções anteriores
+- Nenhuma página criada ou modificada
+
 ## [2026-06-28] ingest | Você conhece a lenda do boto
 - Fonte criada: fontes/2026-06-28 - Você conhece a lenda do boto
 - Páginas criadas: nenhuma
