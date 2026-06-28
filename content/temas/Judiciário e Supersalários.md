@@ -14,6 +14,16 @@ fontes:
 
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
 
+## STF decide manter penduricos após repercussão do desabafo viral (junho de 2026)
+
+Em **27 de junho de 2026**, Renan comenta a decisão do STF de manter os penduricos — supersalários de ministros e magistrados — em meio à repercussão do desabafo viral de um trabalhador que não consegue progredir financeiramente. Ele afirma que ministros do STF ganham não o dobro, mas "cinco, seis, sete, oito vezes mais" que o teto constitucional, através de penduricalhos e verbas indenizatórias.
+
+Renan compara a postura do STF à história de Maria Antonieta: "se não tem pão, que comam brioche". Para ele, a elite do judiciário não está nem ligando para a situação do trabalhador brasileiro. Ele conclui que sua pré-candidatura representa a tentativa de "virar a mesa" contra esse sistema.
+
+> "O Brasil tem que servir aos brasileiros e não servir dos brasileiros."
+
+Ver [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]].
+
 ## Juízes ganhando R$ 100 a 400 mil: a farra dos supersalários (junho de 2026)
 
 Em **26 de junho de 2026**, ao comentar o desabafo de um trabalhador que relata não conseguir comprar carne — que "virou luxo" — Renan contrasta a realidade do trabalhador com a dos magistrados brasileiros. Ele afirma que juízes ganham entre R$ 100 mil e R$ 400 mil por mês, enquanto o trabalhador que produz não tem dinheiro para o básico.
@@ -163,6 +173,7 @@ Em **12 de setembro de 2025**, Renan exibe imagens de uma juíza conversando de 
 
 ## Fontes
 
+- [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — Renan critica decisão do STF de manter penduricos mesmo após desabafo viral de trabalhador
 - [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]] — Renan denuncia gastos do MP-CE com diárias para a Copa do Mundo e supersalários
 - [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes em Lisboa no "Gilmarpalooza"
 - [[fontes/2025-09-10 - Prepare-se para ficar revoltado]]

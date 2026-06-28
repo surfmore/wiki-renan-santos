@@ -9,6 +9,16 @@ date: 2026-04-03
 
 Crítica sistemática ao **Supremo Tribunal Federal** ocupa lugar central na pré-candidatura de Renan Santos. Para ele, o STF deixou de ser um tribunal constitucional e se tornou uma **"quarta instância de deliberação"** que decide politicamente temas que caberiam ao Legislativo, servindo como **"guardião do patrimonialismo brasileiro"** e da "agenda da esquerda".
 
+## STF mantém penduricos após desabafo viral de trabalhador (junho de 2026)
+
+Em **27 de junho de 2026**, o STF decidiu manter os "penduricos" — supersalários de ministros e magistrados que chegam a cinco, seis, sete ou oito vezes o teto constitucional — em resposta indireta ao desabafo viral de um trabalhador que relatou não conseguir progredir financeiramente apesar de trabalhar duro.
+
+Renan critica a decisão como sintoma de um sistema "autoritário que se passa por democracia": quem reclama do STF é tratado como golpista, pode ser preso e perder direitos políticos, enquanto a conta dos privilégios é paga pelo contribuinte. Ele compara a postura do STF à história atribuída a Maria Antonieta — "se não tem pão, que comam brioche".
+
+Renan afirma que sua pré-candidatura representa a tentativa de "virar a mesa contra esse absurdo" e conclui que, se a lógica da elite do judiciário é essa, "os brasileiros vão dar um chute na bunda desses caras".
+
+Ver [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]].
+
 ## A hipocrisia da família Bolsonaro com o STF (junho de 2026)
 
 Em **17 de junho de 2026**, ao responder a um ataque de Eduardo Bolsonaro na Jovem Pan, Renan expõe o que chama de "relações espúrias" da família Bolsonaro com ministros do STF, evidenciando a contradição entre o discurso público de enfrentamento e os acordos nos bastidores:
@@ -312,6 +322,7 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — STF decide manter penduricos mesmo após desabafo viral de trabalhador
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, Gilmar Mendes, Moraes) em resposta a ataque de Eduardo
 - [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]]
 - [[fontes/2026-04-17 - Eduardo Bolsonaro será preso!]]

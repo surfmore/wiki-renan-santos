@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-27] ingest | O STF respondeu o desabafo desse cara
+- Fonte criada: fontes/2026-06-27 - O STF respondeu o desabafo desse cara
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/STF e Ativismo Judicial, temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
+- Nota: video_id zC3t6fDsqik. Renan critica decisão do STF de manter penduricos e supersalários após desabafo viral de trabalhador; compara STF à Maria Antonieta ("que comam brioche").
+
 ## [2026-06-27] ingest | Virei persona non grata em Belém!
 - Fonte criada: fontes/2026-06-27 - Virei persona non grata em Belém!
 - Páginas criadas: nenhuma
