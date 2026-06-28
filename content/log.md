@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-28] ingest | O que o Brasil pode aprender com o México nessa Copa do Mundo
+- Fonte criada: fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Segurança Pública, temas/Política Externa e Geopolítica, pessoas/Nayib Bukele, index.md, log.md, wiki/.processed_ids
+- Nota: video_id At40hQQht80. Série Países na Copa — análise do México como narcoestado; crítica a Calderón e AMLO; comparação com o Brasil e alerta sobre eleger esquerda; Bukele como exemplo positivo
+
 ## [2026-06-28] ingest | Verificação automática de shorts pendentes
 - Resultado: nenhum short pendente — todos os 666 shorts já foram ingeridos em execuções anteriores
 - Nenhuma página criada ou modificada

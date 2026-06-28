@@ -18,6 +18,18 @@ fontes:
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
 
+## México como narcoestado: análise geopolítica da série Países na Copa (junho de 2026)
+
+Em **28 de junho de 2026**, na série "Países na Copa", Renan analisa o México como caso de estudo geopolítico sobre a relação entre vizinhança com os EUA, narcotráfico e falência estatal. O México, segundo ele, tem uma "dádiva e uma maldição": a proximidade com os Estados Unidos, que para o Canadá é positiva mas para o México — uma "sociedade menos desenvolvida" — tornou-se rota de produção e escoamento de drogas.
+
+Renan descreve como o combate iniciado em 2006 por **Felipe Calderón** fracassou por não incluir a reocupação territorial, e como o governo de **Andrés Manuel López Obrador (AMLO)** agravou a situação com políticas de não enfrentamento ao crime. O resultado é um país onde "boa parte do território é ocupado por facções" e que Renan classifica como narcoestado.
+
+A análise geopolítica conecta o caso mexicano ao Brasil: Renan argumenta que a esquerda em todo o continente é aliada do narcotráfico, citando as FARC na Colômbia, Evo Morales na Bolívia e Lula no Brasil. Também critica a direita sem plano, apontando Calderón como exemplo de líder que tinha um ministro na folha de pagamento do crime organizado.
+
+Como contraponto, cita [[pessoas/Nayib Bukele]] e El Salvador como exemplo de país que resolveu o problema do crime organizado com medidas duras e reocupação territorial.
+
+Ver [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]].
+
 ## Haiti como estudo de caso: MINUSTAH, Santos Cruz e o colapso pós-missão (junho de 2026)
 
 Em **20 de junho de 2026**, na série "Países na Copa", Renan analisa o Haiti como caso emblemático de falência estatal e intervenção internacional. Ele descreve a atuação da MINUSTAH (Missão das Nações Unidas no Haiti) como um momento em que o Brasil cumpriu "um bom papel", destacando a liderança do general **Santos Cruz** que "conseguiu colocar ordem naquela bagunça."
@@ -141,6 +153,7 @@ Ver [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] e [[posico
 
 ## Fontes
 
+- [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — análise do México como narcoestado; lição para o Brasil; Bukele como contraponto
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira
 - [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — pressão americana sobre o PIX; Eduardo Bolsonaro defende interesses dos EUA; compromisso de não negociar o PIX
 - [[fontes/2026-05-28 - Vamos fazer o Peru grande]] — ferrovia bioceânica Ilhéus–Shankai; risco de dependência da China; proposta de investimento misto

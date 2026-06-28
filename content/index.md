@@ -98,7 +98,7 @@ date: 2026-06-28
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">673</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">674</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">50</span><span class="label">Pessoas</span></a>
@@ -116,7 +116,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Recursos-Hídricos-e-Saneamento"><div class="wiki-card-header"><span class="wiki-card-icon">💧</span><span class="wiki-card-title">Recursos Hídricos e Saneamento</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Paradoxo do Brasil como potência hídrica: maior aquífero do mundo em Alter do Chão ao lado da maior cidade sem saneamento; Melgaço, Jurunas, palafitas sem água potável.</p></a>
 <a class="wiki-card" href="/temas/Sebastianismo-e-Messianismo-Político"><div class="wiki-card-header"><span class="wiki-card-icon">👑</span><span class="wiki-card-title">Sebastianismo e Messianismo Político</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Análise do mito de Dom Sebastião como chave para entender o messianismo na política brasileira, do coronelismo nordestino a Lula e Bolsonaro.</p></a>
 <a class="wiki-card" href="/temas/Masculinidade-e-Saúde-do-Homem"><div class="wiki-card-header"><span class="wiki-card-icon">💪</span><span class="wiki-card-title">Masculinidade e Saúde do Homem</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Defesa do direito à masculinidade saudável; dados sobre suicídio, evasão escolar e mortalidade masculina.</p></a>
-<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">87 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios, portos e desfavelização como solução estrutural.</p></a>
+<a class="wiki-card" href="/temas/Segurança-Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">88 fontes</span></div><p class="wiki-card-desc">Diagnóstico da violência, modelo El Salvador, estado de defesa, mega-presídios, portos e desfavelização como solução estrutural.</p></a>
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">42 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">35 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
@@ -191,6 +191,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Análise do México como narcoestado; comparação com o Brasil; crítica à esquerda latino-americana; Bukele como contraponto positivo
 - [[fontes/2026-06-28 - Você conhece a lenda do boto]] — Renan usa a lenda do boto como gancho para discutir gravidez na adolescência na região Norte; defende planejamento familiar, igrejas e educação sexual nas escolas
 - [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — Renan critica decisão do STF de manter penduricos supersalários após desabafo viral de trabalhador
 - [[fontes/2026-06-27 - Virei persona non grata em Belém!]] — Renan reage à moção de repúdio da Câmara de Vereadores de Belém que o declarou persona non grata; exibe imagens da favela do Jurunas com urubus; critica a gestão da Família Barbalho; desafia outras câmaras a fazerem o mesmo

@@ -8,6 +8,18 @@ date: 2025-09-09
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## México como narcoestado: o que o Brasil pode aprender (junho de 2026)
+
+Em **28 de junho de 2026**, como parte da série "Países na Copa", Renan analisa o México como um alerta para o Brasil. Ele descreve o país como uma sociedade menos desenvolvida que, pela vizinhança com os Estados Unidos, tornou-se rota de produção e escoamento de drogas — permitindo o crescimento de cartéis gigantescos.
+
+Renan critica tanto a estratégia fracassada de **Felipe Calderón** (focar em lideranças sem reocupar territórios) quanto o governo de **Andrés Manuel López Obrador (AMLO)**, que aplicou uma política de não enfrentamento ao crime — descrita como "basicamente não fazer nada contra o crime". O resultado foi explosão de homicídios, fortalecimento dos cartéis e uma situação que Renan classifica como "quase guerra civil", tornando o México um "narcoestado" onde boa parte do território é ocupado por facções.
+
+Renan afirma que o Brasil seguirá o mesmo destino se continuar elegendo a esquerda — que, segundo ele, em todo o continente é aliada do narcotráfico. Cita como exemplos: as FARC na Colômbia, os plantadores de coca próximos a Evo Morales na Bolívia, e Lula "passeando no Complexo do Alemão". Também critica a direita sem plano, apontando que Calderón teve um ministro na folha de pagamento do crime organizado.
+
+Como contraponto positivo, Renan cita [[pessoas/Nayib Bukele]] em El Salvador — país que não foi à Copa mas "está metendo goleada em todo mundo no combate ao crime".
+
+Ver [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]].
+
 ## Apoio popular ao "prendeu matou" na cidade mais pobre do Brasil (junho de 2026)
 
 Em **24 de junho de 2026**, Renan testa o apoio popular ao slogan "prendeu matou" na cidade com o pior IDH do Brasil (Melgaço, PA). Uma moradora anônima, ao ser perguntada se concorda com a política, responde afirmativamente e diz desejar "uma pausa" nos violentos — expressão que Renan interpreta como apoio ao endurecimento penal. A moradora também menciona que gostaria de ver melhorias em **água tratada, energia estável** e **desfavelização**.
@@ -846,6 +858,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Análise do México como narcoestado; lição para o Brasil; crítica a AMLO, Calderón e à esquerda latino-americana
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Crítica de Renan à proposta de Lula de devolução de celular pelo correio; defesa de confronto armado e 30 anos de prisão
 - [[fontes/2026-06-18 - Noruega vs Iraque]] — Comparação do Amapá com Bagdá; facções matam mais que terroristas
 - [[fontes/2026-06-14 - O que a Holanda e o Brasil tem em comum Tráfico internacional de drogas]] — Rota PCC-Holanda via Paranaguá

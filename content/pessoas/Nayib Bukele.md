@@ -23,6 +23,12 @@ Presidente de El Salvador desde 2019. Renan Santos o cita sistematicamente como 
 
 ## O que Renan diz
 
+### Bukele como referência na série "Países na Copa": lição do México (junho de 2026)
+
+Em **28 de junho de 2026**, analisando o México como narcoestado na série "Países na Copa", Renan contrapõe o fracasso mexicano ao sucesso salvadorenho. Enquanto México e Brasil fracassam no combate ao crime organizado, El Salvador — que "não foi pra Copa" — está, segundo Renan, "metendo goleada em todo mundo no combate ao crime". A pergunta que encerra o vídeo é: "Você trocaria uma Copa do Mundo por destruir os bandidos do seu país?"
+
+Ver [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]].
+
 ### Bukele como modelo de soberania no combate ao crime (maio de 2026)
 
 Em **30 de maio de 2026**, ao responder sobre a designação americana do PCC e do Comando Vermelho como organizações terroristas, Renan usa Bukele como contraexemplo positivo: "O presidente de El Salvador, Nayib Bukele, não foi pedir pinico pros Estados Unidos e tampouco ficou com anti-americanismo barato, tipo Lula. Ele resolveu como um líder tem que resolver, na bala, matando e prendendo bandido." A referência serve para criticar tanto Flávio Bolsonaro (que viajou aos EUA em busca de solução externa) quanto o Lula (que adota postura anti-americana sem combater o crime). Renan promete adotar a mesma postura soberana de Bukele.
@@ -83,6 +89,7 @@ Ver [[fontes/2026-01-25 - SENHOR INVADE RÁDIO LOCAL PARA FALAR COM RENAN SANTOS
 
 ## Fontes
 
+- [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Bukele citado como contraponto ao fracasso do México
 - [[fontes/2026-05-23 - Milei na forma e Bukele no conteúdo]] — Renan abraça a comparação e detalha o que admira no modelo
 - [[fontes/2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui]] — defesa da aplicabilidade ao Brasil
 - [[fontes/2026-03-24 - Eu tô com muita inveja de El Salvador]] — Bukele como contraponto a Lula
