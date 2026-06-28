@@ -1,8 +1,10 @@
 # Log de operações
 
-## [2026-06-28] ingest | Verificação automática de shorts pendentes
-- Resultado: nenhum short pendente — todos os 665 shorts já foram ingeridos em execuções anteriores
-- Nenhuma página criada ou modificada
+## [2026-06-28] ingest | Você conhece a lenda do boto
+- Fonte criada: fontes/2026-06-28 - Você conhece a lenda do boto
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Família e Paternidade, posicoes/Planejamento Familiar e Educação Sexual nas Escolas, index.md, log.md, wiki/.processed_ids
+- Nota: Renan usa a lenda do boto como gancho para discutir gravidez na adolescência e desestruturação familiar na região Norte; reafirma defesa de planejamento familiar, igrejas e educação sexual nas escolas
 
 ## [2026-06-27] ingest | O STF respondeu o desabafo desse cara
 - Fonte criada: fontes/2026-06-27 - O STF respondeu o desabafo desse cara

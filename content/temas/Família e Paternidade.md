@@ -10,6 +10,16 @@ date: 2026-03-05
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## A "lenda do boto" como símbolo do ciclo (junho de 2026)
+
+Em **28 de junho de 2026**, Renan usa a lenda folclórica do boto (golfinho rosado da Amazônia) como gancho para revisitar o diagnóstico da gravidez na adolescência na região Norte. Ele explica que a lenda serve como justificativa tradicional para mulheres que engravidam de homens que conheceram brevemente — mas alerta que "culpar o boto chega a ser engraçado, mas na prática é trágico", já que boa parte das gestações resulta de abuso doméstico.
+
+O vídeo reforça os achados da visita de junho na mesma região: baixas taxas de casamento, gravidez na adolescência como regra, ausência paterna, e a conclusão de que "filhos do Boto continuarão povoando os piores lugares do Brasil" sem políticas de planejamento familiar e educação sexual.
+
+> "Não tratemos isso como algo engraçado ou folclórico. Nós precisamos desesperadamente de planejamento familiar, de uma política de estado que envolva igrejas e comunidades religiosas para formar família e ter a presença paterna, e de muita, mas muita educação sexual e psicológica nas escolas."
+
+Ver [[fontes/2026-06-28 - Você conhece a lenda do boto]].
+
 ## Região Norte: o pior IDH e a gravidez na adolescência como regra (junho de 2026)
 
 Em **21 de junho de 2026**, visitando a cidade com pior IDH do Brasil (região Norte), Renan entrevista uma jovem de **16 anos** que engravidou de um homem de **28 anos** — a gravidez "acabou acontecendo". Também encontra uma senhora de **46 anos** com oito filhos e inúmeros netos; uma de suas filhas engravidou aos 15 anos.
@@ -92,6 +102,7 @@ Este tema se articula diretamente com:
 
 ## Fontes
 
+- [[fontes/2026-06-28 - Você conhece a lenda do boto]] — lenda do boto como símbolo do ciclo familiar disfuncional na região Norte
 - [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]] — ciclo familiar na favela; desfavelização cultural
 - [[fontes/2026-05-18 - Conscientizar ou punir]] — ausência paterna como causa estrutural; vergonha de falar sobre o tema
 - [[fontes/2025-12-30 - O Brasil precisa de mais Zicos]] — Zico como modelo; referências culturais deletérias; ausência paterna

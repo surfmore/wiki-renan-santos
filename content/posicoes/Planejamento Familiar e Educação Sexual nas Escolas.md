@@ -7,11 +7,18 @@ tags:
   - família
 date: 2026-06-23
 fontes:
+  - "2026-06-28 - Você conhece a lenda do boto"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês"
 ---
 
 # Planejamento Familiar e Educação Sexual nas Escolas
+
+## A lenda do boto como alerta (junho de 2026)
+
+Em **28 de junho de 2026**, Renan usa a lenda folclórica do boto da Amazônia como gancho para reforçar a urgência do planejamento familiar na região Norte. Diante de uma adolescente de 16 anos grávida de um homem de 28 ("acabou acontecendo"), ele afirma que o tema não pode ser tratado como "engraçado ou folclórico" e reitera os três pilares já defendidos na visita à cidade com pior IDH: política de Estado de planejamento familiar, envolvimento de igrejas, e educação sexual nas escolas.
+
+Ver [[fontes/2026-06-28 - Você conhece a lenda do boto]].
 
 Renan Santos defende o **planejamento familiar como política de Estado**, com envolvimento ativo de igrejas e comunidades religiosas, combinado com **educação sexual e psicológica obrigatória nas escolas** das regiões mais pobres. A posição emerge do diagnóstico de que a gravidez na adolescência e a desestruturação familiar são as causas raiz da perpetuação da pobreza e da criminalidade.
 
@@ -49,4 +56,5 @@ Ver [[fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar um
 
 ## Fontes
 
+- [[fontes/2026-06-28 - Você conhece a lenda do boto]] — lenda do boto como metáfora do ciclo de gravidez na adolescência; reafirmação dos três pilares
 - [[fontes/2026-06-21 - Visitei a cidade com pior IDH do país e vou contar uma coisa pra vocês]] — Renan visita pior IDH do Brasil; diagnóstico e proposta de planejamento familiar com educação sexual nas escolas

@@ -98,7 +98,7 @@ date: 2026-06-28
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">672</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">673</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">50</span><span class="label">Pessoas</span></a>
@@ -132,7 +132,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/posicoes/Planejamento-Familiar-e-Educação-Sexual-nas-Escolas"><div class="wiki-card-header"><span class="wiki-card-icon">👶</span><span class="wiki-card-title">Planejamento Familiar</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Planejamento familiar como política de Estado com igrejas e comunidades religiosas; educação sexual e psicológica nas escolas.</p></a>
+<a class="wiki-card" href="/posicoes/Planejamento-Familiar-e-Educação-Sexual-nas-Escolas"><div class="wiki-card-header"><span class="wiki-card-icon">👶</span><span class="wiki-card-title">Planejamento Familiar</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Planejamento familiar como política de Estado com igrejas e comunidades religiosas; educação sexual e psicológica nas escolas.</p></a>
 <a class="wiki-card" href="/posicoes/Fundo-Soberano-para-o-Petróleo"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Fundo Soberano para o Petróleo</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Lucro da Petrobras deve ir para fundo soberano nos moldes noruegueses, não para tapar rombo fiscal; rejeição à privatização da Petrobras.</p></a>
 <a class="wiki-card" href="/posicoes/Pena-de-Morte-e-Prisão-Perpétua"><div class="wiki-card-header"><span class="wiki-card-icon">⚰️</span><span class="wiki-card-title">Pena de Morte e Prisão Perpétua</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Defesa da prisão perpétua para crimes hediondos e apoio à pena de morte em tese; promessa de alterar a legislação.</p></a>
 <a class="wiki-card" href="/posicoes/Proteção-ao-PIX"><div class="wiki-card-header"><span class="wiki-card-icon">💳</span><span class="wiki-card-title">Proteção ao PIX</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Compromisso de não taxar o PIX nem negociá-lo com os EUA; defesa da soberania tecnológica brasileira.</p></a>
@@ -191,6 +191,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-28 - Você conhece a lenda do boto]] — Renan usa a lenda do boto como gancho para discutir gravidez na adolescência na região Norte; defende planejamento familiar, igrejas e educação sexual nas escolas
 - [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — Renan critica decisão do STF de manter penduricos supersalários após desabafo viral de trabalhador
 - [[fontes/2026-06-27 - Virei persona non grata em Belém!]] — Renan reage à moção de repúdio da Câmara de Vereadores de Belém que o declarou persona non grata; exibe imagens da favela do Jurunas com urubus; critica a gestão da Família Barbalho; desafia outras câmaras a fazerem o mesmo
 - [[fontes/2026-06-27 - Oruam reapareceu!]] — Vítor Antu (pré-candidato a deputado federal pelo Missão/RJ) comenta reaparecimento de Oruam; compara Rio com Dubai; afirma que Renan defende intervenção federal no RJ
