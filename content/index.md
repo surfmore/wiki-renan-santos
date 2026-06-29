@@ -98,7 +98,7 @@ date: 2026-06-28
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">675</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">676</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">50</span><span class="label">Pessoas</span></a>
@@ -120,7 +120,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Crítica-à-Direita-Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Por que Flávio Bolsonaro, Nikolas Ferreira e o centrão não têm projeto de país.</p></a>
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">42 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">35 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
-<a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">34 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão; ecofazenda no Marajó; Jurunas (Belém); crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
+<a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">35 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão; ecofazenda no Marajó; Jurunas (Belém); crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
 <a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">25 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica; soft power; ferrovias, robótica, drones, data centers, terras raras, defesa aeroespacial.</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">21 fontes</span></div><p class="wiki-card-desc">Desabafos de trabalhadores, escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
@@ -192,6 +192,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-28 - Olha o que o Lula falou dos sulistas]] — Renan responde a fala de Lula que chamou catarinenses de "nazistas"; aponta correlação entre Bolsa Família e voto no PT
 - [[fontes/2026-06-28 - Expulsei o Caze TV]] — Renan expulsa candidato do Partido Missão por divulgar bets; critica hipocrisia na regulação; defende fechamento das bets
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Análise do México como narcoestado; comparação com o Brasil; crítica à esquerda latino-americana; Bukele como contraponto positivo
 - [[fontes/2026-06-28 - Você conhece a lenda do boto]] — Renan usa a lenda do boto como gancho para discutir gravidez na adolescência na região Norte; defende planejamento familiar, igrejas e educação sexual nas escolas

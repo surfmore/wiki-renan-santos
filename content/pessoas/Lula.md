@@ -5,8 +5,9 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-06-06
+date: 2026-06-28
 fontes:
+  - "2026-06-28 - Olha o que o Lula falou dos sulistas"
   - "2026-06-22 - Essa declaração é o fim do governo Lula"
   - "2026-06-18 - Lula conseguiu uma proeza!"
   - "2026-06-14 - Vão proibir seu ChatGPT"
@@ -32,6 +33,20 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Lula chama catarinenses de "nazistas" e Renan aponta correlação com Bolsa Família (junho de 2026)
+
+Em **28 de junho de 2026**, Renan reage a uma fala de Lula em que ele teria chamado os catarinenses de "nazistas" e "racistas", associando a prosperidade de Santa Catarina à arrogância. Renan decifra a lógica por trás da declaração: Lula vê estados do Sul (SC, PR, RS e SP) como ameaça porque seus cidadãos são emancipados economicamente e não dependem do governo federal.
+
+Renan apresenta uma correlação que chama de "fatos": **quanto menos Bolsa Família, mais voto na oposição; quanto mais Bolsa Família, mais voto no Lula**. Ele exibe o mapa do Bolsa Família e o mapa eleitoral como convergentes.
+
+Renan aponta contradição: o mesmo Lula que critica supostos "nazistas" em Santa Catarina teria, segundo ele, declarado em entrevista à Playboy que **admirava Adolf Hitler**. Ele também menciona que Lula casou com mulher loira quando mais jovem e "ficou todo todo" com o primeiro-ministro alemão.
+
+O vídeo termina com Renan afirmando que Lula quer pessoas dependentes e pobres para comprar votos com vale-gás e energia elétrica, e prometendo tornar o Brasil capaz de sustentar pessoas pelo trabalho, não pelo assistencialismo.
+
+> "Os fatos são diretos. Quanto menos Bolsa Família, mais voto na oposição. Quanto mais Bolsa Família, mais votos no Lula."
+
+Ver [[fontes/2026-06-28 - Olha o que o Lula falou dos sulistas]].
 
 ## Jaques Wagner ameaça Lula após ser pego no Banco Master (junho de 2026)
 

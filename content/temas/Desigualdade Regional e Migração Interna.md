@@ -5,8 +5,9 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-06-24
+date: 2026-06-28
 fontes:
+  - "2026-06-28 - Olha o que o Lula falou dos sulistas"
   - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
@@ -20,6 +21,16 @@ fontes:
 ---
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
+
+## Renan aponta correlação direta entre Bolsa Família e votação no PT (junho de 2026)
+
+Em **28 de junho de 2026**, reagindo a uma fala de Lula que chamou catarinenses de "nazistas", Renan expõe a correlação que considera central para entender a desigualdade regional brasileira: **quanto menos Bolsa Família, mais voto na oposição; quanto mais Bolsa Família, mais voto no Lula**. Ele exibe o mapa do Bolsa Família e o mapa eleitoral lado a lado para demonstrar a convergência.
+
+Renan argumenta que Lula vê os estados do Sul (SC, PR, RS e SP) como uma ameaça justamente por serem emancipados economicamente — estados prósperos não precisam de "presidente populista". O Sul produz, paga suas contas e, por isso, não vota no PT. Lula, segundo Renan, prefere manter pessoas dependentes para comprar votos com programas assistenciais.
+
+> "Os fatos são diretos. Quanto menos Bolsa Família, mais voto na oposição. Quanto mais Bolsa Família, mais votos no Lula."
+
+Ver [[fontes/2026-06-28 - Olha o que o Lula falou dos sulistas]].
 
 ## Melgaço: moradora anônima endossa "prendeu matou" e pede infraestrutura básica (junho de 2026)
 

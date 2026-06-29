@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-28] ingest | Olha o que o Lula falou dos sulistas
+- Fonte criada: fontes/2026-06-28 - Olha o que o Lula falou dos sulistas
+- Páginas criadas: nenhuma
+- Páginas atualizadas: pessoas/Lula, temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: video_id IxgsHf8XyKY. Renan responde a fala de Lula chamando catarinenses de "nazistas"; aponta correlação entre Bolsa Família e voto no PT; menciona admiração de Lula por Hitler em entrevista à Playboy
+
 ## [2026-06-28] ingest | Expulsei o Caze TV
 - Fonte criada: fontes/2026-06-28 - Expulsei o Caze TV
 - Páginas criadas: nenhuma
