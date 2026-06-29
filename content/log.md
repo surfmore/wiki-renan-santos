@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-06-29] ingest | Eu não vou ser o presidente de todos
+- Fonte criada: fontes/2026-06-29 - Eu não vou ser o presidente de todos
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Segurança Pública, temas/Empobrecimento e Mercado de Trabalho, posicoes/Estado de Defesa e Direito Penal do Inimigo, index.md, log.md, wiki/.processed_ids
+- Nota: video_id rGhMwCLI-eU. Renan declara que não será presidente de todos — será presidente do "Brasil que trabalha e do Brasil que mata bandido". Criminosos são seus inimigos. Valorização do trabalhador honesto que opta por não entrar para o crime.
+
 ## [2026-06-28] ingest | Olha o que o Lula falou dos sulistas
 - Fonte criada: fontes/2026-06-28 - Olha o que o Lula falou dos sulistas
 - Páginas criadas: nenhuma

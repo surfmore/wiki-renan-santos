@@ -98,7 +98,7 @@ date: 2026-06-29
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">676</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">677</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">50</span><span class="label">Pessoas</span></a>
@@ -192,6 +192,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-06-29 - Eu não vou ser o presidente de todos]] — Renan declara que não será presidente de todos, mas sim do "Brasil que trabalha e mata bandido"; criminosos são seus inimigos
 - [[fontes/2026-06-28 - Olha o que o Lula falou dos sulistas]] — Renan responde a fala de Lula que chamou catarinenses de "nazistas"; aponta correlação entre Bolsa Família e voto no PT
 - [[fontes/2026-06-28 - Expulsei o Caze TV]] — Renan expulsa candidato do Partido Missão por divulgar bets; critica hipocrisia na regulação; defende fechamento das bets
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Análise do México como narcoestado; comparação com o Brasil; crítica à esquerda latino-americana; Bukele como contraponto positivo

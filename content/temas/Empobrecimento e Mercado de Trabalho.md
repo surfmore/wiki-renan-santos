@@ -8,6 +8,14 @@ tags:
 date: 2026-06-26
 ---
 
+## O trabalhador honesto: "ninguém é mais honesto que um cara pobre e trabalhador" (junho de 2026)
+
+Em **29 de junho de 2026**, Renan faz uma defesa moral do trabalhador pobre e honesto. Ele argumenta que o pobre trabalhador tem, na porta de casa, a opção de se tornar bandido — vê o colega que entrou para o crime comprando moto, conquistando a garota que ele gostava — e ainda assim escolhe permanecer honesto, "ralando" como entregador. Segundo Renan, "esse cara é o mais honesto dos caras."
+
+Ele faz paralelo com a mulher honesta que, num país onde "a mulher é mais valorizada quando está mostrando por aí", sente-se ridícula sendo uma pessoa decente. A declaração serve de base para sua afirmação de que será presidente do "Brasil que trabalha" — não dos vagabundos e criminosos, que define como seus inimigos.
+
+Ver [[fontes/2026-06-29 - Eu não vou ser o presidente de todos]].
+
 ## O desabafo do trabalhador que "não sai do lugar" (junho de 2026)
 
 Em **26 de junho de 2026**, Renan comenta um vídeo viral de um trabalhador brasileiro que desabafa: "trampa, trampa e não sai do lugar." O homem relata que trabalha duro, não tem vergonha de serviço, mas não consegue progredir — o dinheiro "vai embora rápido," carne virou luxo e ele não tem esperança de que o amanhã seja melhor.

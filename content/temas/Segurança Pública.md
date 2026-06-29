@@ -8,6 +8,14 @@ date: 2025-09-09
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
+## "Presidente do Brasil que trabalha e mata bandido" (junho de 2026)
+
+Em **29 de junho de 2026**, Renan faz uma declaração contundente sobre quem representa e quem é seu inimigo. Ele afirma que não será "presidente de todos" — isso seria mentira. Define-se como "presidente do Brasil que vai trabalhar e do Brasil que mata bandido". Para quem é vagabundo ou está aterrorizando brasileiros, diz: "Eu não sou seu presidente, eu sou seu inimigo."
+
+A declaração se conecta ao conceito de [[posicoes/Estado de Defesa e Direito Penal do Inimigo]], em que criminosos são tratados não como cidadãos com presunção de inocência, mas como inimigos do estado. Renan também aproveita para valorizar o trabalhador honesto — aquele que tem a opção de entrar para o crime na porta de casa e escolhe permanecer honesto — como o mais honesto dos brasileiros.
+
+Ver [[fontes/2026-06-29 - Eu não vou ser o presidente de todos]].
+
 ## México como narcoestado: o que o Brasil pode aprender (junho de 2026)
 
 Em **28 de junho de 2026**, como parte da série "Países na Copa", Renan analisa o México como um alerta para o Brasil. Ele descreve o país como uma sociedade menos desenvolvida que, pela vizinhança com os Estados Unidos, tornou-se rota de produção e escoamento de drogas — permitindo o crescimento de cartéis gigantescos.

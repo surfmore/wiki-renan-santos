@@ -8,6 +8,14 @@ date: 2026-04-11
 
 Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete **estado de defesa** para enfrentar militarmente o crime organizado, combinando a medida com uma legislação que chama de **"direito penal do inimigo"**.
 
+## "Sou seu inimigo" — a retórica do direito penal do inimigo na campanha (junho de 2026)
+
+Em **29 de junho de 2026**, Renan aplica na prática a retórica do direito penal do inimigo ao declarar que criminosos não são seus concidadãos, mas seus inimigos. Ele afirma não ser "presidente de todos" — define-se como presidente "do Brasil que mata bandido" e declara abertamente: "se você tá aterrorizando os brasileiros na rua? Eu não sou seu presidente, eu sou seu inimigo."
+
+A frase conecta diretamente o conceito jurídico de [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] (baseado em Günter Jakobs) à retórica de campanha, tratando integrantes do crime organizado como alvos legítimos da ação estatal, não como cidadãos com direitos processuais plenos.
+
+Ver [[fontes/2026-06-29 - Eu não vou ser o presidente de todos]].
+
 ## Mega-presídio no Ceará com nome de heroína do CV (junho de 2026)
 
 Em **10 de junho de 2026**, Renan detalha sua proposta de construir o maior presídio do mundo no estado do Ceará, em homenagem a Antônia Ioni Rodrigues da Silva — cozinheira morta pelo Comando Vermelho por se recusar a envenenar a comida de policiais. O presídio gigante seria acompanhado de estado de defesa no Ceará e, se necessário, afastamento do governador.
