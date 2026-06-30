@@ -5,8 +5,9 @@ tags:
   - política
   - evangélica
   - direita
-date: 2026-06-26
+date: 2026-06-30
 fontes:
+  - "2026-06-30 - Survba com astronautas"
   - "2026-06-26 - Michele vs Flávio Bolsonaro"
   - "2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF"
 ---
@@ -16,6 +17,12 @@ fontes:
 Esposa de [[pessoas/Jair Bolsonaro]], ex-primeira-dama do Brasil e figura de crescente protagonismo político na direita conservadora. Renan Santos a menciona como potencial futura candidata à Presidência e como peça na queda de braço interna da família Bolsonaro.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Compartilha vídeo de Garotinho sobre "suruba com astronautas" (junho de 2026)
+
+Em **30 de junho de 2026**, Renan comenta que **Michele Bolsonaro** compartilhou um vídeo de **Anthony Garotinho** revelando a "suruba com astronautas" — uma festa orgiástica promovida por Daniel Vorcaro com políticos "defensores da família". A legenda de Michele: "A verdade de Jesus Cristo vai prevalecer". Para Renan, o gesto expõe o racha na família Bolsonaro e a guerra pública entre Michele e Flávio.
+
+Ver [[fontes/2026-06-30 - Survba com astronautas]].
 
 ## Ataque público a Flávio Bolsonaro (junho de 2026)
 

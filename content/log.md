@@ -1,5 +1,23 @@
 # Log de operações
 
+## [2026-06-30] ingest | Restinga teu povo te ama
+- Fonte criada: fontes/2026-06-30 - Restinga teu povo te ama
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Segurança Pública, temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: video_id XbwBUWplnYA. Renan visita Restinga (Porto Alegre); IDH de 0,59 vs 0,9 da cidade; 13 facções no RS; promessa de eliminar crime organizado; ameaça direta à facção Bala na Cara.
+
+## [2026-06-30] ingest | Survba com astronautas
+- Fonte criada: fontes/2026-06-30 - Survba com astronautas
+- Páginas criadas: nenhuma
+- Páginas atualizadas: eventos/Escândalo Banco Master, pessoas/Michele Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: video_id POD_aprt4Fw. Renan comenta revelação de "suruba com astronautas" promovida por Vorcaro com políticos "defensores da família"; Michele Bolsonaro compartilha vídeo de Garotinho sobre o caso; menção aos vídeos de Trancoso que virão após a Copa.
+
+## [2026-06-30] ingest | Sabotagem indígena até no Rio Grande do Sul!
+- Fonte criada: fontes/2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Ambientalismo e Produtores Rurais, temas/Ambição Nacional e Soberania Tecnológica, pessoas/Kim Kataguiri, index.md, log.md, wiki/.processed_ids
+- Nota: video_id JfwVhdNb4Jo. Renan denuncia bloqueio de data center de 3-5 bi em Eldorado do Sul (RS) por indígenas Guarani articulados pela esquerda; defende licenciamento ambiental aprovado no Congresso e que órgãos como FUNAI e IBAMA não sejam usados politicamente.
+
 ## [2026-06-29] ingest | Eu não vou ser o presidente de todos
 - Fonte criada: fontes/2026-06-29 - Eu não vou ser o presidente de todos
 - Páginas criadas: nenhuma

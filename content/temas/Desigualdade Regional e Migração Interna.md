@@ -5,8 +5,9 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-06-28
+date: 2026-06-30
 fontes:
+  - "2026-06-30 - Restinga teu povo te ama"
   - "2026-06-28 - Olha o que o Lula falou dos sulistas"
   - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
@@ -19,6 +20,14 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## Restinga (Porto Alegre): desigualdade dentro de uma capital do Sul (junho de 2026)
+
+Em **30 de junho de 2026**, Renan visita a **Restinga**, o maior bairro de Porto Alegre (RS), para documentar o contraste interno de uma das capitais com maior IDH do Brasil (0,9). Enquanto a cidade tem indicadores de primeiro mundo, o bairro tem IDH de apenas **0,59** e taxa de criminalidade **63% maior** que o resto da capital.
+
+Renan usa o caso para mostrar que a desigualdade regional não é apenas entre estados, mas também dentro de uma mesma cidade — e que o crime organizado (13 facções no RS, três na Restinga) encontrou terreno fértil também no Sul do país.
+
+Ver [[fontes/2026-06-30 - Restinga teu povo te ama]] e [[temas/Segurança Pública]].
 
 Renan Santos usa o contraste entre cidades como Pomerode (SC) e Itabau (AM) para diagnosticar que a desigualdade regional não é causada por falta de recursos federais, mas por **má política** e **compra de votos** que perpetua líderes que subdesenvolvem os estados.
 

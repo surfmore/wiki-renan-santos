@@ -5,8 +5,18 @@ tags:
   - tecnologia
   - soberania
   - soft-power
-date: 2026-06-25
+date: 2026-06-29
 ---
+
+## Data center em Eldorado do Sul (RS): obra bilionária sabotada por grupos indígenas (junho de 2026)
+
+Em **29 de junho de 2026**, Renan visita Eldorado do Sul (RS) e denuncia que um **data center** de **3 a 5 bilhões de reais** — que usaria as energias renováveis do Rio Grande do Sul para abastecer a indústria de **inteligência artificial** — está sendo bloqueado por grupos indígenas Guarani articulados pelo PT, PSOL e The Intercept, usando demandas de demarcação de terras.
+
+Para Renan, o bloqueio segue o mesmo padrão de sabotagem ao desenvolvimento que atingiu a Cargill em Santarém. Ele promete que licenciamentos ambientais aprovados pelo Congresso serão respeitados em seu governo e que órgãos como FUNAI, ICMBio e IBAMA não serão usados politicamente para paralisar obras.
+
+> "Enquanto a campanha de embargo a investimentos bilionários acontece, as pessoas não recuperam seus domicílios, a atividade econômica não retorna."
+
+Ver [[fontes/2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!]] e [[temas/Ambientalismo e Produtores Rurais]].
 
 ## Paraguai: o vizinho que está dando um baile no Brasil (junho de 2026)
 

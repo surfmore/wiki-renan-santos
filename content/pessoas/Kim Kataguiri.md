@@ -4,8 +4,9 @@ tags:
   - pessoa
   - político
   - partido-missão
-date: 2026-06-14
+date: 2026-06-29
 fontes:
+  - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
   - "2026-06-14 - O Japão tem uma estratégia para golear o Brasil"
   - "2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO"
   - "2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!"
@@ -15,6 +16,12 @@ fontes:
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. Fatos aqui apresentados como citações de Renan não são verificados independentemente por este wiki.
+
+## Projeto de licenciamento ambiental no Congresso (junho de 2026)
+
+Em **29 de junho de 2026**, Renan cita Kim Kataguiri ao comentar o bloqueio de um data center bilionário em Eldorado do Sul (RS) por grupos indígenas. Renan afirma que, em seu governo, os **licenciamentos ambientais aprovados pelo Congresso** — projeto de autoria de Kim — serão respeitados, e que órgãos como ICMBio, FUNAI e IBAMA não serão usados politicamente para sabotar obras.
+
+Ver [[fontes/2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!]].
 
 ## Referência no modelo japonês de gestão municipal (junho de 2026)
 

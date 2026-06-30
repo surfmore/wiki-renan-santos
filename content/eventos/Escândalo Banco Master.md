@@ -4,10 +4,28 @@ tags:
   - evento
   - corrupção
   - stf
-date: 2026-04-13
+date: 2026-06-30
+fontes:
+  - "2026-06-30 - Survba com astronautas"
+  - "2026-06-17 - Você está sabendo do novo escândalo do Vorcaro"
+  - "2026-06-17 - Novos vazamentos: jatinhos, prostitutas e festas com autoridades"
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## "Suruba com astronautas": festas orgiásticas de Vorcaro com políticos (junho de 2026)
+
+Em **30 de junho de 2026**, Renan comenta a revelação de uma festa orgiástica com tema de astronautas promovida por Daniel Vorcaro — apelidada de "suruba com astronautas" — da qual participaram deputados, senadores e governadores, muitos deles autodenominados "defensores da família". Mulheres peladas com capacetes de astronauta; os homens escolhiam a parceira levantando a viseira.
+
+Renan destaca que **Michele Bolsonaro** compartilhou o vídeo de **Anthony Garotinho** sobre o caso, com a legenda "A verdade de Jesus Cristo vai prevalecer" — expondo o racha na família Bolsonaro. Ele também revela que **Flávio Bolsonaro viajou com Vorcaro** para reuniões sobre um filme.
+
+Renan menciona que os **vídeos de Trancoso** — envolvendo "certo senador, candidato a presidente da República" — virão a público após a Copa do Mundo.
+
+> "Acho que dá para derrotar o Flávio apenas mostrando que ele é corrupto e que ele não tem ideias."
+
+Ver [[fontes/2026-06-30 - Survba com astronautas]].
+
+---
 
 ## Jaques Wagner declara que Lula não tem moral para demiti-lo (junho de 2026)
 

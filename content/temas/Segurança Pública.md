@@ -3,8 +3,18 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2025-09-09
+date: 2026-06-30
 ---
+
+## Restinga (Porto Alegre): crime organizado no Sul do país (junho de 2026)
+
+Em **30 de junho de 2026**, Renan visita o bairro da **Restinga**, em **Porto Alegre (RS)**, para mostrar que o crime organizado não é um fenômeno restrito ao Norte e Nordeste. Porto Alegre tem IDH de 0,9, mas a Restinga tem apenas **0,59** e taxa de criminalidade **63% maior** que o resto da cidade.
+
+Renan revela que o Rio Grande do Sul tem **13 facções criminosas**, e a Restinga é dominada por três: **Manos, V7 e Bala na Cara**. Ele promete eliminar todas, com uma ameaça direta à facção Bala na Cara: "vai terminar tomando bala na cara da própria polícia".
+
+> "Comigo todas essas facções serão eliminadas, especialmente o Bala na Cara, que vai terminar tomando é bala na cara da própria polícia."
+
+Ver [[fontes/2026-06-30 - Restinga teu povo te ama]].
 
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 

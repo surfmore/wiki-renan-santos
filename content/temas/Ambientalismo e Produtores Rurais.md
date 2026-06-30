@@ -5,12 +5,25 @@ tags:
   - ambientalismo
   - agro
   - amazonia
-date: 2026-06-25
+date: 2026-06-29
 fontes:
+  - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
   - "2026-06-25 - Você é a favor da caça de Javaporcos"
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR"
 ---
+
+## Caso Eldorado do Sul (RS): data center bilionário bloqueado por grupos indígenas (junho de 2026)
+
+Em **29 de junho de 2026**, Renan visita Eldorado do Sul (RS), cidade devastada pelas enchentes de 2024 que não conseguiu se recuperar. Ele denuncia que um **data center** com investimentos de **3 a 5 bilhões de reais** — que usaria energias renováveis para abastecer a indústria de inteligência artificial — está sendo bloqueado por **grupos indígenas Guarani**, articulados pelo **PT**, **PSOL** e **The Intercept**, usando demandas de demarcação de terras.
+
+Renan afirma que a obra foi autorizada, a cidade aprovou legislação e a área foi comprada, mas o projeto está paralisado pelo mesmo padrão de "sabotagem" que atingiu a Cargill em Santarém.
+
+> "Enquanto a campanha de embargo a investimentos bilionários acontece, as pessoas não recuperam seus domicílios, a atividade econômica não retorna."
+
+Ele promete que, em seu governo, **licenciamentos ambientais aprovados pelo Congresso (como o projeto de Kim Kataguiri) serão respeitados** e que órgãos como ICMBio, FUNAI e IBAMA não serão usados politicamente para bloquear obras.
+
+Ver [[fontes/2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!]] e [[temas/Ambição Nacional e Soberania Tecnológica]].
 
 Renan Santos critica a atuação de órgãos ambientais brasileiros — especialmente o **ICMBio (Instituto Chico Mendes de Conservação da Biodiversidade)** — como instrumentos de uma agenda ideológica que prejudica pequenos produtores rurais, especialmente na região amazônica. O tema aparece como extensão de sua crítica mais ampla ao ambientalismo que, segundo ele, bloqueia o desenvolvimento do Brasil.
 
