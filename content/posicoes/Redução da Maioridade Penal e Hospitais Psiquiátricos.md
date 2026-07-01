@@ -7,11 +7,22 @@ tags:
   - psiquiatria
 date: 2025-12-03
 fontes:
+  - "2026-07-01 - Sâmia Bonfim resolveu me atacar"
   - "2026-06-11 - Aprovada redução da maioridade penal"
   - "2025-12-03 - Você é a favor da redução da maioridade penal"
 ---
 
 Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que considera irrecuperáveis: a redução efetiva da maioridade penal para crimes violentos e a restauração do sistema de internação psiquiátrica compulsória.
+
+## Prisão de menor como adulto para crimes sexuais (julho de 2026)
+
+Em **1º de julho de 2026**, ao responder a ataques do PSOL, Renan propõe que **menores de idade que cometerem crimes sexuais contra mulheres sejam presos como adultos**, sem limite mínimo de idade.
+
+> "Mesmo menor de idade, com qualquer idade que cometer crime sexual contra uma mulher, será preso como adulto."
+
+A proposta surge como contraponto ao que Renan chama de "defesa de bandido" pelo PSOL — partido que, segundo ele, não vota aumento de penas e defende progressão de pena e saidinhas.
+
+Ver [[fontes/2026-07-01 - Sâmia Bonfim resolveu me atacar]].
 
 ## Aprovação na CCJ da Câmara (junho de 2026)
 

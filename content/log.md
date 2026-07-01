@@ -1,5 +1,17 @@
 # Log de operações
 
+## [2026-07-01] ingest | Sâmia Bonfim resolveu me atacar
+- Fonte criada: fontes/2026-07-01 - Sâmia Bonfim resolveu me atacar
+- Páginas criadas: pessoas/Sâmia Bonfim
+- Páginas atualizadas: temas/Segurança Pública, posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos, index.md, log.md, wiki/.processed_ids
+- Nota: video_id RY7BIs4BMAE. Renan responde a Sâmia Bonfim (PSOL) que usou vídeo antigo de piada; promete prisão de menor como adulto para crimes sexuais; critica PSOL por defender bandido.
+
+## [2026-07-01] ingest | BATI 8% NA ATLAS
+- Fonte criada: fontes/2026-07-01 - BATI 8% NA ATLAS
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Partido Missão, pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: video_id 2Af0pX39jdA. Renan comemora 7,8% na pesquisa Atlas; redução da diferença para Flávio em 7 pontos; Partido Missão em 3º entre partidos; 1º lugar em 16-24 anos.
+
 ## [2026-06-30] ingest | Restinga teu povo te ama
 - Fonte criada: fontes/2026-06-30 - Restinga teu povo te ama
 - Páginas criadas: nenhuma

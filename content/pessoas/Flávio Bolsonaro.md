@@ -11,6 +11,14 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Redução da diferença nas pesquisas Atlas (julho de 2026)
+
+Em **1º de julho de 2026**, Renan comemora a pesquisa Atlas que mostra redução de **7 pontos percentuais** na diferença entre ele e Flávio Bolsonaro. Renan projeta que, mantido o ritmo de crescimento, **tirará Flávio do segundo turno**. Ele argumenta que Flávio "não tem chance contra Lula em nenhum cenário no segundo turno" e que sua própria candidatura é a "única via para derrotar o Lula".
+
+Renan também sugere que a campanha de Flávio está "esticando seus colegas de partidos a lançar candidatura para que não chegue logo uns 10%", indicando que Flávio estaria fragmentando a direita para conter o avanço de Renan.
+
+Ver [[fontes/2026-07-01 - BATI 8% NA ATLAS]].
+
 ## Humilhação pública por Michele Bolsonaro (junho de 2026)
 
 Em **26 de junho de 2026**, [[pessoas/Michele Bolsonaro]] gravou um vídeo atacando Flávio publicamente, chamando-o de "falso". Renan comenta que concorda com parte das críticas dela — Flávio é um "líder inábil" — e observa que a situação expõe o racha total na família Bolsonaro. Renan critica a resposta de Flávio: em vez de rebater as acusações, publicou vídeos como o em que voa de avião a jato para resgatar [[pessoas/Neymar]]. Renan ironiza que Flávio "não consegue fazer campanha para nada" e que, quando precisa falar, imita Renan (bordão "prendeu, matou"). Conclui que "um líder de verdade jamais se submeteria a uma humilhação pública dessas" e que Flávio "não consegue fazer nenhuma dessas tarefas" de resolver o próprio núcleo familiar, partido e bloco político.

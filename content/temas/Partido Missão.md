@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-06-01
 fontes:
+  - "2026-07-01 - BATI 8% NA ATLAS"
   - "2026-06-28 - Expulsei o Caze TV"
   - "2026-06-16 - 10% em SP!"
   - "2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento."
@@ -24,6 +25,16 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Pesquisa Atlas: 7,8% nacional e 3º lugar entre partidos (julho de 2026)
+
+Em **1º de julho de 2026**, Renan comemora a **pesquisa Atlas** que mostra sua pré-candidatura com **7,8% das intenções de voto** em cenário de 13 candidatos. Ele destaca que o **Partido Missão já está em terceiro lugar entre os partidos**, com **1/3 das intenções de voto do PL**, mesmo com menos de 6-7 meses de existência e menos de 0,5% dos recursos financeiros das siglas tradicionais.
+
+Renan também anuncia que está em **primeiro lugar no eleitorado de 16 a 24 anos** e que sua **rejeição caiu** enquanto seu conhecimento aumentou.
+
+> "O futuro é muito glorioso. Os jovens já são Missão."
+
+Ver [[fontes/2026-07-01 - BATI 8% NA ATLAS]].
 
 ## Expulsão de Gabriel de Almeida por divulgar bets (junho de 2026)
 

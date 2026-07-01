@@ -16,6 +16,16 @@ Renan revela que o Rio Grande do Sul tem **13 facções criminosas**, e a Restin
 
 Ver [[fontes/2026-06-30 - Restinga teu povo te ama]].
 
+## Resposta ao PSOL: promessa de legislação mais pesada (julho de 2026)
+
+Em **1º de julho de 2026**, ao responder a um ataque da deputada [[pessoas/Sâmia Bonfim]] (PSOL/SP), Renan promete **aprovar a legislação mais pesada do Brasil para crimes violentos**, como contraponto ao que chama de "defesa de bandido" pelo PSOL. Ele critica o PSOL por não ter votado o aumento de penas para crimes violentos e por defender progressão de pena e saidinhas.
+
+Renan especificamente propõe que **menores de idade que cometerem crimes sexuais contra mulheres sejam presos como adultos**, independentemente da idade.
+
+> "Nós vamos passar a legislação mais pesada no Brasil para todo tipo de crime violento. E mesmo menor de idade, com qualquer idade que cometer crime sexual contra uma mulher, será preso como adulto."
+
+Ver [[fontes/2026-07-01 - Sâmia Bonfim resolveu me atacar]].
+
 Segurança pública é um dos eixos centrais da pré-candidatura de Renan Santos. Sua proposta mais enfática sobre o tema é decretar **estado de defesa** no primeiro dia de governo e implementar uma legislação que ele chama de **"direito penal do inimigo"** para combater o crime organizado.
 
 ## "Presidente do Brasil que trabalha e mata bandido" (junho de 2026)
