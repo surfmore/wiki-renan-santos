@@ -5,8 +5,18 @@ tags:
   - economia
   - emprego
   - custo-de-vida
-date: 2026-06-26
+date: 2026-07-02
 ---
+
+## O desabafo era falso — Renan pede desculpas (julho de 2026)
+
+Em **1º de julho de 2026**, Renan se retrata publicamente após descobrir que o vídeo de "Lincoln da Voz" — o desabafo viral de um trabalhador que "trampa, trampa e não sai do lugar" — era uma encenação. O conteúdo havia sido copiado de um criador mineiro chamado **Miranha Mineiro**, e Lincoln já era um influenciador estabelecido com ganhos em dólar em múltiplas plataformas.
+
+Renan admite ter sido enganado e pede desculpas a quem divulgou baseado em sua recomendação. Ele usa o episódio para alertar sobre pessoas que capitalizam a indignação genuína da população, mas reafirma que o problema real existe: o trabalhador brasileiro de fato enfrenta dificuldades insuperáveis, como Renan documenta em suas viagens pelo país (vítimas de enchentes no RS abandonadas pelo Estado, agricultores pagando impostos absurdos).
+
+> "O Brasil é uma sucessão de frustrações. Quando você começa a sentir esperança de que um discurso verdadeiro começa a queimar o coração da sociedade, você descobre que é apenas mais um do mesmo."
+
+Ver [[fontes/2026-07-01 - Meu pedido de desculpas]].
 
 ## O trabalhador honesto: "ninguém é mais honesto que um cara pobre e trabalhador" (junho de 2026)
 

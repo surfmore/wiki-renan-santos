@@ -1,5 +1,29 @@
 # Log de operações
 
+## [2026-07-02] ingest | Vai trabalhar, Senador Romário!
+- Fonte criada: fontes/2026-07-02 - Vai trabalhar, Senador Romário!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: pessoas/Romário, index.md, log.md, wiki/.processed_ids
+- Nota: video_id zWVjHStmhjI. Renan critica Romário por abandonar mandato de senador para ser podcaster; desafia-o a abdicar do cargo.
+
+## [2026-07-02] ingest | Um exemplo de mulher
+- Fonte criada: fontes/2026-07-02 - Um exemplo de mulher
+- Páginas criadas: nenhuma
+- Páginas atualizadas: pessoas/Daniel Vorcaro, eventos/Escândalo Banco Master, index.md, log.md, wiki/.processed_ids
+- Nota: video_id LasznbiveJg. Renan homenageia Malu Gaspar por recusar suborno de Vorcaro; denuncia tentativa de doxxing e compra da jornalista.
+
+## [2026-07-02] ingest | Meu pedido de desculpas
+- Fonte criada: fontes/2026-07-01 - Meu pedido de desculpas
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Empobrecimento e Mercado de Trabalho, index.md, log.md, wiki/.processed_ids
+- Nota: video_id ctmwg79bLyI. Renan se retrata após descobrir que desabafo viral de "Lincoln da Voz" era falso; alerta sobre capitalização da indignação.
+
+## [2026-07-02] ingest | Estou sendo cancelado!
+- Fonte criada: fontes/2026-07-01 - Estou sendo cancelado!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Desigualdade Regional e Migração Interna, index.md, log.md, wiki/.processed_ids
+- Nota: video_id 7yRxeg9Q4DA. Renan anuncia que está sendo cancelado por chamar políticos do Nordeste de "parasitas"; cita Arthur Lira, Hugo Mota e Ciro Nogueira como exemplos.
+
 ## [2026-07-01] ingest | Sâmia Bonfim resolveu me atacar
 - Fonte criada: fontes/2026-07-01 - Sâmia Bonfim resolveu me atacar
 - Páginas criadas: pessoas/Sâmia Bonfim

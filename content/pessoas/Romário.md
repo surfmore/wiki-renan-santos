@@ -4,8 +4,9 @@ tags:
   - pessoa
   - político
   - futebol
-date: 2026-06-14
+date: 2026-07-02
 fontes:
+  - "2026-07-02 - Vai trabalhar, Senador Romário!"
   - "2026-06-14 - Romário está sendo cancelado!"
 ---
 
@@ -14,6 +15,16 @@ fontes:
 **Romário de Souza Faria** — ex-jogador de futebol, campeão mundial em 1994, atualmente senador da República pelo PL (RJ) e comentarista esportivo.
 
 ## O que Renan diz
+
+### "Vai trabalhar, Romário" — crítica à carreira de podcaster (julho de 2026)
+
+Em **1º de julho de 2026**, Renan critica Romário por abandonar o mandato de senador para se dedicar à carreira de podcaster e influenciador digital. Dados do ataque: Romário tem mais de 80 funcionários, plano de saúde vitalício e hiperaposentadoria, mas "praticamente nada faz" no Congresso — não se posiciona sobre crime organizado, segurança pública ou a crise do Rio de Janeiro. Em vez disso, viaja o mundo entrevistando jogadores de futebol, tornou-se um dos 20 maiores influenciadores do Brasil e fez parceria com a Cazé TV.
+
+Renan convoca Romário a abdicar do cargo se quer ser influenciador: "Abdique do seu cargo, senador. Se você quer ser um podcaster, seja um podcaster." E conclui: "Vai trabalhar, Romário, vai ajudar a arrumar soluções pro teu estado."
+
+> "É imoral que milhões de brasileiros ficaram nos últimos dias comentando as opiniões dele, quando ele na prática tinha que estar trabalhando para esses mesmos milhões de brasileiros."
+
+Ver [[fontes/2026-07-02 - Vai trabalhar, Senador Romário!]].
 
 ### "Craque do futebol, péssimo senador"
 

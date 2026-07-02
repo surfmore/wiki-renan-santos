@@ -4,14 +4,27 @@ tags:
   - evento
   - corrupção
   - stf
-date: 2026-06-30
+date: 2026-07-02
 fontes:
+  - "2026-07-01 - Um exemplo de mulher"
   - "2026-06-30 - Survba com astronautas"
   - "2026-06-17 - Você está sabendo do novo escândalo do Vorcaro"
   - "2026-06-17 - Novos vazamentos: jatinhos, prostitutas e festas com autoridades"
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## Vorcaro tenta doxxing e suborno da jornalista Malu Gaspar (julho de 2026)
+
+Em **1º de julho de 2026**, Renan divulga novos vazamentos de mensagens de Daniel Vorcaro revelando uma operação para destruir a reputação e depois comprar a jornalista **Malu Gaspar** — autora das principais reportagens sobre o escândalo do Banco Master.
+
+Segundo Renan, mensagens vazadas mostram Vorcaro e um parceiro na imprensa tentando fazer **doxxing** de Malu Gaspar: levantaram dados pessoais, renda, locais de trabalho, crédito bancário e até zombaram do carro dela (um VW Up). Após constatarem que ela tinha "uma vida correta, uma vida honesta" — sem nada que pudesse ser usado contra ela —, mudaram de estratégia: Vorcaro ofereceu **R$ 1,5 milhão de luvas** e um salário de centenas de milhares de reais para ela trabalhar na revista IstoÉ, que pertencia a ele. Ela recusou.
+
+Renan destaca que Malu Gaspar, que recebe R$ 24 mil por mês como jornalista, recusou a oferta milionária — e a usa como exemplo de integridade jornalística e feminina.
+
+> "Para certas pessoas na vida, o dinheiro não é tudo. Certas pessoas pretendem colocar seu nome na história, fazendo seu trabalho muito bem feito."
+
+Ver [[fontes/2026-07-01 - Um exemplo de mulher]].
 
 ## "Suruba com astronautas": festas orgiásticas de Vorcaro com políticos (junho de 2026)
 

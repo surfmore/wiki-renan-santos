@@ -5,8 +5,9 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-06-30
+date: 2026-07-02
 fontes:
+  - "2026-07-01 - Estou sendo cancelado!"
   - "2026-06-30 - Restinga teu povo te ama"
   - "2026-06-28 - Olha o que o Lula falou dos sulistas"
   - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
@@ -20,6 +21,14 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## Renan é cancelado por críticas aos políticos do Nordeste (julho de 2026)
+
+Em **1º de julho de 2026**, Renan anuncia que está sendo "cancelado" e pode perder a pré-candidatura por acusações de xenofobia, após afirmar que "políticos do Nordeste são a pior coisa que existe no Brasil" e "parasitas". Ele enumera as retaliações: moção de repúdio da Câmara de Belém (PA), ações judiciais do PSOL e de grupos indígenas, censura do governador do Ceará, e prefeitos do interior tentando remover seu conteúdo do ar.
+
+Renan sustenta que sua crítica é direcionada exclusivamente à classe política, não à região — e que o problema é mensurável: o Nordeste continua sendo uma das regiões mais pobres do Brasil com baixo IDH, apesar de receber volumosos recursos federais. Cita **Arthur Lira** (AL), **Hugo Mota** (PB) e **Ciro Nogueira** (PI) como exemplos de políticos nordestinos que concentram poder em Brasília enquanto suas regiões permanecem subdesenvolvidas. Conclui que "o Nordeste só será grande se livrar dos seus parasitas."
+
+Ver [[fontes/2026-07-01 - Estou sendo cancelado!]].
 
 ## Restinga (Porto Alegre): desigualdade dentro de uma capital do Sul (junho de 2026)
 
