@@ -6,7 +6,7 @@ tags:
   - corrupção
 date: 2026-07-02
 fontes:
-  - "2026-07-01 - Um exemplo de mulher"
+  - "2026-07-02 - Um exemplo de mulher"
   - "2026-05-21 - Flávio Bolsonaro precisa de ajuda!"
   - "2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora"
   - "2026-03-16 - VORCARO DELATOU O LULA"
@@ -26,7 +26,7 @@ fontes:
 
 Em **1º de julho de 2026**, mensagens vazadas de Vorcaro revelam que ele tentou primeiro destruir a reputação da jornalista **Malu Gaspar** (que investigava o escândalo) e depois comprá-la com uma oferta de R$ 1,5 milhão de luvas e salário milionário para trabalhar na revista IstoÉ, de sua propriedade. Vorcaro e seu parceiro na imprensa levantaram dados pessoais, renda e crédito de Gaspar, e zombaram de seu carro simples (um VW Up). Após constatarem que ela não tinha nada que pudesse ser usado contra ela, partiram para a tentativa de suborno — que ela recusou.
 
-Ver [[fontes/2026-07-01 - Um exemplo de mulher]] e [[eventos/Escândalo Banco Master]].
+Ver [[fontes/2026-07-02 - Um exemplo de mulher]] e [[eventos/Escândalo Banco Master]].
 
 ### Novos vazamentos: jatinhos, prostitutas e festas com autoridades (junho de 2026)
 

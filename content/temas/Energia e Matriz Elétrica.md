@@ -23,7 +23,7 @@ Renan conecta o projeto ao que chama de "Eletrolão" (leilão de termoelétricas
 
 Em um governo seu, promete derrubar políticas como essa. Ver [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]].
 
-## Leilão de termoelétricas manipulado (junho de 2026)
+## [[eventos/Leilão de Termoelétricas de 2026|Leilão de termoelétricas manipulado]] (junho de 2026)
 
 Em **6 de junho de 2026**, Renan denuncia um leilão de usinas termoelétricas de **cerca de R$ 1 trilhão** manipulado para beneficiar **Joesley Batista** (JBS) e outros aliados do governo Lula. O governo teria dobrado o valor teto do leilão dias antes. O TCU percebeu a irregularidade e a FIESP entrou com ação judicial. A estimativa: aumento de **10% na conta de luz** do brasileiro.
 

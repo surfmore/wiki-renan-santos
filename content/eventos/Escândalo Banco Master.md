@@ -6,7 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
-  - "2026-07-01 - Um exemplo de mulher"
+  - "2026-07-02 - Um exemplo de mulher"
   - "2026-06-30 - Survba com astronautas"
   - "2026-06-17 - Você está sabendo do novo escândalo do Vorcaro"
   - "2026-06-17 - Novos vazamentos: jatinhos, prostitutas e festas com autoridades"
@@ -24,7 +24,7 @@ Renan destaca que Malu Gaspar, que recebe R$ 24 mil por mês como jornalista, re
 
 > "Para certas pessoas na vida, o dinheiro não é tudo. Certas pessoas pretendem colocar seu nome na história, fazendo seu trabalho muito bem feito."
 
-Ver [[fontes/2026-07-01 - Um exemplo de mulher]].
+Ver [[fontes/2026-07-02 - Um exemplo de mulher]].
 
 ## "Suruba com astronautas": festas orgiásticas de Vorcaro com políticos (junho de 2026)
 
@@ -327,7 +327,7 @@ Ver: [[fontes/2026-04-09 - Xandão quer mudar delação premiada]].
 
 ## Mobilização pública
 
-Renan convocou ato no **sábado, 11 de abril de 2026, às 15h, na Avenida Paulista / MASP**, defendendo:
+Renan convocou ato no [[eventos/Manifestação na Paulista — 11 de abril de 2026|sábado, 11 de abril de 2026, às 15h, na Avenida Paulista / MASP]], defendendo:
 
 1. A preservação do instituto da **delação premiada**.
 2. A responsabilização pública dos nomes envolvidos.

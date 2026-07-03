@@ -23,7 +23,7 @@ Michele Bolsonaro veio a público com um vídeo em que "meteu o pau" em Flávio 
 
 Renan admite que se beneficia diretamente da declaração de Michele, pois ela coloca Flávio em uma posição complicada com dois segmentos importantes do eleitorado conservador: mulheres e evangélicos.
 
-O principal questionamento de Renan é sobre a motivação de Michele: "Michele quer ser pré-candidata a presidência da República? Agora acho que não, mas nos próximos anos eu tenho certeza." Ele observa que Michele é aliada de [[pessoas/Valdemar da Costa Neto]], [[pessoas/Silas Malafaia]] e [[pessoas/Nikolas Ferreira]].
+O principal questionamento de Renan é sobre a motivação de Michele: "Michele quer ser pré-candidata a presidência da República? Agora acho que não, mas nos próximos anos eu tenho certeza." Ele observa que Michele é aliada de [[pessoas/Valdemar Costa Neto]], [[pessoas/Silas Malafaia]] e [[pessoas/Nikolas Ferreira]].
 
 Renan descreve a briga como evidência de que a família Bolsonaro está "toda rachada" — uma "gigantesca briga palaciana" que mostra que "a família que diz que vai governar o Brasil não consegue nem governar si própria". Ele nunca viu "uma lavação de roupa suja tão ridícula como essa" e afirma que eles não conseguem esconder que se odeiam.
 
@@ -35,7 +35,7 @@ Renan conclui que "um líder de verdade jamais se submeteria a uma humilhação 
 
 - [[pessoas/Michele Bolsonaro]] — autora do ataque, aliada de Valdemar, Malafaia e Nikolas
 - [[pessoas/Flávio Bolsonaro]] — alvo do ataque, descrito como líder inábil
-- [[pessoas/Valdemar da Costa Neto]] — aliado de Michele
+- [[pessoas/Valdemar Costa Neto]] — aliado de Michele
 - [[pessoas/Silas Malafaia]] — aliado de Michele
 - [[pessoas/Nikolas Ferreira]] — aliado de Michele
 - [[pessoas/Neymar]] — mencionado no contexto do vídeo de Flávio resgatando-o de avião
