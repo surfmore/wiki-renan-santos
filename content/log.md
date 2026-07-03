@@ -1,5 +1,29 @@
 # Log de operações
 
+## [2026-07-03] ingest | O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente
+- Fonte criada: fontes/2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente
+- Páginas criadas: pessoas/Coronel Aroldo Medina
+- Páginas atualizadas: temas/Partido Missão, index.md, log.md, wiki/.processed_ids
+- Nota: video_id M7XiwU7m8Ik. Renan anuncia Coronel Aroldo Medina, da Brigada Militar do RS, como seu pré-candidato a vice-presidente.
+
+## [2026-07-03] ingest | O vinho brasileiro pode decolar e eu te explico nesse vídeo
+- Fonte criada: fontes/2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/Carga Tributária, temas/Ambição Nacional e Soberania Tecnológica, posicoes/Reforma Fiscal, posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira, index.md, log.md, wiki/.processed_ids
+- Nota: video_id KEwDDNy0OYw. Renan denuncia carga tributária sobre vinho brasileiro; propõe incentivo fiscal e de exportação para produtos de alto valor agregado.
+
+## [2026-07-03] ingest | Terei que fazer um curso de Direitos humanos!
+- Fonte criada: fontes/2026-07-03 - Terei que fazer um curso de Direitos humanos!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: temas/STF e Ativismo Judicial, temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
+- Nota: video_id E4pu4PG1xIg. Renan denuncia censura do MP via TACs contra lideranças do Missão em SC; propõe delimitar legalmente atuação de juízes e promotores.
+
+## [2026-07-03] ingest | Essa professora foi atacada pelos próprios alunos em São José dos Campos
+- Fonte criada: fontes/2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos
+- Páginas criadas: nenhuma
+- Páginas atualizadas: posicoes/Propostas para Educação, posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos, temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: video_id uPr_KXbnrn0. Renan comenta tentativa de homicídio de professora por alunos em São José dos Campos; defende redução da maioridade penal, escolas militares, autoridade do professor e responsabilização dos pais.
+
 ## [2026-07-03] lint | Lint completo + correções
 - Links corrigidos na página ativa: eventos/Escândalo Banco Master (3 refs), pessoas/Daniel Vorcaro (1 ref), pessoas/Michele Bolsonaro (1 ref), fontes/2026-06-26 - Michele vs Flávio Bolsonaro (2 refs)
 - Arquivo de fonte renomeado: fontes/2026-06-13 - Fui censurado....md → fontes/2026-06-13 - Fui censurado.md (4 pontos → 1)

@@ -4,13 +4,28 @@ tags:
   - posicao
   - educacao
   - meritocracia
-date: 2026-06-17
+date: 2026-07-03
 fontes:
+  - "2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos"
   - "2026-06-17 - A Inglaterra vai ganhar a Cop"
   - "2026-03-11 - 7 propostas para a educação!"
 ---
 
-Renan apresentou sete propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico e corte de gastos ineficientes. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Autoridade do professor e violência escolar (julho de 2026)
+
+Em **2 de julho de 2026**, Renan comenta o caso da professora Michele, em São José dos Campos, que sofreu tentativa de homicídio por alunos que colocaram lâminas de vidro em seu copo d'água. Ele usa o caso para denunciar a perda de autoridade do professor na sala de aula.
+
+Renan aponta que a reprovação escolar foi praticamente abolida — "foi proibido repetir os alunos de ano" —, eliminando o principal instrumento de autoridade pedagógica do professor. Alunos usam celular, desrespeitam e, em casos extremos, tentam matar o professor, que "não pode fazer nada". O aluno permanece "intocável, continua o reizinho no seu destino".
+
+Ele anuncia que vai **instituir escolas militares onde precisa** e **reinstituir a autoridade do professor**. A responsabilização deve ser dupla:
+
+> "Aluno se comportou, tanto ele quanto o pai vão pagar. Pagar tanto na justiça quanto em dinheiro. Só assim você faz essa gente maldita que não se comporta sem comportar direito."
+
+A responsabilização financeira dos pais e a perda de autoridade do professor são novos elementos na plataforma educacional de Renan, complementando sua defesa anterior das escolas militares como substituto à ausência paterna.
+
+Ver [[fontes/2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos]].
 
 ## Método fônico obrigatório: a lição inglesa (junho de 2026)
 

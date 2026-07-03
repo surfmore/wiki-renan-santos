@@ -4,7 +4,7 @@ tags:
   - tema
   - judiciário
   - privilégios
-date: 2026-06-05
+date: 2026-07-03
 fontes:
   - "2026-06-07 - Já ouviu falar em Gilmarpalooza"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
@@ -13,6 +13,16 @@ fontes:
 ---
 
 Renan Santos critica sistematicamente o custo do judiciário brasileiro, apontando-o como um dos maiores problemas fiscais do país e como símbolo de um privilégio corporativo que não se justifica pelos serviços prestados.
+
+## A "mamata" do Ministério Público (julho de 2026)
+
+Em **3 de julho de 2026**, Renan amplia sua crítica a todo o sistema de justiça, incluindo o **Ministério Público** como instituição que, segundo ele, tem custo elevado e atuação ideológica. Ele descreve o MP como "entidade muito cara" e lembra que promotores em São Paulo foram pegos em escândalo de supersalários, reclamando que recebiam menos que os juízes.
+
+Renan critica a prioridade do MP: em vez de combater o crime organizado, a instituição usa **Termos de Ajustamento de Conduta (TACs)** para impor pautas ideológicas — como no caso de lideranças do Partido Missão em Santa Catarina processadas por usar o termo "prender matô", e do Hospital Albert Einstein, obrigado a implementar cotas.
+
+> "São penduricários, verbasórias, mamata de todo tipo. E ainda por cima eles tentam impor sua visão de mundo radical de esquerda sobre toda a sociedade."
+
+Ver [[fontes/2026-07-03 - Terei que fazer um curso de Direitos humanos!]].
 
 ## STF decide manter penduricos após repercussão do desabafo viral (junho de 2026)
 

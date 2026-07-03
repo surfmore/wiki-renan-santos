@@ -3,10 +3,20 @@ title: "Reforma Fiscal"
 tags:
   - posição
   - economia
-date: 2026-06-26
+date: 2026-07-03
 ---
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
+
+## Tratamento tributário para produtos de alto valor agregado (julho de 2026)
+
+Em **3 de julho de 2026**, Renan propõe que produtos finos de alto valor agregado — como vinhos, queijos e azeites — recebam **incentivo fiscal e tratamento tributário diferenciado**. Gravando na Cooperativa Aurora, ele argumenta que a tributação atual trata igualmente bebidas de alto valor agregado e produtos de consumo popular, sufocando a competitividade da indústria nacional.
+
+O vinho brasileiro enfrenta, segundo ele, uma combinação de ICMS alto, falta de escala e acordos do Mercosul que tornam o produto importado mais barato que o nacional — mesmo com o vinho brasileiro já ganhando prêmios internacionais. A proposta é que o governo federal ofereça suporte e incentivo à exportação desses produtos, em vez de tributá-los como se fossem mercadorias comuns.
+
+> "No meu governo, produtos finos com valor agregado vindo do Brasil serão objeto de suporte e exportação por parte do governo federal. Não só vinhos como queijos, azeites e outros produtos nacionais."
+
+Ver [[fontes/2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo]].
 
 ## Sistema tributário regressivo: imposto sobre consumo penaliza o pobre (junho de 2026)
 

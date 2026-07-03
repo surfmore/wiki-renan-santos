@@ -3,10 +3,26 @@ title: "Carga Tributária"
 tags:
   - tema
   - economia
-date: 2026-06-25
+date: 2026-07-03
 ---
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
+
+## Impostos sabotam a produção nacional de vinho e produtos de valor agregado (julho de 2026)
+
+Em **3 de julho de 2026**, gravando na Cooperativa Aurora (uma das maiores vinícolas do Brasil), Renan usa o vinho como estudo de caso de como a carga tributária brasileira sabota a produção nacional de alto valor agregado. Ele aponta três fatores que encarecem o vinho brasileiro e o tornam menos competitivo que o importado:
+
+1. **ICMS alto** e imposto de renda sobre a produção
+2. **Falta de escala** — a indústria não consegue crescer porque o mercado interno é restrito pelo preço elevado
+3. **Acordos do Mercosul** que fazem o vinho argentino e chileno chegarem mais baratos ao Brasil que o nacional
+
+Renan critica a lógica dos formuladores de política pública que tributam bebidas alcoólicas como se todas fossem iguais — "separar uma bebida de um cachaceiro (...) de um produto fino que gera valor agregado para o próprio país". Ele defende que produtos de alto valor agregado recebam **tratamento tributário diferenciado** para que possam competir e gerar empregos.
+
+> "Nós falamos tanto em agregar valor à cadeia da agricultura brasileira e aí quando alguém tenta agregar valor com um vinho, que é um produto universalmente reconhecido, a gente vai lá e sabota."
+
+Renan afirma que o mesmo padrão se repete no café, cacau e inúmeras outras cadeias — o Brasil exporta commodities e não desenvolve indústria. No seu governo, produtos finos com valor agregado serão objeto de suporte e incentivo à exportação.
+
+Ver [[fontes/2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo]].
 
 ## Imposto sobre consumo como imposto sobre o pobre (junho de 2026)
 

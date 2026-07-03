@@ -6,8 +6,9 @@ tags:
   - culinária
   - desenvolvimento-econômico
   - soft-power
-date: 2026-06-22
+date: 2026-07-03
 fontes:
+  - "2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo"
   - "2026-06-06 - Você já ouviu falar em gastrodiplomacia"
   - "2026-06-22 - Virei um apanhador de açaí no Pará!"
 ---
@@ -15,6 +16,14 @@ fontes:
 # Gastrodiplomacia e Promoção Internacional da Culinária Brasileira
 
 Renan Santos propõe a adoção da **gastrodiplomacia** como política de estado para promover a culinária brasileira no exterior como instrumento de soft power, desenvolvimento econômico e construção de marca-país.
+
+## Visita à Cooperativa Aurora: o vinho como produto estratégico (julho de 2026)
+
+Em **3 de julho de 2026**, Renan visita a Cooperativa Aurora, uma das maiores vinícolas do Brasil, e conecta sua proposta de gastrodiplomacia à realidade produtiva. Ele destaca que o vinho brasileiro já tem qualidade reconhecida internacionalmente (quase 1.000 premiações), mas precisa de escala e de políticas públicas de incentivo à exportação para competir globalmente.
+
+Renan critica a tributação sobre o vinho como um entrave à gastrodiplomacia: o ICMS alto e os acordos de Mercosul tornam o vinho importado mais barato que o nacional, impedindo a indústria de crescer. Ele inclui explicitamente vinhos, queijos e azeites como produtos que receberão **suporte federal à exportação** em seu governo.
+
+Ver [[fontes/2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo]].
 
 ## A proposta (junho de 2026)
 

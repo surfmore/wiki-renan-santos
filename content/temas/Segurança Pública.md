@@ -3,8 +3,18 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-06-30
+date: 2026-07-03
 ---
+
+## Violência escolar e tentativa de homicídio por alunos (julho de 2026)
+
+Em **2 de julho de 2026**, Renan comenta o caso da professora Michele, em São José dos Campos, que sofreu tentativa de homicídio por quatro alunos que colocaram lâminas de vidro em seu copo d'água. Ele descreve o caso como sintoma de uma escalada da violência que atinge também o ambiente escolar:
+
+> "Isso vai se somando a um número cada vez maior de casos de violência e desrespeito contra professores em sala de aula. Isso cada vez mais vem se tornando a regra."
+
+Renan vincula o episódio à perda de autoridade do professor — que não pode mais reprovar alunos, não tem instrumentos de disciplina e vê os alunos "intocáveis" — e defende a redução da maioridade penal e escolas militares como resposta.
+
+Ver [[fontes/2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos]].
 
 ## Restinga (Porto Alegre): crime organizado no Sul do país (junho de 2026)
 

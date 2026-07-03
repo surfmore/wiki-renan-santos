@@ -5,8 +5,20 @@ tags:
   - tecnologia
   - soberania
   - soft-power
-date: 2026-06-29
+date: 2026-07-03
 ---
+
+## Marcas nacionais e agregação de valor na produção de alimentos finos (julho de 2026)
+
+Em **3 de julho de 2026**, gravando na Cooperativa Aurora, Renan critica o padrão brasileiro de exportar commodities sem agregar valor. Usando o vinho como exemplo, ele mostra que o Brasil tem potencial para competir internacionalmente com produtos de alto valor agregado — a Aurora tem quase 1.000 premiações internacionais — mas falta escala e apoio do governo.
+
+Renan propõe que seu governo ofereça **suporte e incentivo à exportação de produtos finos brasileiros**: vinhos, queijos, azeites e outros produtos nacionais. Sua visão é de marcas brasileiras ganhando o mundo:
+
+> "Precisamos de marcas nacionais tomando o mundo e o produtor nacional ganhando mais dinheiro e ficando mais feliz."
+
+Ele conecta a crítica à falta de agregação de valor nas cadeias do café, cacau e frutas — todos exportados in natura — enquanto países concorrentes processam e vendem produtos acabados por preços muito maiores.
+
+Ver [[fontes/2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo]].
 
 ## Data center em Eldorado do Sul (RS): obra bilionária sabotada por grupos indígenas (junho de 2026)
 

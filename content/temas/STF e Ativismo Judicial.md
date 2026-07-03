@@ -4,10 +4,22 @@ tags:
   - tema
   - stf
   - instituições
-date: 2026-04-03
+date: 2026-07-03
 ---
 
 Crítica sistemática ao **Supremo Tribunal Federal** ocupa lugar central na pré-candidatura de Renan Santos. Para ele, o STF deixou de ser um tribunal constitucional e se tornou uma **"quarta instância de deliberação"** que decide politicamente temas que caberiam ao Legislativo, servindo como **"guardião do patrimonialismo brasileiro"** e da "agenda da esquerda".
+
+## Abuso do Ministério Público e censura via TACs (julho de 2026)
+
+Em **3 de julho de 2026**, Renan denuncia que duas lideranças do Partido Missão em Santa Catarina foram processadas pelo Ministério Público por usarem o termo "prender matô" ao se referir a facções criminosas. Como parte de um **Termo de Ajustamento de Conduta (TAC)**, foram obrigados a fazer curso de direitos humanos.
+
+Renan critica o Ministério Público como entidade que, em vez de combater o crime organizado, censura quem o denuncia. Ele cita o caso do **Hospital Albert Einstein**, que foi obrigado via TAC a implementar cotas de 55% em suas contratações, como exemplo de como os TACs se tornaram instrumento de imposição ideológica:
+
+> "Os TACs acontecem o tempo todo. É uma febre, é a forma que a cultura woke, que a visão de mundo de esquerda, vai se impondo sobre empresas, sobre políticos, sobre lideranças, sobre porta-vozes. É um regime ditatorial imposto justamente para essas figuras."
+
+Renan conecta a atuação do MP ao ativismo judicial mais amplo, estendendo sua crítica — antes focada no STF — ao Ministério Público como instituição que também extrapola suas funções constitucionais. Ele anuncia que, em seu governo, passará uma **legislação clara delimitando a atuação de juízes e promotores**, impedindo que interpretações subjetivas interfiram na vida dos cidadãos.
+
+Ver [[fontes/2026-07-03 - Terei que fazer um curso de Direitos humanos!]].
 
 ## STF mantém penduricos após desabafo viral de trabalhador (junho de 2026)
 

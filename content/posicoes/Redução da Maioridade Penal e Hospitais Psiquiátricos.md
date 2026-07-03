@@ -5,14 +5,25 @@ tags:
   - segurança-pública
   - maioridade-penal
   - psiquiatria
-date: 2025-12-03
+date: 2026-07-03
 fontes:
+  - "2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos"
   - "2026-07-01 - Sâmia Bonfim resolveu me atacar"
   - "2026-06-11 - Aprovada redução da maioridade penal"
   - "2025-12-03 - Você é a favor da redução da maioridade penal"
 ---
 
 Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que considera irrecuperáveis: a redução efetiva da maioridade penal para crimes violentos e a restauração do sistema de internação psiquiátrica compulsória.
+
+## Tentativa de homicídio por alunos em São José dos Campos (julho de 2026)
+
+Em **2 de julho de 2026**, Renan comenta o caso de quatro alunos que colocaram lâminas de vidro no copo d'água de sua professora, Michele, em São José dos Campos — uma tentativa de homicídio. Ele defende a redução da maioridade penal como solução para que esses menores possam ser responsabilizados criminalmente:
+
+> "Eu quero reduzir a maioridade penal para que esses garotos que tentaram matar ela possam ser pegos."
+
+Renan conecta o caso à perda de autoridade do professor e à necessidade de responsabilização também dos pais, tanto na justiça quanto financeiramente.
+
+Ver [[fontes/2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos]].
 
 ## Prisão de menor como adulto para crimes sexuais (julho de 2026)
 

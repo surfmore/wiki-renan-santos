@@ -4,8 +4,9 @@ tags:
   - tema
   - partido-missão
   - eleições-2026
-date: 2026-06-01
+date: 2026-07-03
 fontes:
+  - "2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente"
   - "2026-07-01 - BATI 8% NA ATLAS"
   - "2026-06-28 - Expulsei o Caze TV"
   - "2026-06-16 - 10% em SP!"
@@ -25,6 +26,20 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Coronel Aroldo Medina anunciado como vice-presidente (julho de 2026)
+
+Em **3 de julho de 2026**, Renan anuncia o [[pessoas/Coronel Aroldo Medina]], da Brigada Militar do Rio Grande do Sul, como seu pré-candidato a Vice-Presidente da República. O anúncio ocorre em evento público com cerca de 300 apoiadores.
+
+Medina é apresentado como um oficial de 42 anos com histórico de bravura: durante um assalto com reféns, colocou-se como alvo do bandido para proteger uma balconista e negociou a rendição, sendo condecorado com medalha por ato de bravura. Em seu discurso, Medina declara Renan "o próximo presidente do Brasil" e divide sua medalha com ele.
+
+Renan aceita o convite de forma emocionada, afirmando que a medalha é "um desafio pelo que eu preciso ser". Medina responde: "Eu aceito a missão."
+
+A escolha de um coronel da Brigada Militar como vice reforça a ênfase da campanha do Missão no combate ao crime organizado e na segurança pública como prioridade de governo.
+
+Ver [[fontes/2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente]] e [[pessoas/Coronel Aroldo Medina]].
+
+## Pesquisa Atlas: 7,8% nacional e 3º lugar entre partidos (julho de 2026)
 
 ## Pesquisa Atlas: 7,8% nacional e 3º lugar entre partidos (julho de 2026)
 
