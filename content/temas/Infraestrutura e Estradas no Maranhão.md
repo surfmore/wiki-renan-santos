@@ -11,7 +11,7 @@ Em abril de 2026, Renan Santos está percorrendo o estado do Maranhão de carro 
 
 ## Estradas
 
-Na rodovia estadual MA-06, Renan mostra crateras e buracos ao longo do trajeto que liga o norte ao sul do estado, descrevendo a estrada como "basicamente um lixo" e comparando o percurso a uma amarelinha. Critica o governador **Brandão** pela ausência de pavimentação e ironiza a promessa recorrente de "bloquetes" em ano eleitoral. Entrevista trabalhadores transportados em caçambas que dizem que "se não tiver estrada, não vai sair voto" na região.
+Na rodovia estadual MA-06, Renan mostra crateras e buracos ao longo do trajeto que liga o norte ao sul do estado, descrevendo a estrada como "basicamente um lixo" e comparando o percurso a uma amarelinha. Critica o governador [[pessoas/Carlos Brandão]] pela ausência de pavimentação e ironiza a promessa recorrente de "bloquetes" em ano eleitoral. Entrevista trabalhadores transportados em caçambas que dizem que "se não tiver estrada, não vai sair voto" na região.
 
 Em outro vídeo, Renan comenta o estado geral das BRs e estradas do Nordeste como evidência do descompasso entre a [[temas/Carga Tributária|carga tributária brasileira]] e os serviços públicos efetivamente entregues.
 

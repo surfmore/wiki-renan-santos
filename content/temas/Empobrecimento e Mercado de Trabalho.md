@@ -223,9 +223,9 @@ A agenda econômica resumida no vídeo:
 
 No vídeo [[fontes/2026-03-29 - LULA ESTÁ EM PÂNICO]], Renan retoma o mesmo diagnóstico com ênfase no termo em inglês **affordability** ("capacidade de comprar coisas, de se autossustentar"). Ataca diretamente a taxa de desemprego oficial de **5,3%**: a metodologia considera apenas quem "procura de fato emprego" — e no Brasil, segundo ele, boa parte das cidades "não tem atividade econômica", então as pessoas vivem de **auxílios, aposentadoria e BPC** sem chegar a procurar emprego.
 
-Apresenta a **Selic em torno de 15%** e **juros reais superiores a 20%** como "muito acima da média mundial". Usa cenas típicas — entregador, motorista de Uber, dono de restaurante e de loja de material de construção — para ilustrar o descompasso entre trabalho e renda. Formula o programa **Pé-de-Meia / Vale-Gás / energia elétrica** como mecanismo em que Lula "dá com uma mão e tira com outra através de impostos, juros e custo de vida".
+Apresenta a **Selic em torno de 15%** e **juros reais superiores a 20%** como "muito acima da média mundial" — política de juros conduzida por [[pessoas/Roberto Campos Neto]] à frente do Banco Central. Usa cenas típicas — entregador, motorista de Uber, dono de restaurante e de loja de material de construção — para ilustrar o descompasso entre trabalho e renda. Formula o programa **Pé-de-Meia / Vale-Gás / energia elétrica** como mecanismo em que Lula "dá com uma mão e tira com outra através de impostos, juros e custo de vida".
 
-Especula que Lula pode **desistir da candidatura**, abrindo espaço para **Haddad** — "que talvez tenha até mais chance que o Lula". Apresenta-se como **"remédio amargo"** disposto a reformar privilégios.
+Especula que Lula pode **desistir da candidatura**, abrindo espaço para [[pessoas/Fernando Haddad]] — "que talvez tenha até mais chance que o Lula". Apresenta-se como **"remédio amargo"** disposto a reformar privilégios.
 
 ## Convergência com Luciano Huck (maio de 2026)
 

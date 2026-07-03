@@ -9,7 +9,7 @@ date: 2026-06-25
 fontes:
   - "2026-05-22 - Deolane Bezerra presa!"
   - "2026-04-18 - Fui ameaçado pelo pai do Neymar"
-  - "2026-06-13 - Fui censurado...."
+  - "2026-06-13 - Fui censurado"
   - "2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil."
 ---
 
@@ -39,5 +39,5 @@ Em **18 de junho de 2026**, Renan contrapõe a "moça correta, trabalhadora, boa
 
 - [[fontes/2026-05-22 - Deolane Bezerra presa!]] — prisão por lavagem de dinheiro para o PCC; direito penal do inimigo
 - [[fontes/2026-04-18 - Fui ameaçado pelo pai do Neymar]] — doação de R$1,16M à ONG de Neymar
-- [[fontes/2026-06-13 - Fui censurado....]] — comparação com Ingrid Andrade
+- [[fontes/2026-06-13 - Fui censurado]] — comparação com Ingrid Andrade
 - [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]] — contraste entre o brasileiro honesto e influenciadores ligados ao crime

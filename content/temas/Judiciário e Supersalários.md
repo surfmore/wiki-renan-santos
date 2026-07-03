@@ -44,7 +44,7 @@ Renan descreve a justiça maranhense como "uma das mais caras e cheias de privil
 
 > "Aí depois reclamam quando eu digo que o Maranhão tá todo errado."
 
-Ver [[fontes/2026-06-13 - Fui censurado...]].
+Ver [[fontes/2026-06-13 - Fui censurado]].
 
 ## MP do Ceará: supersalários e diárias para a Copa do Mundo (junho de 2026)
 

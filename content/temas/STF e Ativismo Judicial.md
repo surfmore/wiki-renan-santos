@@ -70,7 +70,7 @@ Ver [[fontes/2026-04-29 - BESSIAS REJEITADO!]], [[fontes/2026-04-29 - URGENTE! L
 
 Em **27 de abril de 2026**, Renan comenta entrevista de **Gilmar Mendes** à Renata Lopret em que o ministro diz: *"A mim me parece que a imprensa trouxe o caso Vorcaro para a Praça dos Três Poderes. Eu, se fosse buscar o endereço do caso Vorcaro ou do caso master, eu veria ele na Faria Lima."*
 
-Para Renan, é um recado direto à imprensa para que a cobertura **não toque o STF** — fala "que soa quase como uma ameaça", no mesmo tom de declarações recentes do ministro sobre o senador **Alessandro Vieira** ("esse cara aí não pode me investigar"). O argumento de Gilmar é insustentável, segundo Renan: a influência do Banco Master na Faria Lima veio justamente dos contatos políticos do banco (PT da Bahia → governo Bolsonaro → STF → governo Lula), com o STF servindo como "cereja do bolo" para garantir impunidade. O contrato milionário da esposa de Moraes com Vorcaro torna a tentativa de blindagem ainda mais explícita.
+Para Renan, é um recado direto à imprensa para que a cobertura **não toque o STF** — fala "que soa quase como uma ameaça", no mesmo tom de declarações recentes do ministro sobre o senador [[pessoas/Alessandro Vieira]] ("esse cara aí não pode me investigar"). O argumento de Gilmar é insustentável, segundo Renan: a influência do Banco Master na Faria Lima veio justamente dos contatos políticos do banco (PT da Bahia → governo Bolsonaro → STF → governo Lula), com o STF servindo como "cereja do bolo" para garantir impunidade. O contrato milionário da esposa de Moraes com Vorcaro torna a tentativa de blindagem ainda mais explícita.
 
 Renan descreve Gilmar — outrora "talvez o ministro mais inteligente, com a melhor formação" do tribunal — como o **porta-voz** de um STF "completamente louco, fora da realidade, com pretensões imperiais". Diagnostica "uma fraqueza não só intelectual, mas uma fraqueza emocional". A reação desproporcional do ministro a um simples vídeo do governador **[[pessoas/Romeu Zema]]** serviria como sintoma.
 
@@ -318,6 +318,7 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 - [[pessoas/Alexandre de Moraes]] — contratos com Vorcaro; decisão de dosimetria; casamento Tabata-Campos
 - [[pessoas/Dias Toffoli]] — resort Tayaya; proteção de Flávio na rachadinha; destruição do COAF; "acordão"
 - [[pessoas/Flávio Bolsonaro]] — rabo preso com Toffoli e Gilmar Mendes; impede ação do Senado
+- [[pessoas/Ricardo Lewandowski]] — ministro da Justiça de Lula; contrato com Banco Master
 - [[eventos/Escândalo Banco Master]] — contexto principal do período 2026
 
 ## Fontes

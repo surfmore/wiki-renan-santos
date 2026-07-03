@@ -126,7 +126,7 @@ Antes mesmo dos vídeos de dezembro, Renan já cobria o escândalo em **novembro
 
 Em [[fontes/2025-11-26 - Quem estava no projeto político do Banco Master]], Renan apresenta pela primeira vez o "mapa" visual de conexões entre o Banco Master e os polos de poder brasileiros. O vídeo introduz a comparação com Jeffrey Epstein e detalha:
 
-- Zettel como doador do Bolsonaro e do Tarcísio em 2022
+- [[pessoas/Fabiano Zettel]] como doador do Bolsonaro e do Tarcísio em 2022
 - Guido Mantega como consultor e elo entre Vorcaro e Lula
 - Rueda (União Brasil) e Ciro Nogueira (PP) como aliados diretos
 - **BRB** (Banco de Brasília, controlado por Ibaneis Rocha) inseriu carteira podre de R$ 16 bilhões ao tentar comprar o Master
@@ -139,7 +139,7 @@ Em [[fontes/2025-12-09 - Se o Vorcaro abrir a boca, o Brasil acaba]], Renan adic
 
 - **Dias Toffoli** deu liminar favorável ao Master enquanto viajava de jatinho com **Augusto de Arruda Botelho** (advogado do banco); Botelho havia sido advogado de Theebrecht na Lava-Jato.
 - A **mulher de Alexandre de Moraes** tinha contrato com o Banco Master avaliado em mais de **R$ 100 milhões no total** (R$ 3,6 milhões/mês).
-- **Roberto Campos Neto** (ex-BC, cotado como ministro da Fazenda de Tarcísio) ignorou **38 alertas** do mercado financeiro pedindo intervenção no Master.
+- [[pessoas/Roberto Campos Neto]] (ex-BC, cotado como ministro da Fazenda de Tarcísio) ignorou **38 alertas** do mercado financeiro pedindo intervenção no Master.
 - Renan questiona explicitamente por que o caso não tem cobertura equivalente ao petrolão no Jornal Nacional.
 
 ---
@@ -212,7 +212,7 @@ Em **4 de fevereiro de 2026**, Renan lista os motivos pelo quais Lula evitava co
 - **Ricardo Lewandowski**: atual ministro da Justiça de Lula, recebeu **contrato de R$ 5 milhões** do Banco Master. Quando pressionado, afirmou que o contrato permaneceria com a família.
 - **Reuniões fora da agenda**: Lula encontrou-se com Vorcaro **pelo menos três vezes** fora da agenda oficial.
 - **Venezuela e Maduro**: Vorcaro comprou poços de petróleo na Venezuela; Renan questiona se o contato com Maduro veio via Lula.
-- **Janja e o TCU**: a esposa de Lula foi diretora da **OEI** (Organização dos Estados Ibero-americanos), contratada sem licitação para organizar a COP 30. O TCU começou a investigar.
+- [[pessoas/Janja]] e o TCU: a esposa de Lula foi diretora da **OEI** (Organização dos Estados Ibero-americanos), contratada sem licitação para organizar a COP 30. O TCU começou a investigar.
 
 Ver [[fontes/2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER]].
 

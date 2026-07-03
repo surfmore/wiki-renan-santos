@@ -252,7 +252,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[fontes/2026-06-14 - O Japão tem uma estratégia para golear o Brasil]] — Renan usa o exemplo do Japão na Copa para defender o modelo japonês de fusão de municípios como inspiração para o Brasil; cita Kim Kataguiri como aliado para implementar a política.
 - [[fontes/2026-06-14 - Vão proibir seu ChatGPT]] — EUA restringem acesso de não americanos à IA mais avançada; Renan propõe Brasil como país dos data centers e uso de terras raras como moeda de troca.
 - [[fontes/2026-06-13 - E se Marrocos derrotar o Brasil hoje]] — Renan usa o jogo Brasil x Marrocos pela Copa para explicar o Sebastianismo e sua influência na política brasileira, de Dom Sebastião a Lula e Bolsonaro.
-- [[fontes/2026-06-13 - Fui censurado...]] — Renan é censurado pela justiça do Maranhão após denunciar ex-prefeito corrupto de Arari e sua influenciadora; crítica ao judiciário maranhense.
+- [[fontes/2026-06-13 - Fui censurado]] — Renan é censurado pela justiça do Maranhão após denunciar ex-prefeito corrupto de Arari e sua influenciadora; crítica ao judiciário maranhense.
 - [[fontes/2026-06-12 - Vamos transformar o agro brasileiro com tecnologia japonesa]] — Renan mostra máquina agrícola automática japonesa; denuncia impostos que impedem pequeno agricultor de acessar tecnologia; propõe eliminar impostos sobre máquinas que aumentem produtividade; cita Saito, nipo-brasileiro maior produtor de cebolinha do Japão; paralelo com Embrapa.
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — Renan critica relatório de Érika Hilton que isenta ONGs LGBT de pagar energia; financiado pelo CDE que representa 15% da conta de luz; conecta ao "Eletrolão" e "Luz para Todos"; promete derrubar subsídios seletivos.
 - [[fontes/2026-06-12 - Você que está acompanhando a Copa, viu esse time]] — Renan denuncia gastos do MP do Ceará com diárias para a Copa do Mundo e supersalários de 87% dos membros.
@@ -289,4 +289,4 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[analises/Timeline do Escândalo Banco Master]] — Linha do tempo completa do escândalo, de nov/2025 a jun/2026
 - [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Evolução da relação entre os dois pré-candidatos
 - [[analises/Propostas de Governo - Comparativo por Área]] — Compilação de todas as propostas de Renan por área temática
-- [[analises/A Viagem ao Pará - Diagnóstico do Brasil Profundo]] — Análise da viagem de campanha pelo Pará (jun/2026) como diagnóstico do Brasil profundo
+- [[analises/A Viagem ao Pará - Diagnóstico do Brasil Profundo]] — Análise da viagem de campanha pelo Pará (jun/2026) como diagnóstico do Brasil profundo   

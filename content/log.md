@@ -1,5 +1,16 @@
 # Log de operações
 
+## [2026-07-03] lint | Lint completo + correções
+- Links corrigidos na página ativa: eventos/Escândalo Banco Master (3 refs), pessoas/Daniel Vorcaro (1 ref), pessoas/Michele Bolsonaro (1 ref), fontes/2026-06-26 - Michele vs Flávio Bolsonaro (2 refs)
+- Arquivo de fonte renomeado: fontes/2026-06-13 - Fui censurado....md → fontes/2026-06-13 - Fui censurado.md (4 pontos → 1)
+- Links corrigidos em temas/Energia, temas/Corrupção Municipal, temas/Judiciário, index.md, pessoas/Deolane Bezerra, fontes/2026-06-13 - Fui censurado.md
+- Fonte criada: fontes/2026-07-02 - Um exemplo de mulher.md (estava faltando)
+- Cross-links adicionados para 7 páginas órfãs (Alessandro Vieira, Carlos Brandão, Fabiano Zettel, Fernando Haddad, Janja, Ricardo Lewandowski, Roberto Campos Neto)
+- 4 video_ids adicionados ao .processed_ids
+- Index stats atualizados (686 fontes, 27 temas, 29 posições, 51 pessoas, 13 eventos)
+- Sync completo: wiki/ → site/content/ (819 arquivos)
+- Nota: 20 links quebrados restantes no log.md (referências históricas a páginas que não existem mais — links corrigidos manualmente quando encontrados, mas as descrições no log referem-se aos links ANTIGOS, não ativos)
+
 ## [2026-07-02] ingest | Vai trabalhar, Senador Romário!
 - Fonte criada: fontes/2026-07-02 - Vai trabalhar, Senador Romário!
 - Páginas criadas: nenhuma
@@ -446,7 +457,7 @@
 - Nota: Renan explica o Sebastianismo (mito de Dom Sebastião) e sua influência na política brasileira, conectando a Batalha de Alcácer Quibir ao messianismo de Lula e Bolsonaro. Primeiro vídeo da série "Países da Copa".
 
 ## [2026-06-13] ingest | Fui censurado... (ingest automático)
-- Fonte criada: fontes/2026-06-13 - Fui censurado....
+- Fonte criada: fontes/2026-06-13 - Fui censurado
 - Páginas atualizadas: temas/Corrupção Municipal, temas/Judiciário e Supersalários, index.md, log.md, wiki/.processed_ids
 - Nota: Renan anuncia que foi censurado pela justiça do Maranhão após ser processado por Ingrid Andrade, influenciadora de Arari (MA) que faz vídeos pornográficos com ex-prefeito corrupto Rui Filho. Critica o judiciário maranhense como caro, cheio de privilégios e cúmplice da corrupção local.
 
