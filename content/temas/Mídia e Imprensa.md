@@ -8,6 +8,18 @@ date: 2026-04-12
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
 
+## Influenciadores vs. Jornalismo: o caso Virgínia Fonseca (julho de 2026)
+
+Em **4 de julho de 2026**, ao criticar a influenciadora Virgínia Fonseca por promover bets para seus seguidores, Renan estabelece um contraste explícito entre o tipo de influenciador que o Brasil valoriza e o jornalismo sério que merecia mais reconhecimento.
+
+Renan cita a jornalista Malu Gaspar como exemplo de mulher brasileira que deveria ser inspiração — alguém que recusou suborno de R$ 1,5 milhão de Daniel Vorcaro e continua investigando o Escândalo Banco Master. Em contraste, Virgínia — uma influenciadora que, segundo Renan, "trata seus seguidores como idiotas" e tem conexões suspeitas com lavagem de dinheiro — é a figura mais popular entre os brasileiros.
+
+> "Tanta mulher boa no Brasil para você se inspirar. Eu falei outro dia muito bem da Malu Gaspar, que triste que a mulher que os brasileiros mais gostam seja uma bizarra como essa Virgínia."
+
+O episódio ilustra a crítica mais ampla de Renan à cultura de influenciadores digitais que substituem o jornalismo investigativo e à "gororoba cultural" que o Brasil consome.
+
+Ver [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]].
+
 ## Helane Cataned da Globo News: "terror" com outsider (junho de 2026)
 
 Em **9 de junho de 2026**, Renan responde à jornalista Helane Cataned, da Globo News, que teria classificado sua ascensão nas pesquisas como "preocupante" e atribuído o fenômeno à frustração da juventude com a política tradicional. A jornalista expressou a tese de que outsiders só têm chance quando a política tradicional deixa vácuo.
@@ -156,6 +168,7 @@ Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 �
 
 ## Fontes
 
+- [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — contraste entre influenciadores digitais (Virgínia) e jornalismo sério (Malu Gaspar)
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Resposta a Helane Cataned; defesa da comunicação direta; outsider vs. imprensa tradicional
 - [[fontes/2025-11-19 - Resposta para a humorista alemã]]
 - [[fontes/2025-11-14 - RENAN RESPONDE JORNALISTA BURRO]]

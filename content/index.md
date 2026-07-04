@@ -98,10 +98,10 @@ date: 2026-07-04
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">690</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">692</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
-<a class="wiki-stat" href="/pessoas"><span class="num">52</span><span class="label">Pessoas</span></a>
+<a class="wiki-stat" href="/pessoas"><span class="num">54</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
 
@@ -152,6 +152,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/pessoas/Virgínia-Fonseca"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Virgínia Fonseca</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Influenciadora digital multimilionária. Renan a usa como símbolo da "gororoba cultural"; críticas por promover bets (Blaze) e conexão com o Escândalo Banco Master via Fabiano Zettel.</p></a>
+<a class="wiki-card" href="/pessoas/Cleitinho-Azevedo"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Cleitinho Azevedo</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Senador e pré-candidato ao governo de MG. Renan o critica como populista que escolhe as posições mais populares; CPI dos Cassinos Online; proposta "burra" do IPTU.</p></a>
 <a class="wiki-card" href="/pessoas/Coronel-Aroldo-Medina"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Coronel Aroldo Medina</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Coronel da Brigada Militar do RS, herói em assalto com reféns; anunciado como pré-candidato a vice-presidente na chapa de Renan.</p></a>
 <a class="wiki-card" href="/pessoas/Sâmia-Bonfim"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Sâmia Bonfim</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Deputada federal do PSOL/SP que atacou Renan usando vídeo antigo de piada; Renan responde criticando a "defesa de bandido" do PSOL.</p></a>
 <a class="wiki-card" href="/pessoas/Michele-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Michele Bolsonaro</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Esposa de Jair Bolsonaro que atacou Flávio publicamente. Renan suspeita de ambições presidenciais futuras. Aliada de Valdemar, Malafaia e Nikolas.</p></a>
@@ -177,7 +179,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Joesley-Batista"><div class="wiki-card-header"><span class="wiki-card-icon">🥩</span><span class="wiki-card-title">Joesley Batista</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Empresário da JBS. Maior beneficiado de leilão de termoelétricas de R$ 1 tri; R$ 40M a Ciro Nogueira.</p></a>
 <a class="wiki-card" href="/pessoas/Carlos-Brandão"><div class="wiki-card-header"><span class="wiki-card-icon">🏗️</span><span class="wiki-card-title">Carlos Brandão</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Governador do MA. Omissão em estradas, ponte de Estreito desabada e competição com Braide após denúncias.</p></a>
 <a class="wiki-card" href="/pessoas/Ciro-Nogueira"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Ciro Nogueira</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Senador do PP, "o homem mais poderoso do Brasil" e "grande lobista das bets" no Congresso. Ligação com Vorcaro e escândalo Banco Master.</p></a>
-<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 52 pessoas →</span></div><p class="wiki-card-desc">Coronel Aroldo Medina, Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
+<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 54 pessoas →</span></div><p class="wiki-card-desc">Coronel Aroldo Medina, Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📰 Eventos</p>
@@ -194,6 +196,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-07-04 - Cabo Verde fez o mundo sonhar!]] — Renan usa a campanha de Cabo Verde na Copa como lição de perseverança e paralelo com sua pré-candidatura
+- [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — Renan critica Virgínia Fonseca por promover bets (Blaze); sugere investigação por lavagem de dinheiro; contraste com Malu Gaspar
 - [[fontes/2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente]] — Renan anuncia Coronel Aroldo Medina (Brigada Militar/RS) como seu pré-candidato a vice-presidente
 - [[fontes/2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo]] — Renan denuncia carga tributária que sabota produção nacional de vinho; propõe incentivo à exportação de produtos finos brasileiros
 - [[fontes/2026-07-03 - Terei que fazer um curso de Direitos humanos!]] — Renan denuncia censura do Ministério Público via TACs contra lideranças do Missão em SC; propõe legislação para limitar atuação de juízes e promotores

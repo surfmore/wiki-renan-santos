@@ -1,5 +1,17 @@
 # Log de operações
 
+## [2026-07-04] ingest | Virgínia fez você perder dinheiro
+- Fonte criada: fontes/2026-07-04 - Virgínia fez você perder dinheiro
+- Páginas criadas: pessoas/Virgínia Fonseca, pessoas/Cleitinho Azevedo
+- Páginas atualizadas: posicoes/Proibição de Bets e Cassinos Online, temas/Mídia e Imprensa, index.md, log.md, wiki/.processed_ids
+- Nota: video_id 2vZJPkYFInc. Renan critica Virgínia Fonseca por promover bets (Blaze); sugere investigação por lavagem de dinheiro; cita CPI dos Cassinos Online e Cleitinho.
+
+## [2026-07-04] ingest | Cabo Verde fez o mundo sonhar!
+- Fonte criada: fontes/2026-07-04 - Cabo Verde fez o mundo sonhar!
+- Páginas criadas: nenhuma
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: video_id tSStqnRehuE. Reflexão motivacional sobre perseverança inspirada na campanha de Cabo Verde na Copa; paralelo com a pré-candidatura.
+
 ## [2026-07-03] ingest | O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente
 - Fonte criada: fontes/2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente
 - Páginas criadas: pessoas/Coronel Aroldo Medina

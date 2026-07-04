@@ -7,12 +7,25 @@ tags:
   - crime-organizado
 date: 2026-06-26
 fontes:
+  - "2026-07-04 - Virgínia fez você perder dinheiro"
   - "2026-06-28 - Expulsei o Caze TV"
   - "2026-06-26 - A Cazé TV vai acabar!"
   - "2026-06-10 - O tigrinho vai me perseguir"
 ---
 
 Renan Santos defende uma posição radicalmente contrária à operação de empresas de apostas online (bets) e cassinos virtuais no Brasil, que ele descreve como um sistema de evasão de divisas e lavagem de dinheiro para facções criminosas.
+
+## Crítica a Virgínia Fonseca por promover bets na Copa (julho de 2026)
+
+Em **4 de julho de 2026**, Renan critica a influenciadora digital Virgínia Fonseca por usar sua influência para incentivar seguidores a apostar na plataforma Blaze durante o jogo Argentina x Cabo Verde pela Copa do Mundo. Renan aponta que Virgínia, uma mulher multimilionária, trata seus seguidores como "idiotas completos" ao incentivá-los a apostar.
+
+Renan menciona que Virgínia esteve na CPI dos Cassinos Online, onde foi tratada com "bajulação" pelo senador Cleitinho, e sugere que investigações mais profundas sobre suas conexões podem revelar ligações com lavagem de dinheiro e crime organizado.
+
+> "Volto a colocar, se cavucar direito essa mulher horrorosa, essa bizarrista chamada Virgínia, merda será encontrada."
+
+Renan contrasta Virgínia com jornalistas sérias como Malu Gaspar, que recusou suborno de R$ 1,5 milhão de Daniel Vorcaro — mostrando que o Brasil tem mulheres exemplares que não recebem o mesmo reconhecimento.
+
+Ver [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]].
 
 ## Expulsão de candidato do Missão por divulgar bets (junho de 2026)
 
@@ -67,6 +80,7 @@ Renan também alerta que dinheiro de programas sociais (Bolsa Família, BPC) e a
 
 ## Fontes
 
+- [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — crítica a Virgínia Fonseca por promover bets (Blaze) na Copa; CPI dos Cassinos Online; ligação com lavagem de dinheiro
 - [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida do Missão por divulgar bets; reafirmação da posição
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — seletividade na regulação de bets; 5 milhões de famílias do Bolsa Família apostam; proposta de restrição por renda
 - [[fontes/2026-06-10 - O tigrinho vai me perseguir]] — crítica à regulamentação sigilosa de bets por Lula; proposta de revogação e combate
