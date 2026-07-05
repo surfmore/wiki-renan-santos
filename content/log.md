@@ -1,5 +1,12 @@
 # Log de operações
 
+## [2026-07-04] lint | Lint + sync (pós-ingest)
+- Correção: pessoas/Virgínia Fonseca — wikilink para fonte corrigido (ponto extra)
+- Index atualizado via script: 692 fontes, 27 temas, 29 posições, 54 pessoas, 13 eventos
+- Sync: wiki/ → site/content/ (828 arquivos)
+- Commit: "auto: lint + sync 2026-07-04" (push pendente — será feito pelo Windows)
+- Nenhum broken link novo em páginas ativas; apenas os 20 históricos no log.md
+
 ## [2026-07-04] ingest | Virgínia fez você perder dinheiro
 - Fonte criada: fontes/2026-07-04 - Virgínia fez você perder dinheiro
 - Páginas criadas: pessoas/Virgínia Fonseca, pessoas/Cleitinho Azevedo
@@ -1890,4 +1897,22 @@
 **Páginas atualizadas:**
 - eventos/Escândalo Banco Master (Vorcaro preso; Marta Graeff; Resort Tayaya-JBS; CPI Alessandro Vieira; correção R$130M)
 - temas/STF e Ativismo Judicial (Viviane Barce; Lulinha/Flávio Dino; Resort Tayaya)
-- temas/C
+- temas/Crítica à Direita Tradicional (CPI Alessandro Vieira)
+- temas/Segurança Pública (7 propostas PM; 60 anos reincidentes; Singapura)
+- temas/Pautas Identitárias e de Gênero (cassação Érika Hilton; Dia da Mulher; Marta Graeff)
+- temas/Corrupção Municipal (Presidente Vargas MA)
+- pessoas/Alexandre de Moraes (R$130M; mensagens secretas; Kim convoca)
+- pessoas/Flávio Bolsonaro (CPI Alessandro Vieira)
+- pessoas/Kim Kataguiri (cassação Hilton; convocações Marta Graeff, Moraes, Viviane Barce)
+- pessoas/Ratinho Júnior (Pay Brokers R$400K; Cred; contrato Toffoli)
+- wiki/index.md
+
+---
+
+## [2026-04-15] ingest batch 6 | 20 shorts (2026-03-14 → 2026-03-19)
+
+**Fontes processadas (20):**
+- fontes/2026-03-19 - MEU INSTAGRAM VAI CAIR
+- fontes/2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO
+- fontes/2026-03-19 - Eu estava certo sobre a Igreja Lagoinha
+- fontes/2026-03-19 - ANÃO 

@@ -68,4 +68,19 @@ Em **10 de junho de 2026**, ao criticar a decisão do governo Lula de colocar em
 4. **Prender membros** de cassinos online, que são usados como mecanismo de lavagem de dinheiro.
 5. Discussão no Congresso sobre bets esportivas com regras rigorosas.
 
-> "Meu governo será contrário às bets e vai botar para fora e prender membros de cassinos online. Só lembrando que eles são utilizados como lavagem de din
+> "Meu governo será contrário às bets e vai botar para fora e prender membros de cassinos online. Só lembrando que eles são utilizados como lavagem de dinheiro pro comando vermelho e pro PCC."
+
+## Contexto da crítica a Lula
+
+Renan acusa Lula de colocar em sigilo o processo regulatório das bets enquanto publicamente finge ser contra elas. Aponta que várias bets têm sede na Rússia e na China — países que descreve como aliados do governo Lula. A **1x Bet** foi autorizada no Brasil apesar de ter sido banida em outros países.
+
+Cita [[pessoas/Ciro Nogueira]] que teria usado jatinho particular de dono de bet para férias internacionais.
+
+Renan também alerta que dinheiro de programas sociais (Bolsa Família, BPC) e aposentadorias está sendo drenado por essas plataformas, afetando principalmente pessoas de baixa renda.
+
+## Fontes
+
+- [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — crítica a Virgínia Fonseca por promover bets (Blaze) na Copa; CPI dos Cassinos Online; ligação com lavagem de dinheiro
+- [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida do Missão por divulgar bets; reafirmação da posição
+- [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — seletividade na regulação de bets; 5 milhões de famílias do Bolsa Família apostam; proposta de restrição por renda
+- [[fontes/2026-06-10 - O tigrinho vai me perseguir]] — crítica à regulamentação sigilosa de bets por Lula; proposta de revogação e combate
