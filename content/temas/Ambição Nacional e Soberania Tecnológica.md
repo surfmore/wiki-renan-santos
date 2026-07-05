@@ -8,6 +8,16 @@ tags:
 date: 2026-07-03
 ---
 
+## O problema do Brasil é de liderança, não de recursos (julho de 2026)
+
+Em **5 de julho de 2026**, Renan faz uma declaração de otimismo sobre o Brasil e afirma que o problema do país **não é de recursos naturais nem de falta de vontade da população de trabalhar**, mas sim de **liderança**. Sua tese é que uma elite corrompida (como a envolvida no [[eventos/Escândalo Banco Master]]) não pode inspirar a população a ter comportamento ordeiro.
+
+Renan cita o exemplo de Singapura e Lee Kuan Yew como modelo de transformação: uma região favelizada e sem saneamento se tornou um dos melhores lugares do mundo através da liderança pelo exemplo. Sua proposta é que o [[temas/Partido Missão]] se torne a nova elite que inspire o país, com a filosofia "ordem → hábito → cultura".
+
+O vídeo reforça a tese de Renan de que o Brasil tem potencial para ser uma grande nação — "o futuro é glorioso" — mas precisa de uma liderança que acredite no país e dê o exemplo.
+
+Ver [[fontes/2026-07-05 - O futuro é glorioso]].
+
 ## Marcas nacionais e agregação de valor na produção de alimentos finos (julho de 2026)
 
 Em **3 de julho de 2026**, gravando na Cooperativa Aurora, Renan critica o padrão brasileiro de exportar commodities sem agregar valor. Usando o vinho como exemplo, ele mostra que o Brasil tem potencial para competir internacionalmente com produtos de alto valor agregado — a Aurora tem quase 1.000 premiações internacionais — mas falta escala e apoio do governo.

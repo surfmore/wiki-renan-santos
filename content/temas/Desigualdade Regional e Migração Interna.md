@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2026-07-02
 fontes:
+  - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-07-01 - Estou sendo cancelado!"
   - "2026-06-30 - Restinga teu povo te ama"
   - "2026-06-28 - Olha o que o Lula falou dos sulistas"
@@ -21,6 +22,14 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## Saneamento e desigualdade: aliados de Lula governam os estados com pior infraestrutura (julho de 2026)
+
+Em **4 de julho de 2026**, Renan aponta que os estados com pior saneamento básico do Brasil — Maranhão, Piauí e Ceará — são todos governados por aliados de [[pessoas/Lula]], que nunca os cobrou pelo problema. Renan usa o argumento para rebater a fala de Lula sobre os "4 milhões de famílias sem banheiro", mostrando que o PT vota contra o marco do saneamento (que permitiria investimento privado) enquanto seus aliados regionais mantêm as piores condições do país.
+
+O Pará, governado pela [[pessoas/Família Barbalho]] (aliada de Lula), é citado como o estado de pior saneamento, onde Renan documentou pessoas bebendo o próprio esgoto na Ilha de Marajó.
+
+Ver [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]].
 
 ## Renan é cancelado por críticas aos políticos do Nordeste (julho de 2026)
 

@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-06-25
 fontes:
+  - "2026-07-05 - O futuro é glorioso"
   - "2026-06-25 - Resposta para a mulher do Boulos"
   - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
@@ -16,6 +17,16 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## "Desfavelizar a mente": ordem, hábito e cultura (julho de 2026)
+
+Em **5 de julho de 2026**, Renan expande a dimensão cultural da desfavelização com o conceito de **"desfavelizar a mente do Brasil"**. Inspirado no exemplo de Singapura e Lee Kuan Yew, ele propõe uma filosofia de transformação em três estágios: **primeiro cria-se a ordem, depois a ordem vira hábito e depois o hábito vira cultura**.
+
+Renan argumenta que não se pode cobrar das pessoas em favelas que tenham comportamento ordeiro enquanto a elite do país participa do [[eventos/Escândalo Banco Master]]. A solução, para ele, é que seu partido — o [[temas/Partido Missão]] — se torne uma nova elite que inspire pelo exemplo, gerando uma transformação de cima para baixo.
+
+O conceito se conecta à tese anterior da "mentalidade favelada" (outubro de 2025) e aprofunda o diagnóstico: o problema do Brasil não é de recursos, mas de liderança.
+
+Ver [[fontes/2026-07-05 - O futuro é glorioso]].
 
 ## Resposta a Boulos e MTST: desfavelização não é agressão (junho de 2026)
 

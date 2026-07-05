@@ -5,12 +5,22 @@ tags:
   - político
   - esquerda
   - psol
-date: 2026-06-26
+date: 2026-07-04
 ---
 
 Deputada federal pelo PSOL (SP), figura usada por Renan Santos recorrentemente como exemplo da "esquerda identitária" que, na sua leitura, prejudica as mulheres reais ao priorizar pautas simbólicas sobre segurança física e punição efetiva de crimes.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## "Urna viada" e a futilidade do debate político (julho de 2026)
+
+Em **4 de julho de 2026**, Renan critica Érika Hilton por ter levado à Parada Gay o tema da "urna viada" — uma urna eletrônica temática LGBTQIAP+. Para Renan, a deputada usa a pauta para eleger candidatos do PSOL enquanto o Brasil enfrenta problemas graves como pobreza, crise econômica e a transformação do país em narcoestado.
+
+Renan também menciona que [[pessoas/Tarcísio de Freitas]] entrou na justiça contra a urna viada. O episódio serve a Renan como exemplo do que ele considera a superficialidade do debate político brasileiro, contrastando com seu próprio trabalho de pré-campanha em Belo Horizonte.
+
+> "Para algumas pessoas basta criar uma urna viada."
+
+Ver [[fontes/2026-07-04 - Urna viada]].
 
 ## Ataque seletivo à Cazé TV (junho de 2026)
 
@@ -87,6 +97,7 @@ Ver [[pessoas/Oruam]].
 
 ## Fontes
 
+- [[fontes/2026-07-04 - Urna viada]] — crítica à "urna viada" promovida por Érika Hilton como exemplo de futilidade política
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — ataque seletivo à Cazé TV; não crítica outras emissoras que também usam bets
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — relatório de isenção de energia para ONGs LGBT financiado pelo CDE
 - [[fontes/2026-04-19 - Erika Hilton x Madeleine Lackso]]

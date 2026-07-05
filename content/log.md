@@ -1,5 +1,20 @@
 # Log de operações
 
+## [2026-07-05] ingest | O futuro é glorioso
+- Fonte criada: fontes/2026-07-05 - O futuro é glorioso
+- Páginas atualizadas: posicoes/Desfavelização do Brasil, temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
+- Nota: video_id eztbL7ignyI. Renan diz que problema do Brasil é de liderança, não de recursos; cita Singapura/Lee Kuan Yew; propõe "desfavelizar a mente"; ordem → hábito → cultura.
+
+## [2026-07-04] ingest | É assim que vou destruir o Lula nos debates
+- Fonte criada: fontes/2026-07-04 - É assim que vou destruir o Lula nos debates
+- Páginas atualizadas: pessoas/Lula, temas/Desigualdade Regional e Migração Interna, eventos/COP30 — Legado em Belém, index.md, log.md, wiki/.processed_ids
+- Nota: video_id beWJcblN2Oo. Renan aponta contradição de Lula sobre saneamento; PT votou contra marco do saneamento; Barbalho enriqueceu com COP30.
+
+## [2026-07-04] ingest | Urna viada
+- Fonte criada: fontes/2026-07-04 - Urna viada
+- Páginas atualizadas: pessoas/Érika Hilton, index.md, log.md, wiki/.processed_ids
+- Nota: video_id T4nFIeuLuv8. Renan critica Érika Hilton e a "urna viada" como exemplo de superficialidade do debate político.
+
 ## [2026-07-04] lint | Lint + sync (pós-ingest)
 - Correção: pessoas/Virgínia Fonseca — wikilink para fonte corrigido (ponto extra)
 - Index atualizado via script: 692 fontes, 27 temas, 29 posições, 54 pessoas, 13 eventos

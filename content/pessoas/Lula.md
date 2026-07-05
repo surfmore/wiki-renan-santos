@@ -5,8 +5,9 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-06-28
+date: 2026-07-04
 fontes:
+  - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-06-28 - Olha o que o Lula falou dos sulistas"
   - "2026-06-22 - Essa declaração é o fim do governo Lula"
   - "2026-06-18 - Lula conseguiu uma proeza!"
@@ -33,6 +34,18 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Saneamento básico: Renan aponta contradição de Lula com aliados (julho de 2026)
+
+Em **4 de julho de 2026**, Renan reage a uma fala de Lula sobre os "4 milhões de famílias sem banheiro" no Brasil. Renan aponta que os lugares onde Lula é mais votado — Maranhão, Piauí e Ceará — são justamente os estados com pior saneamento básico, todos governados por aliados do PT que Lula nunca cobrou.
+
+Renan também critica o PT por ter votado **contra o marco legal do saneamento**, que permitiria investimento privado no setor. Ele lista os gastos dos governos petistas que, na sua visão, poderiam ter sido usados para saneamento: Copa do Mundo, Olimpíada, COP30, e os escândalos de corrupção (mensalão, petrolão). Renan compara o Brasil à Índia, que estaria resolvendo saneamento mais rápido.
+
+Renan afirma que começou a rodar lugares sem saneamento como a Ilha de Marajó, mostrando a realidade local, e que Lula estaria perdendo votos nesses lugares para ele.
+
+> "Lula dobra a língua para falar desse assunto. Você é um animal, você nunca ligou para isso."
+
+Ver [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]].
 
 ## Lula chama catarinenses de "nazistas" e Renan aponta correlação com Bolsa Família (junho de 2026)
 
@@ -264,6 +277,7 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]] — Renan aponta contradição de Lula sobre saneamento; PT votou contra marco do saneamento
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Renan critica proposta de Lula para devolução de celulares roubados pelo correio; contrasta com 30 anos de prisão para assalto à mão armada
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — Lula igualmente envolvido; cronologia
 - [[fontes/2026-04-29 - Esse é o começo do fim do Lula!]] — racha com o centrão; janela eleitoral

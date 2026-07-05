@@ -8,6 +8,7 @@ tags:
   - desigualdade
 date: 2026-06-21
 fontes:
+  - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
   - "2025-11-17 - O Brasil está sendo humilhado!"
@@ -20,6 +21,12 @@ fontes:
 A **COP30** foi realizada em **Belém (PA)** em novembro de 2025, com custo declarado por Renan de mais de **R$ 4 bilhões** pagos pelo Brasil. Renan Santos usa o balanço do evento como símbolo de governo populista que usa o dinheiro público para propaganda enquanto a população local vive na miséria.
 
 > Nota: esta página reproduz as críticas de Renan Santos sobre o evento. Não constitui avaliação independente.
+
+## Lula e a COP30: acusação de enriquecimento dos Barbalhos (julho de 2026)
+
+Em **4 de julho de 2026**, durante seu preparativo para debate eleitoral, Renan acusa o governador do Pará [[pessoas/Família Barbalho|Hélder Barbalho]] (aliado de Lula) de ter se apropriado da COP30 para enriquecer, enquanto o estado permanece com o pior saneamento básico do Brasil. Para Renan, o caso exemplifica a contradição de Lula: seu aliado enriquece com o evento internacional, mas a população do Pará continua bebendo o próprio esgoto.
+
+Ver [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]].
 
 ## Jurunas: a favela que a COP30 não escondeu (junho de 2026)
 
