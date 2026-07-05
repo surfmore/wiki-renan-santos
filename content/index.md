@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-05
+date: 2026-07-04
 ---
 
 <style>
@@ -282,20 +282,4 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[fontes/2026-06-08 - Abuso de idosos]] — Renan denuncia a exploração financeira de idosos como padrão da direita bolsonarista/trumpista; cita R$ 17 milhões em PIX de Bolsonaro aplicados em renda fixa; propõe lei contra exploração da confiança de idosos.
 - [[fontes/2026-06-08 - Já imaginou rasgar o Brasil de ferrovias]] — Renan apresenta plano ferroviário em 3 fases para conectar São Paulo, Campinas, Ribeirão Preto, São José dos Campos, Goiânia, Brasília e Rio de Janeiro.
 - [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — Renan alerta que MG está se tornando o novo RJ; dados mostram 14% de aumento nas mortes violentas contra 8% de queda nacional; PCC, CV e TCP em três frentes; propõe estado de defesa e transferência de faccionados para presídios remotos.
-- [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes em Lisboa no "Gilmarpalooza"; critica gastos do judiciário com viagens de luxo.
-- [[fontes/2026-06-07 - O Chelsea está apoiando o Lula]] — Renan critica Chelsea/Lula por investimento superficial em quadra na favela; propõe desfavelização com bolsas de estudo como alternativa real.
-- [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — Renan critica Flávio Bolsonaro por votar o PL da Misoginia; defende Juliano Cazarré de censura feminista; apresenta dados sobre saúde masculina.
-- [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — Renan propõe gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira; churrasco diplomático.
-- [[fontes/2026-06-06 - Já politizaram a copa!]] — Renan critica politização do futebol pela esquerda; comparação com métodos educacionais e defesa do método fônico.
-- [[fontes/2025-09-09 - Precisamosa libertar 25 milhões de brasileiros!]] — Renan defende que 25 milhões de brasileiros vivem presos nas mãos do crime organizado; propõe ação multifatorial com Força Aérea, polícias e mudanças nas leis penais; crítica à GLO de Temer e a Witzel.
-- [[fontes/2025-09-08 - Que se D4ne a MAGALU!]] — Renan critica a "taxa das blusinhas" que reduziu o consumo de 14 milhões de brasileiros; aponta protecionismo em favor da Magazine Luiza; defende eliminação das taxas.
-- [[fontes/2025-09-06 - Cuida de mim, painho!]] — Renan faz desabafo contra Lula e o PT, que mantêm o Nordeste na pobreza com assistencialismo barato em vez de desenvolvimento real.
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]] — Autobiografia: Renan conta sua história pessoal, da infância na Mooca à fundação do MBL e do Partido Missão; crítica a Bolsonaro como "farsa".
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS [QrFE87WpcEs]]] — Reportagem televisiva sobre a primeira aparição de Renan em pesquisa presidencial com 2%; discurso de guerra ao crime organizado.
-
-## Análises
-
-- [[analises/Timeline do Escândalo Banco Master]] — Linha do tempo completa do escândalo, de nov/2025 a jun/2026
-- [[analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026]] — Evolução da relação entre os dois pré-candidatos
-- [[analises/Propostas de Governo - Comparativo por Área]] — Compilação de todas as propostas de Renan por área temática
-- [[analises/A Viagem ao Pará - Diagnóstico do Brasil Profundo]] — Análise da viagem de campanha pelo Pará (jun/2026) como diagnóstico do Brasil profundo   
+- [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]] — Renan denuncia diárias de R$ 30.000 para juízes e
