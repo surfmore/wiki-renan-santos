@@ -7,6 +7,16 @@ tags:
 date: 2026-07-03
 ---
 
+## STF e a CBF: corrupção no futebol brasileiro (julho de 2026)
+
+Em **6 de julho de 2026**, Renan critica a Confederação Brasileira de Futebol (CBF) como uma organização corrupta que "pertence à turma do STF" e é "administrada pelo Gilmar Mendes". Ele afirma que a convocação de Neymar para a Copa do Mundo foi feita por pressão de patrocinadores, não por mérito, e que a CBF "tá pouco se lixando pra própria história".
+
+Renan conecta a decadência do futebol brasileiro ao mesmo sistema político-judicial que critica: a CBF corrupta e ligada ao STF produz jogadores "vendedores de bet" que se comportam como influencers narcisistas em vez de atletas. Para ele, tanto a política quanto o futebol brasileiro sofrem do mesmo mal — uma elite que vive de glórias do passado enquanto o país definha.
+
+Ver [[fontes/2026-07-06 - Brasil perdeu Eles não merecem teu choro.]] e [[fontes/2026-07-06 - Vou ser cancelado com esse vídeo]].
+
+---
+
 Crítica sistemática ao **Supremo Tribunal Federal** ocupa lugar central na pré-candidatura de Renan Santos. Para ele, o STF deixou de ser um tribunal constitucional e se tornou uma **"quarta instância de deliberação"** que decide politicamente temas que caberiam ao Legislativo, servindo como **"guardião do patrimonialismo brasileiro"** e da "agenda da esquerda".
 
 ## Abuso do Ministério Público e censura via TACs (julho de 2026)

@@ -20,6 +20,16 @@ O episódio ilustra a crítica mais ampla de Renan à cultura de influenciadores
 
 Ver [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]].
 
+## Cancelado por criticar a seleção brasileira (julho de 2026)
+
+Em **6 de julho de 2026**, Renan afirma que está sendo "cancelado" por suas opiniões sobre o desempenho da seleção brasileira na Copa do Mundo. Ele critica os jogadores como "vendedores de bet", emocionalmente fracos e com síndrome de protagonista, e diz que não vai pedir desculpas — sua postura é sempre falar a verdade, mesmo quando as pessoas discordam.
+
+Renan conecta o cancelamento à sua postura de não tratar o público como "otário" dizendo apenas o que querem ouvir, e usa o episódio para reforçar sua crítica mais ampla à cultura de influenciadores e à decadência do futebol brasileiro, ligada ao STF (por meio da CBF administrada por Gilmar Mendes).
+
+Ver [[fontes/2026-07-06 - Vou ser cancelado com esse vídeo]].
+
+---
+
 ## Helane Cataned da Globo News: "terror" com outsider (junho de 2026)
 
 Em **9 de junho de 2026**, Renan responde à jornalista Helane Cataned, da Globo News, que teria classificado sua ascensão nas pesquisas como "preocupante" e atribuído o fenômeno à frustração da juventude com a política tradicional. A jornalista expressou a tese de que outsiders só têm chance quando a política tradicional deixa vácuo.

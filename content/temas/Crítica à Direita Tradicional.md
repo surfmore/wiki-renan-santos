@@ -7,6 +7,16 @@ tags:
 date: 2025-09-02
 ---
 
+## Lula e Bolsonaro: "figuras nojentas" que não merecem choro (julho de 2026)
+
+Em **6 de julho de 2026**, comentando a eliminação do Brasil na Copa do Mundo, Renan traça um paralelo direto entre o futebol e a política: assim como os jogadores narcisistas da seleção não merecem o choro dos torcedores, **Lula e Bolsonaro são "figuras nojentas" que também não valem o tempo nem o investimento emocional dos brasileiros**.
+
+Renan afirma que ambos os lados da polarização política são igualmente indignos da atenção popular — "assim como a política brasileira, essas figuras nojentas de Lula e Bolsonaro não valem teu choro" — e defende que o Brasil precisa construir sua própria história em vez de se apegar a essas lideranças.
+
+Ver [[fontes/2026-07-06 - Brasil perdeu Eles não merecem teu choro.]].
+
+---
+
 Renan Santos posiciona sua pré-candidatura **em oposição não apenas ao governo Lula, mas também à "direita tradicional"** representada pela família Bolsonaro, pelo Centrão aliado e por figuras que ele classifica como "direita falsa que ficou rica enquanto enganava a população". A tese é que o desgaste moral do bolsonarismo abriu um vácuo na direita que sua candidatura pretende ocupar.
 
 ## Raiz da crítica: Renan nunca acreditou em Bolsonaro (setembro de 2025)

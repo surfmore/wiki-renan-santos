@@ -98,7 +98,7 @@ date: 2026-07-06
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">695</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">698</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">54</span><span class="label">Pessoas</span></a>
@@ -196,6 +196,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-07-06 - Vou ser cancelado com esse vídeo]] — Renan critica jogadores "vendedores de bet" e diz que está sendo cancelado; conecta decadência do futebol à CBF corrupta administrada por Gilmar Mendes (STF); convida a fazer parte da "aventura" Missão
+- [[fontes/2026-07-06 - Brasil perdeu Eles não merecem teu choro.]] — Renan critica jogadores narcisistas e "vendedores de bet"; paralelo com Lula e Bolsonaro como "figuras nojentas" que não merecem choro dos brasileiros
+- [[fontes/2026-07-06 - A base vem forte!]] — Renan em contexto de rally de campanha; transcrição muito limitada
 - [[fontes/2026-07-05 - O futuro é glorioso]] — Renan diz que o problema do Brasil é de liderança, não de recursos; cita Singapura; propõe "desfavelizar a mente"
 - [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]] — Renan aponta contradição de Lula sobre saneamento; PT votou contra marco do saneamento; Barbalho enriqueceu com COP30
 - [[fontes/2026-07-04 - Urna viada]] — Renan critica Érika Hilton e a "urna viada"; superficialidade do debate político

@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-07-06] ingest automático | 3 shorts: A base vem forte! / Brasil perdeu / Vou ser cancelado
+- Fontes criadas: fontes/2026-07-06 - A base vem forte!, fontes/2026-07-06 - Brasil perdeu Eles não merecem teu choro., fontes/2026-07-06 - Vou ser cancelado com esse vídeo
+- Páginas atualizadas: temas/STF e Ativismo Judicial (conexão CBF-Gilmar Mendes), temas/Crítica à Direita Tradicional (Lula e Bolsonaro "figuras nojentas"), temas/Mídia e Imprensa (cancelado por criticar seleção), index.md, log.md, wiki/.processed_ids
+- Nenhuma página nova de tema/posição/pessoa/evento criada (conteúdo coberto por páginas existentes)
+- Nota: 3 shorts de 2026-07-06. Video 1 "A base vem forte!" — transcrição limitada/fragmentada. Video 2 "Brasil perdeu" — paralelo entre jogadores narcisistas e Lula/Bolsonaro como "figuras nojentas". Video 3 "Vou ser cancelado" — crítica a jogadores vendedores de bet, CBF/Gilmar Mendes (STF), conexão com geração Vorcaro/Virgínia/Marçal.
+
 ## [2026-07-05] ingest | O futuro é glorioso
 - Fonte criada: fontes/2026-07-05 - O futuro é glorioso
 - Páginas atualizadas: posicoes/Desfavelização do Brasil, temas/Ambição Nacional e Soberania Tecnológica, index.md, log.md, wiki/.processed_ids
