@@ -171,7 +171,7 @@ Ver [[fontes/2026-05-10 - Flávio Bolsonaro confessou o acordo com o Alexandre d
 
 Em **29 de abril de 2026**, durante a tentativa de Lula de emplacar **Jorge Messias** como ministro do STF, Flávio foi questionado sobre por que não articulou votos contra a nomeação. Sua resposta: *"Olha, mais uma vez, eu não participei de articulação política, não pedi votos contra. Eu apenas dei a minha opinião."*
 
-Para Renan, a declaração é uma confissão de fraqueza política: Flávio se reuniu com Messias no contexto das negociações, não articulou nada, e agora se desresponsabiliza. O pano de fundo: Flávio tem "rabo preso" com o STF — sua carreira política existe porque **Toffoli** derrubou as provas do COAF na rachadinha, e **Gilmar Mendes** criou manobra que travou o processo no foro privilegiado de Brasília.
+Para Renan, a declaração é uma confissão de fraqueza política: Flávio se reuniu com Messias no contexto das negociações, não articulou nada, e agora se desresponsabiliza. O pano de fundo: Flávio tem "rabo preso" com o STF — sua carreira política existe porque **Toffoli** derrubou as provas do COAF na rachadinha, e [[pessoas/Gilmar Mendes]] criou manobra que travou o processo no foro privilegiado de Brasília.
 
 > "Querem meter um fraco desses? Um homem que não tem liderança na presidência da República, ele não consegue nem liderar a bancada do PL no Senado, quanto mais liderar um país."
 

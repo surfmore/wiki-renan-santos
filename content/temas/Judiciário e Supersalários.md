@@ -85,7 +85,7 @@ Dados apresentados:
 - **Advocacia Geral da União (AGU)**: 22 pessoas.
 - **Tribunal de Contas da União (TCU)**: 13 pessoas.
 
-A abertura do evento contou com **Gilmar Mendes** (STF), o presidente da Câmara **Hugo Mota**, e discurso de **Alexandre de Moraes**.
+A abertura do evento contou com [[pessoas/Gilmar Mendes]] (STF), o presidente da Câmara **Hugo Mota**, e discurso de **Alexandre de Moraes**.
 
 Renan ironiza que, com R$ 30.000 de diária, é possível alugar uma Ferrari, jantar nos restaurantes mais caros — além dos jantares já pagos pelo evento — e comprar roupas de luxo. Caracteriza o encontro como o momento em que a "elite jurídica que manda num país muito pobre" busca refúgio em Lisboa para viver um padrão de vida que a realidade brasileira não permite.
 

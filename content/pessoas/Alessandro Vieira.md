@@ -44,7 +44,7 @@ Ver [[fontes/2026-03-14 - GLOBO X STF, A GUERRA COMEÇOU]].
 
 Renan descreve o conjunto de retaliações sofridas por Alessandro Vieira após sua atuação na CPI:
 
-- **Gilmar Mendes** ameaçou cassação de mandato e inelegibilidade.
+- [[pessoas/Gilmar Mendes]] ameaçou cassação de mandato e inelegibilidade.
 - **Lula** foi ao Sergipe e "desmontou qualquer palanque" para Vieira no estado.
 - **Flávio Bolsonaro** o atacou antes do STF agir, dizendo que ele era "grande hipócrita" e que a CPI era "ilegal".
 
@@ -52,9 +52,9 @@ Renan interpreta esse padrão como evidência de que PT, STF e bolsonarismo oper
 
 Ver [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]] e [[fontes/2026-04-17 - Eduardo Bolsonaro será preso!]].
 
-### Gilmar Mendes cita Vieira como exemplo de "quem não pode investigá-lo" (abril de 2026)
+### [[pessoas/Gilmar Mendes]] cita Vieira como exemplo de "quem não pode investigá-lo" (abril de 2026)
 
-Ao comentar a entrevista de Gilmar Mendes sobre o caso Banco Master, Renan relembra a declaração do ministro sobre Alessandro Vieira — identificada como "esse cara aí não pode me investigar, isso aqui não pode chegar na gente" — e a classifica como parte de um padrão autoritário e desproporcional do STF.
+Ao comentar a entrevista de [[pessoas/Gilmar Mendes]] sobre o caso Banco Master, Renan relembra a declaração do ministro sobre Alessandro Vieira — identificada como "esse cara aí não pode me investigar, isso aqui não pode chegar na gente" — e a classifica como parte de um padrão autoritário e desproporcional do STF.
 
 Ver [[fontes/2026-04-27 - Gilmar Mendes perdeu o controle]].
 

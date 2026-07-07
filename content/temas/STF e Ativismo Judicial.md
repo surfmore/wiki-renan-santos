@@ -9,7 +9,7 @@ date: 2026-07-03
 
 ## STF e a CBF: corrupção no futebol brasileiro (julho de 2026)
 
-Em **6 de julho de 2026**, Renan critica a Confederação Brasileira de Futebol (CBF) como uma organização corrupta que "pertence à turma do STF" e é "administrada pelo Gilmar Mendes". Ele afirma que a convocação de Neymar para a Copa do Mundo foi feita por pressão de patrocinadores, não por mérito, e que a CBF "tá pouco se lixando pra própria história".
+Em **6 de julho de 2026**, Renan critica a Confederação Brasileira de Futebol (CBF) como uma organização corrupta que "pertence à turma do STF" e é "administrada pelo [[pessoas/Gilmar Mendes]]". Ele afirma que a convocação de Neymar para a Copa do Mundo foi feita por pressão de patrocinadores, não por mérito, e que a CBF "tá pouco se lixando pra própria história".
 
 Renan conecta a decadência do futebol brasileiro ao mesmo sistema político-judicial que critica: a CBF corrupta e ligada ao STF produz jogadores "vendedores de bet" que se comportam como influencers narcisistas em vez de atletas. Para ele, tanto a política quanto o futebol brasileiro sofrem do mesmo mal — uma elite que vive de glórias do passado enquanto o país definha.
 
@@ -46,9 +46,9 @@ Ver [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]].
 Em **17 de junho de 2026**, ao responder a um ataque de Eduardo Bolsonaro na Jovem Pan, Renan expõe o que chama de "relações espúrias" da família Bolsonaro com ministros do STF, evidenciando a contradição entre o discurso público de enfrentamento e os acordos nos bastidores:
 
 - **Dias Toffoli** anulou as provas obtidas pelo COAF contra Flávio Bolsonaro, salvando-o e a todos os envolvidos no petrolão.
-- **Gilmar Mendes** retirou o caso das rachadinhas do Tribunal de Justiça do Rio de Janeiro, beneficiando Flávio.
-- A família Bolsonaro pediu votos para o irmão de Gilmar Mendes em Mato Grosso.
-- Jair Bolsonaro pediu ao filho Eduardo que não atacasse Gilmar Mendes — Renan exibe um print como prova.
+- [[pessoas/Gilmar Mendes]] retirou o caso das rachadinhas do Tribunal de Justiça do Rio de Janeiro, beneficiando Flávio.
+- A família Bolsonaro pediu votos para o irmão de [[pessoas/Gilmar Mendes]] em Mato Grosso.
+- Jair Bolsonaro pediu ao filho Eduardo que não atacasse [[pessoas/Gilmar Mendes]] — Renan exibe um print como prova.
 - **Flávio Bolsonaro** votou a favor da nomeação de **Cristiano Zanin**, advogado pessoal de Lula, como ministro do STF.
 - **Jair Bolsonaro** convidou publicamente **Alexandre de Moraes** — seu algoz no STF — para ser vice-presidente em sua chapa de 2026.
 
@@ -90,7 +90,7 @@ Ver [[fontes/2026-04-29 - BESSIAS REJEITADO!]], [[fontes/2026-04-29 - URGENTE! L
 
 ## Gilmar Mendes tenta blindar o STF do caso Master (abril de 2026)
 
-Em **27 de abril de 2026**, Renan comenta entrevista de **Gilmar Mendes** à Renata Lopret em que o ministro diz: *"A mim me parece que a imprensa trouxe o caso Vorcaro para a Praça dos Três Poderes. Eu, se fosse buscar o endereço do caso Vorcaro ou do caso master, eu veria ele na Faria Lima."*
+Em **27 de abril de 2026**, Renan comenta entrevista de [[pessoas/Gilmar Mendes]] à Renata Lopret em que o ministro diz: *"A mim me parece que a imprensa trouxe o caso Vorcaro para a Praça dos Três Poderes. Eu, se fosse buscar o endereço do caso Vorcaro ou do caso master, eu veria ele na Faria Lima."*
 
 Para Renan, é um recado direto à imprensa para que a cobertura **não toque o STF** — fala "que soa quase como uma ameaça", no mesmo tom de declarações recentes do ministro sobre o senador [[pessoas/Alessandro Vieira]] ("esse cara aí não pode me investigar"). O argumento de Gilmar é insustentável, segundo Renan: a influência do Banco Master na Faria Lima veio justamente dos contatos políticos do banco (PT da Bahia → governo Bolsonaro → STF → governo Lula), com o STF servindo como "cereja do bolo" para garantir impunidade. O contrato milionário da esposa de Moraes com Vorcaro torna a tentativa de blindagem ainda mais explícita.
 
@@ -107,7 +107,7 @@ Em **27 de abril de 2026**, perguntado diretamente se ministros do STF deveriam 
 Renan já pediu impeachment em quatro manifestações e prisão nas duas últimas.
 
 **Por que o Senado não age:**
-- Flávio Bolsonaro tem rabo preso — sua carreira existe porque Toffoli (COAF/rachadinha) e Gilmar Mendes (foro privilegiado) o protegeram
+- Flávio Bolsonaro tem rabo preso — sua carreira existe porque Toffoli (COAF/rachadinha) e [[pessoas/Gilmar Mendes]] (foro privilegiado) o protegeram
 - O STF controla o legislativo via foro privilegiado: quem julga os parlamentares não pode ser julgado por eles com neutralidade
 
 Proposta: presidente sem rabo preso para reformar o foro especial — desembargadores sorteados com mandato de 2 anos, proibidos de julgar parlamentares do próprio estado.
@@ -132,7 +132,7 @@ Ver [[fontes/2026-05-08 - Eu estou disposto a enfrentar o STF]].
 Em **17 de abril de 2026**, Renan descreve o destino do senador **Alessandro Vieira** (Podemos, SE) como ilustração do padrão de cumplicidade entre PT, STF e o bolsonarismo:
 
 - Vieira propôs, via CPI, o indiciamento de ministros do STF.
-- **Gilmar Mendes** respondeu com ameaça de cassação de mandato e inelegibilidade.
+- [[pessoas/Gilmar Mendes]] respondeu com ameaça de cassação de mandato e inelegibilidade.
 - **Lula** foi ao Sergipe e desmontou o palanque político de Vieira.
 - **Flávio Bolsonaro** havia atacado Vieira **antes** do STF: chamou-o de "grande hipócrita" e disse que a CPI era "ilegal", acusando-o de desacreditar o Legislativo ao vincular o governo Bolsonaro ao Banco Master.
 - **Valdemar da Costa Neto** afirmou que o tema impeachment de ministros "diminuiu muito" de relevância.
@@ -236,7 +236,7 @@ Ver [[fontes/2026-03-08 - O que um país sério tem que fazer com Alexandre de M
 
 ## STF e a proteção a Lulinha (março de 2026)
 
-Flávio Dino, indicado ao STF por Lula como parceiro político de longa data, suspendeu o acesso a dados sobre movimentação de **R$ 1 milhão** do filho de Lula, **Fábio Luiz da Silva ("Lulinha")**. Renan contrapõe a mentira de Boulos sobre Lula "mandar investigar" com o fato de que a decisão de Dino ocorreu naquela mesma semana. O padrão é simétrico: Flávio Bolsonaro também foi beneficiado por Toffoli e Gilmar Mendes.
+Flávio Dino, indicado ao STF por Lula como parceiro político de longa data, suspendeu o acesso a dados sobre movimentação de **R$ 1 milhão** do filho de Lula, **Fábio Luiz da Silva ("Lulinha")**. Renan contrapõe a mentira de Boulos sobre Lula "mandar investigar" com o fato de que a decisão de Dino ocorreu naquela mesma semana. O padrão é simétrico: Flávio Bolsonaro também foi beneficiado por Toffoli e [[pessoas/Gilmar Mendes]].
 
 Ver [[fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA]].
 
@@ -339,14 +339,14 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 - [[pessoas/Alexandre de Moraes]] — contratos com Vorcaro; decisão de dosimetria; casamento Tabata-Campos
 - [[pessoas/Dias Toffoli]] — resort Tayaya; proteção de Flávio na rachadinha; destruição do COAF; "acordão"
-- [[pessoas/Flávio Bolsonaro]] — rabo preso com Toffoli e Gilmar Mendes; impede ação do Senado
+- [[pessoas/Flávio Bolsonaro]] — rabo preso com Toffoli e [[pessoas/Gilmar Mendes]]; impede ação do Senado
 - [[pessoas/Ricardo Lewandowski]] — ministro da Justiça de Lula; contrato com Banco Master
 - [[eventos/Escândalo Banco Master]] — contexto principal do período 2026
 
 ## Fontes
 
 - [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — STF decide manter penduricos mesmo após desabafo viral de trabalhador
-- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, Gilmar Mendes, Moraes) em resposta a ataque de Eduardo
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, [[pessoas/Gilmar Mendes]], Moraes) em resposta a ataque de Eduardo
 - [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]]
 - [[fontes/2026-04-17 - Eduardo Bolsonaro será preso!]]
 - [[fontes/2026-04-29 - BESSIAS REJEITADO!]]

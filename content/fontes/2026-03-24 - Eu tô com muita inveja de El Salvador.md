@@ -33,7 +33,7 @@ Lula: "defensor de criminosos", aliado de ministros corruptos do STF, aumenta ga
 ## Crítica a Flávio Bolsonaro
 
 - "Cadela do STF": tem medo de pedir impeachment de Alexandre de Moraes.
-- Foi salvo da cadeia por liminar de **Gilmar Mendes**, e por isso sua família até hoje faz campanha para Gilmar.
+- Foi salvo da cadeia por liminar de [[pessoas/Gilmar Mendes]], e por isso sua família até hoje faz campanha para Gilmar.
 - Contra a CPI da Lava Toga: "Eu fui contra sim a CPI da Lava Toga."
 
 ## "Teatro das tesouras"

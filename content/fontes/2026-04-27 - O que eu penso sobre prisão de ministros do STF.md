@@ -19,7 +19,7 @@ Nomeados: **Alexandre de Moraes** e **Dias Toffoli** — com contratos, depósit
 Renan já pediu impeachment em quatro manifestações e prisão nas duas últimas.
 
 **Por que o Senado não age:**
-1. Flávio Bolsonaro tem "rabo preso" — sua carreira política existe porque Toffoli e Gilmar Mendes o protegeram (COAF, foro privilegiado)
+1. Flávio Bolsonaro tem "rabo preso" — sua carreira política existe porque Toffoli e [[pessoas/Gilmar Mendes]] o protegeram (COAF, foro privilegiado)
 2. O STF controla o legislativo via foro privilegiado — se o STF julga as ações de quem o julga, o Parlamento sempre perde
 
 **O que é necessário:** um presidente sem rabo preso, sem proximidade com os ministros — ao contrário de Lula (que tem agenda política com o STF) — para endereçar uma agenda judiciária completa:
@@ -37,7 +37,7 @@ Renan já pediu impeachment em quatro manifestações e prisão nas duas última
 
 - [[pessoas/Alexandre de Moraes]] — relação comprometedora com Vorcaro; contratos e movimentações financeiras
 - **Dias Toffoli** — idem; protegeu Flávio na rachadinha
-- **Gilmar Mendes** — manobra que travou processo de Flávio no foro privilegiado
+- [[pessoas/Gilmar Mendes]] — manobra que travou processo de Flávio no foro privilegiado
 - [[pessoas/Flávio Bolsonaro]] — rabo preso que impede ação do Senado
 
 ## Posições

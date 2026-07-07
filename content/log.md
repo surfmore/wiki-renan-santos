@@ -1,5 +1,12 @@
 # Log de operações
 
+## [2026-07-06] lint | Criação da página Gilmar Mendes + lint completo
+- Página criada: pessoas/Gilmar Mendes (15 fontes — proteção a Flávio via foro privilegiado, blindagem do STF no caso Master, Gilmarpalooza, voto pela soltura de Vorcaro, ameaça a Alessandro Vieira, CBF/S.TF)
+- Cards atualizados: index.md (Gilmar Mendes adicionado no topo da grid pessoas; contador 54 → 55)
+- Cross-links adicionados: [[pessoas/Gilmar Mendes]] inserido em 18 páginas (temas/STF, temas/Judiciário, temas/Mídia, temas/Pautas Identitárias, eventos/Escândalo Banco Master, pessoas/Flávio Bolsonaro, pessoas/Eduardo Bolsonaro, pessoas/Jair Bolsonaro, pessoas/Alessandro Vieira, pessoas/Flávio Dino, analises/Evolução, fontes/2026-07-06*, fontes/2026-06*, fontes/2026-04*, fontes/2026-03*, fontes/2026-02*)
+- Nenhum broken link encontrado
+- index.md, log.md, wiki/.processed_ids atualizados
+
 ## [2026-07-06] ingest automático | 3 shorts: A base vem forte! / Brasil perdeu / Vou ser cancelado
 - Fontes criadas: fontes/2026-07-06 - A base vem forte!, fontes/2026-07-06 - Brasil perdeu Eles não merecem teu choro., fontes/2026-07-06 - Vou ser cancelado com esse vídeo
 - Páginas atualizadas: temas/STF e Ativismo Judicial (conexão CBF-Gilmar Mendes), temas/Crítica à Direita Tradicional (Lula e Bolsonaro "figuras nojentas"), temas/Mídia e Imprensa (cancelado por criticar seleção), index.md, log.md, wiki/.processed_ids

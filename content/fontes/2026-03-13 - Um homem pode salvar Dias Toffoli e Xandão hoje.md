@@ -27,7 +27,7 @@ Renan aponta que a imprensa não cobria o julgamento e pede que o público press
 
 - **Daniel Vorcaro** — banqueiro preso, delação pronta segundo Renan
 - **Cásio Nunes** — ministro nomeado por Bolsonaro, voto decisivo
-- **Gilmar Mendes** — favorável à soltura
+- [[pessoas/Gilmar Mendes]] — favorável à soltura
 - **Fux** e **André Mendonça** — favoráveis à prisão
 - **Toffoli** — impedido
 - [[pessoas/Alexandre de Moraes]] — esposa convocada por Kim Kataguiri

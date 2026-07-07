@@ -35,8 +35,8 @@ Promete que, como presidente, "vai derrubar por decreto todos esses absurdos" e 
 
 ## Pessoas mencionadas
 
-- [[pessoas/Cristiano Zanin]] — ministro do STF, ressalva à decisão de Gilmar Mendes
+- [[pessoas/Cristiano Zanin]] — ministro do STF, ressalva à decisão de [[pessoas/Gilmar Mendes]]
 - [[pessoas/Flávio Dino]] — ministro do STF, ressalva à decisão
 - [[pessoas/Flávio Bolsonaro]] — criticado por apoiar nomeação de Zanin
 - [[pessoas/André Mendonça]] — citado como par do futuro ministro católico
-- **Gilmar Mendes** — relator da decisão no STF
+- [[pessoas/Gilmar Mendes]] — relator da decisão no STF

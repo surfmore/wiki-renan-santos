@@ -25,7 +25,7 @@ Toffoli anulou todas as provas coletadas pelo **COAF** (Conselho de Controle de 
 
 Renan reconstrói a cadeia:
 1. O COAF descobriu, em 2019, que Flávio Bolsonaro praticava peculato (rachadinha) roubando o salário de funcionários de seu gabinete, junto com Fabrício Queiroz.
-2. Flávio e Gilmar Mendes destruíram a operação Lava-Jato para anular essas provas.
+2. Flávio e [[pessoas/Gilmar Mendes]] destruíram a operação Lava-Jato para anular essas provas.
 3. O caso foi soterrado. Flávio nunca mais foi responsabilizado.
 
 ## As conexões reveladas

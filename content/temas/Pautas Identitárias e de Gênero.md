@@ -78,7 +78,7 @@ Em **2 de junho de 2026**, Renan reage a uma ação movida no STF pelo **Fórum 
 
 Renan se posiciona como favorável à educação sexual no Maranhão em termos gerais — citando o contexto de alta gravidez na adolescência e famílias desestruturadas. O que critica é o conteúdo ideológico promovido por esses grupos: "Eles usam da educação sexual apenas para mascarar suas reais intenções — promover uma visão ideológica que gera danos psicológicos irreversíveis nos jovens, envolvendo gênero e orientação sexual."
 
-Renan aponta que as ressalvas feitas pelos ministros **[[pessoas/Cristiano Zanin]]** e **[[pessoas/Flávio Dino]]** à decisão do ministro Gilmar Mendes explicitamente preservam o conteúdo de gênero e identidade sexual — o que, segundo ele, confirma que a ação "é realmente sobre isso." Descreve as famílias maranhenses como "muito humildes e muito pouco escolarizadas" e sem organização para se defender.
+Renan aponta que as ressalvas feitas pelos ministros **[[pessoas/Cristiano Zanin]]** e **[[pessoas/Flávio Dino]]** à decisão do ministro [[pessoas/Gilmar Mendes]] explicitamente preservam o conteúdo de gênero e identidade sexual — o que, segundo ele, confirma que a ação "é realmente sobre isso." Descreve as famílias maranhenses como "muito humildes e muito pouco escolarizadas" e sem organização para se defender.
 
 Ver [[fontes/2026-06-02 - Atenção, Maranhão!]].
 

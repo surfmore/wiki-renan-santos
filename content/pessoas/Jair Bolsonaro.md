@@ -102,7 +102,7 @@ Ver [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIO
 
 ## A dosimetria como moeda de troca
 
-Renan formula a tese de que o acordão que enterrou a CPI do Banco Master envolveu negociação sobre a dosimetria da pena de Jair Bolsonaro — com **Davi Alcolumbre** e **Alexandre de Moraes** como articuladores. Flávio teria "rabo preso" com o STF: sua carreira política existe porque **Toffoli** derrubou as provas do COAF na rachadinha e **Gilmar Mendes** criou manobra que travou o processo no foro privilegiado de Brasília.
+Renan formula a tese de que o acordão que enterrou a CPI do Banco Master envolveu negociação sobre a dosimetria da pena de Jair Bolsonaro — com **Davi Alcolumbre** e **Alexandre de Moraes** como articuladores. Flávio teria "rabo preso" com o STF: sua carreira política existe porque **Toffoli** derrubou as provas do COAF na rachadinha e [[pessoas/Gilmar Mendes]] criou manobra que travou o processo no foro privilegiado de Brasília.
 
 Ver [[fontes/2026-04-30 - Marmelada na CPI do Banco Master]] e [[pessoas/Davi Alcolumbre]].
 
@@ -133,7 +133,7 @@ A posição consolidada de Renan sobre Jair Bolsonaro pode ser resumida em dois 
 
 ## Fontes
 
-- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Jair convidou Moraes para vice; print sobre Gilmar Mendes
+- [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Jair convidou Moraes para vice; print sobre [[pessoas/Gilmar Mendes]]
 - [[fontes/2026-06-08 - Abuso de idosos]] — R$ 17M em PIX de idosos aplicados em renda fixa
 - [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]] — abandono da candidatura de Flávio; quatro versões contraditórias
 - [[fontes/2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF]] — tratamento humanitário; "vendeta" de Moraes; Michele tomando decisões contrárias

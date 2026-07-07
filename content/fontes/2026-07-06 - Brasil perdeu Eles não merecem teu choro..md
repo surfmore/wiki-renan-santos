@@ -26,7 +26,7 @@ Renan conclui que o Brasil precisa construir sua própria história em vez de se
 
 ## Temas abordados
 
-- [[temas/STF e Ativismo Judicial]] — CBF como parte da "turma do STF", menciona Gilmar Mendes
+- [[temas/STF e Ativismo Judicial]] — CBF como parte da "turma do STF", menciona [[pessoas/Gilmar Mendes]]
 - [[temas/Crítica à Direita Tradicional]] — crítica a Bolsonaro como figura que não merece atenção
 
 ## Pessoas mencionadas
@@ -34,7 +34,7 @@ Renan conclui que o Brasil precisa construir sua própria história em vez de se
 - [[pessoas/Neymar]] — criticado como narcisista e arrogante
 - [[pessoas/Lula]] — chamado de "figura nojenta" que não merece choro
 - [[pessoas/Jair Bolsonaro]] — também chamado de "figura nojenta"
-- Gilmar Mendes — mencionado como controlador da CBF
+- [[pessoas/Gilmar Mendes]] — mencionado como controlador da CBF
 
 ## Fontes
 

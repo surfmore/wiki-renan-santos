@@ -389,7 +389,7 @@ Ver [[fontes/2026-03-16 - VORCARO DELATOU O LULA]].
 
 ## Julgamento da prisão de Vorcaro (12–13/03/2026)
 
-Em **12 de março**, Renan alerta que no dia seguinte seria votada no STF a manutenção da prisão provisória de Vorcaro. Quatro ministros votariam: Fux e André Mendonça (pela prisão), Gilmar Mendes (pela soltura) e Cásio Nunes (em dúvida). Em caso de empate, *in dubio pro reo* libertaria Vorcaro — que, segundo Renan, já tinha um **barco em Dubai** aguardando ele e **Marta Graeff** para a fuga.
+Em **12 de março**, Renan alerta que no dia seguinte seria votada no STF a manutenção da prisão provisória de Vorcaro. Quatro ministros votariam: Fux e André Mendonça (pela prisão), [[pessoas/Gilmar Mendes]] (pela soltura) e Cásio Nunes (em dúvida). Em caso de empate, *in dubio pro reo* libertaria Vorcaro — que, segundo Renan, já tinha um **barco em Dubai** aguardando ele e **Marta Graeff** para a fuga.
 
 Em **13 de março**, o resultado foi favorável à prisão: **Cásio Nunes** votou com a maioria (Fux e André Mendonça). Renan anunciou que a **delação está pronta nas mãos do advogado de Vorcaro** e, caso homologada, implicaria "presidente de partido, governador, ministro do STF, prefeito de grande cidade, fundo de pensão, jornalista famoso, influencer de moda, organizador de orgia, banqueiro, empresa de investimento, banca de advogado, crime organizado". Lançou a campanha **#delaVorcaro**.
 

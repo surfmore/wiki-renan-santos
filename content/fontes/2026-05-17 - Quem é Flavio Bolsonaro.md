@@ -13,7 +13,7 @@ Renan Santos faz um perfil direto de [[pessoas/Flávio Bolsonaro]], dirigindo-se
 
 Enquanto Renan e outros marchavam para derrubar o governo Dilma (anos 2010), Flávio "ficava ficando rico". Seus assessores sacavam mais de 80% do salário nos caixas eletrônicos da Assembleia Legislativa do Rio de Janeiro e repassavam o dinheiro a **Fabrício Queiroz**, que chegou a pagar a escola dos filhos de Flávio. Parte do dinheiro teria ido para uma loja de chocolates Copenhagen de Flávio no Rio — com vendas fora da sazonalidade (mais em agosto do que em abril, quando há a Páscoa), em cash, enquanto a família adquiria imóveis alguns deles comprados à vista.
 
-Renan afirma que Flávio não foi preso por dois movimentos no STF: primeiro, **Toffoli** anulou as provas; depois, **Gilmar Mendes** criou foro privilegiado retroativo para o caso. Em retribuição, Flávio derrubou a CPI da Lava-Toga no Senado e nunca mais mencionou os nomes de Toffoli ou Gilmar — exceto para apoiar o irmão de Gilmar para prefeito em Mato Grosso.
+Renan afirma que Flávio não foi preso por dois movimentos no STF: primeiro, **Toffoli** anulou as provas; depois, [[pessoas/Gilmar Mendes]] criou foro privilegiado retroativo para o caso. Em retribuição, Flávio derrubou a CPI da Lava-Toga no Senado e nunca mais mencionou os nomes de Toffoli ou Gilmar — exceto para apoiar o irmão de Gilmar para prefeito em Mato Grosso.
 
 ## Adriano da Nóbrega
 

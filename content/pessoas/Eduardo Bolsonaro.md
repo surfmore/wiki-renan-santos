@@ -25,7 +25,7 @@ Ver [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]].
 
 Em **17 de junho de 2026**, Eduardo Bolsonaro atacou Renan Santos durante entrevista no programa da Jovem Pan. Eduardo afirmou que Renan e Kim Kataguiri seriam responsáveis pela derrota de Jair Bolsonaro em 2022 — por terem defendido o impeachment de Bolsonaro e mandado o "pessoal ir pra praia" na eleição. Também acusou Renan de "fazer coraçãozinho pro Alexandre de Moraes".
 
-Renan respondeu com a exposição das relações da família Bolsonaro com ministros do STF que teriam beneficiado Flávio e Jair: Toffoli anulou provas do COAF contra Flávio; Gilmar Mendes retirou o caso das rachadinhas do TJ-RJ; a família pediu votos para o irmão de Gilmar Mendes; Jair Bolsonaro pediu para não baterem em Gilmar Mendes (print exibido por Renan); Flávio foi favorável a Zanin no STF; e Jair Bolsonaro convidou Alexandre de Moraes para ser vice.
+Renan respondeu com a exposição das relações da família Bolsonaro com ministros do STF que teriam beneficiado Flávio e Jair: Toffoli anulou provas do COAF contra Flávio; [[pessoas/Gilmar Mendes]] retirou o caso das rachadinhas do TJ-RJ; a família pediu votos para o irmão de Gilmar Mendes; Jair Bolsonaro pediu para não baterem em [[pessoas/Gilmar Mendes]] (print exibido por Renan); Flávio foi favorável a Zanin no STF; e Jair Bolsonaro convidou Alexandre de Moraes para ser vice.
 
 Renan ironizou que Eduardo "perdeu a linha" e recomendou que ele ficasse nos Estados Unidos — onde mora para fugir da justiça brasileira — gerando "menos danos para todo mundo".
 
