@@ -8,6 +8,20 @@ tags:
 date: 2026-07-03
 ---
 
+## Argentina e Messi: a lição de um país que se reconhece (julho de 2026)
+
+Em **7 de julho de 2026**, após a eliminação do Brasil na Copa do Mundo, Renan faz uma reflexão sobre identidade nacional a partir do contraste entre as seleções brasileira e argentina. Ele observa Lionel Messi, aos 39 anos, liderando a Argentina a uma virada histórica contra o Egito, e expressa "inveja do torcedor argentino" por ter um jogador que "se comporta como um ser humano comum normal".
+
+Renan descreve os jogadores brasileiros como "apátridas", "mercenários contratados pela CBF", "estrangeiros de alma" — que "vivem atrás de redes sociais, atrás de fama, atrás de marcas" e se comportam como "influencers". Em contraste, os argentinos "se comportam como argentinos", tomam mate, fazem churrasco e "têm a cara e o jeito do próprio país".
+
+Ele aponta que a Argentina, um país "devastado econômica e politicamente", está "virando jogo" e recebendo investimentos internacionais. Conclui com a esperança de que "o Brasil aprenda a lição da Argentina e faça o mesmo com nós mesmos", em vez de viver de glórias do passado.
+
+> "Que inveja de um país que não precisa ficar falando: 'Ah, eu tenho cinco títulos lá no passado'. Porque eles estão construindo a história no presente."
+
+O vídeo se conecta ao tema recorrente da falta de ambição nacional que Renan diagnostica: o Brasil não consegue se enxergar como protagonista, enquanto os argentinos, mesmo em crise, mantêm orgulho e identidade próprios.
+
+Ver [[fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil.]].
+
 ## O problema do Brasil é de liderança, não de recursos (julho de 2026)
 
 Em **5 de julho de 2026**, Renan faz uma declaração de otimismo sobre o Brasil e afirma que o problema do país **não é de recursos naturais nem de falta de vontade da população de trabalhar**, mas sim de **liderança**. Sua tese é que uma elite corrompida (como a envolvida no [[eventos/Escândalo Banco Master]]) não pode inspirar a população a ter comportamento ordeiro.
@@ -376,6 +390,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil.]] — Contraste entre Brasil e Argentina; jogadores brasileiros como "apátridas" e "mercenários"; lição de identidade nacional
 - [[fontes/2026-06-25 - Eu comprei esse pneu no Paraguai!]] — Comparação Brasil-Paraguai; carga tributária e data centers de Itaipu
 - [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Soft power espanhol como contraste com o Brasil; lição de nation branding e competitividade cultural
 - [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]] — BR-163 no Pará em ruínas; Ferrogrão sabotada por ONGs e PSOL; propostas de expulsão e repavimentação

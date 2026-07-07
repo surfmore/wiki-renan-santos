@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-07-07] ingest automático | 2 shorts: A vitória de Messi / Calma! Não tire sua bandeira ainda!
+- Fontes criadas: fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil., fontes/2026-07-07 - Calma! Não tire sua bandeira ainda!
+- Páginas atualizadas: temas/Ambição Nacional (Messi e Argentina como lição de identidade nacional), index.md, log.md, wiki/.processed_ids
+- Nota: Vídeo 1 "A vitória de Messi" — contraste Brasil vs Argentina; identidade nacional. 3 shorts já processados anteriormente (06/jul) ignorados. Sexto short "Devolve a casa do Richarlisson" fica para próxima execução.
+
 ## [2026-07-06] lint | Criação da página Gilmar Mendes + lint completo
 - Página criada: pessoas/Gilmar Mendes (15 fontes — proteção a Flávio via foro privilegiado, blindagem do STF no caso Master, Gilmarpalooza, voto pela soltura de Vorcaro, ameaça a Alessandro Vieira, CBF/S.TF)
 - Cards atualizados: index.md (Gilmar Mendes adicionado no topo da grid pessoas; contador 54 → 55)

@@ -98,7 +98,7 @@ date: 2026-07-07
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">698</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">700</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">55</span><span class="label">Pessoas</span></a>
@@ -121,7 +121,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/STF-e-Ativismo-Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">43 fontes</span></div><p class="wiki-card-desc">Crítica ao STF como poder político, denúncias sobre Alexandre de Moraes, abuso do Ministério Público via TACs e proposta de reforma estrutural.</p></a>
 <a class="wiki-card" href="/temas/Corrupção-Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">35 fontes</span></div><p class="wiki-card-desc">Prefeituras que gastam verbas federais em shows e festas. Proposta de lei de responsabilidade gerencial.</p></a>
 <a class="wiki-card" href="/temas/Desigualdade-Regional-e-Migração-Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺️</span><span class="wiki-card-title">Desigualdade Regional</span><span class="wiki-card-count">36 fontes</span></div><p class="wiki-card-desc">Contraste entre Santa Catarina e Maranhão; ecofazenda no Marajó; Jurunas (Belém); crítica ao "roubo federativo" que favorece estados mal geridos.</p></a>
-<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">27 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica; soft power; ferrovias, robótica, drones, data centers, terras raras; marcas nacionais e agregação de valor.</p></a>
+<a class="wiki-card" href="/temas/Ambição-Nacional-e-Soberania-Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional</span><span class="wiki-card-count">28 fontes</span></div><p class="wiki-card-desc">Transformar o Brasil em potência tecnológica; soft power; ferrovias, robótica, drones, data centers, terras raras; marcas nacionais e agregação de valor; identidade nacional e orgulho cívico.</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento-e-Mercado-de-Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento</span><span class="wiki-card-count">22 fontes</span></div><p class="wiki-card-desc">Desabafos de trabalhadores, escala 6x1, estigma do fracasso e indicadores macroeconômicos de crise sob o governo Lula.</p></a>
 <a class="wiki-card" href="/temas/Mídia-e-Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">18 fontes</span></div><p class="wiki-card-desc">Denúncia de apagamento pela Globo e jornalismo militante. Pedido de cobertura proporcional.</p></a>
 <a class="wiki-card" href="/temas/Partido-Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Aprovado pelo TSE em nov. 2025 com 547.000 membros; Coronel Aroldo Medina como vice; 7,8% nacional; regras públicas para coalizões; expulsão de candidato por bets.</p></a>
@@ -197,6 +197,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-07-07 - Calma! Não tire sua bandeira ainda!]] — Renan pede para não tirar a bandeira após derrota na Copa; "verdadeira Copa do Mundo" são as eleições de outubro contra Lula, Flávio Bolsonaro, PCC e Comando Vermelho
+- [[fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil.]] — Renan contrasta jogadores brasileiros "apátridas" e "mercenários" com a seleção argentina; Messi como exemplo de humildade e orgulho nacional; lição para o Brasil construir história no presente
 - [[fontes/2026-07-06 - Vou ser cancelado com esse vídeo]] — Renan critica jogadores "vendedores de bet" e diz que está sendo cancelado; conecta decadência do futebol à CBF corrupta administrada por Gilmar Mendes (STF); convida a fazer parte da "aventura" Missão
 - [[fontes/2026-07-06 - Brasil perdeu Eles não merecem teu choro.]] — Renan critica jogadores narcisistas e "vendedores de bet"; paralelo com Lula e Bolsonaro como "figuras nojentas" que não merecem choro dos brasileiros
 - [[fontes/2026-07-06 - A base vem forte!]] — Renan em contexto de rally de campanha; transcrição muito limitada
