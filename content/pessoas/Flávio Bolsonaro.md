@@ -11,6 +11,16 @@ Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
+## Caso da casa de Richarlisson em Angra dos Reis (julho de 2026)
+
+Em **7 de julho de 2026**, Renan respondeu a uma piada de Flávio no Twitter (Flávio disse que criaria o cargo de técnico da seleção para si) com "Devolve a casa do Richarlisson". O comentário viralizou.
+
+Renan explica que o jogador Richarlisson teve uma casa de R$ 10 milhões em Angra dos Reis tomada por uma manobra jurídica conduzida por **Willer Tomás**, advogado e melhor amigo de Flávio. Registros imobiliários inalterados desde 1977 foram alterados em 24 horas. A esposa grávida do sócio de Richarlisson foi expulsa por capangas armados com fuzis.
+
+Renan também aponta que Flávio filmou o mesmo terreno com drone, e que Willer Tomás e Flávio sacaram juntos R$ 15 milhões em cassinos nos EUA às vésperas da posse de Trump. Renan conecta Willer Tomás ao escândalo NSS com Everson Rocha e à CPMI do INSS, comparando a dupla a "famílias corruptas" como as da Rússia.
+
+Ver [[fontes/2026-07-07 - Devolve a casa do Richarlisson.]] e [[pessoas/Willer Tomás]].
+
 ## Redução da diferença nas pesquisas Atlas (julho de 2026)
 
 Em **1º de julho de 2026**, Renan comemora a pesquisa Atlas que mostra redução de **7 pontos percentuais** na diferença entre ele e Flávio Bolsonaro. Renan projeta que, mantido o ritmo de crescimento, **tirará Flávio do segundo turno**. Ele argumenta que Flávio "não tem chance contra Lula em nenhum cenário no segundo turno" e que sua própria candidatura é a "única via para derrotar o Lula".
@@ -274,6 +284,16 @@ Ver [[fontes/2026-01-20 - POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA N�
 ## Ciro Nogueira como vice cogitado (maio de 2026)
 
 Renan aponta que, em entrevista, Flávio Bolsonaro mencionou **Ciro Nogueira** como possível vice em sua chapa presidencial. Nogueira foi preso em maio de 2026 na **operação compliance zero** por seu papel como lobista do Banco Master. Para Renan, a escolha cogitada reforça o padrão de Flávio: alinha-se com figuras que ele mesmo diz combater. Ver [[pessoas/Ciro Nogueira]] e [[fontes/2026-05-07 - BOM DIA, CIRO NOGUEIRA]].
+
+## Apoio a Márcio Canela — operação policial encontra 3 fuzis (julho de 2026)
+
+Em **8 de julho de 2026**, Renan divulga que **Márcio Canela**, pré-candidato ao Senado apoiado por Flávio, foi alvo de operação policial em que a PF encontrou **três fuzis** em sua casa. Canela foi prefeito de Belford Roxo.
+
+Renan afirma que Canela "resolveu o crime" em Belford Roxo entregando as regiões ao tráfico e pedindo para os traficantes pararem de se matar — em vez de combatê-los. A mãe de Flávio Bolsonaro é suplente de senadora de Canela. Renan conecta Canela a Bacelar e TH Joias, ambos do União Brasil e com ligações ao Comando Vermelho.
+
+> "O Flávio é uma máquina de andar com bandido."
+
+Ver [[fontes/2026-07-08 - Quem é Marcio Canella]] e [[pessoas/Márcio Canela]].
 
 ## Apoio a Márcio Canela em Belford Roxo (maio de 2026)
 

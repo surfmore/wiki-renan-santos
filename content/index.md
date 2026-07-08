@@ -98,10 +98,10 @@ date: 2026-07-08
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">700</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">703</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
-<a class="wiki-stat" href="/pessoas"><span class="num">55</span><span class="label">Pessoas</span></a>
+<a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
 
@@ -152,6 +152,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
+	<a class="wiki-card" href="/pessoas/Marcio-Canela"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Márcio Canela</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Ex-prefeito de Belford Roxo, pré-candidato ao Senado apoiado por Flávio Bolsonaro; PF encontrou 3 fuzis em sua casa em jul. 2026; Renan o descreve como parte do círculo criminoso de Flávio.</p></a>
+	<a class="wiki-card" href="/pessoas/Willer-Tomas"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Willer Tomás</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Advogado e melhor amigo de Flávio Bolsonaro; manobra jurídica para tomar casa de Richarlisson; envolvido em escândalo NSS e CPMI do INSS; R$ 15 milhões em cassinos nos EUA com Flávio.</p></a>
 <a class="wiki-card" href="/pessoas/Gilmar-Mendes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Gilmar Mendes</span><span class="wiki-card-count">15 fontes</span></div><p class="wiki-card-desc">Ministro do STF. Renan o descreve como "porta-voz" de um tribunal com pretensões imperiais; protegeu Flávio Bolsonaro via foro privilegiado; voto pela soltura de Vorcaro; "Gilmarpalooza".</p></a>
 <a class="wiki-card" href="/pessoas/Virgínia-Fonseca"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Virgínia Fonseca</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Influenciadora digital multimilionária. Renan a usa como símbolo da "gororoba cultural"; críticas por promover bets (Blaze) e conexão com o Escândalo Banco Master via Fabiano Zettel.</p></a>
 <a class="wiki-card" href="/pessoas/Cleitinho-Azevedo"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Cleitinho Azevedo</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Senador e pré-candidato ao governo de MG. Renan o critica como populista que escolhe as posições mais populares; CPI dos Cassinos Online; proposta "burra" do IPTU.</p></a>
@@ -169,7 +171,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Juliano-Cazarré"><div class="wiki-card-header"><span class="wiki-card-icon">🎭</span><span class="wiki-card-title">Juliano Cazarré</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ator da Globo de direita. Alvo de censura feminista por seu curso de masculinidade tradicional.</p></a>
 <a class="wiki-card" href="/pessoas/Eduardo-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🇺🇸</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Deputado do PL, irmão de Flávio. Defende interesses americanos no Brasil, atacou Renan na Jovem Pan.</p></a>
 <a class="wiki-card" href="/pessoas/Daniel-Vorcaro"><div class="wiki-card-header"><span class="wiki-card-icon">🏦</span><span class="wiki-card-title">Daniel Vorcaro</span><span class="wiki-card-count">76 fontes</span></div><p class="wiki-card-desc">Banqueiro do Master, preso em jan. 2026. Jatinhos para prostitutas em festas com autoridades, fotos com Ciro Nogueira — Renan o compara a Jeffrey Epstein.</p></a>
-<a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">41 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes; visitas a Vorcaro; chamou Ciro Nogueira de "vice perfeito"; dinheiro sujo para filme da família bancou irmão nos EUA.</p></a>
+<a class="wiki-card" href="/pessoas/Flávio-Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙️</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">42 fontes</span></div><p class="wiki-card-desc">"Todos os defeitos do pai, nenhuma das qualidades." Acordos com Moraes; visitas a Vorcaro; chamou Ciro Nogueira de "vice perfeito"; dinheiro sujo para filme da família bancou irmão nos EUA.</p></a>
 <a class="wiki-card" href="/pessoas/Romeu-Zema"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Romeu Zema</span><span class="wiki-card-count">22 fontes</span></div><p class="wiki-card-desc">Ultrapassado por Renan nas pesquisas. Pai de Vorcaro doou R$ 1 milhão ao Partido Novo em 2022.</p></a>
 <a class="wiki-card" href="/pessoas/Kim-Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">21 fontes</span></div><p class="wiki-card-desc">Aliado no Partido Missão. Único parlamentar de direita a votar contra a PEC da Blindagem.</p></a>
 <a class="wiki-card" href="/pessoas/Alexandre-de-Moraes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖️</span><span class="wiki-card-title">Alexandre de Moraes</span><span class="wiki-card-count">16 fontes</span></div><p class="wiki-card-desc">"Elemento de proteção" do Banco Master. Esposa com contratos milionários ligados ao banco.</p></a>
@@ -180,7 +182,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Joesley-Batista"><div class="wiki-card-header"><span class="wiki-card-icon">🥩</span><span class="wiki-card-title">Joesley Batista</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Empresário da JBS. Maior beneficiado de leilão de termoelétricas de R$ 1 tri; R$ 40M a Ciro Nogueira.</p></a>
 <a class="wiki-card" href="/pessoas/Carlos-Brandão"><div class="wiki-card-header"><span class="wiki-card-icon">🏗️</span><span class="wiki-card-title">Carlos Brandão</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Governador do MA. Omissão em estradas, ponte de Estreito desabada e competição com Braide após denúncias.</p></a>
 <a class="wiki-card" href="/pessoas/Ciro-Nogueira"><div class="wiki-card-header"><span class="wiki-card-icon">🏛️</span><span class="wiki-card-title">Ciro Nogueira</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Senador do PP, "o homem mais poderoso do Brasil" e "grande lobista das bets" no Congresso. Ligação com Vorcaro e escândalo Banco Master.</p></a>
-<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 55 pessoas →</span></div><p class="wiki-card-desc">Coronel Aroldo Medina, Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar e mais.</p></a>
+<a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 57 pessoas →</span></div><p class="wiki-card-desc">Coronel Aroldo Medina, Ciro Nogueira, Tarcísio, João Campos, Lula, Oruam, Neymar, Willer Tomás, Márcio Canela e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📰 Eventos</p>
@@ -197,6 +199,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 ## Fontes (cronológico)
 
+- [[fontes/2026-07-08 - URGENTE avança a PEC Anti IPVA!]] — Kim Kataguiri aprova na CCJ projeto que limita IPVA a 1%; Renan celebra como "revolução" e vitória do Partido Missão com apenas 7 meses
+- [[fontes/2026-07-08 - Quem é Marcio Canella]] — Renan denuncia Márcio Canela, pré-candidato ao Senado apoiado por Flávio Bolsonaro, alvo de operação policial com 3 fuzis
+- [[fontes/2026-07-07 - Devolve a casa do Richarlisson.]] — Renan denuncia manobra jurídica de Willer Tomás, amigo de Flávio Bolsonaro, para tomar casa de Richarlisson em Angra; capangas armados, registros alterados em 24h
 - [[fontes/2026-07-07 - Calma! Não tire sua bandeira ainda!]] — Renan pede para não tirar a bandeira após derrota na Copa; "verdadeira Copa do Mundo" são as eleições de outubro contra Lula, Flávio Bolsonaro, PCC e Comando Vermelho
 - [[fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil.]] — Renan contrasta jogadores brasileiros "apátridas" e "mercenários" com a seleção argentina; Messi como exemplo de humildade e orgulho nacional; lição para o Brasil construir história no presente
 - [[fontes/2026-07-06 - Vou ser cancelado com esse vídeo]] — Renan critica jogadores "vendedores de bet" e diz que está sendo cancelado; conecta decadência do futebol à CBF corrupta administrada por Gilmar Mendes (STF); convida a fazer parte da "aventura" Missão
@@ -286,6 +291,4 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 - [[fontes/2026-06-09 - Minha resposta oficial estamos com o PSDB]] — Renan nega rumores de aliança com PSDB; estabelece regras públicas para coalizões com base na agenda do Missão; denuncia descaso de Ciro Nogueira, Arthur Lira e Aécio Neves.
 - [[fontes/2026-06-09 - Eu achei os números da economia do Lula]] — Renan apresenta dados: dólar, juros futuros, bolsa em queda recorde de 8 semanas, inflação, empresas em recuperação judicial; critica Flávio e Nikolas por apoiarem medidas populistas de Lula.
 - [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]] — reflexão sobre república vs. democracia; falta de "regra una"; analogia com Roma para criticar polarização brasileira
-- [[fontes/2026-06-08 - A única fábrica de robô do Brasil]] — Renan visita a única fábrica de robôs do Brasil em Americana; robôs para moendas de cana eliminam mortes de trabalhadores; tecnologia nacional exportada para Ásia e EUA; defesa do empreendedorismo sem sabotagem do governo.
-- [[fontes/2026-06-08 - Nikolas vai abandonar Flávio]] — Renan responde a rumores de que Nikolas Ferreira estaria abandonando Flávio Bolsonaro; cita pesquisa RealTime Big Data (48% buscam novo, 26% desses são Renan); pede união da direita em torno de sua candidatura.
-- [[fontes/2026-06-08 - Abuso de idosos]] — Renan denuncia a exploração f
+- [[fontes/2026-06-08 - A única fábrica de robô do Brasil]] — Renan visita a única fábrica de robôs do Br

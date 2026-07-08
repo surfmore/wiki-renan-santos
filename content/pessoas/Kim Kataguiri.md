@@ -6,6 +6,7 @@ tags:
   - partido-missão
 date: 2026-06-29
 fontes:
+  - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
   - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
   - "2026-06-14 - O Japão tem uma estratégia para golear o Brasil"
   - "2026-03-19 - HIPOCRISIA EXPOSTA COM SUCESSO"
@@ -16,6 +17,12 @@ fontes:
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. Fatos aqui apresentados como citações de Renan não são verificados independentemente por este wiki.
+
+## PEC do IPVA 1% passa na CCJ (julho de 2026)
+
+Em **8 de julho de 2026**, Renan anuncia que o projeto de Kim Kataguiri que limita o IPVA a **1%** passou na CCJ da Câmara. A proposta usa o peso do carro como critério de alíquota em vez do valor venal. Renan celebra como "revolução" e "primeira vez que passa um projeto que vai colocar dinheiro no bolso do brasileiro que trabalha". O próximo passo é a votação em plenário. Renan parabeniza Kim como "melhor deputado do Brasil" e destaca que o Partido Missão, com apenas 7 meses, já faz o que partidos com décadas não fazem.
+
+Ver [[fontes/2026-07-08 - URGENTE avança a PEC Anti IPVA!]].
 
 ## Projeto de licenciamento ambiental no Congresso (junho de 2026)
 

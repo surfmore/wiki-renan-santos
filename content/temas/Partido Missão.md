@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-03
 fontes:
+  - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
   - "2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente"
   - "2026-07-01 - BATI 8% NA ATLAS"
   - "2026-06-28 - Expulsei o Caze TV"
@@ -26,6 +27,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## PEC do IPVA 1% de Kim Kataguiri passa na CCJ (julho de 2026)
+
+Em **8 de julho de 2026**, Renan celebra a aprovação na CCJ do projeto de IPVA 1% de [[pessoas/Kim Kataguiri]], deputado do Partido Missão. Renan destaca que o partido, com apenas **7 meses de existência**, já está fazendo "coisas que partidos com mais de 30, 40 anos não fizeram". O projeto limita o IPVA a 1% com alíquota baseada no peso do carro. Renan afirma que em seu governo fará o mesmo com todos os impostos — cortando gastos e racionalizando a carga tributária.
+
+Ver [[fontes/2026-07-08 - URGENTE avança a PEC Anti IPVA!]].
 
 ## Coronel Aroldo Medina anunciado como vice-presidente (julho de 2026)
 

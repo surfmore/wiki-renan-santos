@@ -1,5 +1,23 @@
 # Log de operações
 
+## [2026-07-08] ingest automático | URGENTE avança a PEC Anti IPVA!
+- Fonte criada: fontes/2026-07-08 - URGENTE avança a PEC Anti IPVA!
+- Páginas criadas: nenhuma (conteúdo coberto por páginas existentes)
+- Páginas atualizadas: pessoas/Kim Kataguiri, temas/Carga Tributária, temas/Partido Missão, index.md, log.md, wiki/.processed_ids
+- Nota: video_id Ncqy0y1Xbu8. PEC do IPVA 1% de Kim Kataguiri passa na CCJ; Renan celebra vitória do Partido Missão com 7 meses; promete racionalizar todos os impostos cortando gastos.
+
+## [2026-07-08] ingest automático | Quem é Marcio Canella
+- Fonte criada: fontes/2026-07-08 - Quem é Marcio Canella
+- Páginas criadas: pessoas/Márcio Canela
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: video_id HJyG-U0FJrw. Renan denuncia Márcio Canela, pré-candidato ao Senado apoiado por Flávio, alvo de operação policial que encontrou 3 fuzis em sua casa; ex-prefeito de Belford Roxo que "resolveu o crime" entregando regiões ao tráfico.
+
+## [2026-07-08] ingest automático | Devolve a casa do Richarlisson.
+- Fonte criada: fontes/2026-07-07 - Devolve a casa do Richarlisson.
+- Páginas criadas: pessoas/Willer Tomás
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: video_id tA6xLZZeAuk. Renan denuncia manobra jurídica de Willer Tomás (amigo de Flávio) para tomar casa de Richarlisson em Angra dos Reis; capangas armados, registros alterados em 24h, R$ 15 milhões em cassinos nos EUA.
+
 ## [2026-07-07] ingest automático | 2 shorts: A vitória de Messi / Calma! Não tire sua bandeira ainda!
 - Fontes criadas: fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil., fontes/2026-07-07 - Calma! Não tire sua bandeira ainda!
 - Páginas atualizadas: temas/Ambição Nacional (Messi e Argentina como lição de identidade nacional), index.md, log.md, wiki/.processed_ids

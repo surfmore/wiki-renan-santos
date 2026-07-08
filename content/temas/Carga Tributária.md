@@ -130,6 +130,10 @@ Caso concreto: data center do **TikTok** em Fortaleza (perto do Porto de Pecém)
 
 Renan anuncia que, na **primeira semana de governo**, revogará todas as taxações do Haddad por decreto. Ver [[fontes/2026-02-27 - EU VOU REVOGAR TODAS AS TAXAÇÕES DO HADDAD]].
 
+## PEC do IPVA 1% passa na CCJ (julho de 2026)
+
+Em **8 de julho de 2026**, Renan anuncia que o projeto de Kim Kataguiri que limita o IPVA a 1% passou na CCJ. A proposta usa o peso do carro como critério de alíquota em vez do valor venal. Renan chama de "revolução" e celebra como vitória do trabalhador que depende do carro para viver, especialmente motoristas de aplicativo e entregadores. O projeto segue para votação em plenário. Ver [[fontes/2026-07-08 - URGENTE avança a PEC Anti IPVA!]].
+
 ## IPVA: sabotagem de Haddad ao projeto de 1%
 
 Em **4 de março de 2026**, Renan denuncia que Haddad mobilizou sua base parlamentar para bloquear a PEC de Kim Kataguiri que reduziria o IPVA a **1%**. O projeto compensaria a perda de arrecadação com corte de gastos em propaganda governamental. Para Renan, o bloqueio é deliberado: o IPVA tributa principalmente trabalhadores e autônomos — exatamente quem não vota no PT.
