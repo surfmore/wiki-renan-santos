@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-07-04
 fontes:
+  - "2026-07-09 - Processei o Lula. Quero ver o que o TSE vai falar!"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-06-28 - Olha o que o Lula falou dos sulistas"
   - "2026-06-22 - Essa declaração é o fim do governo Lula"
@@ -34,6 +35,16 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Processado por crime eleitoral: Renan aciona Lula no TSE (julho de 2026)
+
+Em **9 de julho de 2026**, Renan anuncia que processou Lula por crime eleitoral após o presidente pedir votos para Simone Tebet e Marina Silva fora do período eleitoral permitido. O Ministério Público deu parecer favorável à ação. Renan afirma que Lula adotou uma política deliberada de desrespeitar as regras eleitorais, comportando-se "como um gangster" e "não ligando pra lei".
+
+Renan critica o TSE por ter sido leniente com Lula nas eleições de 2022, quando "o PT mentia, mentia e mentia e seu adversário terminava punido mais do que ele" — embora ressalve que não é bolsonarista nem adepto de teoria da conspiração. Ele também denuncia obras inauguradas por Lula que não estavam prontas: uma no Rio Grande do Norte "que nem água tinha" e outra no Ceará que "era literalmente um contêiner vazio".
+
+> "Nós estamos de olho. A última obra que você inaugurou no Rio Grande do Norte não estava pronta, nem água tinha. A outra que você inaugurou no Ceará era literalmente um contêiner vazio."
+
+Ver [[fontes/2026-07-09 - Processei o Lula. Quero ver o que o TSE vai falar!]].
 
 ## Saneamento básico: Renan aponta contradição de Lula com aliados (julho de 2026)
 

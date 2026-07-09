@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2026-07-02
 fontes:
+  - "2026-07-08 - Resposta para Vera Magalhães"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-07-01 - Estou sendo cancelado!"
   - "2026-06-30 - Restinga teu povo te ama"
@@ -22,6 +23,14 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## Resposta a Vera Magalhães: pacto federativo com contrapartidas (julho de 2026)
+
+Em **8 de julho de 2026**, respondendo à jornalista [[temas/Mídia e Imprensa|Vera Magalhães]], que o acusou de preconceito por chamar políticos do Nordeste de "parasitas", Renan esclarece que sua crítica não é ao pacto federativo em si, mas ao modelo atual em que estados que produzem mais (Santa Catarina, São Paulo) transferem dinheiro sem **exigir contrapartida de desempenho** dos estados receptores (Maranhão). Ele afirma que não quer romper o pacto, mas revisá-lo para que haja métricas de resultado — algo que chama de "roubo federativo" na forma atual.
+
+Renan cita que 40% das famílias nordestinas vivem de Bolsa Família e que a compra de votos é mais frequente na região, argumentando que há relação causal entre a baixa qualidade da classe política local e a falta de desenvolvimento. Ele menciona pesquisa em Natal onde aparece com 15%, empatado com [[pessoas/Flávio Bolsonaro]], como prova de que sua mensagem é bem recebida pelo povo nordestino.
+
+Ver [[fontes/2026-07-08 - Resposta para Vera Magalhães]].
 
 ## Saneamento e desigualdade: aliados de Lula governam os estados com pior infraestrutura (julho de 2026)
 

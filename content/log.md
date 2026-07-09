@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-07-09] ingest automático | 2 shorts: Resposta para Vera Magalhães / Processei o Lula
+- Fontes criadas: fontes/2026-07-08 - Resposta para Vera Magalhães, fontes/2026-07-09 - Processei o Lula. Quero ver o que o TSE vai falar!
+- Páginas atualizadas: pessoas/Lula (processo por crime eleitoral), temas/Desigualdade Regional e Migração Interna (pacto federativo com contrapartidas), temas/Mídia e Imprensa (crítica a Vera Magalhães), index.md, log.md, wiki/.processed_ids
+- Nota: 2 novos shorts. Video 1 "Resposta para Vera Magalhães" — Renan defende crítica a políticos nordestinos com dados; propõe revisão do pacto federativo com contrapartidas de desempenho. Video 2 "Processei o Lula" — Renan processa Lula por crime eleitoral (pedir voto fora do período); MP deu parecer favorável; denuncia obras inauguradas sem estarem prontas (RN e CE).
+- IDs registrados: PuMfuo4QLDQ, GaMehoqRwoo. Também corrigidos IDs faltantes: jjij8EMemZA, TD3uOZI-MNQ (fontes já existiam, IDs não registrados).
+
 ## [2026-07-08] ingest automático | URGENTE avança a PEC Anti IPVA!
 - Fonte criada: fontes/2026-07-08 - URGENTE avança a PEC Anti IPVA!
 - Páginas criadas: nenhuma (conteúdo coberto por páginas existentes)

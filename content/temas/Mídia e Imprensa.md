@@ -4,9 +4,20 @@ tags:
   - tema
   - mídia
 date: 2026-04-12
+fontes:
+  - "2026-07-08 - Resposta para Vera Magalhães"
+  - "2026-07-04 - Virgínia fez você perder dinheiro"
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Resposta a Vera Magalhães: jornalistas "preguiçosos" e o sistema (julho de 2026)
+
+Em **8 de julho de 2026**, respondendo à jornalista Vera Magalhães, que o criticou por chamar políticos do Nordeste de "parasitas", Renan a classifica como "jornalista profissional preguiçosa" que prefere políticos alinhados ao sistema — como Renan Calheiros, Flávio Dino e Arthur Lira — em vez de um outsider como ele. Ele argumenta que a reação de Magalhães reflete raiva por ele não fazer parte da "patota" de jornalistas que vivem de contato com o poder estabelecido.
+
+Renan sustenta que sua declaração sobre políticos nordestinos é uma constatação baseada em dados, não preconceito, e que é bem recebido pelo povo da região (cita pesquisa com 15% em Natal), mas repudiado pelos políticos e pela imprensa que os protege.
+
+Ver [[fontes/2026-07-08 - Resposta para Vera Magalhães]].
 
 ## Influenciadores vs. Jornalismo: o caso Virgínia Fonseca (julho de 2026)
 
