@@ -1,5 +1,15 @@
 # Log de operações
 
+## [2026-07-09] ingest automático | Olha o nível da eleição brasileira.
+- Fonte criada: fontes/2026-07-09 - Olha o nível da eleição brasileira.
+- Páginas atualizadas: pessoas/Flávio Bolsonaro (campanha superficial vs. crime organizado), pessoas/Lula (risco de nomear 4 ministros do STF), temas/Crítica à Direita Tradicional (campanhas superficiais de ACM Neto e Flávio), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 6CkbHIiuTRQ. Renan critica ACM Neto, Flávio Bolsonaro e candidato de PE por campanhas com dança/funk em vez de propostas sérias; país como narco-estado; Lula pode nomear 4 ministros do STF.
+
+## [2026-07-09] ingest automático | Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul
+- Fonte criada: fontes/2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul
+- Páginas atualizadas: pessoas/Lula (abandono das vítimas da enchente no RS), pessoas/Janja (comemoração do cavalo caramelo vs. abandono), index.md, log.md, wiki/.processed_ids
+- Nota: video_id ulaPcc6yl9A. Renan visita Estrela/RS e denuncia que Lula prometeu moradias pós-enchente 2024 e não entregou; pessoas vivem em contêineres há quase 3 anos. Promete tecnologias construtivas modernas.
+
 ## [2026-07-09] ingest automático | 2 shorts: Resposta para Vera Magalhães / Processei o Lula
 - Fontes criadas: fontes/2026-07-08 - Resposta para Vera Magalhães, fontes/2026-07-09 - Processei o Lula. Quero ver o que o TSE vai falar!
 - Páginas atualizadas: pessoas/Lula (processo por crime eleitoral), temas/Desigualdade Regional e Migração Interna (pacto federativo com contrapartidas), temas/Mídia e Imprensa (crítica a Vera Magalhães), index.md, log.md, wiki/.processed_ids

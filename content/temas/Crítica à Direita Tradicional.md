@@ -7,6 +7,16 @@ tags:
 date: 2025-09-02
 ---
 
+## Campanhas superficiais: dança em vez de propostas (julho de 2026)
+
+Em **9 de julho de 2026**, Renan critica o que chama de "despolitização" das campanhas eleitorais de 2026. Ele cita três exemplos de políticos de direita que substituíram debate de propostas por coreografias de dança e funk: **ACM Neto** (candidato ao governo da Bahia), o **PL** (partido de Flávio Bolsonaro) que contratou instrutor de dança funk, e o candidato favorito ao governo de Pernambuco.
+
+Renan argumenta que o país enfrenta problemas gravíssimos — crime organizado, crise econômica, ameaça a recursos naturais — e que tratar a eleição como entretenimento é um desserviço. Ele critica especificamente [[pessoas/Flávio Bolsonaro]] por dançar em vez de explicar seu envolvimento com o crime organizado no Rio de Janeiro, e adverte que [[pessoas/Lula]] é favorito e poderá nomear quatro ministros do STF se reeleito.
+
+> "Nada disso que tá acontecendo é engraçado. A situação do Brasil é horrorosa... Vamos vencer a eleição falando de coisa séria ou esse país, infelizmente, nunca será levado a sério."
+
+Ver [[fontes/2026-07-09 - Olha o nível da eleição brasileira.]].
+
 ## Lula e Bolsonaro: "figuras nojentas" que não merecem choro (julho de 2026)
 
 Em **6 de julho de 2026**, comentando a eliminação do Brasil na Copa do Mundo, Renan traça um paralelo direto entre o futebol e a política: assim como os jogadores narcisistas da seleção não merecem o choro dos torcedores, **Lula e Bolsonaro são "figuras nojentas" que também não valem o tempo nem o investimento emocional dos brasileiros**.

@@ -98,7 +98,7 @@ date: 2026-07-09
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">705</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">707</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -156,8 +156,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/pessoas/Flávio Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">50 fontes</span></div><p class="wiki-card-desc">Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, pré-candidato à Presidência da República pela direita tradicional. Renan ...</p></a>
-<a class="wiki-card" href="/pessoas/Lula"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Lula</span><span class="wiki-card-count">25 fontes</span></div><p class="wiki-card-desc">Quem é: Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal advers...</p></a>
+<a class="wiki-card" href="/pessoas/Flávio Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">51 fontes</span></div><p class="wiki-card-desc">Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, pré-candidato à Presidência da República pela direita tradicional. Renan ...</p></a>
+<a class="wiki-card" href="/pessoas/Lula"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Lula</span><span class="wiki-card-count">27 fontes</span></div><p class="wiki-card-desc">Quem é: Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal advers...</p></a>
 <a class="wiki-card" href="/pessoas/Kim Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">24 fontes</span></div><p class="wiki-card-desc">Deputado federal, cofundador do MBL e líder do Partido Missão no Congresso Nacional. Renan Santos o descreve recorrentemente como o parlamentar qu...</p></a>
 <a class="wiki-card" href="/pessoas/Alexandre de Moraes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Alexandre de Moraes</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como figura central do que ele chama de &quot;sabotagem institucional&quot; do STF e como...</p></a>
 <a class="wiki-card" href="/pessoas/Renan Santos"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Renan Santos</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Renan Santos é fundador do Movimento Brasil Livre (MBL), presidente do MBL e fundador do Partido Missão. É pré-candidato à presidência da Repú...</p></a>

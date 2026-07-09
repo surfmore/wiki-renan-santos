@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-05-29
 fontes:
+  - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
   - "2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE"
   - "2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER"
   - "2025-12-04 - O legado da COP30"
@@ -19,6 +20,12 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### Abandono das vítimas da enchente no RS (julho de 2026)
+
+Em **9 de julho de 2026**, durante visita a Estrela (RS), Renan critica Lula e Janja por comemorarem publicamente o resgate do "cavalo caramelo" durante a enchente de 2024 enquanto as vítimas continuam vivendo em contêineres, sem as moradias prometidas. As famílias foram informadas de que os contêineres serão retirados, ficando sem qualquer alternativa habitacional.
+
+Ver [[fontes/2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul]].
 
 ### Promessa de prender Janja (janeiro de 2026)
 

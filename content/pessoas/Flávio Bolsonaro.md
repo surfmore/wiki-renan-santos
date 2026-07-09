@@ -9,6 +9,16 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## Campanha superficial: dança em vez de propostas (julho de 2026)
+
+Em **9 de julho de 2026**, Renan critica Flávio Bolsonaro por estar dançando em campanha eleitoral em vez de explicar seu envolvimento com o crime organizado no Rio de Janeiro. Renan aponta que o país está sendo tomado pelo crime organizado, com a economia em frangalhos, recursos naturais ameaçados e a curva de juros futuros em níveis "assustadores" — e que, nesse contexto, fazer campanha com coreografias é tratar o eleitor como "idiota".
+
+> "Flávio Bolsonaro quer dançar ao invés de explicar para as pessoas todo o seu envolvimento com o crime organizado do Rio de Janeiro."
+
+Renan também critica o PL (partido de Flávio) por contratar um instrutor de dança funk para treinar seus candidatos, e menciona que o candidato favorito ao governo de Pernambuco também aposta em dança, sugerindo que se trata de um padrão de "despolitização" das eleições de 2026.
+
+Ver [[fontes/2026-07-09 - Olha o nível da eleição brasileira.]].
+
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
 
 ## Caso da casa de Richarlisson em Angra dos Reis (julho de 2026)

@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-07-04
 fontes:
+  - "2026-07-09 - Olha o nível da eleição brasileira."
+  - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
   - "2026-07-09 - Processei o Lula. Quero ver o que o TSE vai falar!"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-06-28 - Olha o que o Lula falou dos sulistas"
@@ -35,6 +37,24 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Risco de nomear quatro ministros do STF se reeleito (julho de 2026)
+
+Em **9 de julho de 2026**, Renan alerta que Lula, caso reeleito, poderá nomear **quatro novos ministros do Supremo Tribunal Federal** ao longo do mandato, consolidando o controle do PT sobre a Corte por décadas. Ele cita esse risco como mais um motivo para levar a eleição a sério, em contraste com as campanhas superficiais de outros candidatos.
+
+Renan também aponta que a curva de juros futuros no Brasil está em níveis "assustadores", que o país está se tornando um "narco-estado" dominado por PCC e Comando Vermelho, e que a situação econômica é "desesperadora" — tudo agravado pela perspectiva de Lula controlar o STF.
+
+Ver [[fontes/2026-07-09 - Olha o nível da eleição brasileira.]].
+
+## Abandono das vítimas da enchente no Rio Grande do Sul (julho de 2026)
+
+Em **9 de julho de 2026**, Renan visita a cidade de **Estrela (RS)**, uma das regiões mais devastadas pela enchente de 2024, e denuncia que Lula e Janja não entregaram nenhuma das moradias prometidas. Quase dois anos depois, as pessoas ainda vivem em **contêineres** projetados para durar 6 meses, que já duram quase 3 anos — e que serão retirados, deixando as famílias na rua.
+
+Renan entrevista moradores que perderam casas, empregos e saúde emocional. Ele descreve o local como uma "zona de guerra", comparável à Ucrânia, e critica Lula e Janja por comemorarem o resgate do "cavalo caramelo" enquanto ignoram a situação das pessoas. Renan aponta que as únicas casas construídas foram por **iniciativa privada** (Avan e um lutador), e não pelo governo federal.
+
+> "Lula prometeu muita coisa, nada entregou e agora as pessoas vivem humilhadas dentro de um contêiner."
+
+Ver [[fontes/2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul]].
 
 ## Processado por crime eleitoral: Renan aciona Lula no TSE (julho de 2026)
 
