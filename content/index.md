@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-09
+date: 2026-07-10
 ---
 
 <style>
@@ -98,7 +98,7 @@ date: 2026-07-09
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">707</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">709</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -141,7 +141,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Emendas Parlamentares Condicionadas a Metas"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Emendas Parlamentares Condicionad...</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Proposta defendida por Renan Santos de que emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho em áreas-chave ...</p></a>
 <a class="wiki-card" href="/posicoes/Estado de Defesa e Direito Penal do Inimigo"><div class="wiki-card-header"><span class="wiki-card-icon">🛡</span><span class="wiki-card-title">Estado de Defesa e Direito Penal ...</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete estado de defesa para enfrentar militarmente o crime organizad...</p></a>
 <a class="wiki-card" href="/posicoes/Expulsão de ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Renan Santos defende a expulsão do Brasil de ONGs financiadas por governos e fundações estrangeiras que, segundo ele, atuam para bloquear projetos...</p></a>
-<a class="wiki-card" href="/posicoes/Propostas para Educação"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Propostas para a Educação</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autor...</p></a>
+<a class="wiki-card" href="/posicoes/Propostas para Educação"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Propostas para a Educação</span><span class="wiki-card-count">9 fontes</span></div><p class="wiki-card-desc">Renan apresentou propostas para a educação brasileira, incluindo foco em STEM e reforma das universidades públicas, meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autor...</p></a>
 <a class="wiki-card" href="/posicoes/Frente de Trabalho para o Bolsa Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒</span><span class="wiki-card-title">Frente de Trabalho para o Bolsa F...</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Proposta central de Renan Santos para reformar o Bolsa Família: em vez de cortar o benefício, condicionar o acesso à participação em frentes de trab...</p></a>
 <a class="wiki-card" href="/posicoes/Reforma Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">7 fontes</span></div><p class="wiki-card-desc">Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente ...</p></a>
 <a class="wiki-card" href="/posicoes/Criminalização da Incitação pelo Discurso de Ódio Político"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Criminalização da Incitação pelo ...</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Renan Santos propõe equiparar o uso de termos como &quot;nazista&quot; e &quot;fascista&quot; contra adversários políticos ao Artigo 286 do Código Penal (incitação ao...</p></a>

@@ -1,5 +1,15 @@
 # Log de operações
 
+## [2026-07-10] ingest automático | Papo com Balestrin sobre universidades públicas.
+- Fonte criada: fontes/2026-07-10 - Papo com Balestrin sobre universidades públicas.
+- Páginas atualizadas: posicoes/Propostas para Educação (foco em STEM, reforma de universidades públicas, crítica ao excesso de advogados), index.md, log.md, wiki/.processed_ids
+- Nota: video_id Fy8RjTFGyUQ. Renan defende foco em STEM (ciência, tecnologia, engenharia, matemática) nas universidades públicas; cita pesquisa da pele de tilápia; critica superprodução de advogados.
+
+## [2026-07-10] ingest automático | O Lula tá pto comigo
+- Fonte criada: fontes/2026-07-09 - O Lula tá pto comigo
+- Páginas atualizadas: pessoas/Lula (PGE aceita denúncia de Renan; Lula anuncia Marina e Tebet para Senado de SP), index.md, log.md, wiki/.processed_ids
+- Nota: video_id MJFNbK0wmgE. PGE acolhe denúncia de Renan contra Lula por campanha antecipada (Marina Silva e Simone Tebet para Senado de SP). Lula avisa que não respeitará regras eleitorais. Renan convoca apoiadores a enviarem denúncias.
+
 ## [2026-07-09] ingest automático | Olha o nível da eleição brasileira.
 - Fonte criada: fontes/2026-07-09 - Olha o nível da eleição brasileira.
 - Páginas atualizadas: pessoas/Flávio Bolsonaro (campanha superficial vs. crime organizado), pessoas/Lula (risco de nomear 4 ministros do STF), temas/Crítica à Direita Tradicional (campanhas superficiais de ACM Neto e Flávio), index.md, log.md, wiki/.processed_ids

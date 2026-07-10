@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-07-04
 fontes:
+  - "2026-07-09 - O Lula tá pto comigo"
   - "2026-07-09 - Olha o nível da eleição brasileira."
   - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
   - "2026-07-09 - Processei o Lula. Quero ver o que o TSE vai falar!"
@@ -55,6 +56,18 @@ Renan entrevista moradores que perderam casas, empregos e saúde emocional. Ele 
 > "Lula prometeu muita coisa, nada entregou e agora as pessoas vivem humilhadas dentro de um contêiner."
 
 Ver [[fontes/2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul]].
+
+## PGE aceita denúncia de Renan contra Lula por crime eleitoral (julho de 2026)
+
+Em **9 de julho de 2026**, Renan anuncia que a **Procuradoria Geral Eleitoral (PGE)** reconheceu o mérito de sua denúncia contra Lula e vai investigá-lo. O caso específico é o anúncio público de Marina Silva e Simone Tebet como candidatas ao Senado por São Paulo — nenhuma das duas tem carreira política no estado (Marina é do Amazonas, Simone do Centro-Oeste). Renan aponta que Lula precisa eleger alguém em São Paulo e, para isso, está disposto a descumprir as regras eleitorais.
+
+Renan denuncia que Lula avisou publicamente que não vai respeitar as regras eleitorais em 2026, repetindo o padrão de 2022 quando as regras não lhe foram aplicadas com o mesmo rigor que aos adversários. Renan afirma que se define como pré-candidato justamente para não cometer crime eleitoral, enquanto Lula "disse que a regra não funciona para ele."
+
+Renan convoca apoiadores a enviarem denúncias de irregularidades eleitorais por DM, prometendo judicializar cada uma com sua equipe jurídica Modéstia Park.
+
+> "O Lula avisou que não vai respeitar as regras eleitorais, disse que vai fazer campanha do jeito que ele quiser, divulgar quem ele quiser."
+
+Ver [[fontes/2026-07-09 - O Lula tá pto comigo]].
 
 ## Processado por crime eleitoral: Renan aciona Lula no TSE (julho de 2026)
 
@@ -308,6 +321,7 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-07-09 - O Lula tá pto comigo]] — PGE aceita denúncia de Renan contra Lula; Lula anuncia Marina e Tebet para o Senado de SP sem carreira no estado
 - [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]] — Renan aponta contradição de Lula sobre saneamento; PT votou contra marco do saneamento
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Renan critica proposta de Lula para devolução de celulares roubados pelo correio; contrasta com 30 anos de prisão para assalto à mão armada
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — Lula igualmente envolvido; cronologia

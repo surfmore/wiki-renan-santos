@@ -6,12 +6,29 @@ tags:
   - meritocracia
 date: 2026-07-03
 fontes:
+  - "2026-07-10 - Papo com Balestrin sobre universidades públicas."
   - "2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos"
   - "2026-06-17 - A Inglaterra vai ganhar a Cop"
   - "2026-03-11 - 7 propostas para a educação!"
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Foco em STEM e reforma das universidades públicas (julho de 2026)
+
+Em **10 de julho de 2026**, em conversa com Balestrin, Renan apresenta sua visão para as universidades públicas brasileiras. Ele reconhece que são "politizadas" e majoritariamente de esquerda, mas destaca que boa parte da pesquisa de qualidade no Brasil vem delas — "não podemos jogar o bebê com a água do banho fora." Como exemplo de pesquisa pública de sucesso, cita o uso de pele de tilápia para tratamento de queimaduras.
+
+Sua proposta central é concentrar o investimento público em áreas **STEM** (ciência, tecnologia, engenharia e matemática), seguindo o modelo da China e do Japão. As prioridades incluem:
+
+- Programação e tecnologia da informação
+- Inteligência artificial aplicada ao banco genético brasileiro
+- Produção de mudas e espécies para agricultura
+- Geologia e química aplicada para processamento de terras raras
+- Engenharia genética
+
+Renan critica a superprodução de advogados no Brasil e defende que os recursos sejam direcionados a áreas que "aumentem a produtividade do brasileiro." A conclusão é que essa estratégia tiraria o Brasil do terceiro mundo e o colocaria como superpotência mundial.
+
+Ver [[fontes/2026-07-10 - Papo com Balestrin sobre universidades públicas.]].
 
 ## Autoridade do professor e violência escolar (julho de 2026)
 
@@ -126,6 +143,7 @@ Ver [[fontes/2026-05-20 - Condenados por homeschooling]].
 
 ## Fontes
 
+- [[fontes/2026-07-10 - Papo com Balestrin sobre universidades públicas.]] — foco em STEM; reforma das universidades públicas; crítica ao excesso de advogados
 - [[fontes/2026-05-20 - Condenados por homeschooling]] — homeschooling; juiz ideológico; punições
 - [[fontes/2026-05-20 - Condenados por homeschooling]] — homeschooling; juiz ideológico Júnior da Luz Miranda; punições para juízes
 - [[fontes/2026-05-13 - O que os estudantes da USP fizeram]] — fim da autonomia universitária; jubilamento de grevistas; endowments; custo de R$ 643M para contribuintes
