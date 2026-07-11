@@ -9,6 +9,12 @@ date: 2026-07-03
 
 ## STF e a CBF: corrupção no futebol brasileiro (julho de 2026)
 
+Em **10 de julho de 2026**, Renan aprofunda a denúncia sobre a CBF, revelando que o atual presidente da entidade foi nomeado pela "turma do [[pessoas/Gilmar Mendes]]" para que, em alguns anos, o filho do próprio ministro do STF assuma o cargo. Ele descreve a CBF como uma organização que não forma novos jogadores — o Brasil não se classificou para mundiais sub-20 recentes — e que serve a interesses de empresários, bets e lobby para inflacionar o preço de jovens atletas.
+
+Renan compara o esquema ao [[eventos/Escândalo Banco Master]], afirmando que o futebol brasileiro, mercado multibilionário, "virou uma espécie de escândalo do Banco Master". Ele promete que, em seu governo, a Polícia Federal investigará a CBF para abrir "aquela caixa preta", principalmente sobre o dinheiro de bets que financiam clubes brasileiros.
+
+Ver [[fontes/2026-07-10 - O que está acontecendo na CBF]].
+
 Em **6 de julho de 2026**, Renan critica a Confederação Brasileira de Futebol (CBF) como uma organização corrupta que "pertence à turma do STF" e é "administrada pelo [[pessoas/Gilmar Mendes]]". Ele afirma que a convocação de Neymar para a Copa do Mundo foi feita por pressão de patrocinadores, não por mérito, e que a CBF "tá pouco se lixando pra própria história".
 
 Renan conecta a decadência do futebol brasileiro ao mesmo sistema político-judicial que critica: a CBF corrupta e ligada ao STF produz jogadores "vendedores de bet" que se comportam como influencers narcisistas em vez de atletas. Para ele, tanto a política quanto o futebol brasileiro sofrem do mesmo mal — uma elite que vive de glórias do passado enquanto o país definha.
@@ -345,6 +351,7 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-07-10 - O que está acontecendo na CBF]] — CBF controlada por Gilmar Mendes; bets financiando clubes; investigação prometida
 - [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — STF decide manter penduricos mesmo após desabafo viral de trabalhador
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, [[pessoas/Gilmar Mendes]], Moraes) em resposta a ataque de Eduardo
 - [[fontes/2026-04-17 - Nota oficial sobre uma humilhação imposta pelo STF]]

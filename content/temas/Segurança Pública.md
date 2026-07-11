@@ -6,6 +6,16 @@ tags:
 date: 2026-07-03
 ---
 
+## Psicopata do Shopping Morumbi solto e visto em Salvador (julho de 2026)
+
+Em **11 de julho de 2026**, Renan denuncia que Mateus da Costa Meira — autor do massacre no Shopping Morumbi em 1999, que matou várias pessoas a tiros dentro de uma sessão de cinema — foi solto pela justiça e visto novamente em Salvador, na Bahia, frequentando um shopping. Renan critica a "luta antimanicomial" que levou à desmontagem dos hospitais psiquiátricos e pede o retorno da internação compulsória. Também responsabiliza o governador [[pessoas/Jerônimo Rodrigues]] por supostamente impedir a polícia de trabalhar na Bahia.
+
+> "No Brasil as esquerdas vieram com a luta antimanicomial e logo todo maluco e maníaco tem que ser solto, quem vai ficar com medo de andar na rua? É você."
+
+Renan propõe que a polícia atire para matar em situações de ameaça armada em espaços públicos e que psicopatas sejam presos para o resto da vida ou internados compulsoriamente.
+
+Ver [[fontes/2026-07-11 - Cuidado ao ir ao shopping]].
+
 ## Violência escolar e tentativa de homicídio por alunos (julho de 2026)
 
 Em **2 de julho de 2026**, Renan comenta o caso da professora Michele, em São José dos Campos, que sofreu tentativa de homicídio por quatro alunos que colocaram lâminas de vidro em seu copo d'água. Ele descreve o caso como sintoma de uma escalada da violência que atinge também o ambiente escolar:

@@ -18,6 +18,16 @@ fontes:
 
 Influenciadora digital multimilionária brasileira. Renan Santos a utiliza recorrentemente como símbolo negativo da cultura de influenciadores e da "gororoba cultural" brasileira — uma figura que, segundo ele, substitui valores como trabalho duro e discrição pela ostentação e exposição da vida pessoal.
 
+## MP investiga Virgínia por indução a apostas (julho de 2026)
+
+Em **11 de julho de 2026**, Renan celebra que o Ministério Público abriu investigação contra Virgínia Fonseca por induzir seus seguidores a apostar na plataforma Blaze no jogo Argentina x Cabo Verde pela Copa do Mundo. Ele reproduz o vídeo em que Virgínia diz estar "confiante no vozinha" e deixa link de aposta, classificando a conduta como crime.
+
+Renan critica Virgínia como uma multimilionária que trata seguidores humildes como "idiotas" e tem prazer em vê-los perder dinheiro. Ele afirma que em seu governo "influenciador vendedor de bet vai se dar muito mal" e que essa "cultura de ganhar milhões levando os outros a erro" precisa acabar.
+
+> "Ela foi lá, né? Aposta no vozinha. Cabo Verde ia ganhar da Argentina? Ainda mais dessa Argentina que é amiga dos juízes?"
+
+Ver [[fontes/2026-07-11 - Deu ruim para a Virgínia!]].
+
 ## Promoção de bets e lavagem de dinheiro (julho de 2026)
 
 Em **4 de julho de 2026**, Renan dedica um vídeo inteiro a criticar Virgínia por incentivar seus seguidores a apostar na plataforma Blaze durante o jogo Argentina x Cabo Verde pela Copa do Mundo. Ela aparece dizendo estar esperançosa de que Cabo Verde vença e incentivando apostas — o time perdeu, fazendo com que quem a seguisse perdesse dinheiro.
@@ -56,6 +66,7 @@ Ver [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]] e 
 
 ## Fontes
 
+- [[fontes/2026-07-11 - Deu ruim para a Virgínia!]] — MP investiga Virgínia por indução a apostas na Blaze; promessa de punir vendedores de bet
 - [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — crítica direta; bets, lavagem de dinheiro, CPI dos Cassinos Online
 - [[fontes/2026-06-29 - Eu não vou ser o presidente de todos]] — referência indireta como símbolo de ostentação
 - [[fontes/2026-06-18 - Meu governo vai vingar as pessoas boas do Brasil.]] — contraponto ao brasileiro honesto

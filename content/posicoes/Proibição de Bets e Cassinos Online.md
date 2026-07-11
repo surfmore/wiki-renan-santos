@@ -15,6 +15,20 @@ fontes:
 
 Renan Santos defende uma posição radicalmente contrária à operação de empresas de apostas online (bets) e cassinos virtuais no Brasil, que ele descreve como um sistema de evasão de divisas e lavagem de dinheiro para facções criminosas.
 
+## MP investiga Virgínia Fonseca por indução a apostas (julho de 2026)
+
+Em **11 de julho de 2026**, Renan celebra que o Ministério Público abriu investigação contra [[pessoas/Virgínia Fonseca]] por induzir seguidores a apostar na Blaze durante a Copa do Mundo. Virgínia havia postado vídeo incentivando apostas em Cabo Verde contra a Argentina, com link direto para a plataforma. Renan reitera que em seu governo "influenciador vendedor de bet vai se dar muito mal."
+
+Ver [[fontes/2026-07-11 - Deu ruim para a Virgínia!]].
+
+## Bets infiltradas no futebol brasileiro: CBF e clubes (julho de 2026)
+
+Em **10 de julho de 2026**, ao denunciar a corrupção na CBF, Renan aponta que empresas de aposta (bets) financiam clubes brasileiros e que é preciso investigar "onde vai parar o dinheiro dessas apostas". Ele afirma que há lavagem de dinheiro acontecendo através das bets no futebol e compara o esquema ao [[eventos/Escândalo Banco Master]], sugerindo que, se investigado a fundo, "metade dessa turma toda" pode ir para a cadeia.
+
+Renan promete que seu governo fará a Polícia Federal investigar a CBF para abrir "aquela caixa preta" sobre o dinheiro das bets nos clubes brasileiros.
+
+Ver [[fontes/2026-07-10 - O que está acontecendo na CBF]].
+
 ## Crítica a Virgínia Fonseca por promover bets na Copa (julho de 2026)
 
 Em **4 de julho de 2026**, Renan critica a influenciadora digital Virgínia Fonseca por usar sua influência para incentivar seguidores a apostar na plataforma Blaze durante o jogo Argentina x Cabo Verde pela Copa do Mundo. Renan aponta que Virgínia, uma mulher multimilionária, trata seus seguidores como "idiotas completos" ao incentivá-los a apostar.
@@ -80,6 +94,8 @@ Renan também alerta que dinheiro de programas sociais (Bolsa Família, BPC) e a
 
 ## Fontes
 
+- [[fontes/2026-07-11 - Deu ruim para a Virgínia!]] — MP investiga Virgínia por indução a apostas; promessa de combate a influenciadores de bet
+- [[fontes/2026-07-10 - O que está acontecendo na CBF]] — bets infiltradas no futebol; lavagem via clubes; investigação prometida
 - [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — crítica a Virgínia Fonseca por promover bets (Blaze) na Copa; CPI dos Cassinos Online; ligação com lavagem de dinheiro
 - [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida do Missão por divulgar bets; reafirmação da posição
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — seletividade na regulação de bets; 5 milhões de famílias do Bolsa Família apostam; proposta de restrição por renda

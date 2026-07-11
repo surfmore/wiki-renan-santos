@@ -13,6 +13,12 @@ Governador da Bahia pelo PT. Renan Santos o menciona como exemplo da **leniênci
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
 
+## Psicopata do Shopping Morumbi solto e visto em Salvador (julho de 2026)
+
+Em **11 de julho de 2026**, ao denunciar a soltura de Mateus da Costa Meira — autor do massacre no Shopping Morumbi em 1999 — Renan afirma que o psicopata foi visto frequentando um shopping em Salvador. Ele vincula o caso à omissão do governo da Bahia, afirmando que "a polícia é impedida de trabalhar porque o governador adora bandido" em referência a Jerônimo.
+
+Ver [[fontes/2026-07-11 - Cuidado ao ir ao shopping]].
+
 ## Facções, chacina e presídio-hotel em Salvador (maio de 2026)
 
 Em **27 e 28 de maio de 2026**, Renan grava três vídeos em Salvador que aprofundam a acusação contra Jerônimo:
@@ -35,6 +41,7 @@ O segundo é o **domínio das facções sobre o território de Salvador**: mais 
 
 ## Fontes
 
+- [[fontes/2026-07-11 - Cuidado ao ir ao shopping]] — psicopata do Shopping Morumbi solto e visto em Salvador; omissão do governo da Bahia
 - [[fontes/2026-05-28 - Transformaram um presídio na Bahia em hotel de luxo!]] — presídio-hotel; relação entre crime e coligação de governo
 - [[fontes/2026-05-27 - Eu fui onde morreu um homem com 100 tiros]] — chacina do CV; responsabilização de Jerônimo
 - [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — praia da Gamboa controlada pelo CV; leniência do governador

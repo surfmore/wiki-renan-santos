@@ -7,6 +7,7 @@ tags:
   - psiquiatria
 date: 2026-07-03
 fontes:
+  - "2026-07-11 - Cuidado ao ir ao shopping"
   - "2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos"
   - "2026-07-01 - Sâmia Bonfim resolveu me atacar"
   - "2026-06-11 - Aprovada redução da maioridade penal"
@@ -14,6 +15,21 @@ fontes:
 ---
 
 Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que considera irrecuperáveis: a redução efetiva da maioridade penal para crimes violentos e a restauração do sistema de internação psiquiátrica compulsória.
+
+## Caso Mateus da Costa Meira: soltura de psicopata (julho de 2026)
+
+Em **11 de julho de 2026**, Renan denuncia que Mateus da Costa Meira — autor do massacre no Shopping Morumbi em 1999, onde matou várias pessoas a tiros dentro de uma sessão de cinema — foi solto pela justiça brasileira e visto novamente frequentando um shopping em Salvador, na Bahia. Renan alerta que ele apresenta o mesmo padrão de comportamento: visitar repetidamente um shopping antes de agir.
+
+Renan critica a "luta antimanicomial" promovida pela esquerda, que resultou na desmontagem dos hospitais psiquiátricos e na soltura de pessoas com distúrbios graves. Ele propõe:
+- **Retorno dos hospitais psiquiátricos** para internação compulsória de psicopatas
+- **Penas que mantenham na cadeia para o resto da vida** maníacos perigosos
+- **Polícia atirar para matar** em situações de ameaça armada em espaços públicos
+
+Renan conecta o caso à leniência do governo da Bahia, afirmando que o governador [[pessoas/Jerônimo Rodrigues]] impede a polícia de trabalhar.
+
+> "No Brasil as esquerdas vieram com a luta antimanicomial e logo todo maluco e maníaco tem que ser solto, quem vai ficar com medo de andar na rua? É você."
+
+Ver [[fontes/2026-07-11 - Cuidado ao ir ao shopping]].
 
 ## Tentativa de homicídio por alunos em São José dos Campos (julho de 2026)
 

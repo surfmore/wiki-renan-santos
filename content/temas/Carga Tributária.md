@@ -8,6 +8,14 @@ date: 2026-07-03
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
+## PEC do IPVA 1% de Kim Kataguiri avança na CCJ (julho de 2026)
+
+Em **11 de julho de 2026**, Renan celebra o avanço da PEC de autoria de [[pessoas/Kim Kataguiri]] que limita o IPVA a no máximo 1% do valor do carro, usando o peso como critério de alíquota (modelo de países desenvolvidos). A compensação virá do corte de gastos com propaganda do governo. Renan anuncia planos de estender o mesmo princípio ao IPTU, com a lógica central de que, cortando gastos federais, será possível reduzir impostos.
+
+> "Dado que o governo vai gastar menos, a gente vai poder fazer o imposto ser menor, é uma relação bem direta."
+
+Ver [[fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!]].
+
 ## Impostos sabotam a produção nacional de vinho e produtos de valor agregado (julho de 2026)
 
 Em **3 de julho de 2026**, gravando na Cooperativa Aurora (uma das maiores vinícolas do Brasil), Renan usa o vinho como estudo de caso de como a carga tributária brasileira sabota a produção nacional de alto valor agregado. Ele aponta três fatores que encarecem o vinho brasileiro e o tornam menos competitivo que o importado:
@@ -165,6 +173,7 @@ Ver [[fontes/2026-02-24 - GOVERNO LULA TAXA MAIS DE 1,2 MIL PRODUTOS IMPORTADOS]
 
 ## Fontes
 
+- [[fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!]] — PEC do IPVA 1%; peso como critério; corte de gastos com propaganda
 - [[fontes/2026-04-13 - MAIS UM RECORDE DO BRASIL]]
 - [[fontes/2026-04-12 - POLEMICA SOBRE O VALE-GAS DO LULA]]
 - [[fontes/2026-03-17 - NOTICIA IMPORTANTE SOBRE O MEI!]]

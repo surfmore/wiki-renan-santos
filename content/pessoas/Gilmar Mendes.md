@@ -64,6 +64,12 @@ Ver [[fontes/2026-06-07 - Já ouviu falar em Gilmarpalooza]].
 
 ## CBF e decadência do futebol brasileiro (julho de 2026)
 
+Em **10 de julho de 2026**, Renan aprofunda a denúncia: revela que o atual presidente da CBF foi nomeado pela "turma do Gilmar Mendes" para que, em alguns anos, o filho do próprio ministro assuma o cargo. Afirma que a CBF não forma novos jogadores (Brasil não se classificou para mundiais sub-20) e que o futebol se tornou uma máquina de negócios com bets, empresários e lobby para inflacionar jovens atletas. Compara o esquema ao [[eventos/Escândalo Banco Master]].
+
+> "O que mais se comenta hoje é que vai cair o atual presidente da CBF, que foi nomeado pela turma do Gilmar Mendes pra entrada, daqui alguns anos, do filho do próprio ministro do STF."
+
+Ver [[fontes/2026-07-10 - O que está acontecendo na CBF]].
+
 Em **6 de julho de 2026**, Renan critica a Confederação Brasileira de Futebol (CBF) como corrupta e "administrada pelo Gilmar Mendes". Ele afirma que a convocação de [[pessoas/Neymar]] para a Copa do Mundo foi por pressão de patrocinadores, não por mérito, e que a CBF "tá pouco se lixando pra própria história."
 
 Renan conecta a decadência do futebol ao mesmo sistema político-judicial que critica: a CBF, controlada pelo STF/Gilmar, produz jogadores "vendedores de bet" que se comportam como influencers narcisistas.
@@ -114,6 +120,7 @@ Ver [[fontes/2026-03-10 - BOULOS DIZ QUE LULA NÃO ESTÁ PROTEGENDO O LULINHA]].
 
 ## Fontes
 
+- [[fontes/2026-07-10 - O que está acontecendo na CBF]] — CBF: presidente nomeado por Gilmar; filho do ministro cotado para sucessão
 - [[fontes/2026-07-06 - Brasil perdeu Eles não merecem teu choro.]] — CBF administrada por Gilmar Mendes
 - [[fontes/2026-07-06 - Vou ser cancelado com esse vídeo]] — CBF corrupta, Gilmar administrando
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — print de Bolsonaro pedindo para não atacarem Gilmar; irmão de Gilmar em MT

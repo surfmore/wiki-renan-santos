@@ -1,5 +1,29 @@
 # Log de operações
 
+## [2026-07-11] ingest automático | Esse japonês do meu partido é um fenômeno!
+- Fonte criada: fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!
+- Páginas atualizadas: pessoas/Kim Kataguiri (PEC do IPVA 1% detalhada, Kim como futuro ministro), temas/Carga Tributária (IPVA 1%, corte de gastos com propaganda), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 7ghkC-7yGlk. Renan celebra produtividade de Kim Kataguiri; PEC do IPVA 1% usa peso como critério; compensação via corte de propaganda; planos de reduzir IPTU.
+
+## [2026-07-11] ingest automático | Deu ruim para a Virgínia!
+- Fonte criada: fontes/2026-07-11 - Deu ruim para a Virgínia!
+- Páginas atualizadas: posicoes/Proibição de Bets e Cassinos Online (MP investiga Virgínia), pessoas/Virgínia Fonseca (MP abre investigação), index.md, log.md, wiki/.processed_ids
+- Nota: video_id gbdkODtWjjI. Renan celebra MP investigar Virgínia Fonseca por induzir seguidores a apostar na Blaze; promete punir influenciadores de bet em seu governo.
+
+## [2026-07-11] ingest automático | Cuidado ao ir ao shopping
+- Fonte criada: fontes/2026-07-11 - Cuidado ao ir ao shopping
+- Páginas atualizadas: temas/Segurança Pública (caso Mateus da Costa Meira), posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos (retorno de hospitais psiquiátricos), pessoas/Jerônimo Rodrigues (psicopata solto e visto em Salvador), index.md, log.md, wiki/.processed_ids
+- Nota: video_id q5SouVD7EWM. Renan denuncia soltura de Mateus da Costa Meira (massacre Shopping Morumbi 1999), visto em Salvador; propõe retorno de hospitais psiquiátricos; crítica a Jerônimo Rodrigues.
+
+## [2026-07-11] ingest automático | Quem ganharia numa guerra São Paulo ou Brasil
+- Fonte criada: fontes/2026-07-10 - Quem ganharia numa guerra São Paulo ou Brasil
+- Nota: video_id 9Hyl61fO_Ww. Renan conta história da Revolução Constitucionalista de 1932; conexão com o MBL; homenagem aos heróis do MMDC.
+
+## [2026-07-11] ingest automático | O que está acontecendo na CBF
+- Fonte criada: fontes/2026-07-10 - O que está acontecendo na CBF
+- Páginas atualizadas: temas/STF e Ativismo Judicial (CBF controlada por Gilmar, bets infiltradas), pessoas/Gilmar Mendes (presidente da CBF nomeado por sua turma, filho cotado), posicoes/Proibição de Bets e Cassinos Online (bets infiltradas no futebol), index.md, log.md, wiki/.processed_ids
+- Nota: video_id _uTMVgi7yjU. Renan denuncia CBF controlada por Gilmar Mendes; presidente nomeado para abrir caminho ao filho do ministro; bets financiam clubes com lavagem de dinheiro; promete investigar com PF.
+
 ## [2026-07-10] ingest automático | Papo com Balestrin sobre universidades públicas.
 - Fonte criada: fontes/2026-07-10 - Papo com Balestrin sobre universidades públicas.
 - Páginas atualizadas: posicoes/Propostas para Educação (foco em STEM, reforma de universidades públicas, crítica ao excesso de advogados), index.md, log.md, wiki/.processed_ids

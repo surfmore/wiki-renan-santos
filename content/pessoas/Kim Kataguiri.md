@@ -18,6 +18,16 @@ Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso N
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. Fatos aqui apresentados como citações de Renan não são verificados independentemente por este wiki.
 
+## PEC do IPVA 1% e plano de corte de gastos (julho de 2026)
+
+Em **11 de julho de 2026**, Renan detalha o funcionamento da PEC de Kim que limita o IPVA a no máximo 1% do valor do carro, usando o **peso do veículo** como critério de alíquota — modelo de países desenvolvidos. Destaca que a compensação virá do corte de gastos com propaganda do governo.
+
+Renan anuncia planos de aplicar o mesmo espírito ao **IPTU** e menciona que Kim, já anunciado como ministro de seu futuro governo e líder da bancada do Partido Missão no Congresso, também aprovou recentemente projeto que aumenta penas para roubo, furto e interceptação de celular. O objetivo central do governo Missão: cortar gastos federais para reduzir impostos.
+
+> "Já imaginou eu e ele tocando a queda do IPTU? Fazer com que o IPTU baixe nos estados?"
+
+Ver [[fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!]].
+
 ## PEC do IPVA 1% passa na CCJ (julho de 2026)
 
 Em **8 de julho de 2026**, Renan anuncia que o projeto de Kim Kataguiri que limita o IPVA a **1%** passou na CCJ da Câmara. A proposta usa o peso do carro como critério de alíquota em vez do valor venal. Renan celebra como "revolução" e "primeira vez que passa um projeto que vai colocar dinheiro no bolso do brasileiro que trabalha". O próximo passo é a votação em plenário. Renan parabeniza Kim como "melhor deputado do Brasil" e destaca que o Partido Missão, com apenas 7 meses, já faz o que partidos com décadas não fazem.
@@ -161,6 +171,7 @@ Ver [[fontes/2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!]].
 
 ## Fontes
 
+- [[fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!]] — PEC do IPVA 1% detalhada; peso como critério; Kim como futuro ministro
 - [[fontes/2026-05-28 - Resposta para Nikolas Ferreira]] — votou contra a escala 4x3; citado como contraponto à proposta "psicopática" de Nikolas
 - [[fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA]] — único de direita a votar contra e a discursar no plenário
 - [[fontes/2025-09-23 - Expulsei o Kim do MBL]] — semana produtiva set/23; meta "205 Kim Kataguiris"
