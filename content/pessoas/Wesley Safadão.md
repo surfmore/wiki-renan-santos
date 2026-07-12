@@ -4,8 +4,9 @@ tags:
   - pessoa
   - corrupção-municipal
   - shows-públicos
-date: 2026-06-11
+date: 2026-07-12
 fontes:
+  - "2026-07-12 - Efeito Renan Santos na Bahia"
   - "2026-06-11 - Deu ruim pro Wesley Safadao"
   - "2026-05-07 - Minha resposta ao Wesley Safadão"
   - "2026-05-03 - O JOGO TÁ VIRANDO CONTRA O WESLEY SAFADÃO"
@@ -16,6 +17,10 @@ fontes:
 ---
 
 **Quem é:** Cantor e empresário cearense de forró e tecnobrega. Renan Santos o usa como o caso mais emblemático do esquema de desvio de dinheiro público via shows musicais em municípios pobres — e de censura judicial a um pré-candidato à presidência.
+
+## MP da Bahia fecha acordo com 410 municípios contra shows (julho de 2026)
+
+Em **12 de julho de 2026**, Renan comemora o que chama de "Efeito Renan Santos na Bahia": o Ministério Público da Bahia fez um acordo com **410 municípios** para limitar gastos com cachês de artistas. Renan vinha denunciando Safadão e outros artistas que fazem shows pagos com dinheiro público em cidades quebradas. Os gastos com shows na Bahia caíram de R$ 700 milhões para R$ 50 milhões após o acordo. Renan atribui a pressão pública como fator determinante e reforça sua Lei de Responsabilidade Gerencial. Ver [[fontes/2026-07-12 - Efeito Renan Santos na Bahia]].
 
 ## Veja expõe campanha antecipada de Safadão para Efraim Filho (junho de 2026)
 

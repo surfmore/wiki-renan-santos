@@ -1,5 +1,24 @@
 # Log de operações
 
+## [2026-07-12] ingest automático | Efeito Renan Santos na Bahia
+- Fonte criada: fontes/2026-07-12 - Efeito Renan Santos na Bahia
+- Páginas atualizadas: temas/Corrupção Municipal (MP da Bahia acordo 410 municípios sobre shows), pessoas/Wesley Safadão (MP da Bahia fecha acordo), index.md, log.md, wiki/.processed_ids
+- Nota: video_id tDs60zwcLJ0. Renan comemora vitória após MP da Bahia firmar acordo com 410 municípios limitando gastos com shows; gastos caíram de R$700M para R$50M; defesa da Lei de Responsabilidade Gerencial.
+
+## [2026-07-12] ingest automático | Você conhece o ditador Mbappe
+- Fonte criada: fontes/2026-07-12 - Você conhece o ditador Mbappe
+- Páginas atualizadas: temas/Política Externa e Geopolítica (preferências entre líderes mundiais: Milei, Bukele, Lee Kuan Yew), index.md, log.md, wiki/.processed_ids
+- Nota: video_id L9h9mJcfApw. Jogo "this or that" com líderes mundiais; Renan prefere Trump a Lula, Milei a Trump, Bukele a Thatcher, Lee Kuan Yew como maior exemplo.
+
+## [2026-07-12] ingest automático | R$ 119 milhões, Valdemar
+- Fonte criada: fontes/2026-07-11 - R$ 119 milhões, Valdemar
+- Páginas criadas: nenhuma (conteúdo incluído em páginas existentes)
+- Páginas atualizadas: pessoas/Valdemar Costa Neto (escândalo R$119M em emendas desviadas), pessoas/Flávio Bolsonaro (vantagem financeira sobre Renan), index.md, log.md, wiki/.processed_ids
+- Nota: video_id i3i6KRysk4w. Renan reage a escândalo de Valdemar da Costa Neto com R$119M em emendas desviadas; promete prender presidentes de partido corruptos em seu governo; criticou eleitores que apoiam Valdemar mas criticam PT.
+
+## [2026-07-12] ingest automático | IDs corrigidos no .processed_ids
+- Nota: Adicionados IDs de 5 vídeos que haviam sido processados em 11/07 mas não registrados no .processed_ids: 7ghkC-7yGlk, gbdkODtWjjI, q5SouVD7EWM, 9Hyl61fO_Ww, _uTMVgi7yjU. IDs registrados retroativamente para evitar reprocessamento.
+
 ## [2026-07-11] ingest automático | Esse japonês do meu partido é um fenômeno!
 - Fonte criada: fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!
 - Páginas atualizadas: pessoas/Kim Kataguiri (PEC do IPVA 1% detalhada, Kim como futuro ministro), temas/Carga Tributária (IPVA 1%, corte de gastos com propaganda), index.md, log.md, wiki/.processed_ids

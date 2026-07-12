@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-06-20
 fontes:
+  - "2026-07-12 - Você conhece o ditador Mbappe"
   - "2026-06-20 - O que podemos aprender com o Haiti"
   - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
   - "2026-06-02 - Flavio é Janja"
@@ -17,6 +18,16 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## Preferências entre líderes mundiais: "ditador Mbappé" e a admiração por reformadores (julho de 2026)
+
+Em **12 de julho de 2026**, Renan participa de um jogo de "this or that" comparando líderes mundiais, revelando suas preferências e admirações. Entre líderes contemporâneos, prefere [[pessoas/Donald Trump]] a Lula e a Zelensky. Porém, coloca [[pessoas/Javier Milei]] como "mais interessante" que Trump, reconhecendo que o argentino enfrentou situação econômica mais difícil.
+
+Renan mostra admiração por reformadores históricos: considera [[pessoas/Margaret Thatcher]] mais definidora de sua era que [[pessoas/Ronald Reagan]], e credita a ela a inspiração para as reformas de [[pessoas/Fernando Henrique Cardoso]]. [[pessoas/Nayib Bukele]] é escolhido sobre Thatcher, com Renan destacando a transformação de El Salvador — saúde, habitação, cidades. Por fim, [[pessoas/Lee Kuan Yew]] é apontado como o maior exemplo, tendo transformado Singapura de país destruído e favelizado em um dos melhores lugares do mundo. Renan recomenda que brasileiros estudem o que Lee Kuan Yew fez.
+
+O jogo tem tom humorístico com a figura do "ditador Mbappé" (Kylian Mbappé como governante autoritário), que Renan escolhe sobre Xi Jinping, Emmanuel Macron, Dilma Rousseff e até Milei (para "parar a Argentina na Copa").
+
+Ver [[fontes/2026-07-12 - Você conhece o ditador Mbappe]].
 
 ## México como narcoestado: análise geopolítica da série Países na Copa (junho de 2026)
 

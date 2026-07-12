@@ -8,6 +8,16 @@ date: 2026-06-11
 
 Durante sua viagem pelo Maranhão em abril de 2026, Renan Santos usou episódios concretos para denunciar o que descreve como falência administrativa e desvio de recursos em prefeituras do interior. O tema aparece conectado à sua proposta de [[posicoes/Fusão de Municípios|fusão de municípios]] e à defesa de intervenção federal.
 
+## "Efeito Renan Santos" chega à Bahia: MP fecha acordo com 410 municípios contra shows (julho de 2026)
+
+Em **12 de julho de 2026**, Renan comemora o que chama de "vitória tua, minha, de todos nós que começamos a fiscalizar prefeito vagabundo": o **Ministério Público da Bahia firmou um acordo com 410 municípios** para limitar gastos com cachês de artistas. A medida ocorre após meses de pressão de Renan contra [[pessoas/Wesley Safadão]] e outros artistas que fazem shows pagos com dinheiro público.
+
+Renan apresenta dados: os gastos com shows na Bahia saltaram de ~R$ 100 milhões para **R$ 700 milhões** em cinco anos; após o acordo do MP, caíram para **R$ 50 milhões**. Ele classifica o valor de R$ 700 milhões como absurdo, especialmente em cidades sem saneamento básico, água encanada ou educação decente.
+
+> "Você sabe que eu pretendo mudar isso com a lei de responsabilidade gerencial, que é o meu projeto que vai acabar com a farra do Centrão, dos prefeitos malandros, que não entregam nada pra população e que fazem shows com artista vagabundo."
+
+Renan reforça sua [[posicoes/Emendas Parlamentares Condicionadas a Metas|Lei de Responsabilidade Gerencial]] como solução estrutural. Ver [[fontes/2026-07-12 - Efeito Renan Santos na Bahia]].
+
 ## "Efeito Renan Santos": Belém só limpa rua após denúncia (junho de 2026)
 
 Em **20 de junho de 2026**, Renan mostra uma rua de Belém do Pará tomada por lixo e entulho. Após sua denúncia pública, a prefeitura de Hélder Barbalho enviou uma retroescavadeira para limpeza — o que ele batizou de "Efeito Renan Santos". Renan critica a administração municipal por precisar de "alguém de fora" para fazer o básico. O episódio exemplifica o padrão de negligência e reatividade que, segundo ele, define a gestão da [[pessoas/Família Barbalho]] em Belém. Ver [[fontes/2026-06-20 - Efeito Renan Santos em Belém!]].

@@ -9,6 +9,10 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## Vantagem financeira absurda sobre Renan (julho de 2026)
+
+Em **11 de julho de 2026**, ao comentar o escândalo de R$ 119 milhões envolvendo [[pessoas/Valdemar Costa Neto]], Renan afirma que a campanha de Flávio Bolsonaro terá "centenas de vezes mais dinheiro" que a sua — candidatura do Partido Missão. Enquanto o PL opera com orçamentos multimilionários e ainda desvia emendas, Renan diz continuar "um cara de classe média" como presidente do próprio partido. Ver [[fontes/2026-07-11 - R$ 119 milhões, Valdemar]].
+
 ## Campanha superficial: dança em vez de propostas (julho de 2026)
 
 Em **9 de julho de 2026**, Renan critica Flávio Bolsonaro por estar dançando em campanha eleitoral em vez de explicar seu envolvimento com o crime organizado no Rio de Janeiro. Renan aponta que o país está sendo tomado pelo crime organizado, com a economia em frangalhos, recursos naturais ameaçados e a curva de juros futuros em níveis "assustadores" — e que, nesse contexto, fazer campanha com coreografias é tratar o eleitor como "idiota".

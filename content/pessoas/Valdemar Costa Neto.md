@@ -6,8 +6,9 @@ tags:
   - mensalão
   - bolsonarismo
   - centrão
-date: 2026-05-25
+date: 2026-07-11
 fontes:
+  - "2026-07-11 - R$ 119 milhões, Valdemar"
   - "2026-05-25 - Atenção! Valdemar entregou Flávio Bolsonaro!"
   - "2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio"
   - "2026-04-29 - FLÁVIO É FRACO"
@@ -23,6 +24,18 @@ fontes:
 ---
 
 **Quem é:** Fundador e presidente do Partido Liberal (PL). Para Renan Santos, é o personagem que mais sintetiza a fraude do bolsonarismo institucional: um político condenado duas vezes por corrupção junto ao PT que se tornou o dono do maior partido da direita brasileira — e que controla a candidatura de Flávio Bolsonaro como se fosse um ativo.
+
+## Escândalo de R$ 119 milhões em emendas desviadas (julho de 2026)
+
+Em **11 de julho de 2026**, Renan reage com choque e ironia ao escândalo envolvendo Valdemar da Costa Neto, que teria se beneficiado de cerca de **R$ 119 milhões** em emendas parlamentares desviadas de deputados do próprio PL. Renan destaca que, por ano, o PL recebe mais que esses R$ 119 milhões em recursos oficiais, e que mesmo assim Valdemar teria participado de esquema de corrupção para "meter grana no próprio bolso".
+
+Renan lembra que Valdemar já foi preso no mensalão e novamente depois, e que foi expulso da base do governo Dilma Rousseff por ser considerado "corrupto demais até para o PT" — o que ele chama de "faxina ética" feita por Dilma.
+
+> "Num governo meu, não só esse presidente de partido, como todos os outros presidentes de partido tem que ser preso. Participou de escândalo, corrupção, desvio, tem que ser preso."
+
+Renan contrasta a situação com sua própria campanha: enquanto a de [[pessoas/Flávio Bolsonaro]] terá "centenas de vezes mais dinheiro" que a sua, ele continua sendo um "cara de classe média" como presidente do [[temas/Partido Missão]]. Critica eleitores que chamam o PT de ladrão mas apoiam Valdemar.
+
+Ver [[fontes/2026-07-11 - R$ 119 milhões, Valdemar]].
 
 > "Valdemar não tem que ter uma opinião. Valdemar tem que ter uma cela."
 
