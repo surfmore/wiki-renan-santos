@@ -10,6 +10,18 @@ date: 2026-03-05
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## "Eu tive um pesadelo" — o trauma revisitado (julho de 2026)
+
+Em **12 de julho de 2026**, Renan relata ter tido um pesadelo com as imagens da visita que fez a uma casa em Moju, no Pará, semanas antes. Ele descreve o turbilhão emocional de revisitar mentalmente a cena: uma mulher de 46 anos aparentando 80, oito filhos no Bolsa Família, filhas menores grávidas, um filho no crime organizado, e um homem urinando no próprio corpo bêbado às 3 da tarde.
+
+O vídeo é um desabafo sobre o que ele chama de "falta de qualidade de muitos homens brasileiros" e o preço que isso cobra da sociedade. Ele contrasta o "Brasil jardim, Leblon" com o "Brasil meugaço" — onde milhões de pessoas "não sabem o que estão fazendo com as próprias vidas." 
+
+Apesar do desalento, Renan afirma que o Brasil tem solução e defende o papel do Estado em dar exemplo de cima para baixo, oferecer amparo cultural e impor disciplina com lei e ordem — para que as pessoas "parem antes de tudo de se sabotar."
+
+> "Primeiro essas pessoas se sabotam, depois sabotam o ambiente e a família delas e ao fim o país inteiro termina sabotado."
+
+Ver [[fontes/2026-07-12 - Eu tive um pesadelo]].
+
 ## A "lenda do boto" como símbolo do ciclo (junho de 2026)
 
 Em **28 de junho de 2026**, Renan usa a lenda folclórica do boto (golfinho rosado da Amazônia) como gancho para revisitar o diagnóstico da gravidez na adolescência na região Norte. Ele explica que a lenda serve como justificativa tradicional para mulheres que engravidam de homens que conheceram brevemente — mas alerta que "culpar o boto chega a ser engraçado, mas na prática é trágico", já que boa parte das gestações resulta de abuso doméstico.
@@ -102,6 +114,7 @@ Este tema se articula diretamente com:
 
 ## Fontes
 
+- [[fontes/2026-07-12 - Eu tive um pesadelo]] — Renan tem pesadelo revisitando a casa em Moju; reflexão sobre a "falta de qualidade dos homens brasileiros"
 - [[fontes/2026-06-28 - Você conhece a lenda do boto]] — lenda do boto como símbolo do ciclo familiar disfuncional na região Norte
 - [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]] — ciclo familiar na favela; desfavelização cultural
 - [[fontes/2026-05-18 - Conscientizar ou punir]] — ausência paterna como causa estrutural; vergonha de falar sobre o tema

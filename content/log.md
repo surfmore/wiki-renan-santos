@@ -1,5 +1,16 @@
 # Log de operações
 
+## [2026-07-13] ingest automático | Uma mulher brasileira que você admira
+- Fonte criada: fontes/2026-07-13 - Uma mulher brasileira que você admira
+- Páginas criadas: nenhuma (Rafaela Pimenta mencionada com detalhes, mas sem conteúdo suficiente para página própria; mencionada de passagem: FHC, Mino Raiola, Ibrahimovic, Haaland, Pogba)
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: video_id Tg-wMbMe010. Renan responde "uma mulher brasileira que você admira" com Rafaela Pimenta, empresária de Haaland e sucessora de Mino Raiola; contrasta com Virgínia Fonseca como exemplo negativo.
+
+## [2026-07-12] ingest automático | Eu tive um pesadelo
+- Fonte criada: fontes/2026-07-12 - Eu tive um pesadelo
+- Páginas atualizadas: temas/Família e Paternidade (nova seção "Eu tive um pesadelo — o trauma revisitado"), index.md, log.md, wiki/.processed_ids
+- Nota: video_id emcMHM81eNk. Renan relata pesadelo revisitando visita à casa em Moju (PA); reflexão sobre desestruturação familiar e "falta de qualidade dos homens brasileiros"; defesa do papel do Estado em dar exemplo cultural com lei e ordem.
+
 ## [2026-07-12] ingest automático | Efeito Renan Santos na Bahia
 - Fonte criada: fontes/2026-07-12 - Efeito Renan Santos na Bahia
 - Páginas atualizadas: temas/Corrupção Municipal (MP da Bahia acordo 410 municípios sobre shows), pessoas/Wesley Safadão (MP da Bahia fecha acordo), index.md, log.md, wiki/.processed_ids
