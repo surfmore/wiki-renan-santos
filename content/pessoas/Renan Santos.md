@@ -178,5 +178,5 @@ Ver [[fontes/2026-05-19 - 6,9% DISPAREI NA ATLAS]].
 - [[fontes/2026-05-13 - Por que a Rede Globo fica me escondendo]] — apagamento pela Globo
 - [[fontes/2026-04-28 - CONTINUAMOS SUBINDO!]] — pesquisas e composição de voto
 - [[fontes/2026-04-28 - Por que esquecem da minha existência]] — apagamento na imprensa
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]] — biografia completa narrada em vídeo
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — biografia completa narrada em vídeo
 - [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — reação à pesquisa presidencial com 2%

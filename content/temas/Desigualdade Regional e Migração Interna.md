@@ -96,7 +96,7 @@ Ver [[fontes/2025-09-06 - Cuida de mim, painho!]].
 
 Em **2 de setembro de 2025**, no vídeo autobiográfico, Renan explica que o Livro Amarelo do Partido Missão propõe a **industrialização do Nordeste** como um dos pilares para superar as desigualdades regionais. O projeto envolve transformar as potencialidades regionais em cadeias produtivas de alto valor agregado.
 
-Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]].
 
 ## Jurunas (Belém): a capital da COP30 sem saneamento básico (junho de 2026)
 

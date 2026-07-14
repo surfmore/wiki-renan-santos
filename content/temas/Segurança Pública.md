@@ -102,7 +102,7 @@ Em **2 de setembro de 2025**, logo após aparecer com 2% em pesquisa presidencia
 
 Renan propõe reocupar o território e desfavelizar os locais tomados pelo crime organizado.
 
-Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [QrFE87WpcEs]]].
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS (QrFE87WpcEs)]].
 
 ## "Vingar as pessoas boas": compromisso pessoal e motivação familiar (junho de 2026)
 

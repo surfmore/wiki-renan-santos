@@ -21,9 +21,9 @@ Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Es
 
 ## Preferências entre líderes mundiais: "ditador Mbappé" e a admiração por reformadores (julho de 2026)
 
-Em **12 de julho de 2026**, Renan participa de um jogo de "this or that" comparando líderes mundiais, revelando suas preferências e admirações. Entre líderes contemporâneos, prefere [[pessoas/Donald Trump]] a Lula e a Zelensky. Porém, coloca [[pessoas/Javier Milei]] como "mais interessante" que Trump, reconhecendo que o argentino enfrentou situação econômica mais difícil.
+Em **12 de julho de 2026**, Renan participa de um jogo de "this or that" comparando líderes mundiais, revelando suas preferências e admirações. Entre líderes contemporâneos, prefere Donald Trump a Lula e a Zelensky. Porém, coloca [[pessoas/Javier Milei]] como "mais interessante" que Trump, reconhecendo que o argentino enfrentou situação econômica mais difícil.
 
-Renan mostra admiração por reformadores históricos: considera [[pessoas/Margaret Thatcher]] mais definidora de sua era que [[pessoas/Ronald Reagan]], e credita a ela a inspiração para as reformas de [[pessoas/Fernando Henrique Cardoso]]. [[pessoas/Nayib Bukele]] é escolhido sobre Thatcher, com Renan destacando a transformação de El Salvador — saúde, habitação, cidades. Por fim, [[pessoas/Lee Kuan Yew]] é apontado como o maior exemplo, tendo transformado Singapura de país destruído e favelizado em um dos melhores lugares do mundo. Renan recomenda que brasileiros estudem o que Lee Kuan Yew fez.
+Renan mostra admiração por reformadores históricos: considera Margaret Thatcher mais definidora de sua era que Ronald Reagan, e credita a ela a inspiração para as reformas de Fernando Henrique Cardoso. [[pessoas/Nayib Bukele]] é escolhido sobre Thatcher, com Renan destacando a transformação de El Salvador — saúde, habitação, cidades. Por fim, Lee Kuan Yew é apontado como o maior exemplo, tendo transformado Singapura de país destruído e favelizado em um dos melhores lugares do mundo. Renan recomenda que brasileiros estudem o que Lee Kuan Yew fez.
 
 O jogo tem tom humorístico com a figura do "ditador Mbappé" (Kylian Mbappé como governante autoritário), que Renan escolhe sobre Xi Jinping, Emmanuel Macron, Dilma Rousseff e até Milei (para "parar a Argentina na Copa").
 

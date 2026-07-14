@@ -28,7 +28,7 @@ O vídeo contrasta Rafaela Pimenta com a influenciadora Virgínia Fonseca, a que
 
 ## Temas abordados
 
-- [[temas/Educação]] — trajetória acadêmica na USP e docência
+- Educação — trajetória acadêmica na USP e docência
 - **Empreendedorismo feminino** — mulher brasileira bem-sucedida em mercado dominado por homens
 
 ## Pessoas mencionadas

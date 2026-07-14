@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-13
+date: 2026-07-14
 ---
 
 <style>
@@ -203,7 +203,16 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/PEC da Blindagem — Setembro de 2025"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">PEC da Blindagem — Setembro de 2025</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Em 16 de setembro de 2025, a Câmara dos Deputados aprovou a PEC da Blindagem com 324 votos favoráveis — incluindo a grande maioria dos dep...</p></a>
 <a class="wiki-card" href="/eventos/Casamento Tabata Amaral e João Campos"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Casamento Tabata Amaral e João Ca...</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">O casamento em fevereiro de 2026 entre a deputada federal Tabata Amaral e o prefeito do Recife João Campos é usado por Renan Santos como ilust...</p></a>
 <a class="wiki-card" href="/eventos/Leilão de Termoelétricas de 2026"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Leilão de Termoelétricas de 2026</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Em junho de 2026, o governo Lula realizou um leilão de usinas termoelétricas que Renan Santos denuncia como &quot;de cartas marcadas&quot; — avaliado em c...</p></a>
+<a class="wiki-card" href="/eventos/Prisão do Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Prisão do Bolsonaro</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Jair Bolsonaro foi preso em novembro de 2025 por decisão de Alexandre de Moraes no inquérito dos atos de 8 de janeiro. Renan não celebra — caracteriza a prisão como &quot;melancólica&quot; para todos os lados.</p></a>
 <a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 13 eventos →</span></div><p class="wiki-card-desc">Outros eventos comentados por Renan.</p></a>
+</div>
+
+<p class="wiki-section-title">📊 Análises</p>
+<div class="wiki-grid">
+<a class="wiki-card" href="/analises/Timeline do Escândalo Banco Master"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Escândalo Banco Master</span></div><p class="wiki-card-desc">Linha do tempo do maior escândalo político-financeiro em curso no Brasil, com os desdobramentos desde janeiro de 2026.</p></a>
+<a class="wiki-card" href="/analises/Renan Santos x Flávio Bolsonaro - Evolução 2025-2026"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Renan Santos × Flávio Bolsonaro</span></div><p class="wiki-card-desc">Timeline completa da evolução da relação entre Renan Santos e Flávio Bolsonaro: de desafeto declarado a possível aliança no segundo turno.</p></a>
+<a class="wiki-card" href="/analises/Propostas de Governo - Comparativo por Área"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Propostas de Governo</span></div><p class="wiki-card-desc">Compilação e comparação das propostas de Renan Santos organizadas por área: fiscal, segurança, educação, STF, saúde e mais.</p></a>
+<a class="wiki-card" href="/analises/A Viagem ao Pará - Diagnóstico do Brasil Profundo"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Viagem ao Pará</span></div><p class="wiki-card-desc">Síntese da pré-campanha de Renan pelo Pará em junho de 2026: documentação das condições do Brasil profundo e propostas para a região.</p></a>
 </div>
 
 

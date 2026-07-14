@@ -1,6 +1,19 @@
 # Log de operações
 
-## [2026-07-13] ingest automático | Uma mulher brasileira que você admira
+## [2026-07-14] lint | Lint completo do wiki
+- **Broken links corrigidos (13):**
+  - 2 fontes renomeadas: `[suJJjWFu_44]` e `[QrFE87WpcEs]` → `(suJJjWFu_44)` e `(QrFE87WpcEs)` (colchetes conflitam com wikilinks)
+  - 5 wikilinks atualizados em pessoas/Renan Santos, temas/Crítica à Direita Tradicional, temas/Desigualdade Regional, temas/Partido Missão, temas/Segurança Pública (refletem novo nome dos arquivos)
+  - 6 links convertidos para texto plano (páginas que não existem): Dilma Rousseff, Donald Trump, Margaret Thatcher, Ronald Reagan, Fernando Henrique Cardoso, Lee Kuan Yew em fontes/2026-07-11* e fontes/2026-07-12*
+  - 1 broken link em fontes/2026-07-13 ([[temas/Educação]] → texto plano)
+  - 4 broken links convertidos para texto plano em temas/Política Externa e Geopolítica (Trump, Thatcher, Reagan, FHC, Lee Kuan Yew — mencionados sem página própria)
+- **Cards adicionados ao index.md:**
+  - eventos/Prisão do Bolsonaro (estava faltando no grid)
+  - Seção "Análises" com 4 cards (analises/ — estavam sem vitrine no index)
+- **Nenhum broken link ativo restante** (0 broken links verificados em 850 páginas)
+- **Nenhuma página órfã crítica** (pessoas/temas/posicoes/eventos com pelo menos 1 link de entrada)
+- **Estatísticas verificadas:** fontes=719, pessoas=57, temas=27, posicoes=29, eventos=13, análises=4 — consistentes com index.md
+- **Nenhuma contradição óbvia detectada** entre páginas
 - Fonte criada: fontes/2026-07-13 - Uma mulher brasileira que você admira
 - Páginas criadas: nenhuma (Rafaela Pimenta mencionada com detalhes, mas sem conteúdo suficiente para página própria; mencionada de passagem: FHC, Mino Raiola, Ibrahimovic, Haaland, Pogba)
 - Páginas atualizadas: index.md, log.md, wiki/.processed_ids

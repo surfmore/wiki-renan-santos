@@ -35,7 +35,7 @@ Em **2 de setembro de 2025**, Renan revela pela primeira vez em seu vídeo autob
 
 Ele afirma que sua posição independente em relação a Bolsonaro lhe custou perseguições: foi investigado pela PF, COAF e polícia civil durante o governo Bolsonaro, sendo absolvido em todas as ocasiões. Renan também critica a lógica da direita da época: "se você está com Bolsonaro, pode tudo; se não está, tem que ir pra cadeia."
 
-Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]].
 
 ## Eduardo Bolsonaro ataca Renan na Jovem Pan (junho de 2026)
 

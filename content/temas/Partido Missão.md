@@ -74,7 +74,7 @@ Em **2 de setembro de 2025**, no vídeo autobiográfico "QUEM É RENAN SANTOS", 
 
 O MBL cresceu a ponto de lançar deputados (como Kim Kataguiri) e criar uma academia de lideranças, o clube Vale Mais e uma revista. O passo seguinte foi o Partido Missão — descrito por Renan como o partido montado mais rápido da história do Brasil em número de estados e fichas validadas, com mais de 547 mil membros. O programa do partido está consolidado no **Livro Amarelo**, que propõe tratamento inédito para criminosos, industrialização do Nordeste e enfrentamento das desigualdades regionais.
 
-Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]].
+Ver [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]].
 
 ## 10% em São Paulo pela RealTime Big Data (junho de 2026)
 
@@ -207,4 +207,4 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 - [[fontes/2025-10-24 - Não vai ter Missão]] — tentativa de bloqueio por Glauber Braga; resposta de Renan
 - [[fontes/2025-09-24 - Quer notícia boa]] — parecer favorável do MPE; contexto eleitoral sem Missão
 - [[fontes/2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!]] — primeira pesquisa com 2%; contexto da fundação
-- [[fontes/2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]]] — Livro Amarelo; programa resumido
+- [[fontes/2025-09-02 - QUEM É RENAN SANTOS (suJJjWFu_44)]] — Livro Amarelo; programa resumido
