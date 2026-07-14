@@ -10,6 +10,18 @@ date: 2026-03-05
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## Responsabilidade de influenciadores e o ciclo da gravidez na adolescência (julho de 2026)
+
+Em **14 de julho de 2026**, Renan critica [[pessoas/Virgínia Fonseca]] como exemplo negativo para jovens brasileiras e conecta sua influência ao problema da gravidez na adolescência. Ele mostra o caso de uma menina de 15 anos que engravidou de um homem de quase 30 — "acabou acontecendo", segundo ela.
+
+Renan argumenta que influenciadores no topo da pirâmide cultural têm responsabilidade sobre o efeito que causam na base: jovens sem referência paterna ou capacidade crítica para "formar consciência" absorvem exemplos de promiscuidade e ostentação como norma. O resultado são famílias desestruturadas, meninos que cometem crimes "de famílias sem o pai presente", e um ciclo que se perpetua.
+
+> "Se quem tá no topo, quem influencia é desse jeito, quem tá na base e não consegue formar consciência para se proteger desse exemplo ruim, vai agir de maneira ruim."
+
+Renan propõe que seu governo tornará o Brasil um "país sério" onde se combate a gravidez na adolescência, promove-se famílias mais sólidas e restabelecem-se referências claras de certo e errado.
+
+Ver [[fontes/2026-07-14 - Qual exemplo você quer para sua filha]].
+
 ## "Eu tive um pesadelo" — o trauma revisitado (julho de 2026)
 
 Em **12 de julho de 2026**, Renan relata ter tido um pesadelo com as imagens da visita que fez a uma casa em Moju, no Pará, semanas antes. Ele descreve o turbilhão emocional de revisitar mentalmente a cena: uma mulher de 46 anos aparentando 80, oito filhos no Bolsa Família, filhas menores grávidas, um filho no crime organizado, e um homem urinando no próprio corpo bêbado às 3 da tarde.

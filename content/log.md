@@ -1,5 +1,20 @@
 # Log de operações
 
+## [2026-07-14] ingest | O que esses caras merecem
+- Fonte criada: fontes/2026-07-13 - O que esses caras merecem
+- Páginas atualizadas: temas/Segurança Pública, posicoes/Pena de Morte e Prisão Perpétua, index.md, log.md, wiki/.processed_ids
+- Nota: Renan exibe tortura de mulher por traficantes e defende que não há recuperação; critica Lula e Flávio Bolsonaro
+
+## [2026-07-14] ingest | Qual exemplo você quer para sua filha
+- Fonte criada: fontes/2026-07-14 - Qual exemplo você quer para sua filha
+- Páginas atualizadas: pessoas/Virgínia Fonseca, posicoes/Proibição de Bets e Cassinos Online, temas/Família e Paternidade, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica Virgínia por comportamento público e promoção de bets; conecta influenciadores à gravidez na adolescência
+
+## [2026-07-14] ingest | R$ 119 milhões, Valdemar
+- Fonte criada: fontes/2026-07-14 - R$ 119 milhões, Valdemar
+- Páginas atualizadas: posicoes/Desfavelização do Brasil, index.md, log.md, wiki/.processed_ids
+- Nota: Renan apresenta cinco propostas para viabilizar casa própria: ajuste fiscal/redução de juros, reforma do FGTS, Open Finance, fim do ITBI e desfavelização nacional
+
 ## [2026-07-14] lint | Lint completo do wiki
 - **Broken links corrigidos (13):**
   - 2 fontes renomeadas: `[suJJjWFu_44]` e `[QrFE87WpcEs]` → `(suJJjWFu_44)` e `(QrFE87WpcEs)` (colchetes conflitam com wikilinks)

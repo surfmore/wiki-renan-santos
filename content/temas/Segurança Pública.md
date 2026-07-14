@@ -6,6 +6,18 @@ tags:
 date: 2026-07-03
 ---
 
+## Tortura de mulher por traficante: Renan defende execução ou prisão perpétua (julho de 2026)
+
+Em **13 de julho de 2026**, Renan exibe imagens de uma mulher sendo torturada por traficantes — que rasparam seu cabelo como punição por ela ter se recusado a fazer sexo com um membro da facção. Ele usa o caso para reafirmar sua posição de que não há recuperação possível para criminosos que cruzam "essa linha".
+
+Renan argumenta que o debate entre ressocialização e punição é falso diante de casos como este: a única resposta possível é prisão perpétua ou morte em confronto com a polícia. Ele rejeita o discurso de que o traficante é "titular de direitos" e afirma que a sociedade que normaliza esse tipo de crime "está perdida".
+
+> "Não existe recuperação para uma pessoa que cruzou essa linha. Não existe recuperação para uma sociedade que acha normal imaginar que esse rapaz que está fazendo isso é um titular de direitos."
+
+Renan afirma que mulheres das periferias — principais vítimas da violência do crime organizado — apoiam sua posição, exibindo uma moradora que diz "pode, bem matado". Ele critica [[pessoas/Lula]] por "defender bandido" e [[pessoas/Flávio Bolsonaro]] por supostamente apoiar membros do Comando Vermelho.
+
+Ver [[fontes/2026-07-13 - O que esses caras merecem]].
+
 ## Psicopata do Shopping Morumbi solto e visto em Salvador (julho de 2026)
 
 Em **11 de julho de 2026**, Renan denuncia que Mateus da Costa Meira — autor do massacre no Shopping Morumbi em 1999, que matou várias pessoas a tiros dentro de uma sessão de cinema — foi solto pela justiça e visto novamente em Salvador, na Bahia, frequentando um shopping. Renan critica a "luta antimanicomial" que levou à desmontagem dos hospitais psiquiátricos e pede o retorno da internação compulsória. Também responsabiliza o governador [[pessoas/Jerônimo Rodrigues]] por supostamente impedir a polícia de trabalhar na Bahia.

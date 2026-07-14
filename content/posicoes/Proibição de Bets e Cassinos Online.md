@@ -15,6 +15,16 @@ fontes:
 
 Renan Santos defende uma posição radicalmente contrária à operação de empresas de apostas online (bets) e cassinos virtuais no Brasil, que ele descreve como um sistema de evasão de divisas e lavagem de dinheiro para facções criminosas.
 
+## Virgínia cometeu crime ao promover bets (julho de 2026)
+
+Em **14 de julho de 2026**, Renan reitera que [[pessoas/Virgínia Fonseca]] cometeu crime ao induzir seguidores a apostar na Blaze durante a Copa do Mundo (Argentina x Cabo Verde). Ele diz ter sido "cancelado" por apontar o crime, mas mantém a posição: quem ouviu Virgínia e apostou perdeu dinheiro. Virgínia, como influenciadora com dezenas de milhões de seguidores, tem responsabilidade sobre o exemplo que dá.
+
+> "Quem ouviu ela perdeu dinheiro. Isso é crime, ela tem que pagar pelo crime."
+
+Renan afirma que não se importa de ser cancelado, pois como pré-candidato a presidente precisa "endereçar os grandes problemas nacionais" — e as bets são um deles.
+
+Ver [[fontes/2026-07-14 - Qual exemplo você quer para sua filha]].
+
 ## MP investiga Virgínia Fonseca por indução a apostas (julho de 2026)
 
 Em **11 de julho de 2026**, Renan celebra que o Ministério Público abriu investigação contra [[pessoas/Virgínia Fonseca]] por induzir seguidores a apostar na Blaze durante a Copa do Mundo. Virgínia havia postado vídeo incentivando apostas em Cabo Verde contra a Argentina, com link direto para a plataforma. Renan reitera que em seu governo "influenciador vendedor de bet vai se dar muito mal."

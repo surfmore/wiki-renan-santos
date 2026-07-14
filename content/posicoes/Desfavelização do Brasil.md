@@ -18,6 +18,20 @@ fontes:
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
 
+## Cinco propostas para acesso à moradia própria (julho de 2026)
+
+Em **14 de julho de 2026**, Renan apresenta cinco propostas para viabilizar a casa própria para jovens brasileiros, como parte de sua plataforma de moradia e desfavelização:
+
+1. **Ajuste fiscal para reduzir juros reais a ~5%** — com juros baixos, financiamentos de longo prazo se tornam viáveis e a construção civil é estimulada.
+2. **Reforma do FGTS** — o trabalhador pode escolher onde o FGTS rende; com maior rentabilidade, o saldo financia a casa própria.
+3. **Open Finance para garantias** — o tomador pode trocar garantias entre bancos, tornando o financiamento mais ágil.
+4. **Fim do ITBI** — Renan classifica o imposto como "piada" que só alimenta cartórios e governos municipais, encarecendo a compra de imóveis.
+5. **Política Nacional de Desfavelização** — transformar favelas em bairros, dando título de propriedade e integrando periferias à cidade formal.
+
+Renan estima que, em 10 anos, "milhões de jovens periféricos no Brasil serão proprietários de uma casa" — uma "revolução sem igual" para tornar essas pessoas "mais dignas e respeitadas".
+
+Ver [[fontes/2026-07-14 - R$ 119 milhões, Valdemar]].
+
 ## "Desfavelizar a mente": ordem, hábito e cultura (julho de 2026)
 
 Em **5 de julho de 2026**, Renan expande a dimensão cultural da desfavelização com o conceito de **"desfavelizar a mente do Brasil"**. Inspirado no exemplo de Singapura e Lee Kuan Yew, ele propõe uma filosofia de transformação em três estágios: **primeiro cria-se a ordem, depois a ordem vira hábito e depois o hábito vira cultura**.

@@ -13,6 +13,16 @@ fontes:
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
 
+## Sem recuperação para quem tortura: o caso da mulher torturada por traficantes (julho de 2026)
+
+Em **13 de julho de 2026**, Renan exibe imagens de uma mulher sendo torturada por traficantes — que rasparam seu cabelo como punição por ela ter se recusado a fazer sexo com eles. Ele afirma que não há recuperação possível para quem cruza "essa linha" e rejeita qualquer argumento de que o criminoso seja "titular de direitos".
+
+> "Não existe recuperação para uma pessoa que cruzou essa linha."
+
+Renan sustenta que as únicas opções são: prisão perpétua sem qualquer possibilidade de soltura, ou morte em confronto com a polícia. Ele conecta o caso à sua proposta mais ampla de [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] e à necessidade de uma legislação penal que trate faccionados como inimigos do Estado.
+
+Ver [[fontes/2026-07-13 - O que esses caras merecem]].
+
 ## Prisão como punição degradante: o caso Gabriel (junho de 2026)
 
 Em **6 de junho de 2026**, ao narrar a execução de Gabriel — jovem morto por assaltante que não gostou do modelo do celular — Renan detalha sua visão sobre o sistema penitenciário para criminosos violentos: **pena sem qualquer conforto ou redenção**.

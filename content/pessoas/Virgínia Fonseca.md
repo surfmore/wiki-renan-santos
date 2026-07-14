@@ -16,7 +16,17 @@ fontes:
 
 # Virgínia Fonseca
 
-Influenciadora digital multimilionária brasileira. Renan Santos a utiliza recorrentemente como símbolo negativo da cultura de influenciadores e da "gororoba cultural" brasileira — uma figura que, segundo ele, substitui valores como trabalho duro e discrição pela ostentação e exposição da vida pessoal.
+Influenciadora digital multimilionária brasileira. Renan Santos a utiliza recorrentemente como símbolo negativo da cultura de influenciadores e da "gororoba cultural" brasileira
+
+## Comportamento público e exemplo para jovens (julho de 2026)
+
+Em **14 de julho de 2026**, Renan critica Virgínia por uma foto em que aparece sentada no colo de Vini Jr. — que segundo ele "praticamente simula sexo" — e por cenas dela dançando na frente de [[pessoas/Neymar]] durante o cruzeiro do jogador, com o marido a poucos passos. Ele argumenta que, como mulher com dezenas de milhões de seguidores, seu comportamento influencia negativamente jovens vulneráveis.
+
+Renan usa o caso para articular o problema da gravidez na adolescência no Brasil: milhões de meninas engravidam de homens mais velhos e não têm "consciência para se proteger desse exemplo ruim". Ele conecta a influência de Virgínia e [[pessoas/Deolane Bezerra]] à desestruturação familiar — meninos que cometem crimes vêm de "famílias desestruturadas sem o pai presente".
+
+> "Se quem tá no topo, quem influencia é desse jeito, quem tá na base e não consegue formar consciência para se proteger desse exemplo ruim, vai agir de maneira ruim."
+
+Ver [[fontes/2026-07-14 - Qual exemplo você quer para sua filha]]. — uma figura que, segundo ele, substitui valores como trabalho duro e discrição pela ostentação e exposição da vida pessoal.
 
 ## MP investiga Virgínia por indução a apostas (julho de 2026)
 
