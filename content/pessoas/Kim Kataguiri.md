@@ -16,6 +16,12 @@ fontes:
 
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
 
+## Único a votar contra pautas populistas no Congresso (julho de 2026)
+
+Em **15 de julho de 2026**, Renan elogia Kim Kataguiri como um dos poucos parlamentares que votaram de maneira correta e não populista no Congresso. Enquanto a maioria dos "direitistas" votou junto com a esquerda para aprovar pautas que estouram as contas públicas — incluindo alteração previdenciária de R$ 30 bilhões e anistia a dívidas de municípios —, Kim fez parte da "meia dúzia de gato pingado" que votou de forma responsável.
+
+Ver [[fontes/2026-07-15 - Direita e esquerda se uniram mais uma vez para ferrar o Brasil.]].
+
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. Fatos aqui apresentados como citações de Renan não são verificados independentemente por este wiki.
 
 ## PEC do IPVA 1% e plano de corte de gastos (julho de 2026)

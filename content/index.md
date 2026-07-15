@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-14
+date: 2026-07-15
 ---
 
 <style>
@@ -98,8 +98,8 @@ date: 2026-07-14
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">722</span><span class="label">Fontes</span></a>
-<a class="wiki-stat" href="/temas"><span class="num">27</span><span class="label">Temas</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">726</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
@@ -115,7 +115,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
 <a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">104 fontes</span></div><p class="wiki-card-desc">Em 13 de julho de 2026, Renan exibe imagens de uma mulher sendo torturada por traficantes e defende que não há recuperação para criminosos que cruzam essa linha.</p></a>
-<a class="wiki-card" href="/temas/Crítica à Direita Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">72 fontes</span></div><p class="wiki-card-desc">Em 6 de julho de 2026, comentando a eliminação do Brasil na Copa do Mundo, Renan traça um paralelo direto entre o futebol e a política: assim como...</p></a>
+<a class="wiki-card" href="/temas/Cultura do Vitimismo e Litigância"><div class="wiki-card-header"><span class="wiki-card-icon">😤</span><span class="wiki-card-title">Cultura do Vitimismo e Litigância</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Em 15 de julho de 2026, Renan critica a cultura do vitimismo no Brasil após comentar caso de influenciador que processou a própria mãe — afirma que o Brasil forma uma "geração de idiotas" e é o "país rei das ações trabalhistas".</p></a>
+<a class="wiki-card" href="/temas/Crítica à Direita Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">73 fontes</span></div><p class="wiki-card-desc">Em 6 de julho de 2026, comentando a eliminação do Brasil na Copa do Mundo, Renan traça um paralelo direto entre o futebol e a política: assim como...</p></a>
 <a class="wiki-card" href="/temas/Desigualdade Regional e Migração Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺</span><span class="wiki-card-title">Desigualdade Regional e Migração ...</span><span class="wiki-card-count">48 fontes</span></div><p class="wiki-card-desc">Em 4 de julho de 2026, Renan aponta que os estados com pior saneamento básico do Brasil — Maranhão, Piauí e Ceará — são todos governados por aliad...</p></a>
 <a class="wiki-card" href="/temas/STF e Ativismo Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">45 fontes</span></div><p class="wiki-card-desc">Em 6 de julho de 2026, Renan critica a Confederação Brasileira de Futebol (CBF) como uma organização corrupta que &quot;pertence à turma do STF&quot; e é &quot;a...</p></a>
 <a class="wiki-card" href="/temas/Corrupção Municipal"><div class="wiki-card-header"><span class="wiki-card-icon">💰</span><span class="wiki-card-title">Corrupção Municipal</span><span class="wiki-card-count">42 fontes</span></div><p class="wiki-card-desc">Durante sua viagem pelo Maranhão em abril de 2026, Renan Santos usou episódios concretos para denunciar o que descreve como falência administrativa e ...</p></a>
@@ -130,7 +131,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Carga Tributária"><div class="wiki-card-header"><span class="wiki-card-icon">💸</span><span class="wiki-card-title">Carga Tributária</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que e...</p></a>
 <a class="wiki-card" href="/temas/Soberania Nacional e ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Soberania Nacional e ONGs Estrang...</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de &quot;interferência estrangeira&quot; em projetos de infraestrutura e exploração de ...</p></a>
 <a class="wiki-card" href="/temas/Infraestrutura e Estradas no Maranhão"><div class="wiki-card-header"><span class="wiki-card-icon">🛣</span><span class="wiki-card-title">Infraestrutura e Estradas no Mara...</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Em abril de 2026, Renan Santos está percorrendo o estado do Maranhão de carro como parte de sua pré-campanha presidencial. Os vídeos gravados durante ...</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 27 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 28 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
@@ -156,9 +157,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/pessoas/Flávio Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">51 fontes</span></div><p class="wiki-card-desc">Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, pré-candidato à Presidência da República pela direita tradicional. Renan ...</p></a>
-<a class="wiki-card" href="/pessoas/Lula"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Lula</span><span class="wiki-card-count">27 fontes</span></div><p class="wiki-card-desc">Quem é: Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal advers...</p></a>
-<a class="wiki-card" href="/pessoas/Kim Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">25 fontes</span></div><p class="wiki-card-desc">Deputado federal, cofundador do MBL e líder do Partido Missão no Congresso Nacional. Renan Santos o descreve recorrentemente como o parlamentar qu...</p></a>
+<a class="wiki-card" href="/pessoas/Flávio Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">53 fontes</span></div><p class="wiki-card-desc">Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, pré-candidato à Presidência da República pela direita tradicional. Renan ...</p></a>
+<a class="wiki-card" href="/pessoas/Lula"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Lula</span><span class="wiki-card-count">28 fontes</span></div><p class="wiki-card-desc">Quem é: Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal advers...</p></a>
+<a class="wiki-card" href="/pessoas/Kim Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">26 fontes</span></div><p class="wiki-card-desc">Deputado federal, cofundador do MBL e líder do Partido Missão no Congresso Nacional. Renan Santos o descreve recorrentemente como o parlamentar qu...</p></a>
 <a class="wiki-card" href="/pessoas/Alexandre de Moraes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Alexandre de Moraes</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como figura central do que ele chama de &quot;sabotagem institucional&quot; do STF e como...</p></a>
 <a class="wiki-card" href="/pessoas/Renan Santos"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Renan Santos</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Renan Santos é fundador do Movimento Brasil Livre (MBL), presidente do MBL e fundador do Partido Missão. É pré-candidato à presidência da Repú...</p></a>
 <a class="wiki-card" href="/pessoas/Gilmar Mendes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Gilmar Mendes</span><span class="wiki-card-count">16 fontes</span></div><p class="wiki-card-desc">Quem é: Gilmar Mendes, ministro do Supremo Tribunal Federal (STF), nomeado em 2002 pelo presidente Fernando Henrique Cardoso. Renan Santos o descr...</p></a>

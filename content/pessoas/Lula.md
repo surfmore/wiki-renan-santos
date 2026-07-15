@@ -5,8 +5,9 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-07-04
+date: 2026-07-14
 fontes:
+  - "2026-07-14 - Esse vídeo vai definir o resultado das eleições"
   - "2026-07-09 - O Lula tá pto comigo"
   - "2026-07-09 - Olha o nível da eleição brasileira."
   - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
@@ -38,6 +39,12 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Beneficiário da desinformação sobre o sistema eleitoral (julho de 2026)
+
+Em **14 de julho de 2026**, Renan afirma que o maior beneficiário da desinformação sobre as regras eleitorais é Lula. Segundo Renan, a mídia e as escolas não ensinam que a soma dos votos de todos os candidatos de oposição pode impedir a vitória de Lula no primeiro turno — e que, portanto, não é necessário votar no segundo colocado (Flávio Bolsonaro) para evitar a reeleição de Lula. Renan diz que Lula quer enfrentar Flávio no segundo turno justamente porque ganharia com facilidade de um candidato de alta rejeição.
+
+Ver [[fontes/2026-07-14 - Esse vídeo vai definir o resultado das eleições]].
 
 ## Risco de nomear quatro ministros do STF se reeleito (julho de 2026)
 

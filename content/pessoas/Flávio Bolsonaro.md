@@ -9,6 +9,20 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## PL vota com a esquerda em pautas populistas (julho de 2026)
+
+Em **15 de julho de 2026**, Renan denuncia que o PL — partido de Flávio Bolsonaro — votou junto com a esquerda no Congresso para aprovar duas "pautas bombas": uma que altera regras previdenciárias gerando R$ 30 bilhões em gastos e outra sobre dívidas de municípios. Renan afirma que Flávio é "covarde" — imita Renan em temas populares como segurança pública, mas na hora de votar com responsabilidade fiscal, vota com a esquerda. Renan o desafia publicamente: "Explique o voto do teu partido, Flávio. Diga por que o seu partido votou junto com as esquerdas para estourar as contas públicas do próximo governo."
+
+> "Você quer ganhar a eleição ou você só tá fingindo? Porque você vota com a esquerda todas as vezes sempre para ferrar o Brasil."
+
+Ver [[fontes/2026-07-15 - Direita e esquerda se uniram mais uma vez para ferrar o Brasil.]].
+
+## Alta rejeição e inviabilidade contra Lula no segundo turno (julho de 2026)
+
+Em **14 de julho de 2026**, Renan afirma que Flávio Bolsonaro está "muito queimado" e que sua rejeição está "altíssima de acordo com todas as pesquisas". Renan alega que está prestes a sair mais material negativo sobre Flávio, incluindo suposto envolvimento com crime organizado no Rio de Janeiro e aparições em festas com "pessoas sem roupa". Segundo Renan, Flávio não tem chance de ganhar de Lula em um eventual segundo turno, e que o próprio Lula quer enfrentá-lo justamente por isso. Renan conclui que a pressão por "voto útil" em Flávio é uma "mentira" que beneficia Lula.
+
+Ver [[fontes/2026-07-14 - Esse vídeo vai definir o resultado das eleições]].
+
 ## Vantagem financeira absurda sobre Renan (julho de 2026)
 
 Em **11 de julho de 2026**, ao comentar o escândalo de R$ 119 milhões envolvendo [[pessoas/Valdemar Costa Neto]], Renan afirma que a campanha de Flávio Bolsonaro terá "centenas de vezes mais dinheiro" que a sua — candidatura do Partido Missão. Enquanto o PL opera com orçamentos multimilionários e ainda desvia emendas, Renan diz continuar "um cara de classe média" como presidente do próprio partido. Ver [[fontes/2026-07-11 - R$ 119 milhões, Valdemar]].

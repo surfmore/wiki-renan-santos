@@ -1,5 +1,26 @@
 # Log de operações
 
+## [2026-07-15] ingest | Esse vídeo tem boa parte dos problemas brasileiros
+- Fonte criada: fontes/2026-07-15 - Esse vídeo tem boa parte dos problemas brasileiros
+- Páginas atualizadas: temas/Família e Paternidade, index.md, log.md, wiki/.processed_ids
+- Nota: Renan comenta vídeo de mulheres discutindo situações familiares; critica ausência paterna, defende educação sexual e fim de bailes funk; promete punir homens que não pagam pensão
+
+## [2026-07-15] ingest | Ele processou a própria mãe
+- Fonte criada: fontes/2026-07-15 - Ele processou a própria mãe
+- Páginas criadas: temas/Cultura do Vitimismo e Litigância
+- Páginas atualizadas: index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica cultura do vitimismo e litigância após influenciador processar a própria mãe; promete acabar com judicialização excessiva
+
+## [2026-07-15] ingest | Direita e esquerda se uniram mais uma vez para ferrar o Brasil.
+- Fonte criada: fontes/2026-07-15 - Direita e esquerda se uniram mais uma vez para ferrar o Brasil.
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, pessoas/Kim Kataguiri, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Renan denuncia Congresso por aprovar pautas bombas; PL vota com esquerda; Kim Kataguiri vota corretamente
+
+## [2026-07-14] ingest | Esse vídeo vai definir o resultado das eleições
+- Fonte criada: fontes/2026-07-14 - Esse vídeo vai definir o resultado das eleições
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, pessoas/Lula, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Renan explica as regras do sistema eleitoral, critica pressão por "voto útil" em Flávio Bolsonaro e aponta Lula como beneficiário da confusão
+
 ## [2026-07-14] ingest | O que esses caras merecem
 - Fonte criada: fontes/2026-07-13 - O que esses caras merecem
 - Páginas atualizadas: temas/Segurança Pública, posicoes/Pena de Morte e Prisão Perpétua, index.md, log.md, wiki/.processed_ids

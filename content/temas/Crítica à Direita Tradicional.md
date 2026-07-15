@@ -7,6 +7,26 @@ tags:
 date: 2025-09-02
 ---
 
+## PL vota com a esquerda em pautas que estouram contas públicas (julho de 2026)
+
+Em **15 de julho de 2026**, Renan denuncia que o Congresso aprovou duas "pautas bombas" — alteração previdenciária de R$ 30 bilhões em 10 anos e anistia a dívidas de municípios — e que os parlamentares de direita votaram junto com a esquerda de maneira populista. Apenas [[pessoas/Kim Kataguiri]] e "meia dúzia de gato pingado" votaram de forma responsável.
+
+Renan desafia [[pessoas/Flávio Bolsonaro]] a explicar por que o PL vota consistentemente com a esquerda para estourar as contas públicas. Ele afirma que Flávio é um "populista" e "covarde", que imita Renan nos temas populares (segurança pública) mas não tem responsabilidade fiscal.
+
+> "A bancada do PL só vê eles envolvidos em escândalo de corrupção... mas nunca vê eles votando direito. Bando de populista vagabundo que na hora de votar com a esquerda vota com a esquerda e estão quebrando o Brasil."
+
+Ver [[fontes/2026-07-15 - Direita e esquerda se uniram mais uma vez para ferrar o Brasil.]].
+
+## Pressão por "voto útil" em Flávio Bolsonaro é mentira (julho de 2026)
+
+Em **14 de julho de 2026**, Renan critica a estratégia da candidatura de [[pessoas/Flávio Bolsonaro]] de pressionar eleitores a votarem em quem está em segundo lugar nas pesquisas para evitar a vitória de [[pessoas/Lula]] no primeiro turno. Renan explica a regra eleitoral: apenas votos em Lula contribuem para a vitória dele no primeiro turno (50%+1), e a soma dos votos em qualquer outro candidato de oposição impede essa vitória. Ele classifica como "mentira" o argumento de que só o voto no segundo colocado é útil contra Lula, e afirma que Flávio tem rejeição altíssima e não venceria Lula no segundo turno.
+
+> "A pessoa que vota em mim, no Caiado, no Daciolo, no Zema, no Flávio, ela vai se somar. E se essa somatória ultrapassa o total do Lula, acabou."
+
+Renan afirma que o maior beneficiário dessa confusão é Lula, que prefere enfrentar Flávio no segundo turno.
+
+Ver [[fontes/2026-07-14 - Esse vídeo vai definir o resultado das eleições]].
+
 ## Campanhas superficiais: dança em vez de propostas (julho de 2026)
 
 Em **9 de julho de 2026**, Renan critica o que chama de "despolitização" das campanhas eleitorais de 2026. Ele cita três exemplos de políticos de direita que substituíram debate de propostas por coreografias de dança e funk: **ACM Neto** (candidato ao governo da Bahia), o **PL** (partido de Flávio Bolsonaro) que contratou instrutor de dança funk, e o candidato favorito ao governo de Pernambuco.

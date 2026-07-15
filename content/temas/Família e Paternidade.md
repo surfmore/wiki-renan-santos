@@ -10,6 +10,16 @@ date: 2026-03-05
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## Ciclo de famílias desestruturadas e o "Brasil profundo" (julho de 2026)
+
+Em **15 de julho de 2026**, ao comentar um vídeo de três mulheres discutindo suas situações familiares, Renan afirma que a ausência da figura paterna — "duvido que tiveram a figura paterna presente na vida delas" — e a falta de famílias estruturadas explicam "quase todos os problemas brasileiros". Ele projeta que os filhos dessas mulheres reproduzirão comportamentos destrutivos: meninas repetirão o padrão das mães, meninos desenvolverão comportamentos antissociais e serão alvo fácil do crime organizado.
+
+Renan defende educação sexual nas escolas e o fim dos bailes funk como medidas de prevenção. Afirma que, se eleito, não dará auxílio financeiro proporcional ao número de filhos de mulheres sem maridos, e promete punir homens que não pagam pensão.
+
+> "O estado estará muito presente nessa vida dessas pessoas e vai punir de forma muito clara. Homem que bota criança no mundo e não paga pensão nem tá presente... a gente vai ajudar na escola. A não vai dar dinheiro pra mãe que se comporta dessa maneira."
+
+Ver [[fontes/2026-07-15 - Esse vídeo tem boa parte dos problemas brasileiros]].
+
 ## Responsabilidade de influenciadores e o ciclo da gravidez na adolescência (julho de 2026)
 
 Em **14 de julho de 2026**, Renan critica [[pessoas/Virgínia Fonseca]] como exemplo negativo para jovens brasileiras e conecta sua influência ao problema da gravidez na adolescência. Ele mostra o caso de uma menina de 15 anos que engravidou de um homem de quase 30 — "acabou acontecendo", segundo ela.
