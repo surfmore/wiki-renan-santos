@@ -1,5 +1,30 @@
 # Log de operações
 
+## [2026-07-16] ingest | Tabata Amaral vai prender o seu filho
+- Fonte criada: fontes/2026-07-16 - Tabata Amaral vai prender o seu filho
+- Páginas atualizadas: pessoas/Tabata Amaral, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica Tabata Amaral por defender PL da Misoginia que criminalizaria termos como "alfa" e "beta" usados por crianças; contrasta com inação contra crimes reais
+
+## [2026-07-16] ingest | Vou retirar minha pré candidatura
+- Fonte criada: fontes/2026-07-16 - Vou retirar minha pré candidatura
+- Páginas atualizadas: temas/Mídia e Imprensa, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica sistema de pesquisas eleitorais como "jogo de cartas marcadas"; questiona crescimento de Caiado e aponta manipulação de institutos e imprensa
+
+## [2026-07-16] ingest | Eu fui em um lugar amaldiçoado no Ceará
+- Fonte criada: fontes/2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará
+- Páginas atualizadas: posicoes/Pena de Morte e Prisão Perpétua, temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: Renan defende pena de morte, prisão perpétua e assembleia constituinte após estupro e assassinato de bebê de 10 meses em Fortaleza
+
+## [2026-07-16] ingest | Taxaram a gente
+- Fonte criada: fontes/2026-07-16 - Taxaram a gente
+- Páginas atualizadas: temas/Política Externa e Geopolítica, pessoas/Flávio Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica Lula e Flávio Bolsonaro após Trump taxar setores industriais brasileiros; propõe usar terras raras como alavanca de negociação
+
+## [2026-07-15] ingest | Criticar a gastança da Janja é MISOGINIA
+- Fonte criada: fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA
+- Páginas atualizadas: pessoas/Janja, temas/Pautas Identitárias e de Gênero, temas/Cultura do Vitimismo e Litigância, index.md, log.md, wiki/.processed_ids
+- Nota: Renan critica a acusação de misoginia contra quem aponta gastos de Janja; denuncia uso de discurso vitimista e acusações identitárias como ferramenta de silenciamento político
+
 ## [2026-07-15] ingest | Esse vídeo tem boa parte dos problemas brasileiros
 - Fonte criada: fontes/2026-07-15 - Esse vídeo tem boa parte dos problemas brasileiros
 - Páginas atualizadas: temas/Família e Paternidade, index.md, log.md, wiki/.processed_ids

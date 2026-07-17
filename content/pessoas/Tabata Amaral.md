@@ -6,6 +6,7 @@ tags:
   - oposição
 date: 2026-06-26
 fontes:
+  - "2026-07-16 - Tabata Amaral vai prender o seu filho"
   - "2026-06-26 - A Cazé TV vai acabar!"
   - "2026-06-11 - Aprovada redução da maioridade penal"
   - "2026-05-08 - Tabata Amaral é solidária com o Recife"
@@ -15,6 +16,18 @@ fontes:
 Deputada federal, fundadora do **Partido Solidariedade** (ex-PSB), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## PL da Misoginia: defesa da criminalização de termos como "alfa" e "beta" (julho de 2026)
+
+Em **16 de julho de 2026**, Renan critica Tabata por um tweet em que ela afirma que a "misoginia online não mira só as mulheres, mira também os nossos meninos" — citando termos como "betinha", "sigma" e "alfa" como expressões de ódio às mulheres que crianças repetem sem saber.
+
+Renan argumenta que ela defende o PL da Misoginia, que considera "muito vago" — qualquer coisa pode ser enquadrada como misógina, permitindo interpretação subjetiva de juízes. Ele defende que termos como "alfa" e "beta" são expressões normais de hierarquia entre meninos, derivadas da biologia, e não devem ser criminalizados.
+
+> "Querer regular uma palavra besta que crianças usam é loucura."
+
+Renan contrasta a posição de Tabata com a inação dela em relação ao crime real contra mulheres — "a gente nunca vê ela revoltada com o aumento do crime e a violência contra mulheres" — enquanto Renan propõe medidas concretas como "caçar e matar membros de tráfico que torturam mulheres."
+
+Ver [[fontes/2026-07-16 - Tabata Amaral vai prender o seu filho]].
 
 ## Hipocrisia sobre bets e Cazé TV (junho de 2026)
 
@@ -57,8 +70,7 @@ Durante as enchentes graves que atingiram a região metropolitana do Recife em m
 
 ## Fontes
 
-## Fontes
-
+- [[fontes/2026-07-16 - Tabata Amaral vai prender o seu filho]] — defesa do PL da Misoginia; criminalização de termos como "alfa" e "beta"
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — hipocrisia sobre bets: ataca Cazé TV mas São João do Recife foi bancado por bet
 - [[fontes/2026-05-08 - Tabata Amaral é solidária com o Recife]] — solidariedade performática nas enchentes de Recife
 - [[fontes/2025-10-08 - Resposta para a Tabata Amaral]] — puxadinhos, burocracia, duplo padrão, licenciamento ambiental

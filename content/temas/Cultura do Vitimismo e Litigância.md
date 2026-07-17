@@ -12,6 +12,16 @@ date: 2026-07-15
 
 Renan Santos critica recorrentemente o que descreve como uma cultura brasileira de vitimismo e judicialização excessiva. Ele argumenta que as pessoas no Brasil se colocam como vítimas, transformam relações de confiança em relações de cobrança e recorrem ao judiciário por qualquer motivo, o que torna o país improdutivo e dependente do estado.
 
+## Discurso vitimista da esquerda como arma política (julho de 2026)
+
+Em **15 de julho de 2026**, ao criticar a acusação de misoginia contra quem aponta os gastos públicos de [[pessoas/Janja]], Renan descreve um padrão mais amplo: a esquerda usa o "discurso vitimista" para classificar opositores como "racista", "transfóbico" ou "misógino" — acusações que, combinadas com um judiciário autoritário, podem levar à prisão.
+
+> "A forma ainda como eles usam esse discurso vitimista, que eles podiam falar que você era racista se fizesse isso, transfóbico, misógino, torna tudo ainda pior, porque dado que a gente tem um judiciário autoritário, você ainda pode ser preso."
+
+Diferentemente dos vídeos anteriores — que tratam de cidadãos comuns que se vitimizam para obter vantagens — aqui Renan aponta o uso **político e institucional** do discurso vitimista como ferramenta de intimidação e silenciamento de adversários.
+
+Ver [[fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA]].
+
 ## Geração de "idiotas" e cultura do vitimismo (julho de 2026)
 
 Em **15 de julho de 2026**, ao comentar o caso de um influenciador que processou a própria mãe para manter o sustento após os 25 anos, Renan afirma que o Brasil está "formando uma geração de idiotas" e que as redes sociais pioram esse fenômeno. Ele argumenta que a cultura do "discurso do vitimismo" e a ideia de que "você está cheio de direitos" fazem com que as pessoas transformem relações de confiança em relações de cobrança.
@@ -34,4 +44,5 @@ Renan conecta a cultura do vitimismo ao estado provedor: o estado dá energia el
 
 ## Fontes
 
+- [[fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA]] — Discurso vitimista da esquerda como arma política e ferramenta de silenciamento
 - [[fontes/2026-07-15 - Ele processou a própria mãe]] — Análise do caso do influenciador que processou a mãe; crítica ao vitimismo e à litigância

@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-05-29
 fontes:
+  - "2026-07-15 - Criticar a gastança da Janja é MISOGINIA"
   - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
   - "2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE"
   - "2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER"
@@ -20,6 +21,16 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### Acusação de misoginia como ferramenta de silenciamento (julho de 2026)
+
+Em **15 de julho de 2026**, Renan critica duramente a narrativa de que apontar os gastos públicos de Janja seria "misoginia". Ele menciona a existência de um "janjômetro" popular que monitora seus gastos e rebate: criticar uma "pessoa que não tem nenhum respeito pelo dinheiro público, uma mulher deslumbrada (...) cafona, brega, horrorosa" que utiliza a estrutura do Estado para "curtir a vida" não é misoginia — é exercício legítimo de cidadania.
+
+> "Se você acha que ela, toda deslumbrada, viajando pelo mundo, tem que ser criticada porque o dinheiro público num país pobre é escasso e tem que ser respeitado, você odeia as mulheres."
+
+Renan aponta que, além de misógino, o crítico também pode ser acusado de racista ou transfóbico — e que, dado o judiciário autoritário brasileiro, "você ainda pode ser preso" por isso. Ele contrasta sua postura com a de Janja e Lula, prometendo que seu governo será transparente e sem gastos supérfluos.
+
+Ver [[fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA]].
 
 ### Abandono das vítimas da enchente no RS (julho de 2026)
 
@@ -58,6 +69,7 @@ Renan usa o caso de Janja para argumentar que o Norte e o Nordeste são utilizad
 
 ## Fontes
 
+- [[fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA]] — Renan rebate acusação de misoginia contra quem critica gastos de Janja; denuncia uso de discurso vitimista
 - [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] — promessa de prisão; TCU e superfaturamento
 - [[fontes/2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER]] — OEI e CPI como motivo do silêncio de Lula
 - [[fontes/2025-12-04 - O legado da COP30]] — primeiro registro público da acusação de contrato irregular

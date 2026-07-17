@@ -9,6 +9,14 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## Viagem aos EUA para defender Brasil das tarifas de Trump (julho de 2026)
+
+Em **16 de julho de 2026**, após Trump taxar o Brasil nos setores de etanol e calçados, Renan critica Flávio Bolsonaro por ter ido "de maneira patética" aos Estados Unidos tentar defender o Brasil pessoalmente. A viagem não produziu resultados — "Trump taxou a gente, nem ligou, até porque o Trump só usa esses idiotas."
+
+Renan usa o episódio como exemplo do que chama de postura servil dos Bolsonaro com Trump: "A família Bolsonaro puxa saco do Trump e acha que ficar se vendendo como uma espécie de intermediário entre Brasil e Trump ajuda eles a bater nos seus inimigos aqui." Para Renan, a direita bolsonarista errou ao comemorar as primeiras tarifas (que aumentaram a popularidade de Lula) e agora colhe o resultado de ter um "aliado" que não se importa com o Brasil.
+
+Ver [[fontes/2026-07-16 - Taxaram a gente]].
+
 ## PL vota com a esquerda em pautas populistas (julho de 2026)
 
 Em **15 de julho de 2026**, Renan denuncia que o PL — partido de Flávio Bolsonaro — votou junto com a esquerda no Congresso para aprovar duas "pautas bombas": uma que altera regras previdenciárias gerando R$ 30 bilhões em gastos e outra sobre dívidas de municípios. Renan afirma que Flávio é "covarde" — imita Renan em temas populares como segurança pública, mas na hora de votar com responsabilidade fiscal, vota com a esquerda. Renan o desafia publicamente: "Explique o voto do teu partido, Flávio. Diga por que o seu partido votou junto com as esquerdas para estourar as contas públicas do próximo governo."
@@ -415,6 +423,7 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-07-16 - Taxaram a gente]] — Renan critica Flávio por viagem "patética" aos EUA para defender Brasil de tarifas; "Trump só usa esses idiotas"
 - [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]] — Valdemar como dono do bolsonarismo; Mensalão; PL R$ 953M
 - [[fontes/2026-05-17 - Quem é Flavio Bolsonaro]] — rachadinha, Adriano da Nóbrega, CPI do Master; apelo para desistir da candidatura
 - [[fontes/2026-05-17 - Lula disparou]] — Flávio em queda livre nas pesquisas; argumento para votar em Renan

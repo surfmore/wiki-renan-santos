@@ -7,11 +7,28 @@ tags:
   - prisão-perpétua
 date: 2026-06-06
 fontes:
+  - "2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará"
   - "2026-06-06 - Lembre-se do Gabriel"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
 ---
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
+
+## Caso do bebê de 10 meses em Fortaleza e a proposta de constituinte (julho de 2026)
+
+Em **16 de julho de 2026**, gravando em frente ao Edifício Melbourne em Fortaleza (CE), Renan comenta o estupro e assassinato de um bebê de 10 meses pela própria mãe e seu novo namorado. O crime ocorreu em um bairro nobre, sem motivação econômica aparente — o que Renan chama de "maldade pura e simples na Terra".
+
+Renan afirma que, no sistema atual, o criminoso pegaria 8 a 10 anos de prisão e logo estaria solto, e que é preciso "eliminar da existência um homem desses". Ele defende:
+
+1. **Pena de morte** — "Um homem desse precisa ter pena de morte. Ele precisa morrer."
+2. **Prisão perpétua** — como alternativa à pena de morte
+3. **Assembleia constituinte originária** — para alterar a Constituição e permitir penas que efetivamente façam justiça
+
+> "Para isso, eu vou precisar de uma assembleia constituinte originária. Eu vou precisar alterar totalmente nossa Constituição. E talvez seja isso que nós precisamos fazer."
+
+Renan compara ao caso Henry Borel e critica a impunidade estrutural: criminosos com dinheiro têm acesso a bons advogados, conseguem progressão de pena e saidinhas, enquanto a vítima (o bebê de 10 meses) é esquecida.
+
+Ver [[fontes/2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará]].
 
 ## Sem recuperação para quem tortura: o caso da mulher torturada por traficantes (julho de 2026)
 

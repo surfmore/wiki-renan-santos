@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-06-20
 fontes:
+  - "2026-07-16 - Taxaram a gente"
   - "2026-07-12 - Você conhece o ditador Mbappe"
   - "2026-06-20 - O que podemos aprender com o Haiti"
   - "2026-06-04 - Estão ameaçando o PIX mais uma vez."
@@ -18,6 +19,18 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## Tarifas de Trump sobre o Brasil: Renan critica Lula e Flávio Bolsonaro (julho de 2026)
+
+Em **16 de julho de 2026**, após Trump efetivamente taxar o Brasil — especificamente os setores de **etanol** e **indústria calçadista** —, Renan critica duramente ambos os lados do espectro político. Ele diz que Flávio Bolsonaro foi "de maneira patética" aos Estados Unidos tentar defender o Brasil sem conseguir nada, e que "Trump só usa esses idiotas".
+
+> "Tudo que envolve interesse nacional, tudo que envolve futuro, a gente é sabotado. E são todas as pautas, desde fim da escala 6x1, PL da misoginia, votação de pauta bomba no Congresso. Nessas horas, PT e bolsonarismo votam juntos."
+
+Renan afirma que Lula se beneficia politicamente das tarifas, usando o discurso de "defensor da soberania" para aumentar a popularidade. Propõe usar as **terras raras** brasileiras como alavanca de negociação: "Vou enfrentar os Estados Unidos e vamos botar as terras raras no meio para sentar e obrigar eles negociarem bem."
+
+> "Trump não gosta da gente, acha que a gente é um bando de cucaracha, e nós não temos que puxar saco de ninguém e muito menos nos aproveitarmos de uma crise para crescer igual Lula."
+
+Ver [[fontes/2026-07-16 - Taxaram a gente]].
 
 ## Preferências entre líderes mundiais: "ditador Mbappé" e a admiração por reformadores (julho de 2026)
 
@@ -164,6 +177,7 @@ Ver [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] e [[posico
 
 ## Fontes
 
+- [[fontes/2026-07-16 - Taxaram a gente]] — Renan critica Lula e Flávio Bolsonaro por tarifas de Trump; propõe terras raras como alavanca de negociação
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — análise do México como narcoestado; lição para o Brasil; Bukele como contraponto
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira
 - [[fontes/2026-06-04 - Estão ameaçando o PIX mais uma vez.]] — pressão americana sobre o PIX; Eduardo Bolsonaro defende interesses dos EUA; compromisso de não negociar o PIX

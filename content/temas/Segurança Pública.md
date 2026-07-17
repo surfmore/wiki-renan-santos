@@ -6,6 +6,16 @@ tags:
 date: 2026-07-03
 ---
 
+## Caso do bebê de 10 meses em Fortaleza: Renan defende pena de morte e constituinte (julho de 2026)
+
+Em **16 de julho de 2026**, gravando em Fortaleza (CE), Renan comenta o estupro e assassinato de um bebê de 10 meses pela mãe e o namorado dela. Ele usa o caso para defender **pena de morte** e **prisão perpétua** para crimes hediondos, e propõe uma **assembleia constituinte originária** para alterar a Constituição a fim de permitir penas mais duras.
+
+> "O Estado brasileiro, se quiser fazer justiça, precisa eliminar da existência um homem desses. Um homem desse precisa ter pena de morte."
+
+Renan critica a impunidade no sistema atual — 8 a 10 anos de prisão com progressão — e diz que o Brasil precisa de uma constituição "que faça com que o Estado faça justiça". Se o Estado é incapaz de proteger uma criança de 10 meses, pergunta: "por que que esse estado tem que existir?"
+
+Ver [[fontes/2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará]].
+
 ## Tortura de mulher por traficante: Renan defende execução ou prisão perpétua (julho de 2026)
 
 Em **13 de julho de 2026**, Renan exibe imagens de uma mulher sendo torturada por traficantes — que rasparam seu cabelo como punição por ela ter se recusado a fazer sexo com um membro da facção. Ele usa o caso para reafirmar sua posição de que não há recuperação possível para criminosos que cruzam "essa linha".
@@ -918,6 +928,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará]] — Renan defende pena de morte, prisão perpétua e constituinte após bebê de 10 meses ser morto em Fortaleza
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Análise do México como narcoestado; lição para o Brasil; crítica a AMLO, Calderón e à esquerda latino-americana
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Crítica de Renan à proposta de Lula de devolução de celular pelo correio; defesa de confronto armado e 30 anos de prisão
 - [[fontes/2026-06-18 - Noruega vs Iraque]] — Comparação do Amapá com Bagdá; facções matam mais que terroristas

@@ -5,11 +5,22 @@ tags:
   - mídia
 date: 2026-04-12
 fontes:
+  - "2026-07-16 - Vou retirar minha pré candidatura"
   - "2026-07-08 - Resposta para Vera Magalhães"
   - "2026-07-04 - Virgínia fez você perder dinheiro"
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Crítica a institutos de pesquisa: "jogo de cartas marcadas" (julho de 2026)
+
+Em **16 de julho de 2026**, Renan Faz uma crítica contundente ao sistema de pesquisas eleitorais. Exibe dados do relatório **Bites** mostrando que seu engajamento por seguidor é o maior entre todos os pré-candidatos, com 20 mil novos seguidores no Instagram em um único dia — enquanto a **pesquisa Quest** (contratada pela Globo) aponta que ele é "sete pontos percentuais menos conhecido" do que em abril.
+
+> "Será que ele realmente cresce nas pesquisas e vai para terceiro? Ou será que isso é apenas a campanha sendo tocada pelo Kassab, que é o presidente do partido dele, que dispõe de muito dinheiro e muitos contatos?"
+
+Renan sugere que a pesquisa está sendo manipulada para beneficiar [[pessoas/Ronaldo Caiado]] (PSD) como terceira via. Ele descreve o sistema como um "jogo de cartas marcadas construído pelos donos desses partidos políticos grandes, por institutos de pesquisa, veículos de imprensa, mercado financeiro" — e aponta que PT, PL e PSD votam juntos em pautas bombas enquanto o eleitor é distraído.
+
+Ver [[fontes/2026-07-16 - Vou retirar minha pré candidatura]].
 
 ## Resposta a Vera Magalhães: jornalistas "preguiçosos" e o sistema (julho de 2026)
 
@@ -189,6 +200,7 @@ Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 �
 
 ## Fontes
 
+- [[fontes/2026-07-16 - Vou retirar minha pré candidatura]] — Renan critica sistema de pesquisas como "jogo de cartas marcadas"; questiona crescimento de Caiado
 - [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — contraste entre influenciadores digitais (Virgínia) e jornalismo sério (Malu Gaspar)
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Resposta a Helane Cataned; defesa da comunicação direta; outsider vs. imprensa tradicional
 - [[fontes/2025-11-19 - Resposta para a humorista alemã]]

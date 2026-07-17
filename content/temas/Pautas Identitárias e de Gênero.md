@@ -7,6 +7,7 @@ tags:
   - esquerda
 date: 2026-06-14
 fontes:
+  - "2026-07-15 - Criticar a gastança da Janja é MISOGINIA"
   - "2026-06-14 - Romário está sendo cancelado!"
   - "2026-06-09 - Cotas num hospital privado"
   - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
@@ -19,6 +20,16 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Janja e a acusação de misoginia como silenciamento (julho de 2026)
+
+Em **15 de julho de 2026**, Renan critica a acusação de que questionar os gastos públicos de [[pessoas/Janja]] seria "misoginia". Ele argumenta que o mesmo discurso pode classificar o crítico como "racista" ou "transfóbico" — e que, com um judiciário autoritário, isso pode levar à prisão.
+
+> "A forma ainda como eles usam esse discurso vitimista, que eles podiam falar que você era racista se fizesse isso, transfóbico, misógino, torna tudo ainda pior, porque dado que a gente tem um judiciário autoritário, você ainda pode ser preso."
+
+Renan vê nessa estratégia um padrão mais amplo da esquerda: acusações identitárias como ferramenta de intimidação e silenciamento de adversários políticos. Ele contrasta com sua promessa de governo transparente e sem gastos supérfluos.
+
+Ver [[fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA]].
 
 ## Caso Romário: cancelamento e o perigo da Lei da Misoginia (junho de 2026)
 
