@@ -98,7 +98,7 @@ date: 2026-07-20
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">736</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">739</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -140,7 +140,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Fusão de Municípios"><div class="wiki-card-header"><span class="wiki-card-icon">🏙</span><span class="wiki-card-title">Fusão de Municípios</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan cita o modelo italiano de fusão de municípios como inspiração para sua proposta, dentro de seu programa de reformas com referências internacionais.</p></a>
 <a class="wiki-card" href="/posicoes/Intervenção Federal em Estados com Baixo IDH"><div class="wiki-card-header"><span class="wiki-card-icon">🏳</span><span class="wiki-card-title">Intervenção Federal em Estados co...</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países african...</p></a>
 <a class="wiki-card" href="/posicoes/Emendas Parlamentares Condicionadas a Metas"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Emendas Parlamentares Condicionad...</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Proposta defendida por Renan Santos de que emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho em áreas-chave ...</p></a>
-<a class="wiki-card" href="/posicoes/Estado de Defesa e Direito Penal do Inimigo"><div class="wiki-card-header"><span class="wiki-card-icon">🛡</span><span class="wiki-card-title">Estado de Defesa e Direito Penal ...</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete estado de defesa para enfrentar militarmente o crime organizad...</p></a>
+<a class="wiki-card" href="/posicoes/Estado de Defesa e Direito Penal do Inimigo"><div class="wiki-card-header"><span class="wiki-card-icon">🛡</span><span class="wiki-card-title">Estado de Defesa e Direito Penal ...</span><span class="wiki-card-count">9 fontes</span></div><p class="wiki-card-desc">Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete estado de defesa para enfrentar militarmente o crime organizad...</p></a>
 <a class="wiki-card" href="/posicoes/Expulsão de ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Renan Santos defende a expulsão do Brasil de ONGs financiadas por governos e fundações estrangeiras que, segundo ele, atuam para bloquear projetos...</p></a>
 <a class="wiki-card" href="/posicoes/Propostas para Educação"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Propostas para a Educação</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan defende foco em alfabetização em vez de debates ideológicos sobre pronomes; propõe programa forte de alfabetização nas escolas.</p></a>
 <a class="wiki-card" href="/posicoes/Frente de Trabalho para o Bolsa Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒</span><span class="wiki-card-title">Frente de Trabalho para o Bolsa F...</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan propõe cashback para mães solo e frente de trabalho para homens como condição para receber Bolsa Família; 40% dos homicídios no NE recebem o benefício.</p></a>
@@ -217,3 +217,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 </div>
 
 
+
+<p class="wiki-section-title">📹 Fontes (cronológico)</p>
+
+- [[fontes/2026-07-20 - O que mais um tipo assim merece]] — Renan defende pena de morte para padrasto que matou bebê de 10 meses.
+- [[fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo]] — Renan explica a mecânica do direito penal do inimigo com investigação prévia e delimitação legal.
+- [[fontes/2026-07-20 - BIÓLOGO HENRIQUE INVADE EVENTO DO RENAN]] — Biólogo invade evento de Renan para elogiar suas pautas nacionalistas; conteúdo majoritariamente de terceiros.

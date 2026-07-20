@@ -7,12 +7,23 @@ tags:
   - prisão-perpétua
 date: 2026-06-06
 fontes:
+  - "2026-07-20 - O que mais um tipo assim merece"
   - "2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará"
   - "2026-06-06 - Lembre-se do Gabriel"
   - "2026-06-05 - Feminismo no judiciário livrou a monstra no caso do menino Henry Borel"
 ---
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
+
+## Resposta direta sobre padrasto que matou bebê de 10 meses: "Morte" (julho de 2026)
+
+Em **20 de julho de 2026**, questionado sobre qual punição daria a um padrasto que matou um bebê de 10 meses por asfixia, Renan responde: **"Morte"**. Ele descarta qualquer discussão socioeconômica, afirmando que o criminoso "tinha grana, tava no apartamento dele, decidiu por bem asfixiar um bebê de 10 meses" — não há justificativa, é "maldade pura e simples", "a presença da maldade no mundo". Renan afirma que "essa pessoa não deveria existir" e que "não existe recuperação para essa pessoa". Ele pondera que se pode discutir prisão perpétua como alternativa ("ele vai sofrer mais tempo lá"), mas não há outra opção.
+
+> "Isso tem que ser apenas combatido e destruído. Esta pessoa não deveria existir."
+
+Renan conecta o caso à sua visão mais ampla sobre o papel do Estado: se o Estado é incapaz de honrar um bebê de 10 meses morto dessa maneira, "esse estado não deveria existir".
+
+Ver [[fontes/2026-07-20 - O que mais um tipo assim merece]].
 
 ## Caso do bebê de 10 meses em Fortaleza e a proposta de constituinte (julho de 2026)
 

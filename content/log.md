@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-07-20] ingest automático | 3 shorts — direito penal do inimigo, pena de morte, biólogo Henrique
+- Fontes criadas: fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo, fontes/2026-07-20 - O que mais um tipo assim merece, fontes/2026-07-20 - BIÓLOGO HENRIQUE INVADE EVENTO DO RENAN
+- Páginas atualizadas: posicoes/Estado de Defesa e Direito Penal do Inimigo (explicação da mecânica), posicoes/Pena de Morte e Prisão Perpétua (caso do padrasto), index.md, log.md, wiki/.processed_ids
+- Nota: 3 shorts de 2026-07-20. Renan detalha funcionamento prático do direito penal do inimigo (investigação prévia, qualificação legal, delimitação por lei). Defende pena de morte para padrasto que matou bebê de 10 meses ("maldade pura e simples"). Biólogo Henrique invade evento para elogiar pautas nacionalistas (conteúdo majoritariamente de terceiros).
+
 ## [2026-07-20] ingest automático | Entro no detalhe em tudo
 - Fonte criada: fontes/2026-07-18 - Entro no detalhe em tudo
 - Páginas atualizadas: posicoes/Reforma Fiscal (R$3,3T em cortes), posicoes/Fusão de Municípios (modelo italiano), posicoes/Propostas para Educação (alfabetização concreta), index.md, log.md, wiki/.processed_ids

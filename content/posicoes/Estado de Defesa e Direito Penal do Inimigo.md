@@ -6,6 +6,20 @@ tags:
 date: 2026-04-11
 ---
 
+## Explicação da mecânica: investigação prévia como base do direito penal do inimigo (julho de 2026)
+
+Em **20 de julho de 2026**, Renan explica em detalhe o funcionamento prático do direito penal do inimigo. Ele esclarece que o instituto **não** significa que um policial pode arbitrariamente declarar alguém como inimigo. O processo começa com a qualificação legal do que constitui um "inimigo": no Brasil, seriam os cartéis — especificamente o PCC e o Comando Vermelho.
+
+O mecanismo proposto:
+
+1. **Investigação prévia** por parte de órgãos federais (Polícia Federal) e estaduais (polícias civis e Ministério Público Estadual) já identifica individualmente os membros das facções, como "tesoureiro do Comando Vermelho na Baixada Fluminense" ou "assaltante de carro ligado ao PCC na Baixada Santista".
+2. **Abordagem específica**: a pessoa já identificada como membro de facção recebe tratamento jurídico diferenciado — processo mais rápido e punição mais severa.
+3. **Delimitação estrita por lei**: não pode ser aplicado a agentes políticos ou adversários, apenas a membros comprovados de facções.
+
+Renan enfatiza que é preciso "muito cuidado" com a aplicação, já que "todo mundo vai querer enquadrar como inimigo", e que o instituto precisa ser executado por "um governo sério", delimitado por lei — não como "um regime de exceção para todo mundo".
+
+Ver [[fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo]].
+
 Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete **estado de defesa** para enfrentar militarmente o crime organizado, combinando a medida com uma legislação que chama de **"direito penal do inimigo"**.
 
 ## "Sou seu inimigo" — a retórica do direito penal do inimigo na campanha (junho de 2026)
@@ -98,6 +112,7 @@ Ver [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]].
 
 ## Fontes
 
+- [[fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo]] — explicação da mecânica: investigação prévia, qualificação legal, delimitação por lei
 - [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — estado de defesa em MG; transferência de faccionados para presídios remotos; proteção jurídica a policiais
 - [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]] — excludente de ilicitude; resposta à fala de Lula sobre "atirar antes de perguntar"
 - [[fontes/2026-05-27 - Fui na praia onde é proibido usar adidas e fazer certos gestos]] — proibição de símbolos de facções; BDM e CV em Salvador
