@@ -14,6 +14,14 @@ fontes:
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
 
+## Alfabetização como prioridade, não debates ideológicos (julho de 2026)
+
+Em **18 de julho de 2026**, Renan reafirma que seu foco na educação são os **problemas concretos** — não debates ideológicos sobre pronomes ou pautas identitárias. Ele afirma que o problema central é que "crianças não estão sendo alfabetizadas na escola" e promete um "programa muito forte de alfabetização", recusando-se a "perder tempo discutindo questões ideológicas que a esquerda tenta trazer para a sala de aula".
+
+A declaração reforça sua posição pragmática em educação, já expressa na defesa do [[posicoes/Propostas para Educação|método fônico obrigatório]] e no foco em STEM para o ensino superior.
+
+Ver [[fontes/2026-07-18 - Entro no detalhe em tudo]].
+
 ## Foco em STEM e reforma das universidades públicas (julho de 2026)
 
 Em **10 de julho de 2026**, em conversa com Balestrin, Renan apresenta sua visão para as universidades públicas brasileiras. Ele reconhece que são "politizadas" e majoritariamente de esquerda, mas destaca que boa parte da pesquisa de qualidade no Brasil vem delas — "não podemos jogar o bebê com a água do banho fora." Como exemplo de pesquisa pública de sucesso, cita o uso de pele de tilápia para tratamento de queimaduras.

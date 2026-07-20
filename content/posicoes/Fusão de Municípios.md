@@ -8,6 +8,12 @@ date: 2026-06-14
 
 Renan Santos defende a **fusão de municípios pequenos em "macromunicípios"** como forma de tornar cidades do interior brasileiro viáveis administrativamente.
 
+## Itália como inspiração adicional (julho de 2026)
+
+Em **18 de julho de 2026**, Renan cita a **Itália** como tendo um "bom modelo de fusão de cidades" que pretende adotar, por meio de sua **lei de responsabilidade gerencial**. A referência à Itália soma-se ao modelo japonês como inspiração para sua proposta de reorganização municipal.
+
+Ver [[fontes/2026-07-18 - Entro no detalhe em tudo]].
+
 ## O modelo japonês de gestão municipal (junho de 2026)
 
 Em **14 de junho de 2026**, usando a série "Países na Copa" como pano de fundo, Renan apresenta o modelo de administração municipal do Japão como inspiração para o Brasil. A analogia começa com o futebol: o Japão pode derrotar o Brasil na Copa não por ter maiores talentos, mas por aplicar **disciplina administrativa** ao time — e o mesmo vale para a gestão pública.

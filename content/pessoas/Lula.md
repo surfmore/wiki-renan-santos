@@ -40,6 +40,12 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## "Maior inimigo é o eleitor que vota em Lula ou Flávio" (julho de 2026)
+
+Em **18 de julho de 2026**, perguntado sobre quem é seu maior inimigo entre Lula e Flávio Bolsonaro, Renan responde que o maior inimigo é o eleitor que perdeu a esperança e vota nesses dois. Ele compara a escolha a "pegar ebola ou ser atropelado por uma Scania" — ambos matam de formas diferentes. Renan afirma que Lula representa o "mal natural de um grupo político com uma ideia errada que quebrou o Brasil nos últimos 30 anos" e que há "uma relação direta do PT com o fim do Brasil como uma potência". A estratégia de Renan é derrotar Flávio no primeiro turno e Lula no segundo.
+
+Ver [[fontes/2026-07-18 - Qual é nosso maior inimigo]].
+
 ## Beneficiário da desinformação sobre o sistema eleitoral (julho de 2026)
 
 Em **14 de julho de 2026**, Renan afirma que o maior beneficiário da desinformação sobre as regras eleitorais é Lula. Segundo Renan, a mídia e as escolas não ensinam que a soma dos votos de todos os candidatos de oposição pode impedir a vitória de Lula no primeiro turno — e que, portanto, não é necessário votar no segundo colocado (Flávio Bolsonaro) para evitar a reeleição de Lula. Renan diz que Lula quer enfrentar Flávio no segundo turno justamente porque ganharia com facilidade de um candidato de alta rejeição.

@@ -8,6 +8,19 @@ date: 2026-07-03
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
 
+## Reforma de R$ 3,3 trilhões: previdência, renúncias e supersalários (julho de 2026)
+
+Em **18 de julho de 2026**, em resposta a uma pergunta sobre onde cortaria gastos, Renan detalha sua **PEC já protocolada** para resolver a questão fiscal. As medidas específicas incluem:
+
+- **Nova reforma da previdência**: desindexar aposentadoria e Benefício de Prestação Continuada (BPC) do salário mínimo, passando o reajuste a ser com base na inflação
+- **Corte em renúncias fiscais**: revisão de subsídios e benefícios fiscais concedidos a empresas
+- **Fim dos supersalários do funcionalismo público**: revisão de penduricos e benefícios acima do teto
+- **Reforma total estimada em R$ 3,3 trilhões**
+
+Renan afirma que as inspirações para sua política fiscal vêm dos Estados Unidos (controle de gastos e transparência), China (política industrial) e Coreia do Sul (formação de blocos econômicos nos anos 1960/70).
+
+Ver [[fontes/2026-07-18 - Entro no detalhe em tudo]].
+
 ## Tratamento tributário para produtos de alto valor agregado (julho de 2026)
 
 Em **3 de julho de 2026**, Renan propõe que produtos finos de alto valor agregado — como vinhos, queijos e azeites — recebam **incentivo fiscal e tratamento tributário diferenciado**. Gravando na Cooperativa Aurora, ele argumenta que a tributação atual trata igualmente bebidas de alto valor agregado e produtos de consumo popular, sufocando a competitividade da indústria nacional.

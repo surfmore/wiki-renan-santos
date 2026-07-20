@@ -3,8 +3,18 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-07-03
+date: 2026-07-17
 ---
+
+## Visita ao bairro fantasma Vila Velha em Fortaleza — crime organizado expulsa moradores (julho de 2026)
+
+Em **17 de julho de 2026**, Renan visitou o bairro Vila Velha em Fortaleza (CE), que descreveu como uma "rua fantasma" onde o crime organizado expulsou praticamente todos os moradores. Ele comparou a tática à usada em narcoestados como El Salvador e México, onde facções dominam territorialmente áreas e expulsam residentes para demonstrar força — situação que ocorre no Ceará desde 2017.
+
+Renan afirmou que a solução é repressão violenta: "passar fogo em todo faccionado do estado do Ceará". Como governador, prometeu executar essa política; como presidente, oferecer meios para que prender e matar criminosos. Ele também sugeriu que o governo estadual do PT no Ceará parece colaborar com o crime organizado, usando a polícia não para combater criminosos mas para forçar a população a sair de suas casas.
+
+O vídeo contou com a participação do Delegado Hugo, pré-candidato ao governo do Ceará.
+
+Ver [[fontes/2026-07-17 - Fui em um bairro fantasma em Fortaleza!]].
 
 ## Caso do bebê de 10 meses em Fortaleza: Renan defende pena de morte e constituinte (julho de 2026)
 

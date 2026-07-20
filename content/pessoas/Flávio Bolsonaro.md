@@ -9,6 +9,20 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## "Maior inimigo": Renan compara Flávio e Lula como dois males igualmente nocivos (julho de 2026)
+
+Em **18 de julho de 2026**, perguntado sobre seu maior inimigo entre Lula e Flávio Bolsonaro, Renan respondeu que ambos são igualmente nocivos, comparando a escolha a "pegar ebola ou ser atropelado por uma Scania". Ele descreveu Flávio e o bolsonarismo como **"parasita da esperança"** — alguém que finge defender valores conservadores enquanto, segundo Renan, rouba o eleitor que deposita fé no movimento. Renan também afirmou que tanto Lula quanto Flávio estão envolvidos nos mesmos escândalos de corrupção.
+
+Ver [[fontes/2026-07-18 - Qual é nosso maior inimigo]].
+
+## Crítica de Coronel Aroldo Medina: ex-bolsonarista declara apoio a Renan (julho de 2026)
+
+Em **17 de julho de 2026**, o Coronel **Aroldo Medina** — pré-candidato a vice-presidente na chapa de Renan — gravou um vídeo no canal de Renan dirigido a eleitores bolsonaristas. Medina, que se identifica como bolsonarista e ex-policial militar com 40 anos de carreira, afirma que Flávio Bolsonaro "não corresponde" aos valores que ele acreditava que a família Bolsonaro defendia. Ele lista os motivos: dezenas de escândalos de corrupção, amizade com [[pessoas/Daniel Vorcaro]], aliados ligados ao Comando Vermelho no Rio de Janeiro e apoio a ministros do STF nomeados por [[pessoas/Lula]].
+
+Medina conclui que encontrou em Renan Santos os valores que buscava: "Você nunca esteve errado nos seus valores. Você só errou nas pessoas, assim como eu também errei."
+
+Ver [[fontes/2026-07-17 - Recado de @AroldoMedina14]].
+
 ## Viagem aos EUA para defender Brasil das tarifas de Trump (julho de 2026)
 
 Em **16 de julho de 2026**, após Trump taxar o Brasil nos setores de etanol e calçados, Renan critica Flávio Bolsonaro por ter ido "de maneira patética" aos Estados Unidos tentar defender o Brasil pessoalmente. A viagem não produziu resultados — "Trump taxou a gente, nem ligou, até porque o Trump só usa esses idiotas."

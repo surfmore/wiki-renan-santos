@@ -7,6 +7,16 @@ tags:
 date: 2025-09-02
 ---
 
+## Flávio Bolsonaro como "parasita da esperança" (julho de 2026)
+
+Em **18 de julho de 2026**, perguntado sobre seu maior inimigo entre Lula e Flávio Bolsonaro, Renan responde que ambos são igualmente danosos, mas de formas diferentes. Ele descreve o bolsonarismo como **"parasita da esperança"** — um movimento que finge defender valores conservadores enquanto rouba o eleitor que nele deposita fé:
+
+> "O bolsonarista é o parasita da nossa esperança. A gente tem uma esperança, a gente tem nossos valores, eles falam: 'Ó, eu defendo isso'. Aí ele pega a tua carteira, bate ela, tira o dinheiro que tem dentro e fala: 'Pega ladrão, é o PT'. Isso não dá."
+
+Renan afirma que ambos os lados estão nos mesmos escândalos de corrupção — "em ambos os casos, a gente tá sendo traído e roubado" — e que a única saída é superar Flávio no primeiro turno e Lula no segundo.
+
+Ver [[fontes/2026-07-18 - Qual é nosso maior inimigo]].
+
 ## PL vota com a esquerda em pautas que estouram contas públicas (julho de 2026)
 
 Em **15 de julho de 2026**, Renan denuncia que o Congresso aprovou duas "pautas bombas" — alteração previdenciária de R$ 30 bilhões em 10 anos e anistia a dívidas de municípios — e que os parlamentares de direita votaram junto com a esquerda de maneira populista. Apenas [[pessoas/Kim Kataguiri]] e "meia dúzia de gato pingado" votaram de forma responsável.

@@ -14,6 +14,14 @@ fontes:
 
 Proposta central de Renan Santos para reformar o Bolsa Família: em vez de cortar o benefício, condicionar o acesso à participação em **frentes de trabalho** — inspirado no modelo do presidente americano Franklin Roosevelt durante a Grande Depressão.
 
+## Cashback para mães solo e frente de trabalho para homens (julho de 2026)
+
+Em **18 de julho de 2026**, Renan reafirma sua proposta de frente de trabalho em tom de campanha. Ele afirma que manterá o Bolsa Família e que, para **mães solo**, criará um sistema de **cashback** — devolução de parte do dinheiro em compras. Para homens em idade produtiva que buscam o benefício, a condição é clara: ao se apresentar no CRAS, receberão um formulário para trabalhar em obras de infraestrutura. Quem recusar, não receberá o benefício.
+
+Renan também afirma que, no Nordeste, **40% dos homicídios estão recebendo Bolsa Família**, classificando a situação como "exploração do restante do Brasil".
+
+Ver [[fontes/2026-07-18 - Com quem você mais se identifica]].
+
 ## Exemplo concreto: a família de Dona Benedita em Melgaço (junho de 2026)
 
 Em **23 de junho de 2026**, Renan entrevista **Dona Benedita**, ribeirinha de Melgaço (PA) que ilustra o ciclo que sua proposta pretende romper: ela tem oito filhos, dos quais **seis estão no Bolsa Família** (além dela própria). Apenas dois têm emprego formal. Sua filha de 16 anos está grávida, não estuda e não trabalha — e responde com indiferença à possibilidade de voltar a estudar ("Também, né? Também pode ser assim").

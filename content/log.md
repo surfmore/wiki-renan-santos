@@ -1,5 +1,30 @@
 # Log de operações
 
+## [2026-07-20] ingest automático | Entro no detalhe em tudo
+- Fonte criada: fontes/2026-07-18 - Entro no detalhe em tudo
+- Páginas atualizadas: posicoes/Reforma Fiscal (R$3,3T em cortes), posicoes/Fusão de Municípios (modelo italiano), posicoes/Propostas para Educação (alfabetização concreta), index.md, log.md, wiki/.processed_ids
+- Nota: video_id fLFYjSKB7go. Renan detalha em entrevista sua PEC fiscal, reforma da previdência desindexada do salário mínimo, corte de renúncias fiscais, fim de supersalários (R$3,3T); foco em alfabetização sem debates ideológicos; inspirações em China, Coreia, Japão, Itália e EUA.
+
+## [2026-07-20] ingest automático | Qual é nosso maior inimigo
+- Fonte criada: fontes/2026-07-18 - Qual é nosso maior inimigo
+- Páginas atualizadas: pessoas/Lula, temas/Crítica à Direita Tradicional (Flávio como "parasita da esperança"), index.md, log.md, wiki/.processed_ids
+- Nota: video_id FTdiMmHFLGY. Renan diz que maior inimigo é eleitor que vota em Lula ou Flávio; compara a "ebola vs atropelamento"; PT quebrou Brasil 30 anos; bolsonarismo é "parasita da esperança"; ambos nos mesmos escândalos.
+
+## [2026-07-20] ingest automático | Com quem você mais se identifica
+- Fonte criada: fontes/2026-07-18 - Com quem você mais se identifica
+- Páginas atualizadas: posicoes/Frente de Trabalho para o Bolsa Família (cashback para mães solo, 40% dos homicídios no NE recebem Bolsa Família), index.md, log.md, wiki/.processed_ids
+- Nota: video_id DCcCfcSMujA. Renan reafirma frente de trabalho, cashback para mães solo; 40% dos homicídios no NE recebem Bolsa Família; classifica como exploração do resto do Brasil.
+
+## [2026-07-20] ingest automático | Fui em um bairro fantasma em Fortaleza!
+- Fonte criada: fontes/2026-07-17 - Fui em um bairro fantasma em Fortaleza!
+- Páginas atualizadas: temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: video_id lZ1L92_ZrHY. Renan visita bairro Vila Velha em Fortaleza onde crime organizado expulsou moradores; compara a narcoestados; defende "passar fogo em todo faccionado"; crítica ao governo PT do Ceará; participação de Delegado Hugo.
+
+## [2026-07-20] ingest automático | Recado de @AroldoMedina14
+- Fonte criada: fontes/2026-07-17 - Recado de @AroldoMedina14
+- Páginas atualizadas: pessoas/Coronel Aroldo Medina, index.md, log.md, wiki/.processed_ids
+- Nota: video_id V2sMa2fTcWQ. Vídeo com Coronel Aroldo Medina como falante principal. Medina explica por que deixou bolsonarismo para apoiar Renan; crítica a Flávio Bolsonaro e Daniel Vorcaro; filiação ao Partido Missão.
+
 ## [2026-07-16] ingest | Tabata Amaral vai prender o seu filho
 - Fonte criada: fontes/2026-07-16 - Tabata Amaral vai prender o seu filho
 - Páginas atualizadas: pessoas/Tabata Amaral, index.md, log.md, wiki/.processed_ids
