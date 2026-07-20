@@ -93,12 +93,12 @@ date: 2026-07-20
 <img src="/static/renansantos.jpeg" alt="Renan Santos" />
 <div class="wiki-hero-text">
 <h1>Renan Santos</h1>
-<p>Presidente do MBL e fundador do Partido Missão. Pré-candidato à Presidência da República do Brasil. Este wiki documenta fielmente suas posições, propostas e trajetória com base em seus vídeos.</p>
+<p>Presidente do MBL e fundador do Partido Missão. Candidato à Presidência da República do Brasil (eleições 2026). Este wiki documenta fielmente suas posições, propostas e trajetória com base em seus vídeos.</p>
 </div>
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">739</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">741</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -124,7 +124,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Ambição Nacional e Soberania Tecnológica"><div class="wiki-card-header"><span class="wiki-card-icon">🚀</span><span class="wiki-card-title">Ambição Nacional e Soberania Tecn...</span><span class="wiki-card-count">31 fontes</span></div><p class="wiki-card-desc">Em 7 de julho de 2026, após a eliminação do Brasil na Copa do Mundo, Renan faz uma reflexão sobre identidade nacional a partir do contraste entre ...</p></a>
 <a class="wiki-card" href="/temas/Empobrecimento e Mercado de Trabalho"><div class="wiki-card-header"><span class="wiki-card-icon">📉</span><span class="wiki-card-title">Empobrecimento e Mercado de Traba...</span><span class="wiki-card-count">23 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan critica a cultura de dependência do assistencialismo e propõe frente de trabalho para homens no Bolsa Família; 40% dos homicídios no NE recebem o benefício.</p></a>
 <a class="wiki-card" href="/temas/Mídia e Imprensa"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Mídia e Imprensa</span><span class="wiki-card-count">23 fontes</span></div><p class="wiki-card-desc">Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e ...</p></a>
-<a class="wiki-card" href="/temas/Partido Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">19 fontes</span></div><p class="wiki-card-desc">Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e a...</p></a>
+<a class="wiki-card" href="/temas/Partido Missão"><div class="wiki-card-header"><span class="wiki-card-icon">🏛</span><span class="wiki-card-title">Partido Missão</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Em 20 de julho de 2026, Renan anuncia candidatura oficial pelo partido; Aroldo Medina confirmado como vice-presidente na chapa.</p></a>
 <a class="wiki-card" href="/temas/Judiciário e Supersalários"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Judiciário e Supersalários</span><span class="wiki-card-count">16 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan inclui o fim dos supersalários do funcionalismo público como parte de seu pacote de reforma fiscal de R$ 3,3 trilhões.</p></a>
 <a class="wiki-card" href="/temas/Agronegócio e Matopiba"><div class="wiki-card-header"><span class="wiki-card-icon">🌾</span><span class="wiki-card-title">Agronegócio e Matopiba</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o Matopiba — a região que reúne Maranhão, Tocantins, Piauí...</p></a>
 <a class="wiki-card" href="/temas/Política Externa e Geopolítica"><div class="wiki-card-header"><span class="wiki-card-icon">🌍</span><span class="wiki-card-title">Política Externa e Geopolítica</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e...</p></a>
@@ -136,7 +136,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/posicoes/Desfavelização do Brasil"><div class="wiki-card-header"><span class="wiki-card-icon">🏘</span><span class="wiki-card-title">Desfavelização do Brasil</span><span class="wiki-card-count">21 fontes</span></div><p class="wiki-card-desc">Em 14 de julho de 2026, Renan apresenta cinco propostas para viabilizar a casa própria para jovens: ajuste fiscal, reforma do FGTS, Open Finance, fim do ITBI e desfavelização.</p></a>
+<a class="wiki-card" href="/posicoes/Desfavelização do Brasil"><div class="wiki-card-header"><span class="wiki-card-icon">🏘</span><span class="wiki-card-title">Desfavelização do Brasil</span><span class="wiki-card-count">23 fontes</span></div><p class="wiki-card-desc">Em 20 de julho de 2026, Renan defende chamar favelas de "filial do inferno" e propõe proibir turismo gringo em favelas como parte do plano de desfavelização.</p></a>
 <a class="wiki-card" href="/posicoes/Fusão de Municípios"><div class="wiki-card-header"><span class="wiki-card-icon">🏙</span><span class="wiki-card-title">Fusão de Municípios</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan cita o modelo italiano de fusão de municípios como inspiração para sua proposta, dentro de seu programa de reformas com referências internacionais.</p></a>
 <a class="wiki-card" href="/posicoes/Intervenção Federal em Estados com Baixo IDH"><div class="wiki-card-header"><span class="wiki-card-icon">🏳</span><span class="wiki-card-title">Intervenção Federal em Estados co...</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países african...</p></a>
 <a class="wiki-card" href="/posicoes/Emendas Parlamentares Condicionadas a Metas"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Emendas Parlamentares Condicionad...</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Proposta defendida por Renan Santos de que emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho em áreas-chave ...</p></a>
@@ -220,6 +220,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-20 - Sim, filial do inferno]] — Renan defende linguagem ao chamar favelas de "filial do inferno"; propõe proibir turismo gringo em favelas e transformá-las em bairros.
+- [[fontes/2026-07-20 - É OFICIAL]] — Renan anuncia candidatura oficial à Presidência pelo Partido Missão, com Aroldo Medina como vice.
 - [[fontes/2026-07-20 - O que mais um tipo assim merece]] — Renan defende pena de morte para padrasto que matou bebê de 10 meses.
 - [[fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo]] — Renan explica a mecânica do direito penal do inimigo com investigação prévia e delimitação legal.
 - [[fontes/2026-07-20 - BIÓLOGO HENRIQUE INVADE EVENTO DO RENAN]] — Biólogo invade evento de Renan para elogiar suas pautas nacionalistas; conteúdo majoritariamente de terceiros.

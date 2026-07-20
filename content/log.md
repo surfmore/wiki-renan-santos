@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-07-20] ingest automático | É OFICIAL + Sim, filial do inferno
+- Fontes criadas: fontes/2026-07-20 - É OFICIAL, fontes/2026-07-20 - Sim, filial do inferno
+- Páginas atualizadas: pessoas/Coronel Aroldo Medina (confirmado como VP na candidatura oficial), temas/Partido Missão (candidatura oficial), posicoes/Desfavelização do Brasil (proibir turismo gringo, fim da cultura do morro, autodisciplina), index.md, log.md, wiki/.processed_ids
+- Nota: 2 shorts de 2026-07-20. Renan anuncia candidatura oficial à presidência pelo Partido Missão (não mais pré-candidato), com Aroldo Medina como vice. Defende uso de "filial do inferno" para favelas e propõe proibir turismo estrangeiro em favelas, transformá-las em bairros, e acabar com a distinção entre "cultura do morro" e asfalto.
+
 ## [2026-07-20] ingest automático | 3 shorts — direito penal do inimigo, pena de morte, biólogo Henrique
 - Fontes criadas: fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo, fontes/2026-07-20 - O que mais um tipo assim merece, fontes/2026-07-20 - BIÓLOGO HENRIQUE INVADE EVENTO DO RENAN
 - Páginas atualizadas: posicoes/Estado de Defesa e Direito Penal do Inimigo (explicação da mecânica), posicoes/Pena de Morte e Prisão Perpétua (caso do padrasto), index.md, log.md, wiki/.processed_ids

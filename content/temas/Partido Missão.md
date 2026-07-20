@@ -4,8 +4,9 @@ tags:
   - tema
   - partido-missão
   - eleições-2026
-date: 2026-07-03
+date: 2026-07-20
 fontes:
+  - "2026-07-20 - É OFICIAL"
   - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
   - "2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente"
   - "2026-07-01 - BATI 8% NA ATLAS"
@@ -27,6 +28,16 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Candidatura oficial à Presidência (julho de 2026)
+
+Em **20 de julho de 2026**, Renan anuncia que deixa de ser pré-candidato e passa a ser **candidato oficial** à Presidência da República pelo Partido Missão. Gravado no interior de Goiás, o vídeo marca a transição formal, com [[pessoas/Coronel Aroldo Medina]] confirmado como vice-presidente na chapa.
+
+Renan afirma que o partido — fundado com amigos e milhares de apoiadores — o levou a esse destino. Seus compromissos para o governo incluem: derrotar "vagabundos" em Brasília, tirar o PT do poder, destruir o crime organizado, tornar o Brasil competitivo, libertar milhões do Bolsa Família e colocar o país entre as cinco maiores nações do mundo.
+
+> "É oficial agora, eu sou candidato à Presidência da República, não mais pré-candidato. E o Partido Missão, partido que eu fundei com meus amigos, milhares de amigos ao redor do Brasil, nos entregou esse destino e essa possibilidade."
+
+Ver [[fontes/2026-07-20 - É OFICIAL]].
 
 ## PEC do IPVA 1% de Kim Kataguiri passa na CCJ (julho de 2026)
 

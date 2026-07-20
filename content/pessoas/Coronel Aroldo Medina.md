@@ -5,13 +5,22 @@ tags:
   - partido-missão
   - vice-presidência
   - segurança-pública
-date: 2026-07-17
+date: 2026-07-20
 fontes:
+  - "2026-07-20 - É OFICIAL"
   - "2026-07-17 - Recado de @AroldoMedina14"
   - "2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente"
 ---
 
 # Coronel Aroldo Medina
+
+## Confirmado como vice-presidente na candidatura oficial (julho de 2026)
+
+Em **20 de julho de 2026**, ao anunciar oficialmente sua candidatura à Presidência da República, [[pessoas/Renan Santos]] confirma [[pessoas/Coronel Aroldo Medina]] como seu vice-presidente na chapa do [[temas/Partido Missão]]. Medina é apresentado como o companheiro de chapa que vai ajudar a vencer as eleições e transformar o país.
+
+> "Eu e o Aroldo, agora meu vice, que nós vamos vencer essas eleições e nós vamos fazer que o seu país e a tua vida se tornem algo que você possa se orgulhar."
+
+Ver [[fontes/2026-07-20 - É OFICIAL]] — anúncio da candidatura.
 
 ## Mensagem a eleitores bolsonaristas — por que trocar Flávio por Renan (julho de 2026)
 

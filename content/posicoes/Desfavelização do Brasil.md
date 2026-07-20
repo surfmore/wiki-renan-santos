@@ -5,8 +5,9 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-06-25
+date: 2026-07-20
 fontes:
+  - "2026-07-20 - Sim, filial do inferno"
   - "2026-07-05 - O futuro é glorioso"
   - "2026-06-25 - Resposta para a mulher do Boulos"
   - "2026-06-24 - Será que defendem o que nós defendemos na cidade com pior IDH do país"
@@ -17,6 +18,24 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## "Filial do inferno": Renan defende linguagem e propõe proibir turismo em favelas (julho de 2026)
+
+Em **20 de julho de 2026**, Renan defende o uso do termo "filial do inferno" para descrever favelas como Coroadinho (São Luís, MA) e Jurunas (Belém, PA) — que também classifica como "zonas de guerra". Questionado se falar mal da favela não lhe custa votos, responde: **"Prefiro perder voto do que mentir pro eleitor."**
+
+Ele descreve as condições nesses locais: ausência de saneamento básico, ruas fedendo a esgoto e cadáver de animais, gravidez na adolescência generalizada, desempenho escolar péssimo e risco de tuberculose. Critica a **glamourização da favela** pela mídia, especialmente a Globo, e o **turismo estrangeiro em favelas** — que promete **proibir**.
+
+Renan defende que é preciso alterar tanto a infraestrutura quanto o "estado mental": a favela é "primeiro um estado de infraestrutura e depois um estado mental". Ele propõe:
+
+1. **Proibir gringos de fazer turismo em favelas** — acaba com o "safari humano"
+2. **Transformar favelas em bairros** — com infraestrutura e dignidade
+3. **Autodisciplina e respeito** — moradores precisam se respeitar e respeitar o próximo
+4. **Fim da "cultura do morro"** — rejeita a ideia de que existe uma cultura do morro que deve conviver com o asfalto
+5. **Todo mundo será asfalto** — todos serão bairro, cidadãos, pagarão impostos e serão iguais perante o Estado
+
+> "Todo mundo será asfalto, todo mundo será bairro, todo mundo será cidadão, todo mundo vai pagar imposto e vai ter dinheiro, todo mundo vai ser igual como cidadão. É isso que é a função do Estado."
+
+Ver [[fontes/2026-07-20 - Sim, filial do inferno]].
 
 ## Cinco propostas para acesso à moradia própria (julho de 2026)
 
