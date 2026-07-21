@@ -1,5 +1,20 @@
 # Log de operações
 
+## [2026-07-21] ingest automático | Eu tenho que tomar impeachment se eu não fizer isso
+- Fonte criada: fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso
+- Páginas atualizadas: posicoes/Estado de Defesa e Direito Penal do Inimigo (nova seção sobre desobediência ao STF), temas/STF e Ativismo Judicial (nova seção sobre confronto com STF), temas/Segurança Pública (nova seção sobre retomada territorial e desobediência), index.md, log.md, wiki/.processed_ids
+- Nota: video_id qW_LVBvKaQ8. Renan declara que desobedecerá decisões do STF que tentem bloquear operações nas favelas (ADPF das Favelas); "prevaricação é não agir"; Congresso aprovaria estado de defesa em 5/1/2027.
+
+## [2026-07-21] ingest automático | 9% NA REAL TIME BIG DATA!!
+- Fonte criada: fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!
+- Páginas atualizadas: pessoas/Renan Santos (nova seção de pesquisa 9% RTBD + 2M seguidores), temas/Partido Missão (nova seção sobre 9% RTBD), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 4rzjHH5fkg8. Renan anuncia 9% na Real Time Big Data (10% em votos válidos); afirma que Flávio Bolsonaro não vence Lula no segundo turno; convoca militância para divulgar.
+
+## [2026-07-21] ingest automático | O Brasil só tem gordo
+- Fonte criada: fontes/2026-07-20 - O Brasil só tem gordo
+- Páginas atualizadas: posicoes/Propostas para Saúde (reapresentação das 8 propostas em julho de 2026), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 3fslYh1cu5s. Renan reapresenta as oito propostas para a saúde pública em formato curto, com a abertura "O Brasil só tem gordo e gente doente". Conteúdo idêntico ao já documentado em março de 2026.
+
 ## [2026-07-20] ingest automático | É OFICIAL + Sim, filial do inferno
 - Fontes criadas: fontes/2026-07-20 - É OFICIAL, fontes/2026-07-20 - Sim, filial do inferno
 - Páginas atualizadas: pessoas/Coronel Aroldo Medina (confirmado como VP na candidatura oficial), temas/Partido Missão (candidatura oficial), posicoes/Desfavelização do Brasil (proibir turismo gringo, fim da cultura do morro, autodisciplina), index.md, log.md, wiki/.processed_ids

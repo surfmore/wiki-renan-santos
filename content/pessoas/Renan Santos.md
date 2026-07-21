@@ -13,6 +13,14 @@ fontes:
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É pré-candidato à presidência da República e uma das principais vozes da direita não-bolsonarista no Brasil.
 
+## 9% nacional na Real Time Big Data (julho de 2026)
+
+Em **21 de julho de 2026**, Renan anuncia **9% nas intenções de voto** na pesquisa **Real Time Big Data**, o que representa **10% em votos válidos**. Ele destaca que não é pesquisa da Atlas ("não é pesquisa de internet") e que cresceu contra Lula no segundo turno. Afirma ser o candidato mais desconhecido, mas à frente dos governadores, e projeta ultrapassar Flávio Bolsonaro ("vou buscar o senhor Flavinho"), que — segundo ele — não tem condições de derrotar Lula no segundo turno por envolvimento em escândalos de corrupção.
+
+Renan relembra que começou a campanha com menos de 200 mil seguidores e agora tem 2 milhões nas redes sociais. Convoca apoiadores a divulgar o conteúdo em grupos de WhatsApp. Está em Cuiabá, prestes a percorrer o Centro-Oeste.
+
+Ver [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]].
+
 ## 10% em São Paulo pela RealTime Big Data (junho de 2026)
 
 Em **16 de junho de 2026**, Renan anuncia que a pesquisa **RealTime Big Data** com coleta presencial o colocou com **10% das intenções de voto em São Paulo** — o primeiro dígito duplo de sua pré-campanha. Ele traça a trajetória: passar do 1%, ultrapassar os governadores, chegar aos 10% antes de agosto, e agora mirar em ultrapassar Flávio Bolsonaro para enfrentar Lula no segundo turno.
@@ -167,6 +175,7 @@ Ver [[fontes/2026-05-19 - 6,9% DISPAREI NA ATLAS]].
 
 ## Fontes
 
+- [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% Real Time Big Data; 10% em votos válidos; ultrapassar Flávio Bolsonaro; 2M seguidores; em Cuiabá
 - [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]] — visão política sobre república vs. democracia e a falta de "regra una" no Brasil
 - [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] — sabatina Esfera: ajuste fiscal, STF, terras raras, eleitorado
 - [[fontes/2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA]] — maior evento de pré-campanha; vaquinha maior do Brasil

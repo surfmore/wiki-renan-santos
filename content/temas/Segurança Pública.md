@@ -3,8 +3,14 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-07-17
+date: 2026-07-21
 ---
+
+## Desobediência a decisões do STF e retomada territorial das favelas (julho de 2026)
+
+Em **21 de julho de 2026**, Renan declara que **desobedecerá decisões do STF** que tentem bloquear operações de retomada territorial nas favelas. Ele afirma que o Congresso aprovará estado de defesa em 5 de janeiro de 2027 e que, se o STF determinar paralisação, cumprirá as operações com forças policiais e, se necessário, com as Forças Armadas. "Decisão judicial que venha para obstar o cumprimento do papel do presidente, ela será ignorada."
+
+Ver [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]].
 
 ## Visita ao bairro fantasma Vila Velha em Fortaleza — crime organizado expulsa moradores (julho de 2026)
 
@@ -938,6 +944,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF sobre operações em favelas; retomada territorial
 - [[fontes/2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará]] — Renan defende pena de morte, prisão perpétua e constituinte após bebê de 10 meses ser morto em Fortaleza
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Análise do México como narcoestado; lição para o Brasil; crítica a AMLO, Calderón e à esquerda latino-americana
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Crítica de Renan à proposta de Lula de devolução de celular pelo correio; defesa de confronto armado e 30 anos de prisão

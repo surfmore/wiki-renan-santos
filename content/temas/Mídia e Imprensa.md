@@ -3,14 +3,23 @@ title: "Mídia e Imprensa"
 tags:
   - tema
   - mídia
-date: 2026-04-12
+date: 2026-07-21
 fontes:
+  - "2026-07-21 - Resposta a Globo News"
   - "2026-07-16 - Vou retirar minha pré candidatura"
   - "2026-07-08 - Resposta para Vera Magalhães"
   - "2026-07-04 - Virgínia fez você perder dinheiro"
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Globo News classifica candidatura como "preocupante pra democracia" (julho de 2026)
+
+Em **21 de julho de 2026**, a Globo News exibiu comentário de seus jornalistas classificando Renan como "preocupante pra democracia" por sua proposta de desfavelização — afirmando que ele "não dá indicação de como faria" e tem tratamento "maniqueísta" das favelas. Renan respondeu em vídeo, afirmando que publicou dezenas de vídeos sobre desfavelização (mais de 20 milhões de visualizações) e que seu plano está no Livro Amarelo do Partido Missão.
+
+Renan rebateu a correlação entre desfavelização e antidemocracia: "É como se para ter uma democracia você precisasse ter favela. Isso não é verdade." Declarou-se democrata que fundou um partido político e espera ser convidado pela Globo News para sabatina, onde apresentará suas propostas com tranquilidade.
+
+Ver [[fontes/2026-07-21 - Resposta a Globo News]].
 
 ## Crítica a institutos de pesquisa: "jogo de cartas marcadas" (julho de 2026)
 

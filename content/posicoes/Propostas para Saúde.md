@@ -5,13 +5,20 @@ tags:
   - saude
   - sus
   - tecnologia
-date: 2026-03-09
+date: 2026-07-20
 fontes:
+  - "2026-07-20 - O Brasil só tem gordo"
   - "2026-06-02 - O Cariani vai me cancelar"
   - "2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL!"
 ---
 
-Renan apresentou oito propostas para reformar a saúde pública brasileira, com foco em prevenção, tecnologia e gestão por resultado. Ponto de partida: "O Brasil só tem gente gorda e doente que come muito mal."
+Renan apresentou oito propostas para reformar a saúde pública brasileira, com foco em prevenção, tecnologia e gestão por resultado.
+
+## Reapresentação das propostas (julho de 2026)
+
+Em **20 de julho de 2026**, Renan reapresenta integralmente as oito propostas de saúde, desta vez com a abertura "O Brasil só tem gordo e gente doente". O formato é mais enxuto que a versão original de março, servindo como reexposição direta para novos públicos. As propostas são idênticas às já documentadas.
+
+Ver [[fontes/2026-07-20 - O Brasil só tem gordo]].
 
 ## Dedução do IR para gastos com atividade física (junho de 2026)
 

@@ -4,8 +4,9 @@ tags:
   - tema
   - partido-missão
   - eleições-2026
-date: 2026-07-20
+date: 2026-07-21
 fontes:
+  - "2026-07-21 - 9% NA REAL TIME BIG DATA!!"
   - "2026-07-20 - É OFICIAL"
   - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
   - "2026-07-03 - O Coronel Aroldo Medina será nosso pré-candidato a Vice-Presidente"
@@ -28,6 +29,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## 9% na Real Time Big Data (julho de 2026)
+
+Em **21 de julho de 2026**, Renan anuncia **9% na pesquisa Real Time Big Data** (10% em votos válidos). Destaca estar à frente dos governadores mesmo sendo o candidato mais desconhecido, e projeta ultrapassar Flávio Bolsonaro — que, segundo ele, não tem condições de derrotar Lula no segundo turno por envolvimento em escândalos de corrupção. Informa ter atingido 2 milhões de seguidores nas redes sociais e convoca a militância para divulgar a candidatura.
+
+Ver [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]].
 
 ## Candidatura oficial à Presidência (julho de 2026)
 
@@ -206,6 +213,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% Real Time Big Data; ultrapassar Flávio; 2M seguidores; em Cuiabá
 - [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida por bets; padrões éticos do partido
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Cinco eixos do programa reafirmados; slogan "O futuro é glorioso"
 - [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]] — vaquinha; site caiu; meta R$ 650k; 1º em doações; pesquisa -7 pts Lula

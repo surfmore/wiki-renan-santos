@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-20
+date: 2026-07-21
 ---
 
 <style>
@@ -98,7 +98,7 @@ date: 2026-07-20
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">741</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">745</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -220,6 +220,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — Renan declara que desobedecerá decisões do STF que tentem bloquear operações em favelas.
+- [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% na Real Time Big Data (10% em votos válidos); dispara contra Flávio Bolsonaro; 2M seguidores; em Cuiabá.
+- [[fontes/2026-07-20 - O Brasil só tem gordo]] — Renan reapresenta as oito propostas para a saúde pública (Ozempic no SUS, telemedicina, prontuário único, etc.).
 - [[fontes/2026-07-20 - Sim, filial do inferno]] — Renan defende linguagem ao chamar favelas de "filial do inferno"; propõe proibir turismo gringo em favelas e transformá-las em bairros.
 - [[fontes/2026-07-20 - É OFICIAL]] — Renan anuncia candidatura oficial à Presidência pelo Partido Missão, com Aroldo Medina como vice.
 - [[fontes/2026-07-20 - O que mais um tipo assim merece]] — Renan defende pena de morte para padrasto que matou bebê de 10 meses.

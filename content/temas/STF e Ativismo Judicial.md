@@ -4,8 +4,20 @@ tags:
   - tema
   - stf
   - instituições
-date: 2026-07-03
+date: 2026-07-21
 ---
+
+## Declaração de desobediência a decisões do STF sobre operações em favelas (julho de 2026)
+
+Em **21 de julho de 2026**, Renan declara que **desobedecerá decisões do STF** que tentem bloquear suas operações de retomada territorial nas favelas — referindo-se à ADPF das Favelas. Em diálogo com um entrevistador, afirma que não cumprirá ordem judicial que considere incompatível com seu dever de combater o crime organizado.
+
+Ele afirma que o Congresso aprovará o estado de defesa em **5 de janeiro de 2027**. Se o STF determinar a paralisação, cumprirá as operações apenas com forças policiais e, se necessário, com as Forças Armadas. O entrevistador observa que deixar de agir seria prevaricação; Renan concorda: "Presidente da República tem que falar: 'Eu tô prevaricando, eu tenho que tomar impeachment se eu não fizer isso.'"
+
+> "De coração aberto, eu duvido que o STF vai querer" enfrentar essa situação.
+
+Esta é a declaração mais explícita de Renan sobre confronto direto com o STF: não se trata de reformar a corte por meios legais, mas de **descumprir ordens judiciais**.
+
+Ver [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
 
 ## STF e a CBF: corrupção no futebol brasileiro (julho de 2026)
 
@@ -351,6 +363,7 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF sobre operações em favelas
 - [[fontes/2026-07-10 - O que está acontecendo na CBF]] — CBF controlada por Gilmar Mendes; bets financiando clubes; investigação prometida
 - [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — STF decide manter penduricos mesmo após desabafo viral de trabalhador
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe as relações espúrias da família Bolsonaro com ministros do STF (Toffoli, [[pessoas/Gilmar Mendes]], Moraes) em resposta a ataque de Eduardo

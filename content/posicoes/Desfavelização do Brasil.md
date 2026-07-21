@@ -5,8 +5,9 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-07-20
+date: 2026-07-21
 fontes:
+  - "2026-07-21 - Resposta a Globo News"
   - "2026-07-20 - Sim, filial do inferno"
   - "2026-07-05 - O futuro é glorioso"
   - "2026-06-25 - Resposta para a mulher do Boulos"
@@ -18,6 +19,20 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Resposta à Globo News: "Democracia não precisa de favela" (julho de 2026)
+
+Em **21 de julho de 2026**, Renan responde a comentário de jornalistas da Globo News que o classificaram como "preocupante pra democracia" por sua proposta de desfavelização. Jornalistas disseram que ele "não dá indicação de como faria" e tem tratamento "maniqueísta" das favelas.
+
+Renan rebate: publicou dezenas de vídeos sobre desfavelização acumulando mais de 20 milhões de visualizações, e seu plano está no Livro Amarelo do Partido Missão. Ele questiona a premissa de que desfavelizar seria antidemocrático:
+
+> "É como se para ter uma democracia você precisasse ter favela. Isso não é verdade. As democracias que funcionam bem não têm favelas."
+
+Ele argumenta que favela é pobreza, violência e crime, controlada pelo crime organizado — citando que só na Rocinha há 11 vezes mais casos de tuberculose. Defende que é preciso libertar as pessoas também do "sistema mental que aprisiona essas pessoas na pobreza." Conclui: "Você só terá democracia num país como o Brasil se você tratar as pessoas com dignidade. E não há dignidade com pessoas morando em favela."
+
+Renan se declara democrata que fundou um partido político e defende a democracia brasileira há anos — e que continuará defendendo a democracia desfavelizando o país. Espera ser convidado pela Globo News para sabatina.
+
+Ver [[fontes/2026-07-21 - Resposta a Globo News]].
 
 ## "Filial do inferno": Renan defende linguagem e propõe proibir turismo em favelas (julho de 2026)
 

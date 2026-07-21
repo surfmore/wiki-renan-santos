@@ -3,8 +3,25 @@ title: "Estado de Defesa e Direito Penal do Inimigo"
 tags:
   - posição
   - segurança
-date: 2026-04-11
+date: 2026-07-21
 ---
+
+## Desobediência a decisões do STF: "Eu tenho que tomar impeachment se eu não fizer isso" (julho de 2026)
+
+Em **21 de julho de 2026**, Renan declara que **desobedecerá decisões do STF** que tentem bloquear suas operações de retomada territorial nas favelas — referindo-se à ADPF das Favelas. Em formato de diálogo com um entrevistador, ele afirma que se vier uma decisão do STF obstruindo as operações, ele **não cumprirá**.
+
+O mecanismo proposto:
+1. **Estado de defesa** é decretado e aprovado pelo Congresso em **5 de janeiro de 2027**
+2. Se o STF determinar a paralisação, Renan cumprirá as operações **apenas com forças policiais** e, se necessário, com auxílio das **Forças Armadas**
+3. A ação é caracterizada como **estrito cumprimento do dever constitucional** — prevaricação seria não agir
+
+O entrevistador observa que deixar de agir seria prevaricação, e Renan concorda: "Presidente da República tem que falar: 'Eu tô prevaricando, eu tenho que tomar impeachment se eu não fizer isso.'" Ele afirma duvidar que o STF vá querer enfrentar a situação, e conclui que "decisão judicial que venha para obstar o cumprimento do papel do presidente, ela será ignorada."
+
+> "De coração aberto, eu duvido que o STF vai querer."
+
+Esta é a declaração mais explícita de Renan sobre o confronto com o STF: não se trata de reformar a corte por meios legais, mas de **descumprir ordens judiciais** que considere incompatíveis com seu dever de combater o crime organizado.
+
+Ver [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]].
 
 ## Explicação da mecânica: investigação prévia como base do direito penal do inimigo (julho de 2026)
 
@@ -112,6 +129,7 @@ Ver [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]].
 
 ## Fontes
 
+- [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF; "prevaricação é não agir"
 - [[fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo]] — explicação da mecânica: investigação prévia, qualificação legal, delimitação por lei
 - [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — estado de defesa em MG; transferência de faccionados para presídios remotos; proteção jurídica a policiais
 - [[fontes/2026-06-03 - LULA SAI EM DEFESA DOS BANDIDOS]] — excludente de ilicitude; resposta à fala de Lula sobre "atirar antes de perguntar"
