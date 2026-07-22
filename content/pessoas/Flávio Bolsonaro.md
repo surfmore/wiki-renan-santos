@@ -9,6 +9,16 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## Notas fiscais ligam Flávio a Vorcaro: Renan pede desistência da candidatura (julho de 2026)
+
+Em **22 de julho de 2026**, Renan reage à descoberta de **três notas fiscais** emitidas por Flávio Bolsonaro contra uma empresa chamada **Copenhagen** — de propriedade de **Rogério**, um dos homens mais próximos a [[pessoas/Daniel Vorcaro]] e que mais recebeu dinheiro do esquema do Banco Master. O mesmo Rogério também está envolvido com a **Ambipar**, empresa fraudulenta do esquema.
+
+Renan afirma que as notas fiscais comprovam não apenas o envolvimento de Flávio com Vorcaro, mas sua participação no esquema do Banco Master, possivelmente como lobista. Ele pede que Flávio desista da candidatura: "Sai da eleição." Argumenta que Flávio está fazendo [[pessoas/Lula]] parecer honesto — "E o Lula não pode parecer um sujeito honesto porque o Lula não é honesto" — e prejudicando o campo da direita, que sempre se posicionou como anticorrupção.
+
+> "Você fez escolhas muito ruins pra tua vida. Não jogue o teu fracasso pessoal e o teu desejo de grana no colo do Brasil."
+
+Ver [[fontes/2026-07-22 - Acabou para Flavio Bolsonaro]].
+
 ## "Maior inimigo": Renan compara Flávio e Lula como dois males igualmente nocivos (julho de 2026)
 
 Em **18 de julho de 2026**, perguntado sobre seu maior inimigo entre Lula e Flávio Bolsonaro, Renan respondeu que ambos são igualmente nocivos, comparando a escolha a "pegar ebola ou ser atropelado por uma Scania". Ele descreveu Flávio e o bolsonarismo como **"parasita da esperança"** — alguém que finge defender valores conservadores enquanto, segundo Renan, rouba o eleitor que deposita fé no movimento. Renan também afirmou que tanto Lula quanto Flávio estão envolvidos nos mesmos escândalos de corrupção.

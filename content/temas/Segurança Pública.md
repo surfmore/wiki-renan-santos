@@ -6,6 +6,16 @@ tags:
 date: 2026-07-21
 ---
 
+## Infiltração do PCC no setor de combustíveis: operação Carbono Oculto em Goiás (julho de 2026)
+
+Em **21 de julho de 2026**, Renan grava na porta da distribuidora **DTC**, em Goiás, para denunciar a infiltração do PCC no setor de combustíveis. A operação **"Carbono Oculto"** da Polícia Federal revelou que o PCC utiliza distribuidoras de combustível para lavar dinheiro do tráfico de drogas e adulterar gasolina consumida em todo o Brasil.
+
+Renan explica que, como a polícia de Goiás é "muito dura", o PCC se adaptou: em vez de disputa territorial armada, a facção montou um monopólio da distribuição de combustível — movimentando bilhões de reais e atuando em mais de mil postos em todo o país. A PF apreendeu combustível adulterado suficiente para **700 mil abastecimentos**.
+
+Renan propõe enquadrar os diretores dessas empresas no **direito penal do inimigo**: sem presunção de inocência, sem progressão penal, enviados aos mesmos presídios que os criminosos armados. "Além de destruir o teu carro, isso aqui tá financiando a vida bilionária das lideranças do PCC."
+
+Ver [[fontes/2026-07-21 - O PCC adultera a sua gasolina.]].
+
 ## Desobediência a decisões do STF e retomada territorial das favelas (julho de 2026)
 
 Em **21 de julho de 2026**, Renan declara que **desobedecerá decisões do STF** que tentem bloquear operações de retomada territorial nas favelas. Ele afirma que o Congresso aprovará estado de defesa em 5 de janeiro de 2027 e que, se o STF determinar paralisação, cumprirá as operações com forças policiais e, se necessário, com as Forças Armadas. "Decisão judicial que venha para obstar o cumprimento do papel do presidente, ela será ignorada."

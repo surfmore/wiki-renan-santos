@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-07-22 - Acabou para Flavio Bolsonaro"
   - "2026-07-02 - Um exemplo de mulher"
   - "2026-06-30 - Survba com astronautas"
   - "2026-06-17 - Você está sabendo do novo escândalo do Vorcaro"
@@ -13,6 +14,12 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## Notas fiscais de Flávio Bolsonaro ligadas a Vorcaro via empresa Copenhagen (julho de 2026)
+
+Em **22 de julho de 2026**, mais um desdobramento do escândalo: **três notas fiscais** emitidas pelo senador [[pessoas/Flávio Bolsonaro]] contra uma empresa chamada **Copenhagen** — de propriedade de **Rogério**, um dos principais operadores financeiros de [[pessoas/Daniel Vorcaro]]. O mesmo Rogério também estava envolvido com a **Ambipar**, empresa fraudulenta do esquema. [[pessoas/Renan Santos]] interpreta as notas como evidência de que Flávio não apenas tinha relações com Vorcaro, mas atuou como lobista no esquema do Banco Master.
+
+Ver [[fontes/2026-07-22 - Acabou para Flavio Bolsonaro]].
 
 ## Vorcaro tenta doxxing e suborno da jornalista Malu Gaspar (julho de 2026)
 

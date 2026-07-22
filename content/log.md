@@ -1,5 +1,25 @@
 # Log de operações
 
+## [2026-07-22] ingest automático | O Brasil só tem gordo
+- Fonte criada: fontes/2026-07-22 - O Brasil só tem gordo
+- Páginas atualizadas: temas/Agronegócio e Matopiba (incremento de contagem via index.md — mesmo conteúdo do vídeo da colheitadeira), index.md, log.md, wiki/.processed_ids
+- Nota: video_id hZnuIDywuuA. Conteúdo idêntico ao vídeo "Eu pilotei uma colheitadeira em Goiás!" (5 propostas para o agro); aparentemente um reupload com título diferente.
+
+## [2026-07-22] ingest automático | Eu pilotei uma colheitadeira em Goiás!
+- Fonte criada: fontes/2026-07-22 - Eu pilotei uma colheitadeira em Goiás!
+- Páginas atualizadas: temas/Agronegócio e Matopiba (nova seção sobre 5 propostas para o agro), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 7HQJd2PUJCA. Cinco propostas: STF para segurança jurídica, fertilizantes nacionais, flexibilização trabalhista, infraestrutura, plano de recuperação.
+
+## [2026-07-22] ingest automático | Acabou para Flavio Bolsonaro
+- Fonte criada: fontes/2026-07-22 - Acabou para Flavio Bolsonaro
+- Páginas atualizadas: pessoas/Flávio Bolsonaro (nova seção sobre notas fiscais Copenhagen/Vorcaro), eventos/Escândalo Banco Master (nova seção sobre notas fiscais de Flávio), index.md, log.md, wiki/.processed_ids
+- Nota: video_id soxu7sdNpWw. Três notas fiscais de Flávio Bolsonaro para empresa Copenhagen de Rogério, ligada a Vorcaro; Renan pede que Flávio desista da candidatura.
+
+## [2026-07-21] ingest automático | O PCC adultera a sua gasolina.
+- Fonte criada: fontes/2026-07-21 - O PCC adultera a sua gasolina.
+- Páginas atualizadas: temas/Segurança Pública (nova seção sobre infiltração do PCC em combustíveis), posicoes/Estado de Defesa e Direito Penal do Inimigo (nova seção sobre aplicação a diretores de empresas), index.md, log.md, wiki/.processed_ids
+- Nota: video_id RkWMhBjuCHc. Operação Carbono Oculto da PF; DTC distribuidora em Goiás; PCC usa combustível para lavagem de dinheiro; 700 mil abastecimentos de combustível adulterado apreendidos.
+
 ## [2026-07-21] ingest automático | Eu tenho que tomar impeachment se eu não fizer isso
 - Fonte criada: fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso
 - Páginas atualizadas: posicoes/Estado de Defesa e Direito Penal do Inimigo (nova seção sobre desobediência ao STF), temas/STF e Ativismo Judicial (nova seção sobre confronto com STF), temas/Segurança Pública (nova seção sobre retomada territorial e desobediência), index.md, log.md, wiki/.processed_ids

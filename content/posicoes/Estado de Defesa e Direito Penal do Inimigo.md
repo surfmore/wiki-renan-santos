@@ -6,6 +6,14 @@ tags:
 date: 2026-07-21
 ---
 
+## Direito penal do inimigo para empresas que colaboram com o PCC (julho de 2026)
+
+Em **21 de julho de 2026**, ao denunciar a distribuidora de combustíveis **DTC** em Goiás por envolvimento com o PCC, Renan estende a aplicação do direito penal do inimigo a **diretores de empresas** comprovadamente ligadas a facções criminosas. Ele afirma que esses diretores "serão tratados da maneira mais dura possível pelo Estado": sem presunção de inocência, sem progressão penal, enviados diretamente aos mesmos presídios que os criminosos armados.
+
+A declaração expande o conceito para além de membros ostensivos de facções, incluindo o **setor empresarial que colabora economicamente com o crime organizado** — especificamente no ramo de lavagem de dinheiro via distribuição de combustíveis.
+
+Ver [[fontes/2026-07-21 - O PCC adultera a sua gasolina.]].
+
 ## Desobediência a decisões do STF: "Eu tenho que tomar impeachment se eu não fizer isso" (julho de 2026)
 
 Em **21 de julho de 2026**, Renan declara que **desobedecerá decisões do STF** que tentem bloquear suas operações de retomada territorial nas favelas — referindo-se à ADPF das Favelas. Em formato de diálogo com um entrevistador, ele afirma que se vier uma decisão do STF obstruindo as operações, ele **não cumprirá**.

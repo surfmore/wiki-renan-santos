@@ -10,6 +10,20 @@ date: 2026-06-22
 
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.
 
+## Cinco propostas para o agronegócio (julho de 2026)
+
+Em **22 de julho de 2026**, em Goiás, Renan apresenta **cinco propostas** para o agronegócio brasileiro, setor que descreve como em crise — com recuperações judiciais, falta de segurança jurídica e desconfiança. As propostas são:
+
+1. **Segurança jurídica no STF** — nomear ministro no STF que defenda o agro, a mineração e a infraestrutura; acabar com sabotagem de ONGs internacionais e uso de pautas indígenas contra o direito de propriedade.
+2. **Produção nacional de fertilizantes** — explorar fosfato e potássio no Brasil, barrados por ONGs ambientalistas; reduzir dependência externa e baratear preços.
+3. **Flexibilização trabalhista** — impedir "sabotagem" do Ministério Público do Trabalho contra produtores; reduzir impostos para que trabalhadores qualificados retenham mais renda.
+4. **Infraestrutura de energia e logística** — energia barata para irrigação, ferrovias e rodovias, com foco em regiões produtoras (Goiás, MT, PA, SC, PR).
+5. **Plano de recuperação agroindustrial** — investimento federal para resolver quebradeira, com foco no pequeno produtor.
+
+Renan critica a continuidade do governo [[pessoas/Lula]] como sabotadora do setor e afirma que "a função do presidente da República é ajudar o agro a crescer, que o agro faz todo o resto."
+
+Ver [[fontes/2026-07-22 - Eu pilotei uma colheitadeira em Goiás!]].
+
 ## Açaí do Pará: valor agregado e exportação de produto processado (junho de 2026)
 
 Em **22 de junho de 2026**, gravando no Pará, Renan usa o açaí como caso exemplar de produto amazônico com potencial de gerar riqueza via processamento e exportação. As exportações de açaí saltaram de aproximadamente 300 mil reais para mais de 150 milhões de reais em poucos anos, mas ainda representam menos de 10% da produção total.
