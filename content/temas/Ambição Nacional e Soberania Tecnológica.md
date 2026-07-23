@@ -8,6 +8,20 @@ tags:
 date: 2026-07-03
 ---
 
+## Ruanda, Vietnã e a crise da mentalidade brasileira (julho de 2026)
+
+Em **23 de julho de 2026**, Renan faz uma reflexão sobre o "espírito da malandragem" brasileiro e a falta de autodisciplina. Ele cita três países que estavam em situação pior e hoje superam o Brasil:
+
+- **Ruanda**: há 30 anos em guerra civil, hoje Kigali é "uma cidade mais limpa e mais arrumada que qualquer capital brasileira."
+- **Paraguai**: antes alvo de piadas, "está virando um país muito decente" com carga tributária baixa atraindo investimentos.
+- **Vietnã**: era "um país horrível, hiper pobre" e hoje está "bem mais industrializado que o Brasil."
+
+Renan argumenta que "a lei criou o hábito, o hábito criou a cultura" — usando o exemplo do cinto de segurança (ninguém usava nos anos 1990, hoje todo mundo usa). Ele defende que leis que impõem disciplina podem transformar a cultura brasileira, e que é preciso colocar "pessoas certas nos lugares certos" para inspirar essa transformação.
+
+> "O mundo tá conseguindo corrigir isso e a gente também consegue."
+
+Ver [[fontes/2026-07-23 - Nações africanas estão deixando o Brasil para trás]].
+
 ## Argentina e Messi: a lição de um país que se reconhece (julho de 2026)
 
 Em **7 de julho de 2026**, após a eliminação do Brasil na Copa do Mundo, Renan faz uma reflexão sobre identidade nacional a partir do contraste entre as seleções brasileira e argentina. Ele observa Lionel Messi, aos 39 anos, liderando a Argentina a uma virada histórica contra o Egito, e expressa "inveja do torcedor argentino" por ter um jogador que "se comporta como um ser humano comum normal".

@@ -14,6 +14,20 @@ fontes:
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
 
+## Método fônico obrigatório, meritocracia e crítica aos sindicatos (julho de 2026)
+
+Em **22 de julho de 2026**, Renan apresenta a proposta educacional do Partido Missão. O diagnóstico: o Brasil é um dos países que mais investe em educação no mundo, mas o dinheiro vai para custeio e folha de pagamento sem cobrança de desempenho — "nunca vi esse montante todo traduzido em qualidade."
+
+As propostas centrais:
+- **Método fônico obrigatório**: tornar obrigatório o método fônico de alfabetização em todas as escolas, substituindo métodos alternativos que não funcionam.
+- **Premiação por desempenho**: premiar os melhores diretores e professores com base em resultados objetivos; "seleção positiva — quem vai melhor ganha mais."
+- **Investimento vinculado a resultado**: a escola que vai bem recebe mais investimentos; a que vai mal troca a direção.
+- **Crítica aos sindicatos**: Renan afirma que os sindicatos de professores "foram fundados para sabotar a educação" e promete "quebrar a perna do sindicato que tá fazendo esse lobby vagabundo."
+
+> "O que nós vamos fazer é premiar os melhores diretores, premiar os melhores professores, trazer os melhores métodos, obrigar os melhores métodos."
+
+Ver [[fontes/2026-07-22 - Como mudar a educação no Brasil]].
+
 ## Alfabetização como prioridade, não debates ideológicos (julho de 2026)
 
 Em **18 de julho de 2026**, Renan reafirma que seu foco na educação são os **problemas concretos** — não debates ideológicos sobre pronomes ou pautas identitárias. Ele afirma que o problema central é que "crianças não estão sendo alfabetizadas na escola" e promete um "programa muito forte de alfabetização", recusando-se a "perder tempo discutindo questões ideológicas que a esquerda tenta trazer para a sala de aula".

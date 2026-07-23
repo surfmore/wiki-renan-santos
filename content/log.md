@@ -1,5 +1,26 @@
 # Log de operações
 
+## [2026-07-23] ingest automático | Resposta ao comentarista da GloboNews
+- Fonte criada: fontes/2026-07-23 - Resposta ao comentarista da GloboNews
+- Páginas atualizadas: temas/Segurança Pública (nova seção sobre resposta a Thomas Trauman/GloboNews; defesa do direito penal do inimigo), index.md, log.md, wiki/.processed_ids
+- Nota: video_id fbkgjh4PMBc. Renan responde a Thomas Trauman (ex-Dilma, GloboNews) que o chamou de pré-ditatorial; defende que membro de facção abdica de direitos.
+
+## [2026-07-23] ingest automático | Nações africanas estão deixando o Brasil para trás
+- Fonte criada: fontes/2026-07-23 - Nações africanas estão deixando o Brasil para trás
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica (nova seção sobre Ruanda, Vietnã e autodisciplina), index.md, log.md, wiki/.processed_ids
+- Nota: video_id cQILOEqOeNg. Renan compara Brasil com Ruanda, Paraguai e Vietnã; defende autodisciplina e tese "lei cria hábito, hábito cria cultura."
+
+## [2026-07-23] ingest automático | Como mudar a educação no Brasil
+- Fonte criada: fontes/2026-07-22 - Como mudar a educação no Brasil
+- Páginas atualizadas: posicoes/Propostas para Educação (nova seção sobre método fônico, meritocracia e crítica aos sindicatos), index.md, log.md, wiki/.processed_ids
+- Nota: video_id Ksh7Vg2OKF4. Renan defende método fônico obrigatório, premiação por desempenho; crítica aos sindicatos de professores como sabotadores da educação.
+
+## [2026-07-23] ingest automático | Propostas para entregadores
+- Fonte criada: fontes/2026-07-23 - Propostas para entregadores
+- Páginas criadas: posicoes/Propostas para Trabalhadores de Aplicativo
+- Páginas atualizadas: pessoas/Fernando Haddad (nova seção sobre lobby da Uber/parentes), index.md, log.md, wiki/.processed_ids
+- Nota: video_id Ihc0qMpBWVo. Renan defende trabalho flexível, associações setoriais e concorrência; critica lobby da Uber com parentes de Haddad.
+
 ## [2026-07-22] ingest automático | O Brasil só tem gordo
 - Fonte criada: fontes/2026-07-22 - O Brasil só tem gordo
 - Páginas atualizadas: temas/Agronegócio e Matopiba (incremento de contagem via index.md — mesmo conteúdo do vídeo da colheitadeira), index.md, log.md, wiki/.processed_ids

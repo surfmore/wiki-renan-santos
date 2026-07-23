@@ -6,6 +6,20 @@ tags:
 date: 2026-07-21
 ---
 
+## Resposta a Thomas Trauman (GloboNews): defesa do direito penal do inimigo (julho de 2026)
+
+Em **23 de julho de 2026**, Renan responde a **Thomas Trauman**, comentarista da GloboNews e ex-chefe de comunicação da presidenta Dilma Rousseff durante o processo de impeachment (liderado pelo MBL). Trauman havia analisado as propostas de Renan em um podcast, comparando sua abordagem de segurança pública a um regime "pré-ditatorial" e associando-a a [[pessoas/Nayib Bukele]].
+
+Renan rebate:
+1. **Membro de facção não é cidadão comum** — "se você é membro de uma facção, você abdicou de direitos e prerrogativas porque você decidiu entrar num grupo que está permanentemente cometendo crimes."
+2. **Inverte a acusação de "bandido bom, bandido morto"** — argumenta que o Brasil é "o país do cidadão bom é cidadão morto e do bandido bom é bandido solto, que é o que vocês defendem."
+3. **Revela o histórico de Trauman** — foi chefe de comunicação da Dilma no impeachment, e sugere que age por "recalques" contra o MBL.
+4. **Defende a função essencial do Estado** — "prefiro que pessoas sejam presas e eventualmente em combate mortas do que o cidadão ficar com medo andando na rua. Isso não te torna um ditador. Isso faz apenas que o Estado garanta sua função essencial, que é garantir vida, liberdade e propriedade dos seus cidadãos."
+
+Renan conclui que está defendendo apenas "o uso da lei da ordem para destruir o crime" e que as acusações da imprensa são "extrapolações" de quem tem interesse em desqualificá-lo.
+
+Ver [[fontes/2026-07-23 - Resposta ao comentarista da GloboNews]].
+
 ## Infiltração do PCC no setor de combustíveis: operação Carbono Oculto em Goiás (julho de 2026)
 
 Em **21 de julho de 2026**, Renan grava na porta da distribuidora **DTC**, em Goiás, para denunciar a infiltração do PCC no setor de combustíveis. A operação **"Carbono Oculto"** da Polícia Federal revelou que o PCC utiliza distribuidoras de combustível para lavar dinheiro do tráfico de drogas e adulterar gasolina consumida em todo o Brasil.

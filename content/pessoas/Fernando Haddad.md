@@ -21,6 +21,16 @@ fontes:
 
 **Quem é:** Ministro da Fazenda do governo Lula (2023–). Para Renan Santos, é o executor da política tributária petista que onera trabalhadores e microempreendedores enquanto protege grandes lobbies — e um possível substituto de Lula na candidatura presidencial de 2026.
 
+## Lobby da Uber e parentes de Haddad (julho de 2026)
+
+Em **23 de julho de 2026**, ao responder sobre propostas para entregadores de aplicativo, Renan revela que os parentes de Haddad começaram o trabalho de lobby em nome da Uber em São Paulo. Ele usa o caso para denunciar que as propostas do governo federal para os trabalhadores de aplicativo são, na verdade, um acordo entre as empresas e o governo — que beneficiaria ambos em detrimento dos trabalhadores.
+
+> "Quem começou o trabalho de lobby em nome da Uber em São Paulo foram os parentes do Haddad. Esses projetos estão vindo do governo federal, são um acordo feito entre as empresas e o governo federal com a criação do sindicato."
+
+Renan alerta que o sindicato proposto ficaria "na mão da turma do governo federal", enquanto as empresas seriam beneficiadas com o fim dos litígios trabalhistas — e os trabalhadores ficariam em posição pior.
+
+Ver [[fontes/2026-07-23 - Propostas para entregadores]].
+
 ## O "inimigo de quem trabalha": a política tributária
 
 Renan usa Haddad como personificação do que chama de "PT contra quem trabalha." Os episódios mais citados:

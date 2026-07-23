@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-22
+date: 2026-07-23
 ---
 
 <style>
@@ -98,9 +98,9 @@ date: 2026-07-22
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">749</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">753</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
-<a class="wiki-stat" href="/posicoes"><span class="num">29</span><span class="label">Posições</span></a>
+<a class="wiki-stat" href="/posicoes"><span class="num">30</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
 </div>
@@ -114,7 +114,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">107 fontes</span></div><p class="wiki-card-desc">Em 21 de julho de 2026, Renan denuncia operação do PCC de adulteração de combustível em Goiás e propõe direito penal do inimigo para diretores de empresas ligadas a facções.</p></a>
+<a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">108 fontes</span></div><p class="wiki-card-desc">Em 23 de julho de 2026, Renan responde a Thomas Trauman (GloboNews) que o acusou de pré-ditatorial; defende que membro de facção abdica de direitos e que combate ao crime é função essencial do Estado.</p></a>
 <a class="wiki-card" href="/temas/Cultura do Vitimismo e Litigância"><div class="wiki-card-header"><span class="wiki-card-icon">😤</span><span class="wiki-card-title">Cultura do Vitimismo e Litigância</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Em 15 de julho de 2026, Renan critica a cultura do vitimismo e denuncia o uso político do discurso vitimista pela esquerda como ferramenta de silenciamento.</p></a>
 <a class="wiki-card" href="/temas/Crítica à Direita Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">74 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, perguntado sobre seu maior inimigo, Renan responde que tanto Lula quanto Flávio Bolsonaro são nocivos, mas de formas diferentes.</p></a>
 <a class="wiki-card" href="/temas/Desigualdade Regional e Migração Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺</span><span class="wiki-card-title">Desigualdade Regional e Migração ...</span><span class="wiki-card-count">49 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan afirma que 40% dos homicídios no Nordeste estão recebendo Bolsa Família e classifica a situação como &quot;exploração do restante do Brasil&quot;.</p></a>
@@ -152,7 +152,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira"><div class="wiki-card-header"><span class="wiki-card-icon">🍖</span><span class="wiki-card-title">Gastrodiplomacia e Promoção Inter...</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Renan Santos propõe a adoção da gastrodiplomacia como política de estado para promover a culinária brasileira no exterior como instrumento de soft...</p></a>
 <a class="wiki-card" href="/posicoes/Planejamento Familiar e Educação Sexual nas Escolas"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Planejamento Familiar e Educação ...</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Em 28 de junho de 2026, Renan usa a lenda folclórica do boto da Amazônia como gancho para reforçar a urgência do planejamento familiar na região N...</p></a>
 <a class="wiki-card" href="/posicoes/Propostas para o STF"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Propostas para o STF</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Conjunto de sete propostas concretas que Renan Santos afirma que encaminhará como presidente da República para reformar o Supremo Tribunal Federal....</p></a>
-<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 29 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
+<a class="wiki-card" href="/posicoes/Propostas para Trabalhadores de Aplicativo"><div class="wiki-card-header"><span class="wiki-card-icon">📱</span><span class="wiki-card-title">Propostas para Trabalhadores de A...</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Renan defende trabalho flexível em plataformas digitais, associações setoriais para negociar taxas e concorrência entre aplicativos; critica lobby da Uber com parentes de Haddad.</p></a>
+<a class="wiki-card" href="/posicoes"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 30 propostas →</span></div><p class="wiki-card-desc">STF, saúde, PM, Senado, maioridade penal, bets, caminhoneiros, anticorrupção e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">👤 Pessoas</p>
@@ -220,6 +221,10 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-23 - Resposta ao comentarista da GloboNews]] — Renan responde a Thomas Trauman (ex-assessor de Dilma/GloboNews) que o chamou de pré-ditatorial; defende que membro de facção abdica de direitos e que combate ao crime é função essencial do Estado.
+- [[fontes/2026-07-23 - Nações africanas estão deixando o Brasil para trás]] — Renan compara Brasil com Ruanda, Paraguai e Vietnã; critica "espírito da malandragem" e defende autodisciplina; "lei cria hábito, hábito cria cultura."
+- [[fontes/2026-07-23 - Propostas para entregadores]] — Renan responde a entregador sobre propostas para trabalhadores de aplicativo: defende trabalho flexível, associações setoriais e concorrência entre plataformas; critica lobby da Uber com parentes de Haddad.
+- [[fontes/2026-07-22 - Como mudar a educação no Brasil]] — Renan apresenta proposta educacional do Missão: método fônico obrigatório, meritocracia, premiação por desempenho; crítica aos sindicatos de professores como "sabotadores da educação".
 - [[fontes/2026-07-22 - O Brasil só tem gordo]] — Renan reapresenta as cinco propostas para o agronegócio (mesmo conteúdo do vídeo da colheitadeira).
 - [[fontes/2026-07-22 - Eu pilotei uma colheitadeira em Goiás!]] — Renan apresenta cinco propostas para o agronegócio: STF, fertilizantes, infraestrutura, trabalho e recuperação.
 - [[fontes/2026-07-22 - Acabou para Flavio Bolsonaro]] — Renan reage a notas fiscais que ligam Flávio Bolsonaro a Daniel Vorcaro no esquema Banco Master e pede sua desistência da candidatura.
