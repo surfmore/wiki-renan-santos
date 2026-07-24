@@ -9,6 +9,18 @@ date: 2026-04-12
 
 Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura e exploração de recursos no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
 
+## Visita à tribo Pareci (MT): autonomia indígena versus sabotagem de ONGs (julho de 2026)
+
+Em **24 de julho de 2026**, Renan visita a tribo dos Pareci (língua Aruak) no Mato Grosso e apresenta um contraste com a narrativa de ONGs sobre os indígenas. Segundo ele, os Pareci querem trabalhar e produzir, mas são "sabotados pelo governo federal e pelas malditas ONGs" que os tratam como "bons selvagens."
+
+Renan mostra que a tribo possui colheitadeira, maquinário de qualidade e cooperativa — e que o cacique dirige pessoalmente a colheitadeira. Ele critica a obrigação de usar milho convencional (não transgênico), comparando a "obrigar uma fábrica a fazer apenas celular Nokia."
+
+Renan apresenta sua política indígena: as reservas serão mantidas e respeitadas, não serão usadas como "instrumento político por ONG estrangeira", e o índio que quiser ser produtivo (mineração, agropecuária) poderá fazê-lo com financiamento e licenciamento. Quem quiser se isolar será protegido.
+
+> "Regras diferentes para nações diferentes e vontades diferentes. Quem trata o indígena como uma coisa só [...] é apenas agente político brasileiro e estrangeiro querendo manter o índio na pobreza para que eles próprios vivam na riqueza."
+
+Ver [[fontes/2026-07-24 - Você entendeu o que ele falou]].
+
 ## PSOL e indígenas acionam MP contra Renan (junho de 2026)
 
 Em **22 de junho de 2026**, Renan anuncia que o **PSOL** e grupos indígenas ligados ao partido entraram com uma ação no **Ministério Público** contra ele, como resposta a suas denúncias sobre bloqueios ao desenvolvimento no Pará. Em tom irônico, Renan diz estar "retirando a pré-candidatura" e afirma que querem calá-lo. Ele reafirma suas acusações, defende que a verdade precisa ser dita e que sabotadores do desenvolvimento sejam investigados e presos. Sua resposta ao que classifica como tentativa de censura é: "Não vão calar".

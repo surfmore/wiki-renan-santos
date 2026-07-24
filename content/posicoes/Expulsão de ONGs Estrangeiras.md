@@ -8,6 +8,14 @@ date: 2026-04-12
 
 Renan Santos defende a **expulsão do Brasil de ONGs financiadas por governos e fundações estrangeiras** que, segundo ele, atuam para bloquear projetos brasileiros de infraestrutura e exploração de recursos naturais.
 
+## Visita à tribo Pareci: autonomia indígena versus ONGs estrangeiras (julho de 2026)
+
+Em **24 de julho de 2026**, durante visita à tribo dos Pareci no Mato Grosso, Renan apresenta sua política indígena como extensão de sua posição contra ONGs estrangeiras. Ele defende que os indígenas que quiserem ser produtivos (exploração de recursos minerais, agropecuária) possam fazê-lo com financiamento e licenciamento — sem interferência de ONGs que os mantêm "na pobreza para que eles próprios vivam na riqueza."
+
+A posição se alinha à proposta de expulsão de ONGs estrangeiras: Renan afirma que "ONGs, nacionais ou internacionais, querem ver os indígenas apenas como bons selvagens" e que seu governo não permitirá que as reservas sejam usadas como "instrumento político por ONG estrangeira."
+
+Ver [[fontes/2026-07-24 - Você entendeu o que ele falou]].
+
 ## O que propõe
 
 - **Bloquear a entrada de dinheiro estrangeiro** destinado a ONGs atuantes no Brasil.

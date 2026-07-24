@@ -20,6 +20,14 @@ fontes:
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
 
+## Quatro medidas para o Rio: drones-bomba e nova proposta de desfavelização (julho de 2026)
+
+Em **23 de julho de 2026**, diante do condomínio Península na Barra da Tijuca (RJ), Renan denuncia que traficantes estão usando drones-bomba para atacar autoridades enquanto estas vivem em condomínios fechados e seguros. Ele propõe quatro medidas, sendo a segunda a [[posicoes/Desfavelização do Brasil|desfavelização das cidades]] a começar pelo Rio.
+
+A tese central do vídeo é inverter a regra atual: "quem vai viver no condomínio fechado vão ser os bandidos, sempre presos, e o resto da população, não mais favelizada, vivendo um Brasil livre para todos."
+
+Ver [[fontes/2026-07-23 - Estão tacando granada de drones no Rio de Janeiro]].
+
 ## Resposta à Globo News: "Democracia não precisa de favela" (julho de 2026)
 
 Em **21 de julho de 2026**, Renan responde a comentário de jornalistas da Globo News que o classificaram como "preocupante pra democracia" por sua proposta de desfavelização. Jornalistas disseram que ele "não dá indicação de como faria" e tem tratamento "maniqueísta" das favelas.

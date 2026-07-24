@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-07-24] ingest automático | 4 shorts — drones no RJ, Lula recusa debate, agro em MT, Pareci
+- Fontes criadas: fontes/2026-07-23 - Estão tacando granada de drones no Rio de Janeiro, fontes/2026-07-24 - Lula tá com medo de mim!, fontes/2026-07-24 - Mato Grosso vai se separar do Brasil, fontes/2026-07-24 - Você entendeu o que ele falou
+- Páginas atualizadas: temas/Segurança Pública (drones-bomba e 4 propostas para o RJ), temas/Ambição Nacional (Lucas do Rio Verde como modelo), temas/Agronegócio e Matopiba (integração agroindustrial), temas/Soberania Nacional e ONGs Estrangeiras (visita aos Pareci e crítica a ONGs), temas/Partido Missão (Lula recusa debate), temas/Crítica à Direita Tradicional (Flávio fugirá dos debates), pessoas/Lula (recusa de debate), pessoas/Flávio Bolsonaro (previsão de fuga do debate), posicoes/Desfavelização do Brasil (4 medidas para o RJ), posicoes/Expulsão de ONGs Estrangeiras (autonomia indígena vs ONGs), index.md, log.md, wiki/.processed_ids
+- Nota: 4 shorts ingeridos. Vídeo sobre drones (Qp4X97fX-x8) tem participação de Vítor Antu. Vídeo dos Pareci (UwsFPPWfcH0) no MT trata de autonomia indígena. Vídeo de Lucas do Rio Verde (f8OZpx9Uz10) mostra modelo agroindustrial. Vídeo "Lula tá com medo de mim!" (CctTlHH3yH4) sobre recusa de debate.
+
 ## [2026-07-23] ingest automático | Resposta ao comentarista da GloboNews
 - Fonte criada: fontes/2026-07-23 - Resposta ao comentarista da GloboNews
 - Páginas atualizadas: temas/Segurança Pública (nova seção sobre resposta a Thomas Trauman/GloboNews; defesa do direito penal do inimigo), index.md, log.md, wiki/.processed_ids

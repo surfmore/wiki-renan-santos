@@ -9,6 +9,12 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## Renan prevê que Flávio fugirá dos debates (julho de 2026)
+
+Em **24 de julho de 2026**, após [[pessoas/Lula]] recusar debate, Renan prevê que Flávio será o próximo a fugir — alegando que "sem o Lula não vai poder debater." Renan critica a estratégia de ambos os candidatos de evitar confronto direto.
+
+Ver [[fontes/2026-07-24 - Lula tá com medo de mim!]].
+
 ## Notas fiscais ligam Flávio a Vorcaro: Renan pede desistência da candidatura (julho de 2026)
 
 Em **22 de julho de 2026**, Renan reage à descoberta de **três notas fiscais** emitidas por Flávio Bolsonaro contra uma empresa chamada **Copenhagen** — de propriedade de **Rogério**, um dos homens mais próximos a [[pessoas/Daniel Vorcaro]] e que mais recebeu dinheiro do esquema do Banco Master. O mesmo Rogério também está envolvido com a **Ambipar**, empresa fraudulenta do esquema.

@@ -7,6 +7,12 @@ tags:
 date: 2025-09-02
 ---
 
+## Renan prevê que Flávio Bolsonaro fugirá dos debates (julho de 2026)
+
+Em **24 de julho de 2026**, após anunciar que [[pessoas/Lula]] recusou debater, Renan prevê que [[pessoas/Flávio Bolsonaro]] será o próximo a fugir dos debates — alegando que "sem o Lula não vai poder debater." Ele critica a estratégia de Flávio e Lula de evitar confronto direto com propostas sérias.
+
+Ver [[fontes/2026-07-24 - Lula tá com medo de mim!]].
+
 ## Flávio Bolsonaro como "parasita da esperança" (julho de 2026)
 
 Em **18 de julho de 2026**, perguntado sobre seu maior inimigo entre Lula e Flávio Bolsonaro, Renan responde que ambos são igualmente danosos, mas de formas diferentes. Ele descreve o bolsonarismo como **"parasita da esperança"** — um movimento que finge defender valores conservadores enquanto rouba o eleitor que nele deposita fé:

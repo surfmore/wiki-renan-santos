@@ -30,6 +30,14 @@ fontes:
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
 
+## Lula recusa debate com Renan (julho de 2026)
+
+Em **24 de julho de 2026**, Renan anuncia que [[pessoas/Lula]] recusou debater com ele, conforme noticiado pelo site de Ismael Moraes, que teve acesso a textos internos da campanha lulista. A campanha de Lula teme que Renan tenha grande desempenho nos debates — "talvez para ser o único que realmente saiba falar direito." Renan atribui o receio de Lula à sua força nas redes e ao fato de não ser "gado de ninguém."
+
+Ele prevê que [[pessoas/Flávio Bolsonaro]] também fugirá do debate se Lula não participar, e reafirma sua candidatura pelo Partido Missão.
+
+Ver [[fontes/2026-07-24 - Lula tá com medo de mim!]].
+
 ## 9% na Real Time Big Data (julho de 2026)
 
 Em **21 de julho de 2026**, Renan anuncia **9% na pesquisa Real Time Big Data** (10% em votos válidos). Destaca estar à frente dos governadores mesmo sendo o candidato mais desconhecido, e projeta ultrapassar Flávio Bolsonaro — que, segundo ele, não tem condições de derrotar Lula no segundo turno por envolvimento em escândalos de corrupção. Informa ter atingido 2 milhões de seguidores nas redes sociais e convoca a militância para divulgar a candidatura.

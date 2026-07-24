@@ -20,6 +20,22 @@ Renan conclui que está defendendo apenas "o uso da lei da ordem para destruir o
 
 Ver [[fontes/2026-07-23 - Resposta ao comentarista da GloboNews]].
 
+## Drones-bomba no Rio e as quatro propostas de Renan (julho de 2026)
+
+Em **23 de julho de 2026**, gravando na Barra da Tijuca (RJ), Renan denuncia que traficantes estão usando **drones-bomba** para atacar autoridades no condomínio Península — onde moram figuras como Wilson Witson, Cláudio Castro e Ronnie Lessa (Pisani). Ele afirma que a cidade perdeu mais de 300 mil habitantes nos últimos 10 anos e contrasta a segurança dos condomínios fechados com a realidade das ruas.
+
+Renan propõe **quatro medidas**:
+1. Prender os políticos corruptos que vivem nesses condomínios fechados.
+2. [[posicoes/Desfavelização do Brasil|Desfavelizar as cidades]], começando pelo Rio de Janeiro.
+3. Estabelecer um modelo de urbanismo funcional que permita que as pessoas andem na rua com segurança.
+4. Aumentar as penas para todo tipo de crime, incluindo vandalismo, perturbação e violência.
+
+Sua tese central é inverter a regra atual: "quem vai viver no condomínio fechado vão ser os bandidos, sempre presos, e o resto da população, não mais favelizada, vivendo um Brasil livre para todos."
+
+O vídeo tem a participação de [[pessoas/Vítor Antu|Vítor Antum]], pré-candidato a deputado federal pelo Partido Missão.
+
+Ver [[fontes/2026-07-23 - Estão tacando granada de drones no Rio de Janeiro]].
+
 ## Infiltração do PCC no setor de combustíveis: operação Carbono Oculto em Goiás (julho de 2026)
 
 Em **21 de julho de 2026**, Renan grava na porta da distribuidora **DTC**, em Goiás, para denunciar a infiltração do PCC no setor de combustíveis. A operação **"Carbono Oculto"** da Polícia Federal revelou que o PCC utiliza distribuidoras de combustível para lavar dinheiro do tráfico de drogas e adulterar gasolina consumida em todo o Brasil.

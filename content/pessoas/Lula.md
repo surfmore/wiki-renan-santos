@@ -40,6 +40,16 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## Lula recusa debate com Renan (julho de 2026)
+
+Em **24 de julho de 2026**, Renan anuncia que Lula recusou debater com ele, conforme reportagem do site de Ismael Moraes que teve acesso a textos internos da campanha lulista. A campanha de Lula teme que Renan tenha grande desempenho nos debates — "talvez para ser o único que realmente saiba falar direito dentro de toda essa turma."
+
+Renan atribui o receio de Lula a dois fatores: sua força nas redes sociais e o fato de não ser "gado de ninguém, nem da esquerda, nem da direita." Ele promete que, num debate, falará dos escândalos que envolvem Lula — irmão, filho, esposa na COP30, e o próprio Lula na Lava-Jato — além de cobrar promessas não cumpridas como a "picanha que não chegou."
+
+Renan também afirma que a estratégia de Lula é "desaparecer do debate público, comprar o voto das pessoas e tentar vencer no primeiro turno ou levar o Flávio pro segundo."
+
+Ver [[fontes/2026-07-24 - Lula tá com medo de mim!]].
+
 ## "Maior inimigo é o eleitor que vota em Lula ou Flávio" (julho de 2026)
 
 Em **18 de julho de 2026**, perguntado sobre quem é seu maior inimigo entre Lula e Flávio Bolsonaro, Renan responde que o maior inimigo é o eleitor que perdeu a esperança e vota nesses dois. Ele compara a escolha a "pegar ebola ou ser atropelado por uma Scania" — ambos matam de formas diferentes. Renan afirma que Lula representa o "mal natural de um grupo político com uma ideia errada que quebrou o Brasil nos últimos 30 anos" e que há "uma relação direta do PT com o fim do Brasil como uma potência". A estratégia de Renan é derrotar Flávio no primeiro turno e Lula no segundo.

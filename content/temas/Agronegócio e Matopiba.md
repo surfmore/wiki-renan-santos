@@ -8,6 +8,14 @@ tags:
 date: 2026-06-22
 ---
 
+## Lucas do Rio Verde: integração agroindustrial como modelo (julho de 2026)
+
+Em **24 de julho de 2026**, Renan visita Lucas do Rio Verde (MT) — cidade fundada em 1988 — e mostra seu modelo de integração agroindustrial: o milho produzido na região vira etanol, a soja vira óleo e biodiesel, e o farelo resultante serve de ração para a indústria de carne de frango e porco. O prefeito local explica que o segredo foi não se limitar à produção primária e atrair indústrias de valor agregado.
+
+Renan defende replicar o modelo em todo o Brasil, afirmando que sua função é "aprender e replicar em todos os municípios."
+
+Ver [[fontes/2026-07-24 - Mato Grosso vai se separar do Brasil]].
+
 Durante a viagem de pré-campanha pelo Maranhão em abril de 2026, Renan Santos apresenta o **Matopiba** — a região que reúne Maranhão, Tocantins, Piauí e oeste da Bahia — como o principal eixo de desenvolvimento que propõe para o Nordeste. O agronegócio aparece nos vídeos não como pauta setorial, mas como resposta estrutural aos problemas de pobreza, dependência de transferências federais e compra de votos no interior.
 
 ## Cinco propostas para o agronegócio (julho de 2026)

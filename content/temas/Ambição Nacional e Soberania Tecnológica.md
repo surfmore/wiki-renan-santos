@@ -8,6 +8,14 @@ tags:
 date: 2026-07-03
 ---
 
+## Lucas do Rio Verde: modelo de industrialização do agro a ser replicado (julho de 2026)
+
+Em **24 de julho de 2026**, Renan visita Lucas do Rio Verde (MT) e documenta um modelo de integração agroindustrial que considera exemplar. A cidade, fundada em 1988, transformou a produção primária em cadeia completa: milho vira etanol, soja vira óleo e biodiesel, e o farelo serve de ração para aves e suínos. O prefeito local explica o segredo: "só ficar da produção primária não era o suficiente."
+
+Renan afirma que sua função é "olhar o que caras como ele estão fazendo, tomar nota, aprender e replicar em todos os municípios do Brasil." Ele defende que o Brasil seja "mais como Lucas do Rio Verde e menos como administração pública das cidades que não funcionam."
+
+Ver [[fontes/2026-07-24 - Mato Grosso vai se separar do Brasil]].
+
 ## Ruanda, Vietnã e a crise da mentalidade brasileira (julho de 2026)
 
 Em **23 de julho de 2026**, Renan faz uma reflexão sobre o "espírito da malandragem" brasileiro e a falta de autodisciplina. Ele cita três países que estavam em situação pior e hoje superam o Brasil:
