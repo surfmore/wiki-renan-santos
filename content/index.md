@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-24
+date: 2026-07-25
 ---
 
 <style>
@@ -98,7 +98,7 @@ date: 2026-07-24
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">757</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">760</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">30</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -221,6 +221,9 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-25 - FUI AMEAÇADO DE M0RTE!]] — Renan relata ameaça de morte por cantora de esquerda; propõe reforma nas leis de incentivo cultural.
+- [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]] — Renan desafia Lula e Flávio a defenderem o agro brasileiro após acusações dos EUA; propõe expulsar ONGs e usar terras raras contra Trump.
+- [[fontes/2026-07-24 - É oficial eles estão fugindo de mim!]] — Renan responde a Boulos e desafia Lula e Flávio ao debate; apresenta visão do "Brasil oposto ao Lulismo".
 - [[fontes/2026-07-24 - Você entendeu o que ele falou]] — Renan visita a tribo Pareci (MT) e defende autonomia indígena contra sabotagem de ONGs estrangeiras; propõe que índios possam explorar recursos minerais e agropecuários.
 - [[fontes/2026-07-24 - Mato Grosso vai se separar do Brasil]] — Renan visita Lucas do Rio Verde (MT) e mostra o modelo de integração agroindustrial como exemplo a ser replicado em todo o Brasil.
 - [[fontes/2026-07-24 - Lula tá com medo de mim!]] — Renan anuncia que Lula recusou debate; prevê que Flávio Bolsonaro também fugirá; reafirma candidatura pelo Partido Missão.

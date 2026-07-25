@@ -7,6 +7,7 @@ tags:
   - oposição
 date: 2026-06-25
 fontes:
+  - "2026-07-24 - É oficial eles estão fugindo de mim!"
   - "2026-06-25 - Resposta para a mulher do Boulos"
   - "2026-03-27 - Eu fui na primeira favela do Brasil"
 ---
@@ -14,6 +15,12 @@ fontes:
 # Guilherme Boulos
 
 **Guilherme Boulos** é líder do **MTST (Movimento dos Trabalhadores Sem Teto)**, pré-candidato do **PSOL** à Presidência da República e adversário político de **Renan Santos** nas eleições de 2026. Renan o descreve como parte do sistema que lucra com a favelização e promete prendê-lo se ele organizar novas invasões.
+
+## Boulos critica Renan sobre debates; Renan responde (julho de 2026)
+
+Em **24 de julho de 2026**, Renan responde a Boulos, que havia argumentado que Renan só quer participar de debates para gerar cortes para redes sociais. Renan rebate dizendo que bons cortes exigem argumentação sólida contra o adversário — "você só consegue fazer corte se argumenta bem", e seu perfil não é de "lacrar para cima de ninguém" como Pablo Marçal. Ele afirma que, num debate, apresentará ideias e falará de escândalos.
+
+Ver [[fontes/2026-07-24 - É oficial eles estão fugindo de mim!]].
 
 ## Acusação de máfia dos movimentos de moradia (junho de 2026)
 

@@ -7,7 +7,13 @@ tags:
 date: 2026-04-12
 ---
 
-Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura e exploração de recursos no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
+Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura, exploração de recursos e agricultura no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
+
+## ONGs estrangeiras sabotam o agro brasileiro, diz Renan (julho de 2026)
+
+Em **25 de julho de 2026**, após os EUA acusarem o agro brasileiro de desmatamento e trabalho forçado, Renan afirma que os americanos usam "o mesmo discurso das ONGs bancadas pelos Estados Unidos e pelos europeus." Ele propõe que seu governo expulse ONGs norte-americanas e europeias que "vêm aqui no Brasil sabotar a nossa agricultura com essas falsas narrativas."
+
+Ver [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]].
 
 ## Visita à tribo Pareci (MT): autonomia indígena versus sabotagem de ONGs (julho de 2026)
 

@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-06-20
 fontes:
+  - "2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro."
   - "2026-07-16 - Taxaram a gente"
   - "2026-07-12 - Você conhece o ditador Mbappe"
   - "2026-06-20 - O que podemos aprender com o Haiti"
@@ -19,6 +20,12 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## EUA acusam agro brasileiro de trabalho forçado e desmatamento (julho de 2026)
+
+Em **25 de julho de 2026**, após o secretário de Comércio dos EUA acusar o agro brasileiro de concorrência desleal e desmatamento, e representantes americanos afirmarem que o setor usa trabalho forçado, Renan desafia Lula e Flávio Bolsonaro a defenderem o setor publicamente. Ele critica o silêncio de ambos e propõe usar as **terras raras** como moeda de barganha contra Trump: "se quiser taxar a gente, não vai ter acesso à terra rara e vai ficar na mão da China."
+
+Ver [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]].
 
 ## Tarifas de Trump sobre o Brasil: Renan critica Lula e Flávio Bolsonaro (julho de 2026)
 

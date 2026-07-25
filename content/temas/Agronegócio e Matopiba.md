@@ -8,6 +8,16 @@ tags:
 date: 2026-06-22
 ---
 
+## Renan desafia Lula e Flávio a defenderem o agro após acusações dos EUA (julho de 2026)
+
+Em **25 de julho de 2026**, Renan desafia [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] a defenderem publicamente a agricultura brasileira, depois que os Estados Unidos acusaram o agro nacional de concorrência desleal, desmatamento excessivo e uso de trabalho forçado.
+
+Renan critica o silêncio de Lula — "setor que mais exporta no Brasil" — e argumenta que o governo americano usa o mesmo discurso das ONGs estrangeiras. Ele desafia Flávio a defender o agro "em detrimento do Trump", já que a família Bolsonaro sempre foi apoiada pelo setor.
+
+Renan propõe, como presidente: defesa formal da agricultura, expulsão de ONGs estrangeiras que "sabotam nossa agricultura" e usar as terras raras como moeda de barganha contra Trump.
+
+Ver [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]].
+
 ## Lucas do Rio Verde: integração agroindustrial como modelo (julho de 2026)
 
 Em **24 de julho de 2026**, Renan visita Lucas do Rio Verde (MT) — cidade fundada em 1988 — e mostra seu modelo de integração agroindustrial: o milho produzido na região vira etanol, a soja vira óleo e biodiesel, e o farelo resultante serve de ração para a indústria de carne de frango e porco. O prefeito local explica que o segredo foi não se limitar à produção primária e atrair indústrias de valor agregado.

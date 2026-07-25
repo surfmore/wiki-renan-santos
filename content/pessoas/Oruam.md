@@ -6,6 +6,7 @@ tags:
   - comando-vermelho
 date: 2025-11-01
 fontes:
+  - "2026-07-25 - FUI AMEAÇADO DE M0RTE!"
   - "2025-11-01 - Você sabe quem é Doca"
   - "2026-02-05 - ORUAM VIOLA TORNOZELEIRA E ESTÁ FORAGIDO DA POLÍCIA"
 ---
@@ -13,6 +14,12 @@ fontes:
 Rapper brasileiro e, segundo Renan Santos, **porta-voz público do Comando Vermelho** e integrante de sua liderança. Filho de **Varcinho VP**, figura influente da cúpula do CV.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não são verificadas independentemente por este wiki.
+
+## Ironia sobre censura seletiva: Oruam promove CV sem ser censurado (julho de 2026)
+
+Em **25 de julho de 2026**, após ser ameaçado de morte por uma cantora de esquerda, Renan encerra seu vídeo com a frase: "Não ature censura em 2026, a menos que você seja o Oruam e promova o Comando Vermelho." A declaração reforça sua crítica à seletividade da censura cultural — artistas de esquerda que ameaçam conservadores não sofrem consequências, enquanto Oruam, que promove abertamente o Comando Vermelho, também não é censurado.
+
+Ver [[fontes/2026-07-25 - FUI AMEAÇADO DE M0RTE!]].
 
 ## Normalização do crime e a morte de um pai de família (maio de 2026)
 

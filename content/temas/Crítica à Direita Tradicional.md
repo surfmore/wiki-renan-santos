@@ -7,6 +7,12 @@ tags:
 date: 2025-09-02
 ---
 
+## Renan desafia Flávio ao debate junto com Lula (julho de 2026)
+
+Em **24 de julho de 2026**, em vídeo separado, Renan desafia [[pessoas/Flávio Bolsonaro]] ao debate junto com [[pessoas/Lula]] — afirmando que quer ambos para que expliquem seus "históricos complicados" e apresentem propostas. Ele diz que Lula está fugindo e que Flávio será o próximo.
+
+Ver [[fontes/2026-07-24 - É oficial eles estão fugindo de mim!]].
+
 ## Renan prevê que Flávio Bolsonaro fugirá dos debates (julho de 2026)
 
 Em **24 de julho de 2026**, após anunciar que [[pessoas/Lula]] recusou debater, Renan prevê que [[pessoas/Flávio Bolsonaro]] será o próximo a fugir dos debates — alegando que "sem o Lula não vai poder debater." Ele critica a estratégia de Flávio e Lula de evitar confronto direto com propostas sérias.

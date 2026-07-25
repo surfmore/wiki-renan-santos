@@ -12,6 +12,7 @@ fontes:
   - "2026-07-09 - Olha o nível da eleição brasileira."
   - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
   - "2026-07-09 - Processei o Lula. Quero ver o que o TSE vai falar!"
+  - "2026-07-24 - É oficial eles estão fugindo de mim!"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-06-28 - Olha o que o Lula falou dos sulistas"
   - "2026-06-22 - Essa declaração é o fim do governo Lula"
@@ -49,6 +50,20 @@ Renan atribui o receio de Lula a dois fatores: sua força nas redes sociais e o 
 Renan também afirma que a estratégia de Lula é "desaparecer do debate público, comprar o voto das pessoas e tentar vencer no primeiro turno ou levar o Flávio pro segundo."
 
 Ver [[fontes/2026-07-24 - Lula tá com medo de mim!]].
+
+## Renan responde a Boulos e apresenta visão antagônica ao "Lulismo" (julho de 2026)
+
+Ainda em **24 de julho de 2026**, em meio ao debate sobre a recusa de Lula, Renan responde a [[pessoas/Guilherme Boulos]] — que argumentou que Renan só quer participar dos debates para gerar cortes. Renan rebate dizendo que bons cortes exigem argumentação sólida e que seu perfil é diferente de Pablo Marçal — não está "indo lacrar para cima de ninguém."
+
+Renan critica as políticas sociais de Lula (vale-gás, energia elétrica) como estratégia de compra de votos. Ele apresenta sua visão de Brasil como o "Brasil oposto ao Lulismo": um país onde o direito é respeitado, vigora lei e ordem, o crime organizado é destruído, a economia cresce e os impostos caem.
+
+Ver [[fontes/2026-07-24 - É oficial eles estão fugindo de mim!]].
+
+## Renan desafia Lula a defender o agro brasileiro após acusações dos EUA (julho de 2026)
+
+Em **25 de julho de 2026**, após os Estados Unidos acusarem o agro brasileiro de concorrência desleal, desmatamento e trabalho forçado, Renan desafia Lula a defender publicamente a agricultura brasileira — "o setor que mais exporta no Brasil." Ele critica o silêncio do presidente e argumenta que o governo americano usa o mesmo discurso de ONGs estrangeiras. Renan afirma que, em seu governo, faria a defesa formal do agro, expulsaria ONGs estrangeiras e usaria as terras raras como moeda de barganha contra Trump.
+
+Ver [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]].
 
 ## "Maior inimigo é o eleitor que vota em Lula ou Flávio" (julho de 2026)
 

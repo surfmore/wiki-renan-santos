@@ -9,11 +9,21 @@ date: 2026-06-02
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
-## Renan prevê que Flávio fugirá dos debates (julho de 2026)
+## Renan desafia Flávio ao debate e prevê fuga (julho de 2026)
 
-Em **24 de julho de 2026**, após [[pessoas/Lula]] recusar debate, Renan prevê que Flávio será o próximo a fugir — alegando que "sem o Lula não vai poder debater." Renan critica a estratégia de ambos os candidatos de evitar confronto direto.
+Em **24 de julho de 2026**, após [[pessoas/Lula]] recusar debate, Renan também desafia Flávio publicamente — afirmando que quer ambos os candidatos no debate para que expliquem seus "históricos complicados" e finalmente apresentem propostas. Ele prevê que, se Lula fugir, Flávio será o próximo a recuar.
 
-Ver [[fontes/2026-07-24 - Lula tá com medo de mim!]].
+Em outro vídeo do mesmo dia, Renan reafirma a previsão de que Flávio será o próximo a fugir dos debates — alegando que "sem o Lula não vai poder debater." Ele critica a estratégia de ambos os candidatos de evitar confronto direto com propostas sérias.
+
+Ver [[fontes/2026-07-24 - É oficial eles estão fugindo de mim!]] e [[fontes/2026-07-24 - Lula tá com medo de mim!]].
+
+## Renan desafia Flávio a defender o agro brasileiro contra o próprio Trump (julho de 2026)
+
+Em **25 de julho de 2026**, após os EUA acusarem o agro brasileiro de desmatamento e trabalho forçado, Renan desafia Flávio Bolsonaro a defender publicamente o setor agrícola — "em detrimento do Trump." Ele questiona se Flávio vai "largar o saco do Donald Trump" e defender o agro, ou se vai imitar o irmão [[pessoas/Eduardo Bolsonaro]] que "fica puxando o saco do Trump nos Estados Unidos."
+
+Renan aponta que a família Bolsonaro sempre foi apoiada pela agricultura e que Flávio precisa escolher entre defender o setor ou proteger sua relação com Trump.
+
+Ver [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]].
 
 ## Notas fiscais ligam Flávio a Vorcaro: Renan pede desistência da candidatura (julho de 2026)
 

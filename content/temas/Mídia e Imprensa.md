@@ -5,6 +5,7 @@ tags:
   - mídia
 date: 2026-07-21
 fontes:
+  - "2026-07-25 - FUI AMEAÇADO DE M0RTE!"
   - "2026-07-21 - Resposta a Globo News"
   - "2026-07-16 - Vou retirar minha pré candidatura"
   - "2026-07-08 - Resposta para Vera Magalhães"
@@ -12,6 +13,14 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Ameaçado de morte por cantora e propõe reforma cultural (julho de 2026)
+
+Em **25 de julho de 2026**, Renan relata ter sido ameaçado de morte pela cantora Sofia Chabau (banda Exclusive os Cabides), que durante um show disse que pessoas como ele deveriam estar "cada vez mais mortas." Renan responde ironicamente, afirmando que a cantora está promovendo sua banda e que seus shows lotam mais que os dela.
+
+Renan promete mudar as **leis de incentivo cultural** para que o circuito cultural dominado pela esquerda — que, segundo ele, controla o ambiente com uma "mesma visão de mundo" — tenha que enfrentar concorrência de quem pensa diferente. Ele encerra com: "Não ature censura em 2026, a menos que você seja o [[pessoas/Oruam]] e promova o Comando Vermelho."
+
+Ver [[fontes/2026-07-25 - FUI AMEAÇADO DE M0RTE!]].
 
 ## Globo News classifica candidatura como "preocupante pra democracia" (julho de 2026)
 

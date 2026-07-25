@@ -1,5 +1,20 @@
 # Log de operações
 
+## [2026-07-25] ingest | FUI AMEAÇADO DE M0RTE!
+- Fonte criada: fontes/2026-07-25 - FUI AMEAÇADO DE M0RTE!
+- Páginas atualizadas: pessoas/Oruam (ironia sobre censura seletiva), temas/Mídia e Imprensa (ameaça de morte e proposta de reforma cultural), index.md, log.md, wiki/.processed_ids
+- Nota: video_id PReC9EzsapA. Renan relata ameaça de morte pela cantora Sofia Chabau; propõe reforma das leis de incentivo cultural.
+
+## [2026-07-25] ingest | Eu desafio o Lula e o Flávio Bolsonaro.
+- Fonte criada: fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.
+- Páginas atualizadas: pessoas/Lula (desafio a defender agro), pessoas/Flávio Bolsonaro (desafio a defender agro vs Trump), temas/Agronegócio e Matopiba (EUA acusam agro brasileiro), temas/Política Externa e Geopolítica (EUA acusam agro; terras raras), temas/Soberania Nacional e ONGs Estrangeiras (expulsão de ONGs que sabotam agro), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 7qoxNn6Q8Z8. EUA acusam agro brasileiro de desmatamento e trabalho forçado; Renan desafia Lula e Flávio a defenderem o setor; propõe expulsar ONGs e usar terras raras.
+
+## [2026-07-25] ingest | É oficial eles estão fugindo de mim!
+- Fonte criada: fontes/2026-07-24 - É oficial eles estão fugindo de mim!
+- Páginas atualizadas: pessoas/Lula (resposta a Boulos e visão anti-Lulismo), pessoas/Flávio Bolsonaro (desafio ao debate), pessoas/Guilherme Boulos (Boulos critica debates, Renan responde), temas/Crítica à Direita Tradicional (desafio a Flávio), index.md, log.md, wiki/.processed_ids
+- Nota: video_id -65DP3dDBqQ. Renan responde a Boulos sobre debates e apresenta visão do "Brasil oposto ao Lulismo".
+
 ## [2026-07-24] ingest automático | 4 shorts — drones no RJ, Lula recusa debate, agro em MT, Pareci
 - Fontes criadas: fontes/2026-07-23 - Estão tacando granada de drones no Rio de Janeiro, fontes/2026-07-24 - Lula tá com medo de mim!, fontes/2026-07-24 - Mato Grosso vai se separar do Brasil, fontes/2026-07-24 - Você entendeu o que ele falou
 - Páginas atualizadas: temas/Segurança Pública (drones-bomba e 4 propostas para o RJ), temas/Ambição Nacional (Lucas do Rio Verde como modelo), temas/Agronegócio e Matopiba (integração agroindustrial), temas/Soberania Nacional e ONGs Estrangeiras (visita aos Pareci e crítica a ONGs), temas/Partido Missão (Lula recusa debate), temas/Crítica à Direita Tradicional (Flávio fugirá dos debates), pessoas/Lula (recusa de debate), pessoas/Flávio Bolsonaro (previsão de fuga do debate), posicoes/Desfavelização do Brasil (4 medidas para o RJ), posicoes/Expulsão de ONGs Estrangeiras (autonomia indígena vs ONGs), index.md, log.md, wiki/.processed_ids
