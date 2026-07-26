@@ -6,6 +6,19 @@ tags:
 date: 2026-07-21
 ---
 
+## Crime hediondo na Bahia: dedos arrancados para saque bancário (julho de 2026)
+
+Em **25 de julho de 2026**, Renan comenta imagens de um crime ocorrido na Bahia: um bandido assassina uma professora, arranca seus dedos e utiliza a biometria do banco para sacar o dinheiro da conta da vítima. Ele refuta a classificação de feminicídio adotada pela imprensa, afirmando que se trata de "mais um caso de violência brutal que acontece contra brasileiros, homens e mulheres, todos os dias no Brasil".
+
+Renan aponta duas causas para a impunidade:
+
+1. **Governo federal (Lula/PT)**: descreve como "fraco", "governo de bandido" e "amigo do crime organizado". Afirma que o PT "circulava entre membros do crime organizado" e não é favorável a mudanças na lei de execução penal, aumento de pena ou fim das saidinhas. Conclui: "O PT quer bandido na rua, o PT não quer mais presídio."
+2. **Governo da Bahia (Jerônimo Rodrigues/PT)**: afirma que a polícia "não consegue trabalhar" e que Jerônimo é "fraco". Renan critica a população baiana que "ainda apoia o Jerônimo" e o reelege apesar da violência, classificando-a como "masoquista".
+
+Renan defende que "esse cara não deveria ter nenhum tipo de recuperação" e promete, como presidente, convocar uma constituinte para permitir a [[posicoes/Pena de Morte e Prisão Perpétua|pena de morte]].
+
+Ver [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]].
+
 ## Resposta a Thomas Trauman (GloboNews): defesa do direito penal do inimigo (julho de 2026)
 
 Em **23 de julho de 2026**, Renan responde a **Thomas Trauman**, comentarista da GloboNews e ex-chefe de comunicação da presidenta Dilma Rousseff durante o processo de impeachment (liderado pelo MBL). Trauman havia analisado as propostas de Renan em um podcast, comparando sua abordagem de segurança pública a um regime "pré-ditatorial" e associando-a a [[pessoas/Nayib Bukele]].

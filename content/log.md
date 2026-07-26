@@ -1,5 +1,10 @@
 # Log de operações
 
+## [2026-07-25] ingest automático | Mais um cr1me hediondo na Bahia
+- Fonte criada: fontes/2026-07-25 - Mais um cr1me hediondo na Bahia
+- Páginas atualizadas: temas/Segurança Pública (crime hediondo na Bahia; PT como "amigo do crime"), posicoes/Pena de Morte e Prisão Perpétua (promessa de constituinte para pena de morte), pessoas/Lula ("PT amigo do crime organizado"), pessoas/Jerônimo Rodrigues (crime na Bahia e omissão), index.md, log.md, wiki/.processed_ids
+- Nota: video_id jem_aRC_TtQ. Crime brutal na Bahia onde bandido assassina professora, arranca dedos e usa biometria para saque bancário; Renan defende pena de morte e promete constituinte.
+
 ## [2026-07-25] ingest | FUI AMEAÇADO DE M0RTE!
 - Fonte criada: fontes/2026-07-25 - FUI AMEAÇADO DE M0RTE!
 - Páginas atualizadas: pessoas/Oruam (ironia sobre censura seletiva), temas/Mídia e Imprensa (ameaça de morte e proposta de reforma cultural), index.md, log.md, wiki/.processed_ids

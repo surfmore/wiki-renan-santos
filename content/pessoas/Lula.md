@@ -300,6 +300,14 @@ Ver [[fontes/2025-10-15 - Tentei explicar isso para um gringo]].
 
 ## Lula e o crime organizado
 
+### "PT é amigo do crime organizado": crime hediondo na Bahia (julho de 2026)
+
+Em **25 de julho de 2026**, ao comentar um crime brutal na Bahia em que um bandido assassinou uma professora e arrancou seus dedos para sacar dinheiro, Renan acusa o governo federal (Lula/PT) de ser diretamente responsável pela impunidade. Ele afirma que o Brasil tem "um governo de bandido e é um governo, acima de tudo, amigo do crime organizado" e que "o PT circulava entre membros do crime organizado e membros do crime organizado circulavam no meio do governo do PT."
+
+Renan alega que "o PT não é favorável a mudanças na lei de execução penal, aumento de pena, ao fim de qualquer tipo de saidinha" e conclui: **"O PT quer bandido na rua, o PT não quer mais presídio."**
+
+Ver [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]].
+
 ### A declaração sobre o tráfico (outubro de 2025)
 
 Lula declarou que a existência do tráfico seria responsabilidade dos usuários de drogas. Renan classificou como "completamente desatualizado": o crime organizado nos anos 2020 é uma guerrilha com drones e bombas, não um modelo dependente da demanda. E citou: "Membros do crime organizado costumam passear pelos seus ministérios, Lula."
@@ -359,6 +367,7 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]] — Renan acusa Lula/PT de ser "amigo do crime organizado" e de não querer mudanças na lei penal
 - [[fontes/2026-07-09 - O Lula tá pto comigo]] — PGE aceita denúncia de Renan contra Lula; Lula anuncia Marina e Tebet para o Senado de SP sem carreira no estado
 - [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]] — Renan aponta contradição de Lula sobre saneamento; PT votou contra marco do saneamento
 - [[fontes/2026-06-18 - Lula conseguiu uma proeza!]] — Renan critica proposta de Lula para devolução de celulares roubados pelo correio; contrasta com 30 anos de prisão para assalto à mão armada

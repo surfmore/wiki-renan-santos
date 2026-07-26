@@ -13,6 +13,14 @@ Governador da Bahia pelo PT. Renan Santos o menciona como exemplo da **leniênci
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
 
+## Crime hediondo na Bahia: professora morta e dedos arrancados para saque (julho de 2026)
+
+Em **25 de julho de 2026**, Renan comenta um crime brutal ocorrido na Bahia: um bandido assassina uma professora, arranca seus dedos e usa a biometria para sacar o dinheiro da conta dela. Ele atribui o caso diretamente à leniência do governo Jerônimo: "A polícia não consegue trabalhar. Jerônimo também é fraco. Jerônimo tá pedindo que a Bahia ponteie todas as estatísticas de segurança pública. Ponteio no sentido de liderar o número de mortes."
+
+Renan critica a população baiana que "ainda apoia o Jerônimo" e "vota nos mesmos políticos que beneficiam e ajudam o crime se manter tão poderoso", descrevendo a situação como um ciclo de "compra e venda de voto" em que a população termina "com os dedos cortados, termina assaltada, termina assassinada".
+
+Ver [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]].
+
 ## Psicopata do Shopping Morumbi solto e visto em Salvador (julho de 2026)
 
 Em **11 de julho de 2026**, ao denunciar a soltura de Mateus da Costa Meira — autor do massacre no Shopping Morumbi em 1999 — Renan afirma que o psicopata foi visto frequentando um shopping em Salvador. Ele vincula o caso à omissão do governo da Bahia, afirmando que "a polícia é impedida de trabalhar porque o governador adora bandido" em referência a Jerônimo.
@@ -41,6 +49,7 @@ O segundo é o **domínio das facções sobre o território de Salvador**: mais 
 
 ## Fontes
 
+- [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]] — crime hediondo na Bahia: professora morta, dedos arrancados para saque; omissão do governo Jerônimo
 - [[fontes/2026-07-11 - Cuidado ao ir ao shopping]] — psicopata do Shopping Morumbi solto e visto em Salvador; omissão do governo da Bahia
 - [[fontes/2026-05-28 - Transformaram um presídio na Bahia em hotel de luxo!]] — presídio-hotel; relação entre crime e coligação de governo
 - [[fontes/2026-05-27 - Eu fui onde morreu um homem com 100 tiros]] — chacina do CV; responsabilização de Jerônimo

@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-25
+date: 2026-07-26
 ---
 
 <style>
@@ -98,7 +98,7 @@ date: 2026-07-25
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">760</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">761</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">30</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -114,7 +114,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">108 fontes</span></div><p class="wiki-card-desc">Em 23 de julho de 2026, Renan responde a Thomas Trauman (GloboNews) que o acusou de pré-ditatorial; defende que membro de facção abdica de direitos e que combate ao crime é função essencial do Estado.</p></a>
+<a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">109 fontes</span></div><p class="wiki-card-desc">Em 25 de julho de 2026, Renan comenta crime hediondo na Bahia onde bandido arranca dedos de professora morta para saque bancário; acusa PT de ser "amigo do crime organizado".</p></a>
 <a class="wiki-card" href="/temas/Cultura do Vitimismo e Litigância"><div class="wiki-card-header"><span class="wiki-card-icon">😤</span><span class="wiki-card-title">Cultura do Vitimismo e Litigância</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Em 15 de julho de 2026, Renan critica a cultura do vitimismo e denuncia o uso político do discurso vitimista pela esquerda como ferramenta de silenciamento.</p></a>
 <a class="wiki-card" href="/temas/Crítica à Direita Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">75 fontes</span></div><p class="wiki-card-desc">Em 24 de julho de 2026, Renan prevê que Flávio Bolsonaro fugirá dos debates, seguindo a recusa de Lula em debater.</p></a>
 <a class="wiki-card" href="/temas/Desigualdade Regional e Migração Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺</span><span class="wiki-card-title">Desigualdade Regional e Migração ...</span><span class="wiki-card-count">49 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan afirma que 40% dos homicídios no Nordeste estão recebendo Bolsa Família e classifica a situação como &quot;exploração do restante do Brasil&quot;.</p></a>
@@ -159,7 +159,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <p class="wiki-section-title">👤 Pessoas</p>
 <div class="wiki-grid">
 <a class="wiki-card" href="/pessoas/Flávio Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">57 fontes</span></div><p class="wiki-card-desc">Em 24 de julho de 2026, Renan prevê que Flávio Bolsonaro fugirá dos debates, seguindo a recusa de Lula em debater com Renan.</p></a>
-<a class="wiki-card" href="/pessoas/Lula"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Lula</span><span class="wiki-card-count">29 fontes</span></div><p class="wiki-card-desc">Quem é: Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal advers...</p></a>
+<a class="wiki-card" href="/pessoas/Lula"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Lula</span><span class="wiki-card-count">30 fontes</span></div><p class="wiki-card-desc">Quem é: Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal advers...</p></a>
 <a class="wiki-card" href="/pessoas/Kim Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">26 fontes</span></div><p class="wiki-card-desc">Deputado federal, cofundador do MBL e líder do Partido Missão no Congresso Nacional. Renan Santos o descreve recorrentemente como o parlamentar qu...</p></a>
 <a class="wiki-card" href="/pessoas/Alexandre de Moraes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Alexandre de Moraes</span><span class="wiki-card-count">20 fontes</span></div><p class="wiki-card-desc">Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como figura central do que ele chama de &quot;sabotagem institucional&quot; do STF e como...</p></a>
 <a class="wiki-card" href="/pessoas/Renan Santos"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Renan Santos</span><span class="wiki-card-count">17 fontes</span></div><p class="wiki-card-desc">Renan Santos é fundador do Movimento Brasil Livre (MBL), presidente do MBL e fundador do Partido Missão. É pré-candidato à presidência da Repú...</p></a>
@@ -186,7 +186,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/Alessandro Vieira"><div class="wiki-card-header"><span class="wiki-card-icon">🏛</span><span class="wiki-card-title">Alessandro Vieira</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Senador (Cidadania, SE). Renan Santos o apresenta como o parlamentar que mais avançou no enfrentamento ao STF no período coberto pelas fontes — propon...</p></a>
 <a class="wiki-card" href="/pessoas/Eduardo Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Eduardo Bolsonaro</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Quem é: Eduardo Bolsonaro, deputado federal pelo PL-SP, filho de Jair Bolsonaro e irmão de Flávio Bolsonaro. Renan Santos o menciona como figura q...</p></a>
 <a class="wiki-card" href="/pessoas/Deolane Bezerra"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Deolane Bezerra</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Deolane Bezerra é advogada e influenciadora digital, presa em 22 de maio de 2026 pelo Ministério Público de São Paulo sob acusação de lavage...</p></a>
-<a class="wiki-card" href="/pessoas/Jerônimo Rodrigues"><div class="wiki-card-header"><span class="wiki-card-icon">🚨</span><span class="wiki-card-title">Jerônimo Rodrigues</span><span class="wiki-card-count">5 fontes</span></div><p class="wiki-card-desc">Governador da Bahia pelo PT. Renan Santos o menciona como exemplo da leniência estrutural do PT com o crime organizado e como principal responsáve...</p></a>
+<a class="wiki-card" href="/pessoas/Jerônimo Rodrigues"><div class="wiki-card-header"><span class="wiki-card-icon">🚨</span><span class="wiki-card-title">Jerônimo Rodrigues</span><span class="wiki-card-count">6 fontes</span></div><p class="wiki-card-desc">Governador da Bahia pelo PT. Renan Santos o menciona como exemplo da leniência estrutural do PT com o crime organizado e como principal responsáve...</p></a>
 <a class="wiki-card" href="/pessoas/João Campos"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">João Campos</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Prefeito de Recife, filiado ao PSB. Filho de Eduardo Campos. Candidato cotado para o governo de Pernambuco. Renan Santos o cita como exemplo do que ch...</p></a>
 <a class="wiki-card" href="/pessoas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todas as 57 pessoas →</span></div><p class="wiki-card-desc">Flávio Bolsonaro, Lula, Kim Kataguiri, Daniel Vorcaro, Alexandre de Moraes, Neymar e mais.</p></a>
 </div>
@@ -221,6 +221,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]] — Renan comenta crime brutal na Bahia: bandido arranca dedos de professora morta para saque bancário; defende pena de morte e critica PT como "amigo do crime organizado".
 - [[fontes/2026-07-25 - FUI AMEAÇADO DE M0RTE!]] — Renan relata ameaça de morte por cantora de esquerda; propõe reforma nas leis de incentivo cultural.
 - [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]] — Renan desafia Lula e Flávio a defenderem o agro brasileiro após acusações dos EUA; propõe expulsar ONGs e usar terras raras contra Trump.
 - [[fontes/2026-07-24 - É oficial eles estão fugindo de mim!]] — Renan responde a Boulos e desafia Lula e Flávio ao debate; apresenta visão do "Brasil oposto ao Lulismo".

@@ -15,6 +15,18 @@ fontes:
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
 
+## Crime hediondo na Bahia: "Eu quero matar esse cara" e promessa de constituinte para pena de morte (julho de 2026)
+
+Em **25 de julho de 2026**, Renan comenta imagens de um crime brutal na Bahia: um bandido assassina uma professora, arranca seus dedos e usa a biometria para sacar dinheiro da conta dela. Ao falar sobre o criminoso, Renan declara: **"Eu quero matar esse cara e o governo federal deveria matar esse cara."**
+
+Ele argumenta que o sujeito "não deveria ter nenhum tipo de recuperação" — "é tão frio, é tão mal, tratou aquela pessoa como um pedaço de carne" — e que a única resposta possível é "tratá-lo como um pedaço de carne inútil, um ajuntamento de carbono que só tem que se desfragmentar". Afirma que o sistema prisional "não precisava gastar recursos alimentando ele inutilmente" e que "ele é uma vida que não deveria acontecer".
+
+Renan promete: se eleito presidente, convocará uma **assembleia constituinte** para permitir a pena de morte no Brasil. Justifica: "Porque existe gente que não merece viver. E a coisa mais cristã que a gente pode fazer é permitir que essa pessoa retorne. Retorne até o Senhor Jesus Cristo e ele ali faça o seu julgamento."
+
+> "Eu prometo me tornar presidente da República. Eu prometo destruir o crime organizado. E eu prometo, no momento certo, fazer uma constituinte permitindo pena de morte."
+
+Ver [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]].
+
 ## Resposta direta sobre padrasto que matou bebê de 10 meses: "Morte" (julho de 2026)
 
 Em **20 de julho de 2026**, questionado sobre qual punição daria a um padrasto que matou um bebê de 10 meses por asfixia, Renan responde: **"Morte"**. Ele descarta qualquer discussão socioeconômica, afirmando que o criminoso "tinha grana, tava no apartamento dele, decidiu por bem asfixiar um bebê de 10 meses" — não há justificativa, é "maldade pura e simples", "a presença da maldade no mundo". Renan afirma que "essa pessoa não deveria existir" e que "não existe recuperação para essa pessoa". Ele pondera que se pode discutir prisão perpétua como alternativa ("ele vai sofrer mais tempo lá"), mas não há outra opção.
