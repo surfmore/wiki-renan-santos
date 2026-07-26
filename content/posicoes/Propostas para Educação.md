@@ -4,8 +4,12 @@ tags:
   - posicao
   - educacao
   - meritocracia
-date: 2026-07-03
+  - escolas-civico-militares
+date: 2026-07-26
 fontes:
+  - "2026-07-26 - Sim, escola militar funciona!"
+  - "2026-07-22 - Como mudar a educação no Brasil"
+  - "2026-07-18 - Entro no detalhe em tudo"
   - "2026-07-10 - Papo com Balestrin sobre universidades públicas."
   - "2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos"
   - "2026-06-17 - A Inglaterra vai ganhar a Cop"
@@ -13,6 +17,18 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Visita à escola cívico-militar de Sorriso (MT): o modelo que quer replicar (julho de 2026)
+
+Em **26 de julho de 2026**, Renan visitou a Escola Arão Gomes Bezerra, em Sorriso (MT), uma escola pública estadual que opera no modelo cívico-militar. O vídeo documenta a qualidade da infraestrutura: salas com ar-condicionado, lousas modernas, equipamentos tecnológicos e limpeza exemplar — um padrão que Renan contrasta com a maioria das escolas públicas brasileiras.
+
+Renan entrevistou o gestor militar Dantas, que explicou a metodologia com alunos problemáticos: os estudantes passam por um "choque de realidade" ao ingressar, com nova rotina, hierarquia e regras claras. O princípio é que "a ordem que ele vai seguir aqui é a ordem que ele vai seguir lá fora" — preparando o aluno para a sociedade.
+
+Renan conecta o modelo ao problema da violência: "Todo mundo sabe que o problema da violência no Brasil surge do menino problemático que não tem uma referência masculina e acaba caindo na mão do tráfego." A escola cívico-militar, argumenta, compensa essa ausência com autoridade e disciplina.
+
+O vídeo apresenta dados comparativos entre a escola de Sorriso e escolas comuns. Renan conclui: "Vamos parar de imitar o que não funciona. Vamos tirar o funk das escolas e vamos trazer a bandeira brasileira e a autoridade." Ele afirma que a experiência do Mato Grosso é o modelo que quer replicar em todo o país.
+
+Ver [[fontes/2026-07-26 - Sim, escola militar funciona!]].
 
 ## Método fônico obrigatório, meritocracia e crítica aos sindicatos (julho de 2026)
 
@@ -165,6 +181,7 @@ Ver [[fontes/2026-05-20 - Condenados por homeschooling]].
 
 ## Fontes
 
+- [[fontes/2026-07-26 - Sim, escola militar funciona!]] — visita à escola cívico-militar em Sorriso (MT); defesa do modelo como política nacional
 - [[fontes/2026-07-10 - Papo com Balestrin sobre universidades públicas.]] — foco em STEM; reforma das universidades públicas; crítica ao excesso de advogados
 - [[fontes/2026-05-20 - Condenados por homeschooling]] — homeschooling; juiz ideológico; punições
 - [[fontes/2026-05-20 - Condenados por homeschooling]] — homeschooling; juiz ideológico Júnior da Luz Miranda; punições para juízes

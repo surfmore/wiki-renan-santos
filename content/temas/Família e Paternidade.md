@@ -10,6 +10,12 @@ date: 2026-03-05
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## Escola cívico-militar como substituto à ausência paterna (julho de 2026)
+
+Em **26 de julho de 2026**, Renan visita a escola cívico-militar de Sorriso (MT) e reafirma o argumento de que a ausência de referência masculina é a causa raiz da criminalidade juvenil: "Todo mundo sabe que o problema da violência no Brasil surge do menino problemático que não tem uma referência masculina e acaba caindo na mão do tráfego." Ele defende que o modelo militar escolar supre essa carência com disciplina, hierarquia e autoridade.
+
+Ver [[fontes/2026-07-26 - Sim, escola militar funciona!]] e [[posicoes/Propostas para Educação]].
+
 ## Ciclo de famílias desestruturadas e o "Brasil profundo" (julho de 2026)
 
 Em **15 de julho de 2026**, ao comentar um vídeo de três mulheres discutindo suas situações familiares, Renan afirma que a ausência da figura paterna — "duvido que tiveram a figura paterna presente na vida delas" — e a falta de famílias estruturadas explicam "quase todos os problemas brasileiros". Ele projeta que os filhos dessas mulheres reproduzirão comportamentos destrutivos: meninas repetirão o padrão das mães, meninos desenvolverão comportamentos antissociais e serão alvo fácil do crime organizado.

@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-07-26] ingest automático | Sim, escola militar funciona!
+- Fonte criada: fontes/2026-07-26 - Sim, escola militar funciona!
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: posicoes/Propostas para Educação (visita a Sorriso-MT e defesa do modelo cívico-militar), temas/Segurança Pública (conexão educação-violência e escolas como prevenção), temas/Família e Paternidade (escola como substituto à ausência paterna), index.md, log.md, wiki/.processed_ids
+- Nota: video_id fF73E8h-x7U. Renan visita escola cívico-militar em Sorriso (MT), apresenta dados comparativos e defende replicar o modelo em todo o Brasil; conecta ausência paterna à criminalidade.
+
 ## [2026-07-25] ingest automático | Mais um cr1me hediondo na Bahia
 - Fonte criada: fontes/2026-07-25 - Mais um cr1me hediondo na Bahia
 - Páginas atualizadas: temas/Segurança Pública (crime hediondo na Bahia; PT como "amigo do crime"), posicoes/Pena de Morte e Prisão Perpétua (promessa de constituinte para pena de morte), pessoas/Lula ("PT amigo do crime organizado"), pessoas/Jerônimo Rodrigues (crime na Bahia e omissão), index.md, log.md, wiki/.processed_ids

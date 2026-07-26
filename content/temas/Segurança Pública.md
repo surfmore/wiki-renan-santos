@@ -6,6 +6,12 @@ tags:
 date: 2026-07-21
 ---
 
+## Conexão entre educação e violência: escolas cívico-militares como prevenção (julho de 2026)
+
+Em **26 de julho de 2026**, ao visitar a Escola Arão Gomes Bezerra em Sorriso (MT), Renan reafirma a tese de que "o problema da violência no Brasil surge do menino problemático que não tem uma referência masculina e acaba caindo na mão do tráfego." Ele defende o modelo de escola cívico-militar como instrumento de prevenção à criminalidade — fornecendo disciplina, hierarquia e autoridade que compensam a ausência paterna. O vídeo apresenta dados comparativos que, segundo Renan, comprovam a eficácia do modelo.
+
+Ver [[fontes/2026-07-26 - Sim, escola militar funciona!]] e [[posicoes/Propostas para Educação]].
+
 ## Crime hediondo na Bahia: dedos arrancados para saque bancário (julho de 2026)
 
 Em **25 de julho de 2026**, Renan comenta imagens de um crime ocorrido na Bahia: um bandido assassina uma professora, arranca seus dedos e utiliza a biometria do banco para sacar o dinheiro da conta da vítima. Ele refuta a classificação de feminicídio adotada pela imprensa, afirmando que se trata de "mais um caso de violência brutal que acontece contra brasileiros, homens e mulheres, todos os dias no Brasil".
