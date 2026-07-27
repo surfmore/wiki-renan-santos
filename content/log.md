@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-07-27] ingest automático | Batch de 4 shorts (ICMBio Bonito, Ferrogrão, BR163, Antônio João)
+- Fontes criadas: fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito, fontes/2026-07-26 - Vamos tirar a ferrogrão do papel!, fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes, fontes/2026-07-27 - Você não conhecia esse herói
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Ambientalismo e Produtores Rurais (Bonito/ICMBio como caso de ecoturismo), temas/Soberania Nacional e ONGs Estrangeiras (Bonito + Ferrogrão/ONGs europeias), temas/Agronegócio e Matopiba (Ferrogrão em Sinop + Rafael Milas), temas/Ambição Nacional (Ferrogrão + heróis nacionais/Antônio João), temas/Desigualdade Regional (BR163 MT vs PA), temas/Segurança Pública (convocação guerra crime + medalha), pessoas/Família Barbalho (BR163 e crítica à gestão), eventos/COP30 (BR163 e superfaturamento), posicoes/Expulsão de ONGs Estrangeiras (investigação agentes), posicoes/Emendas Parlamentares Condicionadas a Metas (políticas de desempenho para governadores), posicoes/Propostas para Educação (reforma curricular heróis nacionais), posicoes/Estado de Defesa e Direito Penal do Inimigo (Medalha Antônio João Ribeiro), index.md, log.md, wiki/.processed_ids
+- Nota: 4 shorts ingeridos. Vídeo da Ferrogrão tem Rafael Milas (pré-candidato ao governo do MT) como co-apresentador — conteúdo dele não atribuído a Renan. Vídeo do Antônio João é narrativa histórica com proposta de medalha para soldados. Vídeo do ICMBio em Bonito conecta ecoturismo ao tema de ambientalismo e produtores rurais.
+
 ## [2026-07-26] ingest automático | Sim, escola militar funciona!
 - Fonte criada: fontes/2026-07-26 - Sim, escola militar funciona!
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)

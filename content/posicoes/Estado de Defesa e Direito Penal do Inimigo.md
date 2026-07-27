@@ -3,8 +3,16 @@ title: "Estado de Defesa e Direito Penal do Inimigo"
 tags:
   - posição
   - segurança
-date: 2026-07-21
+date: 2026-07-27
 ---
+
+## Medalha Antônio João Ribeiro para soldados mortos no combate ao crime (julho de 2026)
+
+Em **27 de julho de 2026**, ao contar a história do Tenente Antônio João Ribeiro (herói da Guerra do Paraguai), Renan propõe a criação de uma **medalha com seu nome** para homenagear os familiares dos soldados brasileiros que morrerem no combate ao crime organizado. A medalha simboliza a equiparação da "guerra contra o crime organizado" a uma guerra convencional, com o mesmo reconhecimento e honra aos combatentes mortos.
+
+A proposta se alinha ao [[posicoes/Estado de Defesa e Direito Penal do Inimigo|direito penal do inimigo]] e à caracterização do combate ao crime organizado como uma guerra, com soldados, baixas e condecorações.
+
+Ver [[fontes/2026-07-27 - Você não conhecia esse herói]] e [[temas/Segurança Pública]].
 
 ## Direito penal do inimigo para empresas que colaboram com o PCC (julho de 2026)
 

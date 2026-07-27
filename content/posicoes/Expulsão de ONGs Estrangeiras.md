@@ -8,6 +8,12 @@ date: 2026-04-12
 
 Renan Santos defende a **expulsão do Brasil de ONGs financiadas por governos e fundações estrangeiras** que, segundo ele, atuam para bloquear projetos brasileiros de infraestrutura e exploração de recursos naturais.
 
+## Investigação de agentes do ICMBio ligados a ONGs externas (julho de 2026)
+
+Em **26 de julho de 2026**, ao denunciar a ação do ICMBio em Bonito (MS), Renan afirma que seu governo vai "investigar todos os agentes que trabalham para ONGs externas e não em nome do interesse nacional". Ele acusa funcionários do ICMBio de serem "ligados ao PT ou ao PSOL" e de "quase sempre atender a causa de ONGs, ONGs quase sempre internacionais". A promessa complementa a proposta de expulsão de ONGs estrangeiras com uma vertente de investigação interna de agentes públicos que atuam em favor de interesses externos.
+
+Ver [[fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito]].
+
 ## Visita à tribo Pareci: autonomia indígena versus ONGs estrangeiras (julho de 2026)
 
 Em **24 de julho de 2026**, durante visita à tribo dos Pareci no Mato Grosso, Renan apresenta sua política indígena como extensão de sua posição contra ONGs estrangeiras. Ele defende que os indígenas que quiserem ser produtivos (exploração de recursos minerais, agropecuária) possam fazê-lo com financiamento e licenciamento — sem interferência de ONGs que os mantêm "na pobreza para que eles próprios vivam na riqueza."

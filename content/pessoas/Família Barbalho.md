@@ -5,8 +5,9 @@ tags:
   - oligarquia
   - pará
   - nordeste
-date: 2026-06-27
+date: 2026-07-27
 fontes:
+  - "2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes"
   - "2026-06-27 - Virei persona non grata em Belém!"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-20 - Efeito Renan Santos em Belém!"
@@ -17,6 +18,16 @@ fontes:
 Oligarquia política do Pará que, segundo Renan Santos, domina o estado há mais de um século — desde o período colonial. Renan usa a família como exemplo máximo de como uma dynasty política se perpetua mesmo produzindo indicadores sociais desastrosos.
 
 > Nota: esta página reproduz afirmações de Renan Santos sobre a família. Não constitui verificação independente.
+
+## BR-163 e o contraste com o Mato Grosso: a gestão Barbalho vista na estrada (julho de 2026)
+
+Em **27 de julho de 2026**, gravando na BR-163, Renan usa o contraste entre o trecho do Mato Grosso (duplicado e recapeado) e o do Pará (esburacado) para ilustrar o impacto da gestão da Família Barbalho. Ele afirma que, enquanto o Mato Grosso tem uma elite empreendedora oriunda do agronegócio, o Pará é controlado pela "velha família dos Barbalho" que mantém o estado "um dos mais pobres e dependentes do Brasil."
+
+Renan descreve a COP30, organizada por **Helder Barbalho** em Belém, como um evento "cheio de superfaturamento, em que ONGs sabotam o próprio Pará, se expõem e ganham dinheiro." Ele critica o governo federal do PT por se inspirar "no modelo do Pará, dos Barbalho" — estado que mais recebe dinheiro da União e um dos que mais expulsa sua população para migrar.
+
+> "O Brasil precisa ser mais Mato Grosso e menos Pará."
+
+Ver [[fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes]].
 
 ## Persona non grata em Belém: Renan reage à moção da Câmara (junho de 2026)
 

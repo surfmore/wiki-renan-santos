@@ -9,6 +9,12 @@ date: 2026-04-12
 
 Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura, exploração de recursos e agricultura no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
 
+## ICMBio em Bonito: ONGs internacionais e o lobby ambiental contra o ecoturismo (julho de 2026)
+
+Em **26 de julho de 2026**, Renan denuncia que o ICMBio está tentando criar uma reserva na região de Bonito (MS) e acusa o órgão de ser controlado por "ONGs quase sempre internacionais". Segundo ele, os funcionários do ICMBio "quase sempre atendem a causa de ONGs, ONGs quase sempre internacionais", e o objetivo real não é preservar, mas entregar as riquezas da região de Bonito para "lobby internacional" e "concessão sobre um parque que vai ser tocado por um contrato governamental através de algum amiguinho deles".
+
+Ver [[fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito]].
+
 ## ONGs estrangeiras sabotam o agro brasileiro, diz Renan (julho de 2026)
 
 Em **25 de julho de 2026**, após os EUA acusarem o agro brasileiro de desmatamento e trabalho forçado, Renan afirma que os americanos usam "o mesmo discurso das ONGs bancadas pelos Estados Unidos e pelos europeus." Ele propõe que seu governo expulse ONGs norte-americanas e europeias que "vêm aqui no Brasil sabotar a nossa agricultura com essas falsas narrativas."

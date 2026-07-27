@@ -5,8 +5,22 @@ tags:
   - agro
   - maranhão
   - nordeste
-date: 2026-06-22
+date: 2026-07-26
 ---
+
+## Ferrogrão: congestionamento em Sinop (MT) expõe gargalo logístico (julho de 2026)
+
+Em **26 de julho de 2026**, gravando no trevo de Sinop (MT), Renan mostra o congestionamento de caminhões onde a Ferrogrão deveria passar. Ele afirma que **100 milhões de toneladas** passam anualmente por aquela rodovia — sobrecarregando um sistema que deveria contar com transporte ferroviário.
+
+Renan aponta que o governo federal falha em garantir o básico: **segurança jurídica**, **energia elétrica barata** e **infraestrutura**. Ele propõe:
+- **Garantir segurança jurídica** para destravar obras;
+- **Expulsar ONGs estrangeiras** que sabotam o desenvolvimento;
+- **Reduzir o poder do Ministério Público** em travar obras — "tentando travar Ferrogrão agora com uma tribo indígena a centenas de quilômetros da ferrovia";
+- **Reforma radical na despesa pública** para liberar investimento e reduzir juros.
+
+O vídeo tem participação de **Rafael Milas** (pré-candidato ao governo do MT pelo Missão), que contextualiza que Mato Grosso tem apenas 300 km de ferrovia contra 70 mil km da França e Alemanha.
+
+Ver [[fontes/2026-07-26 - Vamos tirar a ferrogrão do papel!]].
 
 ## Renan desafia Lula e Flávio a defenderem o agro após acusações dos EUA (julho de 2026)
 

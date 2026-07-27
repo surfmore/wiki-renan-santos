@@ -5,8 +5,9 @@ tags:
   - nordeste
   - maranhão
   - desigualdade
-date: 2026-07-02
+date: 2026-07-27
 fontes:
+  - "2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes"
   - "2026-07-08 - Resposta para Vera Magalhães"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-07-01 - Estou sendo cancelado!"
@@ -23,6 +24,18 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## BR-163: o contraste entre Mato Grosso e Pará como síntese do problema brasileiro (julho de 2026)
+
+Em **27 de julho de 2026**, Renan grava na **BR-163**, rodovia que conecta o Mato Grosso a Santarém (PA), para mostrar em imagens a diferença de gestão entre dois estados. Do lado do Mato Grosso, a estrada está duplicada e recapeada; do lado do Pará, é esburacada e intransitável.
+
+Renan atribui o contraste à qualidade da **elite política** de cada estado. No Mato Grosso, a elite é oriunda do agronegócio e tem "espírito empreendedor" — o governador **Mauro Mendes** estadualizou a BR e a recuperou por conta própria. No Pará, a [[pessoas/Família Barbalho]] controla o estado há décadas, mantendo-o entre os mais pobres e dependentes do Brasil. Renan afirma que o Pará é "o estado que mais recebe dinheiro da União e um dos que mais expulsa sua população para migrar, especialmente para o Mato Grosso."
+
+> "O Brasil precisa ser mais Mato Grosso e menos Pará."
+
+Ele propõe que seu governo aplique **políticas de desempenho** para prefeitos e governadores, e convoca a população a parar de votar em "oligarca vagabundo e corrupto que luta contra a atividade produtiva e mantém as pessoas na pobreza."
+
+Ver [[fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes]] e [[posicoes/Emendas Parlamentares Condicionadas a Metas]].
 
 ## Resposta a Vera Magalhães: pacto federativo com contrapartidas (julho de 2026)
 

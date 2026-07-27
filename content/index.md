@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-26
+date: 2026-07-27
 ---
 
 <style>
@@ -98,7 +98,7 @@ date: 2026-07-26
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">762</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">766</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">30</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -221,6 +221,10 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-27 - Você não conhecia esse herói]] — Renan conta a história do Tenente Antônio João Ribeiro (Guerra do Paraguai) e propõe medalha para soldados mortos no combate ao crime organizado.
+- [[fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes]] — Renan compara BR-163 no MT (duplicada) vs. Pará (esburacada); critica Barbalhos e propõe políticas de desempenho para governadores.
+- [[fontes/2026-07-26 - Vamos tirar a ferrogrão do papel!]] — Renan mostra congestionamento em Sinop (MT); propõe segurança jurídica e expulsão de ONGs para destravar Ferrogrão.
+- [[fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito]] — Renan denuncia ICMBio por criar reserva que ameaça ecoturismo em Bonito (MS); promete brecar ações predatórias.
 - [[fontes/2026-07-26 - Sim, escola militar funciona!]] — Renan visita escola cívico-militar em Sorriso (MT), apresenta dados comparativos e defende o modelo como política nacional de educação.
 - [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]] — Renan comenta crime brutal na Bahia: bandido arranca dedos de professora morta para saque bancário; defende pena de morte e critica PT como "amigo do crime organizado".
 - [[fontes/2026-07-25 - FUI AMEAÇADO DE M0RTE!]] — Renan relata ameaça de morte por cantora de esquerda; propõe reforma nas leis de incentivo cultural.

@@ -5,13 +5,31 @@ tags:
   - ambientalismo
   - agro
   - amazonia
-date: 2026-06-29
+  - icmbio
+date: 2026-07-26
 fontes:
+  - "2026-07-26 - O ICMBio quer destruir o turismo em Bonito"
   - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
   - "2026-06-25 - Você é a favor da caça de Javaporcos"
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR"
 ---
+
+## Denúncia contra o ICMBio em Bonito (MS): ameaça ao ecoturismo (julho de 2026)
+
+Em **26 de julho de 2026**, gravando em Bonito (MS), Renan denuncia uma nova ação do **ICMBio** que pretende transformar uma área entre Bonito, Bodoquena e Miranda em reserva, retirando fazendeiros e pequenos produtores da região. Diferentemente das denúncias anteriores no Pará — que envolviam agricultores e gado —, neste caso o impacto principal recai sobre o **ecoturismo**.
+
+Renan afirma que 40% da arrecadação de Bonito vem do ecoturismo e que a cidade de 28 mil habitantes é economicamente viável — "diferente da maior parte das cidades pequenas do Brasil". Segundo ele, criar a reserva faria o mercado "desistir" e milhares de empregos desapareceriam.
+
+O vídeo mostra produtores rurais de Bodoquena invadindo a Câmara Municipal para protestar contra o projeto.
+
+Renan acusa o ICMBio de ser o "órgão mais ideológico" entre os órgãos nacionais, com funcionários ligados ao PT ou PSOL que atendem a causas de ONGs internacionais. Ele argumenta que o objetivo real não é proteger indígenas, mas entregar riquezas para lobby internacional obter concessões de parques.
+
+> "O meu governo vai brecar absolutamente tudo que o ICMBio tiver fazendo que seja predatório."
+
+**Promessas para Bonito:** brecar ações predatórias do ICMBio, investigar agentes que trabalham para ONGs externas e respeitar cidades que funcionam economicamente.
+
+Ver [[fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito]].
 
 ## Caso Eldorado do Sul (RS): data center bilionário bloqueado por grupos indígenas (junho de 2026)
 

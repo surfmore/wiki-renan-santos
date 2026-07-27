@@ -6,6 +6,14 @@ tags:
 date: 2026-07-21
 ---
 
+## Convocação para a "guerra contra o crime organizado" e homenagem a soldados (julho de 2026)
+
+Em **27 de julho de 2026**, ao final de um vídeo sobre o herói da Guerra do Paraguai Tenente Antônio João Ribeiro, Renan faz uma convocação direta: "Te convoco para participar de uma próxima guerra, a guerra contra o crime organizado, em que novos homens e novos heróis vão surgir."
+
+Ele anuncia a criação da **Medalha Antônio João Ribeiro**, que será concedida aos familiares dos soldados brasileiros que perecerem no combate ao crime organizado. A proposta conecta o tema de segurança pública à valorização dos profissionais de segurança e à construção de uma narrativa patriótica em torno do combate ao crime.
+
+Ver [[fontes/2026-07-27 - Você não conhecia esse herói]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+
 ## Conexão entre educação e violência: escolas cívico-militares como prevenção (julho de 2026)
 
 Em **26 de julho de 2026**, ao visitar a Escola Arão Gomes Bezerra em Sorriso (MT), Renan reafirma a tese de que "o problema da violência no Brasil surge do menino problemático que não tem uma referência masculina e acaba caindo na mão do tráfego." Ele defende o modelo de escola cívico-militar como instrumento de prevenção à criminalidade — fornecendo disciplina, hierarquia e autoridade que compensam a ausência paterna. O vídeo apresenta dados comparativos que, segundo Renan, comprovam a eficácia do modelo.

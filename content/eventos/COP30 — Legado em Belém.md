@@ -22,6 +22,12 @@ A **COP30** foi realizada em **Belém (PA)** em novembro de 2025, com custo decl
 
 > Nota: esta página reproduz as críticas de Renan Santos sobre o evento. Não constitui avaliação independente.
 
+## BR-163 e COP30: o contraste entre a propaganda e a realidade (julho de 2026)
+
+Em **27 de julho de 2026**, ao comparar a BR-163 no Mato Grosso (duplicada) com a do Pará (esburacada), Renan critica a COP30 como um evento "cheio de superfaturamento, em que ONGs sabotam o próprio Pará, se expõem e ganham dinheiro, enquanto [Helder Barbalho] e essas ONGs sabotam a atividade produtiva no estado." Para Renan, a COP30 serviu como vitrine internacional para a Família Barbalho e ONGs aliadas, enquanto a infraestrutura básica do estado — como a BR-163 — permanece abandonada.
+
+Ver [[fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes]].
+
 ## Lula e a COP30: acusação de enriquecimento dos Barbalhos (julho de 2026)
 
 Em **4 de julho de 2026**, durante seu preparativo para debate eleitoral, Renan acusa o governador do Pará [[pessoas/Família Barbalho|Hélder Barbalho]] (aliado de Lula) de ter se apropriado da COP30 para enriquecer, enquanto o estado permanece com o pior saneamento básico do Brasil. Para Renan, o caso exemplifica a contradição de Lula: seu aliado enriquece com o evento internacional, mas a população do Pará continua bebendo o próprio esgoto.

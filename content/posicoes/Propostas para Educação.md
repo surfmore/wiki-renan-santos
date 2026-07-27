@@ -5,8 +5,9 @@ tags:
   - educacao
   - meritocracia
   - escolas-civico-militares
-date: 2026-07-26
+date: 2026-07-27
 fontes:
+  - "2026-07-27 - Você não conhecia esse herói"
   - "2026-07-26 - Sim, escola militar funciona!"
   - "2026-07-22 - Como mudar a educação no Brasil"
   - "2026-07-18 - Entro no detalhe em tudo"
@@ -17,6 +18,14 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Reforma curricular: ensino de heróis nacionais (julho de 2026)
+
+Em **27 de julho de 2026**, ao contar a história do Tenente Antônio João Ribeiro — herói da Guerra do Paraguai — Renan critica o ensino de história no Brasil, afirmando que professores "estão mais interessados em mentir sobre o conflito" e romantizar o Paraguai como vítima do que em contar feitos de heróis brasileiros. Ele promete que, como presidente, vai **"fazer as crianças brasileiras conhecerem essas histórias"**, indicando uma proposta de reforma curricular para incluir o ensino de heróis nacionais na educação básica.
+
+A proposta complementa sua visão de educação como instrumento de identidade nacional e patriotismo.
+
+Ver [[fontes/2026-07-27 - Você não conhecia esse herói]].
 
 ## Visita à escola cívico-militar de Sorriso (MT): o modelo que quer replicar (julho de 2026)
 

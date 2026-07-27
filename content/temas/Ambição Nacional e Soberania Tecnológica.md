@@ -8,6 +8,28 @@ tags:
 date: 2026-07-03
 ---
 
+## Resgate de heróis nacionais: Tenente Antônio João Ribeiro e a Guerra do Paraguai (julho de 2026)
+
+Em **27 de julho de 2026**, Renan conta a história do **Tenente Antônio João Ribeiro**, herói da Guerra do Paraguai que com apenas 14 soldados resistiu a 3.500 paraguaios em Ponta Porã (MS). Renan critica a narrativa histórica dominante que romantiza o Paraguai como "vítima da Inglaterra" e defende que o Brasil precisa resgatar seus heróis nacionais.
+
+Ele propõe, como presidente:
+- **Reforma curricular** para que crianças brasileiras conheçam esses heróis;
+- **Criação da Medalha Antônio João Ribeiro**, concedida aos familiares dos soldados que morrerem no combate ao crime organizado.
+
+A proposta se alinha ao tema mais amplo de identidade nacional e resgate da autoestima patriótica — o "Brasil que compete globalmente" e que precisa conhecer sua própria história de bravura.
+
+Ver [[fontes/2026-07-27 - Você não conhecia esse herói]].
+
+## Ferrogrão: infraestrutura ferroviária como base do desenvolvimento (julho de 2026)
+
+Em **26 de julho de 2026**, no trevo de Sinop (MT), Renan denuncia o apagão logístico que sufoca o escoamento da produção agrícola. Ele aponta que o governo federal deveria garantir três condições básicas para o desenvolvimento: **segurança jurídica**, **energia elétrica barata** e **infraestrutura** — e falha em todas.
+
+Renan propõe uma **reforma radical na despesa pública** para liberar investimento em infraestrutura, reduzir juros e atrair capital privado. Ele menciona que a tecnologia ferroviária existe desde o século XIX, mas o Brasil não consegue implementá-la por entraves políticos e jurídicos.
+
+O vídeo é gravado no trevo de Sinop (MT), onde a Ferrogrão deveria passar, e mostra o contraste entre o potencial produtivo do estado e a precariedade da infraestrutura de escoamento.
+
+Ver [[fontes/2026-07-26 - Vamos tirar a ferrogrão do papel!]].
+
 ## Lucas do Rio Verde: modelo de industrialização do agro a ser replicado (julho de 2026)
 
 Em **24 de julho de 2026**, Renan visita Lucas do Rio Verde (MT) e documenta um modelo de integração agroindustrial que considera exemplar. A cidade, fundada em 1988, transformou a produção primária em cadeia completa: milho vira etanol, soja vira óleo e biodiesel, e o farelo serve de ração para aves e suínos. O prefeito local explica o segredo: "só ficar da produção primária não era o suficiente."
