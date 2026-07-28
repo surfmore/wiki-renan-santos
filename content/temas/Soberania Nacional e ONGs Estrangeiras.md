@@ -7,6 +7,12 @@ tags:
 date: 2026-04-12
 ---
 
+## COP30: ONGs internacionais focaram em financiamento, não em medidas ambientais práticas (julho de 2026)
+
+Em **27 de julho de 2026**, gravando em Mato Grosso do Sul, Renan critica as ONGs internacionais que participaram da COP30 em Belém, dizendo que elas "sabotam o agro" e focaram em conseguir dinheiro do governo federal em vez de discutir medidas práticas para proteger a fauna silvestre. Ele contrasta a postura dessas ONGs com soluções concretas e de baixo custo que propõe, como túneis subterrâneos para animais e sinalização em rodovias.
+
+Ver [[fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano]].
+
 Renan Santos tem entre seus temas mais enfáticos a denúncia do que chama de "interferência estrangeira" em projetos de infraestrutura, exploração de recursos e agricultura no Brasil, operada por ONGs financiadas por governos e fundações internacionais.
 
 ## ICMBio em Bonito: ONGs internacionais e o lobby ambiental contra o ecoturismo (julho de 2026)

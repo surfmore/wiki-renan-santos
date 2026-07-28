@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-27
+date: 2026-07-28
 ---
 
 <style>
@@ -98,8 +98,8 @@ date: 2026-07-27
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">766</span><span class="label">Fontes</span></a>
-<a class="wiki-stat" href="/temas"><span class="num">28</span><span class="label">Temas</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">767</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/temas"><span class="num">29</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">30</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
 <a class="wiki-stat" href="/eventos"><span class="num">13</span><span class="label">Eventos</span></a>
@@ -114,6 +114,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/temas/Fauna Silvestre e Causa Animal"><div class="wiki-card-header"><span class="wiki-card-icon">🐾</span><span class="wiki-card-title">Fauna Silvestre e Causa Animal</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Em 27 de julho de 2026, Renan denuncia atropelamento de fauna silvestre em MS e propõe túneis subterrâneos, sinalização e ferrovias como soluções práticas e de baixo custo.</p></a>
 <a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">109 fontes</span></div><p class="wiki-card-desc">Em 25 de julho de 2026, Renan comenta crime hediondo na Bahia onde bandido arranca dedos de professora morta para saque bancário; acusa PT de ser "amigo do crime organizado".</p></a>
 <a class="wiki-card" href="/temas/Cultura do Vitimismo e Litigância"><div class="wiki-card-header"><span class="wiki-card-icon">😤</span><span class="wiki-card-title">Cultura do Vitimismo e Litigância</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Em 15 de julho de 2026, Renan critica a cultura do vitimismo e denuncia o uso político do discurso vitimista pela esquerda como ferramenta de silenciamento.</p></a>
 <a class="wiki-card" href="/temas/Crítica à Direita Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">75 fontes</span></div><p class="wiki-card-desc">Em 24 de julho de 2026, Renan prevê que Flávio Bolsonaro fugirá dos debates, seguindo a recusa de Lula em debater.</p></a>
@@ -131,7 +132,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Carga Tributária"><div class="wiki-card-header"><span class="wiki-card-icon">💸</span><span class="wiki-card-title">Carga Tributária</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan detalha sua PEC de reforma fiscal: nova reforma da previdência, corte em renúncias fiscais e fim dos supersalários, estimada em R$ 3,3 trilhões.</p></a>
 <a class="wiki-card" href="/temas/Soberania Nacional e ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Soberania Nacional e ONGs Estrang...</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Em 24 de julho de 2026, Renan visita a tribo Pareci (MT) e denuncia ONGs estrangeiras que sabotam o desenvolvimento produtivo dos indígenas.</p></a>
 <a class="wiki-card" href="/temas/Infraestrutura e Estradas no Maranhão"><div class="wiki-card-header"><span class="wiki-card-icon">🛣</span><span class="wiki-card-title">Infraestrutura e Estradas no Mara...</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Em abril de 2026, Renan Santos está percorrendo o estado do Maranhão de carro como parte de sua pré-campanha presidencial. Os vídeos gravados durante ...</p></a>
-<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 28 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
+<a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 29 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
 
 <p class="wiki-section-title">📋 Posições e Propostas</p>
@@ -221,6 +222,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano]] — Renan denuncia atropelamento de fauna silvestre em MS e propõe túneis, sinalização e ferrovias como soluções práticas.
 - [[fontes/2026-07-27 - Você não conhecia esse herói]] — Renan conta a história do Tenente Antônio João Ribeiro (Guerra do Paraguai) e propõe medalha para soldados mortos no combate ao crime organizado.
 - [[fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes]] — Renan compara BR-163 no MT (duplicada) vs. Pará (esburacada); critica Barbalhos e propõe políticas de desempenho para governadores.
 - [[fontes/2026-07-26 - Vamos tirar a ferrogrão do papel!]] — Renan mostra congestionamento em Sinop (MT); propõe segurança jurídica e expulsão de ONGs para destravar Ferrogrão.

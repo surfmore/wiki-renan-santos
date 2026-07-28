@@ -8,6 +8,7 @@ tags:
   - desigualdade
 date: 2026-06-21
 fontes:
+  - "2026-07-27 - Quantos animais você acha que morrem nas estradas por ano"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
   - "2026-06-16 - Eu fui no maior aquífero do mundo"
@@ -17,6 +18,12 @@ fontes:
   - "2025-11-21 - MULHER CONTA COMO É A REALIDADE EM BELÉM"
   - "2025-12-04 - O legado da COP30"
 ---
+
+## COP30: ONGs focaram em financiamento em vez de medidas ambientais práticas (julho de 2026)
+
+Em **27 de julho de 2026**, ao falar sobre atropelamento de fauna silvestre em Mato Grosso do Sul, Renan relembra a COP30 e critica o foco das ONGs internacionais em conseguir dinheiro do governo federal, enquanto pouco se discutiu sobre medidas práticas para proteger a fauna brasileira. Ele propõe túneis subterrâneos, sinalização e ferrovias como alternativas concretas e baratas que a COP30 deveria ter abordado.
+
+Ver [[fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano]].
 
 A **COP30** foi realizada em **Belém (PA)** em novembro de 2025, com custo declarado por Renan de mais de **R$ 4 bilhões** pagos pelo Brasil. Renan Santos usa o balanço do evento como símbolo de governo populista que usa o dinheiro público para propaganda enquanto a população local vive na miséria.
 

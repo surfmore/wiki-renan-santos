@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-07-27] ingest automático | Quantos animais você acha que morrem nas estradas por ano
+- Fonte criada: fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano
+- Páginas criadas: temas/Fauna Silvestre e Causa Animal (atropelamento de fauna e soluções práticas)
+- Páginas atualizadas: temas/Ambientalismo e Produtores Rurais (COP30 e ONGs), temas/Soberania Nacional e ONGs Estrangeiras (ONGs na COP30 focando em dinheiro), eventos/COP30 (falta de medidas práticas), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 3-AlMP0GL3w. Renan denuncia mortes de onças-pintadas por atropelamento em MS; propõe túneis subterrâneos, sinalização e ferrovias; vídeo tem fala de vereadora de SP (não identificada) sobre telamento da Marginal Pinheiros.
+
 ## [2026-07-27] ingest automático | Batch de 4 shorts (ICMBio Bonito, Ferrogrão, BR163, Antônio João)
 - Fontes criadas: fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito, fontes/2026-07-26 - Vamos tirar a ferrogrão do papel!, fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes, fontes/2026-07-27 - Você não conhecia esse herói
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)

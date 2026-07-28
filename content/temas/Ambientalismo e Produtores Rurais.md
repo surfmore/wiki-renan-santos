@@ -8,12 +8,19 @@ tags:
   - icmbio
 date: 2026-07-26
 fontes:
+  - "2026-07-27 - Quantos animais você acha que morrem nas estradas por ano"
   - "2026-07-26 - O ICMBio quer destruir o turismo em Bonito"
   - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
   - "2026-06-25 - Você é a favor da caça de Javaporcos"
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR"
 ---
+
+## COP30: ONGs focaram em financiamento em vez de medidas práticas para a fauna (julho de 2026)
+
+Em **27 de julho de 2026**, gravando em Mato Grosso do Sul, Renan critica a COP30 dizendo que ONGs internacionais que "sabotam o agro" focaram em conseguir dinheiro do governo federal, enquanto pouco se discutiu sobre medidas práticas, simples e baratas para resolver o atropelamento da fauna silvestre nas estradas. Ele propõe túneis subterrâneos, sinalização e investimento em ferrovias como soluções concretas que o poder público poderia implementar.
+
+Ver [[fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano]].
 
 ## Denúncia contra o ICMBio em Bonito (MS): ameaça ao ecoturismo (julho de 2026)
 
