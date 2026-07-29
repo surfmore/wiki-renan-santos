@@ -4,8 +4,30 @@ tags:
   - tema
   - soberania
   - agro
-date: 2026-04-12
+date: 2026-07-29
 ---
+
+## Mensagem internacional: indígenas querem produzir, não ser "bons selvagens" (julho de 2026)
+
+Em **27 de julho de 2026**, em vídeo gravado em inglês para uma audiência internacional, Renan Santos se dirige diretamente a figuras como **Leonardo DiCaprio**, **Greta Thunberg** e **Marina Silva** para criticar a visão de que os indígenas brasileiros devem permanecer "no Neolítico" como objetos de contemplação do primeiro mundo.
+
+Renan afirma que os indígenas brasileiros querem preservar suas tradições mas também cooperar com o mundo moderno e ganhar dinheiro. Cita o exemplo de um líder indígena empreendedor que possui maquinário pesado mas é impedido pelo governo e ONGs de usar variedades modernas de milho.
+
+> "Fique preso ao Neolítico. Seja uma espécie de objeto de culto, para que nós, do mundo desenvolvido, possamos olhar para você e dizer: 'Vejam, nós preservamos as culturas deles'."
+
+O vídeo conclui com promessa de expulsar ONGs estrangeiras que sabotam o trabalho dos indígenas, e um aviso a estrangeiros que queiram usar os indígenas contra o Brasil: "Eu sou o inimigo de vocês."
+
+Ver [[fontes/2026-07-27 - Leonardo DiCaprio, Greta Thunberg and Marina Silva wont like this native brazilian.]].
+
+## Pantanal: ONGs estrangeiras miram pequenos pecuaristas (julho de 2026)
+
+Em **29 de julho de 2026**, gravando no Pantanal (rio Salobra, MS), Renan denuncia que ONGs estrangeiras estão levando para o Pantanal o mesmo padrão de conflito já documentado no Pará. Ele alega que organizações com "suposto interesse ambiental" estão exigindo "manejo ambiental" da região, criando risco jurídico para pequenos produtores de gado que estão na área há décadas.
+
+Renan conecta o caso ao episódio anterior com Richard Rasmussen e o ICMBio no Pará, classificando a atuação como sabotagem financiada por dinheiro estrangeiro. Reitera a promessa de expulsão: "Tentou sabotar a gente, entrou dinheiro gringo para impedir o funcionamento não só da nossa agricultura, não só da nossa pecuária [...] Essa ONG vai ter que fazer isso no próprio país."
+
+> "Brasil não é quintal de gringo. Brasil não é lugar em que gringo manda e a gente obedece. Somos soberanos do nosso próprio destino."
+
+Ver [[fontes/2026-07-29 - Larguei tudo]].
 
 ## COP30: ONGs internacionais focaram em financiamento, não em medidas ambientais práticas (julho de 2026)
 
@@ -134,6 +156,14 @@ Ver [[fontes/2026-02-10 - Atenção - o celular que vai derrubar a república es
 
 ## Fontes
 
+- [[fontes/2026-07-29 - Larguei tudo]]
+- [[fontes/2026-07-27 - Leonardo DiCaprio, Greta Thunberg and Marina Silva wont like this native brazilian.]]
+- [[fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano]]
+- [[fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito]]
+- [[fontes/2026-07-26 - Vamos tirar a ferrogrão do papel!]]
+- [[fontes/2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro.]]
+- [[fontes/2026-07-24 - Você entendeu o que ele falou]]
+- [[fontes/2026-06-22 - Resposta aos índios do PSOL]]
 - [[fontes/2026-06-17 - Índios vagabundos estão sabotando o país]]
 - [[fontes/2026-04-12 - Por que o PSOL é contra a ferrogrão]]
 - [[fontes/2026-04-07 - A ferrogrão está sendo sabotada]]

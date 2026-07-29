@@ -6,8 +6,9 @@ tags:
   - agro
   - amazonia
   - icmbio
-date: 2026-07-26
+date: 2026-07-29
 fontes:
+  - "2026-07-29 - Larguei tudo"
   - "2026-07-27 - Quantos animais você acha que morrem nas estradas por ano"
   - "2026-07-26 - O ICMBio quer destruir o turismo em Bonito"
   - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
@@ -15,6 +16,18 @@ fontes:
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR"
 ---
+
+## Pantanal: ONGs e "manejo ambiental" ameaçam pequenos pecuaristas (julho de 2026)
+
+Em **29 de julho de 2026**, gravando no Pantanal (rio Salobra, MS), Renan denuncia que ONGs estrangeiras e nacionais estão iniciando no Pantanal o mesmo padrão de conflito que já ocorre no Pará. Segundo ele, ONGs com "suposto interesse ambiental" alegam que a região precisa de "manejo ambiental", o que cria riscos jurídicos para pequenos produtores de gado que ocupam a área há décadas.
+
+Renan conecta o caso ao episódio anterior envolvendo **Richard Rasmussen** e o ICMBio no Pará, afirmando que o mesmo modus operandi está se repetindo. Ele classifica a atuação como sabotagem da agricultura e pecuária brasileira financiada por dinheiro estrangeiro.
+
+> "ONGs com suposto interesse ambiental, que não ligam pra questão do Pantanal, muito menos pra questão amazônica, mas que ligam na prática por sabotar a agricultura brasileira."
+
+O vídeo reforça a promessa de expulsar ONGs que sabotem o Brasil. "Meu governo vai ser muito claro sobre isso. Tentou sabotar a gente, entrou dinheiro gringo para impedir o funcionamento não só da nossa agricultura, não só da nossa pecuária [...] Essa ONG vai ter que fazer isso no próprio país."
+
+Ver [[fontes/2026-07-29 - Larguei tudo]].
 
 ## COP30: ONGs focaram em financiamento em vez de medidas práticas para a fauna (julho de 2026)
 

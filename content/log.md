@@ -1,5 +1,17 @@
 # Log de operações
 
+## [2026-07-29] ingest automático | Larguei tudo
+- Fonte criada: fontes/2026-07-29 - Larguei tudo
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Soberania Nacional e ONGs Estrangeiras (Pantanal/ONGs contra pecuaristas), temas/Ambientalismo e Produtores Rurais (Pantanal/manejo ambiental), posicoes/Expulsão de ONGs Estrangeiras (Pantanal/reiteração), index.md, log.md, wiki/.processed_ids
+- Nota: video_id rFuiiEMjTMY. Vídeo gravado no Pantanal (rio Salobra, MS). Renan denuncia ONGs estrangeiras repetindo no Pantanal o mesmo padrão de sabotagem contra pequenos produtores que já ocorre no Pará.
+
+## [2026-07-29] ingest automático | Leonardo DiCaprio, Greta Thunberg and Marina Silva wont like this native brazilian.
+- Fonte criada: fontes/2026-07-27 - Leonardo DiCaprio, Greta Thunberg and Marina Silva wont like this native brazilian.
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Soberania Nacional e ONGs Estrangeiras (mensagem internacional sobre autonomia indígena), posicoes/Expulsão de ONGs Estrangeiras (promessa de expulsão em contexto internacional), index.md, log.md, wiki/.processed_ids
+- Nota: video_id UWhcMc05MTw. Vídeo em inglês dirigido a público internacional. Renan critica Leonardo DiCaprio, Greta Thunberg e Marina Silva por tratarem indígenas como "bons selvagens" e promete expulsar ONGs estrangeiras.
+
 ## [2026-07-27] ingest automático | Quantos animais você acha que morrem nas estradas por ano
 - Fonte criada: fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano
 - Páginas criadas: temas/Fauna Silvestre e Causa Animal (atropelamento de fauna e soluções práticas)

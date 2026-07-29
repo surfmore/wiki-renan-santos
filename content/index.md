@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-07-28
+date: 2026-07-29
 ---
 
 <style>
@@ -98,7 +98,7 @@ date: 2026-07-28
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">767</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">769</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">29</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">30</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">57</span><span class="label">Pessoas</span></a>
@@ -130,7 +130,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/temas/Agronegócio e Matopiba"><div class="wiki-card-header"><span class="wiki-card-icon">🌾</span><span class="wiki-card-title">Agronegócio e Matopiba</span><span class="wiki-card-count">16 fontes</span></div><p class="wiki-card-desc">Em 24 de julho de 2026, Renan visita Lucas do Rio Verde (MT) e mostra a integração agroindustrial local — milho vira etanol, soja vira biodiesel — como modelo a ser replicado.</p></a>
 <a class="wiki-card" href="/temas/Política Externa e Geopolítica"><div class="wiki-card-header"><span class="wiki-card-icon">🌍</span><span class="wiki-card-title">Política Externa e Geopolítica</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e...</p></a>
 <a class="wiki-card" href="/temas/Carga Tributária"><div class="wiki-card-header"><span class="wiki-card-icon">💸</span><span class="wiki-card-title">Carga Tributária</span><span class="wiki-card-count">14 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan detalha sua PEC de reforma fiscal: nova reforma da previdência, corte em renúncias fiscais e fim dos supersalários, estimada em R$ 3,3 trilhões.</p></a>
-<a class="wiki-card" href="/temas/Soberania Nacional e ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Soberania Nacional e ONGs Estrang...</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Em 24 de julho de 2026, Renan visita a tribo Pareci (MT) e denuncia ONGs estrangeiras que sabotam o desenvolvimento produtivo dos indígenas.</p></a>
+<a class="wiki-card" href="/temas/Soberania Nacional e ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Soberania Nacional e ONGs Estrang...</span><span class="wiki-card-count">13 fontes</span></div><p class="wiki-card-desc">Em 29 de julho de 2026, Renan denuncia ONGs estrangeiras no Pantanal contra pequenos pecuaristas; afirma que "Brasil não é quintal de gringo".</p></a>
 <a class="wiki-card" href="/temas/Infraestrutura e Estradas no Maranhão"><div class="wiki-card-header"><span class="wiki-card-icon">🛣</span><span class="wiki-card-title">Infraestrutura e Estradas no Mara...</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Em abril de 2026, Renan Santos está percorrendo o estado do Maranhão de carro como parte de sua pré-campanha presidencial. Os vídeos gravados durante ...</p></a>
 <a class="wiki-card" href="/temas"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 29 temas →</span></div><p class="wiki-card-desc">Pautas identitárias, política externa, liberdade religiosa, carga tributária, família, imigração, programa nuclear e mais.</p></a>
 </div>
@@ -142,7 +142,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/posicoes/Intervenção Federal em Estados com Baixo IDH"><div class="wiki-card-header"><span class="wiki-card-icon">🏳</span><span class="wiki-card-title">Intervenção Federal em Estados co...</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países african...</p></a>
 <a class="wiki-card" href="/posicoes/Emendas Parlamentares Condicionadas a Metas"><div class="wiki-card-header"><span class="wiki-card-icon">📊</span><span class="wiki-card-title">Emendas Parlamentares Condicionad...</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Proposta defendida por Renan Santos de que emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho em áreas-chave ...</p></a>
 <a class="wiki-card" href="/posicoes/Estado de Defesa e Direito Penal do Inimigo"><div class="wiki-card-header"><span class="wiki-card-icon">🛡</span><span class="wiki-card-title">Estado de Defesa e Direito Penal ...</span><span class="wiki-card-count">10 fontes</span></div><p class="wiki-card-desc">Renan Santos defende que, no primeiro dia de seu eventual governo, o Brasil decrete estado de defesa para enfrentar militarmente o crime organizad...</p></a>
-<a class="wiki-card" href="/posicoes/Expulsão de ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">9 fontes</span></div><p class="wiki-card-desc">Em 24 de julho de 2026, Renan visita a tribo Pareci (MT) e alinha a defesa da autonomia indígena à sua posição de expulsão de ONGs estrangeiras.</p></a>
+<a class="wiki-card" href="/posicoes/Expulsão de ONGs Estrangeiras"><div class="wiki-card-header"><span class="wiki-card-icon">🚫</span><span class="wiki-card-title">Expulsão de ONGs Estrangeiras</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Em 29 de julho de 2026, Renan denuncia ONGs estrangeiras no Pantanal e reitera promessa de expulsão: "Brasil não é quintal de gringo".</p></a>
 <a class="wiki-card" href="/posicoes/Propostas para Educação"><div class="wiki-card-header"><span class="wiki-card-icon">📚</span><span class="wiki-card-title">Propostas para a Educação</span><span class="wiki-card-count">11 fontes</span></div><p class="wiki-card-desc">Em 26 de julho de 2026, Renan visita escola cívico-militar em Sorriso (MT) e defende o modelo como política nacional; apresenta dados comparativos que comprovam eficácia.</p></a>
 <a class="wiki-card" href="/posicoes/Frente de Trabalho para o Bolsa Família"><div class="wiki-card-header"><span class="wiki-card-icon">⚒</span><span class="wiki-card-title">Frente de Trabalho para o Bolsa F...</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan propõe cashback para mães solo e frente de trabalho para homens como condição para receber Bolsa Família; 40% dos homicídios no NE recebem o benefício.</p></a>
 <a class="wiki-card" href="/posicoes/Reforma Fiscal"><div class="wiki-card-header"><span class="wiki-card-icon">💹</span><span class="wiki-card-title">Reforma Fiscal</span><span class="wiki-card-count">8 fontes</span></div><p class="wiki-card-desc">Em 18 de julho de 2026, Renan detalha sua PEC de reforma fiscal: nova reforma da previdência, desindexação do salário mínimo, corte de renúncias fiscais e fim de supersalários — R$ 3,3 trilhões.</p></a>
@@ -222,6 +222,8 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-07-29 - Larguei tudo]] — No Pantanal, Renan denuncia ONGs estrangeiras que ameaçam pequenos pecuaristas com "manejo ambiental" e promete expulsão: "Brasil não é quintal de gringo".
+- [[fontes/2026-07-27 - Leonardo DiCaprio, Greta Thunberg and Marina Silva wont like this native brazilian.]] — Em vídeo internacional, Renan critica a visão de que indígenas devem ser "bons selvagens" e promete expulsar ONGs estrangeiras.
 - [[fontes/2026-07-27 - Quantos animais você acha que morrem nas estradas por ano]] — Renan denuncia atropelamento de fauna silvestre em MS e propõe túneis, sinalização e ferrovias como soluções práticas.
 - [[fontes/2026-07-27 - Você não conhecia esse herói]] — Renan conta a história do Tenente Antônio João Ribeiro (Guerra do Paraguai) e propõe medalha para soldados mortos no combate ao crime organizado.
 - [[fontes/2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes]] — Renan compara BR-163 no MT (duplicada) vs. Pará (esburacada); critica Barbalhos e propõe políticas de desempenho para governadores.

@@ -8,6 +8,22 @@ date: 2026-04-12
 
 Renan Santos defende a **expulsão do Brasil de ONGs financiadas por governos e fundações estrangeiras** que, segundo ele, atuam para bloquear projetos brasileiros de infraestrutura e exploração de recursos naturais.
 
+## Mensagem ao público internacional: indígenas como "bons selvagens" e a promessa de expulsão (julho de 2026)
+
+Em **27 de julho de 2026**, Renan grava vídeo em inglês dirigido a Leonardo DiCaprio, Greta Thunberg e Marina Silva, criticando a visão de que indígenas brasileiros devem ser mantidos como "bons selvagens" no Neolítico. Ele promete que, quando presidente, expulsará do Brasil todas as ONGs estrangeiras que sabotam o desenvolvimento produtivo dos povos originários. O vídeo estende a mesma posição já manifestada na visita à tribo Pareci (24 de julho) para uma audiência internacional.
+
+> "Quando eu me tornar presidente do Brasil, vou expulsar do Brasil todas essas ONGs que sabotam não só o trabalho delas, mas o nosso país."
+
+Ver [[fontes/2026-07-27 - Leonardo DiCaprio, Greta Thunberg and Marina Silva wont like this native brazilian.]].
+
+## Pantanal: mesmo padrão de sabotagem contra pecuaristas (julho de 2026)
+
+Em **29 de julho de 2026**, gravando no Pantanal, Renan denuncia que o mesmo padrão de atuação de ONGs estrangeiras documentado no Pará está se repetindo na região do Pantanal, contra pequenos pecuaristas. Ele afirma que ONGs com "suposto interesse ambiental" estão exigindo "manejo ambiental" que ameaça produtores que estão na região há décadas. Reitera a promessa de expulsar ONGs que sabotem a agricultura e pecuária brasileira com dinheiro estrangeiro.
+
+> "Brasil não é quintal de gringo. Brasil não é lugar em que gringo manda e a gente obedece."
+
+Ver [[fontes/2026-07-29 - Larguei tudo]].
+
 ## Investigação de agentes do ICMBio ligados a ONGs externas (julho de 2026)
 
 Em **26 de julho de 2026**, ao denunciar a ação do ICMBio em Bonito (MS), Renan afirma que seu governo vai "investigar todos os agentes que trabalham para ONGs externas e não em nome do interesse nacional". Ele acusa funcionários do ICMBio de serem "ligados ao PT ou ao PSOL" e de "quase sempre atender a causa de ONGs, ONGs quase sempre internacionais". A promessa complementa a proposta de expulsão de ONGs estrangeiras com uma vertente de investigação interna de agentes públicos que atuam em favor de interesses externos.
@@ -62,6 +78,9 @@ Em **29 de outubro de 2025**, Renan incluiu pela primeira vez a proibição de O
 
 ## Fontes
 
+- [[fontes/2026-07-27 - Leonardo DiCaprio, Greta Thunberg and Marina Silva wont like this native brazilian.]]
+- [[fontes/2026-07-26 - O ICMBio quer destruir o turismo em Bonito]]
+- [[fontes/2026-07-24 - Você entendeu o que ele falou]]
 - [[fontes/2026-06-15 - Quando a Ferrogrão vai sair do papel]]
 - [[fontes/2026-06-01 - Frei Gilson é um Red Pill]]
 - [[fontes/2025-10-29 - Minha proposta para os governadores]]
