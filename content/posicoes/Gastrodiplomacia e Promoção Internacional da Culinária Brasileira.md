@@ -6,8 +6,9 @@ tags:
   - culinária
   - desenvolvimento-econômico
   - soft-power
-date: 2026-07-03
+date: 2026-07-30
 fontes:
+  - "2026-07-30 - Eu briguei com um jacaré no Mato Grosso do Sul"
   - "2026-07-03 - O vinho brasileiro pode decolar e eu te explico nesse vídeo"
   - "2026-06-06 - Você já ouviu falar em gastrodiplomacia"
   - "2026-06-22 - Virei um apanhador de açaí no Pará!"
@@ -16,6 +17,14 @@ fontes:
 # Gastrodiplomacia e Promoção Internacional da Culinária Brasileira
 
 Renan Santos propõe a adoção da **gastrodiplomacia** como política de estado para promover a culinária brasileira no exterior como instrumento de soft power, desenvolvimento econômico e construção de marca-país.
+
+## Carne de jacaré como produto de exportação: visita ao maior produtor do mundo (julho de 2026)
+
+Em **30 de julho de 2026**, Renan visita a maior fazenda produtora de carne de jacaré do mundo, no Mato Grosso do Sul, e documenta o ciclo produtivo. Ele destaca que existe uma indústria de luxo em torno do jacaré: a pele vira bolsa vendida na Itália por **€11.000**, e a carne, de sabor intermediário entre frango e peixe, faz sucesso internacional.
+
+Renan critica o governo por "sabotar a agroindústria nacional" em vez de celebrar a combinação de conservação ambiental com alto valor agregado. Ele promete que seu governo implementará uma **política de promoção gastronômica** que rodará o mundo promovendo sabores brasileiros como o jacaré.
+
+Ver [[fontes/2026-07-30 - Eu briguei com um jacaré no Mato Grosso do Sul]].
 
 ## Visita à Cooperativa Aurora: o vinho como produto estratégico (julho de 2026)
 

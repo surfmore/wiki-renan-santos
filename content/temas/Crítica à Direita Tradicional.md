@@ -4,8 +4,23 @@ tags:
   - tema
   - política
   - bolsonarismo
-date: 2025-09-02
+date: 2026-07-29
 ---
+
+## Comparativo: Renan vs. Lula vs. Flávio Bolsonaro em 9 pautas (julho de 2026)
+
+Em **29 de julho de 2026**, Renan publica um comparativo detalhado entre sua posição, a de [[pessoas/Lula]] e a de [[pessoas/Flávio Bolsonaro]] em nove pautas distintas, rebatendo a acusação de que estaria "ajudando o PT". Em todas as pautas, Renan alega ter se posicionado contra o PT enquanto Lula e Flávio votaram juntos:
+
+1. **PEC da Blindagem** — PT e Flávio a favor, Renan contra
+2. **Lava Jato** — PT e Flávio contribuíram para desmontar, Renan denunciou
+3. **Daniel Vorcaro/Banco Master** — Lula se encontrou, Flávio recebeu dinheiro, Renan denunciou
+4. **Fundão Eleitoral** — PT e Flávio votaram para aumentar, Renan contra
+5. **CPI da Lavatoga** — PT e Flávio contra, Renan a favor
+6. **CPMI do INSS** — PT e Flávio contra, Renan a favor
+
+Renan conclui que Flávio Bolsonaro frequentemente se alinha ao PT em pautas relevantes, enquanto ele consistentemente faz oposição.
+
+Ver [[fontes/2026-07-29 - Comparando eu Lula e Flávio]].
 
 ## Renan desafia Flávio ao debate junto com Lula (julho de 2026)
 

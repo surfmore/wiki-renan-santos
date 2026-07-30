@@ -4,7 +4,7 @@ tags:
   - tema
   - partido-missão
   - eleições-2026
-date: 2026-07-21
+date: 2026-07-29
 fontes:
   - "2026-07-21 - 9% NA REAL TIME BIG DATA!!"
   - "2026-07-20 - É OFICIAL"
@@ -29,6 +29,14 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Partido Missão protocola ADPF contra crime organizado no STF (julho de 2026)
+
+Em **29 de julho de 2026**, Renan anuncia que o Partido Missão protocolou uma ADPF no STF exigindo que territórios tomados pelo crime organizado sejam declarados inconstitucionais. A ação foi redigida pelo deputado [[pessoas/Kim Kataguiri]] e pelo corpo jurídico do partido, e caiu nas mãos do ministro [[pessoas/Flávio Dino]].
+
+Renan destaca que apenas o Partido Missão — por ser independente de coligações tradicionais — teve condições de tomar essa medida. Ele contrasta com outros presidenciáveis que são reféns de seus partidos: Flávio Bolsonaro (preso a Valdemar Costa Neto no PL), Caiado (PP/Cássabe), Zema (Novo/bolsonarista) e Lula (PT).
+
+Ver [[fontes/2026-07-29 - ADPF STF]].
 
 ## Lula recusa debate com Renan (julho de 2026)
 

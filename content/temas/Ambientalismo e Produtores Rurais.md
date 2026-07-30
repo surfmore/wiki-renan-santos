@@ -6,8 +6,9 @@ tags:
   - agro
   - amazonia
   - icmbio
-date: 2026-07-29
+date: 2026-07-30
 fontes:
+  - "2026-07-30 - Eu briguei com um jacaré no Mato Grosso do Sul"
   - "2026-07-29 - Larguei tudo"
   - "2026-07-27 - Quantos animais você acha que morrem nas estradas por ano"
   - "2026-07-26 - O ICMBio quer destruir o turismo em Bonito"
@@ -16,6 +17,12 @@ fontes:
   - "2026-06-20 - Como esse exemplo pode salvar Marajó"
   - "2026-06-17 - O Richard Rasmussen avisou, a ICMBio precisa PARAR"
 ---
+
+## Conservação com alto valor agregado: fazenda de jacarés em MS (julho de 2026)
+
+Em **30 de julho de 2026**, Renan visita a maior fazenda produtora de carne de jacaré do mundo, no Mato Grosso do Sul, e apresenta o modelo como exemplo de **conservação ambiental combinada com produção econômica**. Ele destaca que a atividade tem efeito positivo na preservação da espécie enquanto gera renda — a pele vira bolsa vendida na Itália por €11.000. Renan critica o governo por sabotar a agroindústria nacional e defende que "essa mistura de conservação com alto valor agregado é o futuro" para o Pantanal.
+
+Ver [[fontes/2026-07-30 - Eu briguei com um jacaré no Mato Grosso do Sul]] e [[posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira]].
 
 ## Pantanal: ONGs e "manejo ambiental" ameaçam pequenos pecuaristas (julho de 2026)
 

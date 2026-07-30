@@ -5,12 +5,21 @@ tags:
   - imigracao
   - fronteiras
   - venezuela
-date: 2026-06-20
+date: 2026-07-30
 fontes:
+  - "2026-07-30 - Pegamos 3 crackudos"
   - "2026-06-20 - O que podemos aprender com o Haiti"
   - "2026-04-21 - EU INVADI A ARGENTINA"
   - "2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina"
 ---
+
+## Fronteira Brasil-Bolívia abandonada: operação contra o PCC em Corumbá (julho de 2026)
+
+Em **30 de julho de 2026**, Renan realiza operação em Corumbá (MS), na fronteira com a Bolívia, capturando três suspeitos numa estação abandonada. Um dos detidos é um jovem **venezuelano** usando droga no local. Renan diagnostica que "o Brasil abandonou suas fronteiras" e entregou tudo ao crime organizado — referindo-se ao PCC que controla a área.
+
+O episódio ilustra a tese recorrente de Renan sobre a vulnerabilidade das fronteiras brasileiras, que se tornaram corredores para tráfico de drogas e armas controlados por facções, sem fiscalização efetiva do Estado.
+
+Ver [[fontes/2026-07-30 - Pegamos 3 crackudos]] e [[temas/Segurança Pública]].
 
 ## Imigração haitiana: 200 mil no Brasil e o alerta de Renan (junho de 2026)
 

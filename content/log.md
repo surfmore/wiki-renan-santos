@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-07-30] ingest automático | Batch de 4 shorts (ADPF, Comparativo, Jacaré, Crackudos)
+- Fontes criadas: fontes/2026-07-29 - ADPF STF, fontes/2026-07-29 - Comparando eu Lula e Flávio, fontes/2026-07-30 - Eu briguei com um jacaré no Mato Grosso do Sul, fontes/2026-07-30 - Pegamos 3 crackudos
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Segurança Pública (ADPF + Corumbá), temas/STF e Ativismo Judicial (ADPF), temas/Partido Missão (ADPF), temas/Crítica à Direita Tradicional (comparativo), temas/Imigração e Fronteiras (Corumbá/fronteira), temas/Agronegócio e Matopiba (jacaré), temas/Ambientalismo e Produtores Rurais (jacaré/conservação), posicoes/Gastrodiplomacia (jacaré), index.md, log.md, wiki/.processed_ids
+- Nota: 4 shorts ingeridos. Video_ids: UOkB3GttLGc (ADPF), WtfBGCYFSUs (Comparativo), yBP9AfaAXWs (Jacaré), 46c91_j-5jk (Crackudos). ADPF tem ação do Missão no STF contra crime organizado. Comparativo mostra Renan como único oponente consistente ao PT. Jacaré conecta agroindústria a gastrodiplomacia. Crackudos mostra fronteira abandonada em Corumbá.
+
 ## [2026-07-29] ingest automático | Larguei tudo
 - Fonte criada: fontes/2026-07-29 - Larguei tudo
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)

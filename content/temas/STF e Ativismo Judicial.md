@@ -4,8 +4,16 @@ tags:
   - tema
   - stf
   - instituições
-date: 2026-07-21
+date: 2026-07-29
 ---
+
+## Partido Missão usa o STF contra crime organizado via ADPF (julho de 2026)
+
+Em **29 de julho de 2026**, Renan anuncia que o Partido Missão protocolou uma ADPF no STF exigindo que a Corte declare inconstitucionais todos os territórios tomados pelo crime organizado. A ação usa como precedente o reconhecimento anterior do STF sobre o "estado inconstitucional de coisas" nas prisões (programa Pena Justa). A ação — redigida por [[pessoas/Kim Kataguiri]] — caiu nas mãos do ministro [[pessoas/Flávio Dino]].
+
+Renan critica a seletividade do STF: "Não é possível que a Suprema Corte se preocupe apenas com direitos humanos de bandido." Ele compara os direitos violados de inocentes (assaltados, estuprados, impedidos de circular) com os de presos e argumenta que o STF deve aplicar o mesmo princípio para proteger cidadãos.
+
+Ver [[fontes/2026-07-29 - ADPF STF]] e [[temas/Segurança Pública]].
 
 ## Declaração de desobediência a decisões do STF sobre operações em favelas (julho de 2026)
 

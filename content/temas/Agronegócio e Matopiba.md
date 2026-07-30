@@ -5,8 +5,16 @@ tags:
   - agro
   - maranhão
   - nordeste
-date: 2026-07-26
+date: 2026-07-30
 ---
+
+## Jacaré como agroindústria de alto valor agregado: visita ao maior produtor do mundo (julho de 2026)
+
+Em **30 de julho de 2026**, Renan visita a maior fazenda produtora de carne de jacaré do mundo, no Mato Grosso do Sul, documentando o ciclo produtivo. Ele destaca a indústria de luxo em torno do animal: a pele vira bolsa vendida na Itália por €11.000, e a carne é exportada. Critica o governo por "sabotar a agroindústria nacional" em vez de celebrar a combinação de conservação com alto valor agregado.
+
+O vídeo conecta o tema do agronegócio à [[posicoes/Gastrodiplomacia e Promoção Internacional da Culinária Brasileira|gastrodiplomacia]]: Renan promete uma política de promoção gastronômica para exportar sabores brasileiros como o jacaré.
+
+Ver [[fontes/2026-07-30 - Eu briguei com um jacaré no Mato Grosso do Sul]].
 
 ## Ferrogrão: congestionamento em Sinop (MT) expõe gargalo logístico (julho de 2026)
 

@@ -3,8 +3,22 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-07-21
+date: 2026-07-30
 ---
+
+## Fronteira Brasil-Bolívia abandonada ao crime: operação em Corumbá (julho de 2026)
+
+Em **30 de julho de 2026**, Renan realiza uma operação em Corumbá (MS), na fronteira com a Bolívia, capturando três suspeitos em uma estação de trem abandonada. O local é descrito como ponto de proliferação de usuários de droga e membros do PCC. Um dos detidos é um jovem **venezuelano**. Renan diagnostica: "O Brasil abandonou suas fronteiras, o Brasil abandonou sua infraestrutura e ao fazer isso, ele entregou tudo ao crime." Ele conclui que é na "fraqueza, preguiça e leniência" que o crime toma todos os espaços.
+
+Ver [[fontes/2026-07-30 - Pegamos 3 crackudos]], [[temas/Imigração e Fronteiras]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+
+## Partido Missão entra com ADPF no STF contra territórios dominados pelo crime (julho de 2026)
+
+Em **29 de julho de 2026**, Renan anuncia que o Partido Missão protocolou uma ADPF no STF exigindo que a Corte reconheça como inconstitucionais todos os territórios brasileiros tomados pelo crime organizado. A ação, redigida por [[pessoas/Kim Kataguiri]], usa o precedente do "estado inconstitucional de coisas" que o STF já reconheceu nas prisões (que gerou o programa Pena Justa). Renan critica o Pena Justa por "soltar bandido" e argumenta que os direitos humanos dos inocentes são mais violados que os dos presos. A ação caiu nas mãos do ministro [[pessoas/Flávio Dino]].
+
+Renan afirma ser o único presidenciável com independência para tomar essa medida, por ser presidente do próprio partido — diferentemente de Flávio Bolsonaro (preso a Valdemar), Caiado (preso a Cássabe), Zema (partido bolsonarista) e Lula (partido que "gosta de bandidos").
+
+Ver [[fontes/2026-07-29 - ADPF STF]], [[temas/STF e Ativismo Judicial]] e [[temas/Partido Missão]].
 
 ## Convocação para a "guerra contra o crime organizado" e homenagem a soldados (julho de 2026)
 
