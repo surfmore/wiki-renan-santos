@@ -5,13 +5,20 @@ tags:
   - tecnologia
   - anticorrupção
   - dados-públicos
-date: 2026-02-26
+date: 2026-07-30
 fontes:
+  - "2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS"
   - "2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL"
   - "2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS"
 ---
 
 Renan Santos defende o uso de inteligência artificial e cruzamento de bases de dados públicas como principal ferramenta de combate à corrupção — mais eficiente e mais barato do que estruturas burocráticas de fiscalização.
+
+## Lulinha e o escândalo do INSS: "a hora tá chegando" (julho de 2026)
+
+Em **30 de julho de 2026**, Renan comenta a abertura de procedimento contra **Lulinha** (filho de Lula) por tráfico de influência no escândalo do INSS, pelo ministro [[pessoas/André Mendonça]]. Ele afirma que Lulinha circulou dinheiro estranho e que o escândalo "rodou com muita gente do PT". Renan destaca que a investigação contra o filho de Lula valida a tese de que a corrupção sistêmica atinge tanto PT quanto bolsonarismo — "se apertar direitinho, não tem Lula, nem tem Bolsonaro, não tem ninguém."
+
+Ver [[fontes/2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS]].
 
 ## A ferramenta "Aceleracionismo Brasileiro"
 

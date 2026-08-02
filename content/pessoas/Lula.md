@@ -5,8 +5,10 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-07-14
+date: 2026-07-31
 fontes:
+  - "2026-07-31 - Resposta ao Lula"
+  - "2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS"
   - "2026-07-14 - Esse vídeo vai definir o resultado das eleições"
   - "2026-07-09 - O Lula tá pto comigo"
   - "2026-07-09 - Olha o nível da eleição brasileira."
@@ -40,6 +42,18 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Lula recusa debate e Renan propõe "termo público" (julho de 2026)
+
+Em **31 de julho de 2026**, Renan responde à recusa de Lula em debater com um **termo público**: se Lula participar do debate na Band ou topar um podcast, Renan não falará de nenhum escândalo dele (Banco Master, INSS, Petrolão, mensalão), Lula poderá falar o que quiser e terá o dobro do tempo de resposta (10 min contra 5). Se Renan descumprir, retira a candidatura; também promete não publicar "cortes lacrando" sobre Lula. Renan chama a recusa de "sabotagem à democracia" e "covardia".
+
+Ver [[fontes/2026-07-31 - Resposta ao Lula]].
+
+## Filho Lulinha envolvido no escândalo do INSS (julho de 2026)
+
+Em **30 de julho de 2026**, Renan comenta a notícia de que o ministro [[pessoas/André Mendonça]] abriu procedimento contra **Lulinha** (filho de Lula) por tráfico de influência no escândalo do INSS. Renan afirma que Lulinha circulou dinheiro estranho, é amigo da "turma do careca" do INSS e pode ter facilitado a relação dos envolvidos com a administração do pai. Renan acrescenta que o irmão de Lula, um frei, também está envolvido. Ele diz que "se apertar direitinho, não tem Lula, nem tem Bolsonaro" e que prefere vencer no debate a ganhar pela desistência dos adversários.
+
+Ver [[fontes/2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS]].
 
 ## Lula recusa debate com Renan (julho de 2026)
 

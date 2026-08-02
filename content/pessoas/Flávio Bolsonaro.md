@@ -4,10 +4,18 @@ tags:
   - pessoa
   - político
   - direita
-date: 2026-06-02
+date: 2026-07-31
+fontes:
+  - "2026-07-31 - Resposta ao Lula"
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Renan inclui Flávio no desafio do debate (julho de 2026)
+
+Em **31 de julho de 2026**, no mesmo vídeo em que responde a Lula, Renan estende a Flávio Bolsonaro o **termo público** de debate: caso participe do debate na Band ou tope um podcast, Renan não falará de nenhum escândalo dele, e Flávio poderá falar o que quiser. Renan desafia: "Se o medo de vocês é a lacração, porque vocês, presos nos maiores escândalos de corrupção, têm medo de baixar o nível?"
+
+Ver [[fontes/2026-07-31 - Resposta ao Lula]].
 
 ## Renan desafia Flávio ao debate e prevê fuga (julho de 2026)
 

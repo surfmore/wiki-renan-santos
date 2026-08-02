@@ -4,7 +4,7 @@ tags:
   - tema
   - partido-missão
   - eleições-2026
-date: 2026-07-29
+date: 2026-07-31
 fontes:
   - "2026-07-21 - 9% NA REAL TIME BIG DATA!!"
   - "2026-07-20 - É OFICIAL"
@@ -29,6 +29,18 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Candidaturas do Missão fora dos debates: boicote do sistema (julho de 2026)
+
+Em **31 de julho de 2026**, Renan e Bem Mendes — candidato do Missão ao governo de Minas Gerais — anunciam que estão fora dos debates. Bem Mendes classifica como "sabotagem da política tradicional contra o Partido Missão" e "conluio envolvendo partidos políticos", citando que a exclusão foi exigida por uma frente que vai do PT ao PL. Renan faz a ponte com sua candidatura presidencial, afirmando que fazem o mesmo com ele.
+
+Ver [[fontes/2026-07-31 - É oficial, estamos fora dos debate.]].
+
+## Renan propõe "termo público" para debater com Lula (julho de 2026)
+
+Em **31 de julho de 2026**, Renan propõe um termo público a [[pessoas/Lula]] (estendido a [[pessoas/Flávio Bolsonaro]]): se participarem do debate na Band ou de podcast, ele não falará de nenhum escândalo deles e lhes dará vantagens de tempo. Ele diz que prefere vencer pelo confronto de ideias do que pela desistência dos adversários: "Eu não gostaria de ganhar assim."
+
+Ver [[fontes/2026-07-31 - Resposta ao Lula]].
 
 ## Partido Missão protocola ADPF contra crime organizado no STF (julho de 2026)
 

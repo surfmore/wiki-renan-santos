@@ -3,8 +3,9 @@ title: "Mídia e Imprensa"
 tags:
   - tema
   - mídia
-date: 2026-07-21
+date: 2026-07-30
 fontes:
+  - "2026-07-30 - @kimkataguiri foi cancelado"
   - "2026-07-25 - FUI AMEAÇADO DE M0RTE!"
   - "2026-07-21 - Resposta a Globo News"
   - "2026-07-16 - Vou retirar minha pré candidatura"
@@ -13,6 +14,14 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Cancelamento de Kim Kataguiri após entrevistas (julho de 2026)
+
+Em **30 de julho de 2026**, Renan e [[pessoas/Kim Kataguiri]] comentam o cancelamento sofrido pelo deputado depois que a Dia TV (canal voltado ao público gay e trans) e a Léo Dias TV o convidaram para entrevistas. Renan afirma que também foi convidado e aceitou. Os canais receberam onda de ataques e um "cancelamento gigantesco" que, segundo Renan, pode levá-los à quebra.
+
+Renan defende que o episódio revela "o medo que eles têm de dar voz às pessoas me escutarem e se convencerem" e conecta ao seu próprio caso: show da banda Limão Rosa cancelado e cantora que pediu sua morte. Ele descreve como "segunda censura que a gente sofre em duas semanas".
+
+Ver [[fontes/2026-07-30 - @kimkataguiri foi cancelado]].
 
 ## Ameaçado de morte por cantora e propõe reforma cultural (julho de 2026)
 

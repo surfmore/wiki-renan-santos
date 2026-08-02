@@ -4,8 +4,16 @@ tags:
   - tema
   - política
   - bolsonarismo
-date: 2026-07-29
+date: 2026-07-31
 ---
+
+## Renan propõe "termo público" de debate a Lula e Flávio (julho de 2026)
+
+Em **31 de julho de 2026**, Renan responde à recusa de [[pessoas/Lula]] em debater propondo um **termo público** que se estende a [[pessoas/Flávio Bolsonaro]]: se participarem do debate na Band ou toparem um podcast, Renan não falará de nenhum escândalo deles; eles poderão falar o que quiserem; Lula terá o dobro do tempo de resposta; e, se Renan descumprir, retira a candidatura. Ele classifica a recusa como "sabotagem à democracia" e "covardia".
+
+No mesmo dia, em vídeo com Bem Mendes (candidato do Missão ao governo de MG), Renan reforça que o sistema político tenta boicotar as candidaturas do Partido Missão — "estão fazendo mais ou menos a mesma coisa comigo agora nas eleições presidenciais" — e que "o debate não pode ficar na mão de gente que não tem ideia e que ainda por cima é corrupto".
+
+Ver [[fontes/2026-07-31 - Resposta ao Lula]] e [[fontes/2026-07-31 - É oficial, estamos fora dos debate.]].
 
 ## Comparativo: Renan vs. Lula vs. Flávio Bolsonaro em 9 pautas (julho de 2026)
 

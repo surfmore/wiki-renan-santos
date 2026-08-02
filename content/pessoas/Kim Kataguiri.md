@@ -4,8 +4,9 @@ tags:
   - pessoa
   - político
   - partido-missão
-date: 2026-06-29
+date: 2026-07-30
 fontes:
+  - "2026-07-30 - @kimkataguiri foi cancelado"
   - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
   - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
   - "2026-06-14 - O Japão tem uma estratégia para golear o Brasil"
@@ -15,6 +16,14 @@ fontes:
 ---
 
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
+
+## Cancelamento após entrevistas na Dia TV e Léo Dias TV (julho de 2026)
+
+Em **30 de julho de 2026**, Renan e Kim comentam o cancelamento sofrido pelo deputado após ser entrevistado pela Dia TV (canal voltado ao público gay e trans) e pela Léo Dias TV. Renan relata que Kim ficou abalado e que os canais receberam o "cancelamento mais pesado do ano", possivelmente levando-os à quebra financeira.
+
+Kim, em sua fala no vídeo, revela que o próprio Renan também foi convidado pela Dia TV e ainda considera a entrevista. Kim agradece à censura, afirmando que ela "só coloca mais no noticiário" sua pré-candidatura a deputado federal.
+
+Ver [[fontes/2026-07-30 - @kimkataguiri foi cancelado]].
 
 ## Único a votar contra pautas populistas no Congresso (julho de 2026)
 

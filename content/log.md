@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-07-31] ingest automático | Batch de 4 shorts (Kim cancelado, Lulinha INSS, Resposta ao Lula, Fora dos debates)
+- Fontes criadas: fontes/2026-07-30 - @kimkataguiri foi cancelado, fontes/2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS, fontes/2026-07-31 - Resposta ao Lula, fontes/2026-07-31 - É oficial, estamos fora dos debate.
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Mídia e Imprensa (cancelamento Kim), pessoas/Kim Kataguiri (cancelamento), pessoas/Lula (Lulinha INSS + termo de debate), pessoas/Flávio Bolsonaro (termo de debate), pessoas/André Mendonça (ação contra Lulinha), temas/Crítica à Direita Tradicional (termo de debate + boicote), temas/Partido Missão (boicote aos debates + termo), posicoes/Transparência Digital e Anticorrupção (Lulinha/INSS), index.md, log.md, wiki/.processed_ids
+- Nota: 4 shorts ingeridos. Video_ids: 8eBQDiwJKlE, i2fknjKfiCY, kF6_TlV5iv4, jwD9BE8swk8. ATENÇÃO: "É oficial, estamos fora dos debate" tem Bem Mendes (candidato do Missão a governador de MG) como falante principal — atribuído ao Renan apenas o que ele disse. "@kimkataguiri foi cancelado" tem Kim como co-falante — atribuição cuidadosa.
+
 ## [2026-07-30] ingest automático | Batch de 4 shorts (ADPF, Comparativo, Jacaré, Crackudos)
 - Fontes criadas: fontes/2026-07-29 - ADPF STF, fontes/2026-07-29 - Comparando eu Lula e Flávio, fontes/2026-07-30 - Eu briguei com um jacaré no Mato Grosso do Sul, fontes/2026-07-30 - Pegamos 3 crackudos
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
