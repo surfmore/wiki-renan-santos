@@ -7,12 +7,19 @@ tags:
   - defesa
 date: 2026-01-05
 fontes:
+  - "2026-08-02 - VENHAM ME PEGAR!"
   - "2026-01-05 - Estou sendo cancelado por defender que o Brasil tenha armas nucleares"
   - "2026-01-04 - O Brasil precisa de uma arma nuclear"
   - "2026-02-28 - KHAMENEI ESTÁ MORTO"
 ---
 
 Proposta polêmica de Renan Santos de que o Brasil desenvolva um programa nuclear militar como instrumento de soberania. A ideia foi defendida em ao menos três vídeos, gerando cancelamento nas redes sociais e sendo apresentada como distinção central de sua candidatura.
+
+## Aviões de guerra com terras raras: além da bomba (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan reafirma e amplia a defesa do programa nuclear: quer que o Brasil pense em construir "não apenas armas nucleares, mas aviões de guerra de última geração usando a nossa própria terra rara". A declaração integra sua visão de potência para 2026, junto com o retorno do programa espacial e a busca de assento no Conselho de Segurança da ONU.
+
+Ver [[fontes/2026-08-02 - VENHAM ME PEGAR!]].
 
 ## "Brasil não tem defesa aérea": indústria bélica e terras raras (abril de 2026)
 
@@ -76,6 +83,7 @@ Em **20 de maio de 2026**, em formato de entrevista rápida ("a favor, contra ou
 
 ## Fontes
 
+- [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — "não apenas armas nucleares, mas aviões de guerra de última geração" com terras raras
 - [[fontes/2026-05-20 - Bomba atômica no MST]] — formato "a favor/contra/depende"; frase irônica combinando bomba e MST
 - [[fontes/2026-05-09 - Renan foi DESTRUÍDO Ou é o novo Enéas]] — terras raras como caminho para indústria bélica e programa nuclear
 - [[fontes/2026-04-27 - Nenhum outro pré-candidato fala isso]] — agenda de defesa nacional; semicondutores; indústria bélica

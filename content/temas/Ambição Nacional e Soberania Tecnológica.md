@@ -8,6 +8,18 @@ tags:
 date: 2026-07-03
 ---
 
+## Programa espacial, aviões de guerra e assento no Conselho de Segurança da ONU (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan afirma que, se chegar ao poder em 2026, quer ver o Brasil voltar a ter um **programa espacial** e construir "não apenas armas nucleares, mas aviões de guerra de última geração usando a nossa própria terra rara". Ele também quer colocar o Brasil no **Conselho de Segurança da ONU** — "não porque pediu por favor, mas porque o mundo depende da gente".
+
+Ver [[fontes/2026-08-02 - VENHAM ME PEGAR!]].
+
+## Falta de ambição: Lula "aspirando tão pouco" (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan usa o contraste internacional para criticar a falta de ambição da liderança brasileira: a China, "que era uma nação miserável", hoje é muito mais desenvolvida que o Brasil; países da África e a Índia também se desenvolvem. Enquanto isso, [[pessoas/Lula]] repete há 30 anos as mesmas promessas de "café da manhã e jantar", vale-gás e "pé de meia". Para Renan, "se você tá aspirando tão pouco, você não vai a lugar nenhum" — reforçando a tese de que o problema do Brasil é de ambição e liderança.
+
+Ver [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]].
+
 ## Resgate de heróis nacionais: Tenente Antônio João Ribeiro e a Guerra do Paraguai (julho de 2026)
 
 Em **27 de julho de 2026**, Renan conta a história do **Tenente Antônio João Ribeiro**, herói da Guerra do Paraguai que com apenas 14 soldados resistiu a 3.500 paraguaios em Ponta Porã (MS). Renan critica a narrativa histórica dominante que romantiza o Paraguai como "vítima da Inglaterra" e defende que o Brasil precisa resgatar seus heróis nacionais.
@@ -434,6 +446,8 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — programa espacial, aviões de guerra com terras raras e assento no Conselho de Segurança da ONU
+- [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]] — contraste entre a falta de ambição de Lula e nações que se desenvolveram
 - [[fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil.]] — Contraste entre Brasil e Argentina; jogadores brasileiros como "apátridas" e "mercenários"; lição de identidade nacional
 - [[fontes/2026-06-25 - Eu comprei esse pneu no Paraguai!]] — Comparação Brasil-Paraguai; carga tributária e data centers de Itaipu
 - [[fontes/2026-06-15 - O governo espanhol comprou minha pre-campanha]] — Soft power espanhol como contraste com o Brasil; lição de nation branding e competitividade cultural

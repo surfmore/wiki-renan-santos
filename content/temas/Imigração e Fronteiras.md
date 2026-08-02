@@ -7,11 +7,18 @@ tags:
   - venezuela
 date: 2026-07-30
 fontes:
+  - "2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai"
   - "2026-07-30 - Pegamos 3 crackudos"
   - "2026-06-20 - O que podemos aprender com o Haiti"
   - "2026-04-21 - EU INVADI A ARGENTINA"
   - "2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina"
 ---
+
+## Fronteira Brasil-Paraguai: "o Brasil vai ter fronteira de verdade" (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan vai à fronteira do Brasil com o **Paraguai** (região de Ponta Porã, MS) e demonstra a facilidade de cruzar: compra uma arma de airsoft de plástico e atravessa sem fiscalização. Ele documenta a oferta de armas (revólver R8 .38 por R$ 4.500) e drogas (cocaína peruana) no local. Renan afirma que, em seu governo, "o Brasil vai ter fronteira de verdade" e que a fronteira deve respeitar tanto o Paraguai quanto o Brasil: "é tornar nossos cidadãos, cidadãos paraguaios, pessoas dignas."
+
+Ver [[fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai]] e [[temas/Segurança Pública]].
 
 ## Fronteira Brasil-Bolívia abandonada: operação contra o PCC em Corumbá (julho de 2026)
 
@@ -62,5 +69,6 @@ Quem já está no país deve ser integrado e "desfavelizado". Após isso, especi
 
 ## Fontes
 
+- [[fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai]] — fronteira Brasil-Paraguai sem fiscalização; contrabando de armas e drogas; "fronteira de verdade"
 - [[fontes/2026-04-21 - EU INVADI A ARGENTINA]] — fronteira SC/Argentina; Bolsa Família para estrangeiros; proposta de acordo com Milei
 - [[fontes/2026-03-13 - Eu fui em uma favela de venezuelanos em Londrina]] — favela em Londrina; posição completa sobre imigração

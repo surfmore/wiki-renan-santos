@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-07-31
 fontes:
+  - "2026-08-02 - Lula está há 30 anos falando a mesma coisa!"
+  - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
   - "2026-07-31 - Resposta ao Lula"
   - "2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS"
   - "2026-07-14 - Esse vídeo vai definir o resultado das eleições"
@@ -42,6 +44,14 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Lula repete as mesmas promessas há 30 anos: "aspirando tão pouco" (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan critica Lula por repetir há 30 anos as mesmas promessas vazias — "as pessoas vão comer café da manhã e jantar" — enquanto China, países da África e a Índia se desenvolvem. Ele afirma que Lula vai "pra enésima eleição dele" prometendo "pé de meia", trocado para o "tigrinho" e vale-gás. Para Renan, isso "não é ambição, não é projeto de país" e quem "aspira tão pouco não vai a lugar nenhum".
+
+No mesmo dia, em outro short, Renan classifica o **vale-gás** como "penhorando o teu futuro": a dívida cresce e será paga via juros, impostos e impossibilidade de aposentadoria. Ele se compromete: "Eu não vou dar gás nem celular para ninguém. Meu país não vai oferecer esmola para ninguém."
+
+Ver [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]] e [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]].
 
 ## Lula recusa debate e Renan propõe "termo público" (julho de 2026)
 
@@ -381,6 +391,8 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]] — Renan critica a repetição de promessas vazias de Lula e a falta de ambição
+- [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — vale-gás como "penhorar o futuro"; Renan recusa oferecer esmola
 - [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]] — Renan acusa Lula/PT de ser "amigo do crime organizado" e de não querer mudanças na lei penal
 - [[fontes/2026-07-09 - O Lula tá pto comigo]] — PGE aceita denúncia de Renan contra Lula; Lula anuncia Marina e Tebet para o Senado de SP sem carreira no estado
 - [[fontes/2026-07-04 - É assim que vou destruir o Lula nos debates]] — Renan aponta contradição de Lula sobre saneamento; PT votou contra marco do saneamento

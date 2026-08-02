@@ -7,12 +7,19 @@ tags:
   - infraestrutura
 date: 2026-06-23
 fontes:
+  - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA"
   - "2026-03-17 - Não sabiam que eu estava ouvindo"
 ---
 
 Proposta central de Renan Santos para reformar o Bolsa Família: em vez de cortar o benefício, condicionar o acesso à participação em **frentes de trabalho** — inspirado no modelo do presidente americano Franklin Roosevelt durante a Grande Depressão.
+
+## "Não vou oferecer esmola para ninguém" (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan reforça sua posição antiaassistencialista: "Eu não vou dar gás nem celular para ninguém. Meu governo não é o governo disso. Meu país não vai oferecer esmola para ninguém." Ele critica o vale-gás de [[pessoas/Lula]] e a promessa de celular de [[pessoas/Flávio Bolsonaro]] como "vender o teu futuro para se apropriar do presente", e afirma que os brasileiros conquistarão seus bens pelo trabalho — com o Estado garantindo que ninguém roube o que é do cidadão.
+
+Ver [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]].
 
 ## Cashback para mães solo e frente de trabalho para homens (julho de 2026)
 
@@ -97,6 +104,7 @@ Ver [[fontes/2026-01-05 - O Brasil precisa falar sobre a saída do Bolsa Famíli
 
 ## Fontes
 
+- [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — "não vou oferecer esmola para ninguém"; contra vale-gás e celular assistencialistas
 - [[fontes/2026-04-17 - Você vai TRABALHAR.]] — confirmação direta "ou rala ou rola"; formulário de frente de trabalho no CRAS
 - [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]] — apresentação completa da proposta
 - [[fontes/2026-03-17 - Não sabiam que eu estava ouvindo]] — confirmação da proposta em interação de rua

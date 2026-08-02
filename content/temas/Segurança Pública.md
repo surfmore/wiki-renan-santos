@@ -6,6 +6,18 @@ tags:
 date: 2026-07-30
 ---
 
+## Ameaças de morte do PCC e Comando Vermelho: "Venham me pegar!" (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan relata que o **Comando Vermelho** e o **PCC** o ameaçam de morte e os desafia publicamente: "Venham pegar, seus vagabundos." Ele promete que, se chegar ao poder, não sobrará um: "Matem a G e matem a mim antes, porque se eu chegar lá não sobrará um. Ou eles se entregam, ou eles servirão de tapete para a população brasileira desfilar."
+
+Ver [[fontes/2026-08-02 - VENHAM ME PEGAR!]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+
+## Fronteira com o Paraguai: contrabando e tráfico que "supera o PCC" (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan vai à fronteira do Brasil com o **Paraguai** (região de Ponta Porã, MS) e demonstra a "inexistência de fronteira": compra uma arma de airsoft de plástico e atravessa sem dificuldade. No local, é possível adquirir armas (revólver R8 .38 por R$ 4.500) e drogas (cocaína peruana). Renan afirma que, em seu governo, "o Brasil vai ter fronteira de verdade" e aponta que a droga que domina mercados brasileiros — "inclusive super o PCC" — vem da Bolívia ou do Paraguai.
+
+Ver [[fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai]] e [[temas/Imigração e Fronteiras]].
+
 ## Fronteira Brasil-Bolívia abandonada ao crime: operação em Corumbá (julho de 2026)
 
 Em **30 de julho de 2026**, Renan realiza uma operação em Corumbá (MS), na fronteira com a Bolívia, capturando três suspeitos em uma estação de trem abandonada. O local é descrito como ponto de proliferação de usuários de droga e membros do PCC. Um dos detidos é um jovem **venezuelano**. Renan diagnostica: "O Brasil abandonou suas fronteiras, o Brasil abandonou sua infraestrutura e ao fazer isso, ele entregou tudo ao crime." Ele conclui que é na "fraqueza, preguiça e leniência" que o crime toma todos os espaços.
@@ -1025,6 +1037,8 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — ameaças de morte do PCC e Comando Vermelho; desafio "venham me pegar"
+- [[fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai]] — fronteira sem fiscalização; armas e drogas; tráfico que "supera o PCC"
 - [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF sobre operações em favelas; retomada territorial
 - [[fontes/2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará]] — Renan defende pena de morte, prisão perpétua e constituinte após bebê de 10 meses ser morto em Fortaleza
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — Análise do México como narcoestado; lição para o Brasil; crítica a AMLO, Calderón e à esquerda latino-americana

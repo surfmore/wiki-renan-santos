@@ -8,6 +8,12 @@ tags:
 date: 2026-07-02
 ---
 
+## "O futuro foi penhorado": dívida e assistencialismo eleitoreiro (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan afirma que a política brasileira se baseia em "vender o teu futuro para se apropriar do presente": a dívida pública "está explodindo" e será paga via juros, impostos e impossibilidade de aposentadoria. Ele classifica o vale-gás de [[pessoas/Lula]] e a promessa de celular de [[pessoas/Flávio Bolsonaro]] como formas de penhorar o futuro do trabalhador em troca de votos. Renan se compromete: "Meu país não vai oferecer esmola para ninguém" — os brasileiros comprarão seus próprios bens com o fruto do trabalho.
+
+Ver [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]].
+
 ## O desabafo era falso — Renan pede desculpas (julho de 2026)
 
 Em **1º de julho de 2026**, Renan se retrata publicamente após descobrir que o vídeo de "Lincoln da Voz" — o desabafo viral de um trabalhador que "trampa, trampa e não sai do lugar" — era uma encenação. O conteúdo havia sido copiado de um criador mineiro chamado **Miranha Mineiro**, e Lincoln já era um influenciador estabelecido com ganhos em dólar em múltiplas plataformas.
@@ -307,6 +313,7 @@ Ver [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]].
 
 ## Fontes
 
+- [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — dívida explodindo; futuro penhorado; contra o assistencialismo eleitoreiro
 - [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — escala 6x1; PL votando a favor por cálculo eleitoral; impactos econômicos
 - [[fontes/2026-05-25 - Resposta ao Luciano Huck]] — Bolsa Família como base econômica de municípios; 5 propostas
 - [[fontes/2026-05-07 - A minha geração fracassou!]] — geração dos 30-45 marcada pelo fracasso econômico

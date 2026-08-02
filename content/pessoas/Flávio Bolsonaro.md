@@ -6,10 +6,17 @@ tags:
   - direita
 date: 2026-07-31
 fontes:
+  - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
   - "2026-07-31 - Resposta ao Lula"
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Promessa de dar celular a todos: assistencialismo que "penhora o futuro" (agosto de 2026)
+
+Em **2 de agosto de 2026**, Renan critica a promessa de Flávio Bolsonaro de dar celular para todo mundo, classificando-a como parte do assistencialismo que "vende o teu futuro para se apropriar do presente". Renan afirma que seu governo não oferecerá "esmola" nem seguirá o modelo de vale-gás de [[pessoas/Lula]] ou de distribuição de celulares: "Eu não vou dar gás nem celular para ninguém."
+
+Ver [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]].
 
 ## Renan inclui Flávio no desafio do debate (julho de 2026)
 
@@ -471,6 +478,7 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — Renan critica a promessa de Flávio de dar celular a todos como assistencialismo
 - [[fontes/2026-07-16 - Taxaram a gente]] — Renan critica Flávio por viagem "patética" aos EUA para defender Brasil de tarifas; "Trump só usa esses idiotas"
 - [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]] — Valdemar como dono do bolsonarismo; Mensalão; PL R$ 953M
 - [[fontes/2026-05-17 - Quem é Flavio Bolsonaro]] — rachadinha, Adriano da Nóbrega, CPI do Master; apelo para desistir da candidatura

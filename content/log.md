@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-08-02] ingest automático | Batch de 4 shorts (30 anos de Lula, Sem vale-gás/celular, VENHAM ME PEGAR, Fronteira com Paraguai)
+- Fontes criadas: fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!, fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!, fontes/2026-08-02 - VENHAM ME PEGAR!, fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: pessoas/Lula (30 anos de promessas vazias + vale-gás), pessoas/Flávio Bolsonaro (promessa de celular), temas/Ambição Nacional e Soberania Tecnológica (programa espacial/aviões de guerra + falta de ambição), temas/Programa Nuclear Brasileiro (aviões de guerra com terras raras), temas/Segurança Pública (ameaças de morte + fronteira Paraguai), temas/Imigração e Fronteiras (fronteira Brasil-Paraguai), temas/Empobrecimento e Mercado de Trabalho (futuro penhorado/dívida), posicoes/Frente de Trabalho para o Bolsa Família ("não vou oferecer esmola"), index.md, log.md, wiki/.processed_ids
+- Nota: 4 shorts de 2026-08-02 ingeridos. Video_ids: AzzJosPAXtA, d08USIIjIfE, dmET4rnCreA, rdd5CfiyJgI. "Fronteira com o Paraguai" contém diálogo com vendedores locais — atribuído apenas o que Renan disse. "VENHAM ME PEGAR" contém referência ambígua a "G" (não identificado) — citada sem especular identidade.
+
 ## [2026-07-31] ingest automático | Batch de 4 shorts (Kim cancelado, Lulinha INSS, Resposta ao Lula, Fora dos debates)
 - Fontes criadas: fontes/2026-07-30 - @kimkataguiri foi cancelado, fontes/2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS, fontes/2026-07-31 - Resposta ao Lula, fontes/2026-07-31 - É oficial, estamos fora dos debate.
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
