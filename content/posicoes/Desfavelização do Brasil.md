@@ -20,6 +20,14 @@ fontes:
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
 
+## "Favelados não são cidadãos": direitos nominais e plano de 15 anos (agosto de 2026)
+
+Em **3 de agosto de 2026**, questionado sobre sua fala de transformar "favelados em cidadãos", Renan explica que os direitos da Constituição são "nominais": "Eu colocar um direito num papel não significa que ele se realiza na realidade." Segundo ele, ninguém na favela dispõe efetivamente de liberdade, propriedade ou habitação — e há uma parte do povo brasileiro tratada "como bicho, às vezes nem sequer como gente".
+
+Renan esclarece que a desfavelização **não é** pegar uma retroescavadeira e derrubar casas, mas "tornar o que a gente chama de favela em bairro": levar esgoto e água, combater a tuberculose (agravada pela umidade dos becos), reduzir a gravidez na adolescência e a violência contra a mulher não reportada. O plano virá com **título de propriedade**, corte de gastos e um **programa nacional de desfavelização** — quem mora em encosta será transferido para prédios; quem mora em bairro plano terá o ambiente adequado com ruas, saneamento, iluminação e escola. Ele chama a desfavelização de "a coisa mais republicana" e "o maior programa social do nosso governo", com meta de entregar a transformação em **pelo menos 15 anos**: "País sério no mundo não tem favela."
+
+Ver [[fontes/2026-08-03 - Favelados não são cidadãos]].
+
 ## Quatro medidas para o Rio: drones-bomba e nova proposta de desfavelização (julho de 2026)
 
 Em **23 de julho de 2026**, diante do condomínio Península na Barra da Tijuca (RJ), Renan denuncia que traficantes estão usando drones-bomba para atacar autoridades enquanto estas vivem em condomínios fechados e seguros. Ele propõe quatro medidas, sendo a segunda a [[posicoes/Desfavelização do Brasil|desfavelização das cidades]] a começar pelo Rio.

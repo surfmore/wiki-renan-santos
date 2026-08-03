@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-08-03] ingest automático | Batch de 3 shorts (Bandidos se entreguem, Favelados não são cidadãos, Vou acabar com o bolsa-família)
+- Fontes criadas: fontes/2026-08-03 - Eu proponho que todos os bandidos se entreguem., fontes/2026-08-03 - Favelados não são cidadãos, fontes/2026-08-03 - Vou acabar com o bolsa-família
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Segurança Pública (comunicado oficial de rendição aos traficantes), posicoes/Desfavelização do Brasil (favelados não são cidadãos + plano de 15 anos), posicoes/Frente de Trabalho para o Bolsa Família (resposta "não" ao fim do benefício), temas/Desigualdade Regional e Migração Interna (desenvolvimento econômico Nordeste/Norte), index.md, log.md, wiki/.processed_ids
+- Nota: 3 shorts de 2026-08-03 ingeridos. Video_ids: FICJiJcaca0, UEdMYxw0748, WNbevf3UM0E. Os 3 vídeos têm formato de resposta a perguntas de jornalista/interlocutor — atribuído apenas o que Renan disse. "Favelados não são cidadãos" é a fonte mais detalhada da política de desfavelização (direitos nominais, encostas, título de propriedade, 15 anos). "Vou acabar com o bolsa-família" esclarece que ele NÃO cortará os programas sociais.
+
 ## [2026-08-02] ingest automático | Batch de 4 shorts (30 anos de Lula, Sem vale-gás/celular, VENHAM ME PEGAR, Fronteira com Paraguai)
 - Fontes criadas: fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!, fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!, fontes/2026-08-02 - VENHAM ME PEGAR!, fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)

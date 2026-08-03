@@ -15,6 +15,14 @@ fontes:
 
 Proposta central de Renan Santos para reformar o Bolsa Família: em vez de cortar o benefício, condicionar o acesso à participação em **frentes de trabalho** — inspirado no modelo do presidente americano Franklin Roosevelt durante a Grande Depressão.
 
+## "A resposta é não": não vai acabar com o Bolsa Família (agosto de 2026)
+
+Em **3 de agosto de 2026**, questionado diretamente se vai acabar com os programas sociais (Bolsa Família, Vale Leite, Vale Gás), Renan responde: "Por mais que muita gente tenha torcendo para que eu responda sim, a resposta é **não**." Ele justifica que, no interior do Nordeste e da região Norte, não há atividade econômica — o Bolsa Família é "o último recurso que a família tem para continuar subsistindo" — e que "essas pessoas nós vamos manter os programas sociais".
+
+A mudança, segundo ele, virá do governo federal levando "desenvolvimento econômico, especialmente para essas regiões", somado à crítica ao centrão e à "política voltada à miséria", que trata a dependência como instrumento eleitoral. A libertação econômica "no momento certo" é o caminho para "gerar cidadãos" — e "gerando cidadãos tem uma democracia melhor".
+
+Ver [[fontes/2026-08-03 - Vou acabar com o bolsa-família]].
+
 ## "Não vou oferecer esmola para ninguém" (agosto de 2026)
 
 Em **2 de agosto de 2026**, Renan reforça sua posição antiaassistencialista: "Eu não vou dar gás nem celular para ninguém. Meu governo não é o governo disso. Meu país não vai oferecer esmola para ninguém." Ele critica o vale-gás de [[pessoas/Lula]] e a promessa de celular de [[pessoas/Flávio Bolsonaro]] como "vender o teu futuro para se apropriar do presente", e afirma que os brasileiros conquistarão seus bens pelo trabalho — com o Estado garantindo que ninguém roube o que é do cidadão.

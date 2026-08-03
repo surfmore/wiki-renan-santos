@@ -25,6 +25,14 @@ fontes:
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
 
+## Desenvolvimento econômico para o interior do Nordeste e Norte: a saída do Bolsa Família (agosto de 2026)
+
+Em **3 de agosto de 2026**, Renan afirma que não vai acabar com o Bolsa Família porque, no interior do Nordeste e da região Norte, "não há atividade econômica" — o benefício é o último recurso das famílias para subsistir. Ele defende que o governo federal tenha "uma intenção, uma força ativa em levar desenvolvimento econômico, especialmente para essas regiões", como contrapartida à manutenção dos programas sociais.
+
+Renan enquadra o problema como político, não apenas humanitário: o **centrão** e a política voltada à miséria prosperam nesses lugares mais pobres, onde as pessoas dependem dos benefícios. "Libertar aquelas pessoas é também libertar o resto do Brasil que tá fora do Bolsa Família de um jugo terrível, que é o jugo da corrupção." A libertação econômica "no momento certo" geraria cidadãos e, com eles, "uma democracia melhor".
+
+Ver [[fontes/2026-08-03 - Vou acabar com o bolsa-família]] e [[posicoes/Frente de Trabalho para o Bolsa Família]].
+
 ## BR-163: o contraste entre Mato Grosso e Pará como síntese do problema brasileiro (julho de 2026)
 
 Em **27 de julho de 2026**, Renan grava na **BR-163**, rodovia que conecta o Mato Grosso a Santarém (PA), para mostrar em imagens a diferença de gestão entre dois estados. Do lado do Mato Grosso, a estrada está duplicada e recapeada; do lado do Pará, é esburacada e intransitável.

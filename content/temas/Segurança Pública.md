@@ -6,6 +6,14 @@ tags:
 date: 2026-07-30
 ---
 
+## Comunicado oficial de rendição aos traficantes (agosto de 2026)
+
+Em **3 de agosto de 2026**, respondendo a pergunta sobre homicídios e letalidade policial, Renan lança o que chama de "comunicado oficial para todos os traficantes que ocupam o território brasileiro": que eles **se entreguem sem combate**. Nesse cenário, a polícia não precisaria matar ninguém — "eu não gostaria de matar alguém por matar". Quem se entregar será levado à cadeia, pois "nós somos um país republicano". Se resistirem armados, encontrarão "um enfrentamento devido": "Não existe guerra unilateral."
+
+Renan afirma que os homicídios não são consequência da ação policial, mas da ação do crime — citando Comando Vermelho, PCC, Bonde dos Maluco e ADA como facções que "tomaram o território nacional". Ele menciona **Santa Quitéria** (CE), cidade tomada pelo CV, a periferia de Fortaleza, a Bahia e o Amapá como lugares tomados pela violência. Seu diagnóstico central é a impunidade: "O Brasil se tornou o país da impunidade e o homicídio se tornou regra nos lugares mais pobres do Brasil." Relata que, no Pará e Maranhão, as pessoas pediam "Acabe com esses caras" — mas que ele não vai necessariamente acabar matando.
+
+Ver [[fontes/2026-08-03 - Eu proponho que todos os bandidos se entreguem.]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+
 ## Ameaças de morte do PCC e Comando Vermelho: "Venham me pegar!" (agosto de 2026)
 
 Em **2 de agosto de 2026**, Renan relata que o **Comando Vermelho** e o **PCC** o ameaçam de morte e os desafia publicamente: "Venham pegar, seus vagabundos." Ele promete que, se chegar ao poder, não sobrará um: "Matem a G e matem a mim antes, porque se eu chegar lá não sobrará um. Ou eles se entregam, ou eles servirão de tapete para a população brasileira desfilar."
