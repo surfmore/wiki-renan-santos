@@ -6,10 +6,17 @@ tags:
   - reforma-institucional
 date: 2026-03-08
 fontes:
+  - "2026-08-04 - Minha posição em relação ao STF"
   - "2026-03-08 - 7 propostas pro STF"
 ---
 
 Conjunto de sete propostas concretas que Renan Santos afirma que encaminhará como presidente da República para reformar o Supremo Tribunal Federal.
+
+## Reafirmação republicana: quatro nomeações escrutinadas (agosto de 2026)
+
+Em **4 de agosto de 2026**, Renan detalha como usará as cerca de **quatro nomeações** que fará ao STF como presidente. Promete "nomeações republicanas com um perfil escrutinado não só pelo Senado, mas pela sociedade civil", com indicados sabatinados pela imprensa e pelo Senado. O objetivo é formar uma "maioria republicana" na Corte: sem escritórios fazendo negócios (com adoção de código de ética), que não seja "fã das decisões monocráticas de interferência nos demais poderes" e que não julgue parlamentares que devem fiscalizar o STF. Renan afirma que não declarará guerra à Corte no primeiro dia e que quer investigação de ministros envolvidos em escândalos de corrupção (como o [[eventos/Escândalo Banco Master]]).
+
+Ver [[fontes/2026-08-04 - Minha posição em relação ao STF]].
 
 Contexto: Renan vê o STF atual como instituição que deixou de ser um tribunal constitucional e se tornou uma ferramenta de poder político. Ver [[temas/STF e Ativismo Judicial]].
 
@@ -60,6 +67,7 @@ Ver [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] e [[fon
 
 ## Fontes
 
+- [[fontes/2026-08-04 - Minha posição em relação ao STF]] — reafirmação republicana das propostas, com promessa de quatro nomeações escrutinadas por Senado e sociedade civil
 - [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] — reafirmação detalhada na coletiva de imprensa
 - [[fontes/2026-05-23 - O que fazer com o STF - Sabatina com Daniela Lima no Esfera]] — trecho de sabatina com Daniela Lima
 - [[fontes/2026-03-08 - 7 propostas pro STF]] — apresentação completa das sete propostas

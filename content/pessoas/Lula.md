@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-07-31
 fontes:
+  - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-08-02 - Lula está há 30 anos falando a mesma coisa!"
   - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
   - "2026-07-31 - Resposta ao Lula"
@@ -44,6 +45,12 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Cachaceiro senil" e desafio ao debate (agosto de 2026)
+
+Em **3 de agosto de 2026**, Renan chama Lula de "cachaceiro senil" e diz dar-lhe um "handicap" por ser velho em um eventual debate. Ele desafia Lula e [[pessoas/Flávio Bolsonaro]] a "discutir o Brasil": "Se vocês querem tanto governar o Brasil, explica o que vocês vão fazer com o nosso país. A gente já sabe o que vocês fizeram. Nós vivemos o fracasso de vocês."
+
+Ver [[fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente]].
 
 ## Lula repete as mesmas promessas há 30 anos: "aspirando tão pouco" (agosto de 2026)
 

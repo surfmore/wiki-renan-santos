@@ -6,6 +6,8 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-04 - Nós somos os escolhidos"
+  - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-07-21 - 9% NA REAL TIME BIG DATA!!"
   - "2026-07-20 - É OFICIAL"
   - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
@@ -29,6 +31,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## "Vem com a gente": convocação e discurso dos "escolhidos" (agosto de 2026)
+
+Em **3 e 4 de agosto de 2026**, Renan faz convocações à militância em tom messiânico: afirma que "o destino da nossa geração é governar o Brasil", que "os maiores empresários do Brasil já entenderam que o processo tem que passar por aqui" e convida: "Se você não é ladrão, se você não é oportunista, o muro tá baixo. Vem para cá e venha construir a vitória." No dia seguinte, profere o discurso "Nós somos os escolhidos", em que declara que "o destino sempre foi nosso" após 12 anos de movimento político. Ver [[temas/Sebastianismo e Messianismo Político]].
+
+Ver [[fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente]] e [[fontes/2026-08-04 - Nós somos os escolhidos]].
 
 ## Candidaturas do Missão fora dos debates: boicote do sistema (julho de 2026)
 

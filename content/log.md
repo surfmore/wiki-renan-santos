@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-08-04] ingest automático | Batch de 3 shorts (Se você não é ladrão, Posição sobre o STF, Nós somos os escolhidos)
+- Fontes criadas: fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente, fontes/2026-08-04 - Minha posição em relação ao STF, fontes/2026-08-04 - Nós somos os escolhidos
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Crítica à Direita Tradicional (ataque a Lula/Flávio + desafio ao debate), pessoas/Flávio Bolsonaro (chamado de "mongoloide" + desafio ao debate), pessoas/Lula (chamado de "cachaceiro senil" + desafio), temas/STF e Ativismo Judicial (posição republicana: respeito condicionado + 4 nomeações escrutinadas), posicoes/Propostas para o STF (reafirmação republicana das nomeações), temas/Sebastianismo e Messianismo Político (discurso "Nós somos os escolhidos"), temas/Partido Missão (convocação messiânica), pessoas/Renan Santos (candidato após 12 anos de movimento), eventos/Escândalo Banco Master (investigação de ministros do STF), index.md, log.md, wiki/.processed_ids
+- Nota: 3 shorts ingeridos. Video_ids: Z5mtFCY0FWk, LFJUp35HpJw, mbXmVXtq070. "Se você não é ladrão" é discurso de ataque a Lula/Flávio com desafio ao debate e narrativa geracional ("sonho da geração"). "Minha posição em relação ao STF" é a declaração mais explícita da postura republicana em relação à Corte: respeito condicionado, investigação de ministros envolvidos em escândalos e 4 nomeações escrutinadas por Senado e sociedade civil — tom mais conciliador que o de julho (desobediência a decisões). "Nós somos os escolhidos" é discurso messiânico sem propostas concretas.
+
 ## [2026-08-03] ingest automático | Batch de 3 shorts (Bandidos se entreguem, Favelados não são cidadãos, Vou acabar com o bolsa-família)
 - Fontes criadas: fontes/2026-08-03 - Eu proponho que todos os bandidos se entreguem., fontes/2026-08-03 - Favelados não são cidadãos, fontes/2026-08-03 - Vou acabar com o bolsa-família
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)

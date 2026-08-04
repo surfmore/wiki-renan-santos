@@ -7,6 +7,16 @@ tags:
 date: 2026-07-29
 ---
 
+## Posição republicana: respeito condicionado e nomeações escrutinadas (agosto de 2026)
+
+Em **4 de agosto de 2026**, perguntado sobre sua posição em relação ao STF, Renan responde: "Eu sou um democrata. Eu quero governar o Brasil." Ele diz esperar "de maneira muito cordial que o Supremo se comporte como um ente constitucional defensor da Constituição" e que, se isso ocorrer, agirá "da maneira mais respeitosa" com a Corte. Nega o "discurso fácil da eleição do vou xingar todos os ministros do Supremo".
+
+Renan afirma que "os poderes estão corrompidos" e quer "que sejam investigados ministros do Supremo ou parlamentares ou presidentes de partido que estão hoje parte dos mesmos escândalos de corrupção" — citando o [[eventos/Escândalo Banco Master]] —, mas ressalva que não declarará guerra à Corte no primeiro dia, pois isso "é manter o Brasil na mesma crise". Sobre as cerca de **quatro nomeações** que fará ao STF, promete "nomeações republicanas com um perfil escrutinado não só pelo Senado, mas pela sociedade civil", sabatinadas pela imprensa e pelo Senado, para formar uma "maioria republicana": sem escritórios fazendo negócios (com código de ética), que não seja "fã das decisões monocráticas de interferência nos demais poderes" e que não julgue parlamentares que devem fiscalizar o STF.
+
+A declaração marca um tom mais conciliador do que o das declarações de **21 de julho de 2026**, quando Renan afirmou que desobedeceria decisões do STF sobre operações em favelas — um contraste que evidencia a evolução da posição ao longo da campanha.
+
+Ver [[fontes/2026-08-04 - Minha posição em relação ao STF]] e [[posicoes/Propostas para o STF]].
+
 ## Partido Missão usa o STF contra crime organizado via ADPF (julho de 2026)
 
 Em **29 de julho de 2026**, Renan anuncia que o Partido Missão protocolou uma ADPF no STF exigindo que a Corte declare inconstitucionais todos os territórios tomados pelo crime organizado. A ação usa como precedente o reconhecimento anterior do STF sobre o "estado inconstitucional de coisas" nas prisões (programa Pena Justa). A ação — redigida por [[pessoas/Kim Kataguiri]] — caiu nas mãos do ministro [[pessoas/Flávio Dino]].

@@ -11,6 +11,14 @@ Sebastianismo é o fenômeno cultural originado em Portugal após a **Batalha de
 
 Renan Santos aborda esse conceito como chave para entender a **cultura política brasileira**, especialmente a tendência a aguardar líderes messiânicos ou salvadores.
 
+## "Nós somos os escolhidos": o messianismo da própria campanha (agosto de 2026)
+
+Em **4 de agosto de 2026**, Renan profere um discurso de tom messiânico sobre sua própria campanha: "O destino sempre foi nosso. Nós somos o grupo escolhido. Somos nós, os escolhidos. O destino quis que fôssemos escolhidos." Ele descreve os 12 anos de movimento político como um período de "cancelamentos", "destruições de reputações" e "derrota cantada por todos os adversários da esquerda, da direita".
+
+No dia anterior ([[fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente]]), Renan já havia afirmado: "Nós somos o sonho da nossa geração e o destino da nossa geração é governar o Brasil" — e que os adversários "farão tudo para sufocar a gente". A linguagem do "destino", do "grupo escolhido" e do "sonho da geração" aproxima a narrativa da própria campanha do fenômeno que Renan descreve como sebastianismo: a expectativa de um grupo predestinado a salvar o país.
+
+Ver [[fontes/2026-08-04 - Nós somos os escolhidos]].
+
 ## O mito chega ao Brasil
 
 Segundo Renan, o Sebastianismo atravessou o oceano com as caravelas e se estabeleceu no Brasil, particularmente no Nordeste. Gerou canções, literatura de cordel e até seitas baseadas na ideia do retorno de Dom Sebastião. A Igreja Católica e políticos locais tiveram que combater essa crença nos sertões. Renan identifica reflexos do Sebastianismo na **Revolução de Canudos**, liderada por **Antônio Conselheiro** ([[fontes/2026-06-13 - E se Marrocos derrotar o Brasil hoje]]).

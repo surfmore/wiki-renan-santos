@@ -7,11 +7,21 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-04 - Nós somos os escolhidos"
+  - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
   - "2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!"
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É pré-candidato à presidência da República e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "O sonho da nossa geração": candidato após 12 anos de movimento (agosto de 2026)
+
+Em **4 de agosto de 2026**, Renan afirma ser candidato à presidência "após 12 anos de movimento político", descrevendo a trajetória como marcada por "cancelamentos", "destruições de reputações" e "derrota cantada por todos os adversários da esquerda, da direita". Ele se declara parte de um grupo "escolhido" pelo destino — narrativa ligada ao [[temas/Sebastianismo e Messianismo Político]].
+
+No dia anterior, em discurso, Renan afirmou que "os maiores empresários do Brasil já entenderam que o processo tem que passar por aqui" e que "o destino da nossa geração é governar o Brasil", convocando apoiadores: "Se você não é ladrão, se você não é oportunista, o muro tá baixo. Vem para cá e venha construir a vitória."
+
+Ver [[fontes/2026-08-04 - Nós somos os escolhidos]] e [[fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente]].
 
 ## 9% nacional na Real Time Big Data (julho de 2026)
 

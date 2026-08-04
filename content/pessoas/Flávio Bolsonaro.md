@@ -6,11 +6,18 @@ tags:
   - direita
 date: 2026-07-31
 fontes:
+  - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
   - "2026-07-31 - Resposta ao Lula"
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Mongoloide" e desafio ao debate de ideias (agosto de 2026)
+
+Em **3 de agosto de 2026**, Renan chama Flávio Bolsonaro de "mongoloide" e critica a campanha do senador que alegou que Renan "não tem faculdade". Renan responde que largou o curso de direito na USP e desafia Flávio ao debate de ideias: "Você é todo pós-graduado, debate comigo. Ideias." Diz que daria dez minutos a Flávio para falar de economia e que bastariam três seus. Classifica o debate de 2026 como "construído entre um mongoloide como Flávio Bolsonaro e um cachaceiro senil como [[pessoas/Lula]]".
+
+Ver [[fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente]].
 
 ## Promessa de dar celular a todos: assistencialismo que "penhora o futuro" (agosto de 2026)
 

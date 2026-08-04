@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-08-04 - Minha posição em relação ao STF"
   - "2026-07-22 - Acabou para Flavio Bolsonaro"
   - "2026-07-02 - Um exemplo de mulher"
   - "2026-06-30 - Survba com astronautas"
@@ -14,6 +15,12 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## Renan quer investigação de ministros do STF envolvidos no escândalo (agosto de 2026)
+
+Em **4 de agosto de 2026**, ao explicar sua posição em relação ao STF, Renan afirma que "hoje os poderes estão corrompidos, cada um defendendo seu próprio privilégio ou quando juntos participando dos mesmos escândalos de corrupção. Basta ver o escândalo do Banco Master." Ele diz querer "que sejam investigados ministros do Supremo ou parlamentares ou presidentes de partido que estão hoje parte dos mesmos escândalos de corrupção", sem declarar guerra à Corte no primeiro dia de governo. Ver [[temas/STF e Ativismo Judicial]].
+
+Ver [[fontes/2026-08-04 - Minha posição em relação ao STF]].
 
 ## Notas fiscais de Flávio Bolsonaro ligadas a Vorcaro via empresa Copenhagen (julho de 2026)
 

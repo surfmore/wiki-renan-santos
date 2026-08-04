@@ -7,6 +7,12 @@ tags:
 date: 2026-07-31
 ---
 
+## Renan ataca Lula e Flávio e se apresenta como alternativa ao "debate construído" (agosto de 2026)
+
+Em **3 de agosto de 2026**, Renan afirma que o Brasil não precisa ser refém de um debate político "construído entre um mongoloide como [[pessoas/Flávio Bolsonaro]] e um cachaceiro senil como [[pessoas/Lula]]". Respondendo à campanha de Flávio que dizia que Renan "não tem faculdade", ele lembra que largou o curso de direito na USP e desafia o senador ao debate de ideias: "Você é todo pós-graduado, debate comigo. Ideias." Renan diz que daria dez minutos a Flávio para falar de economia e que bastariam três seus — com um "handicap" para Lula por ser velho. Ele desafia ambos a "discutir o Brasil": "A gente já sabe o que vocês fizeram. Nós vivemos o fracasso de vocês."
+
+Ver [[fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente]].
+
 ## Renan propõe "termo público" de debate a Lula e Flávio (julho de 2026)
 
 Em **31 de julho de 2026**, Renan responde à recusa de [[pessoas/Lula]] em debater propondo um **termo público** que se estende a [[pessoas/Flávio Bolsonaro]]: se participarem do debate na Band ou toparem um podcast, Renan não falará de nenhum escândalo deles; eles poderão falar o que quiserem; Lula terá o dobro do tempo de resposta; e, se Renan descumprir, retira a candidatura. Ele classifica a recusa como "sabotagem à democracia" e "covardia".
