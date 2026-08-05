@@ -6,12 +6,21 @@ tags:
   - direita
 date: 2026-07-31
 fontes:
+  - "2026-08-04 - Eles estão com medo de vir pro debate."
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
   - "2026-07-31 - Resposta ao Lula"
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "QI baixíssimo" e ligação com a "banda podre" do Rio (agosto de 2026)
+
+Em **4 de agosto de 2026**, Renan critica Flávio por não comparecer aos debates eleitorais, descrevendo-o como "um cara com QI baixíssimo, com histórico de corrupção recente, envolvimento com a turma da banda podre da política carioca, ligada ao Comando Vermelho, concorrendo do outro lado". Ele afirma que Flávio só consegue falar da própria promessa de dar mais de 100 milhões de celulares a mulheres e idosos "sozinho numa câmara", sem coragem de defender em público uma proposta que Renan estima custar mais de R$ 150 bilhões por ano.
+
+Renan desafia Flávio ao debate e afirma que ele, como "bom pseudo ou falso democrata", não irá aos primeiros dois debates — assim como Lula.
+
+Ver [[fontes/2026-08-04 - Eles estão com medo de vir pro debate.]].
 
 ## "Mongoloide" e desafio ao debate de ideias (agosto de 2026)
 

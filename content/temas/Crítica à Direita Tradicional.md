@@ -7,6 +7,14 @@ tags:
 date: 2026-07-31
 ---
 
+## Lula e Flávio como "casuístas" que fogem dos debates (agosto de 2026)
+
+Em **4 de agosto de 2026**, Renan critica [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] — os dois primeiros colocados nas pesquisas — por não comparecerem ou deixarem em suspenso a participação nos debates eleitorais. Ele afirma que ambos "acham que democracia só é bom quando eles ganham ou quando eles levam vantagem": o PT nunca reconheceu a vitória de um adversário e trata quem assume o poder como alguém que "tem que tomar um impeachment na hora"; o bolsonarista reclama da urna quando perde, mas não reclama quando ganha. Renan classifica os dois como "casuístas" que "não gostam de democracia e não têm ideias a oferecer".
+
+Renan volta a desafiar ambos ao debate — oferecendo "perguntas fáceis, só de projeto de governo" — e questiona o que apresentariam: Lula "vai oferecer mais um pé de meia", e Flávio teria de explicar como financiaria a promessa de dar mais de 100 milhões de celulares (que ele estima em mais de R$ 150 bilhões por ano). Ele resume a disputa: "um senhor senil com grande histórico de corrupção" (Lula) e "um cara com QI baixíssimo, com histórico de corrupção recente, envolvimento com a turma da banda podre da política carioca, ligada ao Comando Vermelho" (Flávio).
+
+Ver [[fontes/2026-08-04 - Eles estão com medo de vir pro debate.]].
+
 ## Renan ataca Lula e Flávio e se apresenta como alternativa ao "debate construído" (agosto de 2026)
 
 Em **3 de agosto de 2026**, Renan afirma que o Brasil não precisa ser refém de um debate político "construído entre um mongoloide como [[pessoas/Flávio Bolsonaro]] e um cachaceiro senil como [[pessoas/Lula]]". Respondendo à campanha de Flávio que dizia que Renan "não tem faculdade", ele lembra que largou o curso de direito na USP e desafia o senador ao debate de ideias: "Você é todo pós-graduado, debate comigo. Ideias." Renan diz que daria dez minutos a Flávio para falar de economia e que bastariam três seus — com um "handicap" para Lula por ser velho. Ele desafia ambos a "discutir o Brasil": "A gente já sabe o que vocês fizeram. Nós vivemos o fracasso de vocês."
@@ -619,6 +627,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-08-04 - Eles estão com medo de vir pro debate.]] — Lula e Flávio como "casuístas" que fogem dos debates; desafio ao confronto de ideias
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Eduardo ataca Renan na Jovem Pan; Renan expõe hipocrisia da família Bolsonaro com o STF
 - [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República]]
 - [[fontes/2025-12-16 - A OPOSIÇÃO NO BRASIL É HORRÍVEL]]

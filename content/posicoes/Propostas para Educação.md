@@ -7,6 +7,7 @@ tags:
   - escolas-civico-militares
 date: 2026-07-27
 fontes:
+  - "2026-08-05 - Sobre bullying nas escolas."
   - "2026-07-27 - Você não conhecia esse herói"
   - "2026-07-26 - Sim, escola militar funciona!"
   - "2026-07-22 - Como mudar a educação no Brasil"
@@ -18,6 +19,14 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Autoridade do professor contra o bullying e salas especiais (agosto de 2026)
+
+Em **5 de agosto de 2026**, perguntado sobre bullying nas escolas, Renan defende a **restituição da autoridade do professor em sala de aula** como proposta central. Ele afirma que o professor está "com medo, desmotivado e sem autoridade e sem instrumentos para sancionar o aluno que é indisciplinado" — e que é ele quem deveria impedir o bullying, tanto contra si quanto entre alunos.
+
+Renan relata que visitou escolas cívico-militares que descreve como "muito funcionais", com crianças "muito disciplinadas", apontando o custo como única restrição ao modelo. Como alternativa, defende **modelos híbridos** com "figuras de autoridade e formação disciplinar do aluno". Ele acrescenta que mães reclamam da mistura de alunos típicos e atípicos em sala — citando crianças autistas nível 2 e 3 que sofrem bullying — e propõe **salas com atendimento especial para crianças especiais** para evitar esse tipo de bullying.
+
+Ver [[fontes/2026-08-05 - Sobre bullying nas escolas.]].
 
 ## Reforma curricular: ensino de heróis nacionais (julho de 2026)
 

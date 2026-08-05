@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-07-31
 fontes:
+  - "2026-08-04 - Eles estão com medo de vir pro debate."
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-08-02 - Lula está há 30 anos falando a mesma coisa!"
   - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
@@ -45,6 +46,12 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Senhor senil com grande histórico de corrupção" que foge dos debates (agosto de 2026)
+
+Em **4 de agosto de 2026**, Renan critica Lula por não comparecer aos debates eleitorais, descrevendo-o como "um senhor senil com grande histórico de corrupção". Ele afirma que o PT nunca reconheceu a vitória de um adversário e sempre tratou quem assume o poder como alguém que "tem que tomar um impeachment na hora" — e que, no debate, Lula não teria projeto a oferecer além de "mais um pé de meia" ou "mais um vale gás". Renan desafia Lula a responder perguntas "fáceis, só de projeto de governo".
+
+Ver [[fontes/2026-08-04 - Eles estão com medo de vir pro debate.]].
 
 ## "Cachaceiro senil" e desafio ao debate (agosto de 2026)
 

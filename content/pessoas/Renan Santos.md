@@ -7,6 +7,8 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-05 - Nós construímos nosso próprio caminho"
+  - "2026-08-05 - Estou pronto para ser o CEO do Brasil"
   - "2026-08-04 - Nós somos os escolhidos"
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
@@ -14,6 +16,18 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É pré-candidato à presidência da República e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "Estou pronto para ser o CEO do Brasil": defesa do próprio currículo (agosto de 2026)
+
+Em **5 de agosto de 2026**, respondendo a um interlocutor que questionou sua experiência de gestão, Renan defende o próprio currículo: afirma ter administrado "quase uma dezena de empresas" e "pegar uma empresa fechada, quebrada, botar para andar baseado no crédito pessoal". Ele lembra que organizou as manifestações pelo impeachment de Dilma Rousseff, "ajudou a criar a linguagem política daquilo que chamam de direita no Brasil" e construiu o Partido Missão "no menor período de tempo, com muito menos dinheiro". Ele argumenta que "liderar um país não é uma entrevista de emprego" — "meu objetivo não é obter um lucro, é obter um horizonte" — e cita a revista Valete e o ecossistema Valet Plus (50 mil usuários) como realizações.
+
+Ver [[fontes/2026-08-05 - Estou pronto para ser o CEO do Brasil]].
+
+## "Nós construímos nosso próprio caminho": a afirmação da geração (agosto de 2026)
+
+Em **5 de agosto de 2026**, Renan profere discurso em que se apresenta como candidato empurrado por "aquela massa de pessoas" e recusa o rótulo de "terceira via": "Nós não somos nada de terceira via. Nós construímos o próprio caminho com as próprias ideias, com as próprias cores, com o próprio sonho." Ele descreve a trajetória de "antes do 1%" até ultrapassar governadores e conclui: "Nós não somos a negação dos demais, nós somos a afirmação da nossa geração."
+
+Ver [[fontes/2026-08-05 - Nós construímos nosso próprio caminho]].
 
 ## "O sonho da nossa geração": candidato após 12 anos de movimento (agosto de 2026)
 

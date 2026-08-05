@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-08-05] ingest automático | Batch de 4 shorts (Eles estão com medo de vir pro debate, Nós construímos nosso próprio caminho, Estou pronto para ser o CEO do Brasil, Sobre bullying nas escolas)
+- Fontes criadas: fontes/2026-08-04 - Eles estão com medo de vir pro debate., fontes/2026-08-05 - Nós construímos nosso próprio caminho, fontes/2026-08-05 - Estou pronto para ser o CEO do Brasil, fontes/2026-08-05 - Sobre bullying nas escolas.
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Crítica à Direita Tradicional (Lula e Flávio como "casuístas" que fogem dos debates), pessoas/Flávio Bolsonaro ("QI baixíssimo" + "banda podre" do Rio ligada ao CV), pessoas/Lula ("senhor senil" + fuga dos debates), temas/Partido Missão (recusa da "terceira via" + partido como prova de gestão), temas/Sebastianismo e Messianismo Político ("a afirmação da nossa geração"), pessoas/Renan Santos (CEO do Brasil + recusa da terceira via), posicoes/Propostas para Educação (autoridade do professor contra bullying + salas especiais), index.md, log.md, wiki/.processed_ids
+- Nota: 4 shorts ingeridos. Video_ids: rr1dhtrf5O4, goHA5U1PaNQ, 4l6amCDFdfQ, 35-R0yZAHFs. "Eles estão com medo de vir pro debate" continua o desafio ao debate — Lula e Flávio como "casuístas", Lula "senhor senil", Flávio "QI baixíssimo" ligado à "banda podre" carioca. "Nós construímos nosso próprio caminho" é discurso de recusa da "terceira via" ("nós somos a afirmação da nossa geração"). "Estou pronto para ser o CEO do Brasil" é defesa do currículo de gestão (empresas recuperadas, impeachment de Dilma, criação do Partido Missão, revista Valete, Valet Plus). "Sobre bullying nas escolas" propõe restituir a autoridade do professor, modelos híbridos de escolas e salas com atendimento especial para crianças com deficiência. Atribuição: vídeos com perguntas de interlocutores — registrado apenas o que Renan respondeu.
+
 ## [2026-08-04] ingest automático | Batch de 3 shorts (Se você não é ladrão, Posição sobre o STF, Nós somos os escolhidos)
 - Fontes criadas: fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente, fontes/2026-08-04 - Minha posição em relação ao STF, fontes/2026-08-04 - Nós somos os escolhidos
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)

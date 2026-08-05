@@ -6,6 +6,9 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-05 - Nós construímos nosso próprio caminho"
+  - "2026-08-05 - Estou pronto para ser o CEO do Brasil"
+  - "2026-08-04 - Eles estão com medo de vir pro debate."
   - "2026-08-04 - Nós somos os escolhidos"
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-07-21 - 9% NA REAL TIME BIG DATA!!"
@@ -31,6 +34,18 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## "Nós construímos nosso próprio caminho": a recusa da "terceira via" (agosto de 2026)
+
+Em **5 de agosto de 2026**, Renan profere discurso de afirmação identitária do Partido Missão: "se o antipetismo é a negação do petismo se definindo como oposição, a terceira via é oposição da oposição. Nós não somos nada de terceira via." Ele afirma que o grupo construiu "o próprio caminho com as próprias ideias, com as próprias cores, com o próprio sonho, com a própria imaginação" — "de amarelo e preto do nosso livro, da nossa doutrina ao nosso partido". Renan narra a trajetória de "antes do 1%" até "ultrapassar governadores", criticando governadores que "nunca tiveram a postura de líder de erguer a cabeça e peitar o grupo de usurpadores do bolsonarismo", e conclui: "Nós somos a afirmação da nossa geração."
+
+Ver [[fontes/2026-08-05 - Nós construímos nosso próprio caminho]].
+
+## O partido como prova de gestão (agosto de 2026)
+
+Em **5 de agosto de 2026**, respondendo a quem questionava seu currículo de gestão, Renan usa a construção do Partido Missão como comprovação de capacidade de liderança: uma folha de pagamento com "milhares de jovens parados pelo Brasil", financiada com doações e venda de livros — "a venda de livro foi responsável por 50% do faturamento que montou esse partido". Ele afirma ter criado o partido "no menor período de tempo, com muito menos dinheiro" que os concorrentes, contrastando com o ex-presidente Jair Bolsonaro, que "tentou e falhou miseravelmente" em criar um partido. Renan também cita a criação da revista Valete ("a segunda maior revista de política e cultura impressa do Brasil, depois da Piauí") e do ecossistema Valet Plus com 50 mil usuários.
+
+Ver [[fontes/2026-08-05 - Estou pronto para ser o CEO do Brasil]].
 
 ## "Vem com a gente": convocação e discurso dos "escolhidos" (agosto de 2026)
 
