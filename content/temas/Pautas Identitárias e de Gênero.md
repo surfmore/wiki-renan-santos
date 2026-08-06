@@ -5,8 +5,9 @@ tags:
   - gênero
   - identidade
   - esquerda
-date: 2026-06-14
+date: 2026-08-05
 fontes:
+  - "2026-08-05 - Um governo para todos"
   - "2026-07-15 - Criticar a gastança da Janja é MISOGINIA"
   - "2026-06-14 - Romário está sendo cancelado!"
   - "2026-06-09 - Cotas num hospital privado"
@@ -20,6 +21,14 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Racismo e LGBTfobia: "lei e ordem" como resposta universal (agosto de 2026)
+
+Em **5 de agosto de 2026**, perguntado sobre sua pauta contra o racismo e a LGBTfobia, Renan responde que a resposta é "lei e ordem, como para todos os outros cidadãos brasileiros". Ele reconhece que gays, mulheres, negros e brancos "sofrem o mal da violência, o mal do preconceito em cada um a sua área", mas recusa "políticas específicas" para grupos e defende um "governo para todos" que garanta direitos humanos e dignidade para todos.
+
+Renan afirma que quem agredir alguém por sua condição — citando explicitamente uma pessoa gay — "vai sofrer todo o rigor da lei", com polícia e judiciário atuando com "muito rigor e muito enfrentamento". A declaração contrasta com sua crítica recorrente à esquerda identitária: em vez de políticas afirmativas segmentadas, ele propõe a aplicação igualitária da lei para todos.
+
+Ver [[fontes/2026-08-05 - Um governo para todos]].
 
 ## Janja e a acusação de misoginia como silenciamento (julho de 2026)
 

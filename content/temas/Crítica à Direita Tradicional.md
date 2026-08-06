@@ -4,8 +4,16 @@ tags:
   - tema
   - política
   - bolsonarismo
-date: 2026-07-31
+date: 2026-08-06
 ---
+
+## "Família Bolsonaro e Lulismo são duas faces da mesma moeda" (agosto de 2026)
+
+Em **6 de agosto de 2026**, perguntado em quem votaria num segundo turno entre [[pessoas/Flávio Bolsonaro]] e [[pessoas/Lula]], Renan responde "eu voto Renan Santos" e recusa trabalhar com essas categorias. Ele reafirma que "a família Bolsonaro e o Lulismo são duas faces da mesma moeda" — "não porque são iguais, eles são diferentes entre si, mas porque ambos geram danos terríveis pro nosso futuro".
+
+Renan critica o nível do debate: Lula "dá mais um pouco de pé de meia" e "vale gás", enquanto Flávio "oferece celular de graça pra mulher para melhorar a intenção de voto". Ele defende que a discussão deveria tratar de "desindexação, desvinculação, reforma de competitividade". Diz que enfrentar os dois não é neutralidade nem fuga — "você apanha dos dois lados" — mas o que o tornou "um líder melhor", e cita a pesquisa Atlas que o coloca em primeiro lugar no público de 16 a 24 anos.
+
+Ver [[fontes/2026-08-06 - Lula ou Flávio]].
 
 ## Lula e Flávio como "casuístas" que fogem dos debates (agosto de 2026)
 

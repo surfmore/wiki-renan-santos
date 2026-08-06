@@ -4,10 +4,16 @@ tags:
   - pessoa
   - stf
   - magistrado
-date: 2026-04-09
+date: 2026-08-06
 ---
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
+
+## Exemplo de decisão monocrática ilegal (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan cita Alexandre de Moraes como exemplo de ministro que decidiria "monocraticamente, sem passar pelo processo legislativo", em vídeo em que defende que "decisão ilegal não se cumpre". Ele afirma que o país vive um "estado inconstitucional de coisas" quando o STF "fica passando o tempo todo sob atribuição de outros poderes".
+
+Ver [[fontes/2026-08-06 - Ordem ilegal não se cumpre.]] e [[temas/STF e Ativismo Judicial]].
 
 ## Jair Bolsonaro o convidou para vice (junho de 2026)
 

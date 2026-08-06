@@ -4,8 +4,18 @@ tags:
   - tema
   - stf
   - instituições
-date: 2026-07-29
+date: 2026-08-06
 ---
+
+## "Decisão ilegal não se cumpre" e crítica às decisões monocráticas (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan afirma que, se o STF tomar uma decisão ilegal, "decisão ilegal não se cumpre" — pois a Corte estaria "rompendo a Constituição". Ele critica as **decisões monocráticas**, citando [[pessoas/Alexandre de Moraes]] como exemplo de quem decide "monocraticamente, sem passar pelo processo legislativo", e afirma que o Brasil vive um "estado inconstitucional de coisas" quando o STF "fica passando o tempo todo sob atribuição de outros poderes".
+
+Renan defende que cabe ao presidente da República não acatar decisão ilegal — "não de maneira golpista", mas "não acatando uma decisão que seja ilegal". Ressalva ter "asco da turma que é da golpe de estado" e diz que, como presidente, "não vou cumprir imediatamente uma decisão que é ilegal", preferindo discutir o tema "junto ao STF". Ele argumenta que deixar uma decisão monocrática parar o cumprimento da lei, após o devido processo legislativo no Congresso, configuraria **prevaricação** do presidente.
+
+A declaração retoma, em tom similar, a posição de **21 de julho de 2026** sobre desobediência a decisões do STF, mas com ênfase em recorrer à via institucional ("discutir junto ao STF") e em rejeitar o rótulo de golpismo.
+
+Ver [[fontes/2026-08-06 - Ordem ilegal não se cumpre.]].
 
 ## Posição republicana: respeito condicionado e nomeações escrutinadas (agosto de 2026)
 

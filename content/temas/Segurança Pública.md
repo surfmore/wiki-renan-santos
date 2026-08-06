@@ -3,8 +3,24 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-07-30
+date: 2026-08-06
 ---
+
+## "O Brasil não está vivendo uma normalidade": guerra contra o crime organizado (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan afirma que o Brasil "não está vivendo uma normalidade" e que há "uma guerra" contra o crime organizado, que controla territórios em todo o país — citando o Rio de Janeiro como exemplo de áreas onde "não posso andar" e onde uma pessoa que pedir um Uber "vai tomar porrada". Ele informa que o Partido Missão entrou com uma ação no STF para reconhecer o "estado inconstitucional de coisas nos territórios tomados pelo crime organizado".
+
+Renan conecta o diagnóstico de guerra ao tema institucional: defende que o presidente da República não deve cumprir decisão ilegal do STF e afirma que a "democracia brasileira hoje é meramente nominal em muitos termos".
+
+Ver [[fontes/2026-08-06 - Ordem ilegal não se cumpre.]] e [[temas/STF e Ativismo Judicial]].
+
+## Lei e ordem para todos: resposta universal à violência e ao preconceito (agosto de 2026)
+
+Em **5 de agosto de 2026**, perguntado sobre qual seria sua pauta contra o racismo e a LGBTfobia, Renan responde: "Lei e ordem, como para todos os outros cidadãos brasileiros." Ele argumenta que gays, mulheres, negros, brancos e pessoas de todas as origens "sofrem o mal da violência, o mal do preconceito em cada um a sua área" e que o Brasil é hoje um país onde "a lei e ordem deixou de existir".
+
+Renan recusa "políticas específicas" para grupos e defende um "governo para todos" que garanta direitos humanos e dignidade para todos. Promete que quem agredir alguém por sua condição — por exemplo, um gay — "vai sofrer todo o rigor da lei". Para isso, propõe nova metodologia para polícia e judiciário, com "muito rigor e muito enfrentamento", investimento federal em câmeras, processo investigativo "muito mais veloz" e novo modelo de inquérito policial.
+
+Ver [[fontes/2026-08-05 - Um governo para todos]].
 
 ## Comunicado oficial de rendição aos traficantes (agosto de 2026)
 

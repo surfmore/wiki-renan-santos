@@ -4,8 +4,9 @@ tags:
   - pessoa
   - político
   - direita
-date: 2026-07-31
+date: 2026-08-06
 fontes:
+  - "2026-08-06 - Lula ou Flávio"
   - "2026-08-04 - Eles estão com medo de vir pro debate."
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
@@ -13,6 +14,14 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Duas faces da mesma moeda" com o Lulismo (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan reafirma que "a família Bolsonaro e o Lulismo são duas faces da mesma moeda" — não por serem iguais, mas porque "ambos geram danos terríveis pro nosso futuro". Ele critica a promessa de Flávio de "oferecer celular de graça pra mulher para melhorar a intenção de voto com mulher", classificando o gesto como parte do rebaixamento do debate político, que deveria tratar de "desindexação, desvinculação, reforma de competitividade".
+
+Perguntado em quem votaria num segundo turno entre Flávio e Lula, Renan recusa as categorias: "Eu voto Renan Santos, eu não vou pra batalha pensando em perder."
+
+Ver [[fontes/2026-08-06 - Lula ou Flávio]].
 
 ## "QI baixíssimo" e ligação com a "banda podre" do Rio (agosto de 2026)
 

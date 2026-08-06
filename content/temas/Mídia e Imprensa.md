@@ -3,8 +3,9 @@ title: "Mídia e Imprensa"
 tags:
   - tema
   - mídia
-date: 2026-07-30
+date: 2026-08-06
 fontes:
+  - "2026-08-06 - A GLOBONEWS ME CENSUROU"
   - "2026-07-30 - @kimkataguiri foi cancelado"
   - "2026-07-25 - FUI AMEAÇADO DE M0RTE!"
   - "2026-07-21 - Resposta a Globo News"
@@ -14,6 +15,16 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Sabatina da GloboNews: censura contratual de cortes e recorde de audiência (agosto de 2026)
+
+Em **6 de agosto de 2026**, após participar da Sabatina da GloboNews, Renan relata que os termos de participação do programa o proíbem, por contrato, de divulgar cortes que contenham o rosto das apresentadoras ("Sadi" e "Natusa"), o que o impede de soltar "cortes bons". Ele afirma que outros perfis podem divulgar e pede que os seguidores ajudem a circular os cortes feitos por [[pessoas/Kim Kataguiri]] e pelos candidatos do Partido Missão.
+
+Renan diz que não vai "ficar chorando", reconhece o viés do jornalismo — "a gente sabe como é o jornalismo, sei do viés" — e ironiza que "parece que o único problema que existe no Brasil é feminicídio", ainda que seja "mais um problema". Mesmo assim, elogia a cobertura da GloboNews/G1, que "no geral tá fazendo uma cobertura decente", e classifica a restrição como "do jogo".
+
+Ele celebra o desempenho da sabatina — **líder de audiência no horário**, "ganhando até dos esportes" — e afirma que "dificilmente haverá outro candidato a presidente ali que vai dar a audiência que deu". O episódio marca a concretização da expectativa que Renan manifestara em 21 de julho de 2026, quando disse esperar ser convidado pela Globo News para apresentar suas propostas.
+
+Ver [[fontes/2026-08-06 - A GLOBONEWS ME CENSUROU]].
 
 ## Cancelamento de Kim Kataguiri após entrevistas (julho de 2026)
 

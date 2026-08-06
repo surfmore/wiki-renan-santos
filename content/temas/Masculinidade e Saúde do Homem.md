@@ -5,12 +5,21 @@ tags:
   - masculinidade
   - saúde
   - gênero
-date: 2026-06-06
+date: 2026-08-06
 fontes:
+  - "2026-08-06 - Você concorda"
   - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
 ---
 
 Posições de Renan Santos sobre a saúde e os desafios específicos enfrentados por homens e meninos no Brasil. O tema aparece principalmente no contexto de sua defesa do direito de discutir masculinidade de forma saudável, sem censura feminista.
+
+## "Restabelecer a boa autoridade masculina" (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan afirma que "maior culpada é o homem" na desestruturação familiar e defende "restabelecer a boa autoridade masculina" — uma "autoridade masculina que esteja próximo do rapaz, estabelecendo limites e exemplo que sirva de espelho". Ele define o machismo que combate como a irresponsabilidade masculina com os filhos e a pensão, não a presença masculina em si.
+
+Renan sustenta que a ausência da figura paterna gera "garotos indisciplinados" com pior desempenho escolar e maior propensão ao crime, citando estudos dos Estados Unidos, e que sem essa referência o rapaz tende a "reproduzir comportamentos deletérios" num ciclo de empobrecimento.
+
+Ver [[fontes/2026-08-06 - Você concorda]].
 
 ## Estatísticas sobre a situação do homem brasileiro (junho de 2026)
 

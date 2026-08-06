@@ -5,8 +5,16 @@ tags:
   - economia
   - emprego
   - custo-de-vida
-date: 2026-07-02
+date: 2026-08-06
 ---
+
+## "Pé de meia", vale-gás e celular: assistencialismo que rebaixa o debate (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan critica o rebaixamento do debate econômico eleitoral: [[pessoas/Lula]] "dá mais um pouco de pé de meia" e "mais um vale gás", enquanto [[pessoas/Flávio Bolsonaro]] "oferece celular de graça pra mulher para melhorar a intenção de voto com mulher". Ele afirma que a discussão "tinha que tá falando de desindexação, desvinculação, reforma de competitividade".
+
+Renan vincula o diagnóstico ao seu argumento recorrente de que o assistencialismo eleitoreiro "penhora o futuro": as duas faces da mesma moeda — Lulismo e bolsonarismo — "geram danos terríveis pro nosso futuro".
+
+Ver [[fontes/2026-08-06 - Lula ou Flávio]].
 
 ## "O futuro foi penhorado": dívida e assistencialismo eleitoreiro (agosto de 2026)
 

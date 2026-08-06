@@ -5,8 +5,9 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-07-31
+date: 2026-08-06
 fontes:
+  - "2026-08-06 - Lula ou Flávio"
   - "2026-08-04 - Eles estão com medo de vir pro debate."
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
   - "2026-08-02 - Lula está há 30 anos falando a mesma coisa!"
@@ -46,6 +47,14 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Pé de meia" e vale-gás: assistencialismo eleitoreiro (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan afirma que o Lulismo e a família Bolsonaro são "duas faces da mesma moeda" — diferentes entre si, mas "ambos geram danos terríveis pro nosso futuro". Ele critica a proposta de Lula de "dar mais um pouco de pé de meia" e "mais um vale gás pras pessoas" como rebaixamento do debate político, que deveria tratar de "desindexação, desvinculação, reforma de competitividade".
+
+Perguntado em quem votaria num eventual segundo turno entre Lula e Flávio, Renan recusa as categorias: "Eu voto Renan Santos, eu não vou pra batalha pensando em perder."
+
+Ver [[fontes/2026-08-06 - Lula ou Flávio]].
 
 ## "Senhor senil com grande histórico de corrupção" que foge dos debates (agosto de 2026)
 

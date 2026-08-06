@@ -5,10 +5,20 @@ tags:
   - família
   - paternidade
   - crime
-date: 2026-03-05
+date: 2026-08-06
 ---
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
+
+## Ausência paterna, criminalidade e renda: dados (agosto de 2026)
+
+Em **6 de agosto de 2026**, respondendo a quem o acusava de "culpar as mulheres pela criminalidade", Renan afirma que "maior culpada é o homem" e arrola dados: "a maior parte dos casos de rapazes que cometem crimes vem de famílias em que o pai não está presente"; esses rapazes "também apresentam desempenho escolar inferior"; e "famílias monoparentais têm renda menor". Ele cita estudos dos Estados Unidos sobre a ausência da figura paterna como geradora de "garotos indisciplinados".
+
+Renan define o machismo que critica como a irresponsabilidade masculina — homem que não tem "compromisso nem afetivo com a criança, especialmente com este menino", nem com o "pagamento de pensão" — e defende "restabelecer a boa autoridade masculina" próxima do rapaz, "estabelecendo limites e exemplo que sirva de espelho", para quebrar o ciclo de disfunção e empobrecimento.
+
+Ver [[fontes/2026-08-06 - Você concorda]].
+
+## Escola cívico-militar como substituto à ausência paterna (julho de 2026)
 
 ## Escola cívico-militar como substituto à ausência paterna (julho de 2026)
 

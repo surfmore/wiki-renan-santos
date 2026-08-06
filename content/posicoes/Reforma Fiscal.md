@@ -3,10 +3,16 @@ title: "Reforma Fiscal"
 tags:
   - posição
   - economia
-date: 2026-07-03
+date: 2026-08-06
 ---
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
+
+## Desindexação, desvinculação e reforma de competitividade no centro do debate (agosto de 2026)
+
+Em **6 de agosto de 2026**, Renan defende que o debate econômico eleitoral deveria tratar de **desindexação**, **desvinculação** e **reforma de competitividade**, em vez do assistencialismo de [[pessoas/Lula]] ("pé de meia", vale-gás) e [[pessoas/Flávio Bolsonaro]] (celular de graça). Ele afirma que a ausência desses temas no centro da discussão é sintoma do rebaixamento político que descreve como as "duas faces da mesma moeda" entre Lulismo e bolsonarismo.
+
+Ver [[fontes/2026-08-06 - Lula ou Flávio]].
 
 ## Reforma de R$ 3,3 trilhões: previdência, renúncias e supersalários (julho de 2026)
 
