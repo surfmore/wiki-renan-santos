@@ -3,8 +3,20 @@ title: "Estado de Defesa e Direito Penal do Inimigo"
 tags:
   - posição
   - segurança
-date: 2026-07-27
+date: 2026-08-07
 ---
+
+## Estado de defesa focado em territórios do crime, câmeras e recompensa: "não serei o Bukele, serei bem pior" (agosto de 2026)
+
+Em **7 de agosto de 2026**, em resposta a quem interpretou como recuo sua fala na [[eventos/Sabatina da GloboNews — Agosto de 2026|Sabatina da GloboNews]], Renan afirma que "não serei o Bukele, eu serei bem pior" para o crime organizado. Ele explica que as medidas de [[pessoas/Nayib Bukele]] em El Salvador "em grande parte eu não vou adotar no Brasil", pois as medidas brasileiras "serão outras" — e detalha a primeira delas: o **estado de defesa**.
+
+Renan lista as ações previstas na Constituição: restrição do direito de reunião, restrição ao sigilo de correspondência, prisão por crimes contra o Estado de até 10 dias e autorização para entrar sem mandado judicial na casa das pessoas. A diferença central em relação a El Salvador: "Nós faremos isso apenas as áreas controladas pelo crime." Quem mora em Poços de Caldas (MG) ou Gramado (RS) não seria afetado; quem vive em território controlado pelo crime "estará sob estado de defesa", com as polícias autorizadas a vasculhar os membros das facções. Policiais que cometerem abusos durante o estado de defesa "também sofrerão essa mesma punição, dado que trair o povo nesse momento é pior do que ser um traficante".
+
+O pacote inclui ainda: **câmeras** no modelo do Smart Sampa nas principais cidades, com reconhecimento facial de membros do PCC, Comando Vermelho e outras facções; **recompensa em dinheiro** à população por cada "vagabundo encontrado, vivo ou morto" — "pela primeira vez na história, será a população a caçar eles e não eles a caçar o povo"; e a divulgação de mapas de território no estilo dos mapas da guerra da Ucrânia ("Big Brother da luta contra o crime").
+
+Renan anuncia o "**Nuremberg das favelas**", voltado à violência contra as mulheres: moças que sofreram abuso e violações poderão narrar o ocorrido ao Ministério Público e às polícias, e a violência sexual do passado entrará "na ficha suja do vagabundo que foi preso". Conclui que as medidas para o Brasil são diferentes das de Salvador — "mas assim como lá, vagabundo aqui vai sofrer. Eis a nossa declaração de guerra ao nosso estilo, falando português", sem interferência estrangeira.
+
+Ver [[fontes/2026-08-07 - Não vou fazer nada igual o Bukele]].
 
 ## Medalha Antônio João Ribeiro para soldados mortos no combate ao crime (julho de 2026)
 

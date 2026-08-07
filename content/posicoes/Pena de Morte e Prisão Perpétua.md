@@ -5,8 +5,9 @@ tags:
   - segurança-pública
   - pena-de-morte
   - prisão-perpétua
-date: 2026-06-06
+date: 2026-08-07
 fontes:
+  - "2026-08-07 - Esse caso aqui vai gerar pena de m0rte."
   - "2026-07-20 - O que mais um tipo assim merece"
   - "2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará"
   - "2026-06-06 - Lembre-se do Gabriel"
@@ -14,6 +15,16 @@ fontes:
 ---
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
+
+## Pena de morte para estupro de vulnerável: o caso Marco Furlan (agosto de 2026)
+
+Em **7 de agosto de 2026**, ao comentar o [[eventos/Caso Marco Furlan — Agosto de 2026|caso do ator Marco Furlan]], acusado de estuprar um menino autista de 5 anos, Renan afirma: "Num governo meu, eu tenho que buscar pena de morte, mesmo que eu precise alterar a Constituição para isso." Ele descreve o caso como exemplo do "país doente" em que as prioridades penais estariam invertidas.
+
+Renan critica a pena prevista para estupro de vulnerável (8 a 15 anos) e a prescrição de 20 anos — "se ele conseguir enrolar, sair da cadeia, fugir, em 20 anos esse crime desaparece" — e ironiza que os únicos crimes imprescritíveis no Brasil sejam a injúria racial e o crime contra a ordem constitucional ("aquilo lá que condenou a turma do 8 de janeiro"). Cita o PL da misoginia como exemplo de prioridade legislativa que considera equivocada.
+
+Promete que um criminoso como esse, em seu governo, "no mínimo vai ficar 70, 80, 90 anos na cadeia", **sem progressão penal**, e que "um crime como esse nunca, mas nunca prescreve". Conclui que é preciso fazer as leis penais "deixarem de ser elas próprias um manicômio" e priorizarem o que é mais justo.
+
+Ver [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]].
 
 ## Crime hediondo na Bahia: "Eu quero matar esse cara" e promessa de constituinte para pena de morte (julho de 2026)
 

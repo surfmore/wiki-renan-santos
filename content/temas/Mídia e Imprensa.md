@@ -3,8 +3,10 @@ title: "Mídia e Imprensa"
 tags:
   - tema
   - mídia
-date: 2026-08-06
+date: 2026-08-07
 fontes:
+  - "2026-08-07 - Urgente Janja quer derrubar rede social"
+  - "2026-08-06 - Obrigado, Globo!"
   - "2026-08-06 - A GLOBONEWS ME CENSUROU"
   - "2026-07-30 - @kimkataguiri foi cancelado"
   - "2026-07-25 - FUI AMEAÇADO DE M0RTE!"
@@ -15,6 +17,18 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Liberdade nas redes sociais: contra o bloqueio do Discord e por data centers no Brasil (agosto de 2026)
+
+Em **7 de agosto de 2026**, Renan reage à declaração de [[pessoas/Janja]] defendendo a retirada do **Discord** do ar no Brasil. Ele diz que a primeira-dama "não foi eleita" e que sua proposta é uma "sanha autoritária", lembrando que crimes e conteúdos nocivos "acontecem também em todas as redes sociais". Afirma que, em seu governo, "as redes sociais vão funcionar" e propõe criar **data centers no Brasil** para que "boa parte da base de dados fique também por aqui". Resume sua posição: "Liberdade de imprensa e liberdade nas redes sociais é fundamental."
+
+Ver [[fontes/2026-08-07 - Urgente Janja quer derrubar rede social]].
+
+## "Quem vai pautar as eleições somos nós": a sabatina como virada de pauta (agosto de 2026)
+
+Em **6 de agosto de 2026**, em vídeo de agradecimento à Globo News, Renan avalia a repercussão de sua [[eventos/Sabatina da GloboNews — Agosto de 2026|sabatina]]: afirma que o Brasil passou a discutir desfavelização, direito penal do inimigo, decisões ilegais do STF, reformas econômicas e vagas em presídios. Diz que a sabatina "tentou me destruir" — tratando-o como "candidato C" e tentando enquadrá-lo como machista — e compara seu plano de governo ("um livro de 400 páginas") a "um PDF qualquer protocolado por marqueteiros". Conclui: "Quem vai pautar as eleições somos nós."
+
+Ver [[fontes/2026-08-06 - Obrigado, Globo!]].
 
 ## Sabatina da GloboNews: censura contratual de cortes e recorde de audiência (agosto de 2026)
 

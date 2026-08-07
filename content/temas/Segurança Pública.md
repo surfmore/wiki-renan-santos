@@ -3,8 +3,16 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-08-06
+date: 2026-08-07
 ---
+
+## Estado de defesa em áreas controladas pelo crime, câmeras e pena de morte (agosto de 2026)
+
+Em **7 de agosto de 2026**, Renan detalha sua proposta de **estado de defesa** restrito às áreas controladas pelo crime organizado, em resposta a quem viu recuo em sua [[eventos/Sabatina da GloboNews — Agosto de 2026|sabatina na GloboNews]]. Ele afirma que "não serei o Bukele, eu serei bem pior" e que as medidas brasileiras serão diferentes das de El Salvador: entrada sem mandado judicial, restrição ao direito de reunião e ao sigilo de correspondência, prisão de até 10 dias por crimes contra o Estado — apenas em territórios dominados por facções, sem afetar cidades como Poços de Caldas (MG) ou Gramado (RS).
+
+O pacote inclui câmeras no modelo do Smart Sampa com reconhecimento facial de membros do PCC, Comando Vermelho e outras facções; recompensa em dinheiro à população por criminosos localizados; e o "Nuremberg das favelas" para registrar violência sexual passada na ficha de presos. No mesmo dia, ao comentar o [[eventos/Caso Marco Furlan — Agosto de 2026|caso do ator Marco Furlan]], Renan reafirma a defesa da **pena de morte** para estupro de vulnerável e promete prisão de 70 a 90 anos, sem progressão penal e com imprescritibilidade, para crimes contra crianças.
+
+Ver [[fontes/2026-08-07 - Não vou fazer nada igual o Bukele]], [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
 
 ## "O Brasil não está vivendo uma normalidade": guerra contra o crime organizado (agosto de 2026)
 

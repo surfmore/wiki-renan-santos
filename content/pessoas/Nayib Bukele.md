@@ -4,8 +4,9 @@ tags:
   - pessoa
   - referência-internacional
   - segurança-pública
-date: 2026-05-29
+date: 2026-08-07
 fontes:
+  - "2026-08-07 - Não vou fazer nada igual o Bukele"
   - "2026-05-23 - Milei na forma e Bukele no conteúdo"
   - "2026-05-04 - Sim, o que deu certo em El Salvador vai funcionar aqui"
   - "2026-03-24 - Eu tô com muita inveja de El Salvador"
@@ -22,6 +23,12 @@ Presidente de El Salvador desde 2019. Renan Santos o cita sistematicamente como 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As posições são reprodução das declarações dele.
 
 ## O que Renan diz
+
+### "Não serei o Bukele, serei bem pior" — mas com medidas diferentes (agosto de 2026)
+
+Em **7 de agosto de 2026**, Renan responde a quem interpretou como recuo sua fala na [[eventos/Sabatina da GloboNews — Agosto de 2026|sabatina da GloboNews]], onde as jornalistas listaram medidas de Bukele que ele não adotaria. Ele afirma: "Eu não serei o Bukele, eu serei bem pior." Esclarece que "as medidas que nós vamos adotar no Brasil serão outras" — estado de defesa restrito às áreas controladas pelo crime, câmeras com reconhecimento facial, recompensa em dinheiro à população e o "Nuremberg das favelas" — e que, "assim como lá, vagabundo aqui vai sofrer", numa "declaração de guerra ao nosso estilo, falando português", sem interferência estrangeira.
+
+Ver [[fontes/2026-08-07 - Não vou fazer nada igual o Bukele]].
 
 ### Bukele como referência na série "Países na Copa": lição do México (junho de 2026)
 

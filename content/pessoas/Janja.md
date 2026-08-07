@@ -5,8 +5,9 @@ tags:
   - governo-lula
   - cop30
   - corrupção
-date: 2026-05-29
+date: 2026-08-07
 fontes:
+  - "2026-08-07 - Urgente Janja quer derrubar rede social"
   - "2026-07-15 - Criticar a gastança da Janja é MISOGINIA"
   - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
   - "2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE"
@@ -21,6 +22,14 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### Proposta de derrubar o Discord e "sanha autoritária" (agosto de 2026)
+
+Em **7 de agosto de 2026**, Renan reage à declaração de Janja defendendo a retirada do **Discord** do ar no Brasil. Ele ironiza o pedido em primeira pessoa — "Eu gosto muito quando ela coloca isso em primeira pessoa" — e afirma: "Janja, você não foi eleita. Institucionalmente, a sua opinião e a opinião de um cachorro é a mesma coisa."
+
+Renan argumenta que os crimes citados por ela ocorrem "em todas as redes sociais" e que meninas são abusadas diariamente em favelas e no interior, "regiões que votam basicamente no seu marido". Diz que Janja "não pode usar crianças e vítimas de violência ou mesmo suicídio para justificar o que você tem, que é uma sanha autoritária", e conclui que ela "apenas quer mostrar poder".
+
+Ver [[fontes/2026-08-07 - Urgente Janja quer derrubar rede social]].
 
 ### Acusação de misoginia como ferramenta de silenciamento (julho de 2026)
 

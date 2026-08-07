@@ -4,8 +4,18 @@ tags:
   - tema
   - stf
   - instituições
-date: 2026-08-06
+date: 2026-08-07
 ---
+
+## "Um democrata mais democrático do que todos os falsos democratas": resposta à acusação de antidemocracia (agosto de 2026)
+
+Em **7 de agosto de 2026**, Renan responde à classificação de antidemocrático feita pelo analista Thomas Traumann após sua [[eventos/Sabatina da GloboNews — Agosto de 2026|sabatina na GloboNews]]. Ele reafirma que "decisão ilegal não se cumpre" e argumenta que o STF, como guardião da Constituição, é o primeiro que não pode violá-la: "um membro de poder quando vê que outro poder se excede, não é obrigado a cumprir simplesmente porque aquele poder é um poder" — caso contrário "você não teria mais separação de poderes".
+
+Renan cita [[pessoas/Gilmar Mendes]] como exemplo de invasão das prerrogativas do Senado e afirma que, quando um poder se impõe sobre os demais de maneira autoritária, "isso dá o nome de golpe de estado". Sobre o dever presidencial, sustenta que deixar uma decisão monocrática parar o cumprimento da lei — após o devido processo legislativo no Congresso — configuraria **prevaricação**, "crime de responsabilidade" passível de impeachment, diante dos "40 milhões de brasileiros" que vivem "sob o jugo do crime organizado".
+
+Ressalva, porém, que isso não significa "dar golpe de estado" nem "mandar fechar o STF": "O STF que vai ter que se reunir e reformar a decisão errada que tomou." Conclui que a postura "me torna um democrata mais democrático do que todos os falsos democratas que aceitaram a imposição de um poder sobre o outro" e que "não existe democracia com líder fraco" — é na imposição arbitrária de um poder que "surge uma ditadura".
+
+Ver [[fontes/2026-08-07 - Resposta à Globo News eu sou antidemocrático]].
 
 ## "Decisão ilegal não se cumpre" e crítica às decisões monocráticas (agosto de 2026)
 

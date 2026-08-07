@@ -5,8 +5,9 @@ tags:
   - presidente
   - adversário-eleitoral
   - pt
-date: 2026-08-06
+date: 2026-08-07
 fontes:
+  - "2026-08-07 - Urgente Janja quer derrubar rede social"
   - "2026-08-06 - Lula ou Flávio"
   - "2026-08-04 - Eles estão com medo de vir pro debate."
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
@@ -47,6 +48,12 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Senil corrupto" e leniência com o crime organizado nas favelas (agosto de 2026)
+
+Em **7 de agosto de 2026**, ao criticar a proposta de [[pessoas/Janja]] de derrubar o Discord, Renan se diz espantado de viver num país "governado por um senil corrupto, que é o Lula", e ter que lidar com opiniões como as da primeira-dama. Ele afirma que meninas são abusadas diariamente em favelas e no interior — "regiões que votam basicamente no seu marido" — e que Lula "não tem vontade de destruir o crime organizado nas favelas", não atua contra os bailes funks e permite a cultura de sexualização do funk, enquanto "membros das facções criminosas andam no seu governo".
+
+Ver [[fontes/2026-08-07 - Urgente Janja quer derrubar rede social]].
 
 ## "Pé de meia" e vale-gás: assistencialismo eleitoreiro (agosto de 2026)
 
