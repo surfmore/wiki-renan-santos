@@ -6,6 +6,16 @@ tags:
 date: 2026-08-07
 ---
 
+## Duas opções ao bandido e a distinção entre slogan e prática (agosto de 2026)
+
+Em **8 de agosto de 2026**, Renan esclarece o slogan "vamos matar quem roubar": o bandido terá apenas duas opções em seu governo — "Ou você vai ser preso, ou se você reagir, você vai terminar morto ou machucado. Não tem outro caminho". Ele afirma que "a resposta que a presidência da República tem que dar é o bandido ser tratado como bandido e que o cidadão não tem que ter medo".
+
+Ao ser questionado se isso seria uma política de Estado de tiro a esmo, Renan responde: "Aí é uma confusão entre um slogan e uma prática. Eu não vou permitir que policiais fiquem andando atirando a esmo. Isso nem existe." Defende, no entanto, que "a ideia própria de que o Estado vai iniciar sua luta para fazer um enfrentamento total ao crime, respeitando preceitos constitucionais, me parece meio óbvia".
+
+Renan critica o sistema de "prendeu e soltou": "Hoje você prende, vem uma audiência de custódia, solta quase todo mundo. Os crimes são cometidos pelas mesmas pessoas. Essas pessoas são reincidentes e retornam à rua." Conclui: "A provocação do 'prendeu, matou' é você ter dois caminhos. O prendeu, o matou." Sobre o risco de abusos, diz não temer, pois "a gente já vive na sociedade do abuso" e numa "sociedade de medo" que ele quer inverter.
+
+Ver [[fontes/2026-08-08 - Vamos matar quem roubar]] e [[temas/Segurança Pública]].
+
 ## Estado de defesa focado em territórios do crime, câmeras e recompensa: "não serei o Bukele, serei bem pior" (agosto de 2026)
 
 Em **7 de agosto de 2026**, em resposta a quem interpretou como recuo sua fala na [[eventos/Sabatina da GloboNews — Agosto de 2026|Sabatina da GloboNews]], Renan afirma que "não serei o Bukele, eu serei bem pior" para o crime organizado. Ele explica que as medidas de [[pessoas/Nayib Bukele]] em El Salvador "em grande parte eu não vou adotar no Brasil", pois as medidas brasileiras "serão outras" — e detalha a primeira delas: o **estado de defesa**.

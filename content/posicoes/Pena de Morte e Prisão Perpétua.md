@@ -7,6 +7,7 @@ tags:
   - prisão-perpétua
 date: 2026-08-07
 fontes:
+  - "2026-08-08 - Esse caso aqui vai gerar pena de morte."
   - "2026-08-07 - Esse caso aqui vai gerar pena de m0rte."
   - "2026-07-20 - O que mais um tipo assim merece"
   - "2026-07-16 - Eu fui em um lugar amaldiçoado no Ceará"
@@ -24,7 +25,9 @@ Renan critica a pena prevista para estupro de vulnerável (8 a 15 anos) e a pres
 
 Promete que um criminoso como esse, em seu governo, "no mínimo vai ficar 70, 80, 90 anos na cadeia", **sem progressão penal**, e que "um crime como esse nunca, mas nunca prescreve". Conclui que é preciso fazer as leis penais "deixarem de ser elas próprias um manicômio" e priorizarem o que é mais justo.
 
-Ver [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]].
+Em **8 de agosto de 2026**, Renan republicou o vídeo sobre o caso Furlan (nova edição, mesmo conteúdo), reafirmando integralmente essa posição.
+
+Ver [[fontes/2026-08-08 - Esse caso aqui vai gerar pena de morte.]] e [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]].
 
 ## Crime hediondo na Bahia: "Eu quero matar esse cara" e promessa de constituinte para pena de morte (julho de 2026)
 

@@ -12,6 +12,14 @@ Deputada federal pelo PSOL (SP), figura usada por Renan Santos recorrentemente c
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
 
+## Defensora do PL da Misoginia e contrária à redução da maioridade penal (agosto de 2026)
+
+Em **8 de agosto de 2026**, ao comentar o [[eventos/Assassinato de José Edson da Silva — Agosto de 2026|assassinato do motorista de aplicativo José Edson da Silva]] por três adolescentes, Renan critica Érika Hilton entre os "mesmos parlamentares" que defendem o PL da misoginia — que considera "draconiano e absurdo" — e são contra a redução da maioridade penal. Ele afirma que isso faz "assassinos menores de idade pegarem apenas 3 anos de uma pena disciplinar", voltarem "pra rua com a sua ficha limpa" e voltarem "a nos perturbar e nos assassinar".
+
+A crítica reforça o padrão que Renan atribui a Érika (já registrado nas [[pessoas/Érika Hilton|votações contra medidas penais]]): priorizar pautas simbólicas como o PL da misoginia enquanto se opõe a instrumentos de punição efetiva de crimes violentos.
+
+Ver [[fontes/2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal.]].
+
 ## "Urna viada" e a futilidade do debate político (julho de 2026)
 
 Em **4 de julho de 2026**, Renan critica Érika Hilton por ter levado à Parada Gay o tema da "urna viada" — uma urna eletrônica temática LGBTQIAP+. Para Renan, a deputada usa a pauta para eleger candidatos do PSOL enquanto o Brasil enfrenta problemas graves como pobreza, crise econômica e a transformação do país em narcoestado.
@@ -97,6 +105,7 @@ Ver [[pessoas/Oruam]].
 
 ## Fontes
 
+- [[fontes/2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal.]] — defensora do PL da misoginia e contra a redução da maioridade penal
 - [[fontes/2026-07-04 - Urna viada]] — crítica à "urna viada" promovida por Érika Hilton como exemplo de futilidade política
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — ataque seletivo à Cazé TV; não crítica outras emissoras que também usam bets
 - [[fontes/2026-06-12 - Erika Hilton achou a solução para a sua conta de luz!]] — relatório de isenção de energia para ONGs LGBT financiado pelo CDE

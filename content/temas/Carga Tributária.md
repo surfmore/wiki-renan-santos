@@ -8,6 +8,14 @@ date: 2026-07-03
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
+## Política fiscal do PT, juros de 14-15% e os bancos (agosto de 2026)
+
+Em **8 de agosto de 2026**, ao responder a [[pessoas/José Dirceu]], Renan afirma que "a política fiscal irresponsável de vocês do PT é a que faz os juros ficarem nessa taxa de 14, 15%". Ele argumenta que quem ganha com isso são os bancos — enquanto "as pessoas não comem picanha, as pessoas não têm celular novo, as pessoas não consomem mais".
+
+Renan rebate a acusação de que defenderia os ricos da Faria Lima: diz que "a Faria Lima apoiou ou o Bolsonaro ou o Lula" — os grandes bancos apoiaram Lula em 2022 e o BTG Pactual "tá nas suas reuniões apoiando o Lula". Provoca Dirceu: "Você fala muito contra banco, mas você vive lá na Faria Lima." Para Renan, o governo PT "gasta com migalhas para manter os miseráveis sobrevivendo, para enriquecer essa mesma elite, seja do funcionalismo, seja dos banqueiros".
+
+Ver [[fontes/2026-08-08 - Resposta para José Dirceu]].
+
 ## PEC do IPVA 1% de Kim Kataguiri avança na CCJ (julho de 2026)
 
 Em **11 de julho de 2026**, Renan celebra o avanço da PEC de autoria de [[pessoas/Kim Kataguiri]] que limita o IPVA a no máximo 1% do valor do carro, usando o peso como critério de alíquota (modelo de países desenvolvidos). A compensação virá do corte de gastos com propaganda do governo. Renan anuncia planos de estender o mesmo princípio ao IPTU, com a lógica central de que, cortando gastos federais, será possível reduzir impostos.

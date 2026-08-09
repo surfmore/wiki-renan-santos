@@ -8,6 +8,10 @@ tags:
 date: 2026-08-06
 ---
 
+## "Pessoas não comem picanha": consumo travado pela política do PT (agosto de 2026)
+
+Em **8 de agosto de 2026**, ao responder a [[pessoas/José Dirceu]], Renan afirma que "as pessoas não comem picanha, as pessoas não têm celular novo, as pessoas não consomem mais" por causa da política econômica do PT — que, segundo ele, gera juros de 14-15% e "gasta com migalhas para manter os miseráveis sobrevivendo, para enriquecer essa mesma elite, seja do funcionalismo, seja dos banqueiros". Ele retoma a promessa: "No meu governo você vai comer as coisas que você quer. Isso pode incluir picanha." Ver [[temas/Carga Tributária]] e [[fontes/2026-08-08 - Resposta para José Dirceu]].
+
 ## "Pé de meia", vale-gás e celular: assistencialismo que rebaixa o debate (agosto de 2026)
 
 Em **6 de agosto de 2026**, Renan critica o rebaixamento do debate econômico eleitoral: [[pessoas/Lula]] "dá mais um pouco de pé de meia" e "mais um vale gás", enquanto [[pessoas/Flávio Bolsonaro]] "oferece celular de graça pra mulher para melhorar a intenção de voto com mulher". Ele afirma que a discussão "tinha que tá falando de desindexação, desvinculação, reforma de competitividade".

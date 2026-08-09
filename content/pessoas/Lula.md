@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-08 - Resposta para José Dirceu"
   - "2026-08-07 - Urgente Janja quer derrubar rede social"
   - "2026-08-06 - Lula ou Flávio"
   - "2026-08-04 - Eles estão com medo de vir pro debate."
@@ -48,6 +49,12 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Comandado" por José Dirceu e descrito como "senil" (agosto de 2026)
+
+Em **8 de agosto de 2026**, ao responder a [[pessoas/José Dirceu]], Renan afirma que "você que comanda o Lula, que tá senil" — tratando o ex-ministro como o operador real do PT e Lula como um presidente sem comando. O contexto é a aposta de Renan de que o "verdadeiro duelo, o verdadeiro jogo de xadrez" da eleição será entre ele e o PT, e não entre o PT e [[pessoas/Flávio Bolsonaro]].
+
+Ver [[fontes/2026-08-08 - Resposta para José Dirceu]].
 
 ## "Senil corrupto" e leniência com o crime organizado nas favelas (agosto de 2026)
 
@@ -421,6 +428,7 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-08-08 - Resposta para José Dirceu]] — Renan diz que Dirceu "comanda" Lula, descrito como "senil"; o duelo seria entre ele e o PT
 - [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]] — Renan critica a repetição de promessas vazias de Lula e a falta de ambição
 - [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — vale-gás como "penhorar o futuro"; Renan recusa oferecer esmola
 - [[fontes/2026-07-25 - Mais um cr1me hediondo na Bahia]] — Renan acusa Lula/PT de ser "amigo do crime organizado" e de não querer mudanças na lei penal

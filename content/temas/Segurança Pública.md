@@ -6,13 +6,31 @@ tags:
 date: 2026-08-07
 ---
 
+## Slogan "vamos matar quem roubar" esclarecido: duas opções ao bandido (agosto de 2026)
+
+Em **8 de agosto de 2026**, em formato de entrevista, Renan esclarece a declaração "vamos matar quem roubar". Ele afirma que falava de um país em que a pessoa "pode andar com o seu celular na rua" e comprar "as coisas que você quer" sem ser assaltada: "Quem tentar te fazer isso vai morrer." Diz que "a resposta que a presidência da República tem que dar é o bandido ser tratado como bandido e que o cidadão não tem que ter medo".
+
+Ao ser perguntado sobre o risco de abusos e de matar inocentes, Renan responde: "Não, não temo. A gente já vive na sociedade do abuso" — afirma que o "abuso e a violação dos direitos humanos se tornou regra" e que se vive numa "sociedade de medo" que ele quer inverter. Sobre o slogan virar política de Estado, faz a distinção: "Aí é uma confusão entre um slogan e uma prática. Eu não vou permitir que policiais fiquem andando atirando a esmo. Isso nem existe."
+
+Renan define que o bandido terá apenas duas opções em seu governo: "Ou você vai ser preso, ou se você reagir, você vai terminar morto ou machucado." Critica o "prendeu e soltou": "Hoje você prende, vem uma audiência de custódia, solta quase todo mundo. Os crimes são cometidos pelas mesmas pessoas. Essas pessoas são reincidentes e retornam à rua." Conclui que "a provocação do 'prendeu, matou' é você ter dois caminhos. O prendeu, o matou".
+
+Ver [[fontes/2026-08-08 - Vamos matar quem roubar]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+
+## Assassinato de motorista de aplicativo e a redução da maioridade penal (agosto de 2026)
+
+Em **8 de agosto de 2026**, Renan usa o [[eventos/Assassinato de José Edson da Silva — Agosto de 2026|assassinato do motorista de aplicativo José Edson da Silva]] — morto em Ribeirão Preto por três adolescentes que queriam roubar o carro — como "argumento irrefutável" para a redução da maioridade penal. Ele declara: "Eu quero matar esses adolescentes", e os chama de "demônios": "assassinou, não há idade penal".
+
+Renan defende penas "gigantescas", sem "treinamento nem recuperação", e um **direito penal focado na vítima** — em oposição ao direito penal atual, que diz ser "voltado pra recuperação do bandido". Afirma que, se a polícia pegar adolescentes cometendo esse crime, "ela vai passar fogo. Ela vai matar esses adolescentes". Critica [[pessoas/Tabata Amaral]] e [[pessoas/Érika Hilton]] por defenderem o PL da misoginia e serem contra a redução da maioridade penal, o que faria menores assassinos "pegarem apenas 3 anos de uma pena disciplinar", voltarem "pra rua com a sua ficha limpa" e voltarem a assassinar. Encerra: "Eu tenho lado, eu vou vingar esse homem."
+
+Ver [[fontes/2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal.]] e [[posicoes/Redução da Maioridade Penal e Hospitais Psiquiátricos]].
+
 ## Estado de defesa em áreas controladas pelo crime, câmeras e pena de morte (agosto de 2026)
 
 Em **7 de agosto de 2026**, Renan detalha sua proposta de **estado de defesa** restrito às áreas controladas pelo crime organizado, em resposta a quem viu recuo em sua [[eventos/Sabatina da GloboNews — Agosto de 2026|sabatina na GloboNews]]. Ele afirma que "não serei o Bukele, eu serei bem pior" e que as medidas brasileiras serão diferentes das de El Salvador: entrada sem mandado judicial, restrição ao direito de reunião e ao sigilo de correspondência, prisão de até 10 dias por crimes contra o Estado — apenas em territórios dominados por facções, sem afetar cidades como Poços de Caldas (MG) ou Gramado (RS).
 
 O pacote inclui câmeras no modelo do Smart Sampa com reconhecimento facial de membros do PCC, Comando Vermelho e outras facções; recompensa em dinheiro à população por criminosos localizados; e o "Nuremberg das favelas" para registrar violência sexual passada na ficha de presos. No mesmo dia, ao comentar o [[eventos/Caso Marco Furlan — Agosto de 2026|caso do ator Marco Furlan]], Renan reafirma a defesa da **pena de morte** para estupro de vulnerável e promete prisão de 70 a 90 anos, sem progressão penal e com imprescritibilidade, para crimes contra crianças.
 
-Ver [[fontes/2026-08-07 - Não vou fazer nada igual o Bukele]], [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+Ver [[fontes/2026-08-07 - Não vou fazer nada igual o Bukele]], [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]]. O vídeo do caso Furlan foi republicado por Renan em **8 de agosto de 2026** ([[fontes/2026-08-08 - Esse caso aqui vai gerar pena de morte.]]) com o mesmo conteúdo.
 
 ## "O Brasil não está vivendo uma normalidade": guerra contra o crime organizado (agosto de 2026)
 

@@ -7,6 +7,7 @@ tags:
   - psiquiatria
 date: 2026-07-03
 fontes:
+  - "2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal."
   - "2026-07-11 - Cuidado ao ir ao shopping"
   - "2026-07-02 - Essa professora foi atacada pelos próprios alunos em São José dos Campos"
   - "2026-07-01 - Sâmia Bonfim resolveu me atacar"
@@ -15,6 +16,16 @@ fontes:
 ---
 
 Duas propostas de Renan Santos relacionadas ao tratamento de criminosos que considera irrecuperáveis: a redução efetiva da maioridade penal para crimes violentos e a restauração do sistema de internação psiquiátrica compulsória.
+
+## Assassinato de motorista de aplicativo: "eu quero matar esses adolescentes" (agosto de 2026)
+
+Em **8 de agosto de 2026**, Renan usa o [[eventos/Assassinato de José Edson da Silva — Agosto de 2026|assassinato do motorista de aplicativo José Edson da Silva]] — morto em Ribeirão Preto por três adolescentes que pediram uma corrida para roubar o carro — como "argumento irrefutável" para a redução da maioridade penal. Ele declara: "Eu quero matar esses adolescentes. Chega de gente fingir que a gente tá na Suíça, na França, nós estamos no Brasil. Esses garotos são demônios."
+
+Renan defende que "assassinou, não há idade penal" e que "as penas serão gigantescas", sem "treinamento nem recuperação". Afirma que, se a polícia pegar esses adolescentes cometendo esse crime, "ela vai passar fogo. Ela vai matar esses adolescentes". Contrapõe ao modelo atual um **direito penal focado na vítima** — "Para quem eu quero fazer justiça? Para esse menino do áudio que tava esperando o retorno do teu pai."
+
+Renan critica [[pessoas/Tabata Amaral]] e [[pessoas/Érika Hilton]]: defensoras do PL da misoginia e contrárias à redução da maioridade penal, o que faria "assassinos menores de idade pegarem apenas 3 anos de uma pena disciplinar", voltarem "pra rua com a sua ficha limpa" e voltarem a assassinar. Também critica "jornalista por aí minimizando o assunto, dizendo que a figura paterna não conta". Encerra: "Eu tenho lado, eu vou vingar esse homem."
+
+Ver [[fontes/2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal.]].
 
 ## Caso Mateus da Costa Meira: soltura de psicopata (julho de 2026)
 

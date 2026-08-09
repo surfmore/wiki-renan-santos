@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-06
 fontes:
+  - "2026-08-08 - Resposta para José Dirceu"
   - "2026-08-06 - Lula ou Flávio"
   - "2026-08-04 - Eles estão com medo de vir pro debate."
   - "2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente"
@@ -14,6 +15,12 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Burrinho" e "simplinho" na aposta do PT (agosto de 2026)
+
+Em **8 de agosto de 2026**, ao responder a [[pessoas/José Dirceu]], Renan reproduz a avaliação que atribui ao PT: "Vocês achavam que a eleição seria um jogo entre vocês e o Flavinho Bolsonaro, que é burrinho, é simplinho, que vocês derrotam no segundo turno." Ele usa a fala para argumentar que o PT subestimou a eleição e que o "verdadeiro duelo" será entre o PT e ele, não entre o PT e Flávio.
+
+Ver [[fontes/2026-08-08 - Resposta para José Dirceu]].
 
 ## "Duas faces da mesma moeda" com o Lulismo (agosto de 2026)
 
@@ -503,6 +510,7 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-08-08 - Resposta para José Dirceu]] — Renan reproduz a aposta do PT de que Flávio é "burrinho" e "simplinho"; o duelo seria entre Renan e o PT
 - [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — Renan critica a promessa de Flávio de dar celular a todos como assistencialismo
 - [[fontes/2026-07-16 - Taxaram a gente]] — Renan critica Flávio por viagem "patética" aos EUA para defender Brasil de tarifas; "Trump só usa esses idiotas"
 - [[fontes/2026-05-20 - Quem é o homem que pode acabar com a candidatura de Flávio]] — Valdemar como dono do bolsonarismo; Mensalão; PL R$ 953M

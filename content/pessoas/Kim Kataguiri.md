@@ -6,6 +6,7 @@ tags:
   - partido-missão
 date: 2026-07-30
 fontes:
+  - "2026-08-08 - Resposta para José Dirceu"
   - "2026-07-30 - @kimkataguiri foi cancelado"
   - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
   - "2026-06-29 - Sabotagem indígena até no Rio Grande do Sul!"
@@ -16,6 +17,12 @@ fontes:
 ---
 
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
+
+## CPI do INSS e a "destruição" de Everton Rocha (agosto de 2026)
+
+Em **8 de agosto de 2026**, ao responder a [[pessoas/José Dirceu]], que acusou a bancada de Renan de ter derrubado avanços do governo do PT, Renan defende Kim Kataguiri como o único deputado de sua bancada — "ele vale muito mais do que bancadas inteiras de partidos". Afirma que Kim "lutou muito contra muitos aumentos de impostos" que o PT tentou passar, atuou na **CPI do INSS** "da roubalheira do teu partido" e "conseguiu destruir o Everton Rocha" — citado por Renan como vice-presidente do INSS no governo Lula, do PDT do Maranhão.
+
+Ver [[fontes/2026-08-08 - Resposta para José Dirceu]].
 
 ## Cancelamento após entrevistas na Dia TV e Léo Dias TV (julho de 2026)
 
@@ -186,6 +193,7 @@ Ver [[fontes/2026-02-05 - VOCÊ VAI PAGAR 1% NO IPVA DO SEU CARRO!]].
 
 ## Fontes
 
+- [[fontes/2026-08-08 - Resposta para José Dirceu]] — defesa de Kim como "bancada inteira"; CPI do INSS e "destruição" de Everton Rocha
 - [[fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!]] — PEC do IPVA 1% detalhada; peso como critério; Kim como futuro ministro
 - [[fontes/2026-05-28 - Resposta para Nikolas Ferreira]] — votou contra a escala 4x3; citado como contraponto à proposta "psicopática" de Nikolas
 - [[fontes/2025-09-16 - URGENTE PEC DA BLINDAGEM APROVADA]] — único de direita a votar contra e a discursar no plenário

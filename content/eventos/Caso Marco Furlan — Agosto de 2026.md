@@ -7,6 +7,7 @@ tags:
   - direito-penal
 date: 2026-08-07
 fontes:
+  - "2026-08-08 - Esse caso aqui vai gerar pena de morte."
   - "2026-08-07 - Esse caso aqui vai gerar pena de m0rte."
 ---
 
@@ -22,4 +23,6 @@ Segundo o relato reproduzido por Renan, Furlan foi acusado de estuprar um menino
 
 Renan afirma que, num governo seu, buscará a **pena de morte** para crimes como esse, "mesmo que eu precise alterar a Constituição". Critica a pena prevista para estupro de vulnerável (8 a 15 anos) e a prescrição de 20 anos, e promete que um criminoso assim ficará "70, 80, 90 anos na cadeia", sem progressão penal, com o crime imprescritível.
 
-Ver [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]] e [[posicoes/Pena de Morte e Prisão Perpétua]].
+Em **8 de agosto de 2026**, Renan republicou o vídeo sobre o caso (nova edição, mesmo conteúdo), mantendo os mesmos argumentos e a defesa da pena de morte.
+
+Ver [[fontes/2026-08-08 - Esse caso aqui vai gerar pena de morte.]], [[fontes/2026-08-07 - Esse caso aqui vai gerar pena de m0rte.]] e [[posicoes/Pena de Morte e Prisão Perpétua]].

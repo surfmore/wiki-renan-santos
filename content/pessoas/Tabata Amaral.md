@@ -6,6 +6,7 @@ tags:
   - oposição
 date: 2026-06-26
 fontes:
+  - "2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal."
   - "2026-07-16 - Tabata Amaral vai prender o seu filho"
   - "2026-06-26 - A Cazé TV vai acabar!"
   - "2026-06-11 - Aprovada redução da maioridade penal"
@@ -16,6 +17,14 @@ fontes:
 Deputada federal, fundadora do **Partido Solidariedade** (ex-PSB), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Defensora do PL da Misoginia e contrária à redução da maioridade penal (agosto de 2026)
+
+Em **8 de agosto de 2026**, ao comentar o [[eventos/Assassinato de José Edson da Silva — Agosto de 2026|assassinato do motorista de aplicativo José Edson da Silva]] por três adolescentes, Renan critica Tabata Amaral entre os "mesmos parlamentares" que defendem o PL da misoginia — que ele considera "draconiano e absurdo" — e são contra a redução da maioridade penal. Isso faria com que "assassinos menores de idade peguem apenas 3 anos de uma pena disciplinar", voltem "pra rua com a sua ficha limpa" e voltem a "nos perturbar e nos assassinar".
+
+Renan usa o caso para reforçar o argumento de que a prioridade legislativa está invertida: "muito legislador considera pior você fazer um comentário com uma eventual intenção que pode ser interpretada como misógina do que você estuprar uma criança" — e, no caso do vídeo, menores assassinos ficarem impunes.
+
+Ver [[fontes/2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal.]].
 
 ## PL da Misoginia: defesa da criminalização de termos como "alfa" e "beta" (julho de 2026)
 
@@ -70,6 +79,7 @@ Durante as enchentes graves que atingiram a região metropolitana do Recife em m
 
 ## Fontes
 
+- [[fontes/2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal.]] — defensora do PL da misoginia e contra a redução da maioridade penal
 - [[fontes/2026-07-16 - Tabata Amaral vai prender o seu filho]] — defesa do PL da Misoginia; criminalização de termos como "alfa" e "beta"
 - [[fontes/2026-06-26 - A Cazé TV vai acabar!]] — hipocrisia sobre bets: ataca Cazé TV mas São João do Recife foi bancado por bet
 - [[fontes/2026-05-08 - Tabata Amaral é solidária com o Recife]] — solidariedade performática nas enchentes de Recife
