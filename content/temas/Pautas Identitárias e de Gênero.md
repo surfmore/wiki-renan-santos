@@ -7,6 +7,7 @@ tags:
   - esquerda
 date: 2026-08-05
 fontes:
+  - "2026-08-09 - Olha a última do Wagner Moura"
   - "2026-08-05 - Um governo para todos"
   - "2026-07-15 - Criticar a gastança da Janja é MISOGINIA"
   - "2026-06-14 - Romário está sendo cancelado!"
@@ -21,6 +22,14 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## "Fascismo de esquerda" e o cansaço do identitarismo (agosto de 2026)
+
+Em **9 de agosto de 2026**, Renan comenta a declaração do ator [[pessoas/Wagner Moura]] de que a "turma identitária" é composta de "fascistas de esquerda" ("fascisminho de esquerda, de não pode, de não sei o que lá") e que ele estaria disposto a dialogar com a direita. Renan usa o episódio para defender sua tese de que o identitarismo "devora" os próprios criadores: homens brancos que "alimentaram os próprios monstros" — como Caetano Veloso, Mark Zuckerberg e Bill Maher — agora estariam sendo devorados por eles.
+
+Para Renan, Moura defendeu "as ideias convenientes" para entrar numa "patota" que dava acesso a grandes filmes e financiamentos, e agora, como "homem branco hétero" no fim da "fila de prioridade", não tem "direito nem mais a ter uma opinião". Ele afirma que a direita "não tá muito afim de negociar" com quem chamou os adversários de fascistas o tempo todo e propõe que a produção cultural deixe de ser condicionada ao identitarismo (ver [[posicoes/Liberdade Cultural e Fim do Direcionamento Identitário]]).
+
+Ver [[fontes/2026-08-09 - Olha a última do Wagner Moura]].
 
 ## Racismo e LGBTfobia: "lei e ordem" como resposta universal (agosto de 2026)
 
@@ -321,6 +330,7 @@ Ver [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] e [[font
 
 ## Fontes
 
+- [[fontes/2026-08-09 - Olha a última do Wagner Moura]] — "fascismo de esquerda"; cansaço do identitarismo; fim das amarras identitárias na cultura
 - [[fontes/2026-06-14 - Romário está sendo cancelado!]] — Renan usa o cancelamento de Romário para alertar sobre os riscos da Lei da Misoginia
 - [[fontes/2026-06-09 - Cotas num hospital privado]] — MP exige 55% de cotistas no Hospital Albert Einstein; Renan critica e propõe alternativa meritocrática
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]]

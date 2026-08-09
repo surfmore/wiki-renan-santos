@@ -7,11 +7,20 @@ tags:
   - gênero
 date: 2026-08-06
 fontes:
+  - "2026-08-09 - Esse aqui é meu vídeo de dia dos pais."
   - "2026-08-06 - Você concorda"
   - "2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré"
 ---
 
 Posições de Renan Santos sobre a saúde e os desafios específicos enfrentados por homens e meninos no Brasil. O tema aparece principalmente no contexto de sua defesa do direito de discutir masculinidade de forma saudável, sem censura feminista.
+
+## Defesa da masculinidade positiva no Dia dos Pais (agosto de 2026)
+
+Em **9 de agosto de 2026**, na mensagem de Dia dos Pais, Renan afirma que há um "ataque cada vez menos velado à paternidade e a boas figuras masculinas" no país, com o objetivo de fazer o papel de pai "ser negligenciado" e silenciar os "exemplos virtuosos de masculinidade". Ele relembra que foi à GloboNews defender a "masculinidade positiva" — o exemplo do pai, do avô e do "bom homem de referência" — e diz ter tido dificuldade de fazer a jornalista entender o ponto, sendo questionado se se coloca como "homem machista".
+
+Renan defende a família biparental como "a mais importante tecnologia inventada pelo ser humano" e alerta que o número de bebês sem o pai registrando a paternidade subiu de 5% para 7% em 10 anos, com impacto maior no Norte e Nordeste — onde "quem mais sofre" são crianças, mães e a sociedade. Ele deseja que as mães carreguem "cada vez menos o peso dos maus pais" e que as crianças tenham bons exemplos do pai e da mãe.
+
+Ver [[fontes/2026-08-09 - Esse aqui é meu vídeo de dia dos pais.]] e [[eventos/Sabatina da GloboNews — Agosto de 2026]].
 
 ## "Restabelecer a boa autoridade masculina" (agosto de 2026)
 
@@ -44,4 +53,5 @@ Renan encerra afirmando que sua luta é para que "os jovens meninos brasileiros 
 
 ## Fontes
 
+- [[fontes/2026-08-09 - Esse aqui é meu vídeo de dia dos pais.]] — defesa da masculinidade positiva; participação na GloboNews; dados sobre paternidade
 - [[fontes/2026-06-06 - Flávio Bolsonaro censurou Juliano Cazarré]] — Defesa de Juliano Cazarré e apresentação de dados sobre a situação masculina no Brasil

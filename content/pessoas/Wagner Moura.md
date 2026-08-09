@@ -6,10 +6,21 @@ tags:
   - esquerda
 date: 2026-01-13
 fontes:
+  - "2026-08-09 - Olha a última do Wagner Moura"
   - "2026-01-13 - PRECISAMOS FALAR SOBRE O WAGNER MOURA"
 ---
 
 Ator brasileiro radicado no exterior, conhecido internacionalmente por papéis em produções como *Narcos* e *Elysium*. Renan Santos o menciona como figura emblemática da "elite cultural" de esquerda que, na sua visão, não vive no Brasil mas emite opiniões sobre o país.
+
+## "Cansado de ser odiado": o cansaço do identitarismo (agosto de 2026)
+
+Em **9 de agosto de 2026**, Renan comenta declarações recentes de Moura, que afirmou estar "cansado de ser odiado", classificou a "turma identitária" de "fascistas de esquerda" ("fascisminho de esquerda, de não pode, de não sei o que lá") e disse estar disposto a dialogar com a direita. Renan ironiza a mudança: "Nem eu esperava."
+
+Renan contrapõe essas falas a posições anteriores de Moura: a defesa de que "Lula precisa ser empurrado para um progressismo maior" voltada a "congressistas de 20, 21 anos, do povo trans, dos pretos, das mulheres"; o filme sobre Marighela — que Renan descreve como "terrorista" que atirava em inocentes; e o arrependimento do Capitão Nascimento, com Moura dizendo que *Tropa de Elite* mostrava "como a polícia assassina". Na leitura de Renan, Moura faz parte de um processo em que homens brancos que "alimentaram os próprios monstros" agora são "devorados" pelo identitarismo — já que, com tanto "lugar de fala", "não tem direito nem mais a ter uma opinião".
+
+Renan conclui que a direita "não tá muito afim de negociar" com Moura ("não adianta pedir socorro") e usa o episódio para defender que em seu governo "a arte será livre", sem amarras identitárias (ver [[posicoes/Liberdade Cultural e Fim do Direcionamento Identitário]]).
+
+Ver [[fontes/2026-08-09 - Olha a última do Wagner Moura]].
 
 ## O prêmio e a repercussão política (janeiro de 2026)
 
@@ -27,4 +38,5 @@ Os aliados políticos de Moura — o PT — estão no governo, e os estados onde
 
 ## Fontes
 
+- [[fontes/2026-08-09 - Olha a última do Wagner Moura]] — "cansaço" do identitarismo; Renan contrapõe posições anteriores do ator
 - [[fontes/2026-01-13 - PRECISAMOS FALAR SOBRE O WAGNER MOURA]]

@@ -10,6 +10,14 @@ date: 2026-08-06
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## Mensagem de Dia dos Pais: defesa da família biparental (agosto de 2026)
+
+Em **9 de agosto de 2026**, em sua mensagem de Dia dos Pais, Renan afirma que o país assiste a um "ataque cada vez menos velado à paternidade e a boas figuras masculinas", no qual o papel de pai "precisa ser negligenciado", os "exemplos virtuosos de masculinidade" silenciados e a família biparental relativizada. Ele arrola dados de estudos: a chance de um filho cair no crime seria **três vezes menor** com a figura paterna por perto; a pobreza familiar, **quatro vezes menor** com o núcleo familiar; e o desempenho escolar e os efeitos psicológicos seriam superiores com o pai presente.
+
+Renan alerta que o número de bebês sem o pai registrando a paternidade subiu de **5% para 7%** nos últimos 10 anos, com efeitos "dramáticos" especialmente nas regiões Norte e Nordeste. Critica a política que, na sua leitura, prefere "casar" a mãe solteira com um benefício do Estado a preservar a família — o que facilitaria a vida do "mau pai" — e defende a família como "a mais importante tecnologia inventada pelo ser humano".
+
+Ver [[fontes/2026-08-09 - Esse aqui é meu vídeo de dia dos pais.]].
+
 ## Ausência paterna, criminalidade e renda: dados (agosto de 2026)
 
 Em **6 de agosto de 2026**, respondendo a quem o acusava de "culpar as mulheres pela criminalidade", Renan afirma que "maior culpada é o homem" e arrola dados: "a maior parte dos casos de rapazes que cometem crimes vem de famílias em que o pai não está presente"; esses rapazes "também apresentam desempenho escolar inferior"; e "famílias monoparentais têm renda menor". Ele cita estudos dos Estados Unidos sobre a ausência da figura paterna como geradora de "garotos indisciplinados".
@@ -152,6 +160,7 @@ Este tema se articula diretamente com:
 
 ## Fontes
 
+- [[fontes/2026-08-09 - Esse aqui é meu vídeo de dia dos pais.]] — mensagem de Dia dos Pais; defesa da família biparental e dados sobre ausência paterna (crime 3x menor, pobreza 4x menor)
 - [[fontes/2026-07-12 - Eu tive um pesadelo]] — Renan tem pesadelo revisitando a casa em Moju; reflexão sobre a "falta de qualidade dos homens brasileiros"
 - [[fontes/2026-06-28 - Você conhece a lenda do boto]] — lenda do boto como símbolo do ciclo familiar disfuncional na região Norte
 - [[fontes/2026-05-18 - Por que a vida em Brasilândia é tão ruim quando comparada com as zonas centrais da cidade]] — ciclo familiar na favela; desfavelização cultural

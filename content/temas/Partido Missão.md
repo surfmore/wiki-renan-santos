@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha."
   - "2026-08-05 - Nós construímos nosso próprio caminho"
   - "2026-08-05 - Estou pronto para ser o CEO do Brasil"
   - "2026-08-04 - Eles estão com medo de vir pro debate."
@@ -34,6 +35,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Primeiro ato de campanha e ameaças da esquerda (agosto de 2026)
+
+Em **9 de agosto de 2026**, Renan anuncia seu **primeiro ato de campanha** para o dia **16 de agosto de 2026**, no **Largo São Francisco** (Parlatório), em São Paulo — local onde cursou a Faculdade de Direito. Ele relata que, horas após o anúncio, começou a receber **ameaças de morte** e que a "esquerda da USP" e a **UNE** convocaram manifestações para tentar impedir o comício e o acesso das pessoas ao local. Renan garante que o evento vai acontecer, que as ameaças serão reportadas à polícia estadual e federal, e que "nós vamos tomar todos esses lugares" ao longo dos próximos meses.
+
+Ver [[fontes/2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha.]] e [[eventos/Primeiro Ato de Campanha e Ameaças — Agosto de 2026]].
 
 ## "Nós construímos nosso próprio caminho": a recusa da "terceira via" (agosto de 2026)
 
@@ -264,6 +271,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha.]] — primeiro ato de campanha no Largo São Francisco; ameaças e mobilização da esquerda
 - [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% Real Time Big Data; ultrapassar Flávio; 2M seguidores; em Cuiabá
 - [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida por bets; padrões éticos do partido
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Cinco eixos do programa reafirmados; slogan "O futuro é glorioso"
