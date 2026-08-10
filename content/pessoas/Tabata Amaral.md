@@ -4,8 +4,9 @@ tags:
   - pessoa
   - política
   - oposição
-date: 2026-06-26
+date: 2026-08-10
 fontes:
+  - "2026-08-10 - Fui cancelado pela Andréia Sadi."
   - "2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal."
   - "2026-07-16 - Tabata Amaral vai prender o seu filho"
   - "2026-06-26 - A Cazé TV vai acabar!"
@@ -17,6 +18,12 @@ fontes:
 Deputada federal, fundadora do **Partido Solidariedade** (ex-PSB), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## O "crime favorito da Tabata Amaral": misoginia como única imprescritível (agosto de 2026)
+
+Em **10 de agosto de 2026**, ao responder à acusação de [[pessoas/Andréia Sadi]] de que não liga para feminicídio, Renan lista as prescrições dos crimes violentos e ironiza que a **misoginia** é o único crime entre eles que **não prescreve** — chamando-a de "o crime favorito da Tabata Amaral". Ele afirma que o crime de misoginia "nem devia estar sendo discutido" e é "só censura em rede social". Enquanto isso, no seu diagnóstico, feminicídio e homicídio prescrevem em 20 anos e as penas são baixas demais.
+
+Ver [[fontes/2026-08-10 - Fui cancelado pela Andréia Sadi.]].
 
 ## Defensora do PL da Misoginia e contrária à redução da maioridade penal (agosto de 2026)
 

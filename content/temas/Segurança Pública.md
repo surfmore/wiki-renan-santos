@@ -3,8 +3,16 @@ title: "Segurança Pública"
 tags:
   - tema
   - segurança
-date: 2026-08-07
+date: 2026-08-10
 ---
+
+## Resposta a Andréia Sadi: estatísticas de homicídio e endurecimento penal (agosto de 2026)
+
+Em **10 de agosto de 2026**, Renan responde à jornalista [[pessoas/Andréia Sadi]], que o acusou de "não ligar pra feminicídio", apresentando estatísticas de homicídio no Brasil: as mulheres são **10%** das vítimas — das quais o feminicídio corresponde a **4%** —, crianças e adolescentes somam **12%** e homens adultos são **78%** das vítimas. Ele reconhece que parte dos homens adultos mortos são confrontos com a polícia ("esses é para morrer mesmo. Esse eu quero que morra"), mas conclui que "quem tá morrendo muito é brasileiro" e que é preciso "parar de se dividir".
+
+Renan diagnostica que "as penas são muito baixas" e que a **progressão de pena** impede que as penas máximas sejam cumpridas. Ele propõe **subir todas as penas** — "não para 40, mas sobe tudo, incluindo feminicídio, para 50, 60 anos" — e tornar **imprescritíveis** os crimes violentos ("não pode ter prescrição"). Critica o fato de feminicídio e homicídio prescreverem em 20 anos enquanto a **misoginia** — que considera "só censura em rede social" e nem deveria ser crime — é o único entre os crimes listados que não prescreve, ironizando que esse é "o crime favorito da [[pessoas/Tabata Amaral]]". Conclui: "Vamos pegar assassino, homem que bate mulher, homem que estupra criança."
+
+Ver [[fontes/2026-08-10 - Fui cancelado pela Andréia Sadi.]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
 
 ## Slogan "vamos matar quem roubar" esclarecido: duas opções ao bandido (agosto de 2026)
 

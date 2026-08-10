@@ -5,8 +5,9 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-07-21
+date: 2026-08-10
 fontes:
+  - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
   - "2026-07-21 - Resposta a Globo News"
   - "2026-07-20 - Sim, filial do inferno"
   - "2026-07-05 - O futuro é glorioso"
@@ -19,6 +20,14 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Desfavelização como pauta central no primeiro debate do partido (agosto de 2026)
+
+Em **10 de agosto de 2026**, no primeiro debate eleitoral do Partido Missão (com o candidato ao governo do Maranhão, [[pessoas/André Luiz]]), a desfavelização foi apresentada como pauta central do partido. Na fala exibida por Renan, André Luiz afirma que o Missão tem "uma pauta especial que é a desfavilização", que vai "tirar o domínio que eles têm em territórios da nossa cidade" e "fazer o que a esquerda nunca fez, que é dar liberdade pro povo da periferia de todo o país e do Maranhão, principalmente".
+
+Renan endossa a pauta e contextualiza o Maranhão como "um dos lugares mais pobres do Brasil" e "um dos lugares que eu visitei que foram mais sofríveis". Ele afirma que André Luiz estava "fazendo a melhor participação num debate dentre todos os candidatos" ao tratar do tema, mesmo sem nunca ter participado de um debate na vida.
+
+Ver [[fontes/2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES]].
 
 ## "Favelados não são cidadãos": direitos nominais e plano de 15 anos (agosto de 2026)
 

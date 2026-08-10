@@ -6,6 +6,8 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
+  - "2026-08-10 - Primeira Aparição minha em debate!"
   - "2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha."
   - "2026-08-05 - Nós construímos nosso próprio caminho"
   - "2026-08-05 - Estou pronto para ser o CEO do Brasil"
@@ -35,6 +37,14 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Primeiro debate do partido e campanha para incluir os candidatos (agosto de 2026)
+
+Em **10 de agosto de 2026**, Renan celebra a **primeira participação do Partido Missão em um debate** na sua história: o candidato ao governo do Maranhão, [[pessoas/André Luiz]], participou de um debate falando de violência e **desfavelização**. Renan o chama de "o melhor candidato ao governo do Maranhão no debate", mesmo sendo sua primeira participação como político local, e o apresenta como exemplo do perfil militante do partido: "a gente não entregou um partido para um picareta... colocou um militante. Esse militante leu o livro amarelo, estudou o livro amarelo."
+
+No mesmo dia, Renan critica a **Rede Bandeirantes** por ter barrado candidatos do partido em outros estados (coronel **Busnelo** no Rio e **França** no Paraná) e anuncia "uma campanha essa semana para colocar todos os nossos candidatos a governador nos debates" — citando Busnelo (RJ), França (PR), Brigadeiro (SC), **Bem Mendes** (MG) e Renan Ralis (PE). Ele afirma que os debates vão expor a qualidade dos candidatos do Missão, que vão "começar a subir nas pesquisas" — "e se eles sobem, um cara aqui também sobe". Ver [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
+Ver [[fontes/2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES]] e [[fontes/2026-08-10 - Primeira Aparição minha em debate!]].
 
 ## Primeiro ato de campanha e ameaças da esquerda (agosto de 2026)
 
