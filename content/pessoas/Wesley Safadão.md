@@ -6,6 +6,7 @@ tags:
   - shows-públicos
 date: 2026-07-12
 fontes:
+  - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
   - "2026-07-12 - Efeito Renan Santos na Bahia"
   - "2026-06-11 - Deu ruim pro Wesley Safadao"
   - "2026-05-07 - Minha resposta ao Wesley Safadão"
@@ -17,6 +18,12 @@ fontes:
 ---
 
 **Quem é:** Cantor e empresário cearense de forró e tecnobrega. Renan Santos o usa como o caso mais emblemático do esquema de desvio de dinheiro público via shows musicais em municípios pobres — e de censura judicial a um pré-candidato à presidência.
+
+## "Presente de espírito" na festa dos políticos (agosto de 2026)
+
+Em **11 de agosto de 2026**, ao analisar a foto da festa ligada ao [[eventos/Escândalo do INSS]], Renan afirma que Safadão "não estava presente de corpo, mas estava presente de espírito" — porque "adora fazer um show falando bem de político nas mesmas regiões que esses políticos aí eles têm um determinado controle, especialmente quando envolve emenda". A menção reforça a tese de Renan de que o esquema de shows públicos é engrenagem de um sistema maior de corrupção.
+
+Ver [[fontes/2026-08-11 - Vazou as primeiras imagens do surubão dos políticos.]].
 
 ## MP da Bahia fecha acordo com 410 municípios contra shows (julho de 2026)
 

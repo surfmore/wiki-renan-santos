@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-11 - URGENTE batemos 10%!!"
+  - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
   - "2026-08-08 - Resposta para José Dirceu"
   - "2026-08-07 - Urgente Janja quer derrubar rede social"
   - "2026-08-06 - Lula ou Flávio"
@@ -49,6 +51,18 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Governo "até o pescoço" no escândalo do INSS (agosto de 2026)
+
+Em **11 de agosto de 2026**, ao analisar a foto vazada de uma festa ligada ao [[eventos/Escândalo do INSS]], Renan afirma que o "governo Lula que tá até o pescoço no escândalo do INSS" — citando **Lulinha** (filho de Lula) e o **irmão de Lula** como envolvidos no mesmo caso. Ele identifica na imagem **Everton Rocha** (PDT do Maranhão) como "vice-líder do governo Lula" e "primeiro citado no escândalo do INSS". Conclui que "a turma deles" — petistas e bolsonaristas — "está junta participando dos mesmos escândalos".
+
+Ver [[fontes/2026-08-11 - Vazou as primeiras imagens do surubão dos políticos.]].
+
+## "Vagabundo" que "foge das sabatinas" (agosto de 2026)
+
+Em **11 de agosto de 2026**, ao celebrar 10% nas pesquisas, Renan afirma que a eleição é "sobre nós três, eu, Lula e Flávio". Ele diz que Lula e [[pessoas/Flávio Bolsonaro]] "fogem das sabatinas" e "fogem dos debates", enquanto ele estaria "trazendo a verdade" e "trazendo proposta". Renan promete "passar a rapa no Lula" no segundo turno — "o Lula nem vai ver de onde veio o bonde que atropelou ele".
+
+Ver [[fontes/2026-08-11 - URGENTE batemos 10%!!]].
 
 ## "Comandado" por José Dirceu e descrito como "senil" (agosto de 2026)
 

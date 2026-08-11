@@ -7,6 +7,7 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-05 - Nós construímos nosso próprio caminho"
   - "2026-08-05 - Estou pronto para ser o CEO do Brasil"
   - "2026-08-04 - Nós somos os escolhidos"
@@ -36,6 +37,14 @@ Em **4 de agosto de 2026**, Renan afirma ser candidato à presidência "após 12
 No dia anterior, em discurso, Renan afirmou que "os maiores empresários do Brasil já entenderam que o processo tem que passar por aqui" e que "o destino da nossa geração é governar o Brasil", convocando apoiadores: "Se você não é ladrão, se você não é oportunista, o muro tá baixo. Vem para cá e venha construir a vitória."
 
 Ver [[fontes/2026-08-04 - Nós somos os escolhidos]] e [[fontes/2026-08-03 - Se você não é ladrão nem oportunista, vem com a gente]].
+
+## 10% nacional em pesquisa recém-divulgada (agosto de 2026)
+
+Em **11 de agosto de 2026**, Renan anuncia **10% das intenções de voto** em uma pesquisa que, segundo ele, "acabou de sair" e está em todos os jornais. Ele lembra que havia prometido chegar aos dois dígitos antes do início das eleições e que cumpriu: "essa é apenas a primeira das pesquisas, mostrando os dois dígitos". Atribui o resultado ao trabalho de divulgação dos apoiadores e à exposição na [[eventos/Sabatina da GloboNews — Agosto de 2026]].
+
+Renan define a meta de transformar os 10% em 20%: "10 precisa virar 20 logo mais e vai virar 20". Enquadra a eleição como "sobre nós três, eu, Lula e Flávio", afirma que Lula e Flávio "fogem das sabatinas" e dos debates, e diz que "esse roteiro costuma terminar com a nossa vitória".
+
+Ver [[fontes/2026-08-11 - URGENTE batemos 10%!!]].
 
 ## 9% nacional na Real Time Big Data (julho de 2026)
 

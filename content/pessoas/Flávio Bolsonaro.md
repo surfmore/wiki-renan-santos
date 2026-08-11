@@ -6,6 +6,9 @@ tags:
   - direita
 date: 2026-08-06
 fontes:
+  - "2026-08-11 - URGENTE batemos 10%!!"
+  - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
+  - "2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo."
   - "2026-08-08 - Resposta para José Dirceu"
   - "2026-08-06 - Lula ou Flávio"
   - "2026-08-04 - Eles estão com medo de vir pro debate."
@@ -15,6 +18,24 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Vagabundo" e fuga das sabatinas (agosto de 2026)
+
+Em **11 de agosto de 2026**, ao anunciar 10% nas pesquisas, Renan afirma que a eleição é sobre "nós três, eu, Lula e Flávio". Ele repete a meta de "tirar o vagabundo do Flávio do segundo turno" e diz que Lula e Flávio "fogem das sabatinas" e "fogem dos debates", enquanto ele estaria "trazendo a verdade" e "trazendo proposta".
+
+Ver [[fontes/2026-08-11 - URGENTE batemos 10%!!]].
+
+## Foto da festa e conexão com Willer Tomás no escândalo do INSS (agosto de 2026)
+
+Em **11 de agosto de 2026**, Renan analisa a foto vazada de uma festa com piscina ("surubão dos políticos") e afirma que [[pessoas/Willer Tomás]] — "melhor amigo" de Flávio — está no centro da imagem, ligado ao [[eventos/Escândalo do INSS]]. Renan relembra que Willer e Flávio viajaram juntos aos Estados Unidos e "sacaram milhões de reais para brincar no cassino". Também conecta Flávio ao caso da casa do jogador **Richarlison** e ao escritório de advocacia tocado por uma sócia indicada por Willer, cuja família seria sócia do "Careca do INSS". Conclui que a "turma deles" — petistas e bolsonaristas — "está junta participando dos mesmos escândalos, inclusive das mesmas piscinas".
+
+Ver [[fontes/2026-08-11 - Vazou as primeiras imagens do surubão dos políticos.]].
+
+## "Farsante", "fraco" e "corrompido": ataque na reta final da campanha (agosto de 2026)
+
+Em **10 de agosto de 2026**, Renan descreve Flávio como "o farsante, o fraco, o corrompido" — alguém que "trocou os milhões na rua pelos milhões na conta". Afirma que Flávio "não tem chance de vencer Lula no segundo turno" e que foi "colocado na eleição pelo Lula e perder para o Lula". Renan anuncia que as próximas semanas serão "para que eu suba e busque Flávio Bolsonaro", com o objetivo de "tirar o Flávio do segundo turno".
+
+Ver [[fontes/2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo.]].
 
 ## "Burrinho" e "simplinho" na aposta do PT (agosto de 2026)
 

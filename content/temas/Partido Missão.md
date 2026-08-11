@@ -6,6 +6,8 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-11 - URGENTE batemos 10%!!"
+  - "2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo."
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
   - "2026-08-10 - Primeira Aparição minha em debate!"
   - "2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha."
@@ -37,6 +39,18 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## 10% nas pesquisas e meta de 20% (agosto de 2026)
+
+Em **11 de agosto de 2026**, Renan anuncia que a candidatura do Partido Missão alcançou **10% das intenções de voto** em pesquisa recém-divulgada. Ele lembra a promessa de chegar aos dois dígitos antes das eleições e afirma que "isso é só o começo": "10 precisa virar 20 logo mais e vai virar 20". Atribui parte do resultado à exposição na [[eventos/Sabatina da GloboNews — Agosto de 2026]] e convoca os apoiadores a divulgar a campanha.
+
+Ver [[fontes/2026-08-11 - URGENTE batemos 10%!!]].
+
+## "A Missão é o único caminho" (agosto de 2026)
+
+Em **10 de agosto de 2026**, em discurso de campanha, Renan apresenta a Missão como o único caminho: "o único caminho é a Missão, porque a Missão é a nossa casa, porque a nossa candidatura é o nosso caminho. A vitória é o destino da nossa geração." Ele afirma que o Brasil "não precisa ser escravo do sonho maldito do petismo e tampouco da farsa do bolsonarismo" e promete um país diferente para as crianças nascidas a partir de 2027.
+
+Ver [[fontes/2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo.]].
 
 ## Primeiro debate do partido e campanha para incluir os candidatos (agosto de 2026)
 

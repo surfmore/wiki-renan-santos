@@ -7,6 +7,7 @@ tags:
   - sabatina
 date: 2026-08-06
 fontes:
+  - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-09 - Esse aqui é meu vídeo de dia dos pais."
   - "2026-08-06 - A GLOBONEWS ME CENSUROU"
   - "2026-08-06 - Obrigado, Globo!"
@@ -27,6 +28,8 @@ Na sabatina, Renan também defendeu a **"masculinidade positiva"** — o exemplo
 ## Repercussão
 
 Em [[fontes/2026-08-06 - A GLOBONEWS ME CENSUROU]], Renan relata que o contrato de participação o proíbe de divulgar cortes com o rosto das apresentadoras, o que classificou como censura. Em [[fontes/2026-08-06 - Obrigado, Globo!]], ele agradece à Globo News e afirma que "quem vai pautar as eleições somos nós". Em [[fontes/2026-08-07 - Resposta à Globo News eu sou antidemocrático]], rebate o analista Thomas Traumann, que o classificou como antidemocrático. Em [[fontes/2026-08-07 - Não vou fazer nada igual o Bukele]], esclarece que não recuou ao responder às jornalistas sobre as medidas de Nayib Bukele — e detalha sua proposta de estado de defesa.
+
+Em **11 de agosto de 2026**, ao anunciar 10% nas pesquisas, Renan atribui parte do crescimento à exposição na sabatina: "ter ido na sabatina da Globo News, ter me exposto, mostrar para vocês nossas ideias, faz diferença". Ver [[fontes/2026-08-11 - URGENTE batemos 10%!!]].
 
 ## Fontes
 

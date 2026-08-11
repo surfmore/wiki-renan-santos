@@ -7,6 +7,24 @@ tags:
 date: 2026-08-06
 ---
 
+## "A turma deles está junta nos mesmos escândalos" — foto da festa (agosto de 2026)
+
+Em **11 de agosto de 2026**, ao analisar a foto vazada de uma festa com piscina ligada ao [[eventos/Escândalo do INSS]], Renan afirma que "enquanto vocês ficam brigando na internet, aí é Lula, aí é Bolsonaro, a turma deles está junta participando dos mesmos escândalos, inclusive das mesmas piscinas". Ele destaca que a foto reúne gente "de praticamente todos os partidos e linhas ideológicas" — petistas, bolsonaristas e centrão — e que nela "não tava a turma do partido Missão".
+
+Ver [[fontes/2026-08-11 - Vazou as primeiras imagens do surubão dos políticos.]].
+
+## Lula e Flávio "fogem das sabatinas e dos debates" (agosto de 2026)
+
+Em **11 de agosto de 2026**, ao celebrar 10% nas pesquisas, Renan afirma que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] "fogem das sabatinas" e "fogem dos debates", enquanto ele estaria "trazendo a verdade" e "trazendo proposta". Diz estar vendo "a polarização vindo, na verdade, por parte de setores, inclusive da imprensa. Esquerda já tá batendo. É aquele roteiro que vocês já conhecem. Esse roteiro costuma terminar com a nossa vitória."
+
+Ver [[fontes/2026-08-11 - URGENTE batemos 10%!!]].
+
+## "Não precisamos ser escravos do bolsonarismo e do petismo" (agosto de 2026)
+
+Em **10 de agosto de 2026**, Renan afirma que o Brasil "não precisa ser escravo do sonho maldito do petismo e tampouco da farsa do bolsonarismo". Ele descreve [[pessoas/Flávio Bolsonaro]] como "farsante, fraco, corrompido" e diz que Flávio "foi colocado na eleição pelo Lula e perder para o Lula". Apresenta o [[temas/Partido Missão]] como "o único caminho": "a Missão é a nossa casa, porque a nossa candidatura é o nosso caminho".
+
+Ver [[fontes/2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo.]].
+
 ## "Família Bolsonaro e Lulismo são duas faces da mesma moeda" (agosto de 2026)
 
 Em **6 de agosto de 2026**, perguntado em quem votaria num segundo turno entre [[pessoas/Flávio Bolsonaro]] e [[pessoas/Lula]], Renan responde "eu voto Renan Santos" e recusa trabalhar com essas categorias. Ele reafirma que "a família Bolsonaro e o Lulismo são duas faces da mesma moeda" — "não porque são iguais, eles são diferentes entre si, mas porque ambos geram danos terríveis pro nosso futuro".
