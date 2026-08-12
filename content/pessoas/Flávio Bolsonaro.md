@@ -35,7 +35,7 @@ Ver [[fontes/2026-08-11 - Vazou as primeiras imagens do surubão dos políticos.
 
 Em **10 de agosto de 2026**, Renan descreve Flávio como "o farsante, o fraco, o corrompido" — alguém que "trocou os milhões na rua pelos milhões na conta". Afirma que Flávio "não tem chance de vencer Lula no segundo turno" e que foi "colocado na eleição pelo Lula e perder para o Lula". Renan anuncia que as próximas semanas serão "para que eu suba e busque Flávio Bolsonaro", com o objetivo de "tirar o Flávio do segundo turno".
 
-Ver [[fontes/2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo.]].
+Ver [[fontes/2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo.]]. O discurso foi **republicado em 11 de agosto de 2026** com conteúdo idêntico — [[fontes/2026-08-11 - Começamos a construir algo grandioso!]] — sem afirmação nova.
 
 ## "Burrinho" e "simplinho" na aposta do PT (agosto de 2026)
 

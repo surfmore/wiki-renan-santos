@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-08-10
 fontes:
+  - "2026-08-12 - Metas da Missão"
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
   - "2026-07-21 - Resposta a Globo News"
   - "2026-07-20 - Sim, filial do inferno"
@@ -20,6 +21,12 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Metas numéricas: 6 mil favelas a menos e 8 milhões de pessoas fora das favelas (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan fixa metas quantitativas para a desfavelização: **6.000 favelas a menos** no Brasil e **8 milhões de pessoas fora das favelas** até o final do governo. Ele reafirma o objetivo de "transformar favela em bairro e favelado em cidadão", "varrer o crime organizado das favelas" e "levar emprego e dignidade" às pessoas. As metas concretizam em números o programa descrito em vídeos anteriores.
+
+Ver [[fontes/2026-08-12 - Metas da Missão]].
 
 ## Desfavelização como pauta central no primeiro debate do partido (agosto de 2026)
 

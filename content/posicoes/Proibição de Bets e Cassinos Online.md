@@ -7,6 +7,7 @@ tags:
   - crime-organizado
 date: 2026-06-26
 fontes:
+  - "2026-08-12 - Veja como isso é bom"
   - "2026-07-04 - Virgínia fez você perder dinheiro"
   - "2026-06-28 - Expulsei o Caze TV"
   - "2026-06-26 - A Cazé TV vai acabar!"
@@ -14,6 +15,10 @@ fontes:
 ---
 
 Renan Santos defende uma posição radicalmente contrária à operação de empresas de apostas online (bets) e cassinos virtuais no Brasil, que ele descreve como um sistema de evasão de divisas e lavagem de dinheiro para facções criminosas.
+
+## Endividamento ligado ao "jogo do tigrinho": "doença que tá se alastrando" (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan afirma que parte do endividamento dos brasileiros é usado "literalmente para apostar, jogar em jogo do tigrinho, uma doença que tá se alastrando nacionalmente". Ele conecta as apostas online ao quadro de endividamento familiar — um argumento adicional para a proibição que defende. Ver [[fontes/2026-08-12 - Veja como isso é bom]].
 
 ## Virgínia cometeu crime ao promover bets (julho de 2026)
 

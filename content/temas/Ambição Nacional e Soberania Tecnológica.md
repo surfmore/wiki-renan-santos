@@ -8,6 +8,12 @@ tags:
 date: 2026-07-03
 ---
 
+## Industrializar e explorar os próprios recursos "sem sabotagem" (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan fixa como meta de governo **industrializar** o Brasil e "explorar todos os nossos recursos, nós mesmos, sem sabotagem" — "ninguém vai levar recurso nosso sem trazer de volta a tecnologia". A afirmação amplia o projeto de soberania econômica e tecnológica já defendido em vídeos anteriores, ligando a exploração nacional dos recursos à exigência de transferência de tecnologia.
+
+Ver [[fontes/2026-08-12 - Metas da Missão]].
+
 ## Programa espacial, aviões de guerra e assento no Conselho de Segurança da ONU (agosto de 2026)
 
 Em **2 de agosto de 2026**, Renan afirma que, se chegar ao poder em 2026, quer ver o Brasil voltar a ter um **programa espacial** e construir "não apenas armas nucleares, mas aviões de guerra de última geração usando a nossa própria terra rara". Ele também quer colocar o Brasil no **Conselho de Segurança da ONU** — "não porque pediu por favor, mas porque o mundo depende da gente".

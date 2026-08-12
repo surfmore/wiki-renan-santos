@@ -8,6 +8,14 @@ tags:
 date: 2026-08-06
 ---
 
+## Endividamento, Serasa e o "ciclo absolutamente maluco" do Desenrola (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan analisa o endividamento como o principal fator por trás da sensação de carestia. Ele explica que o endividamento "toma uma parte importante do seu salário", deixando "menos pras compras", e descreve o ciclo que considera doentio: pessoas sem educação financeira pegam **crédito consignado no próprio salário** para comprar produtos (não para investir), pedem demissão do trabalho, dão calote na dívida, vão parar no **Serasa** e "aguardam o programa **Desenrola** do governo federal" — "um ciclo absolutamente maluco". Afirma que "a nossa economia está quebrada" e que parte do endividamento é usada "para apostar, jogar em jogo do tigrinho, uma doença que tá se alastrando nacionalmente". Ver [[temas/Carga Tributária]], [[posicoes/Proibição de Bets e Cassinos Online]] e [[fontes/2026-08-12 - Veja como isso é bom]].
+
+## Meta de Bolsa Família menor que o trabalho formal em todos os estados (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan fixa como meta de governo que nenhum estado brasileiro terá, ao final do mandato, "mais gente no Bolsa Família do que gente no trabalho formal" — uma meta que conecta a reforma dos programas sociais à geração de emprego formal. Ele também reafirma o objetivo de "levar emprego e dignidade" às pessoas. Ver [[fontes/2026-08-12 - Metas da Missão]].
+
 ## "Pessoas não comem picanha": consumo travado pela política do PT (agosto de 2026)
 
 Em **8 de agosto de 2026**, ao responder a [[pessoas/José Dirceu]], Renan afirma que "as pessoas não comem picanha, as pessoas não têm celular novo, as pessoas não consomem mais" por causa da política econômica do PT — que, segundo ele, gera juros de 14-15% e "gasta com migalhas para manter os miseráveis sobrevivendo, para enriquecer essa mesma elite, seja do funcionalismo, seja dos banqueiros". Ele retoma a promessa: "No meu governo você vai comer as coisas que você quer. Isso pode incluir picanha." Ver [[temas/Carga Tributária]] e [[fontes/2026-08-08 - Resposta para José Dirceu]].

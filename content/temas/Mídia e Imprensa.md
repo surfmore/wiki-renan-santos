@@ -5,6 +5,7 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-12 - Veja como isso é bom"
   - "2026-08-07 - Urgente Janja quer derrubar rede social"
   - "2026-08-06 - Obrigado, Globo!"
   - "2026-08-06 - A GLOBONEWS ME CENSUROU"
@@ -17,6 +18,12 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Crítica a Miriam Leitão: imprensa que evita "machucar o governo" (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan critica a cobertura da jornalista [[pessoas/Miriam Leitão]] sobre a inflação: "às vezes a vontade de não querer machucar o governo acaba falando mais alto". Ele diz que ela "consegue estar errada e um pouco certa ao mesmo tempo" — errada ao tratar a queda de produtos sazonais como alívio, e certa ao apontar que os brasileiros estão "se endividando muito e, o pior, se endividando mal". A crítica se soma ao padrão que Renan descreve de uma imprensa que evita expor os efeitos da política econômica do governo.
+
+Ver [[fontes/2026-08-12 - Veja como isso é bom]].
 
 ## Liberdade nas redes sociais: contra o bloqueio do Discord e por data centers no Brasil (agosto de 2026)
 

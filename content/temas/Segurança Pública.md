@@ -6,6 +6,12 @@ tags:
 date: 2026-08-10
 ---
 
+## Metas de governo: menos de 10 mil homicídios por ano e ofensiva contra PCC e CV (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan fixa a meta de reduzir os homicídios no Brasil para **menos de 10.000 por ano** — "hoje passa de 30 [mil]. Isso é uma revolução num país como o nosso". Ele cita a disposição de policiais para enfrentar as facções: "um policial de São Paulo tá ávido para matar os líderes do PCC", "os policiais do Rio e o coronel Buznelo (...) vão passar a rapa no comando vermelho" e, com o "Delegado Hugo, no Ceará vamos fazer a mesma coisa". Para Renan, "esse é o nosso destino".
+
+Ver [[fontes/2026-08-12 - Metas da Missão]].
+
 ## Resposta a Andréia Sadi: estatísticas de homicídio e endurecimento penal (agosto de 2026)
 
 Em **10 de agosto de 2026**, Renan responde à jornalista [[pessoas/Andréia Sadi]], que o acusou de "não ligar pra feminicídio", apresentando estatísticas de homicídio no Brasil: as mulheres são **10%** das vítimas — das quais o feminicídio corresponde a **4%** —, crianças e adolescentes somam **12%** e homens adultos são **78%** das vítimas. Ele reconhece que parte dos homens adultos mortos são confrontos com a polícia ("esses é para morrer mesmo. Esse eu quero que morra"), mas conclui que "quem tá morrendo muito é brasileiro" e que é preciso "parar de se dividir".

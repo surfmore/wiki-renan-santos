@@ -7,6 +7,12 @@ tags:
 date: 2026-08-06
 ---
 
+## "Populista de direita que promete dar celular" seria "repetição dos mesmos problemas" (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan afirma que a segunda reforma necessária ao Brasil é "não colocar populista de direita que promete dar celular pros outros no poder, porque é basicamente repetição dos mesmos problemas" — referência à promessa de campanha de [[pessoas/Flávio Bolsonaro]]. A fala reforça a tese de que Lulismo e bolsonarismo seriam "duas faces da mesma moeda" também na economia assistencialista.
+
+Ver [[fontes/2026-08-12 - Veja como isso é bom]].
+
 ## "A turma deles está junta nos mesmos escândalos" — foto da festa (agosto de 2026)
 
 Em **11 de agosto de 2026**, ao analisar a foto vazada de uma festa com piscina ligada ao [[eventos/Escândalo do INSS]], Renan afirma que "enquanto vocês ficam brigando na internet, aí é Lula, aí é Bolsonaro, a turma deles está junta participando dos mesmos escândalos, inclusive das mesmas piscinas". Ele destaca que a foto reúne gente "de praticamente todos os partidos e linhas ideológicas" — petistas, bolsonaristas e centrão — e que nela "não tava a turma do partido Missão".
@@ -23,7 +29,7 @@ Ver [[fontes/2026-08-11 - URGENTE batemos 10%!!]].
 
 Em **10 de agosto de 2026**, Renan afirma que o Brasil "não precisa ser escravo do sonho maldito do petismo e tampouco da farsa do bolsonarismo". Ele descreve [[pessoas/Flávio Bolsonaro]] como "farsante, fraco, corrompido" e diz que Flávio "foi colocado na eleição pelo Lula e perder para o Lula". Apresenta o [[temas/Partido Missão]] como "o único caminho": "a Missão é a nossa casa, porque a nossa candidatura é o nosso caminho".
 
-Ver [[fontes/2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo.]].
+Ver [[fontes/2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo.]]. O discurso foi **republicado em 11 de agosto de 2026** — [[fontes/2026-08-11 - Começamos a construir algo grandioso!]] — com conteúdo idêntico, sem afirmação nova.
 
 ## "Família Bolsonaro e Lulismo são duas faces da mesma moeda" (agosto de 2026)
 

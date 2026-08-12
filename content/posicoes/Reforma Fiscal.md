@@ -8,6 +8,16 @@ date: 2026-08-06
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
 
+## "Cortar privilégio, gasto estúpido" e adequar o Brasil às melhores práticas (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan afirma que, sem "reformas dramáticas", a situação do Brasil "vai ficar muito, mas muito pior". Ele define a terceira reforma necessária como "cortar privilégio, gasto estúpido, adequar o Brasil pras melhores práticas econômicas do mundo" — condição para "começar a ter dinheiro, ver os produtos ficarem mais baratos e ver a vida ficar melhor". Ver [[fontes/2026-08-12 - Veja como isso é bom]].
+
+## Meta de juros máximos de 6% e superávit primário (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan fixa como meta de governo que "os juros não pode ultrapassar a casa dos 6%" e que "nós vamos ter superávit [primário]". Ele afirma que "o futuro de vocês não mais ser apenhorado, porque o Brasil vai gastar menos do que arrecada e tudo que ele puder gastar mais será investimento" — conectando a disciplina fiscal à liberação de recursos para investimento e à redução da taxa de juros.
+
+Ver [[fontes/2026-08-12 - Metas da Missão]].
+
 ## Desindexação, desvinculação e reforma de competitividade no centro do debate (agosto de 2026)
 
 Em **6 de agosto de 2026**, Renan defende que o debate econômico eleitoral deveria tratar de **desindexação**, **desvinculação** e **reforma de competitividade**, em vez do assistencialismo de [[pessoas/Lula]] ("pé de meia", vale-gás) e [[pessoas/Flávio Bolsonaro]] (celular de graça). Ele afirma que a ausência desses temas no centro da discussão é sintoma do rebaixamento político que descreve como as "duas faces da mesma moeda" entre Lulismo e bolsonarismo.

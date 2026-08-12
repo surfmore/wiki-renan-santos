@@ -7,6 +7,7 @@ tags:
   - escolas-civico-militares
 date: 2026-07-27
 fontes:
+  - "2026-08-12 - Metas da Missão"
   - "2026-08-05 - Sobre bullying nas escolas."
   - "2026-07-27 - Você não conhecia esse herói"
   - "2026-07-26 - Sim, escola militar funciona!"
@@ -19,6 +20,12 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Meta de 9 em cada 10 crianças alfabetizadas e premiação dos melhores professores (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan fixa a meta de **9 em cada 10 crianças alfabetizadas**, apontando que hoje "não dá 10%" o número de brasileiros "completamente proficientes na própria língua". Ele promete um "gigantesco mutirão" de alfabetização e a **premiação dos melhores professores e diretores**: "Professor que alfabetizou bem vai ganhar muito, vai ser tratado como herói nacional." A proposta complementa o pacote educacional já apresentado em julho (método fônico obrigatório e premiação por desempenho).
+
+Ver [[fontes/2026-08-12 - Metas da Missão]].
 
 ## Autoridade do professor contra o bullying e salas especiais (agosto de 2026)
 

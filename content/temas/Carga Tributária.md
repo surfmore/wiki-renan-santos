@@ -8,6 +8,10 @@ date: 2026-07-03
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
+## "Preços sobem, juros sobe": o Brasil "vai quebrar" sem reformas (agosto de 2026)
+
+Em **12 de agosto de 2026**, Renan afirma que, "enquanto isso, os preços sobem, o juros sobe, o que mostra pra todo mundo que o Brasil é um país que vai quebrar". Ele diz que "se a gente não fizer reformas dramáticas no Brasil, a situação nossa vai ficar muito, mas muito pior" — e que as reformas necessárias passam por cortar "privilégio, gasto estúpido" e adequar o país "pras melhores práticas econômicas do mundo". Ver [[fontes/2026-08-12 - Veja como isso é bom]].
+
 ## Política fiscal do PT, juros de 14-15% e os bancos (agosto de 2026)
 
 Em **8 de agosto de 2026**, ao responder a [[pessoas/José Dirceu]], Renan afirma que "a política fiscal irresponsável de vocês do PT é a que faz os juros ficarem nessa taxa de 14, 15%". Ele argumenta que quem ganha com isso são os bancos — enquanto "as pessoas não comem picanha, as pessoas não têm celular novo, as pessoas não consomem mais".

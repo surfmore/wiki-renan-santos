@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-12 - Metas da Missão"
   - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo."
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
@@ -39,6 +40,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## "Metas da Missão": metas de governo do partido (agosto de 2026)
+
+Em **12 de agosto de 2026**, em vídeo intitulado "Metas da Missão", Renan lista as metas que promete cumprir até o final do governo: menos de **10 mil homicídios por ano**, **juros máximos de 6%** e superávit primário, **mais gente no trabalho formal do que no Bolsa Família** em todos os estados, **6 mil favelas a menos** e **8 milhões de pessoas fora das favelas**, e **9 em cada 10 crianças alfabetizadas**. O vídeo apresenta a agenda do partido em segurança, economia, trabalho, habitação e educação. Ver [[fontes/2026-08-12 - Metas da Missão]].
 
 ## 10% nas pesquisas e meta de 20% (agosto de 2026)
 
