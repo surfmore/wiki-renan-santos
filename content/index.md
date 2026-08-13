@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-08-12
+date: 2026-08-13
 ---
 
 <style>
@@ -98,11 +98,11 @@ date: 2026-08-12
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">817</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">818</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">29</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">32</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">61</span><span class="label">Pessoas</span></a>
-<a class="wiki-stat" href="/eventos"><span class="num">19</span><span class="label">Eventos</span></a>
+<a class="wiki-stat" href="/eventos"><span class="num">20</span><span class="label">Eventos</span></a>
 </div>
 
 <div class="wiki-disclaimer">
@@ -165,7 +165,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/pessoas/André Luiz"><div class="wiki-card-header"><span class="wiki-card-icon">🗳</span><span class="wiki-card-title">André Luiz</span><span class="wiki-card-count">2 fontes</span></div><p class="wiki-card-desc">Candidato do Partido Missão ao governo do Maranhão; faz a primeira participação do partido em debate, tratando de segurança e desfavelização.</p></a>
 <a class="wiki-card" href="/pessoas/Andréia Sadi"><div class="wiki-card-header"><span class="wiki-card-icon">📺</span><span class="wiki-card-title">Andréia Sadi</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Jornalista da GloboNews/CBN que, segundo Renan, o acusou de não ligar para feminicídio; Renan responde com estatísticas de homicídio.</p></a>
 <a class="wiki-card" href="/pessoas/José Dirceu"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">José Dirceu</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Ex-ministro do PT, descrito por Renan como o "dono" do partido mobilizado para atacá-lo; o "verdadeiro jogo de xadrez" da eleição seria entre os dois.</p></a>
-<a class="wiki-card" href="/pessoas/Flávio Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">66 fontes</span></div><p class="wiki-card-desc">Em 11 de agosto de 2026, Renan o chama de "farsante, fraco, corrompido" e o liga à foto da festa do escândalo do INSS (via Willer Tomás); diz que "foge das sabatinas".</p></a>
+<a class="wiki-card" href="/pessoas/Flávio Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">🎙</span><span class="wiki-card-title">Flávio Bolsonaro</span><span class="wiki-card-count">67 fontes</span></div><p class="wiki-card-desc">Em 13 de agosto de 2026, Renan denuncia a filiação de Flávio como fraudulenta (via e-mail oficial) e o desafia a um confronto público na TV, "IP por IP".</p></a>
 <a class="wiki-card" href="/pessoas/Lula"><div class="wiki-card-header"><span class="wiki-card-icon">👤</span><span class="wiki-card-title">Lula</span><span class="wiki-card-count">42 fontes</span></div><p class="wiki-card-desc">Em 12 de agosto de 2026, Renan diz que a "primeira reforma" é "tirar o vagabundo do Lula do poder"; governo "até o pescoço" no escândalo do INSS.</p></a>
 <a class="wiki-card" href="/pessoas/Kim Kataguiri"><div class="wiki-card-header"><span class="wiki-card-icon">🤝</span><span class="wiki-card-title">Kim Kataguiri</span><span class="wiki-card-count">28 fontes</span></div><p class="wiki-card-desc">Deputado federal, cofundador do MBL e líder do Partido Missão no Congresso Nacional. Renan Santos o descreve recorrentemente como o parlamentar qu...</p></a>
 <a class="wiki-card" href="/pessoas/Alexandre de Moraes"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">Alexandre de Moraes</span><span class="wiki-card-count">21 fontes</span></div><p class="wiki-card-desc">Em 6 de agosto de 2026, Renan cita Moraes como exemplo de decisão monocrática ilegal; "decisão ilegal não se cumpre".</p></a>
@@ -200,6 +200,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📰 Eventos</p>
 <div class="wiki-grid">
+<a class="wiki-card" href="/eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Filiação Fraudulenta de Flávio</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Em 13 de agosto de 2026, Renan denuncia a filiação de Flávio Bolsonaro como fraudulenta (via e-mail oficial) e o desafia a um confronto público na TV, "IP por IP".</p></a>
 <a class="wiki-card" href="/eventos/Escândalo do INSS"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Escândalo do INSS</span><span class="wiki-card-count">4 fontes</span></div><p class="wiki-card-desc">Em 11 de agosto de 2026, Renan analisa a foto de uma festa ligada ao escândalo do INSS; petistas e bolsonaristas "juntos nos mesmos escândalos"; CPMI do INSS foi derrubada pelo STF.</p></a>
 <a class="wiki-card" href="/eventos/Candidatos do Partido Missão e os Debates — 2026"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Candidatos do Partido Missão e os...</span><span class="wiki-card-count">3 fontes</span></div><p class="wiki-card-desc">Em agosto de 2026, candidatos do Missão aos governos são barrados dos debates; Renan anuncia campanha para incluí-los; André Luiz estreia no Maranhão.</p></a>
 <a class="wiki-card" href="/eventos/Primeiro Ato de Campanha e Ameaças — Agosto de 2026"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Primeiro Ato de Campanha — Agosto de 2026</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Em 9 de agosto de 2026, Renan anuncia o primeiro ato de campanha no Largo São Francisco (16/08) e relata ameaças de morte; UNE e esquerda da USP tentam impedir o comício.</p></a>
@@ -219,7 +220,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/Casamento Tabata Amaral e João Campos"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Casamento Tabata Amaral e João Ca...</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">O casamento em fevereiro de 2026 entre a deputada federal Tabata Amaral e o prefeito do Recife João Campos é usado por Renan Santos como ilust...</p></a>
 <a class="wiki-card" href="/eventos/Leilão de Termoelétricas de 2026"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Leilão de Termoelétricas de 2026</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Em junho de 2026, o governo Lula realizou um leilão de usinas termoelétricas que Renan Santos denuncia como &quot;de cartas marcadas&quot; — avaliado em c...</p></a>
 <a class="wiki-card" href="/eventos/Prisão do Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Prisão do Bolsonaro</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Jair Bolsonaro foi preso em novembro de 2025 por decisão de Alexandre de Moraes no inquérito dos atos de 8 de janeiro. Renan não celebra — caracteriza a prisão como &quot;melancólica&quot; para todos os lados.</p></a>
-<a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 19 eventos →</span></div><p class="wiki-card-desc">Outros eventos comentados por Renan.</p></a>
+<a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 20 eventos →</span></div><p class="wiki-card-desc">Outros eventos comentados por Renan.</p></a>
 </div>
 
 <p class="wiki-section-title">📊 Análises</p>
@@ -234,6 +235,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro]] — Renan denuncia a filiação de Flávio como fraudulenta (via e-mail oficial), anuncia coletiva no Rio e o desafia a um confronto público na TV.
 - [[fontes/2026-08-12 - Veja como isso é bom]] — Renan analisa inflação e endividamento do brasileiro; critica Miriam Leitão; propõe "cortar privilégio e gasto estúpido".
 - [[fontes/2026-08-12 - Metas da Missão]] — Renan lista metas de governo: menos de 10 mil homicídios/ano, juros até 6%, superávit, desfavelização (6 mil favelas a menos) e alfabetização de 9 em 10 crianças.
 - [[fontes/2026-08-11 - Começamos a construir algo grandioso!]] — Republicação do discurso de 10/08: ataque a Flávio ("farsante, fraco, corrompido") e a Missão como "único caminho".

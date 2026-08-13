@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-06
 fontes:
+  - "2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro"
   - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
   - "2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo."
@@ -18,6 +19,12 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Filiação fraudulenta denunciada e desafio ao confronto público (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan denuncia que a filiação de Flávio teria sido **fraudulenta**, feita "por meio de seu e-mail oficial" por alguém com acesso à conta. Ele anuncia uma **coletiva de imprensa no Rio de Janeiro** e **desafia Flávio a um confronto público em qualquer televisão** — "detalhe por detalhe, IP por IP, registro por registro no sistema". Renan também questiona a versão de que o senador seria "vítima do sistema" e levanta a possibilidade de o episódio ser um truque para divulgar um ato de campanha.
+
+Ver [[fontes/2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
 
 ## "Vagabundo" e fuga das sabatinas (agosto de 2026)
 

@@ -7,6 +7,12 @@ tags:
 date: 2026-08-06
 ---
 
+## Filiação fraudulenta de Flávio: denúncia e desafio ao confronto público (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan denuncia que a filiação de [[pessoas/Flávio Bolsonaro]] — o candidato da direita tradicional — teria sido **fraudulenta**, feita "por meio de seu e-mail oficial". Ele anuncia coletiva de imprensa no Rio de Janeiro e desafia o senador a um confronto público na televisão, "IP por IP, registro por registro no sistema". A denúncia soma-se ao padrão recorrente de Renan de tratar Flávio como símbolo dos vícios que atribui ao bolsonarismo institucional.
+
+Ver [[fontes/2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
+
 ## "Populista de direita que promete dar celular" seria "repetição dos mesmos problemas" (agosto de 2026)
 
 Em **12 de agosto de 2026**, Renan afirma que a segunda reforma necessária ao Brasil é "não colocar populista de direita que promete dar celular pros outros no poder, porque é basicamente repetição dos mesmos problemas" — referência à promessa de campanha de [[pessoas/Flávio Bolsonaro]]. A fala reforça a tese de que Lulismo e bolsonarismo seriam "duas faces da mesma moeda" também na economia assistencialista.

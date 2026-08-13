@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-08-13] ingest | A verdade sobre a filiação do Flávio Bolsonaro
+- Fonte criada: fontes/2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro
+- Páginas criadas: eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026
+- Páginas atualizadas: pessoas/Flávio Bolsonaro, temas/Crítica à Direita Tradicional, index.md, log.md, wiki/.processed_ids
+- Nota: Video_id ixA8FPtKvSM. Renan denuncia que a filiação de Flávio Bolsonaro foi "fraudulenta", feita "por meio de seu e-mail oficial"; anuncia coletiva de imprensa no Rio de Janeiro e desafia Flávio a confronto público na TV ("detalhe por detalhe, IP por IP, registro por registro no sistema"); questiona a versão de "vítima do sistema" e cogita truque para divulgar ato de campanha. Transcrição de baixa qualidade (repetições de SRT) — trechos reconstruídos pelo contexto. Atribuição: Renan é o falante principal.
+
 ## [2026-08-12] ingest automático | Batch de 3 shorts (Começamos a construir algo grandioso!, Metas da Missão, Veja como isso é bom)
 - Fontes criadas: fontes/2026-08-11 - Começamos a construir algo grandioso!, fontes/2026-08-12 - Metas da Missão, fontes/2026-08-12 - Veja como isso é bom
 - Páginas criadas: pessoas/Miriam Leitão
