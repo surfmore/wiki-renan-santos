@@ -7,6 +7,18 @@ tags:
 date: 2026-08-06
 ---
 
+## Representação no TSE contra Flávio: "agora o TSE serve para vocês" (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan anuncia representação do Partido Missão no TSE contra todos os envolvidos na filiação de [[pessoas/Flávio Bolsonaro]], enviando logs e documentação à Corte, à PF e à imprensa. Ele critica a contradição da campanha bolsonarista que "reclamava do TSE para tudo" e agora quer usá-lo "para tirar minha candidatura", e repete o desafio à acareação na TV.
+
+Ver [[fontes/2026-08-14 - Entrei no TSE contra Flávio]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
+
+## "Passo a passo" da filiação de Flávio: a narrativa de "vítima do sistema" (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan apresenta o "passo a passo da malandragem" da filiação de [[pessoas/Flávio Bolsonaro]] ao Partido Missão, acusando a campanha do senador de tentar se fazer de "vítima do sistema". Ele afirma que o cadastro foi feito com o e-mail oficial do Senado, que os e-mails foram abertos e os links clicados, e que a candidatura não estava barrada. Renan sugere que o episódio pode ser "cortina de fumaça" para a declaração de bens de Flávio e desafia o senador a uma acareação na TV.
+
+Ver [[fontes/2026-08-13 - Passo a passo da “filiação” do Flávio.]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
+
 ## Filiação fraudulenta de Flávio: denúncia e desafio ao confronto público (agosto de 2026)
 
 Em **13 de agosto de 2026**, Renan denuncia que a filiação de [[pessoas/Flávio Bolsonaro]] — o candidato da direita tradicional — teria sido **fraudulenta**, feita "por meio de seu e-mail oficial". Ele anuncia coletiva de imprensa no Rio de Janeiro e desafia o senador a um confronto público na televisão, "IP por IP, registro por registro no sistema". A denúncia soma-se ao padrão recorrente de Renan de tratar Flávio como símbolo dos vícios que atribui ao bolsonarismo institucional.

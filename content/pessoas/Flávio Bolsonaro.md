@@ -6,6 +6,8 @@ tags:
   - direita
 date: 2026-08-06
 fontes:
+  - "2026-08-14 - Entrei no TSE contra Flávio"
+  - "2026-08-13 - Passo a passo da “filiação” do Flávio."
   - "2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro"
   - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
@@ -19,6 +21,18 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Representação no TSE e acareação: "agora o TSE serve para vocês" (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan anuncia que o Partido Missão entrou com **representação no TSE contra todos os envolvidos** na filiação de Flávio, enviando logs e documentação à Corte, à PF e à imprensa. Na peça, sustenta que a equipe de Flávio acessou os e-mails e clicou nos links voluntariamente, várias vezes, antes de alegar que era spam. Renan critica a contradição da turma que "reclamava do TSE para tudo" e agora quer usá-lo "para tirar minha candidatura", e repete o desafio à acareação na TV: "bota o Flávio numa tela, bota eu em outra".
+
+Ver [[fontes/2026-08-14 - Entrei no TSE contra Flávio]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
+
+## "Passo a passo" da filiação: sistema automático, e-mails abertos e desafio à acareação (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan detalha a mecânica da filiação de Flávio ao Partido Missão. Ele explica que o cadastro foi feito com o **e-mail oficial do Senado** e que os e-mails do sistema foram **abertos, com links internos clicados** (inclusive o download do aplicativo e a confirmação de filiação paga ou não paga). Renan questiona por que a campanha esperou para tornar o caso público e por que alguém com acesso ao e-mail clicou nos links; afirma que a candidatura não estava barrada e que a "manifestação" convocada era o ato de lançamento de campanha no Rio. Sugere que o episódio pode ser "cortina de fumaça" para a declaração de bens de Flávio e anuncia que o Partido Missão disponibilizará dados, e-mails, logs e IP ao TSE e à imprensa, desafiando Flávio a fazer o mesmo e a uma **acareação na TV**.
+
+Ver [[fontes/2026-08-13 - Passo a passo da “filiação” do Flávio.]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
 
 ## Filiação fraudulenta denunciada e desafio ao confronto público (agosto de 2026)
 

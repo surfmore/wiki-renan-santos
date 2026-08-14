@@ -7,6 +7,12 @@ tags:
 date: 2026-08-07
 ---
 
+## Quebra do sigilo de fonte: "decisão ilegal não se cumpre" a partir do caso concreto (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan comenta a decisão de [[pessoas/Alexandre de Moraes]] que determinou busca e apreensão contra um empresário apontado como fonte de um jornalista — que havia noticiado o uso irregular de carro oficial por [[pessoas/Flávio Dino]]. Renan afirma que a medida quebra o **sigilo de fonte**, "uma coisa sagrada" garantida pela Constituição, e que o cumprimento da decisão "acaba com o processo jornalístico", impedindo que se "cheque se o poder público tá agindo de maneira certa ou errada". Ele reafirma o princípio de que **"decisão ilegal não se cumpre"** e diz que o STF estaria se aproximando de uma "ditadura do judiciário".
+
+Ver [[fontes/2026-08-13 - Decisão ilegal não se cumpre 👍🏻]] e [[eventos/Busca e Apreensão contra Fonte de Jornalista — Agosto de 2026]].
+
 ## "Um democrata mais democrático do que todos os falsos democratas": resposta à acusação de antidemocracia (agosto de 2026)
 
 Em **7 de agosto de 2026**, Renan responde à classificação de antidemocrático feita pelo analista Thomas Traumann após sua [[eventos/Sabatina da GloboNews — Agosto de 2026|sabatina na GloboNews]]. Ele reafirma que "decisão ilegal não se cumpre" e argumenta que o STF, como guardião da Constituição, é o primeiro que não pode violá-la: "um membro de poder quando vê que outro poder se excede, não é obrigado a cumprir simplesmente porque aquele poder é um poder" — caso contrário "você não teria mais separação de poderes".

@@ -6,6 +6,18 @@ tags:
 date: 2026-08-10
 ---
 
+## Assalto a estudante: "a esquerda não liga para a violência contra a mulher" (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan comenta o assalto a uma estudante que implorava para não levar o seu único celular, abordada por um homem desarmado. Ele afirma que jornalistas, a esquerda e os defensores de direitos humanos precisam escolher: "ou vocês ligam pra violência contra a mulher, ou vocês ligam pro direito do bandido". Ironiza o paradoxo de se preocupar em punir um humorista que faz piada mas não poder punir o assaltante por causa dos "direitos humanos". Renan defende que o assaltante "tinha que ter tomado um tiro na fuça", que o bandido preso deve cumprir pena "por muito, muito tempo", **sem progressão de pena**, e que o Estado, "com seus juristas, seus defensores de direitos humanos, gosta dos bandidos e oprime as mulheres". Conclui que "o único elemento que para uma pessoa má no meio da sua ação de maldade é a força maior".
+
+Ver [[fontes/2026-08-14 - Essa violência contra mulheres a esquerda não liga.]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
+## Estupro de vulnerável: pena de 15 anos, prescrição e pena de morte (agosto de 2026)
+
+Em **14 de agosto de 2026**, comentando a prisão de um homem que estuprou uma criança de 12 anos, Renan critica a pena de **15 anos** para estupro de vulnerável e a possibilidade de "política garantista" encurtar o cumprimento da pena. Ele afirma que, se o criminoso tivesse fugido, o crime "teria prescrito em alguns anos", e ironiza que o crime de **misoginia** seja imprescritível enquanto crimes violentos prescrevem. Renan defende que o estuprador de vulnerável fique "preso pro resto da vida" ou, se a Constituição fosse alterada, receba **pena de morte**.
+
+Ver [[fontes/2026-08-14 - Teve que ser carregado pela polícia]], [[posicoes/Pena de Morte e Prisão Perpétua]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
 ## Metas de governo: menos de 10 mil homicídios por ano e ofensiva contra PCC e CV (agosto de 2026)
 
 Em **12 de agosto de 2026**, Renan fixa a meta de reduzir os homicídios no Brasil para **menos de 10.000 por ano** — "hoje passa de 30 [mil]. Isso é uma revolução num país como o nosso". Ele cita a disposição de policiais para enfrentar as facções: "um policial de São Paulo tá ávido para matar os líderes do PCC", "os policiais do Rio e o coronel Buznelo (...) vão passar a rapa no comando vermelho" e, com o "Delegado Hugo, no Ceará vamos fazer a mesma coisa". Para Renan, "esse é o nosso destino".

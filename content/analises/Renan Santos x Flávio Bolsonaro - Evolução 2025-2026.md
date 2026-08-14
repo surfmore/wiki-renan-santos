@@ -7,6 +7,9 @@ tags:
   - eleições-2026
 date: 2026-06-21
 fontes:
+  - "2026-08-14 - Entrei no TSE contra Flávio"
+  - "2026-08-13 - Passo a passo da “filiação” do Flávio."
+  - "2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro"
   - "2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho"
   - "2026-06-19 - Hoje tem Brasil x Haiti!"
   - "2026-06-17 - Resposta ao Eduardo Bolsonaro"
@@ -136,6 +139,14 @@ O mês de junho tráz uma aceleração dramática: o confronto se expande para a
 
 **Caracterização do período:** Flávio não é mais apenas o adversário moral e eleitoral — ele é agora também o candidato em declínio numérico. A virada nas pesquisas e no Google Trends permite a Renan argumentar que sua tese ("Flávio bate e volta") estava correta. O PL da Misoginia adiciona uma nova dimensão ao conflito: Flávio agora também abandona pautas conservadoras para se alinhar ao establishment progressista, confirmando a acusação de Renan de que Flávio "não tem projeto de país." A crise se aprofunda com Nikolas (seu principal aliado na Câmara) cogitando abandono, Eduardo tendo que defender publicamente o irmão, e as conexões com o Comando Vermelho sendo expostas em detalhe. O tom é de confirmação das previsões antigas, menos de confronto direto — Renan fala como quem viu o futuro chegar e agora assiste aos fatos confirmarem cada acusação.
 
+### Agosto de 2026 — O episódio da filiação "fraudulenta" e a virada para o TSE
+
+Em **13 de agosto de 2026**, o conflito ganha um novo front: Renan denuncia que a filiação de Flávio ao Partido Missão teria sido **fraudulenta**, feita "por meio de seu e-mail oficial". Em vídeo de "passo a passo", ele detalha que o cadastro foi feito com o e-mail oficial do Senado, que os e-mails do sistema foram abertos e os links clicados, e que a candidatura não estava barrada — classificando a narrativa de "vítima do sistema" como conveniente para a campanha. Sugere que o episódio pode ser "cortina de fumaça" para a declaração de bens de Flávio e desafia o senador a uma acareação na TV.
+
+Em **14 de agosto de 2026**, Renan anuncia **representação no TSE** contra todos os envolvidos, enviando logs e documentação à Corte, à Polícia Federal e à imprensa, e repete o desafio à acareação. Ele acusa a campanha de Flávio de contradição — "reclamava do TSE para tudo" e agora quer usá-lo "para tirar minha candidatura" — e interpreta o episódio como tentativa de deslegitimar sua candidatura depois que subiu nas pesquisas.
+
+**Caracterização do período:** pela primeira vez, o confronto ganha um componente jurídico-institucional com o acionamento do TSE pelo próprio Renan. A acusação contra Flávio deixa de se limitar a corrupção e ligação com o crime e passa a envolver a denúncia de **manipulação eleitoral contra o Partido Missão**. Renan mantém o padrão de expor contradições e desafiar o adversário ao confronto público.
+
 ## Síntese
 
 A trajetória das declarações de Renan Santos sobre Flávio Bolsonaro entre setembro de 2025 e junho de 2026 tem arco claro: começa como crítica estrutural à direita bolsonarista (adversário representativo de um sistema), passa por confronto eleitoral direto (adversário que tira votos da direita séria), alcança o acirramento moral em torno do Banco Master (cúmplice do STF que protegeu Toffoli em troca de imunidade) e termina com apelo à desistência combinado com acusação de crime eleitoral (caixa dois via Vorcaro).
@@ -153,6 +164,9 @@ Em junho de 2026, a crise de Flávio se aprofunda em três frentes simultâneas:
 
 ## Fontes consultadas (cronológico decrescente)
 
+- [[fontes/2026-08-14 - Entrei no TSE contra Flávio]] — representação do Missão no TSE contra todos os envolvidos na filiação; desafio à acareação
+- [[fontes/2026-08-13 - Passo a passo da “filiação” do Flávio.]] — detalhamento da mecânica da filiação: sistema automático, e-mail oficial, e-mails abertos
+- [[fontes/2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro]] — denúncia da filiação "fraudulenta" e desafio ao confronto público
 - [[fontes/2026-06-19 - Flávio Bolsonaro tem ligação com o comando vermelho]] — Conexões de Flávio com CV; Carlos Castro, Bacelar, TH Joias, Adriano da Nóbrega
 - [[fontes/2026-06-19 - Hoje tem Brasil x Haiti!]] — Flávio negociou dinheiro sujo para filme da família; dinheiro financiou Eduardo nos EUA
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Renan expõe relações espúrias da família Bolsonaro com STF (Toffoli, [[pessoas/Gilmar Mendes|Gilmar]], Moraes)

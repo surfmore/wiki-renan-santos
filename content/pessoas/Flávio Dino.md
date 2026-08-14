@@ -13,6 +13,12 @@ fontes:
 
 Ministro do Supremo Tribunal Federal. Ex-governador do Maranhão, filiado ao PC do B. Renan Santos o chama de "comunista e do Maranhão".
 
+## Uso irregular de carro oficial e quebra do sigilo de fonte (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan cita Flávio Dino como alvo de uma matéria jornalística sobre **uso irregular de carro oficial** no Maranhão, que teria irritado o ministro. Renan afirma que, por causa dessa matéria, [[pessoas/Alexandre de Moraes]] determinou busca e apreensão contra a fonte do jornalista, quebrando o **sigilo de fonte** — "uma coisa sagrada" garantida pela Constituição. O episódio é usado por Renan como exemplo de que "decisão ilegal não se cumpre" e de que o STF estaria se aproximando de uma "ditadura do judiciário".
+
+Ver [[fontes/2026-08-13 - Decisão ilegal não se cumpre 👍🏻]] e [[eventos/Busca e Apreensão contra Fonte de Jornalista — Agosto de 2026]].
+
 ## Como Renan Santos o caracteriza
 
 Renan menciona Flávio Dino no contexto de uma ação no STF sobre educação sexual nas escolas maranhenses. Em **2 de junho de 2026**, aponta que Dino fez ressalvas a uma decisão do ministro [[pessoas/Gilmar Mendes]] que, segundo Renan, garantem a continuidade do conteúdo ideológico de gênero nas escolas — exatamente as iniciativas que, na visão de Renan, prejudicam as famílias humildes do Maranhão.

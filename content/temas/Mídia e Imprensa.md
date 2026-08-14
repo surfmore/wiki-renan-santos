@@ -5,6 +5,7 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-13 - Decisão ilegal não se cumpre 👍🏻"
   - "2026-08-12 - Veja como isso é bom"
   - "2026-08-07 - Urgente Janja quer derrubar rede social"
   - "2026-08-06 - Obrigado, Globo!"
@@ -18,6 +19,12 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Sigilo de fonte: "coisa sagrada" que o STF não pode quebrar (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan comenta a decisão de [[pessoas/Alexandre de Moraes]] que determinou busca e apreensão contra um empresário apontado como fonte de um jornalista. Ele afirma que a medida quebra o **sigilo de fonte** — "uma coisa sagrada", base do jornalismo e da democracia — e que, sem jornalismo livre e investigação, "você não consegue ter democracia", pois não há como checar se o poder público age certo ou errado. Renan diz ter sido entrevistado na Globo News sobre o tema e reafirma que "decisão ilegal não se cumpre".
+
+Ver [[fontes/2026-08-13 - Decisão ilegal não se cumpre 👍🏻]] e [[eventos/Busca e Apreensão contra Fonte de Jornalista — Agosto de 2026]].
 
 ## Crítica a Miriam Leitão: imprensa que evita "machucar o governo" (agosto de 2026)
 

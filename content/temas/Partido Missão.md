@@ -6,6 +6,8 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-14 - Entrei no TSE contra Flávio"
+  - "2026-08-13 - Passo a passo da “filiação” do Flávio."
   - "2026-08-12 - Metas da Missão"
   - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-10 - Não precisamos ser escravos do bolsonarismo e do petismo."
@@ -40,6 +42,18 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Representação no TSE contra a "maracutaia" da filiação de Flávio (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan anuncia que ele e o Partido Missão entraram com **representação no TSE contra todos os envolvidos** na filiação de [[pessoas/Flávio Bolsonaro]], pedindo investigação e enviando logs, documentação e dados à Corte, à Polícia Federal e à imprensa. Na peça, sustenta que a equipe de Flávio acessou os e-mails e clicou nos links de maneira voluntária. Renan critica a contradição da turma que "reclamava do TSE para tudo" e agora quer usá-lo para tirar sua candidatura.
+
+Ver [[fontes/2026-08-14 - Entrei no TSE contra Flávio]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
+
+## Sistema automático de filiação e disponibilização de dados ao TSE (agosto de 2026)
+
+Em **13 de agosto de 2026**, ao explicar o "passo a passo" da filiação de [[pessoas/Flávio Bolsonaro]] ao partido, Renan esclarece que o Missão — como PT e PL — usa **sistema automático de filiação**. Ele afirma que o cadastro de Flávio foi feito com o e-mail oficial do Senado e que os e-mails do sistema foram abertos e com links clicados. Renan anuncia que o Partido Missão vai disponibilizar ao TSE e à imprensa **todos os dados, e-mails, logs e IP** do caso, desafiando Flávio a fazer o mesmo.
+
+Ver [[fontes/2026-08-13 - Passo a passo da “filiação” do Flávio.]] e [[eventos/Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026]].
 
 ## "Metas da Missão": metas de governo do partido (agosto de 2026)
 

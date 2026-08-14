@@ -9,6 +9,12 @@ date: 2026-08-06
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
 
+## Busca e apreensão contra fonte de jornalista: quebra do sigilo (agosto de 2026)
+
+Em **13 de agosto de 2026**, Renan comenta decisão de Moraes que determinou busca e apreensão contra um empresário apontado como **fonte de um jornalista** — que havia noticiado o uso irregular de carro oficial por [[pessoas/Flávio Dino]]. Renan afirma que a medida **quebra o sigilo de fonte**, "uma coisa sagrada" garantida pela Constituição, e que "decisão ilegal não se cumpre". Ele usa o caso para reforçar a tese de que o STF cruza "qualquer linha de razoabilidade" e que o Brasil se aproxima de uma "ditadura do judiciário".
+
+Ver [[fontes/2026-08-13 - Decisão ilegal não se cumpre 👍🏻]] e [[eventos/Busca e Apreensão contra Fonte de Jornalista — Agosto de 2026]].
+
 ## Exemplo de decisão monocrática ilegal (agosto de 2026)
 
 Em **6 de agosto de 2026**, Renan cita Alexandre de Moraes como exemplo de ministro que decidiria "monocraticamente, sem passar pelo processo legislativo", em vídeo em que defende que "decisão ilegal não se cumpre". Ele afirma que o país vive um "estado inconstitucional de coisas" quando o STF "fica passando o tempo todo sob atribuição de outros poderes".

@@ -7,6 +7,8 @@ tags:
   - flávio-bolsonaro
 date: 2026-08-13
 fontes:
+  - "2026-08-14 - Entrei no TSE contra Flávio"
+  - "2026-08-13 - Passo a passo da “filiação” do Flávio."
   - "2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro"
 ---
 
@@ -21,6 +23,18 @@ Em vídeo no canal Renan Santos, Renan afirma ter "uma maneira de verificar" a f
 Renan questiona a versão de que Flávio seria "vítima do sistema" e levanta a possibilidade de o episódio ter sido um **truque para divulgar um ato de campanha** ("quem precisa de todo mundo nas ruas?"). Ele convida os veículos de comunicação a acompanhar o caso e **desafia Flávio a um confronto público em qualquer televisão**, prometendo mostrar "detalhe por detalhe, IP por IP, registro por registro no sistema". Também acusa o senador de estar "agindo como uma criança" e adianta que "em breve teremos novidades".
 
 A transcrição do vídeo tem baixa qualidade, com trechos reconstruídos pelo contexto.
+
+## O "passo a passo" da filiação (13 de agosto de 2026)
+
+No mesmo dia, Renan publica o vídeo "Passo a passo da filiação do Flávio", detalhando a mecânica do episódio. Ele explica que grandes partidos — PT, PL e o próprio Partido Missão — usam **sistemas automáticos de filiação**, e que os dados de Flávio foram cadastrados com o **e-mail oficial do Senado**, gerando e-mails que foram abertos e com links internos clicados (baixar o aplicativo e confirmar filiação paga ou não paga). Renan questiona por que a campanha esperou para tornar o caso público e por que alguém com acesso ao e-mail abriu os links; afirma que a candidatura não estava barrada e que a "manifestação" convocada era o ato de lançamento de campanha no Rio. Sugere que o episódio poderia ser "cortina de fumaça" para a declaração de bens de Flávio. Anuncia que o Partido Missão disponibilizará dados, e-mails, logs e IP ao TSE e à imprensa, e desafia Flávio a fazer o mesmo e a uma acareação na TV.
+
+Ver [[fontes/2026-08-13 - Passo a passo da “filiação” do Flávio.]].
+
+## Representação no TSE e desafio à acareação (14 de agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan anuncia que o Partido Missão entrou com uma **representação no TSE contra todos os envolvidos** na maracutaia, pedindo investigação e enviando logs, documentação e dados à Corte, à Polícia Federal e à imprensa. Na peça, o partido demonstra que a equipe de Flávio acessou os e-mails e clicou nos links de maneira voluntária, várias vezes, antes de alegar que era spam. Renan volta a desafiar Flávio a uma acareação na TV e critica a turma que "reclamava do TSE para tudo" e agora quer usá-lo "para tirar minha candidatura".
+
+Ver [[fontes/2026-08-14 - Entrei no TSE contra Flávio]].
 
 ## Contexto
 

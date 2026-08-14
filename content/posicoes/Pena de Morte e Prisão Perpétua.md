@@ -7,6 +7,7 @@ tags:
   - prisão-perpétua
 date: 2026-08-07
 fontes:
+  - "2026-08-14 - Teve que ser carregado pela polícia"
   - "2026-08-08 - Esse caso aqui vai gerar pena de morte."
   - "2026-08-07 - Esse caso aqui vai gerar pena de m0rte."
   - "2026-07-20 - O que mais um tipo assim merece"
@@ -16,6 +17,12 @@ fontes:
 ---
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
+
+## Estupro de vulnerável: pena de 15 anos, prescrição e defesa da pena de morte (agosto de 2026)
+
+Em **14 de agosto de 2026**, comentando o caso de um homem preso por estuprar uma criança de 12 anos, Renan critica a pena de **15 anos** para estupro de vulnerável e a possibilidade de "política garantista" reduzir o cumprimento. Ele afirma que, se o criminoso tivesse fugido, o crime "teria prescrito em alguns anos". Renan quer um país em que o estuprador de vulnerável "termine preso pro resto da vida" ou, "se a gente pudesse alterar a constituição", que se permitisse a **pena de morte** — chamando o criminoso de "massa de carbono ambulante". Ironiza que o crime de misoginia seja imprescritível enquanto crimes violentos prescrevem.
+
+Ver [[fontes/2026-08-14 - Teve que ser carregado pela polícia]].
 
 ## Pena de morte para estupro de vulnerável: o caso Marco Furlan (agosto de 2026)
 
