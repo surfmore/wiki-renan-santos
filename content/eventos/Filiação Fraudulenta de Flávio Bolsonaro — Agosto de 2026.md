@@ -7,6 +7,8 @@ tags:
   - flávio-bolsonaro
 date: 2026-08-13
 fontes:
+  - "2026-08-15 - Desafio para Flavio e Lula"
+  - "2026-08-14 - Começou a baixaria"
   - "2026-08-14 - Entrei no TSE contra Flávio"
   - "2026-08-13 - Passo a passo da “filiação” do Flávio."
   - "2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro"
@@ -15,6 +17,14 @@ fontes:
 # Filiação Fraudulenta de Flávio Bolsonaro — Agosto de 2026
 
 Episódio de **13 de agosto de 2026** em que Renan Santos denuncia que a filiação partidária de [[pessoas/Flávio Bolsonaro]] teria sido **fraudulenta**, feita por meio do **e-mail oficial** do senador por alguém com acesso a ele.
+
+## "Chicana" no TSE e desafio ao Dark Horse (14–15 de agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan relata que [[pessoas/Flávio Bolsonaro]] não teria conseguido explicar por que recebeu e-mails e confirmou a filiação "fraudulenta", e que o senador foi ao **TSE** pedindo atuação da **Polícia Federal** — o que Renan classifica como "chicana" para obter algum tipo de decisão jurídica que sabotasse o partido.
+
+No dia seguinte, **15 de agosto**, Renan contrapõe a postura do Partido Missão: quando acusado de fraudes (na coleta de fichas para criação do partido e na filiação de Flávio), a sigla teria aberto as contas e levado os dados à polícia, ao Ministério Público, ao TSE e à imprensa, provando inocência. Ele desafia Flávio a fazer o mesmo com as contas do filme **Dark Horse** — cuja abertura teria sido prometida e ainda não teria ocorrido.
+
+Ver [[fontes/2026-08-14 - Começou a baixaria]] e [[fontes/2026-08-15 - Desafio para Flavio e Lula]].
 
 ## A denúncia de Renan
 
@@ -42,4 +52,6 @@ A denúncia se soma à série de ataques de Renan a Flávio Bolsonaro na campanh
 
 ## Fontes
 
+- [[fontes/2026-08-15 - Desafio para Flavio e Lula]] — Renan compara a transparência do Missão com a falta de abertura das contas do Dark Horse por Flávio
+- [[fontes/2026-08-14 - Começou a baixaria]] — Flávio no TSE pedindo atuação da PF; Renan classifica como "chicana"
 - [[fontes/2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro]] — vídeo original com a denúncia e o desafio ao confronto público

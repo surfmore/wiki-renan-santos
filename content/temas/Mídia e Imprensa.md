@@ -5,6 +5,8 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-15 - Sobre a ameaça de m0rte que recebi."
+  - "2026-08-14 - Começou a baixaria"
   - "2026-08-13 - Decisão ilegal não se cumpre 👍🏻"
   - "2026-08-12 - Veja como isso é bom"
   - "2026-08-07 - Urgente Janja quer derrubar rede social"
@@ -19,6 +21,18 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Intercept ataca a campanha após os 10% (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan afirma que, ao bater 10% nas pesquisas, "começou a baixaria": o **Intercept**, grupo de mídia que associa ao petismo, passou a atacar a campanha e o Partido Missão, acusando a sigla de usar recursos que o ex-candidato Pablo Marçal utilizava — o que Renan classifica como mentira e como tentativa de cassar sua candidatura. Ele afirma enxergar um padrão: os ataques começam pela imprensa e depois tentam destruir a candidatura "por meios jurídicos".
+
+Ver [[fontes/2026-08-14 - Começou a baixaria]].
+
+## Ameaça ideológica "naturalizada" na imprensa (agosto de 2026)
+
+Em **15 de agosto de 2026**, ao relatar ameaça de morte recebida em um grupo de chan (Left Chan), Renan afirma que a ameaça ideológica de esquerda é a mais perigosa porque é "naturalizada" na imprensa: "você pode ser chamado de fascista, nazista, nada acontece", processar é difícil de vencer e as pessoas se colocam como vítimas, ganhando uma "licença poética" para dizer que quem pensa diferente "merece morrer".
+
+Ver [[fontes/2026-08-15 - Sobre a ameaça de m0rte que recebi.]].
 
 ## Sigilo de fonte: "coisa sagrada" que o STF não pode quebrar (agosto de 2026)
 

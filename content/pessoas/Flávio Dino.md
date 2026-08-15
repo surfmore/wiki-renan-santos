@@ -6,12 +6,19 @@ tags:
   - maranhão
 date: 2026-06-02
 fontes:
+  - "2026-08-15 - Bora investigar tudo!"
   - "2026-06-02 - Atenção, Maranhão!"
 ---
 
 # Flávio Dino
 
 Ministro do Supremo Tribunal Federal. Ex-governador do Maranhão, filiado ao PC do B. Renan Santos o chama de "comunista e do Maranhão".
+
+## Fiscalização das contas do Partido Missão e a "farra das emendas" (agosto de 2026)
+
+Em **15 de agosto de 2026**, Renan reage à notícia de que Flávio Dino vai fiscalizar as contas do [[temas/Partido Missão]]. Ele diz ter "adorado" e aproveita para cobrar o ministro sobre o uso de emendas no Maranhão — estado de origem de Dino —, afirmando ter percorrido o estado e denunciado "o que as emendas eram transformadas". Renan espera que Dino "acabe com a farra das emendas" e que, como maranhense, "veja quem é quem" e puna os crimes das figuras envolvidas, já que o povo do Maranhão seria o que mais sofre com a "política suja".
+
+Ver [[fontes/2026-08-15 - Bora investigar tudo!]].
 
 ## Uso irregular de carro oficial e quebra do sigilo de fonte (agosto de 2026)
 

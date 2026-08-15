@@ -7,6 +7,12 @@ tags:
 date: 2026-08-06
 ---
 
+## "Chicana" no TSE e desafio ao Dark Horse (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan afirma que [[pessoas/Flávio Bolsonaro]] foi ao TSE pedindo atuação da Polícia Federal no caso da filiação "fraudulenta" ao Partido Missão — o que Renan classifica como "chicana" para obter decisão jurídica contra a candidatura. No dia seguinte (**15 de agosto**), ele desafia Flávio a abrir as contas do filme **Dark Horse** e afirma que petistas e bolsonaristas "gostam dos mesmos lados de corrupção", citando os escândalos do Banco Master e do INSS.
+
+Ver [[fontes/2026-08-14 - Começou a baixaria]] e [[fontes/2026-08-15 - Desafio para Flavio e Lula]].
+
 ## Representação no TSE contra Flávio: "agora o TSE serve para vocês" (agosto de 2026)
 
 Em **14 de agosto de 2026**, Renan anuncia representação do Partido Missão no TSE contra todos os envolvidos na filiação de [[pessoas/Flávio Bolsonaro]], enviando logs e documentação à Corte, à PF e à imprensa. Ele critica a contradição da campanha bolsonarista que "reclamava do TSE para tudo" e agora quer usá-lo "para tirar minha candidatura", e repete o desafio à acareação na TV.

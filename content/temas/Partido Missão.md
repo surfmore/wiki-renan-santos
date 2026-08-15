@@ -6,6 +6,8 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-15 - Bora investigar tudo!"
+  - "2026-08-14 - Começou a baixaria"
   - "2026-08-14 - Entrei no TSE contra Flávio"
   - "2026-08-13 - Passo a passo da “filiação” do Flávio."
   - "2026-08-12 - Metas da Missão"
@@ -42,6 +44,18 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Ataques do Intercept após os 10% (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan afirma que, ao atingir **10% nas pesquisas**, "começou a baixaria": o **Intercept**, grupo de mídia que associa ao petismo, passou a atacar a campanha e o Partido Missão, acusando a sigla de usar recursos que o ex-candidato Pablo Marçal utilizava. Renan classifica a acusação como mentira e como tentativa de cassar sua candidatura, e afirma que a campanha não vai recuar — "os únicos limpos nessa arena somos nós".
+
+Ver [[fontes/2026-08-14 - Começou a baixaria]].
+
+## Transparência das contas do partido (agosto de 2026)
+
+Em **15 de agosto de 2026**, ao saber que o ministro do STF [[pessoas/Flávio Dino]] vai fiscalizar as contas do partido, Renan afirma que "adorou" e que vai "tornar mais transparente o que já é transparente": destaca que as contas do deputado [[pessoas/Kim Kataguiri]] estão "corretíssimas" e sem orçamento secreto, e diz que vai cobrar que os presidentes de outros partidos — que descreve como multimilionários, alguns bilionários — façam o mesmo.
+
+Ver [[fontes/2026-08-15 - Bora investigar tudo!]].
 
 ## Representação no TSE contra a "maracutaia" da filiação de Flávio (agosto de 2026)
 

@@ -9,6 +9,12 @@ date: 2026-07-27
 
 Proposta defendida por Renan Santos de que **emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho** em áreas-chave de políticas públicas.
 
+## "Farra das emendas" e transparência das contas partidárias (agosto de 2026)
+
+Em **15 de agosto de 2026**, ao reagir à fiscalização das contas do Partido Missão pelo ministro do STF [[pessoas/Flávio Dino]], Renan afirma ter percorrido o Maranhão e denunciado "o que as emendas eram transformadas", e espera que Dino "acabe com a farra das emendas". Ele destaca que as contas do deputado [[pessoas/Kim Kataguiri]] estão corretas e fora do orçamento secreto, e anuncia que vai cobrar transparência de todos os presidentes de partido, que descreve como multimilionários e bilionários.
+
+Ver [[fontes/2026-08-15 - Bora investigar tudo!]].
+
 ## Ampliação: políticas de desempenho para governadores (julho de 2026)
 
 Em **27 de julho de 2026**, ao comparar a BR-163 no Mato Grosso (bem cuidada) com a do Pará (abandonada), Renan anuncia que seu governo vai aplicar **"políticas de desempenho para prefeitos e governadores"** — uma ampliação da proposta original, que passaria a incluir também governadores estaduais no sistema de metas. A ideia é que gestores estaduais sejam avaliados por indicadores objetivos e que o repasse de recursos federais seja condicionado ao cumprimento de metas, para que estados se tornem "mais como Mato Grosso e menos como Pará ou Maranhão."

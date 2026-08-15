@@ -7,6 +7,7 @@ tags:
   - escolas-civico-militares
 date: 2026-07-27
 fontes:
+  - "2026-08-15 - Por que eu defendo mais escolas cívico-militares."
   - "2026-08-12 - Metas da Missão"
   - "2026-08-05 - Sobre bullying nas escolas."
   - "2026-07-27 - Você não conhecia esse herói"
@@ -20,6 +21,12 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Escola como espaço de "ordenação" e crítica às "teorias alternativas" (agosto de 2026)
+
+Em **15 de agosto de 2026**, Renan explica a defesa de mais escolas cívico-militares afirmando que o problema da escola pública "normal" é um **problema de autoridade**. Para ele, crianças de famílias humildes — muitas sem contato com o pai, em ambiente de "caos" — precisam da escola como **local de ordenação**: regras, lição de casa, uniforme, horários e proibição de celular em sala. Ele critica o que chama de **abandono da escola pelo poder público**, que teria transformado a escola em lugar de "depositar a criança", com aprovação automática para "bater os índices" do governo, e as "teorias alternativas sobre gestão de crianças", que teriam feito a escola "virar mais um ambiente de caos".
+
+Ver [[fontes/2026-08-15 - Por que eu defendo mais escolas cívico-militares.]] e [[temas/Família e Paternidade]].
 
 ## Meta de 9 em cada 10 crianças alfabetizadas e premiação dos melhores professores (agosto de 2026)
 

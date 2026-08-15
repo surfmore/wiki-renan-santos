@@ -6,6 +6,8 @@ tags:
   - direita
 date: 2026-08-06
 fontes:
+  - "2026-08-15 - Desafio para Flavio e Lula"
+  - "2026-08-14 - Começou a baixaria"
   - "2026-08-14 - Entrei no TSE contra Flávio"
   - "2026-08-13 - Passo a passo da “filiação” do Flávio."
   - "2026-08-13 - A verdade sobre a filiação do Flávio Bolsonaro"
@@ -21,6 +23,12 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Chicana" no TSE e desafio para abrir as contas do Dark Horse (agosto de 2026)
+
+Em **14 de agosto de 2026**, Renan diz que Flávio não teria conseguido explicar por que recebeu e-mails e confirmou a filiação "fraudulenta" ao Partido Missão, e que o senador foi ao **TSE** pedindo atuação da **Polícia Federal** — o que Renan classifica como "chicana" para obter decisão jurídica que sabotasse a candidatura. No dia seguinte (**15 de agosto**), Renan lança um desafio público: que Flávio abra as contas do filme **Dark Horse**, cuja abertura teria sido prometida e ainda não teria ocorrido. Ele o acusa, junto com [[pessoas/Lula]], de "covardes" que fogem dos debates — "no debate não tem como fugir de mim" — e afirma que petistas e bolsonaristas "gostam dos mesmos lados de corrupção", citando os escândalos do Banco Master e do INSS.
+
+Ver [[fontes/2026-08-14 - Começou a baixaria]] e [[fontes/2026-08-15 - Desafio para Flavio e Lula]].
 
 ## Representação no TSE e acareação: "agora o TSE serve para vocês" (agosto de 2026)
 
@@ -552,6 +560,8 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-08-15 - Desafio para Flavio e Lula]] — desafio para abrir as contas do Dark Horse; "covardes" que fogem dos debates
+- [[fontes/2026-08-14 - Começou a baixaria]] — Flávio no TSE pedindo atuação da PF; Renan classifica como "chicana"
 - [[fontes/2026-08-08 - Resposta para José Dirceu]] — Renan reproduz a aposta do PT de que Flávio é "burrinho" e "simplinho"; o duelo seria entre Renan e o PT
 - [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — Renan critica a promessa de Flávio de dar celular a todos como assistencialismo
 - [[fontes/2026-07-16 - Taxaram a gente]] — Renan critica Flávio por viagem "patética" aos EUA para defender Brasil de tarifas; "Trump só usa esses idiotas"

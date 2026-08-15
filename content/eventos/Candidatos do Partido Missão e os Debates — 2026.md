@@ -7,12 +7,19 @@ tags:
   - debates
 date: 2026-08-10
 fontes:
+  - "2026-08-15 - Desafio para Flavio e Lula"
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
   - "2026-08-10 - Primeira Aparição minha em debate!"
   - "2026-07-31 - É oficial, estamos fora dos debate."
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## Desafio a Lula e Flávio pelo debate da Band (agosto de 2026)
+
+Em **15 de agosto de 2026**, Renan diz que está aguardando a confirmação de [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] para o **debate da Band** e que "nenhum confirmou até agora, covardes". Ele afirma que os dois não querem debater porque "no debate não tem como fugir de mim" e pede que apoiadores pressionem os adversários pelos debates.
+
+Ver [[fontes/2026-08-15 - Desafio para Flavio e Lula]].
 
 ## Campanha para colocar os candidatos do Missão nos debates (agosto de 2026)
 

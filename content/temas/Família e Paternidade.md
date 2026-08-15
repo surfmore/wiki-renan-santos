@@ -10,6 +10,12 @@ date: 2026-08-06
 
 Renan Santos trata a desestruturação familiar — especialmente a ausência da figura paterna — como causa raiz subestimada da criminalidade juvenil e da perpetuação da pobreza. A visão articula diagnóstico empírico com proposta de intervenção pública.
 
+## Ausência paterna como pano de fundo da defesa das escolas cívico-militares (agosto de 2026)
+
+Em **15 de agosto de 2026**, Renan relembra discussão na GloboNews sobre paternidade e famílias biparentais para explicar a defesa das [[posicoes/Propostas para Educação|escolas cívico-militares]]: afirma que boa parte das crianças das famílias mais humildes — as que frequentam escolas públicas — não tem contato com o pai e vive em ambiente de caos (ausência paterna, pobreza, favela, ruas sujas). A escola, argumenta, precisa funcionar como local de "ordenação" para compensar essa desestruturação familiar.
+
+Ver [[fontes/2026-08-15 - Por que eu defendo mais escolas cívico-militares.]].
+
 ## Mensagem de Dia dos Pais: defesa da família biparental (agosto de 2026)
 
 Em **9 de agosto de 2026**, em sua mensagem de Dia dos Pais, Renan afirma que o país assiste a um "ataque cada vez menos velado à paternidade e a boas figuras masculinas", no qual o papel de pai "precisa ser negligenciado", os "exemplos virtuosos de masculinidade" silenciados e a família biparental relativizada. Ele arrola dados de estudos: a chance de um filho cair no crime seria **três vezes menor** com a figura paterna por perto; a pobreza familiar, **quatro vezes menor** com o núcleo familiar; e o desempenho escolar e os efeitos psicológicos seriam superiores com o pai presente.

@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-15 - Desafio para Flavio e Lula"
   - "2026-08-12 - Veja como isso é bom"
   - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
@@ -52,6 +53,12 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Desafio para abrir as contas do filho e fuga do debate (agosto de 2026)
+
+Em **15 de agosto de 2026**, Renan desafia [[pessoas/Lula]] publicamente: pede que o presidente peça ao filho "Lulinha" que abra as contas da relação que Renan classifica como "muito promíscua", questionando por que o filho "fica fugindo do Brasil", não quer demonstrar o que está acontecendo e recebe "decisões que o favorecem". Renan afirma que petistas e bolsonaristas "gostam dos mesmos lados de corrupção" — citando os escândalos do Banco Master e do INSS — e que Lula e Flávio não querem debater porque "no debate não tem como fugir de mim". Ele aguarda a confirmação dos dois para o **debate da Band** e afirma que "nenhum confirmou até agora, covardes".
+
+Ver [[fontes/2026-08-15 - Desafio para Flavio e Lula]].
 
 ## "Tirar o vagabundo do Lula do poder": a "primeira reforma" (agosto de 2026)
 

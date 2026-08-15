@@ -6,6 +6,7 @@ tags:
   - partido-missão
 date: 2026-07-30
 fontes:
+  - "2026-08-15 - Bora investigar tudo!"
   - "2026-08-08 - Resposta para José Dirceu"
   - "2026-07-30 - @kimkataguiri foi cancelado"
   - "2026-07-08 - URGENTE avança a PEC Anti IPVA!"
@@ -17,6 +18,12 @@ fontes:
 ---
 
 Deputado federal, cofundador do MBL e **líder do Partido Missão no Congresso Nacional**. Renan Santos o descreve recorrentemente como o parlamentar que representa o braço legislativo da sigla — a contrapartida ao trabalho de pré-campanha presidencial de Renan.
+
+## Contas corretas e sem orçamento secreto (agosto de 2026)
+
+Em **15 de agosto de 2026**, ao responder sobre a fiscalização das contas do Partido Missão por [[pessoas/Flávio Dino]], Renan destaca que as contas de Kim Kataguiri estão "corretíssimas" e que nenhuma está no **orçamento secreto**. Ele afirma que vai "tornar mais transparente o que já é transparente" e cobrar que todos os presidentes de partido — que descreve como multimilionários, alguns bilionários — façam o mesmo.
+
+Ver [[fontes/2026-08-15 - Bora investigar tudo!]].
 
 ## CPI do INSS e a "destruição" de Everton Rocha (agosto de 2026)
 
