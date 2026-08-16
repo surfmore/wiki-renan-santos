@@ -8,6 +8,10 @@ tags:
 date: 2026-07-03
 ---
 
+## Fortalecimento militar e troca de tecnologia com base nas terras raras (agosto de 2026)
+
+Em **16 de agosto de 2026**, em discurso de campanha, Renan projeta o Brasil como **detentor das terras raras** que vai negociar "como alguém que vai se fortalecer militarmente e que vai fazer troca de tecnologia com os agentes externos, de modo a fortalecer acima de tudo o Brasil". A fala reforça o projeto de soberania tecnológica: explorar os próprios recursos e usá-los como alavanca de poder e negociação internacional. Ver [[fontes/2026-08-16 - Já imaginaram]].
+
 ## Industrializar e explorar os próprios recursos "sem sabotagem" (agosto de 2026)
 
 Em **12 de agosto de 2026**, Renan fixa como meta de governo **industrializar** o Brasil e "explorar todos os nossos recursos, nós mesmos, sem sabotagem" — "ninguém vai levar recurso nosso sem trazer de volta a tecnologia". A afirmação amplia o projeto de soberania econômica e tecnológica já defendido em vídeos anteriores, ligando a exploração nacional dos recursos à exigência de transferência de tecnologia.
@@ -452,6 +456,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Já imaginaram]] — fortalecimento militar e troca de tecnologia com base nas terras raras
 - [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — programa espacial, aviões de guerra com terras raras e assento no Conselho de Segurança da ONU
 - [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]] — contraste entre a falta de ambição de Lula e nações que se desenvolveram
 - [[fontes/2026-07-07 - A vitória de Messi é uma lição ao Brasil.]] — Contraste entre Brasil e Argentina; jogadores brasileiros como "apátridas" e "mercenários"; lição de identidade nacional

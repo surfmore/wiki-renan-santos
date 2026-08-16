@@ -7,6 +7,8 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-16 - Não veja esse vídeo!"
+  - "2026-08-15 - Eu passei o Lula!"
   - "2026-08-11 - URGENTE batemos 10%!!"
   - "2026-08-05 - Nós construímos nosso próprio caminho"
   - "2026-08-05 - Estou pronto para ser o CEO do Brasil"
@@ -16,7 +18,15 @@ fontes:
   - "2025-09-02 - MISSAO VAI GOVERNAR O BRASIL, GALERA!"
 ---
 
-Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É pré-candidato à presidência da República e uma das principais vozes da direita não-bolsonarista no Brasil.
+Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## Candidatura oficial e o número 14 (agosto de 2026)
+
+Em **16 de agosto de 2026**, dia do primeiro ato de campanha no Largo São Francisco, Renan anuncia que é **oficialmente candidato à presidência da República** pelo Partido Missão, com o **número 14**. Ele se descreve como "o candidato mais desconhecido, com a menor das taxas de rejeição, que já está em terceiro com cerca de 10% dos votos". No vídeo, narra sua biografia: nascido em São Paulo em 1984, no bairro da Mooca, passou na Faculdade de Direito da **USP** e largou a faculdade para trabalhar com o pai; empreendeu, gerou empregos e atuou com **recuperação de empresas**; fundou o **MBL**, ajudou a derrubar o governo Dilma e a "prender o senhor Lula", e fundou o **Partido Missão** — "o partido que mais coletou assinaturas em toda a história do Brasil". Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
+
+## Ultrapassa Lula no segundo turno na pesquisa Quest (agosto de 2026)
+
+Em **15 de agosto de 2026**, Renan anuncia que **ultrapassou Lula no cenário de segundo turno** na pesquisa **Quest** — instituto que, segundo ele, "nunca foi favorável a mim". Ele afirma que na **Geração Z** já derrota Lula e que na Geração X e entre Millennials está se aproximando para ultrapassá-lo. Atribui o movimento à **rejeição gigantesca** do atual presidente — "Lula só consegue vencer se Flávio for pro segundo turno" — e diz estar convencendo eleitores de direita e do próprio Lula. Confirma estar em **terceiro lugar em todas as pesquisas** e fixa como próximo passo ultrapassar Flávio Bolsonaro para enfrentar Lula no segundo turno. Ver [[fontes/2026-08-15 - Eu passei o Lula!]].
 
 ## "Estou pronto para ser o CEO do Brasil": defesa do próprio currículo (agosto de 2026)
 
@@ -208,6 +218,8 @@ Ver [[fontes/2026-05-19 - 6,9% DISPAREI NA ATLAS]].
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — candidatura oficial pelo Partido Missão, número 14; biografia e trajetória
+- [[fontes/2026-08-15 - Eu passei o Lula!]] — ultrapassa Lula no segundo turno na pesquisa Quest; 3º lugar em todas as pesquisas
 - [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% Real Time Big Data; 10% em votos válidos; ultrapassar Flávio Bolsonaro; 2M seguidores; em Cuiabá
 - [[fontes/2026-06-08 - Pré-candidato a presidência dá aula sobre Brasil]] — visão política sobre república vs. democracia e a falta de "regra una" no Brasil
 - [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] — sabatina Esfera: ajuste fiscal, STF, terras raras, eleitorado

@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Bora investigar tudo!"
   - "2026-08-14 - Começou a baixaria"
   - "2026-08-14 - Entrei no TSE contra Flávio"
@@ -44,6 +45,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Candidatura oficial de Renan pelo partido, número 14 (agosto de 2026)
+
+Em **16 de agosto de 2026**, dia do primeiro ato de campanha no Largo São Francisco, Renan anuncia sua **candidatura oficial à presidência pelo Partido Missão**, com o **número 14**. No anúncio, ele apresenta o partido como "o partido que mais coletou assinaturas em toda a história do Brasil" e se coloca como o único capaz de atacar a corrupção do Lula, da família Bolsonaro, do Centrão e do STF "porque, acima de tudo, eu sou livre e tenho um passado ilibado". Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
 
 ## Ataques do Intercept após os 10% (agosto de 2026)
 
@@ -328,6 +333,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — candidatura oficial de Renan pelo partido, número 14; recorde de assinaturas
 - [[fontes/2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha.]] — primeiro ato de campanha no Largo São Francisco; ameaças e mobilização da esquerda
 - [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% Real Time Big Data; ultrapassar Flávio; 2M seguidores; em Cuiabá
 - [[fontes/2026-06-28 - Expulsei o Caze TV]] — expulsão de Gabriel de Almeida por bets; padrões éticos do partido

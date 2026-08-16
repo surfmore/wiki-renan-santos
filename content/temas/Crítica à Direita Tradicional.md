@@ -7,6 +7,10 @@ tags:
 date: 2026-08-06
 ---
 
+## "Corrupção da família Bolsonaro": Renan como único capaz de atacá-la (agosto de 2026)
+
+Em **16 de agosto de 2026**, no anúncio oficial de sua candidatura, Renan afirma ser **"o único que pode atacar a corrupção do Lula e a corrupção da família Bolsonaro"** e "o único que pode apontar a corrupção do Centrão e do STF" — por ter "um passado ilibado". Ele também se descreve como oposição "a todas as roubalheiras da esquerda e da direita, não importando quem fosse o presidente". Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
+
 ## "Chicana" no TSE e desafio ao Dark Horse (agosto de 2026)
 
 Em **14 de agosto de 2026**, Renan afirma que [[pessoas/Flávio Bolsonaro]] foi ao TSE pedindo atuação da Polícia Federal no caso da filiação "fraudulenta" ao Partido Missão — o que Renan classifica como "chicana" para obter decisão jurídica contra a candidatura. No dia seguinte (**15 de agosto**), ele desafia Flávio a abrir as contas do filme **Dark Horse** e afirma que petistas e bolsonaristas "gostam dos mesmos lados de corrupção", citando os escândalos do Banco Master e do INSS.
@@ -683,6 +687,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção da família Bolsonaro"; Renan se diz o único capaz de atacá-la
 - [[fontes/2026-08-04 - Eles estão com medo de vir pro debate.]] — Lula e Flávio como "casuístas" que fogem dos debates; desafio ao confronto de ideias
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Eduardo ataca Renan na Jovem Pan; Renan expõe hipocrisia da família Bolsonaro com o STF
 - [[fontes/2025-12-18 - Esse é o pronunciamento do próximo Presidente da República]]

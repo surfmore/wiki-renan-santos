@@ -14,6 +14,10 @@ fontes:
 
 Renan Santos defende o uso de inteligência artificial e cruzamento de bases de dados públicas como principal ferramenta de combate à corrupção — mais eficiente e mais barato do que estruturas burocráticas de fiscalização.
 
+## "Único que pode atacar a corrupção do Lula, da família Bolsonaro, do Centrão e do STF" (agosto de 2026)
+
+Em **16 de agosto de 2026**, no anúncio oficial de sua candidatura, Renan afirma ser **"o único que pode atacar a corrupção do Lula e a corrupção da família Bolsonaro"** e "o único que pode apontar a corrupção do Centrão e do STF", justificando: "acima de tudo, eu sou livre e tenho um passado ilibado". A declaração posiciona a pauta anticorrupção como diferencial central de sua candidatura. Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
+
 ## Lulinha e o escândalo do INSS: "a hora tá chegando" (julho de 2026)
 
 Em **30 de julho de 2026**, Renan comenta a abertura de procedimento contra **Lulinha** (filho de Lula) por tráfico de influência no escândalo do INSS, pelo ministro [[pessoas/André Mendonça]]. Ele afirma que Lulinha circulou dinheiro estranho e que o escândalo "rodou com muita gente do PT". Renan destaca que a investigação contra o filho de Lula valida a tese de que a corrupção sistêmica atinge tanto PT quanto bolsonarismo — "se apertar direitinho, não tem Lula, nem tem Bolsonaro, não tem ninguém."
@@ -55,5 +59,6 @@ Renan quer usar a ferramenta do "Aceleracionismo Brasileiro" para **screening de
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — Renan se diz o único capaz de atacar a corrupção do Lula, da família Bolsonaro, do Centrão e do STF
 - [[fontes/2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL]]
 - [[fontes/2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS]]

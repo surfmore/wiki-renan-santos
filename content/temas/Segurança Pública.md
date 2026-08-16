@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## Líderes do PCC e do Comando Vermelho: fuga e destino de prisão ou morte (agosto de 2026)
+
+Em **16 de agosto de 2026**, em discurso de campanha, Renan projeta o cenário de um governo seu no combate ao crime organizado: líderes do **PCC** e do **Comando Vermelho** tentando fugir desesperadamente para a **Bolívia**, o **Peru** ou qualquer outra nação, "sabendo que o destino deles é ser preso ou ser morto se ficarem no Brasil". A fala reforça a promessa de enfrentamento direto às facções. Ver [[fontes/2026-08-16 - Já imaginaram]].
+
 ## Assalto a estudante: "a esquerda não liga para a violência contra a mulher" (agosto de 2026)
 
 Em **14 de agosto de 2026**, Renan comenta o assalto a uma estudante que implorava para não levar o seu único celular, abordada por um homem desarmado. Ele afirma que jornalistas, a esquerda e os defensores de direitos humanos precisam escolher: "ou vocês ligam pra violência contra a mulher, ou vocês ligam pro direito do bandido". Ironiza o paradoxo de se preocupar em punir um humorista que faz piada mas não poder punir o assaltante por causa dos "direitos humanos". Renan defende que o assaltante "tinha que ter tomado um tiro na fuça", que o bandido preso deve cumprir pena "por muito, muito tempo", **sem progressão de pena**, e que o Estado, "com seus juristas, seus defensores de direitos humanos, gosta dos bandidos e oprime as mulheres". Conclui que "o único elemento que para uma pessoa má no meio da sua ação de maldade é a força maior".
@@ -1113,6 +1117,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Já imaginaram]] — líderes do PCC e do Comando Vermelho fugindo; destino de prisão ou morte
 - [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — ameaças de morte do PCC e Comando Vermelho; desafio "venham me pegar"
 - [[fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai]] — fronteira sem fiscalização; armas e drogas; tráfico que "supera o PCC"
 - [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF sobre operações em favelas; retomada territorial

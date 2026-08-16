@@ -6,6 +6,8 @@ tags:
   - direita
 date: 2026-08-06
 fontes:
+  - "2026-08-16 - Não veja esse vídeo!"
+  - "2026-08-15 - Eu passei o Lula!"
   - "2026-08-15 - Desafio para Flavio e Lula"
   - "2026-08-14 - Começou a baixaria"
   - "2026-08-14 - Entrei no TSE contra Flávio"
@@ -23,6 +25,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Corrupção da família Bolsonaro" e o próximo alvo nas pesquisas (agosto de 2026)
+
+Em **16 de agosto de 2026**, no anúncio oficial de sua candidatura, Renan afirma ser "o único que pode atacar a corrupção do Lula e a corrupção da família Bolsonaro" e "apontar a corrupção do Centrão e do STF". No dia anterior (**15 de agosto**), ao comemorar ter ultrapassado [[pessoas/Lula]] no segundo turno na pesquisa Quest, Renan afirma que "Lula só consegue vencer se Flávio for pro segundo turno" e fixa como próximo passo "buscar ultrapassar o Flávio Bolsonaro" nas pesquisas para enfrentar Lula. Ver [[fontes/2026-08-16 - Não veja esse vídeo!]] e [[fontes/2026-08-15 - Eu passei o Lula!]].
 
 ## "Chicana" no TSE e desafio para abrir as contas do Dark Horse (agosto de 2026)
 
@@ -560,6 +566,8 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção da família Bolsonaro"; Renan se diz o único que pode atacá-la
+- [[fontes/2026-08-15 - Eu passei o Lula!]] — "Lula só vence se Flávio for pro segundo turno"; Renan mira ultrapassar Flávio
 - [[fontes/2026-08-15 - Desafio para Flavio e Lula]] — desafio para abrir as contas do Dark Horse; "covardes" que fogem dos debates
 - [[fontes/2026-08-14 - Começou a baixaria]] — Flávio no TSE pedindo atuação da PF; Renan classifica como "chicana"
 - [[fontes/2026-08-08 - Resposta para José Dirceu]] — Renan reproduz a aposta do PT de que Flávio é "burrinho" e "simplinho"; o duelo seria entre Renan e o PT

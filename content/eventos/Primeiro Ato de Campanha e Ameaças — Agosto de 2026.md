@@ -7,6 +7,7 @@ tags:
   - liberdade-de-expressão
 date: 2026-08-09
 fontes:
+  - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Sobre a ameaça de m0rte que recebi."
   - "2026-08-15 - Desafio para Flavio e Lula"
   - "2026-08-14 - Começou a baixaria"
@@ -16,6 +17,10 @@ fontes:
 # Primeiro Ato de Campanha e Ameaças — Agosto de 2026
 
 Em **9 de agosto de 2026**, Renan Santos anunciou a realização de seu **primeiro ato de campanha** presidencial para o dia **16 de agosto de 2026**, no **Largo São Francisco**, em São Paulo, no espaço do **Parlatório** — local onde cursou a Faculdade de Direito. Poucas horas após o anúncio, começou a receber **ameaças de morte**.
+
+## Candidatura oficial e número 14 no dia do ato (16 de agosto de 2026)
+
+No dia do ato, **16 de agosto de 2026**, Renan anuncia em vídeo que é **oficialmente candidato à presidência da República** pelo [[temas/Partido Missão]], com o **número 14**, e que "já posso pedir o seu voto". Ele se descreve como "o candidato mais desconhecido, com a menor das taxas de rejeição, que já está em terceiro com cerca de 10% dos votos". Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
 
 ## Ameaça no "Left Chan" e acúmulo de ameaças (15 de agosto de 2026)
 
@@ -39,6 +44,7 @@ Diante das ameaças, Renan anunciou que todas serão encaminhadas à **polícia 
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — candidatura oficial no dia do ato, número 14
 - [[fontes/2026-08-15 - Sobre a ameaça de m0rte que recebi.]] — relato da ameaça de morte no "Left Chan" e da rotina com colete à prova de bala
 - [[fontes/2026-08-15 - Desafio para Flavio e Lula]] — convocação para o ato de 16 de agosto às 13h no Largo São Francisco
 - [[fontes/2026-08-14 - Começou a baixaria]] — relato dos ataques do Intercept e da mobilização de movimentos antifascistas contra o ato

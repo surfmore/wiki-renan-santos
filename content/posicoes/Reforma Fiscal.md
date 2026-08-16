@@ -8,6 +8,10 @@ date: 2026-08-06
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
 
+## Queda da taxa de juros e investimento estrangeiro via reformas (agosto de 2026)
+
+Em **16 de agosto de 2026**, em discurso de campanha projetando a vitória eleitoral, Renan descreve como cenário de seu governo a **queda da taxa de juros** e a **chegada do investimento estrangeiro** "diante das reformas que nós vamos fazer durante a transição". O vídeo conecta as reformas anunciadas no primeiro pronunciamento de um eventual governo ao barateamento do crédito e à atração de capital externo. Ver [[fontes/2026-08-16 - Já imaginaram]].
+
 ## "Cortar privilégio, gasto estúpido" e adequar o Brasil às melhores práticas (agosto de 2026)
 
 Em **12 de agosto de 2026**, Renan afirma que, sem "reformas dramáticas", a situação do Brasil "vai ficar muito, mas muito pior". Ele define a terceira reforma necessária como "cortar privilégio, gasto estúpido, adequar o Brasil pras melhores práticas econômicas do mundo" — condição para "começar a ter dinheiro, ver os produtos ficarem mais baratos e ver a vida ficar melhor". Ver [[fontes/2026-08-12 - Veja como isso é bom]].
@@ -134,6 +138,7 @@ Ver [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]].
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Já imaginaram]] — queda da taxa de juros e investimento estrangeiro via reformas durante a transição
 - [[fontes/2026-06-26 - O Valverde é melhor que o Paquetá]] — caso Uruguai (LCU) como modelo de teto de gastos; comparação de PIB per capita, juros e inflação
 - [[fontes/2026-05-23 - RENAN AO VIVO - SABATINA ESFERA - 23-05-2026]] — debate com Aldo Rebelo; desvinculação de aposentadorias; fim de gatilhos automáticos
 - [[fontes/2026-05-13 - RENAN VISITA A FÁBRICA DA AETHRA - Pouso Alegre - MG]] — sequência corte de gastos/impostos

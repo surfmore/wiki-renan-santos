@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-16 - Não veja esse vídeo!"
+  - "2026-08-15 - Eu passei o Lula!"
   - "2026-08-15 - Desafio para Flavio e Lula"
   - "2026-08-12 - Veja como isso é bom"
   - "2026-08-11 - URGENTE batemos 10%!!"
@@ -53,6 +55,14 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Ultrapassado por Renan no segundo turno na pesquisa Quest (agosto de 2026)
+
+Em **15 de agosto de 2026**, Renan anuncia que **ultrapassou Lula no cenário de segundo turno** na pesquisa **Quest** — que, segundo ele, nunca foi favorável à sua candidatura. Ele afirma que a **rejeição** do atual presidente é "gigantesca" e que "Lula só consegue vencer se Flávio for pro segundo turno". Renan diz que quanto mais conhecido fica, mais destrói o que chama de "eleitorado do cachaceiro", e projeta que em "uma ou duas pesquisas" empata e depois ultrapassa o presidente. Ver [[fontes/2026-08-15 - Eu passei o Lula!]].
+
+## "Único que pode atacar a corrupção do Lula" (agosto de 2026)
+
+Em **16 de agosto de 2026**, no anúncio oficial de sua candidatura, Renan afirma ser "o único que pode atacar a corrupção do Lula e a corrupção da família Bolsonaro" e "o único que pode apontar a corrupção do Centrão e do STF", por ter "um passado ilibado". Ele também recorda que o MBL "ajudou a prender o senhor Lula". Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
 
 ## Desafio para abrir as contas do filho e fuga do debate (agosto de 2026)
 
@@ -454,6 +464,8 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — Renan diz ser o único que pode atacar a corrupção do Lula; recorda que o MBL "ajudou a prender" o presidente
+- [[fontes/2026-08-15 - Eu passei o Lula!]] — Renan ultrapassa Lula no segundo turno na Quest; rejeição "gigantesca"
 - [[fontes/2026-08-08 - Resposta para José Dirceu]] — Renan diz que Dirceu "comanda" Lula, descrito como "senil"; o duelo seria entre ele e o PT
 - [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]] — Renan critica a repetição de promessas vazias de Lula e a falta de ambição
 - [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — vale-gás como "penhorar o futuro"; Renan recusa oferecer esmola

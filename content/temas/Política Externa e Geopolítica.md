@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-06-20
 fontes:
+  - "2026-08-16 - Já imaginaram"
   - "2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro."
   - "2026-07-16 - Taxaram a gente"
   - "2026-07-12 - Você conhece o ditador Mbappe"
@@ -20,6 +21,10 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## Brasil como potência: terras raras, fortalecimento militar e troca de tecnologia (agosto de 2026)
+
+Em **16 de agosto de 2026**, em discurso de campanha projetando a vitória eleitoral, Renan imagina reuniões com **chefes de estado** em que "o Brasil passa a ter um plano" e a "definir como será a geopolítica global". Ele afirma que o país, como **detentor das terras raras**, vai negociar "como alguém que vai se fortalecer militarmente e que vai fazer troca de tecnologia com os agentes externos, de modo a fortalecer acima de tudo o Brasil". Ver [[fontes/2026-08-16 - Já imaginaram]].
 
 ## EUA acusam agro brasileiro de trabalho forçado e desmatamento (julho de 2026)
 
@@ -184,6 +189,7 @@ Ver [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] e [[posico
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Já imaginaram]] — Brasil definindo a geopolítica global; terras raras, fortalecimento militar e troca de tecnologia
 - [[fontes/2026-07-16 - Taxaram a gente]] — Renan critica Lula e Flávio Bolsonaro por tarifas de Trump; propõe terras raras como alavanca de negociação
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — análise do México como narcoestado; lição para o Brasil; Bukele como contraponto
 - [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] — gastrodiplomacia como política de estado; denominação de origem; agregação de valor à produção brasileira

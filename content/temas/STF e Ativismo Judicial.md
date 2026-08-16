@@ -7,6 +7,10 @@ tags:
 date: 2026-08-07
 ---
 
+## "Corrupção do Centrão e do STF": Renan como único capaz de apontá-la (agosto de 2026)
+
+Em **16 de agosto de 2026**, no anúncio oficial de sua candidatura, Renan afirma ser **"o único que pode apontar a corrupção do Centrão e do STF"** — além da corrupção de Lula e da família Bolsonaro — porque "acima de tudo, eu sou livre e tenho um passado ilibado". A declaração conecta a pauta de combate à corrupção no Judiciário à sua candidatura. Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
+
 ## Quebra do sigilo de fonte: "decisão ilegal não se cumpre" a partir do caso concreto (agosto de 2026)
 
 Em **13 de agosto de 2026**, Renan comenta a decisão de [[pessoas/Alexandre de Moraes]] que determinou busca e apreensão contra um empresário apontado como fonte de um jornalista — que havia noticiado o uso irregular de carro oficial por [[pessoas/Flávio Dino]]. Renan afirma que a medida quebra o **sigilo de fonte**, "uma coisa sagrada" garantida pela Constituição, e que o cumprimento da decisão "acaba com o processo jornalístico", impedindo que se "cheque se o poder público tá agindo de maneira certa ou errada". Ele reafirma o princípio de que **"decisão ilegal não se cumpre"** e diz que o STF estaria se aproximando de uma "ditadura do judiciário".
@@ -407,6 +411,7 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção do Centrão e do STF"; Renan se diz o único capaz de apontá-la
 - [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF sobre operações em favelas
 - [[fontes/2026-07-10 - O que está acontecendo na CBF]] — CBF controlada por Gilmar Mendes; bets financiando clubes; investigação prometida
 - [[fontes/2026-06-27 - O STF respondeu o desabafo desse cara]] — STF decide manter penduricos mesmo após desabafo viral de trabalhador
