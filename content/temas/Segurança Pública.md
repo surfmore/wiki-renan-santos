@@ -6,6 +6,12 @@ tags:
 date: 2026-08-10
 ---
 
+## Destruir o crime organizado e retomar as ruas, bairros e favelas (agosto de 2026)
+
+Em **16 de agosto de 2026**, em discurso de campanha, Renan pergunta por que ninguém antes de sua geração afirmou que era preciso **"destruir o crime organizado"** e **"retomar as nossas ruas, os nossos bairros, as favelas e as cidades"**. Ele defende que o objetivo do líder político é "sempre o bem comum" e que quer "ver bandido muito preso" porque isso "gera sensação de justiça": "Eu não quero saber se diminui ou aumenta a criminalidade, eu quero ver bandido muito preso."
+
+Ver [[fontes/2026-08-16 - Por que ninguém antes]].
+
 ## Líderes do PCC e do Comando Vermelho: fuga e destino de prisão ou morte (agosto de 2026)
 
 Em **16 de agosto de 2026**, em discurso de campanha, Renan projeta o cenário de um governo seu no combate ao crime organizado: líderes do **PCC** e do **Comando Vermelho** tentando fugir desesperadamente para a **Bolívia**, o **Peru** ou qualquer outra nação, "sabendo que o destino deles é ser preso ou ser morto se ficarem no Brasil". A fala reforça a promessa de enfrentamento direto às facções. Ver [[fontes/2026-08-16 - Já imaginaram]].

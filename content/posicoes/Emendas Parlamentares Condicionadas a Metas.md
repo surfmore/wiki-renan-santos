@@ -9,6 +9,10 @@ date: 2026-07-27
 
 Proposta defendida por Renan Santos de que **emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho** em áreas-chave de políticas públicas.
 
+## Cobrar qualidade de vida de prefeitos: "entregue melhora ou você não será político" (agosto de 2026)
+
+Em **16 de agosto de 2026**, Renan propõe que os administradores e prefeitos de todas as cidades sejam cobrados diretamente: "Não adianta só usar o nosso dinheiro. Você vai ter que entregar melhora na qualidade de vida ou você não será político." A fala amplia a lógica de condicionar recursos públicos a resultados — já aplicada às emendas parlamentares — para a gestão municipal. Ver [[fontes/2026-08-16 - Por que ninguém antes]].
+
 ## "Farra das emendas" e transparência das contas partidárias (agosto de 2026)
 
 Em **15 de agosto de 2026**, ao reagir à fiscalização das contas do Partido Missão pelo ministro do STF [[pessoas/Flávio Dino]], Renan afirma ter percorrido o Maranhão e denunciado "o que as emendas eram transformadas", e espera que Dino "acabe com a farra das emendas". Ele destaca que as contas do deputado [[pessoas/Kim Kataguiri]] estão corretas e fora do orçamento secreto, e anuncia que vai cobrar transparência de todos os presidentes de partido, que descreve como multimilionários e bilionários.

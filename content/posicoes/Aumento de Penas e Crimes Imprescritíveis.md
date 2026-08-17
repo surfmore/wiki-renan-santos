@@ -7,12 +7,17 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-16 - Por que ninguém antes"
   - "2026-08-14 - Teve que ser carregado pela polícia"
   - "2026-08-14 - Essa violência contra mulheres a esquerda não liga."
   - "2026-08-10 - Fui cancelado pela Andréia Sadi."
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## "Bandido muito preso" e a sensação de justiça (agosto de 2026)
+
+Em **16 de agosto de 2026**, Renan afirma querer "ver bandido muito preso" porque isso "gera sensação de justiça": "Eu não quero saber se diminui ou aumenta a criminalidade, eu quero ver bandido muito preso porque eu fico feliz em ver bandido muito preso." A fala reforça o endurecimento penal como prioridade, independentemente do impacto estatístico na criminalidade. Ver [[fontes/2026-08-16 - Por que ninguém antes]].
 
 ## Estupro de vulnerável: 15 anos, prescrição e o crime de misoginia imprescritível (agosto de 2026)
 

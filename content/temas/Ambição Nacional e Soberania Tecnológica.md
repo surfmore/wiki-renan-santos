@@ -8,6 +8,12 @@ tags:
 date: 2026-07-03
 ---
 
+## "Não pensem pequeno": a ambição como condição para alterar o destino do país (agosto de 2026)
+
+Em **16 de agosto de 2026**, em discurso de campanha, Renan convoca a geração do [[temas/Partido Missão]] a "não pensar pequeno em nenhum momento" e a não deixar que ninguém diga que seus sonhos são ridículos ou suas aspirações inúteis. Ele afirma que o grupo "não está aqui para ser amado", mas para "colocar o nosso nome na história como a geração que alterou o destino de uma das maiores nações do mundo", e pede que os apoiadores sejam "absolutamente ambiciosos e ambiciosas" — ampliando a tese de que o problema do Brasil é de ambição e liderança.
+
+Ver [[fontes/2026-08-16 - Não pensem pequeno!]].
+
 ## Fortalecimento militar e troca de tecnologia com base nas terras raras (agosto de 2026)
 
 Em **16 de agosto de 2026**, em discurso de campanha, Renan projeta o Brasil como **detentor das terras raras** que vai negociar "como alguém que vai se fortalecer militarmente e que vai fazer troca de tecnologia com os agentes externos, de modo a fortalecer acima de tudo o Brasil". A fala reforça o projeto de soberania tecnológica: explorar os próprios recursos e usá-los como alavanca de poder e negociação internacional. Ver [[fontes/2026-08-16 - Já imaginaram]].

@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-08-10
 fontes:
+  - "2026-08-16 - Por que ninguém antes"
   - "2026-08-12 - Metas da Missão"
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
   - "2026-07-21 - Resposta a Globo News"
@@ -21,6 +22,12 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## "Desfavelizar o bairro": o correto para a população mais pobre (agosto de 2026)
+
+Em **16 de agosto de 2026**, Renan questiona por que ninguém antes de sua geração disse que "o correto a se fazer com a população mais pobre é desfavelizar o bairro dela". Ele conecta a desfavelização à cobrança de resultados dos prefeitos: "Não adianta só usar o nosso dinheiro. Você vai ter que entregar melhora na qualidade de vida ou você não será político."
+
+Ver [[fontes/2026-08-16 - Por que ninguém antes]] e [[posicoes/Emendas Parlamentares Condicionadas a Metas]].
 
 ## Metas numéricas: 6 mil favelas a menos e 8 milhões de pessoas fora das favelas (agosto de 2026)
 

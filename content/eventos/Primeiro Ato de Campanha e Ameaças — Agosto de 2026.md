@@ -7,6 +7,7 @@ tags:
   - liberdade-de-expressão
 date: 2026-08-09
 fontes:
+  - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Sobre a ameaça de m0rte que recebi."
   - "2026-08-15 - Desafio para Flavio e Lula"
@@ -17,6 +18,10 @@ fontes:
 # Primeiro Ato de Campanha e Ameaças — Agosto de 2026
 
 Em **9 de agosto de 2026**, Renan Santos anunciou a realização de seu **primeiro ato de campanha** presidencial para o dia **16 de agosto de 2026**, no **Largo São Francisco**, em São Paulo, no espaço do **Parlatório** — local onde cursou a Faculdade de Direito. Poucas horas após o anúncio, começou a receber **ameaças de morte**.
+
+## Os três lançamentos de 16 de agosto: o ato de Renan, o de Lula e o de Flávio (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan afirma que os "três grandes eventos" de 16 de agosto foram o lançamento da candidatura dele, o de [[pessoas/Lula]] e o de [[pessoas/Flávio Bolsonaro]]. Ele usa a comparação para contrapor a energia espontânea de sua base ao que descreve como "pelegada" levada de ônibus ao evento de Lula. Ver [[fontes/2026-08-17 - Evento bizarro do Lula]].
 
 ## Candidatura oficial e número 14 no dia do ato (16 de agosto de 2026)
 

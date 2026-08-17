@@ -8,6 +8,8 @@ tags:
   - desigualdade
 date: 2026-06-21
 fontes:
+  - "2026-08-17 - Lula fugiu do debate!"
+  - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
   - "2026-07-27 - Quantos animais você acha que morrem nas estradas por ano"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
   - "2026-06-21 - Eu fui na favela de Jurunas, em Belém"
@@ -18,6 +20,10 @@ fontes:
   - "2025-11-21 - MULHER CONTA COMO É A REALIDADE EM BELÉM"
   - "2025-12-04 - O legado da COP30"
 ---
+
+## COP30 como gasto bilionário que quebra o país e o contrato de Janja (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan cita a COP30 duas vezes: (1) como exemplo de gasto público de [[pessoas/Lula]] — "a COP30 que eles gastaram bilhões" — que contribui para a alta dos juros e a quebra das empresas; (2) ao desafiar Lula ao debate, afirma que [[pessoas/Janja]] "tem um estranho esquema como organização, que recebeu contrato sem licitação lá na COP30" — "provavelmente escândalo de corrupção que no meu governo eu vou pegar". Ver [[fontes/2026-08-17 - Por que Lula não quer ir ao debate comigo]] e [[fontes/2026-08-17 - Lula fugiu do debate!]].
 
 ## COP30: ONGs focaram em financiamento em vez de medidas ambientais práticas (julho de 2026)
 

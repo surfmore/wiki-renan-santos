@@ -7,6 +7,9 @@ tags:
   - corrupção
 date: 2026-08-07
 fontes:
+  - "2026-08-17 - Lula fugiu do debate!"
+  - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
+  - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-07 - Urgente Janja quer derrubar rede social"
   - "2026-07-15 - Criticar a gastança da Janja é MISOGINIA"
   - "2026-07-09 - Eu fui em uma das regiões mais destruídas pela enchente no Rio Grande do Sul"
@@ -22,6 +25,12 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### Jingle no evento de Lula, viagens e esquema "sem licitação" na COP30 (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan menciona Janja em dois vídeos: (1) ao comentar o evento de lançamento de Lula, diz que no "momento ápice" Janja e um cantor entoaram "uma espécie de jingle" de Lula diante de uma plateia que ele descreve como "meio mortadelada", sem energia; (2) ao desafiar Lula ao debate, afirma que Janja "tem um estranho esquema como organização, que recebeu contrato sem licitação lá na COP30" — o que classifica como "provavelmente escândalo de corrupção que no meu governo eu vou pegar". Em outro vídeo do mesmo dia, ele cita as viagens de Janja como exemplo de gasto público que "custa muito dinheiro".
+
+Ver [[fontes/2026-08-17 - Evento bizarro do Lula]], [[fontes/2026-08-17 - Lula fugiu do debate!]] e [[fontes/2026-08-17 - Por que Lula não quer ir ao debate comigo]].
 
 ### Proposta de derrubar o Discord e "sanha autoritária" (agosto de 2026)
 

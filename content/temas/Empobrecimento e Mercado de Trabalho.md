@@ -8,6 +8,10 @@ tags:
 date: 2026-08-06
 ---
 
+## Recorde de recuperações judiciais: Casas Bahia e a quebra das empresas (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan usa a notícia de que as **Casas Bahia** entraram em recuperação judicial para afirmar que "o Brasil quebrou": quase **8.000 empresas** pediram recuperação judicial, "o recorde na história do Brasil". Segundo ele, "quando um monte de empresa grande sai quebrando... é porque fazer negócio aqui não faz sentido", e "quando todo mundo quebra, quem paga conta, que são as empresas dos trabalhadores, eles não aguentam mais". Ver [[fontes/2026-08-17 - Por que Lula não quer ir ao debate comigo]].
+
 ## Endividamento, Serasa e o "ciclo absolutamente maluco" do Desenrola (agosto de 2026)
 
 Em **12 de agosto de 2026**, Renan analisa o endividamento como o principal fator por trás da sensação de carestia. Ele explica que o endividamento "toma uma parte importante do seu salário", deixando "menos pras compras", e descreve o ciclo que considera doentio: pessoas sem educação financeira pegam **crédito consignado no próprio salário** para comprar produtos (não para investir), pedem demissão do trabalho, dão calote na dívida, vão parar no **Serasa** e "aguardam o programa **Desenrola** do governo federal" — "um ciclo absolutamente maluco". Afirma que "a nossa economia está quebrada" e que parte do endividamento é usada "para apostar, jogar em jogo do tigrinho, uma doença que tá se alastrando nacionalmente". Ver [[temas/Carga Tributária]], [[posicoes/Proibição de Bets e Cassinos Online]] e [[fontes/2026-08-12 - Veja como isso é bom]].

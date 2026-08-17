@@ -7,6 +7,7 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Eu passei o Lula!"
   - "2026-08-11 - URGENTE batemos 10%!!"
@@ -19,6 +20,10 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## Pesquisa em 10% e projeção de 11-12%; segundo turno contra Lula (agosto de 2026)
+
+Em **17 de agosto de 2026**, ao comparar o evento de lançamento de sua candidatura com o de [[pessoas/Lula]], Renan afirma que "já tem pesquisa me dando 10%" e que "essa semana vai ter pesquisa me mandando mais de 11, 12%". Ele afirma que, se "despertar o Brasil que trabalha e produz", a campanha "vai pro segundo turno, derrota o Lula e muda a nossa história". Ver [[fontes/2026-08-17 - Evento bizarro do Lula]].
 
 ## Candidatura oficial e o número 14 (agosto de 2026)
 

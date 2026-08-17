@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Bora investigar tudo!"
   - "2026-08-14 - Começou a baixaria"
@@ -45,6 +46,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Lançamento da candidatura e a energia da base (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan compara o lançamento de sua candidatura (16/08) com o de [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]]: enquanto o evento de Lula foi "colossal" mas com plateia "meio mortadelada" e "pelegada" de ônibus, a base do Missão cantou espontaneamente "Eu vou votar no 14. Como fosse a vingança do povo. O futuro é glorioso". Para Renan, "quando é espontâneo é diferente". Ver [[fontes/2026-08-17 - Evento bizarro do Lula]].
 
 ## Candidatura oficial de Renan pelo partido, número 14 (agosto de 2026)
 

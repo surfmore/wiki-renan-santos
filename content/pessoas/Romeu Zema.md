@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-05-29
 fontes:
+  - "2026-08-17 - Lula fugiu do debate!"
   - "2026-05-29 - Acabaram com o Zema"
   - "2026-05-23 - Recado para a Faria Lima"
   - "2026-05-21 - MULTIDÃO RECEBE RENAN SANTOS EM BRASÍLIA"
@@ -22,6 +23,10 @@ fontes:
 ---
 
 **Quem é:** Governador de Minas Gerais (Novo), pré-candidato à presidência da República em 2026. Empresário do setor automotivo (Grupo Zema), eleito governador de MG em 2018 e reeleito em 2022.
+
+## Citado na condição de Lula para o debate (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] avisou que "só vai no debate se tirarem o Renan ou Zema" — tratando o governador como um dos adversários que Lula quer excluir dos debates. Ver [[fontes/2026-08-17 - Lula fugiu do debate!]].
 
 ## Humilhado pelo próprio partido: sem fibra para resistir à pressão (maio de 2026)
 

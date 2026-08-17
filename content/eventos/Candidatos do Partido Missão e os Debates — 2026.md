@@ -7,6 +7,7 @@ tags:
   - debates
 date: 2026-08-10
 fontes:
+  - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-15 - Desafio para Flavio e Lula"
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
   - "2026-08-10 - Primeira Aparição minha em debate!"
@@ -14,6 +15,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## Lula condiciona debate a "tirar o Renan ou Zema" (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan responde ao anúncio de que [[pessoas/Lula]] "só vai no debate se tirarem o Renan ou [[pessoas/Romeu Zema|Zema]]". Ele afirma que Lula "não consegue participar de um debate" nem defender o próprio governo, e que tem medo de falar do [[eventos/Escândalo do INSS|escândalo do INSS]], da participação do irmão e do filho, e do esquema de [[pessoas/Janja]] na COP30. Renan o desafia: "Vai lá no debate. Você não vai me tirar... Eu vou só fazer perguntas." Ver [[fontes/2026-08-17 - Lula fugiu do debate!]].
 
 ## Desafio a Lula e Flávio pelo debate da Band (agosto de 2026)
 

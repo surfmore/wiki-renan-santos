@@ -7,6 +7,9 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-17 - Lula fugiu do debate!"
+  - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
+  - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Eu passei o Lula!"
   - "2026-08-15 - Desafio para Flavio e Lula"
@@ -55,6 +58,20 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "O Brasil quebrou": recorde de recuperações judiciais e fuga do debate (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan afirma que a notícia de que as **Casas Bahia** entraram em recuperação judicial — uma das **quase 8.000 empresas** que pediram recuperação no país, "o recorde na história do Brasil" — significa que **"o Brasil quebrou"**. Ele atribui a culpa a Lula: energia elétrica "de graça", aumento de gastos, a COP30 que "gastou bilhões" e as viagens de [[pessoas/Janja]]. Explica que o gasto público eleva a dívida e os juros — "o Brasil tem um dos maiores juros reais do mundo" — e quebra as empresas; "quando todo mundo quebra, quem paga conta, que são as empresas dos trabalhadores, eles não aguentam mais". Renan diz que vinha avisando que "o Brasil vai quebrar em um ou dois anos" e que Lula foge dos debates porque não quer explicar isso: "Ele vai comprar a volta das pessoas mais pobres enquanto quebra a classe média."
+
+No mesmo dia, Renan responde ao anúncio de que Lula "só vai no debate se tirarem o Renan ou Zema": afirma que Lula "não consegue participar de um debate" nem defender o próprio governo, lista promessas não cumpridas (picanha, melhora de vida) e o acusa de "comprar voto" com botijão, energia elétrica e aumento do Bolsa Família. Diz que Lula tem medo de falar do [[eventos/Escândalo do INSS|escândalo do INSS]] ("o tal do NSS"), da participação do irmão e do filho, e do esquema de Janja com contrato sem licitação na COP30. Conclui chamando-o de covarde e vagabundo e prometendo abrir as contas do cartão corporativo.
+
+Ver [[fontes/2026-08-17 - Por que Lula não quer ir ao debate comigo]] e [[fontes/2026-08-17 - Lula fugiu do debate!]].
+
+## Evento "colossal" com pelegada e compra de votos (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan comenta o evento de lançamento de Lula no dia 16: reconhece que "fechou um estádio" e levou gente "pra caramba", mas afirma que a plateia apareceu "meio mortadelada", sem energia, com a "pelegada" levada de ônibus e "balãozinhos da CUT". Diz que "o Lula tá levando a pelegada" e que será "uma eleição em que ele vai gastar horrores". Em contraste, exibe sua própria plateia cantando espontaneamente: "Eu vou votar no 14. Como fosse a vingança do povo. O futuro é glorioso."
+
+Ver [[fontes/2026-08-17 - Evento bizarro do Lula]].
 
 ## Ultrapassado por Renan no segundo turno na pesquisa Quest (agosto de 2026)
 

@@ -7,12 +7,17 @@ tags:
   - dados-públicos
 date: 2026-07-30
 fontes:
+  - "2026-08-17 - Lula fugiu do debate!"
   - "2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS"
   - "2026-02-26 - ISSO PODE VIRAR O PESADELO DOS POLÍTICOS CORRUPTOS NO BRASIL"
   - "2026-02-26 - PETISTAS ESTÃO DESESPERADOS COM A QUEBRA DE SIGILO DO FILHO DO LULA NA CPMI DO INSS"
 ---
 
 Renan Santos defende o uso de inteligência artificial e cruzamento de bases de dados públicas como principal ferramenta de combate à corrupção — mais eficiente e mais barato do que estruturas burocráticas de fiscalização.
+
+## Abrir as contas do cartão corporativo de Lula e Janja (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan promete que, eleito, "vou abrir as contas do cartão corporativo para entender tudo que o Brasil gastou com você e com a Janja nessas viagens em que vocês representam os interesses do Brasil". A declaração amplia a pauta anticorrupção para a transparência dos gastos da Presidência. Ver [[fontes/2026-08-17 - Lula fugiu do debate!]].
 
 ## "Único que pode atacar a corrupção do Lula, da família Bolsonaro, do Centrão e do STF" (agosto de 2026)
 
