@@ -7,6 +7,8 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-18 - Hoje no Brasil a gente vive o “prendeu soltou”"
+  - "2026-08-17 - O Brasil prende muito"
   - "2026-08-16 - Por que ninguém antes"
   - "2026-08-14 - Teve que ser carregado pela polícia"
   - "2026-08-14 - Essa violência contra mulheres a esquerda não liga."
@@ -14,6 +16,14 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## Fim do "prendeu soltou": agressores de mulheres e criminosos sexuais devem ficar presos de verdade (agosto de 2026)
+
+Em **18 de agosto de 2026**, Renan critica o ciclo do "prendeu soltou" — o bandido vai preso, fica pouco tempo e termina solto. Ele cita casos de quem **agride a esposa ou namorada**, detido e liberado, e de quem pratica **crimes sexuais contra criança**, que "pega uma pena pequena e volta solto". Para Renan, quem comete "essas atrocidades" precisa ficar preso de verdade, e a "única coisa justa, séria, a se fazer" com um assaltante armado é prisão por muito tempo ou a morte — "não pode terceira opção". Ver [[fontes/2026-08-18 - Hoje no Brasil a gente vive o “prendeu soltou”]].
+
+## Terceira maior população carcerária do mundo e prisão prolongada (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan afirma que o Brasil tem a **terceira maior população carcerária do mundo** (atrás de China e Estados Unidos) e que "infelizmente vai ter que prender ainda mais". Ele rebate quem diz que o problema não é prender — "se não se prende, quem comanda essas facções?" — e defende que o bandido "vai precisar ser pego e vai ficar na cadeia por muito tempo", criticando o ciclo de "prendeu e soltou" que mantém a segurança como principal preocupação eleitoral. Ver [[fontes/2026-08-17 - O Brasil prende muito]].
 
 ## "Bandido muito preso" e a sensação de justiça (agosto de 2026)
 

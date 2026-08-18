@@ -6,6 +6,12 @@ tags:
 date: 2026-08-07
 ---
 
+## Origem do "prendeu matou" e a inexistência de terceira opção (agosto de 2026)
+
+Em **18 de agosto de 2026**, em trecho de entrevista, Renan explica a origem do bordão "prendeu matou": o caso de um empresário assaltado no Parque do Povo (SP) que entregou o celular ao bandido e levou um tiro, morrendo no momento da entrega. Renan afirma que "o destino dele é prender ou matar" e que, diante de um assalto armado, "a única coisa justa, séria, a se fazer" é prender o bandido "para ficar muito tempo na cadeia" ou ele morrer. Ele admite que o bandido possa levar um tiro da polícia e apenas se machucar — "ele vai se machucar e depois vai ser levado pra prisão" — mas reafirma que **não pode haver terceira opção**.
+
+Ver [[fontes/2026-08-18 - Hoje no Brasil a gente vive o “prendeu soltou”]] e [[temas/Segurança Pública]].
+
 ## Duas opções ao bandido e a distinção entre slogan e prática (agosto de 2026)
 
 Em **8 de agosto de 2026**, Renan esclarece o slogan "vamos matar quem roubar": o bandido terá apenas duas opções em seu governo — "Ou você vai ser preso, ou se você reagir, você vai terminar morto ou machucado. Não tem outro caminho". Ele afirma que "a resposta que a presidência da República tem que dar é o bandido ser tratado como bandido e que o cidadão não tem que ter medo".

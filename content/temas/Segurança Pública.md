@@ -6,6 +6,30 @@ tags:
 date: 2026-08-10
 ---
 
+## Origem do "prendeu matou" e o "prendeu soltou": duas opções ao bandido, sem terceira via (agosto de 2026)
+
+Em **18 de agosto de 2026**, em trecho de entrevista, Renan explica a origem do bordão "prendeu matou": um empresário foi assaltado no **Parque do Povo**, em São Paulo, entregou o celular ao bandido e levou um tiro, morrendo no momento da entrega. Renan afirma ter concluído que "o destino dele é prender ou matar" — diante de um assalto armado, "a única coisa justa, séria, a se fazer" é prender por muito tempo ou o bandido morrer, **sem terceira opção**.
+
+Renan critica o ciclo do **"prendeu soltou"**: bandidos que agridem esposas ou namoradas e criminosos sexuais contra crianças que "pegam pena pequena e voltam soltos". Para ele, quem comete "essas atrocidades" precisa ficar preso de verdade. Reafirma ainda que, quando o bandido enfrenta a polícia com arma, a polícia tem o "direito sagrado" de atirar e fazê-lo "se tornar uma massa de carbono deforme".
+
+Ver [[fontes/2026-08-18 - Hoje no Brasil a gente vive o “prendeu soltou”]], [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
+## Policial que matou o assassino do próprio filho: "herói nacional" e crítica a Lula (agosto de 2026)
+
+Em **18 de agosto de 2026**, Renan conta o caso de um policial que matou o assassino do próprio filho durante um assalto: o bandido abriu fogo contra o pai e a criança na moto, o pai revidou, o filho foi atingido no peito e morreu no hospital. Renan chama o policial de **"herói nacional"** e critica o presidente Lula por não lhe dar "uma medalha de herói nacional" — defende que o Estado deveria **condecorá-lo** e **fazer uma estátua** em sua homenagem.
+
+Ao responder sobre o bordão "prendeu, matô", Renan reafirma: **"Quero"** matar vagabundos — o bandido "precisa morrer 1000 vezes". Ele convoca os brasileiros a comprarem o enfrentamento ao crime "da maneira correta" e a não ouvirem jornalistas ou políticos que defendem bandidos: "Não são os filhos deles a morrer, são os nossos."
+
+Ver [[fontes/2026-08-18 - Esse cara m4tou o ass4ss1no do próprio filho]] e [[pessoas/Lula]].
+
+## "O Brasil prende muito": terceira maior população carcerária do mundo e a necessidade de prender mais (agosto de 2026)
+
+Em **17 de agosto de 2026**, Renan afirma que o Brasil tem a **terceira maior população carcerária do mundo**, perdendo apenas para China e Estados Unidos. Ele rebate o argumento de que "o problema não é prender": "se não se prende, quem comanda essas facções?" Renan defende que "infelizmente vai ter que prender ainda mais", porque, se os que estão nas ruas estivessem "fazendo bem pros outros, não tava todo mundo com sensação de segurança" — e as pesquisas mostram a segurança como a maior preocupação eleitoral.
+
+O diagnóstico central é o ciclo do "prendeu e soltou": os assaltos em que o bandido é pego e retorna continuam. Para Renan, "ele vai precisar ser pego e vai ficar na cadeia por muito tempo". Ele compara a violência brasileira a uma **guerra urbana** de nações em conflito — "morre mais gente no Brasil do que no conflito da Ucrânia" — e conclui que "nós vamos ter que prender de qualquer maneira. É uma questão de política pública, uma questão de justiça."
+
+Ver [[fontes/2026-08-17 - O Brasil prende muito]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
 ## Destruir o crime organizado e retomar as ruas, bairros e favelas (agosto de 2026)
 
 Em **16 de agosto de 2026**, em discurso de campanha, Renan pergunta por que ninguém antes de sua geração afirmou que era preciso **"destruir o crime organizado"** e **"retomar as nossas ruas, os nossos bairros, as favelas e as cidades"**. Ele defende que o objetivo do líder político é "sempre o bem comum" e que quer "ver bandido muito preso" porque isso "gera sensação de justiça": "Eu não quero saber se diminui ou aumenta a criminalidade, eu quero ver bandido muito preso."

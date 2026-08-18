@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-18 - Esse cara m4tou o ass4ss1no do próprio filho"
   - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
   - "2026-08-17 - Evento bizarro do Lula"
@@ -58,6 +59,10 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Crítica por não homenagear o policial que matou o assassino do próprio filho (agosto de 2026)
+
+Em **18 de agosto de 2026**, comentando o caso do policial que matou o assassino do próprio filho durante um assalto, Renan critica o presidente Lula por não ter dado "uma medalha de herói nacional" a esse pai. Renan afirma que "um presidente de verdade" **condecoraria o homem** e mandaria **fazer uma estátua** em sua homenagem, "lembrando sempre da história dele, a história do menino". Ver [[fontes/2026-08-18 - Esse cara m4tou o ass4ss1no do próprio filho]].
 
 ## "O Brasil quebrou": recorde de recuperações judiciais e fuga do debate (agosto de 2026)
 
