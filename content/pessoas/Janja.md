@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-08-07
 fontes:
+  - "2026-08-19 - Essa é a mensagem que o Discord enviou pra todo mundo ontem"
   - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
   - "2026-08-17 - Evento bizarro do Lula"
@@ -25,6 +26,14 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### Decisão contra o Discord e promessa de abrir o cartão corporativo do Planalto (agosto de 2026)
+
+Em **19 de agosto de 2026**, Renan mostra a notificação que usuários profissionais do **Discord** receberam — a plataforma estaria proibida de fazer lives — e atribui a decisão a Janja, chamando-a de "decisão ditatorial de uma pessoa que sequer ditadora é". Ele afirma que ela "não foi eleita para nada", que a decisão foi baseada em notícia falsa (o caso de uma moça que se matou teria ocorrido no Instagram, não no Discord) e que ela "não tem direito de mandar em nada".
+
+Renan promete, se chegar ao poder, abrir todas as contas do cartão corporativo do Palácio do Planalto, cobrar explicações sobre a ONG ligada a Janja que pegou contrato sem licitação na COP30 e investigar a origem do estilo de vida dela (bolsa, roupas, viagens). Ele afirma que "as decisões vão acabar" com o fim do mandato de Lula e que a liberdade será restabelecida para quem trabalha com o Discord.
+
+Ver [[fontes/2026-08-19 - Essa é a mensagem que o Discord enviou pra todo mundo ontem]].
 
 ### Jingle no evento de Lula, viagens e esquema "sem licitação" na COP30 (agosto de 2026)
 

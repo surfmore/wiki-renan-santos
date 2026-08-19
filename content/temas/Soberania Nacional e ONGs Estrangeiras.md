@@ -7,6 +7,12 @@ tags:
 date: 2026-07-29
 ---
 
+## Terra indígena tomada por garimpo ilegal do CV: o modelo de reserva em questão (agosto de 2026)
+
+Em **18 de agosto de 2026**, Renan grava em uma terra indígena no **Mato Grosso** que descreve como tomada por garimpo ilegal do **Comando Vermelho** e pergunta se "o modelo atual de reserva indígena funciona no Brasil". Ele contrasta a exploração ilegal feita pela facção com a mineração legal regularizada nas proximidades e promete que as reservas "poderão ter uso comercial e econômico a favor dos índios de maneira legal".
+
+Ver [[fontes/2026-08-18 - Eu fui em uma terra indígena tomada por garimpo ilegal do Comando Vermelho]] e [[posicoes/Uso Econômico das Reservas Indígenas]].
+
 ## Mensagem internacional: indígenas querem produzir, não ser "bons selvagens" (julho de 2026)
 
 Em **27 de julho de 2026**, em vídeo gravado em inglês para uma audiência internacional, Renan Santos se dirige diretamente a figuras como **Leonardo DiCaprio**, **Greta Thunberg** e **Marina Silva** para criticar a visão de que os indígenas brasileiros devem permanecer "no Neolítico" como objetos de contemplação do primeiro mundo.

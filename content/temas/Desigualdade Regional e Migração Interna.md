@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2026-07-27
 fontes:
+  - "2026-08-19 - Eu não quero desistir!"
   - "2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes"
   - "2026-07-08 - Resposta para Vera Magalhães"
   - "2026-07-04 - É assim que vou destruir o Lula nos debates"
@@ -24,6 +25,12 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## Mais de 2.600 municípios vivem mais de Bolsa Família que de atividade econômica (agosto de 2026)
+
+Em **19 de agosto de 2026**, em discurso de campanha, Renan afirma que **mais de 2.600 municípios** brasileiros vivem mais de **Bolsa Família** do que de atividade econômica — o que ele chama de "sintoma mais óbvio da existência da nossa colonização". Ele critica a classe política que "não liga se a cidade dela não tem atividade econômica" e vincula a dependência de benefícios ao cenário de "desistência" que atribui ao país.
+
+Ver [[fontes/2026-08-19 - Eu não quero desistir!]] e [[posicoes/Frente de Trabalho para o Bolsa Família]].
 
 ## Desenvolvimento econômico para o interior do Nordeste e Norte: a saída do Bolsa Família (agosto de 2026)
 

@@ -8,6 +8,12 @@ tags:
 date: 2026-07-03
 ---
 
+## "O Brasil é um país que desistiu": retomar com ambição o futuro (agosto de 2026)
+
+Em **19 de agosto de 2026**, em discurso de campanha, Renan afirma que "o Brasil é um país que desistiu" e que "ninguém mais tem saco em fazer o Brasil andar". Ele descreve um "cenário de desistência" — Lula tentando a quarta reeleição e ninguém debatendo os temas que importam — e conclui: "Ou a gente retoma com ambição o futuro que o Brasil merece ter, ou desiste. Eu não quero desistir."
+
+Ver [[fontes/2026-08-19 - Eu não quero desistir!]].
+
 ## "Não pensem pequeno": a ambição como condição para alterar o destino do país (agosto de 2026)
 
 Em **16 de agosto de 2026**, em discurso de campanha, Renan convoca a geração do [[temas/Partido Missão]] a "não pensar pequeno em nenhum momento" e a não deixar que ninguém diga que seus sonhos são ridículos ou suas aspirações inúteis. Ele afirma que o grupo "não está aqui para ser amado", mas para "colocar o nosso nome na história como a geração que alterou o destino de uma das maiores nações do mundo", e pede que os apoiadores sejam "absolutamente ambiciosos e ambiciosas" — ampliando a tese de que o problema do Brasil é de ambição e liderança.

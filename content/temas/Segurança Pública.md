@@ -6,6 +6,24 @@ tags:
 date: 2026-08-10
 ---
 
+## Caso Giulia Falcão: punição dura para agressores e crítica à progressão de pena (agosto de 2026)
+
+Em **19 de agosto de 2026**, Renan comenta o caso de **Giulia Falcão**, agredida com taco de beisebol pelo marido, e afirma que o agressor — "rico, com bons advogados" — "vai conseguir uma progressão de pena já", "isso se não for solto antes de um ano". Ele cita as **250.000 mulheres** que reportam oficialmente violência à polícia e outras 250.000 a 500.000 que não reportam, e resume sua posição: **"Internet livre pras pessoas e punição dura para vagabundo"**.
+
+Ver [[fontes/2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso]], [[eventos/Agressão a Giulia Falcão — Agosto de 2026]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
+## "Bola de ferro no pé do bandido": proposta defendida por Renan (agosto de 2026)
+
+Em **19 de agosto de 2026**, ao comentar uma reportagem da BBC sobre suas propostas, Renan destaca a ideia de **"colocar bola de ferro nos pés dos bandidos"**. Ele diz que, "para ser sincero", não estava totalmente convencido da ideia, "mas agora está acontecendo. Eu quero bola de ferro no pé do bandido." O episódio também reafirma a "guerra contra facções" e o uso de forças auxiliares e forças armadas.
+
+Ver [[fontes/2026-08-19 - JORNALISTA ME PEGOU!!!]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
+## Garimpo ilegal do Comando Vermelho em terra indígena no Mato Grosso (agosto de 2026)
+
+Em **18 de agosto de 2026**, Renan visita uma terra indígena em **Mato Grosso** que, segundo ele, foi tomada por um garimpo ilegal controlado pelo **Comando Vermelho**. Ele descreve o local como uma "cidade fantasma" destruída por operações das forças de segurança, com túneis de extração de ouro, ração militar supostamente desviada pela facção e um bordel abandonado — e relata que garimpeiros e membros da facção retornavam após cada operação, só saindo quando as habitações foram queimadas.
+
+Renan usa o caso para questionar o modelo atual de reserva indígena e promete que seu governo destruirá o crime organizado como o Comando Vermelho e protegerá as fronteiras. Ver [[fontes/2026-08-18 - Eu fui em uma terra indígena tomada por garimpo ilegal do Comando Vermelho]] e [[posicoes/Uso Econômico das Reservas Indígenas]].
+
 ## Origem do "prendeu matou" e o "prendeu soltou": duas opções ao bandido, sem terceira via (agosto de 2026)
 
 Em **18 de agosto de 2026**, em trecho de entrevista, Renan explica a origem do bordão "prendeu matou": um empresário foi assaltado no **Parque do Povo**, em São Paulo, entregou o celular ao bandido e levou um tiro, morrendo no momento da entrega. Renan afirma ter concluído que "o destino dele é prender ou matar" — diante de um assalto armado, "a única coisa justa, séria, a se fazer" é prender por muito tempo ou o bandido morrer, **sem terceira opção**.

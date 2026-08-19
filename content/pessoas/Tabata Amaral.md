@@ -6,6 +6,7 @@ tags:
   - oposição
 date: 2026-08-10
 fontes:
+  - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
   - "2026-08-10 - Fui cancelado pela Andréia Sadi."
   - "2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal."
   - "2026-07-16 - Tabata Amaral vai prender o seu filho"
@@ -18,6 +19,12 @@ fontes:
 Deputada federal, fundadora do **Partido Solidariedade** (ex-PSB), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Vídeo contra Renan pelo caso "Betinha" e o debate sobre "cultura do machismo na internet" (agosto de 2026)
+
+Em **19 de agosto de 2026**, ao comentar o caso de Giulia Falcão, Renan cita [[pessoas/Tabata Amaral]] por ter dito que vai gravar um vídeo atacando-o por causa da referência ao "Betinha". Ele ironiza: "Tá louca? Vai falar do Betinha." Para Renan, o debate sobre "cultura do machismo na internet" é "papo furado" e "só regra para te censurar" — enquanto agressores de mulheres ficam impunes. Ele resume sua posição: "Internet livre pras pessoas e punição dura para vagabundo."
+
+Ver [[fontes/2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso]].
 
 ## O "crime favorito da Tabata Amaral": misoginia como única imprescritível (agosto de 2026)
 

@@ -7,6 +7,7 @@ tags:
   - escolas-civico-militares
 date: 2026-07-27
 fontes:
+  - "2026-08-19 - JORNALISTA ME PEGOU!!!"
   - "2026-08-15 - Por que eu defendo mais escolas cívico-militares."
   - "2026-08-12 - Metas da Missão"
   - "2026-08-05 - Sobre bullying nas escolas."
@@ -21,6 +22,12 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Fechar muitas universidades e manter apenas os melhores alunos (agosto de 2026)
+
+Em **19 de agosto de 2026**, ao comentar uma reportagem da BBC sobre suas propostas para a educação, Renan confirma que disse que **fecharia muitas universidades e deixaria apenas os melhores alunos**. Ele rebate a caracterização da jornalista (que descreveu a proposta como "lavagem cerebral para reeducar a sociedade") e reafirma a posição como parte de sua reforma do ensino superior.
+
+Ver [[fontes/2026-08-19 - JORNALISTA ME PEGOU!!!]].
 
 ## Escola como espaço de "ordenação" e crítica às "teorias alternativas" (agosto de 2026)
 

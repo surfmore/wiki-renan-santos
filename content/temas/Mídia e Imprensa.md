@@ -5,6 +5,9 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
+  - "2026-08-19 - JORNALISTA ME PEGOU!!!"
+  - "2026-08-19 - Essa é a mensagem que o Discord enviou pra todo mundo ontem"
   - "2026-08-15 - Sobre a ameaça de m0rte que recebi."
   - "2026-08-14 - Começou a baixaria"
   - "2026-08-13 - Decisão ilegal não se cumpre 👍🏻"
@@ -21,6 +24,26 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## "Internet livre pras pessoas e punição dura para vagabundo" (agosto de 2026)
+
+Em **19 de agosto de 2026**, ao comentar o caso de Giulia Falcão, Renan diz que o debate sobre "cultura do machismo na internet" é "papo furado" e "só regra para te censurar". Ele resume sua posição sobre liberdade e redes: **"Internet livre pras pessoas e punição dura para vagabundo"** — quem faz piada ou brincadeira "não tem nada a ver com isso"; quem é "má, canalha, suja, violenta" vai "pagar o preço".
+
+Ver [[fontes/2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso]].
+
+## Reportagem da BBC sobre as propostas de Renan: acusação de má-fé a jornalistas de esquerda (agosto de 2026)
+
+Em **19 de agosto de 2026**, Renan reage a uma reportagem da **BBC** sobre as opiniões dos candidatos, escrita pela jornalista **Iara Diniz** (ex-ONU). Ele a descreve como "especialista em desinformação" e acusa jornalistas de esquerda de agirem "com muita má-fé", dizendo que as agências de verificação "fingem" se preocupar com a verdade: "Ninguém se importa com a verdade. Para eles, é guerra. O objetivo deles é nos destruir."
+
+Renan reconhece que a reportagem "acertou em algumas coisas" (guerra contra facções, forças armadas) e usa o episódio para reafirmar propostas como fechar universidades mantendo os melhores alunos e "bola de ferro no pé do bandido". Ver [[fontes/2026-08-19 - JORNALISTA ME PEGOU!!!]].
+
+## Discord proibido de fazer lives: decisão atribuída a Janja e promessa de abrir o cartão corporativo (agosto de 2026)
+
+Em **19 de agosto de 2026**, Renan mostra a notificação que usuários profissionais do **Discord** receberam — a plataforma estaria proibida de fazer lives — e atribui a decisão a [[pessoas/Janja]], que chama de "decisão ditatorial de uma pessoa que sequer ditadora é". Ele afirma que ela "não foi eleita para nada" e que a decisão foi baseada em notícia falsa: o caso de uma moça que se matou teria ocorrido no Instagram, não no Discord.
+
+Renan promete, se chegar ao poder, abrir as contas do cartão corporativo do Palácio do Planalto e cobrar explicações sobre a ONG ligada a Janja contratada sem licitação na COP30. Ele afirma que "as decisões vão acabar" com o fim do mandato de Lula e que a liberdade será restabelecida para quem trabalha com o Discord — reafirmando sua posição de liberdade nas redes sociais.
+
+Ver [[fontes/2026-08-19 - Essa é a mensagem que o Discord enviou pra todo mundo ontem]].
 
 ## Intercept ataca a campanha após os 10% (agosto de 2026)
 

@@ -7,6 +7,7 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
   - "2026-08-18 - Hoje no Brasil a gente vive o “prendeu soltou”"
   - "2026-08-17 - O Brasil prende muito"
   - "2026-08-16 - Por que ninguém antes"
@@ -16,6 +17,12 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## Caso Giulia Falcão: punição dura e crítica à progressão de pena para agressor rico (agosto de 2026)
+
+Em **19 de agosto de 2026**, ao comentar o caso de **Giulia Falcão**, agredida com taco de beisebol pelo marido, Renan critica a **progressão de pena**: o agressor "é rico, tem bons advogados" e "vai conseguir uma progressão de pena já — isso se não for solto antes de um ano". Ele defende "punição dura para vagabundo" em vez de se discutir a "cultura do Betinha" no Congresso.
+
+Ver [[fontes/2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso]] e [[eventos/Agressão a Giulia Falcão — Agosto de 2026]].
 
 ## Fim do "prendeu soltou": agressores de mulheres e criminosos sexuais devem ficar presos de verdade (agosto de 2026)
 

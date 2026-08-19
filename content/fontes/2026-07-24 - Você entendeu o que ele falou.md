@@ -34,6 +34,7 @@ Renan conclui: "regras diferentes para nações diferentes e vontades diferentes
 
 ## Posições
 - [[posicoes/Expulsão de ONGs Estrangeiras]] — alinhado com a defesa de autonomia indígena sem interferência estrangeira
+- [[posicoes/Uso Econômico das Reservas Indígenas]] — índio que quiser ser produtivo (mineração, agropecuária) poderá fazê-lo com financiamento e licenciamento
 
 ## Pessoas mencionadas
 - Cacique dos Pareci (não nomeado) — dirigia colheitadeira pessoalmente
