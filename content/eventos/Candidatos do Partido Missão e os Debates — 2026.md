@@ -7,6 +7,7 @@ tags:
   - debates
 date: 2026-08-10
 fontes:
+  - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-15 - Desafio para Flavio e Lula"
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
@@ -15,6 +16,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## "Tô aguardando esse covarde deixar de fugir": desafio a Lula (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan volta a desafiar [[pessoas/Lula]] ao debate: "Por que que você não mete essa do meu lado lá no debate?" — referindo-se às promessas eleitoreiras de Lula, como a da picanha. Ele diz que "é candidato a presidente e quero arrasar nos debates" e que está "só aguardando esse covarde deixar de fugir". Ver [[fontes/2026-08-20 - Você vai voltar a comer picanha]].
 
 ## Lula condiciona debate a "tirar o Renan ou Zema" (agosto de 2026)
 
@@ -38,6 +43,7 @@ Em **31 de julho de 2026**, Renan e Bem Mendes — candidato do Missão ao gover
 
 ## Fontes
 
+- [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — desafio a Lula ao debate; "arrasar nos debates"; "covarde" fugindo
 - [[fontes/2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES]] — anúncio da campanha para incluir os candidatos do Missão nos debates
 - [[fontes/2026-08-10 - Primeira Aparição minha em debate!]] — primeira participação do partido em debate (André Luiz, Maranhão) e barreiras da Rede Bandeirantes
 - [[fontes/2026-07-31 - É oficial, estamos fora dos debate.]] — anúncio do boicote a Bem Mendes em Minas Gerais

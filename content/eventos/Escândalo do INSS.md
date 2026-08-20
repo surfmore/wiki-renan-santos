@@ -8,6 +8,8 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-08-20 - Você vai voltar a comer picanha"
+  - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
   - "2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS"
   - "2026-03-27 - URGENTE - STF derruba CPMI do INSS"
@@ -16,7 +18,15 @@ fontes:
 
 # Escândalo do INSS
 
-Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção.
+Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## Lulinha no escândalo do "NSS" (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan afirma que o filho de Lula, **Lulinha**, "tá envolvido no escândalo de corrupção do NSS" — "pegaram tudo dele" — assim como o **irmão de Lula**, no "mesmo esquema, mesmo golpe, mesmo escândalo". Ele usa o caso para argumentar que a economia "tá uma desgraça" e que o eleitor que ainda acredita nas promessas de Lula está enganado. Ver [[fontes/2026-08-20 - Você vai voltar a comer picanha]].
+
+## Escândalo do "NSS" unindo Lula e a família Bolsonaro (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan cita o **"escândalo do NSS"** — ao lado do [[eventos/Escândalo Banco Master|Banco Master]] — como um dos que colocam [[pessoas/Lula]] e a [[pessoas/Flávio Bolsonaro|família Bolsonaro]] "nos mesmos escândalos", ao responder como convencer eleitores que ainda votam neles. Ver [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]].
 
 ## Foto da festa com piscina (agosto de 2026)
 
@@ -47,6 +57,8 @@ Ver [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]] e [[eventos/Escâ
 
 ## Fontes
 
+- [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — Lulinha envolvido no escândalo do "NSS"; "mesmo esquema, mesmo golpe"
+- [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — escândalo do "NSS" como elo entre Lula e a família Bolsonaro
 - [[fontes/2026-08-11 - Vazou as primeiras imagens do surubão dos políticos.]] — análise da foto da festa; conexões entre petistas e bolsonaristas
 - [[fontes/2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS]] — ação contra Lulinha por tráfico de influência
 - [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]] — derrubada da CPMI pelo STF

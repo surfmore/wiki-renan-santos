@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-20 - Você vai voltar a comer picanha"
+  - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-18 - Esse cara m4tou o ass4ss1no do próprio filho"
   - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
@@ -59,6 +61,14 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## A risada da picanha e a "eleição de cartas marcadas" (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan analisa uma cena de Lula rindo ao prometer que "vocês vão voltar a comer picanha". Para Renan, a **risada cínica** foi uma "entrega": Lula "sabe que tava metendo louco" e repete a promessa da picanha sabendo que "o pessoal vai cair de novo". Ele afirma que Lula lançou **Flávio Bolsonaro** como candidato porque Flávio "perde para ele no segundo turno" — por isso Lula "fala qualquer coisa". Renan também aponta o filho de Lula, **Lulinha**, como envolvido no escândalo do **NSS**, e o desafia ao debate: "Eu sou candidato a presidente e eu quero arrasar nos debates. Tô só aguardando esse covarde deixar de fugir." Ver [[fontes/2026-08-20 - Você vai voltar a comer picanha]].
+
+## Eleitor que ainda acredita em Lula: "nos mesmos escândalos" e o desafio do livro de propostas (agosto de 2026)
+
+Em **20 de agosto de 2026**, ao ser questionado como convencer um eleitor que vota em Lula ou em Flávio Bolsonaro, Renan afirma que quem "ainda acredita em 2026 que o Lula vai resolver o problema do Brasil" e não votar nele "vai estar destruindo o futuro dos teus filhos". Para Renan, Lula e a família Bolsonaro estão "nos mesmos escândalos" — Banco Master e NSS — enquanto ele apresenta um **"passado ilibado"** e um **livro de 460 páginas de propostas** que desafia os demais candidatos a apresentarem. Ver [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]].
 
 ## Crítica por não homenagear o policial que matou o assassino do próprio filho (agosto de 2026)
 
@@ -486,6 +496,8 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — risada cínica da picanha; eleição "de cartas marcadas"; Lula lançou Flávio; desafio ao debate
+- [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — eleitor que ainda acredita em Lula "nos mesmos escândalos" (Banco Master e NSS); desafio do livro de 460 páginas
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — Renan diz ser o único que pode atacar a corrupção do Lula; recorda que o MBL "ajudou a prender" o presidente
 - [[fontes/2026-08-15 - Eu passei o Lula!]] — Renan ultrapassa Lula no segundo turno na Quest; rejeição "gigantesca"
 - [[fontes/2026-08-08 - Resposta para José Dirceu]] — Renan diz que Dirceu "comanda" Lula, descrito como "senil"; o duelo seria entre ele e o PT

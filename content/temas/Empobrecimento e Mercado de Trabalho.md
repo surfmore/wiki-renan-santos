@@ -8,6 +8,14 @@ tags:
 date: 2026-08-06
 ---
 
+## Brasileiros mais pobres e a promessa da picanha (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan afirma que "como nós ficamos mais pobres ao longo dos últimos anos", o brasileiro "não tá comendo picanha". Ele critica a promessa de [[pessoas/Lula]] de que "vocês vão voltar a comer picanha" como uma mentira eleitoreira, numa eleição que chama de "de cartas marcadas", e afirma que "a economia tá uma desgraça". Ver [[fontes/2026-08-20 - Você vai voltar a comer picanha]].
+
+## "O Brasil é roubado pelos políticos e roubado pelos ladrões" (agosto de 2026)
+
+Em **20 de agosto de 2026**, ao responder como convencer o eleitor que vota em Lula ou em Flávio Bolsonaro, Renan diagnostica a pobreza do país: **"O Brasil tá pobre pra caramba. O Brasil é roubado pelos políticos e o Brasil é roubado pelos ladrões."** Ele afirma que vai "fazer as reformas, fazer o Brasil crescer" e "ir para cima do crime organizado" — ou seja, resolver os dois problemas. Ver [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]].
+
 ## Recorde de recuperações judiciais: Casas Bahia e a quebra das empresas (agosto de 2026)
 
 Em **17 de agosto de 2026**, Renan usa a notícia de que as **Casas Bahia** entraram em recuperação judicial para afirmar que "o Brasil quebrou": quase **8.000 empresas** pediram recuperação judicial, "o recorde na história do Brasil". Segundo ele, "quando um monte de empresa grande sai quebrando... é porque fazer negócio aqui não faz sentido", e "quando todo mundo quebra, quem paga conta, que são as empresas dos trabalhadores, eles não aguentam mais". Ver [[fontes/2026-08-17 - Por que Lula não quer ir ao debate comigo]].
@@ -337,6 +345,8 @@ Ver [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]].
 
 ## Fontes
 
+- [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — brasileiros mais pobres; promessa da picanha como mentira eleitoreira
+- [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — "o Brasil é roubado pelos políticos e pelos ladrões"; reformas para crescer
 - [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — dívida explodindo; futuro penhorado; contra o assistencialismo eleitoreiro
 - [[fontes/2026-05-26 - Lula está prestes a aprovar seu maior projeto - e direita vai ajudar]] — escala 6x1; PL votando a favor por cálculo eleitoral; impactos econômicos
 - [[fontes/2026-05-25 - Resposta ao Luciano Huck]] — Bolsa Família como base econômica de municípios; 5 propostas

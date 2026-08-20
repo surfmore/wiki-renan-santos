@@ -6,6 +6,10 @@ tags:
 date: 2026-08-07
 ---
 
+## Direito penal do inimigo a favor da polícia e do Estado: reocupação territorial (agosto de 2026)
+
+Em **20 de agosto de 2026**, ao destruir câmeras de uma facção em João Pessoa, Renan promete que, em seu governo, "membros dessa facção e outras serão destruídos", por meio da **reocupação territorial**, da **alteração das leis** e do **direito penal do inimigo a favor da polícia e do Estado** — quebrando "não apenas as câmeras deles, mas também o espírito dessa gente maldita". Ver [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] e [[temas/Segurança Pública]].
+
 ## Origem do "prendeu matou" e a inexistência de terceira opção (agosto de 2026)
 
 Em **18 de agosto de 2026**, em trecho de entrevista, Renan explica a origem do bordão "prendeu matou": o caso de um empresário assaltado no Parque do Povo (SP) que entregou o celular ao bandido e levou um tiro, morrendo no momento da entrega. Renan afirma que "o destino dele é prender ou matar" e que, diante de um assalto armado, "a única coisa justa, séria, a se fazer" é prender o bandido "para ficar muito tempo na cadeia" ou ele morrer. Ele admite que o bandido possa levar um tiro da polícia e apenas se machucar — "ele vai se machucar e depois vai ser levado pra prisão" — mas reafirma que **não pode haver terceira opção**.
@@ -173,6 +177,7 @@ Ver [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]].
 
 ## Fontes
 
+- [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] — direito penal do inimigo a favor da polícia e do Estado; reocupação territorial
 - [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF; "prevaricação é não agir"
 - [[fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo]] — explicação da mecânica: investigação prévia, qualificação legal, delimitação por lei
 - [[fontes/2026-06-07 - Minas Gerais é o novo Rio de Janeiro]] — estado de defesa em MG; transferência de faccionados para presídios remotos; proteção jurídica a policiais

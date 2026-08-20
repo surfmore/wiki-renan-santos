@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-08-19
+date: 2026-08-20
 ---
 
 <style>
@@ -98,11 +98,11 @@ date: 2026-08-19
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">845</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">850</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">29</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">33</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">61</span><span class="label">Pessoas</span></a>
-<a class="wiki-stat" href="/eventos"><span class="num">22</span><span class="label">Eventos</span></a>
+<a class="wiki-stat" href="/eventos"><span class="num">23</span><span class="label">Eventos</span></a>
 </div>
 
 <div class="wiki-disclaimer">
@@ -222,7 +222,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 <a class="wiki-card" href="/eventos/Casamento Tabata Amaral e João Campos"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Casamento Tabata Amaral e João Ca...</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">O casamento em fevereiro de 2026 entre a deputada federal Tabata Amaral e o prefeito do Recife João Campos é usado por Renan Santos como ilust...</p></a>
 <a class="wiki-card" href="/eventos/Leilão de Termoelétricas de 2026"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Leilão de Termoelétricas de 2026</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Em junho de 2026, o governo Lula realizou um leilão de usinas termoelétricas que Renan Santos denuncia como &quot;de cartas marcadas&quot; — avaliado em c...</p></a>
 <a class="wiki-card" href="/eventos/Prisão do Bolsonaro"><div class="wiki-card-header"><span class="wiki-card-icon">📌</span><span class="wiki-card-title">Prisão do Bolsonaro</span><span class="wiki-card-count">1 fonte</span></div><p class="wiki-card-desc">Jair Bolsonaro foi preso em novembro de 2025 por decisão de Alexandre de Moraes no inquérito dos atos de 8 de janeiro. Renan não celebra — caracteriza a prisão como &quot;melancólica&quot; para todos os lados.</p></a>
-<a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 22 eventos →</span></div><p class="wiki-card-desc">Outros eventos comentados por Renan.</p></a>
+<a class="wiki-card" href="/eventos"><div class="wiki-card-header"><span class="wiki-card-icon">➕</span><span class="wiki-card-title">Ver todos os 23 eventos →</span></div><p class="wiki-card-desc">Outros eventos comentados por Renan.</p></a>
 </div>
 
 <p class="wiki-section-title">📊 Análises</p>

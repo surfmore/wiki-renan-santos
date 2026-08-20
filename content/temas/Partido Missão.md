@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Bora investigar tudo!"
@@ -46,6 +47,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Livro de 460 páginas de propostas e desafio aos demais candidatos (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan afirma ter apresentado "o maior livro de propostas de todos" — um **livro de 460 páginas de propostas** — e desafia os demais candidatos: "Apresentem um livro de 460 páginas de propostas que eu apresentei. Os outros não vão apresentar." A declaração reforça o partido como portador de um programa denso, em contraste com Lula e a família Bolsonaro, que estariam "nos mesmos escândalos". Ver [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]].
 
 ## Lançamento da candidatura e a energia da base (agosto de 2026)
 
@@ -338,6 +343,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — livro de 460 páginas de propostas; desafio aos demais candidatos
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — candidatura oficial de Renan pelo partido, número 14; recorde de assinaturas
 - [[fontes/2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha.]] — primeiro ato de campanha no Largo São Francisco; ameaças e mobilização da esquerda
 - [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% Real Time Big Data; ultrapassar Flávio; 2M seguidores; em Cuiabá

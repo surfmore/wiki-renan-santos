@@ -6,6 +6,16 @@ tags:
 date: 2026-08-10
 ---
 
+## Câmeras de facções, monitoramento territorial e reocupação (agosto de 2026)
+
+Em **20 de agosto de 2026**, durante dia de campanha em João Pessoa, Renan sobe em um poste para destruir o sistema de câmeras da facção local (referida na transcrição como "Okaida"). Ele explica que facções instalam **câmeras em toda a cidade** para monitorar pessoas, adversários e a aproximação da polícia — uma versão criminosa de sistemas como o **Smart Sampa** de São Paulo — com **central no Rio de Janeiro** operada por um criminoso chamado **Fatoca**. Promete que, em seu governo, membros das facções "serão destruídos" via **reocupação territorial** e **direito penal do inimigo a favor da polícia e do Estado**. Ver [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+
+## "Onde há uma facção, haverá uma operação": parceria federal-estados e remoção de câmeras na Paraíba (agosto de 2026)
+
+Em **20 de agosto de 2026**, durante dia de campanha em **João Pessoa** e **Santa Rita** (Paraíba), Renan afirma: **"Onde há uma facção, haverá uma operação"**, com o governo federal e os governos estaduais "em parceria, com aumento de penas" — para retirar o crime "dos bairros e cidades que eles costumam tomar", utilizando **forças federais quando necessário** e aprovando no Congresso o **aumento de penas**. Para o caso de um assalto com arma apontada à cabeça para levar o celular, defende pena mínima de **30 anos de prisão**.
+
+O dia de campanha incluiu a participação de Renan na **retirada de entulho** jogado por traficantes nas ruas do bairro do Grotão (João Pessoa) para impedir a circulação da polícia, e a **remoção de câmeras** instaladas em postes pelo crime organizado em Santa Rita. Ver [[fontes/2026-08-20 - Vídeos completos logo logo!]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
 ## Caso Giulia Falcão: punição dura para agressores e crítica à progressão de pena (agosto de 2026)
 
 Em **19 de agosto de 2026**, Renan comenta o caso de **Giulia Falcão**, agredida com taco de beisebol pelo marido, e afirma que o agressor — "rico, com bons advogados" — "vai conseguir uma progressão de pena já", "isso se não for solto antes de um ano". Ele cita as **250.000 mulheres** que reportam oficialmente violência à polícia e outras 250.000 a 500.000 que não reportam, e resume sua posição: **"Internet livre pras pessoas e punição dura para vagabundo"**.
@@ -1165,6 +1175,8 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] — destruição de câmeras de facção; monitoramento territorial; reocupação e direito penal do inimigo
+- [[fontes/2026-08-20 - Vídeos completos logo logo!]] — "onde há uma facção, haverá uma operação"; parceria federal-estados; remoção de entulho e câmeras de facção na Paraíba
 - [[fontes/2026-08-16 - Já imaginaram]] — líderes do PCC e do Comando Vermelho fugindo; destino de prisão ou morte
 - [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — ameaças de morte do PCC e Comando Vermelho; desafio "venham me pegar"
 - [[fontes/2026-08-02 - É fácil cruzar a fronteira do Brasil com o Paraguai]] — fronteira sem fiscalização; armas e drogas; tráfico que "supera o PCC"

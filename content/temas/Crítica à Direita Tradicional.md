@@ -7,6 +7,10 @@ tags:
 date: 2026-08-06
 ---
 
+## Lula e a família Bolsonaro "nos mesmos escândalos" (agosto de 2026)
+
+Em **20 de agosto de 2026**, ao responder como convencer um eleitor que vota em Lula ou em Flávio Bolsonaro, Renan afirma que Lula e a "família Bolsonaro" estão "nos mesmos escândalos" — **Banco Master** e **NSS** — e que continuar votando neles é "votar mal". Ele contrapõe o próprio **"passado ilibado"** — diz ter "lutado contra o PT" e "denunciado crimes cometidos pelo bolsonarismo" — e o **livro de 460 páginas de propostas**, desafiando os demais candidatos a apresentarem algo equivalente. Ver [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]].
+
 ## "Corrupção da família Bolsonaro": Renan como único capaz de atacá-la (agosto de 2026)
 
 Em **16 de agosto de 2026**, no anúncio oficial de sua candidatura, Renan afirma ser **"o único que pode atacar a corrupção do Lula e a corrupção da família Bolsonaro"** e "o único que pode apontar a corrupção do Centrão e do STF" — por ter "um passado ilibado". Ele também se descreve como oposição "a todas as roubalheiras da esquerda e da direita, não importando quem fosse o presidente". Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].
@@ -687,6 +691,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — Lula e a família Bolsonaro "nos mesmos escândalos" (Banco Master e NSS); passado ilibado e livro de 460 páginas
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção da família Bolsonaro"; Renan se diz o único capaz de atacá-la
 - [[fontes/2026-08-04 - Eles estão com medo de vir pro debate.]] — Lula e Flávio como "casuístas" que fogem dos debates; desafio ao confronto de ideias
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Eduardo ataca Renan na Jovem Pan; Renan expõe hipocrisia da família Bolsonaro com o STF

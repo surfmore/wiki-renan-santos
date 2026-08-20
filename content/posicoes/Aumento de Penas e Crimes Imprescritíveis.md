@@ -7,6 +7,7 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-20 - Vídeos completos logo logo!"
   - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
   - "2026-08-18 - Hoje no Brasil a gente vive o “prendeu soltou”"
   - "2026-08-17 - O Brasil prende muito"
@@ -17,6 +18,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## Pena mínima de 30 anos para assalto à mão armada (agosto de 2026)
+
+Em **20 de agosto de 2026**, durante dia de campanha na Paraíba, Renan propõe aprovar no Congresso o **aumento de penas** para que "um bandido que te assalte, que venha com uma arma apontada na tua cabeça para levar teu celular, fique no mínimo 30 anos preso". A medida integra o pacote de operação conjunta contra facções entre governo federal e estados ("onde há uma facção, haverá uma operação"). Ver [[fontes/2026-08-20 - Vídeos completos logo logo!]] e [[temas/Segurança Pública]].
 
 ## Caso Giulia Falcão: punição dura e crítica à progressão de pena para agressor rico (agosto de 2026)
 

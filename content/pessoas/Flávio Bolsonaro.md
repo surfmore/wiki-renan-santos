@@ -6,6 +6,8 @@ tags:
   - direita
 date: 2026-08-06
 fontes:
+  - "2026-08-20 - Você vai voltar a comer picanha"
+  - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Eu passei o Lula!"
   - "2026-08-15 - Desafio para Flavio e Lula"
@@ -25,6 +27,14 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Lançado por Lula como candidato "que perde no segundo turno" (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan afirma que Lula lançou Flávio Bolsonaro como candidato porque Flávio "perde para ele no segundo turno" — daí Lula "falar qualquer coisa" numa eleição que Renan classifica como "de cartas marcadas". A fala reforça a tese de que a candidatura de Flávio seria conveniente a Lula. Ver [[fontes/2026-08-20 - Você vai voltar a comer picanha]].
+
+## Família Bolsonaro "nos mesmos escândalos" que Lula (agosto de 2026)
+
+Em **20 de agosto de 2026**, ao responder como convencer um eleitor que vota em Lula ou em Flávio, Renan afirma que votar em Lula ou na "família Bolsonaro" é votar em quem está "nos mesmos escândalos" — **Banco Master** e **NSS**. Ele contrapõe o próprio **"passado ilibado"** e o **livro de 460 páginas de propostas** que desafia os demais candidatos a apresentarem. Ver [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]].
 
 ## "Corrupção da família Bolsonaro" e o próximo alvo nas pesquisas (agosto de 2026)
 
@@ -566,6 +576,8 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — lançado por Lula como candidato que perde no segundo turno; eleição "de cartas marcadas"
+- [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — família Bolsonaro "nos mesmos escândalos" (Banco Master e NSS); passado ilibado e livro de 460 páginas
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção da família Bolsonaro"; Renan se diz o único que pode atacá-la
 - [[fontes/2026-08-15 - Eu passei o Lula!]] — "Lula só vence se Flávio for pro segundo turno"; Renan mira ultrapassar Flávio
 - [[fontes/2026-08-15 - Desafio para Flavio e Lula]] — desafio para abrir as contas do Dark Horse; "covardes" que fogem dos debates

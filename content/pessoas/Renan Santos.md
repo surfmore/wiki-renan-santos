@@ -7,6 +7,9 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-20 - Você vai voltar a comer picanha"
+  - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
+  - "2026-08-19 - Renan Santos diz não entender por que fãs querem fotos com ele"
   - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-16 - Não veja esse vídeo!"
   - "2026-08-15 - Eu passei o Lula!"
@@ -20,6 +23,18 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "Quero arrasar nos debates": desafio a Lula (agosto de 2026)
+
+Em **20 de agosto de 2026**, Renan afirma ser "candidato a presidente e quero arrasar nos debates", desafiando Lula a debater em vez de repetir promessas eleitoreiras como a da picanha. Ele diz estar "só aguardando esse covarde deixar de fugir". Ver [[fontes/2026-08-20 - Você vai voltar a comer picanha]].
+
+## "Passado ilibado", livro de 460 páginas e desafio aos candidatos (agosto de 2026)
+
+Em **20 de agosto de 2026**, ao responder como convencer o eleitor de Lula ou de Flávio Bolsonaro, Renan apresenta seu diferencial: **"Eu tenho um passado ilibado. Eu lutei contra o PT quando precisou lutar. Denunciei crimes cometidos pelo bolsonarismo. Sou uma pessoa que estuda muito."** Ele afirma ter apresentado "o maior livro de propostas de todos" — um **livro de 460 páginas de propostas** — e desafia os demais candidatos a apresentarem algo equivalente, prevendo que não o farão. Ver [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]].
+
+## Perfil pessoal: tímido e reservado diante da fama (agosto de 2026)
+
+Em **19 de agosto de 2026**, ao ser questionado por que as pessoas querem tirar foto com ele — e se isso não indicaria falta de relevância — Renan se descreve como **tímido e reservado**: "Eu faço a imagem que eu sou meio tímido mesmo. Eu sou um cara tímido de verdade." Diz que costuma perguntar aos fãs: "você realmente quer tirar foto comigo?" e "você quer mesmo tirar foto comigo? Você tem certeza?". Afirma que, ao contrário de quem "adora a fama", é uma pessoa reservada, e que a postura "não é nem de longe arrogância". Ver [[fontes/2026-08-19 - Renan Santos diz não entender por que fãs querem fotos com ele]].
 
 ## Pesquisa em 10% e projeção de 11-12%; segundo turno contra Lula (agosto de 2026)
 
@@ -223,6 +238,9 @@ Ver [[fontes/2026-05-19 - 6,9% DISPAREI NA ATLAS]].
 
 ## Fontes
 
+- [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — "quero arrasar nos debates"; desafio a Lula; "covarde" fugindo
+- [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — passado ilibado, livro de 460 páginas de propostas e desafio aos candidatos
+- [[fontes/2026-08-19 - Renan Santos diz não entender por que fãs querem fotos com ele]] — perfil pessoal: tímido, reservado e desconfortável com a fama
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — candidatura oficial pelo Partido Missão, número 14; biografia e trajetória
 - [[fontes/2026-08-15 - Eu passei o Lula!]] — ultrapassa Lula no segundo turno na pesquisa Quest; 3º lugar em todas as pesquisas
 - [[fontes/2026-07-21 - 9% NA REAL TIME BIG DATA!!]] — 9% Real Time Big Data; 10% em votos válidos; ultrapassar Flávio Bolsonaro; 2M seguidores; em Cuiabá
