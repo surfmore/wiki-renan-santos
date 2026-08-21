@@ -8,6 +8,7 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-11 - Vazou as primeiras imagens do surubão dos políticos."
@@ -19,6 +20,10 @@ fontes:
 # Escândalo do INSS
 
 Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## "Ninguém liga para o Lulinha": a indiferença diante do esquema (agosto de 2026)
+
+Em **21 de agosto de 2026**, gravando em **Maceió (Alagoas)**, Renan afirma que, no escândalo que envolve Lulinha, "não é nem que é só o Lulinha": **o irmão de Lula** estaria no mesmo esquema. Ele lamenta que "uma parte da população brasileira tá cagando pro assunto" e que, no Nordeste, "60, 70% da população não liga" para a corrupção — mesmo sendo a que mais sofre com ela. Ver [[fontes/2026-08-21 - Ninguém liga para o Lulinha.]] e [[pessoas/Lula]].
 
 ## Lulinha no escândalo do "NSS" (agosto de 2026)
 

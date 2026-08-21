@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-18 - Esse cara m4tou o ass4ss1no do próprio filho"
@@ -61,6 +62,12 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Ninguém liga para o Lulinha": indiferença do eleitorado e proteção ao PT da Bahia (agosto de 2026)
+
+Em **21 de agosto de 2026**, gravando em **Maceió (Alagoas)**, Renan lamenta a indiferença da população diante dos escândalos de corrupção envolvendo o filho de Lula, **Lulinha** — citando uma pessoa descrita como "a amante do Lulinha" que teria falado em receber **100 milhões** e discutido propina. Ele afirma que a população que mais se ferra com a corrupção "vota e apoia" os envolvidos ("60, 70% da população" do Nordeste não liga) e que o irmão de Lula estaria no mesmo esquema.
+
+Renan também afirma que **"o Lula também recebeu a turma do Banco Master"** e que "o escândalo do Banco Master começou com crédito no PT da Bahia" — com integrantes do PT baiano no governo de Lula, que os protege "e vai fingir que tá tudo normal". Ver [[fontes/2026-08-21 - Ninguém liga para o Lulinha.]], [[eventos/Escândalo Banco Master]] e [[eventos/Escândalo do INSS]].
 
 ## A risada da picanha e a "eleição de cartas marcadas" (agosto de 2026)
 

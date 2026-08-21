@@ -6,6 +6,28 @@ tags:
 date: 2026-08-10
 ---
 
+## "Morro ou Faria Lima": 90 a 100 mortes por dia, narcoestado e intervenção no Rio (agosto de 2026)
+
+Em **21 de agosto de 2026**, em diálogo com um interlocutor sobre o slogan "prender e matar", Renan afirma que morrem hoje no Brasil **90 a 100 pessoas por dia**, a maior parte meninos negros da periferia — mortos "antes de tudo" pelo **crime organizado**. Sobre o Rio de Janeiro, pergunta "em que instância do Rio de Janeiro não há presença do crime organizado?" e defende que, **"eventualmente, nós vamos precisar fazer uma intervenção no Rio de Janeiro, porque o Brasil está se tornando um narcoestado"**.
+
+Renan explica que o "prender e matar" se aplica a agentes públicos envolvidos com o crime: se o agente responder à polícia **armado**, o policial "vai ter que atirar de volta"; se **se entregar**, não será morto — "ninguém vai matar ele". Conclui que as punições no Brasil são muito baixas e que o **ato de pertencer à facção** deve aumentar as punições, com o direito funcionando "de maneira diferente" para os membros do crime organizado.
+
+Ver [[fontes/2026-08-21 - Morro ou Faria Lima]], [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] e [[posicoes/Intervenção Federal em Estados com Baixo IDH]].
+
+## Barricada do Comando Vermelho derrubada em João Pessoa: "retomada dos bairros" (agosto de 2026)
+
+Em **20 de agosto de 2026**, durante dia de campanha em **João Pessoa (Paraíba)**, Renan usa uma **retroescavadeira** para derrubar uma **barricada do Comando Vermelho** no bairro dos **Grotões** — que, segundo ele, impedia a população de passar. Ele afirma que a ação é "um gostinho do que será o governo Renan Santos" e que **"a retomada dos bairros brasileiros será obrigação do nosso governo"**, com cenas como essa "vão se repetir em todo o país".
+
+Renan cobra os governantes locais — "por que que os governantes locais aqui da Paraíba não fazem isso?" — e conecta a ação às bandeiras de **desfavelização** e de **enfrentamento total ao crime**, afirmando que é preciso "devolver a cidade pras nossas crianças", com a rua "livre de vagabundo, livre de bandido".
+
+Ver [[fontes/2026-08-20 - Eu destruí uma barricada do Comando Vermelho!]], [[posicoes/Desfavelização do Brasil]] e [[eventos/Campanha na Paraíba — Agosto de 2026]].
+
+## Visão do "triunfo" sobre o crime: desfile na Sapucaí após a vitória no Rio (agosto de 2026)
+
+Em **20 de agosto de 2026**, em vídeo de tom satírico, Renan imagina um desfile na **Sapucaí** comemorando a vitória total das forças de segurança sobre o crime organizado no Rio de Janeiro — com o BOPE, blindados e **caveirões** como carros alegóricos e a cobertura da **Rede Globo**. Ele afirma que, "no governo Renan Santos", esse triunfo aconteceria e que homenagearia o melhor soldado da operação com uma **"biga"** de ouro. O vídeo projeta a cena como um "momento" de 2027, reforçando a narrativa de campanha de uma "guerra" vitoriosa contra as facções.
+
+Ver [[fontes/2026-08-20 - Fui pego!]].
+
 ## Câmeras de facções, monitoramento territorial e reocupação (agosto de 2026)
 
 Em **20 de agosto de 2026**, durante dia de campanha em João Pessoa, Renan sobe em um poste para destruir o sistema de câmeras da facção local (referida na transcrição como "Okaida"). Ele explica que facções instalam **câmeras em toda a cidade** para monitorar pessoas, adversários e a aproximação da polícia — uma versão criminosa de sistemas como o **Smart Sampa** de São Paulo — com **central no Rio de Janeiro** operada por um criminoso chamado **Fatoca**. Promete que, em seu governo, membros das facções "serão destruídos" via **reocupação territorial** e **direito penal do inimigo a favor da polícia e do Estado**. Ver [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].

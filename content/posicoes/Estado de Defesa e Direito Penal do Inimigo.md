@@ -6,6 +6,12 @@ tags:
 date: 2026-08-07
 ---
 
+## Punições baixas e tipo penal de pertencer à facção: "Morro ou Faria Lima" (agosto de 2026)
+
+Em **21 de agosto de 2026**, em diálogo sobre o slogan "prender e matar", Renan explica que o direito penal brasileiro tem **punições muito baixas** e que é preciso um tipo penal em que **o ato de pertencer à facção aumente as punições** — fazendo com que o direito "funcione de maneira diferente" para os membros do crime organizado. Ele reafirma que, se um agente envolvido com o crime responder à polícia **armado**, o policial "vai ter que atirar de volta"; se **se entregar**, "ninguém vai matar ele" — mas o traficante, segundo Renan, não quer se entregar pacificamente.
+
+Ver [[fontes/2026-08-21 - Morro ou Faria Lima]] e [[temas/Segurança Pública]].
+
 ## Direito penal do inimigo a favor da polícia e do Estado: reocupação territorial (agosto de 2026)
 
 Em **20 de agosto de 2026**, ao destruir câmeras de uma facção em João Pessoa, Renan promete que, em seu governo, "membros dessa facção e outras serão destruídos", por meio da **reocupação territorial**, da **alteração das leis** e do **direito penal do inimigo a favor da polícia e do Estado** — quebrando "não apenas as câmeras deles, mas também o espírito dessa gente maldita". Ver [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] e [[temas/Segurança Pública]].

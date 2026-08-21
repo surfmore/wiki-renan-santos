@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-08-10
 fontes:
+  - "2026-08-20 - Eu destruí uma barricada do Comando Vermelho!"
   - "2026-08-16 - Por que ninguém antes"
   - "2026-08-12 - Metas da Missão"
   - "2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES"
@@ -22,6 +23,12 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## "Retomada dos bairros": barricada do Comando Vermelho derrubada em João Pessoa (agosto de 2026)
+
+Em **20 de agosto de 2026**, durante dia de campanha em **João Pessoa (Paraíba)**, Renan usa uma **retroescavadeira** para derrubar uma **barricada do Comando Vermelho** no bairro dos **Grotões**. Ele afirma que **"a retomada dos bairros brasileiros será obrigação do nosso governo"** e que cenas como essa "vão se repetir em todo o país" — com o bairro sendo **devolvido às pessoas**. A ação conecta a desfavelização ao **enfrentamento ao crime**: a retomada territorial é apresentada como pré-condição para devolver a cidade "pras nossas crianças", com a rua "livre de vagabundo, livre de bandido". Renan cobra os governantes locais: "Por que que os governantes locais aqui da Paraíba não fazem isso?"
+
+Ver [[fontes/2026-08-20 - Eu destruí uma barricada do Comando Vermelho!]] e [[temas/Segurança Pública]].
 
 ## "Desfavelizar o bairro": o correto para a população mais pobre (agosto de 2026)
 

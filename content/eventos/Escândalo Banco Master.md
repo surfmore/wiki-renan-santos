@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-04 - Minha posição em relação ao STF"
   - "2026-07-22 - Acabou para Flavio Bolsonaro"
   - "2026-07-02 - Um exemplo de mulher"
@@ -15,6 +16,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## "O escândalo começou com crédito no PT da Bahia": Renan aponta Lula como receptor (agosto de 2026)
+
+Em **21 de agosto de 2026**, gravando em **Maceió (Alagoas)**, Renan afirma que o escândalo do Banco Master **não envolve apenas os Bolsonaros**: "o **Lula** também recebeu a turma do Banco Master". Segundo ele, **"o escândalo do Banco Master começou com crédito no PT da Bahia"** — integrantes do PT baiano estariam no governo de Lula, que os protege "e vai fingir que tá tudo normal". A fala reforça a tese de Renan de que a rede do Banco Master atravessa os principais campos políticos. Ver [[fontes/2026-08-21 - Ninguém liga para o Lulinha.]] e [[pessoas/Lula]].
 
 ## Renan quer investigação de ministros do STF envolvidos no escândalo (agosto de 2026)
 

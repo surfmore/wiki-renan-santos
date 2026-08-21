@@ -12,6 +12,10 @@ fontes:
 
 Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países africanos e gastam recursos federais em festas e projetos sem impacto real no desenvolvimento da população.
 
+## Rio de Janeiro: intervenção diante do "narcoestado" (agosto de 2026)
+
+Em **21 de agosto de 2026**, em diálogo sobre o slogan "prender e matar", Renan afirma que, "eventualmente, nós vamos precisar fazer uma **intervenção no Rio de Janeiro**, porque o Brasil está se tornando um **narcoestado**". Ele pergunta "em que instância do Rio de Janeiro não há presença do crime organizado?" e liga a necessidade de intervenção à escalada de mortes — 90 a 100 por dia no Brasil, a maior parte meninos negros da periferia. Ver [[fontes/2026-08-21 - Morro ou Faria Lima]] e [[temas/Segurança Pública]].
+
 ## Rio de Janeiro: proposta de intervenção federal (junho de 2026)
 
 Em **27 de junho de 2026**, em vídeo publicado em seu canal, o pré-candidato a deputado federal **Vítor Antu** (Partido Missão/RJ) afirma que **Renan Santos defende uma intervenção federal no Rio de Janeiro**. A proposta, segundo Vítor Antu, consiste em o governo federal assumir a função administrativa do estado, mobilizando o Exército e a Justiça Federal para "fazer uma faxina nos morros e na política fluminense."

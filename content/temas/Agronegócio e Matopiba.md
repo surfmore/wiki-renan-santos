@@ -8,6 +8,10 @@ tags:
 date: 2026-07-30
 ---
 
+## Vaquejada e economia equestre: o Nordeste como novo Texas (agosto de 2026)
+
+Em **21 de agosto de 2026**, Renan defende a **vaquejada** como um mercado de **bilhões de reais** e propõe criar o **circuito nacional da vaquejada** com leis de incentivo para transformá-la em "uma indústria inteira baseada no entretenimento" — envolvendo melhoramento genético, cavalos de raça, festas, transmissão televisiva, shows e música. O objetivo é fazer do Nordeste "o que existe no Texas": **um dos centros mundiais da economia equestre**, com investimento na carreira do vaqueiro como "atleta profissional de alto rendimento". Ver [[fontes/2026-08-21 - Eu serei o presidente da vaquejada]] e [[posicoes/Circuito Nacional da Vaquejada]].
+
 ## Jacaré como agroindústria de alto valor agregado: visita ao maior produtor do mundo (julho de 2026)
 
 Em **30 de julho de 2026**, Renan visita a maior fazenda produtora de carne de jacaré do mundo, no Mato Grosso do Sul, documentando o ciclo produtivo. Ele destaca a indústria de luxo em torno do animal: a pele vira bolsa vendida na Itália por €11.000, e a carne é exportada. Critica o governo por "sabotar a agroindústria nacional" em vez de celebrar a combinação de conservação com alto valor agregado.

@@ -26,6 +26,10 @@ fontes:
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
 
+## "O Nordeste é solução": vaquejada como indústria contra o "coitadismo" (agosto de 2026)
+
+Em **21 de agosto de 2026**, Renan afirma que **"o Nordeste é solução para boa parte dos problemas brasileiros"** e que basta parar de ver a região "como coitadismo". Ele propõe a criação do **circuito nacional da vaquejada** com leis de incentivo, para transformar a cultura vaqueira em uma indústria de entretenimento que gere desenvolvimento econômico "pras regiões mais humildes do Nordeste" — incluindo investimento na carreira do vaqueiro. Renan critica o uso eleitoreiro de festas por **prefeitos corruptos** que usam emendas públicas. Ver [[fontes/2026-08-21 - Eu serei o presidente da vaquejada]] e [[posicoes/Circuito Nacional da Vaquejada]].
+
 ## Mais de 2.600 municípios vivem mais de Bolsa Família que de atividade econômica (agosto de 2026)
 
 Em **19 de agosto de 2026**, em discurso de campanha, Renan afirma que **mais de 2.600 municípios** brasileiros vivem mais de **Bolsa Família** do que de atividade econômica — o que ele chama de "sintoma mais óbvio da existência da nossa colonização". Ele critica a classe política que "não liga se a cidade dela não tem atividade econômica" e vincula a dependência de benefícios ao cenário de "desistência" que atribui ao país.
