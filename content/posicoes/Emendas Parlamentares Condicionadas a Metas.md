@@ -4,10 +4,16 @@ tags:
   - posição
   - corrupção
   - federalismo
-date: 2026-07-27
+date: 2026-08-22
 ---
 
 Proposta defendida por Renan Santos de que **emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho** em áreas-chave de políticas públicas.
+
+## "Arrebentar com o esquemão das emendas": Arthur Lira e a vossoroca de Rio Largo (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan usa o caso de **Rio Largo (AL)** — município que, segundo ele, é o que **mais recebeu emenda do orçamento secreto** no estado, com emendas identificadas de [[pessoas/Arthur Lira]] — para reforçar o compromisso de acabar com o esquema. Ele afirma que as emendas financiaram **obras de macrodrenagem mal feitas** que geraram uma **vossoroca** (buraco gigante de assoreamento) que "vai invadir a cidade", com moradores que "vão precisar ser deslocados". Para Renan, o caso é "só mais um dentre os milhares casos de emendas mal tocadas, de dinheiro que provavelmente foi desviado, de obra que não teve utilidade".
+
+Renan promete que seu **projeto de governo "vai arrebentar com esse esquemão das emendas"** e desenvolver o Nordeste, "incluindo Alagoas". O episódio atualiza a posição com um exemplo concreto do **orçamento secreto** — complementando a promessa de reduzir o volume total de emendas e eliminar o orçamento secreto (ver seção "O centrão e os R$ 65 bilhões em emendas" abaixo). Ver [[fontes/2026-08-22 - Eu fui investigar o buraco do Arthur Lira e ele não cheira bem.]] e [[temas/Corrupção Municipal]].
 
 ## Cobrar qualidade de vida de prefeitos: "entregue melhora ou você não será político" (agosto de 2026)
 

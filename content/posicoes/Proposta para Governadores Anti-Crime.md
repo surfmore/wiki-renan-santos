@@ -4,12 +4,18 @@ tags:
   - posição
   - segurança
   - programa
-date: 2025-10-29
+date: 2026-08-21
 fontes:
+  - "2026-08-21 - Resposta ao Governador da Paraíba"
+  - "2026-08-21 - PM perde paciência e bota fogo em barricadas na Paraíba"
   - "2025-10-29 - Minha proposta para os governadores"
 ---
 
 Em **29 de outubro de 2025**, no contexto da crise de segurança no Rio de Janeiro, Renan Santos apresentou um programa de 11 pontos direcionado tanto aos **governadores de oposição** quanto aos **pré-candidatos à presidência**, propondo que endossem coletivamente uma agenda a ser implementada integralmente por quem vencer em 2026.
+
+## Cobrança aos governadores do Nordeste e ameaça de intervenção (agosto de 2026)
+
+Em **21 de agosto de 2026**, no contexto da campanha na Paraíba, Renan atualiza a cobrança aos governadores: afirma que as **polícias do Nordeste não conseguem trabalhar porque "os governadores petistas, lulistas do Nordeste são amigos do crime"** (citando Paraíba, Ceará e Bahia) e que, se o governador não quiser atuar contra o crime organizado, fará **intervenção federal no estado** (ver [[posicoes/Intervenção Federal em Estados com Baixo IDH]]). Em resposta ao governador da Paraíba, [[pessoas/Lucas Ribeiro]], reafirma: **"No meu governo, nós vamos destruir as facções criminosas"** — "gostem vocês ou não". Ver [[fontes/2026-08-21 - Resposta ao Governador da Paraíba]] e [[fontes/2026-08-21 - PM perde paciência e bota fogo em barricadas na Paraíba]].
 
 ## Estratégia para os governadores
 

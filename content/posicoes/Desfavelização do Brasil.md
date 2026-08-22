@@ -5,8 +5,9 @@ tags:
   - segurança
   - rio-de-janeiro
   - habitação
-date: 2026-08-10
+date: 2026-08-22
 fontes:
+  - "2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl"
   - "2026-08-20 - Eu destruí uma barricada do Comando Vermelho!"
   - "2026-08-16 - Por que ninguém antes"
   - "2026-08-12 - Metas da Missão"
@@ -23,6 +24,14 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## "Marco nacional de desfavelização" apresentado no Mundaú (agosto de 2026)
+
+Em **22 de agosto de 2026**, durante campanha na comunidade do **Mundaú**, em **Maceió (AL)**, Renan apresenta o que chama de **"marco nacional de desfavelização"**: um conjunto de regras para que **presidente, governadores e prefeitos trabalhem juntos** para reurbanizar as áreas de favela. O marco prevê **demarcação de territórios** e **reforma e construção de moradias**.
+
+Segundo Renan (fala registrada em meio a uma matéria narrada): **"é um marco nacional em que o governo federal vai estabelecer uma legislação que proíbe novas invasões, que estabelece quem serão as regiões alvos dessa política, que estabelece quais são os modelos de reocupação"** — se o beneficiário terá dinheiro da iniciativa privada ou apenas público, se será construído um prédio ou reformadas as casas, e o que será feito com a região e o ambiente.
+
+A proposta reforça a versão legislativa do programa de desfavelização já apresentado em março de 2026 (ver abaixo) e a regra de **tolerância zero para novas invasões** defendida em vídeos anteriores. Ver [[fontes/2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl]]. *Nota: neste vídeo, a narração da agenda é de terceiros; a citação entre aspas é a única fala diretamente atribuída a Renan na transcrição.*
 
 ## "Retomada dos bairros": barricada do Comando Vermelho derrubada em João Pessoa (agosto de 2026)
 
@@ -327,6 +336,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl]] — "marco nacional de desfavelização" no Mundaú (Maceió); legislação que proíbe novas invasões e define modelos de reocupação
 - [[fontes/2026-06-25 - Resposta para a mulher do Boulos]] — Renan responde à esposa de Boulos (MTST); esclarece "passar uma régua" e acusa movimentos de moradia de máfia com fraudes no Minha Casa, Minha Vida
 - [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Jurunas (Belém); R$ 4 bi da COP vs. R$ 3 bi para saneamento; prefeitura age só quando exposta; Comando Vermelho controlando a área
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); palafita sem saneamento; defesa de evacuação de áreas de palafita; lei de responsabilidade gerencial

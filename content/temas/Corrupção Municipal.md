@@ -3,10 +3,16 @@ title: "Corrupção Municipal"
 tags:
   - tema
   - corrupção
-date: 2026-06-11
+date: 2026-08-22
 ---
 
 Durante sua viagem pelo Maranhão em abril de 2026, Renan Santos usou episódios concretos para denunciar o que descreve como falência administrativa e desvio de recursos em prefeituras do interior. O tema aparece conectado à sua proposta de [[posicoes/Fusão de Municípios|fusão de municípios]] e à defesa de intervenção federal.
+
+## Emendas de Arthur Lira e a vossoroca de Rio Largo (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan investiga o caso de **Rio Largo (AL)** — município que, segundo ele, é o que **mais recebeu emenda do orçamento secreto** no estado, com emendas identificadas de [[pessoas/Arthur Lira]] (o "rei do centrão"). Ele afirma que as emendas financiaram **obras de macrodrenagem mal feitas** que geraram uma **vossoroca** — buraco gigante de assoreamento que "vai invadir a cidade" e forçar o deslocamento de moradores. Para Renan, é "só mais um dentre os milhares casos de emendas mal tocadas, de dinheiro que provavelmente foi desviado, de obra que não teve utilidade".
+
+O caso amplia o tema para o **orçamento secreto** federal: dinheiro "coletado via impostos" que, segundo Renan, serviu para "abastecer os sonhos políticos de gente como Arthur Lira" enquanto Alagoas segue entre os piores IDHs do Brasil. Renan promete que seu governo "vai arrebentar com esse esquemão das emendas" (ver [[posicoes/Emendas Parlamentares Condicionadas a Metas]]). Ver [[fontes/2026-08-22 - Eu fui investigar o buraco do Arthur Lira e ele não cheira bem.]].
 
 ## "Efeito Renan Santos" chega à Bahia: MP fecha acordo com 410 municípios contra shows (julho de 2026)
 

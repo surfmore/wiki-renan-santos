@@ -4,8 +4,12 @@ tags:
   - tema
   - política
   - bolsonarismo
-date: 2026-08-06
+date: 2026-08-22
 ---
+
+## Silas Malafaia "protege" Flávio: vale tudo para defender um político vagabundo (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan responde ao pastor **[[pessoas/Silas Malafaia]]**, que defendeu que **[[pessoas/Flávio Bolsonaro]]** não fosse aos debates. Renan afirma que "quando um cara como esse acha que vale tudo para defender um político vagabundo, quer dizer que as coisas já deram tudo errado" — e que Malafaia considera "tudo bem" roubar dinheiro público e enganar seguidores. Para Renan, o pastor representa a parte da cristandade que gera "estigma com outros cristãos" e defende seu candidato "porque tem escândalo de corrupção nas costas". Ver [[fontes/2026-08-22 - RESPOSTA AO SILAS]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## Lula e a família Bolsonaro "nos mesmos escândalos" (agosto de 2026)
 

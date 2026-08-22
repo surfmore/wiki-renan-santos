@@ -6,6 +6,16 @@ tags:
 date: 2026-08-10
 ---
 
+## PM da Paraíba contra as barricadas do crime e governadores "amigos do crime" (agosto de 2026)
+
+Em **21 de agosto de 2026**, Renan comenta o protesto da **Polícia Militar da Paraíba**, que apareceu com uma barricada em chamas e metralhadora apontada para cima diante das barricadas erguidas pelo crime organizado em **João Pessoa** e **Cabedelo**. Ele afirma que a polícia "não consegue trabalhar porque não recebe ordens de cima", recebe pouco salário e que "político vagabundo" não faz o trabalho dela. Renan estende o diagnóstico ao Nordeste: **"as polícias do Nordeste não conseguem trabalhar porque os governadores petistas, lulistas do Nordeste são amigos do crime"** — citando também **Ceará** e **Bahia**.
+
+Renan manda recado de apoio aos policiais: "continuem o bom trabalho... nós vamos chegar ao poder" e, se o governador não quiser atuar contra o crime organizado, **"eu vou intervir no estado, vou meter uma intervenção federal no estado"**. Ele também critica o humorista **Oscar Filho**, que teria chamado a barricada de "só lixo", afirmando que "as pessoas no Brasil ficaram cínicas". Ver [[fontes/2026-08-21 - PM perde paciência e bota fogo em barricadas na Paraíba]] e [[posicoes/Intervenção Federal em Estados com Baixo IDH]].
+
+## Paraíba: resposta ao governador, homicídios acima da média e PT "amigo do crime" (agosto de 2026)
+
+Em **21 de agosto de 2026**, Renan responde ao ataque do governador da Paraíba, **Lucas Ribeiro** (ver [[pessoas/Lucas Ribeiro]]), após demonstrar que João Pessoa e arredores estão tomados pelo crime organizado. Ele cita que a Paraíba tem **28 a 30 homicídios a cada 100 mil habitantes** — "muito mais do que a média nacional" — e que o governo, "continuidade do João Azevedo", reduziu os homicídios "só na margem". Renan afirma que a gestão é **aliada histórica do PT**, "o mesmo PT que não promove políticas de enfrentamento real ao crime organizado, nem é muito favorável ao aumento de penas contra a bandidagem", e promete: **"No meu governo, nós vamos destruir as facções criminosas."** Ele cita a infiltração do crime nas ruas, bairros, polícia e política, as câmeras de facção em Santa Rita e aliados do ex-governador presos em Cabedelo ligados a facções que "determinavam quem podia votar". Ver [[fontes/2026-08-21 - Resposta ao Governador da Paraíba]] e [[eventos/Campanha na Paraíba — Agosto de 2026]].
+
 ## "Morro ou Faria Lima": 90 a 100 mortes por dia, narcoestado e intervenção no Rio (agosto de 2026)
 
 Em **21 de agosto de 2026**, em diálogo com um interlocutor sobre o slogan "prender e matar", Renan afirma que morrem hoje no Brasil **90 a 100 pessoas por dia**, a maior parte meninos negros da periferia — mortos "antes de tudo" pelo **crime organizado**. Sobre o Rio de Janeiro, pergunta "em que instância do Rio de Janeiro não há presença do crime organizado?" e defende que, **"eventualmente, nós vamos precisar fazer uma intervenção no Rio de Janeiro, porque o Brasil está se tornando um narcoestado"**.

@@ -4,13 +4,18 @@ tags:
   - posição
   - regionalismo
   - federalismo
-date: 2026-06-27
+date: 2026-08-21
 fontes:
+  - "2026-08-21 - PM perde paciência e bota fogo em barricadas na Paraíba"
   - "2026-06-27 - Oruam reapareceu!"
   - "2026-01-09 - O Maior Carnaval do Brasil"
 ---
 
 Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países africanos e gastam recursos federais em festas e projetos sem impacto real no desenvolvimento da população.
+
+## Paraíba: intervenção se o governador não combater o crime (agosto de 2026)
+
+Em **21 de agosto de 2026**, em vídeo de apoio ao protesto da **Polícia Militar da Paraíba** contra as barricadas do crime organizado em João Pessoa e Cabedelo, Renan afirma que, ao chegar ao poder, **se o governador não quiser atuar para destruir o crime organizado, ele "vai intervir no estado, vai meter uma intervenção federal no estado"** para "ir para cima desses vagabundos de modo a destruir o crime". A ameaça se aplica aos governadores do Nordeste que, segundo ele, são "amigos do crime" (ver [[temas/Segurança Pública]]). Ver [[fontes/2026-08-21 - PM perde paciência e bota fogo em barricadas na Paraíba]].
 
 ## Rio de Janeiro: intervenção diante do "narcoestado" (agosto de 2026)
 

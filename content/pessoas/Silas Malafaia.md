@@ -4,8 +4,9 @@ tags:
   - pessoa
   - evangélico
   - pastor
-date: 2026-01-15
+date: 2026-08-22
 fontes:
+  - "2026-08-22 - RESPOSTA AO SILAS"
   - "2026-01-15 - SILAS MALAFAIA ATACA DAMARES ALVES"
   - "2026-01-20 - POR QUE NIKOLAS, FLÁVIO BOLSONARO E SILAS MALAFAIA NÃO FALAM SOBRE A IGREJA LAGOINHA"
 ---
@@ -13,6 +14,14 @@ fontes:
 Pastor evangélico de grande influência política no Brasil, líder da Assembleia de Deus Vitória em Cristo. Renan Santos o posiciona como **protetor de aliados religiosos envolvidos no escândalo do INSS e do Banco Master**, criticando seu silêncio sobre a Igreja Lagoinha e seus ataques a quem investiga o caso.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele; quando possível, liga-se à fonte exata. Nenhuma aqui é verificada independentemente por este wiki.
+
+## Defesa de Flávio Bolsonaro e ataques a Renan (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan responde a **Silas Malafaia**, que apareceu "desesperado" para proteger **[[pessoas/Flávio Bolsonaro]]**. No trecho exibido, Malafaia chama Renan de "descontrolado" e defende que Flávio não deveria ir aos debates — argumento que Renan classifica como subordinação do debate à "estratégia eleitoral da família Bolsonaro". Renan ironiza: "fico até preocupado quando um cara tão calmo como você me chama de descontrolado".
+
+Renan critica Malafaia por achar "tudo bem" que aliados sejam investigados: **"Pro Silas roubar dinheiro público tá tudo bem"**, e o acusa de ter "enriquecido, enganado seu seguidor, usado o coração do seguidor para poder ganhar dinheiro". Ele também lembra que Malafaia defendia "todo dia os caras da **Lagoinha** que estavam no mesmo escândalo" do **Banco Master**. Para Renan, é "muito triste quando parte da cristandade no Brasil é liderada por pessoas como ele" — o que gera "estigma com outros cristãos que são pessoas corretas, verdadeiras". Ele conclui que Malafaia é "apenas um cínico e brasileiro" que defende que o candidato não vá ao debate "porque tem escândalo de corrupção nas costas".
+
+Ver [[fontes/2026-08-22 - RESPOSTA AO SILAS]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## Ataque a Damares Alves (janeiro de 2026)
 

@@ -5,8 +5,9 @@ tags:
   - eleições-2026
   - partido-missão
   - debates
-date: 2026-08-10
+date: 2026-08-22
 fontes:
+  - "2026-08-22 - RESPOSTA AO SILAS"
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-15 - Desafio para Flavio e Lula"
@@ -16,6 +17,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## Silas Malafaia defende que Flávio "fuja" de Renan (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan responde ao pastor **[[pessoas/Silas Malafaia]]**, que apareceu defendendo que **[[pessoas/Flávio Bolsonaro]]** não deveria ir aos debates — "desesperado", segundo Renan, para proteger o candidato. Renan rebate a ideia de que o debate seria apenas "estratégia eleitoral" da família Bolsonaro: para ele, o debate é o lugar de trazer "suas ideias, suas propostas" e validá-las com os concorrentes. Ele afirma que Flávio "tem que ir no debate, não tem que ter medo de mim, tem que explicar suas propostas" e as contas com **[[pessoas/Daniel Vorcaro]]**, e que, como está "crescendo nas pesquisas", Flávio "não vai poder fugir para sempre". Ver [[fontes/2026-08-22 - RESPOSTA AO SILAS]].
 
 ## "Tô aguardando esse covarde deixar de fugir": desafio a Lula (agosto de 2026)
 
@@ -43,6 +48,7 @@ Em **31 de julho de 2026**, Renan e Bem Mendes — candidato do Missão ao gover
 
 ## Fontes
 
+- [[fontes/2026-08-22 - RESPOSTA AO SILAS]] — Silas defende que Flávio fuja do debate; Renan exige que Flávio vá e explique as contas com Vorcaro
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — desafio a Lula ao debate; "arrasar nos debates"; "covarde" fugindo
 - [[fontes/2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES]] — anúncio da campanha para incluir os candidatos do Missão nos debates
 - [[fontes/2026-08-10 - Primeira Aparição minha em debate!]] — primeira participação do partido em debate (André Luiz, Maranhão) e barreiras da Rede Bandeirantes

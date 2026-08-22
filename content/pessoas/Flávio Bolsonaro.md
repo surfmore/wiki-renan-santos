@@ -4,8 +4,9 @@ tags:
   - pessoa
   - político
   - direita
-date: 2026-08-06
+date: 2026-08-22
 fontes:
+  - "2026-08-22 - RESPOSTA AO SILAS"
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-16 - Não veja esse vídeo!"
@@ -27,6 +28,12 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Silas Malafaia o "protege" da fuga dos debates (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan responde ao pastor **[[pessoas/Silas Malafaia]]**, que defendeu publicamente que Flávio não deveria ir aos debates — segundo Renan, "desesperado" para proteger "seu Flavinho". Renan ironiza a descrição de si como "descontrolado" e afirma que Flávio "apenas vai ter que responder as minhas perguntas" — "não necessariamente" sobre os "inúmeros escândalos de corrupção" citados por Malafaia.
+
+Renan reafirma que **Flávio "tem que ir no debate", sem ter medo dele**, para "explicar suas propostas" e "explicar porque diabos recebe dinheiro sujo de vagabundo como **[[pessoas/Daniel Vorcaro]]**". Ele diz que está crescendo nas pesquisas e que "o Flávio não vai poder fugir para sempre" — "logo mais ele estará comigo nos debates. E o que você vai ver, Silas, não será bonito". Ver [[fontes/2026-08-22 - RESPOSTA AO SILAS]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## Lançado por Lula como candidato "que perde no segundo turno" (agosto de 2026)
 
