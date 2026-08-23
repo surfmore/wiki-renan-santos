@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-17 - Evento bizarro do Lula"
   - "2026-08-16 - Não veja esse vídeo!"
@@ -47,6 +48,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Resolução do TSE limita as redes sociais da campanha: "a guerra começou" (agosto de 2026)
+
+Em **22 de agosto de 2026**, na véspera do debate da Band, Renan afirma que uma **resolução do TSE** passou a limitar a **recomendação das redes sociais** dos candidatos — o que ele interpreta como forma de "proibir que novos candidatos, novos ingressantes no jogo político consigam participar da disputa", deixando o jogo restrito a "quem tem muito dinheiro e tempo de TV — basicamente PT, PL e Centrão". Ele relata que não ganha mais seguidores e que seus vídeos terão "metade das visualizações", e convoca a militância a **compartilhar tudo no "aviãozinho" (stories)** — "a guerra começou". Renan anuncia que fará um pronunciamento importante e **fechará as redes sociais**. Ver [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## Livro de 460 páginas de propostas e desafio aos demais candidatos (agosto de 2026)
 
@@ -343,6 +348,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — resolução do TSE limita as redes sociais da campanha; convocação da militância; "a guerra começou"
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — livro de 460 páginas de propostas; desafio aos demais candidatos
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — candidatura oficial de Renan pelo partido, número 14; recorde de assinaturas
 - [[fontes/2026-08-09 - Esquerda quer impedir meu primeiro ato de campanha.]] — primeiro ato de campanha no Largo São Francisco; ameaças e mobilização da esquerda

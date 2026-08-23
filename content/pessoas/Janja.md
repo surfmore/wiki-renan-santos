@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-08-07
 fontes:
+  - "2026-08-23 - As decijanjas precisam acabar."
   - "2026-08-19 - Essa é a mensagem que o Discord enviou pra todo mundo ontem"
   - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
@@ -26,6 +27,12 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### "Decijanja": decisão sobre o Discord atribuída a Janja (agosto de 2026)
+
+Em **23 de agosto de 2026**, Renan critica uma decisão que batiza de **"decijanja"** — atribuída a Janja, "que nem cargo público tem". No caso da moça que se matou, ele afirma que a transmissão ocorreu no **Instagram** (Meta), que Janja "inventou uma notícia falsa" de que teria sido no **Discord** e que, "depois dessa notícia falsa", foram "para cima do Discord", que "acatou a decisão" sob pressão. Ele ressalva que não está "aqui para defender o Discord" — "estou aqui para ser justo" — mas sustenta que, ainda que Janja tenha acertado no conteúdo, **ela não tem cargo político para isso**.
+
+Renan afirma ser **a favor da aplicação da lei mais dura possível** para proteger crianças e adolescentes, com o **ECA** e **fiscalização para todo tipo de abuso com crianças na internet**, defendendo que prostituição infantil e pornografia infantil em redes sociais "sejam coibidas" — "isto é uma coisa". Outra coisa, diz, é Janja escolher enfrentar "uma rede social que não tem nada a ver com o caso", com decisão "motivada pela Janja" para derrubar a plataforma. Ele conclui que muitas pessoas e empresas dependem dessas redes e estariam "pagando um preço por conta de uma Janja querendo fazer propaganda em ano eleitoral", e questiona: **"Desde quando a Janja se preocupa com criança?"** — citando um menino morto em latrocínio cujo autor ela não quer ver com pena aumentada. Ver [[fontes/2026-08-23 - As decijanjas precisam acabar.]].
 
 ### Decisão contra o Discord e promessa de abrir o cartão corporativo do Planalto (agosto de 2026)
 
@@ -96,6 +103,7 @@ Renan usa o caso de Janja para argumentar que o Norte e o Nordeste são utilizad
 
 ## Fontes
 
+- [[fontes/2026-08-23 - As decijanjas precisam acabar.]] — "decijanja" sobre o Discord; Janja sem cargo público; lei dura para abuso infantil na internet
 - [[fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA]] — Renan rebate acusação de misoginia contra quem critica gastos de Janja; denuncia uso de discurso vitimista
 - [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] — promessa de prisão; TCU e superfaturamento
 - [[fontes/2026-02-04 - LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER]] — OEI e CPI como motivo do silêncio de Lula

@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-22 - RESPOSTA AO SILAS"
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
@@ -28,6 +29,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Recusa do debate da Band e "fraldas geriátricas" (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] e Flávio **"não querem e não vão participar do debate"** da **Band**. Ele ironiza trazendo **"fraldas geriátricas"** para os "bundões covardes" e afirma que quem segue Flávio é "apenas um panaca, um boneco" usado para "ficar assistindo as coisas acontecerem". Renan lista os escândalos que ligaria a Flávio — além do **Banco Master** e do **INSS**, o **petrolão** e a operação **Furna da Onça** — e diz que estará no debate **"de cara limpa"**. Ver [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## Silas Malafaia o "protege" da fuga dos debates (agosto de 2026)
 
@@ -583,6 +588,7 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — recusa do debate da Band; "fraldas geriátricas"; escândalos em comum com Lula
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — lançado por Lula como candidato que perde no segundo turno; eleição "de cartas marcadas"
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — família Bolsonaro "nos mesmos escândalos" (Banco Master e NSS); passado ilibado e livro de 460 páginas
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção da família Bolsonaro"; Renan se diz o único que pode atacá-la

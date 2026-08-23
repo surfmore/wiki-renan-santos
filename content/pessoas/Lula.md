@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-23 - Essa mulher foi roubada."
+  - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
@@ -62,6 +64,14 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Aposentados "roubados" e o escândalo do INSS (agosto de 2026)
+
+Em **23 de agosto de 2026**, gravando em **Maceió (AL)**, Renan usa a história da aposentada **dona Socorro** — que não recebe o benefício do INSS ("só tá em análise") — para afirmar que **"o Brasil real tá pobre, o Brasil real tá tomado pelo crime, o Brasil real tá favelizado. E no Brasil real os aposentados estão sendo roubados por ele e pela turma dele."** Ele pergunta se **o irmão de Lula e o filho dele** estão "ambos envolvidos nesse escândalo que tá tirando dinheiro da aposentadoria dos outros" e promete, como candidato nº 14, "acabar com esses escândalos de corrupção" do INSS e do Banco Master. Ver [[fontes/2026-08-23 - Essa mulher foi roubada.]] e [[eventos/Escândalo do INSS]].
+
+## Recusa do debate da Band e "fraldas geriátricas" (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan afirma que Lula e [[pessoas/Flávio Bolsonaro]] **"não querem e não vão participar do debate"** da **Band** — mesmo convocando o eleitorado a "brigar entre si". Ele ironiza trazendo **"fraldas geriátricas"** para os "bundões covardes" e afirma que quem segue Lula ou Flávio é "apenas um panaca, um boneco" usado para "ficar assistindo as coisas acontecerem". Renan diz que estará no debate **"de cara limpa"** — "eu não tenho nada a me preocupar e eu tenho orgulho da minha história" — e que antecipará as perguntas que Lula e Flávio "não querem responder". Ver [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## "Ninguém liga para o Lulinha": indiferença do eleitorado e proteção ao PT da Bahia (agosto de 2026)
 
@@ -503,6 +513,8 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Essa mulher foi roubada.]] — aposentados "roubados" pelo Lula; irmão e filho apontados no INSS; "Brasil real tá pobre"
+- [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula recusa o debate da Band; "fraldas geriátricas"; eleitores como "panacas"
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — risada cínica da picanha; eleição "de cartas marcadas"; Lula lançou Flávio; desafio ao debate
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — eleitor que ainda acredita em Lula "nos mesmos escândalos" (Banco Master e NSS); desafio do livro de 460 páginas
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — Renan diz ser o único que pode atacar a corrupção do Lula; recorda que o MBL "ajudou a prender" o presidente

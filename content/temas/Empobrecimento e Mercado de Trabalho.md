@@ -8,6 +8,10 @@ tags:
 date: 2026-08-06
 ---
 
+## "O Brasil real tá pobre, tomado pelo crime e favelizado": aposentados roubados (agosto de 2026)
+
+Em **23 de agosto de 2026**, gravando em **Maceió (AL)**, Renan apresenta a história da aposentada **dona Socorro**, que não recebe o benefício do **INSS** ("análise não acaba nunca"), para afirmar: **"O Brasil real tá pobre, o Brasil real tá tomado pelo crime, o Brasil real tá favelizado. E no Brasil real os aposentados estão sendo roubados"** por Lula e sua turma. Ele contrasta a miséria com a capacidade de organização comunitária — Socorro cuida de cachorros abandonados com a amiga Sônia — e, como candidato nº 14, promete "acabar com esses escândalos de corrupção", "ir para cima de toda a roubalheira que rolou no INSS e no caso do Banco Master". Ver [[fontes/2026-08-23 - Essa mulher foi roubada.]] e [[eventos/Escândalo do INSS]].
+
 ## Brasileiros mais pobres e a promessa da picanha (agosto de 2026)
 
 Em **20 de agosto de 2026**, Renan afirma que "como nós ficamos mais pobres ao longo dos últimos anos", o brasileiro "não tá comendo picanha". Ele critica a promessa de [[pessoas/Lula]] de que "vocês vão voltar a comer picanha" como uma mentira eleitoreira, numa eleição que chama de "de cartas marcadas", e afirma que "a economia tá uma desgraça". Ver [[fontes/2026-08-20 - Você vai voltar a comer picanha]].
@@ -345,6 +349,7 @@ Ver [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]].
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Essa mulher foi roubada.]] — "o Brasil real tá pobre"; aposentados roubados; escândalos do INSS e Banco Master
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — brasileiros mais pobres; promessa da picanha como mentira eleitoreira
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — "o Brasil é roubado pelos políticos e pelos ladrões"; reformas para crescer
 - [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — dívida explodindo; futuro penhorado; contra o assistencialismo eleitoreiro

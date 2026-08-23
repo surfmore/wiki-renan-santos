@@ -7,6 +7,8 @@ tags:
   - debates
 date: 2026-08-22
 fontes:
+  - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
+  - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
   - "2026-08-22 - RESPOSTA AO SILAS"
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-17 - Lula fugiu do debate!"
@@ -17,6 +19,12 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## Lula e Flávio recusam o debate da Band; Renan vai "de cara limpa" (agosto de 2026)
+
+Em **22 de agosto de 2026**, na véspera do **debate da Band**, Renan afirma que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] **"não querem e não vão participar do debate"** — mesmo convocando o eleitorado a "brigar entre si". Ele ironiza trazendo **"fraldas geriátricas"** para os dois, que classifica como "bundões covardes", e diz que antecipará publicamente as perguntas que fará no debate. Renan confirma que estará no debate **"de cara limpa"**: "eu não tenho nada a me preocupar e eu tenho orgulho da minha história". Ver [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] e [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]].
+
+No mesmo dia, em vídeo gravado na Band, Renan afirma que o recado para Lula e Flávio "está dado" e que, independentemente de quem compareça, fará as perguntas que eles "não querem responder". Ele também relata que uma **resolução do TSE** passou a limitar a recomendação das redes sociais dos candidatos, o que, segundo ele, dificulta o alcance de quem não tem "dinheiro e tempo de TV" (ver [[temas/Partido Missão]]).
 
 ## Silas Malafaia defende que Flávio "fuja" de Renan (agosto de 2026)
 
@@ -48,6 +56,8 @@ Em **31 de julho de 2026**, Renan e Bem Mendes — candidato do Missão ao gover
 
 ## Fontes
 
+- [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula e Flávio recusam o debate da Band; Renan vai "de cara limpa"; fraldas geriátricas
+- [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — véspera do debate da Band; recado para Lula e Flávio; resolução do TSE sobre redes sociais
 - [[fontes/2026-08-22 - RESPOSTA AO SILAS]] — Silas defende que Flávio fuja do debate; Renan exige que Flávio vá e explique as contas com Vorcaro
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — desafio a Lula ao debate; "arrasar nos debates"; "covarde" fugindo
 - [[fontes/2026-08-10 - Temos que colocar todos os NOSSOS GOVERNADORES NOS DEBATES]] — anúncio da campanha para incluir os candidatos do Missão nos debates

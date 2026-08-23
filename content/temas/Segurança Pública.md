@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## PCC tenta impedir evento de campanha; Renan resiste e lança marco de desfavelização (agosto de 2026)
+
+Em **23 de agosto de 2026**, Renan relata que um evento de campanha **foi proibido e recebeu um "salve" do PCC** dizendo que "nós não poderíamos entrar" — mas o evento foi realizado mesmo assim. Ele justifica: **"Se nós não tivermos coragem de nos arriscarmos aqui para falar a mensagem que nós temos que falar, nós não vamos fazer nada como governo."** Descreve **São Paulo como "um lugar altamente injusto"**: a escola particular mais cara do Brasil (mensalidade acima de R$ 10 mil), um dos shoppings mais caros do país (bolsas e sapatos acima de R$ 30 mil) e, no meio, uma favela com presença do PCC, usada "como estoque e entreposto para venda de drogas", sem serviços públicos básicos — onde "as pessoas não são tratadas como gente". Ele conecta o enfrentamento ao crime à [[posicoes/Desfavelização do Brasil|desfavelização]] e anuncia o **"Nuremberg das favelas"**. Ver [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]].
+
 ## PM da Paraíba contra as barricadas do crime e governadores "amigos do crime" (agosto de 2026)
 
 Em **21 de agosto de 2026**, Renan comenta o protesto da **Polícia Militar da Paraíba**, que apareceu com uma barricada em chamas e metralhadora apontada para cima diante das barricadas erguidas pelo crime organizado em **João Pessoa** e **Cabedelo**. Ele afirma que a polícia "não consegue trabalhar porque não recebe ordens de cima", recebe pouco salário e que "político vagabundo" não faz o trabalho dela. Renan estende o diagnóstico ao Nordeste: **"as polícias do Nordeste não conseguem trabalhar porque os governadores petistas, lulistas do Nordeste são amigos do crime"** — citando também **Ceará** e **Bahia**.
@@ -1207,6 +1211,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — "salve" do PCC tentando impedir evento; coragem de enfrentar o crime; marco de desfavelização
 - [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] — destruição de câmeras de facção; monitoramento territorial; reocupação e direito penal do inimigo
 - [[fontes/2026-08-20 - Vídeos completos logo logo!]] — "onde há uma facção, haverá uma operação"; parceria federal-estados; remoção de entulho e câmeras de facção na Paraíba
 - [[fontes/2026-08-16 - Já imaginaram]] — líderes do PCC e do Comando Vermelho fugindo; destino de prisão ou morte

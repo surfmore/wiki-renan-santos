@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-08-22
 fontes:
+  - "2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim."
   - "2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl"
   - "2026-08-20 - Eu destruí uma barricada do Comando Vermelho!"
   - "2026-08-16 - Por que ninguém antes"
@@ -24,6 +25,12 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Carta de compromisso com os moradores e o "Nuremberg das favelas" (agosto de 2026)
+
+Em **23 de agosto de 2026**, Renan relata que um evento de campanha **foi proibido e recebeu um "salve" do PCC** dizendo que "nós não poderíamos entrar" — mas o evento foi realizado mesmo assim, com a justificativa de que, se não houvesse coragem de se arriscar para falar a mensagem, "nós não vamos fazer nada como governo". No evento, lançado o projeto do marco nacional de desfavelização, Renan lê a **carta de compromisso** assinada com os moradores (representados por **Neusa**), com cinco compromissos: **(1)** desfavelização como **programa central de governo**, com metas, "orçamento milionário" e marco legal nacional — gastar **pelo menos R$ 100 bilhões por ano** em programas nacionais; **(2)** "bairro completo" — rua com calçada, escola, água e esgoto; **(3)** "escritura na mão" — reforma e reconstrução das moradias precárias e **título de propriedade registrado em cartório** para cada família; **(4)** "ninguém sai do seu lugar" — sem remoção, com o imóvel valorizando e podendo ser alugado ou usado em Airbnb; **(5)** "polícia presente, segurança pública, escolas cívico-militares e serviços essenciais" no bairro desfavelizado.
+
+Renan anuncia ainda o **"Nuremberg das favelas"**: à semelhança dos julgamentos do pós-Segunda Guerra, um processo para que os crimes cometidos pelos bandidos que controlavam os territórios com impunidade sejam julgados. Ele afirma que a carta assinada é "um compromisso de governo": **"se eu ganhar a eleição e não cumprir, pode me cobrar, me dê porrada"** — e que desfavelizar "é obrigação de qualquer presidente que se preze", portanto "obrigação do Partido Missão e obrigação de Renan Santos". Ver [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]].
 
 ## "Marco nacional de desfavelização" apresentado no Mundaú (agosto de 2026)
 
@@ -336,6 +343,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — carta de compromisso com moradores; cinco compromissos; R$ 100 bi/ano; "Nuremberg das favelas"
 - [[fontes/2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl]] — "marco nacional de desfavelização" no Mundaú (Maceió); legislação que proíbe novas invasões e define modelos de reocupação
 - [[fontes/2026-06-25 - Resposta para a mulher do Boulos]] — Renan responde à esposa de Boulos (MTST); esclarece "passar uma régua" e acusa movimentos de moradia de máfia com fraudes no Minha Casa, Minha Vida
 - [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Jurunas (Belém); R$ 4 bi da COP vs. R$ 3 bi para saneamento; prefeitura age só quando exposta; Comando Vermelho controlando a área

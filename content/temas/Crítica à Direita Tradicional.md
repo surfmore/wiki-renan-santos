@@ -7,6 +7,10 @@ tags:
 date: 2026-08-22
 ---
 
+## Lula e Flávio "panacas" que fogem do debate; "fraldas geriátricas" (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] são "duas lideranças que não têm a capacidade de representar aqueles que eles dizem liderar" — e que **"não querem e não vão participar do debate"** (da Band), mesmo convocando o eleitorado a "brigar entre si". Ele ironiza trazendo **"fraldas geriátricas"** para os "bundões covardes" e afirma que quem segue Lula ou Flávio é "apenas um panaca, um boneco" utilizado para "ficar assistindo as coisas acontecerem". Renan lista os escândalos que ligaria a ambos — **Banco Master**, **INSS** e **petrolão** (com a Lava-Jato pegando Lula) e a operação **Furna da Onça** para Flávio — e diz que estará no debate "de cara limpa". Ver [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
 ## Silas Malafaia "protege" Flávio: vale tudo para defender um político vagabundo (agosto de 2026)
 
 Em **22 de agosto de 2026**, Renan responde ao pastor **[[pessoas/Silas Malafaia]]**, que defendeu que **[[pessoas/Flávio Bolsonaro]]** não fosse aos debates. Renan afirma que "quando um cara como esse acha que vale tudo para defender um político vagabundo, quer dizer que as coisas já deram tudo errado" — e que Malafaia considera "tudo bem" roubar dinheiro público e enganar seguidores. Para Renan, o pastor representa a parte da cristandade que gera "estigma com outros cristãos" e defende seu candidato "porque tem escândalo de corrupção nas costas". Ver [[fontes/2026-08-22 - RESPOSTA AO SILAS]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
@@ -695,6 +699,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula e Flávio "panacas" que fogem do debate; fraldas geriátricas; escândalos em comum
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — Lula e a família Bolsonaro "nos mesmos escândalos" (Banco Master e NSS); passado ilibado e livro de 460 páginas
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção da família Bolsonaro"; Renan se diz o único capaz de atacá-la
 - [[fontes/2026-08-04 - Eles estão com medo de vir pro debate.]] — Lula e Flávio como "casuístas" que fogem dos debates; desafio ao confronto de ideias

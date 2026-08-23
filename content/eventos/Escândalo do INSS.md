@@ -8,6 +8,7 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-08-23 - Essa mulher foi roubada."
   - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
@@ -20,6 +21,10 @@ fontes:
 # Escândalo do INSS
 
 Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## Aposentada sem receber em Maceió: o "lado desumano" do esquema (agosto de 2026)
+
+Em **23 de agosto de 2026**, gravando em **Maceió (AL)**, Renan apresenta a história da **dona Socorro**, aposentada que diz ter sido "roubada pelo Lula": tirou dinheiro da própria aposentadoria do INSS para comprar ração e ainda não recebeu nada — "só tá em análise. Análise não acaba nunca". Socorro cuida de cachorros abandonados no bairro com a amiga **Sônia**, gastando com os animais o dinheiro "que ela tinha de direito". Renan usa o caso para ilustrar "o lado desumano de escândalos como do INSS" e pergunta se **o irmão de Lula e o filho dele** estão "ambos envolvidos nesse escândalo que tá tirando dinheiro da aposentadoria dos outros". Ele conclui: "no Brasil real os aposentados estão sendo roubados por ele e pela turma dele". Ver [[fontes/2026-08-23 - Essa mulher foi roubada.]] e [[pessoas/Lula]]. *Nota: neste vídeo há trechos com interlocutora (>>) — a fala da dona Socorro não é atribuída a Renan.*
 
 ## "Ninguém liga para o Lulinha": a indiferença diante do esquema (agosto de 2026)
 
@@ -62,6 +67,7 @@ Ver [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]] e [[eventos/Escâ
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Essa mulher foi roubada.]] — aposentada de Maceió sem receber; irmão e filho de Lula apontados no esquema
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — Lulinha envolvido no escândalo do "NSS"; "mesmo esquema, mesmo golpe"
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — escândalo do "NSS" como elo entre Lula e a família Bolsonaro
 - [[fontes/2026-08-11 - Vazou as primeiras imagens do surubão dos políticos.]] — análise da foto da festa; conexões entre petistas e bolsonaristas

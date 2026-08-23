@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-04 - Minha posição em relação ao STF"
   - "2026-07-22 - Acabou para Flavio Bolsonaro"
@@ -16,6 +17,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## Banco Master entre os "escândalos em comum" de Lula e Flávio (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan lista o **Banco Master** — ao lado do **INSS** e do **petrolão** (com a Lava-Jato pegando [[pessoas/Lula]]) e da operação **Furna da Onça** ([[pessoas/Flávio Bolsonaro]]) — como escândalo que une os dois candidatos, que segundo ele "não querem e não vão participar do debate" da Band. Ele afirma que Lula e Flávio estariam "envolvidos nos mesmos escândalos de corrupção" e que o eleitor que os segue é "apenas um panaca". Ver [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]].
 
 ## "O escândalo começou com crédito no PT da Bahia": Renan aponta Lula como receptor (agosto de 2026)
 
@@ -498,6 +503,7 @@ O caso reforça a tese de Renan de que o escândalo envolve tanto PT quanto bols
 
 ## Fontes
 
+- [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Banco Master entre os escândalos comuns a Lula e Flávio; recusa do debate da Band
 - [[fontes/2026-01-21 - URGENTE - RESORT DO TOFFOLI TINHA ATÉ CASSINO]]
 - [[fontes/2026-01-22 - BANCO MASTER COM MEDO DA MANIFESTAÇÃO DE HOJE]]
 - [[fontes/2026-01-22 - MANIFESTAÇÃO PELO IMPEACHMENT DO DIAS TOFFOLI E PRISÃO DO DANIEL VORCARO]]

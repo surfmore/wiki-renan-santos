@@ -5,6 +5,8 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-23 - As decijanjas precisam acabar."
+  - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
   - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
   - "2026-08-19 - JORNALISTA ME PEGOU!!!"
   - "2026-08-19 - Essa é a mensagem que o Discord enviou pra todo mundo ontem"
@@ -24,6 +26,14 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## "Decijanja": decisão sobre o Discord atribuída a Janja (agosto de 2026)
+
+Em **23 de agosto de 2026**, Renan critica a decisão que batiza de **"decijanja"** — atribuída a [[pessoas/Janja]], "que nem cargo público tem" — sobre o caso da moça que se matou: segundo ele, a transmissão ocorreu no **Instagram** (Meta), Janja teria "inventado uma notícia falsa" de que foi no **Discord** e o Discord "acatou a decisão" sob pressão. Renan ressalva que "não está aqui para defender o Discord" e que é a favor da **lei mais dura possível** (com o **ECA**) contra o abuso de crianças na internet — prostituição e pornografia infantil "devem ser coibidas" — mas que é outra coisa Janja escolher "enfrentar uma rede social que não tem nada a ver com o caso". Ver [[fontes/2026-08-23 - As decijanjas precisam acabar.]].
+
+## TSE limita recomendação das redes sociais: "jogo restrito a quem tem dinheiro e TV" (agosto de 2026)
+
+Em **22 de agosto de 2026**, Renan afirma que uma **resolução do TSE** faz com que, em algum momento da campanha, as redes sociais dos candidatos **parem de ser recomendadas** pelas plataformas. Ele interpreta a regra como "uma maneira de proibir que novos candidatos... consigam participar da disputa", deixando o jogo "restrito apenas a quem tem muito dinheiro e tempo de TV — basicamente PT, PL e Centrão". Renan relata que não ganha mais seguidores, que seus vídeos terão metade das visualizações e que as recomendações de Zema, Flávio, Caiado e Lula já caíram — mas que esses têm TV e "centenas de milhões de reais". Ele convoca o eleitorado a compartilhar os vídeos e promete um pronunciamento ao fechar as redes sociais. Ver [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]].
 
 ## "Internet livre pras pessoas e punição dura para vagabundo" (agosto de 2026)
 
@@ -303,6 +313,8 @@ Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 �
 
 ## Fontes
 
+- [[fontes/2026-08-23 - As decijanjas precisam acabar.]] — decisão sobre o Discord atribuída a Janja; lei dura para abuso infantil na internet
+- [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — resolução do TSE limita recomendação das redes sociais dos candidatos
 - [[fontes/2026-07-16 - Vou retirar minha pré candidatura]] — Renan critica sistema de pesquisas como "jogo de cartas marcadas"; questiona crescimento de Caiado
 - [[fontes/2026-07-04 - Virgínia fez você perder dinheiro]] — contraste entre influenciadores digitais (Virgínia) e jornalismo sério (Malu Gaspar)
 - [[fontes/2026-06-09 - Jornalista da Globo News está aterrorizada com meu crescimento.]] — Resposta a Helane Cataned; defesa da comunicação direta; outsider vs. imprensa tradicional
