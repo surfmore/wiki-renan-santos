@@ -24,6 +24,10 @@ fontes:
 
 **Quem é:** Governador de Minas Gerais (Novo), pré-candidato à presidência da República em 2026. Empresário do setor automotivo (Grupo Zema), eleito governador de MG em 2018 e reeleito em 2022.
 
+## Ausência no debate da Band criticada por Renan (agosto de 2026)
+
+Em **23 de agosto de 2026**, no debate presidencial da **Band**, Renan critica a ausência de Zema: "Não entendi porque o Zema não veio, tá? Negócio estranho para caramba. Eu acho isso um desrespeito gigantesco." Ver [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]].
+
 ## Citado na condição de Lula para o debate (agosto de 2026)
 
 Em **17 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] avisou que "só vai no debate se tirarem o Renan ou Zema" — tratando o governador como um dos adversários que Lula quer excluir dos debates. Ver [[fontes/2026-08-17 - Lula fugiu do debate!]].

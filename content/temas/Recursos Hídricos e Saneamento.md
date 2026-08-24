@@ -18,6 +18,12 @@ fontes:
 
 Renan Santos recorre ao paradoxo do **Brasil como potência hídrica mundial** que não consegue levar água potável e saneamento básico à sua própria população para criticar a gestão política dos recursos naturais e a perpetuação da desigualdade por oligarquias regionais.
 
+## Vergel do Lago (Maceió): Alagoas diminuindo a cobertura de esgoto (agosto de 2026)
+
+Em **23 de agosto de 2026**, Renan grava do **Vergel do Lago**, bairro de Maceió, para responder ao desafio de [[pessoas/Arthur Lira]] sobre Alagoas. Ele documenta o córrego que "vive alagando", a ponte destruída "inclusive pela própria prefeitura", o abandono de lixo, a urbanização precária e a falta de saneamento básico.
+
+Renan afirma que Alagoas **diminuiu sua cobertura de esgoto nos últimos anos** — "é isso que você tá ouvindo" — apesar de ser, proporcionalmente, um dos estados que mais recebe dinheiro das **emendas do orçamento secreto**, recursos que classifica como "em grande medida roubados" e que "nada se reverte em coisas boas para as pessoas". Ele critica o fato de obras de saneamento não serem privilegiadas porque "ficam debaixo da terra" e, portanto, não geram visibilidade política. O caso reforça sua proposta de **lei de responsabilidade gerencial** com metas de saneamento (ver [[posicoes/Emendas Parlamentares Condicionadas a Metas]]). Ver [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]].
+
 ## Jurunas (Belém): esgoto a céu aberto na capital da COP30 (junho de 2026)
 
 Em **21 de junho de 2026**, Renan visita a **favela do Jurunas**, em Belém (PA), e documenta esgoto e córrego a céu aberto, alagamentos constantes e lixo acumulado nas ruas. Ele lembra que Belém é a **capital brasileira com o menor índice de saneamento básico** e que mais da metade da população vive em favelas — contradição exposta pela [[eventos/COP30 — Legado em Belém|COP30]], realizada na cidade em novembro de 2025.
@@ -70,6 +76,7 @@ Ver [[fontes/2026-02-02 - A CIDADE DO NORDESTE QUE DERROTOU O CRIME]] e [[temas/
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]] — Vergel do Lago (Maceió); queda da cobertura de esgoto em Alagoas; emendas secretas sem reversão em saneamento
 - [[fontes/2026-06-21 - Eu fui na favela de Jurunas, em Belém]] — Jurunas (Belém); esgoto a céu aberto; R$ 4 bi da COP vs. R$ 3 bi para saneamento; capital com pior saneamento do Brasil
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); pior IDH do Brasil; palafita sem água nem esgoto; oito filhos com diarreia e verminose; crítica à Universidade Federal do Marajó; lei de responsabilidade gerencial
 - [[fontes/2026-06-16 - Eu fui no maior aquífero do mundo]] — Alter do Chão (PA); maior aquífero do mundo; paradoxo de Santarém; taxação de poços artesianos; crítica aos Barbalhos

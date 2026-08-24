@@ -20,6 +20,12 @@ fontes:
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
 
+## No debate da Band, Renan ironiza Lula e Flávio com "fraldas" (agosto de 2026)
+
+Em **23 de agosto de 2026**, gravando no debate presidencial da **Band**, Renan mostra duas fraldas — a **"fralda do Flávio"** e a **"fralda do Lula"** — ironizando a ausência de [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]]. Ele os chama de "dois canalhas que ficam botando seus seguidores para brigar em rede social, mas na hora de vir aqui apresentar proposta não tem coragem", e afirma que apresentou um **livro de propostas de 460 páginas** e está pronto para debater "no mais alto nível".
+
+Renan parabeniza [[pessoas/Ronaldo Caiado]] e outro candidato que compareceram, e critica a ausência de [[pessoas/Romeu Zema]] — "Negócio estranho para caramba. Eu acho isso um desrespeito gigantesco." Ele encerra parabenizando **a Band por ter mantido o debate**. Ver [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]].
+
 ## Lula e Flávio recusam o debate da Band; Renan vai "de cara limpa" (agosto de 2026)
 
 Em **22 de agosto de 2026**, na véspera do **debate da Band**, Renan afirma que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] **"não querem e não vão participar do debate"** — mesmo convocando o eleitorado a "brigar entre si". Ele ironiza trazendo **"fraldas geriátricas"** para os dois, que classifica como "bundões covardes", e diz que antecipará publicamente as perguntas que fará no debate. Renan confirma que estará no debate **"de cara limpa"**: "eu não tenho nada a me preocupar e eu tenho orgulho da minha história". Ver [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] e [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]].
@@ -56,6 +62,7 @@ Em **31 de julho de 2026**, Renan e Bem Mendes — candidato do Missão ao gover
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — no debate da Band, Renan ironiza Lula e Flávio com fraldas; elogia a Band e Caiado; critica a ausência de Zema
 - [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula e Flávio recusam o debate da Band; Renan vai "de cara limpa"; fraldas geriátricas
 - [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — véspera do debate da Band; recado para Lula e Flávio; resolução do TSE sobre redes sociais
 - [[fontes/2026-08-22 - RESPOSTA AO SILAS]] — Silas defende que Flávio fuja do debate; Renan exige que Flávio vá e explique as contas com Vorcaro

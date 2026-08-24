@@ -9,6 +9,12 @@ date: 2026-08-22
 
 Proposta defendida por Renan Santos de que **emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho** em áreas-chave de políticas públicas.
 
+## "Lei de responsabilidade gerencial": inelegibilidade de 8 anos e desafio a Lira (agosto de 2026)
+
+Em **23 de agosto de 2026**, em resposta a um novo desafio de [[pessoas/Arthur Lira]] sobre o estado de Alagoas, Renan reafirma, do **Vergel do Lago** (Maceió), a **lei de responsabilidade gerencial** como mecanismo para "alterar toda a dinâmica política dos municípios, estados do Brasil". A regra: **político que não cumpre metas básicas ligadas a saneamento, segurança, habitação e educação fica 8 anos inelegível**. Ele lança o desafio a Lira: "Gosta dessa ideia, Artur Lira?"
+
+O vídeo amplia o escopo da proposta para **habitação** (antes listada como segurança, saúde, educação e infraestrutura/saneamento) e conecta a lei ao diagnóstico de Alagoas — estado que, segundo Renan, diminuiu a cobertura de esgoto apesar de ser um dos que mais recebe emendas do orçamento secreto, "dinheiro em grande medida roubado" que "nada se reverte em coisas boas para as pessoas". Ver [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]].
+
 ## "Arrebentar com o esquemão das emendas": Arthur Lira e a vossoroca de Rio Largo (agosto de 2026)
 
 Em **22 de agosto de 2026**, Renan usa o caso de **Rio Largo (AL)** — município que, segundo ele, é o que **mais recebeu emenda do orçamento secreto** no estado, com emendas identificadas de [[pessoas/Arthur Lira]] — para reforçar o compromisso de acabar com o esquema. Ele afirma que as emendas financiaram **obras de macrodrenagem mal feitas** que geraram uma **vossoroca** (buraco gigante de assoreamento) que "vai invadir a cidade", com moradores que "vão precisar ser deslocados". Para Renan, o caso é "só mais um dentre os milhares casos de emendas mal tocadas, de dinheiro que provavelmente foi desviado, de obra que não teve utilidade".
@@ -107,6 +113,7 @@ Ver [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]].
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]] — lei de responsabilidade gerencial; inelegibilidade de 8 anos; desafio a Lira no Vergel do Lago
 - [[fontes/2026-05-21 - RENAN AO VIVO - MARCHA DOS PREFEITOS EM BRASÍLIA]] — proposta de inversão deputado/prefeito; alteração do Art. 167 §7 da CF
 - [[fontes/2026-05-21 - Quem paga a banda escolhe a música!]] — "quem paga a banda escolhe a música"
 - [[fontes/2026-05-07 - Minha resposta ao Wesley Safadão]]

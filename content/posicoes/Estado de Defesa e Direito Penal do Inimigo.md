@@ -6,6 +6,12 @@ tags:
 date: 2026-08-07
 ---
 
+## Três propostas no debate: estado de defesa, GLO e super presídios (agosto de 2026)
+
+Em **24 de agosto de 2026**, em trecho de debate, Renan apresenta três propostas de segurança: **(1)** declarar **estado de defesa** e colocar em **GLO (Garantia da Lei e da Ordem)** as regiões tomadas pelo crime organizado — permitindo que polícias estaduais e a Polícia Federal atuem "para destruir, para eliminar o crime organizado" ("passar a rapa nesses caras"); **(2)** construir **super presídios** com **300 a 500 mil vagas**, sem isolamento de facção — "Facciado vai estar todo mundo junto porque nós vamos eliminar as facções"; **(3)** **integração entre estados** com ameaça de intervenção federal para quem não combater o crime.
+
+A fala detalha em contexto de debate a proposta de estado de defesa territorial já apresentada em agosto (ver seção "Estado de defesa focado em territórios do crime" abaixo) e amplia com o mecanismo da **GLO** e os super presídios. Ver [[fontes/2026-08-24 - Estado de sítio e GLO em áreas dominadas pelo crime organizado]] e [[temas/Segurança Pública]].
+
 ## Punições baixas e tipo penal de pertencer à facção: "Morro ou Faria Lima" (agosto de 2026)
 
 Em **21 de agosto de 2026**, em diálogo sobre o slogan "prender e matar", Renan explica que o direito penal brasileiro tem **punições muito baixas** e que é preciso um tipo penal em que **o ato de pertencer à facção aumente as punições** — fazendo com que o direito "funcione de maneira diferente" para os membros do crime organizado. Ele reafirma que, se um agente envolvido com o crime responder à polícia **armado**, o policial "vai ter que atirar de volta"; se **se entregar**, "ninguém vai matar ele" — mas o traficante, segundo Renan, não quer se entregar pacificamente.
@@ -183,6 +189,7 @@ Ver [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]].
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Estado de sítio e GLO em áreas dominadas pelo crime organizado]] — estado de defesa + GLO em áreas dominadas pelo crime; super presídios com 300-500 mil vagas
 - [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] — direito penal do inimigo a favor da polícia e do Estado; reocupação territorial
 - [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF; "prevaricação é não agir"
 - [[fontes/2026-07-20 - Como vai funcionar o direito penal do inimigo]] — explicação da mecânica: investigação prévia, qualificação legal, delimitação por lei

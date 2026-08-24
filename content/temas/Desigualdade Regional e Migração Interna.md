@@ -26,6 +26,12 @@ fontes:
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
 
+## Alagoas: analfabetismo e emendas que não se revertem em desenvolvimento (agosto de 2026)
+
+Em **23 de agosto de 2026**, respondendo a um desafio de [[pessoas/Arthur Lira]], Renan grava do **Vergel do Lago** (Maceió) para reforçar o diagnóstico de Alagoas como estado abandonado apesar dos recursos federais. Ele afirma que Alagoas **disputa com o Piauí o lugar com o maior número de analfabetos do Brasil** e que o estado **diminuiu sua cobertura de esgoto** nos últimos anos — mesmo sendo, proporcionalmente, um dos que mais recebe dinheiro de **emendas do orçamento secreto**, recursos que "em grande medida" são "roubados" e não se revertem "em coisas boas para as pessoas".
+
+Renan diz não ter nada contra Lira, Calheiros ou Collor "enquanto pessoas", mas sim "contra os crimes que eles cometem", e propõe a **lei de responsabilidade gerencial** com metas de saneamento, segurança, habitação e educação e inelegibilidade de 8 anos (ver [[posicoes/Emendas Parlamentares Condicionadas a Metas]]). Ver [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]].
+
 ## "O Nordeste é solução": vaquejada como indústria contra o "coitadismo" (agosto de 2026)
 
 Em **21 de agosto de 2026**, Renan afirma que **"o Nordeste é solução para boa parte dos problemas brasileiros"** e que basta parar de ver a região "como coitadismo". Ele propõe a criação do **circuito nacional da vaquejada** com leis de incentivo, para transformar a cultura vaqueira em uma indústria de entretenimento que gere desenvolvimento econômico "pras regiões mais humildes do Nordeste" — incluindo investimento na carreira do vaqueiro. Renan critica o uso eleitoreiro de festas por **prefeitos corruptos** que usam emendas públicas. Ver [[fontes/2026-08-21 - Eu serei o presidente da vaquejada]] e [[posicoes/Circuito Nacional da Vaquejada]].
@@ -516,6 +522,7 @@ Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo m
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]] — Alagoas disputando com o Piauí o maior analfabetismo; queda da cobertura de esgoto; emendas secretas sem resultado
 - [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]] — Ecofazenda sustentável no Marajó como exemplo positivo de desenvolvimento regional
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); pior IDH do Brasil; palafita sem saneamento; crítica à Universidade Federal do Marajó
 - [[fontes/2026-05-25 - O PT destruiu a Bahia]] — Bahia com maior número de pessoas no Bolsa Família; indicadores de Salvador

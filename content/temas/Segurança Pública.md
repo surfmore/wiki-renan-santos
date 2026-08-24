@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## No debate: estado de defesa + GLO, super presídios e intervenção em estados que não combatem o crime (agosto de 2026)
+
+Em **24 de agosto de 2026**, em trecho de debate, Renan apresenta três propostas de segurança: **(1)** declarar **estado de defesa** e colocar em **GLO** as regiões tomadas pelo crime organizado — "passar a rapa nesses caras" — com polícias estaduais e Polícia Federal atuando "para destruir, para eliminar o crime organizado"; **(2)** construir **super presídios** com **300 a 500 mil vagas**, sem isolamento de facção, porque "nós vamos eliminar as facções"; **(3)** **integração entre estados** com ameaça de **intervenção federal** para quem não combater o crime — citando **Ceará e Bahia** como "governos do petismo" que "têm vergonha e medo de enfrentar o crime organizado, estão deixando a população morrer". "Essa será a guerra. Nós vamos enfrentar o crime organizado como nunca antes na história do nosso país." Ver [[fontes/2026-08-24 - Estado de sítio e GLO em áreas dominadas pelo crime organizado]], [[posicoes/Estado de Defesa e Direito Penal do Inimigo]] e [[posicoes/Proposta para Governadores Anti-Crime]].
+
 ## PCC tenta impedir evento de campanha; Renan resiste e lança marco de desfavelização (agosto de 2026)
 
 Em **23 de agosto de 2026**, Renan relata que um evento de campanha **foi proibido e recebeu um "salve" do PCC** dizendo que "nós não poderíamos entrar" — mas o evento foi realizado mesmo assim. Ele justifica: **"Se nós não tivermos coragem de nos arriscarmos aqui para falar a mensagem que nós temos que falar, nós não vamos fazer nada como governo."** Descreve **São Paulo como "um lugar altamente injusto"**: a escola particular mais cara do Brasil (mensalidade acima de R$ 10 mil), um dos shoppings mais caros do país (bolsas e sapatos acima de R$ 30 mil) e, no meio, uma favela com presença do PCC, usada "como estoque e entreposto para venda de drogas", sem serviços públicos básicos — onde "as pessoas não são tratadas como gente". Ele conecta o enfrentamento ao crime à [[posicoes/Desfavelização do Brasil|desfavelização]] e anuncia o **"Nuremberg das favelas"**. Ver [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]].
@@ -1211,6 +1215,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Estado de sítio e GLO em áreas dominadas pelo crime organizado]] — no debate, três propostas: estado de defesa + GLO, super presídios (300-500 mil vagas), intervenção em estados que não combatem o crime
 - [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — "salve" do PCC tentando impedir evento; coragem de enfrentar o crime; marco de desfavelização
 - [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] — destruição de câmeras de facção; monitoramento territorial; reocupação e direito penal do inimigo
 - [[fontes/2026-08-20 - Vídeos completos logo logo!]] — "onde há uma facção, haverá uma operação"; parceria federal-estados; remoção de entulho e câmeras de facção na Paraíba

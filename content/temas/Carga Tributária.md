@@ -8,6 +8,10 @@ date: 2026-07-03
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
+## "Juros no talo" e "quebradeira generalizada" no ano seguinte (agosto de 2026)
+
+Em **24 de agosto de 2026**, no contexto da crítica ao "jogo de cartas marcadas" de Lula e Flávio Bolsonaro, Renan afirma que o país "está indo pro buraco", com os **juros "no talo"** e uma **"quebradeira generalizada"** prevista para o ano seguinte — enquanto os adversários "querem comprar o voto das pessoas" em vez de discutir na Band. Ver [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]].
+
 ## Juros reais e recorde de recuperações judiciais: "o Brasil quebrou" (agosto de 2026)
 
 Em **17 de agosto de 2026**, Renan afirma que "o Brasil tem um dos maiores juros reais do mundo, se não o maior", e explica a mecânica que atribui ao gasto público do governo Lula: a dívida cresce, os juros (Selic) sobem, as empresas não conseguem se planejar no longo prazo e quebram. Ele cita as **quase 8.000 empresas** que pediram recuperação judicial — "o recorde na história do Brasil" — incluindo as **Casas Bahia**, e conclui: "O Brasil quebrou." Ver [[fontes/2026-08-17 - Por que Lula não quer ir ao debate comigo]].
@@ -189,6 +193,7 @@ Ver [[fontes/2026-02-24 - GOVERNO LULA TAXA MAIS DE 1,2 MIL PRODUTOS IMPORTADOS]
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] — juros "no talo" e "quebradeira generalizada" no ano seguinte; crítica ao jogo de cartas marcadas
 - [[fontes/2026-07-11 - Esse japonês do meu partido é um fenômeno!]] — PEC do IPVA 1%; peso como critério; corte de gastos com propaganda
 - [[fontes/2026-04-13 - MAIS UM RECORDE DO BRASIL]]
 - [[fontes/2026-04-12 - POLEMICA SOBRE O VALE-GAS DO LULA]]

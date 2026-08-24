@@ -7,6 +7,16 @@ tags:
 date: 2026-08-22
 ---
 
+## "Esquerda e direita estão roubando você junto": o jogo de cartas marcadas (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] "querem comprar o voto das pessoas para as eleições" — "comprando o prefeito, comprando o governador, indo fazer dancinha ridícula" — enquanto o país "está indo pro buraco", com "juros lá no talo" e "quebradeira generalizada" prevista para o ano seguinte. Ele diz que, "em vez desses caras estarem aqui conosco discutindo na Bandeirantes", eles "querem um jogo de cartas marcadas".
+
+Renan sustenta que "tudo que o Flávio Bolsonaro quer é perder eleição pro Lula, continuar mandando na direita, porque ele acha que a direita é um bordel, que eles vão ficar cafetinando todo mundo" — e que Lula "sabe que tem esse cara fraco e ganha". A síntese: "Esquerda e direita estão roubando você junto." Ver [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
+## "Fraldas" físicas no debate da Band para Lula e Flávio (agosto de 2026)
+
+Em **23 de agosto de 2026**, gravando no debate da **Band**, Renan materializa a ironia das "fraldas geriátricas" ao exibir uma **"fralda do Flávio"** e uma **"fralda do Lula"**. Ele chama [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] de "dois canalhas que ficam botando seus seguidores para brigar em rede social, mas na hora de vir aqui apresentar proposta não tem coragem". Renan afirma que veio debater "no mais alto nível" com um livro de propostas de 460 páginas, parabeniza [[pessoas/Ronaldo Caiado]] e outro candidato por comparecerem, critica a ausência de [[pessoas/Romeu Zema]] e elogia a Band por manter o debate. Ver [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
 ## Lula e Flávio "panacas" que fogem do debate; "fraldas geriátricas" (agosto de 2026)
 
 Em **22 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] são "duas lideranças que não têm a capacidade de representar aqueles que eles dizem liderar" — e que **"não querem e não vão participar do debate"** (da Band), mesmo convocando o eleitorado a "brigar entre si". Ele ironiza trazendo **"fraldas geriátricas"** para os "bundões covardes" e afirma que quem segue Lula ou Flávio é "apenas um panaca, um boneco" utilizado para "ficar assistindo as coisas acontecerem". Renan lista os escândalos que ligaria a ambos — **Banco Master**, **INSS** e **petrolão** (com a Lava-Jato pegando Lula) e a operação **Furna da Onça** para Flávio — e diz que estará no debate "de cara limpa". Ver [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
@@ -699,6 +709,8 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] — jogo de cartas marcadas; Flávio "quer perder pro Lula"; "esquerda e direita roubando você junto"
+- [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — fraldas físicas no debate da Band; Lula e Flávio como "canalhas" que fogem; crítica a Zema; elogio à Band
 - [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula e Flávio "panacas" que fogem do debate; fraldas geriátricas; escândalos em comum
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — Lula e a família Bolsonaro "nos mesmos escândalos" (Banco Master e NSS); passado ilibado e livro de 460 páginas
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção da família Bolsonaro"; Renan se diz o único capaz de atacá-la

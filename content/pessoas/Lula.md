@@ -65,6 +65,14 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## "Lula sabe que tem esse cara fraco e ganha" — jogo de cartas marcadas (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que Lula "sabe que tem esse cara fraco e ganha" — referindo-se a [[pessoas/Flávio Bolsonaro]] — e que a eleição é um "jogo de cartas marcadas" em que "esquerda e direita estão roubando você junto". Ele sustenta que Flávio "não vai preso fazendo um acordo com o Lula, com o Xandão e com o Vorcaro lá em Brasília", enquanto o país tem "juros no talo" e uma "quebradeira generalizada" prevista. Ver [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]].
+
+## Ausência no debate da Band e "fralda do Lula" (agosto de 2026)
+
+Em **23 de agosto de 2026**, no debate presidencial da **Band**, Renan exibe uma **"fralda do Lula"** ao lado da "fralda do Flávio", ironizando a ausência de Lula no debate. Ele os chama de "dois canalhas que ficam botando seus seguidores para brigar em rede social, mas na hora de vir aqui apresentar proposta não tem coragem". Ver [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
 ## Aposentados "roubados" e o escândalo do INSS (agosto de 2026)
 
 Em **23 de agosto de 2026**, gravando em **Maceió (AL)**, Renan usa a história da aposentada **dona Socorro** — que não recebe o benefício do INSS ("só tá em análise") — para afirmar que **"o Brasil real tá pobre, o Brasil real tá tomado pelo crime, o Brasil real tá favelizado. E no Brasil real os aposentados estão sendo roubados por ele e pela turma dele."** Ele pergunta se **o irmão de Lula e o filho dele** estão "ambos envolvidos nesse escândalo que tá tirando dinheiro da aposentadoria dos outros" e promete, como candidato nº 14, "acabar com esses escândalos de corrupção" do INSS e do Banco Master. Ver [[fontes/2026-08-23 - Essa mulher foi roubada.]] e [[eventos/Escândalo do INSS]].
@@ -513,6 +521,8 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] — "Lula sabe que tem esse cara fraco e ganha"; jogo de cartas marcadas; acordo com Xandão e Vorcaro
+- [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — "fralda do Lula" no debate da Band; Lula e Flávio como "canalhas" que fogem
 - [[fontes/2026-08-23 - Essa mulher foi roubada.]] — aposentados "roubados" pelo Lula; irmão e filho apontados no INSS; "Brasil real tá pobre"
 - [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula recusa o debate da Band; "fraldas geriátricas"; eleitores como "panacas"
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — risada cínica da picanha; eleição "de cartas marcadas"; Lula lançou Flávio; desafio ao debate

@@ -8,6 +8,10 @@ date: 2026-08-22
 
 Durante sua viagem pelo Maranhão em abril de 2026, Renan Santos usou episódios concretos para denunciar o que descreve como falência administrativa e desvio de recursos em prefeituras do interior. O tema aparece conectado à sua proposta de [[posicoes/Fusão de Municípios|fusão de municípios]] e à defesa de intervenção federal.
 
+## Vergel do Lago (Maceió): emendas que não se revertem em saneamento (agosto de 2026)
+
+Em **23 de agosto de 2026**, respondendo a um novo desafio de [[pessoas/Arthur Lira]], Renan grava do **Vergel do Lago**, bairro de Maceió, para mostrar o "abandono e o descaso das elites políticas locais": córrego alagando, ponte destruída, lixo e falta de saneamento. Ele afirma que Alagoas **diminuiu a cobertura de esgoto** nos últimos anos apesar de ser, proporcionalmente, um dos estados que mais recebe dinheiro de **emendas do orçamento secreto** — recursos "em grande medida roubados" que "nada se reverte em coisas boas para as pessoas". O caso reforça a proposta da **lei de responsabilidade gerencial** (ver [[posicoes/Emendas Parlamentares Condicionadas a Metas]]). Ver [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]].
+
 ## Emendas de Arthur Lira e a vossoroca de Rio Largo (agosto de 2026)
 
 Em **22 de agosto de 2026**, Renan investiga o caso de **Rio Largo (AL)** — município que, segundo ele, é o que **mais recebeu emenda do orçamento secreto** no estado, com emendas identificadas de [[pessoas/Arthur Lira]] (o "rei do centrão"). Ele afirma que as emendas financiaram **obras de macrodrenagem mal feitas** que geraram uma **vossoroca** — buraco gigante de assoreamento que "vai invadir a cidade" e forçar o deslocamento de moradores. Para Renan, é "só mais um dentre os milhares casos de emendas mal tocadas, de dinheiro que provavelmente foi desviado, de obra que não teve utilidade".
@@ -341,6 +345,7 @@ Ver [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]
 
 ## Fontes
 
+- [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]] — Vergel do Lago (Maceió); emendas do orçamento secreto que não revertem em saneamento; lei de responsabilidade gerencial
 - [[fontes/2026-06-11 - Deu ruim pro Wesley Safadao]] — Veja expõe campanha antecipada de Safadão para Efraim Filho
 - [[fontes/2026-04-15 - Eu fui na fazenda DELE. Você sabe o nome dele]] — Everton Rocha; INSS; fazenda com pista de pouso
 - [[fontes/2026-04-15 - Eu fui na cidade mais rica do Maranhão. Mas adivinha]] — Santo Antônio dos Lopes; Cibelle (PL)

@@ -14,6 +14,10 @@ fontes:
 
 Governador de Goiás e pré-candidato à presidência. Em janeiro de 2026, filiou-se ao **PSD** de Gilberto Kassab — partido que já abrigava Ratinho Júnior (PR) e Eduardo Leite (RS). O movimento gerou ampla cobertura da imprensa como articulação da "direita moderada", mas Renan Santos fez uma leitura radicalmente diferente.
 
+## Parabenizado por comparecer ao debate da Band (agosto de 2026)
+
+Em **23 de agosto de 2026**, no debate presidencial da **Band**, Renan parabeniza Caiado por ter comparecido — contrastando com a ausência de Lula, Flávio Bolsonaro e Zema: "parabenizo o Cura e o Caiado que estão vindo". Ver [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]].
+
 ## Caiado no PSD: a leitura de Renan
 
 Renan descreve a filiação de Caiado ao PSD como uma adesão ao que chama de **"jogo da prostituta política"** comandado por **Gilberto Kassab**:
