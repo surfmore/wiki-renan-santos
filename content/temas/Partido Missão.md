@@ -6,6 +6,8 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
+  - "2026-08-24 - Lula está me provocando"
   - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-17 - Evento bizarro do Lula"
@@ -48,6 +50,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## "Livro amarelo": 460 páginas de propostas construídas sem dinheiro público (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan apresenta o **"livro amarelo"** — um livro de **460 páginas com propostas para o Brasil** — trazido "de maneira ilustrativa" para mostrar que "tem que acreditar no que faz, tem que ter projetos para todas as áreas do Brasil". Ele destaca que o material foi construído **sem dinheiro público**, por pesquisadores e "molecada que estuda em Harvard, brasileiros, molecada que estuda nas melhores universidades brasileiras". O contraste com [[pessoas/Lula]], que segundo Renan "desistiu de apresentar proposta", reforça o partido como portador de um programa denso. Ver [[fontes/2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA]].
+
+No mesmo dia, respondendo à provocação de Lula sobre "candidatos de internet", Renan defende o **número 14** da campanha — "o 14 é o número que supera o 13" — e se define como líder político que "organizou as manifestações que derrubaram o governo da Dilma". Ver [[fontes/2026-08-24 - Lula está me provocando]].
 
 ## Resolução do TSE limita as redes sociais da campanha: "a guerra começou" (agosto de 2026)
 

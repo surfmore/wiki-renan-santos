@@ -7,6 +7,8 @@ tags:
   - corrupção
 date: 2026-08-07
 fontes:
+  - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
+  - "2026-08-24 - Lula está me provocando"
   - "2026-08-23 - As decijanjas precisam acabar."
   - "2026-08-19 - Essa é a mensagem que o Discord enviou pra todo mundo ontem"
   - "2026-08-17 - Lula fugiu do debate!"
@@ -27,6 +29,14 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### "Influencer é a tua esposa Janja": influenciadora de moda paga com dinheiro público (agosto de 2026)
+
+Em **24 de agosto de 2026**, respondendo à provocação de Lula sobre "candidatos de internet", Renan afirma que "influencer é a tua esposa Janja" — que ele descreve como "uma influenciadora de moda, paga com o nosso dinheiro para rodar o mundo, fingindo que usa roupas legais e tal, fazendo a gente passar vergonha". A fala integra a resposta de Renan à tese de que "brincar na internet" não habilita alguém à presidência. Ver [[fontes/2026-08-24 - Lula está me provocando]].
+
+### "Melhor ficar bêbado do que com a Janja" (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que Lula "desistiu de apresentar proposta" e que "a maior parte do tempo ou ele tá bêbado ou ele tá com a Janja" — ironizando: "Melhor ficar bêbado nessas horas, né, presidente?" A fala é usada por Renan para contrastar a ausência de propostas de Lula com seu próprio "livro amarelo" de 460 páginas. Ver [[fontes/2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA]].
 
 ### "Decijanja": decisão sobre o Discord atribuída a Janja (agosto de 2026)
 

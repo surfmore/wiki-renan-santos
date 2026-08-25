@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-06-20
 fontes:
+  - "2026-08-24 - Lula não tem coragem de vir ao debate"
   - "2026-08-16 - Já imaginaram"
   - "2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro."
   - "2026-07-16 - Taxaram a gente"
@@ -21,6 +22,10 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## Brasil "submisso" na política internacional: "pedindo pinico pra China ou pros Estados Unidos" (agosto de 2026)
+
+Em **24 de agosto de 2026**, ao criticar a fuga de [[pessoas/Lula]] do debate, Renan afirma que o Brasil se tornou "um ser submisso na política internacional tendo que pedir pinico pra China ou pros Estados Unidos na hora de fazer negócio" — denunciando a falta de autonomia do país nas relações comerciais e geopolíticas sob o governo atual. Ver [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]].
 
 ## Brasil como potência: terras raras, fortalecimento militar e troca de tecnologia (agosto de 2026)
 

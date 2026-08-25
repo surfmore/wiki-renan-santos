@@ -8,6 +8,14 @@ tags:
 date: 2026-08-06
 ---
 
+## Resposta no debate da Band: "trabalhar menos e ganhar mais" é ilusão; reforma trabalhista (agosto de 2026)
+
+Em **24 de agosto de 2026**, no debate da Band, Renan critica a promessa de que o trabalhador "vai trabalhar menos e vai ganhar mais" — a mesma da picanha e da taxação das blusinhas — e resume: "Quando a esmola é demais, o santo desconfia." Ele aponta [[pessoas/Érika Hilton]] como capitã do projeto da escala 6x1 e alerta: "Não acredite nesses políticos que dizem que você vai trabalhar menos e ganhar mais num país que até as Casas Bahia quebravam." Em contraste, defende **reformas de competitividade**, alteração da lei trabalhista para facilitar a contratação, menos impostos sobre o salário e **contratação por hora** (ver [[posicoes/Reforma Trabalhista]]). Conclui que os políticos do sistema querem o trabalhador sem emprego para que ele dependa do Bolsa Família: "aí você vota nele, porque ele tá te tratando como um escravo." Ver [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]].
+
+## "As pessoas não tão conseguindo comer mais": fome e fuga do debate (agosto de 2026)
+
+Em **24 de agosto de 2026**, ao criticar a recusa de [[pessoas/Lula]] em debater, Renan lista a fome entre os problemas que o presidente "não tem coragem" de explicar publicamente — "as pessoas não tão conseguindo comer mais" — junto com o aumento da insegurança pública e a perda da esperança de empreender. Ver [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]].
+
 ## "O governo tava mentindo" sobre a escala 6x1; Renan não vai "iludir trabalhador" (agosto de 2026)
 
 Em **24 de agosto de 2026**, no "desabafo" pós-debate, Renan afirma que o governo Lula **"tava mentindo para as pessoas"** ao prometer o fim da escala 6x1. Ele diz que não vai mentir nem "iludir trabalhador": "Estudei todos esses anos, fui empresário, contratei, sei como é que funciona. Conversei com os maiores empresários varejistas, gente do agroindustrial." Ironiza que, para iludir trabalhador, "tem um especialista chama Lula", e que quem quiser pode "votar nele" — "ele vai te enganar, você vai ficar mais pobre, você vai perder seu emprego". A fala reafirma a posição contrária de Renan à proposta nos termos do governo (ver seção "Escala 6x1" abaixo) e se conecta ao compromisso de "não ganhar eleição igual a todos esses caras". Ver [[fontes/2026-08-24 - DESABAFO TEXTO]].
@@ -353,6 +361,8 @@ Ver [[fontes/2026-02-06 - GOVERNO LULA CHAMA TRABALHADOR DE PLAYBOY]].
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]] — "trabalhar menos e ganhar mais" como ilusão; reforma trabalhista e contratação por hora
+- [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]] — "as pessoas não tão conseguindo comer mais"; perda da esperança de empreender
 - [[fontes/2026-08-24 - DESABAFO TEXTO]] — "o governo tava mentindo" sobre a escala 6x1; Renan não vai "iludir trabalhador"; sabatina do Jornal Nacional
 - [[fontes/2026-08-23 - Essa mulher foi roubada.]] — "o Brasil real tá pobre"; aposentados roubados; escândalos do INSS e Banco Master
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — brasileiros mais pobres; promessa da picanha como mentira eleitoreira

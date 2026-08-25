@@ -7,6 +7,11 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!"
+  - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
+  - "2026-08-24 - Lula não é homem de verdade."
+  - "2026-08-24 - Lula não tem coragem de vir ao debate"
+  - "2026-08-24 - Lula está me provocando"
   - "2026-08-23 - Essa mulher foi roubada."
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-21 - Ninguém liga para o Lulinha."
@@ -64,6 +69,26 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Lula está me provocando": resposta sobre os "candidatos de internet" (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan responde a uma provocação de Lula — que reclamou que "diminuiu a importância dos políticos" e que "tem gente que acha que pode ser candidato por causa da internet". Renan rebate dizendo que "influencer é a tua esposa [[pessoas/Janja]]" e que o governo pagou "grana pública" a influencers para falar bem da "taxa das blusinhas". Ele se define como "um líder político que organizou as manifestações que derrubaram o governo da Dilma", afirma que Lula foi "um agitador lá em São Bernardo do Campo que ficava fechando fábrica, arrancando emprego das pessoas" e o acusa de ter levado o país aos escândalos do mensalão e do petrolão, "e você foi inclusive preso por conta disso". Ver [[fontes/2026-08-24 - Lula está me provocando]].
+
+## "Lula não tem coragem de vir ao debate": fome, insegurança e submissão internacional (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que Lula "não tem coragem de vir a público" explicar por que no governo dele "as pessoas não tão conseguindo comer mais", "a insegurança pública tá aumentando", "mais pessoas estão perdendo a esperança de empreender" e "o Brasil se tornou um ser submisso na política internacional tendo que pedir pinico pra China ou pros Estados Unidos na hora de fazer negócio". Ele diz que o eleitor de Lula fora do Bolsa Família "está sendo canalha" — "canalha tá rifando o nosso futuro e eu não quero o voto dele". Ver [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]].
+
+## "Lula não é homem de verdade": desafiado a defender o legado e chamado de ladrão (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que "um homem que tem dignidade honra seu nome em qualquer lugar" e que Lula "tinha que vir defender o legado dele". Ele diz estar "chamando ele de ladrão" e pergunta por que Lula não veio se defender, ironizando: "Ou será que você vai chamar seus advogados para me processar?" Ver [[fontes/2026-08-24 - Lula não é homem de verdade.]].
+
+## Lula "desistiu de apresentar proposta"; "melhor ficar bêbado do que com a Janja" (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que Lula "desistiu de apresentar proposta" — "a maior parte do tempo ou ele tá bêbado ou ele tá com a Janja" — e ironiza: "Melhor ficar bêbado nessas horas, né, presidente?" Em contraste, Renan apresenta o "livro amarelo" de 460 páginas de propostas construído sem dinheiro público. Ver [[fontes/2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA]].
+
+## Promessa de "trabalhar menos e ganhar mais" e a resposta da escala 6x1 (agosto de 2026)
+
+Em **24 de agosto de 2026**, no debate da Band, Renan critica a promessa de que o trabalhador "vai trabalhar menos e vai ganhar mais" — o mesmo político da picanha e da taxação das blusinhas — e propõe, em contraste, reformas de competitividade e uma reforma trabalhista com contratação por hora (ver [[posicoes/Reforma Trabalhista]]). Ver [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]].
 
 ## "Lula sabe que tem esse cara fraco e ganha" — jogo de cartas marcadas (agosto de 2026)
 
@@ -521,6 +546,11 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]] — promessa de "trabalhar menos e ganhar mais"; resposta com reforma trabalhista
+- [[fontes/2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA]] — Lula "desistiu de apresentar proposta"; "bêbado ou com a Janja"
+- [[fontes/2026-08-24 - Lula não é homem de verdade.]] — chamado de "ladrão" e desafiado a defender o legado
+- [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]] — fome, insegurança e submissão internacional; "canalha rifando o futuro"
+- [[fontes/2026-08-24 - Lula está me provocando]] — resposta sobre "candidatos de internet"; mensalão e petrolão; "o 14 supera o 13"
 - [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] — "Lula sabe que tem esse cara fraco e ganha"; jogo de cartas marcadas; acordo com Xandão e Vorcaro
 - [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — "fralda do Lula" no debate da Band; Lula e Flávio como "canalhas" que fogem
 - [[fontes/2026-08-23 - Essa mulher foi roubada.]] — aposentados "roubados" pelo Lula; irmão e filho apontados no INSS; "Brasil real tá pobre"

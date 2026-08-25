@@ -7,6 +7,7 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-24 - Lula está me provocando"
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
   - "2026-08-19 - Renan Santos diz não entender por que fãs querem fotos com ele"
@@ -23,6 +24,10 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "Não sou influencer": líder político que derrubou o governo Dilma; "o 14 supera o 13" (agosto de 2026)
+
+Em **24 de agosto de 2026**, respondendo à provocação de [[pessoas/Lula]] sobre "candidatos de internet", Renan se define como **"um líder político que organizou as manifestações que derrubaram o governo da Dilma"** — e não um influencer. Ele reforça o slogan da campanha: "Meu nome é Renan, meu número é 14. Lembra bem desse número, porque o 14 é o número que supera o 13." Ver [[fontes/2026-08-24 - Lula está me provocando]].
 
 ## "Quero arrasar nos debates": desafio a Lula (agosto de 2026)
 

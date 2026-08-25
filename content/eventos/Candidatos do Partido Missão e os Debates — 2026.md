@@ -7,6 +7,10 @@ tags:
   - debates
 date: 2026-08-22
 fontes:
+  - "2026-08-24 - Lula está me provocando"
+  - "2026-08-24 - Lula não tem coragem de vir ao debate"
+  - "2026-08-24 - Lula não é homem de verdade."
+  - "2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!"
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
   - "2026-08-22 - RESPOSTA AO SILAS"
@@ -19,6 +23,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## "Você pode fugir desse debate da Band, mas não vai fugir dos próximos" (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] "pode fugir desse debate da Band, mas não vai fugir dos próximos": diz que vai crescer nas pesquisas "até que os seus marqueteiros falarem: 'você vai ter que encontrar esse cara no debate'". Ele sustenta que Lula "não tem coragem" de debater os problemas do próprio governo — fome, insegurança pública, submissão internacional — e o desafia a defender o legado publicamente, ironizando que o presidente recorreria a advogados em vez de enfrentá-lo ("você vai chamar seus advogados para me processar?"). Ver [[fontes/2026-08-24 - Lula está me provocando]], [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]] e [[fontes/2026-08-24 - Lula não é homem de verdade.]].
 
 ## No debate da Band, Renan ironiza Lula e Flávio com "fraldas" (agosto de 2026)
 
@@ -62,6 +70,10 @@ Em **31 de julho de 2026**, Renan e Bem Mendes — candidato do Missão ao gover
 
 ## Fontes
 
+- [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]] — resposta sobre a escala 6x1 dada no debate da Band
+- [[fontes/2026-08-24 - Lula não é homem de verdade.]] — Lula desafiado a defender o legado; "você vai chamar seus advogados para me processar?"
+- [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]] — Lula sem coragem de debater fome, insegurança e submissão internacional
+- [[fontes/2026-08-24 - Lula está me provocando]] — "você pode fugir desse debate da Band, mas não vai fugir dos próximos"
 - [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — no debate da Band, Renan ironiza Lula e Flávio com fraldas; elogia a Band e Caiado; critica a ausência de Zema
 - [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula e Flávio recusam o debate da Band; Renan vai "de cara limpa"; fraldas geriátricas
 - [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — véspera do debate da Band; recado para Lula e Flávio; resolução do TSE sobre redes sociais

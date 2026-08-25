@@ -12,6 +12,10 @@ Deputada federal pelo PSOL (SP), figura usada por Renan Santos recorrentemente c
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
 
+## "Capitã" do projeto da escala 6x1 e a resposta no debate da Band (agosto de 2026)
+
+Em **24 de agosto de 2026**, no debate da Band, Renan aponta [[pessoas/Érika Hilton]] como a pessoa que "capitaneou" o projeto da escala 6x1 — a quem descreve como "uma mulher muito grande, modelo de passarela" — e afirma que ela "falou que todo mundo ia fazer isso". Ele usa a fala como exemplo de promessa irreal ("você vai trabalhar menos e ganhar mais") num país "que até as Casas Bahia quebravam", e contrapõe suas propostas de reforma trabalhista (ver [[posicoes/Reforma Trabalhista]]). Ver [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]].
+
 ## Defensora do PL da Misoginia e contrária à redução da maioridade penal (agosto de 2026)
 
 Em **8 de agosto de 2026**, ao comentar o [[eventos/Assassinato de José Edson da Silva — Agosto de 2026|assassinato do motorista de aplicativo José Edson da Silva]] por três adolescentes, Renan critica Érika Hilton entre os "mesmos parlamentares" que defendem o PL da misoginia — que considera "draconiano e absurdo" — e são contra a redução da maioridade penal. Ele afirma que isso faz "assassinos menores de idade pegarem apenas 3 anos de uma pena disciplinar", voltarem "pra rua com a sua ficha limpa" e voltarem "a nos perturbar e nos assassinar".
