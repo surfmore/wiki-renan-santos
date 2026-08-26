@@ -6,12 +6,17 @@ tags:
   - federalismo
 date: 2026-08-21
 fontes:
+  - "2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!"
   - "2026-08-21 - PM perde paciência e bota fogo em barricadas na Paraíba"
   - "2026-06-27 - Oruam reapareceu!"
   - "2026-01-09 - O Maior Carnaval do Brasil"
 ---
 
 Proposta de Renan Santos para estados que, na sua avaliação, não se autossustentam, têm índices de desenvolvimento humano comparáveis a países africanos e gastam recursos federais em festas e projetos sem impacto real no desenvolvimento da população.
+
+## Rio, Ceará e Bahia: "ou se enquadram no enfrentamento ou sofrem estado de defesa/GLO" (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que **estados e governos estaduais que não aplicarem políticas efetivas de destruição do crime organizado serão alvo de intervenção**. Citando **Rio de Janeiro, Ceará e Bahia**, ele diz: "ou eles se enquadram no enfrentamento total ao crime organizado, ou seus governos vão se enquadrar ao governo federal, ao estado de defesa, a GLO". A fala atualiza a proposta de intervenção federal com um mecanismo de "enquadramento" que combina intervenção, estado de defesa e GLO para governos estaduais omissos. Ver [[fontes/2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!]], [[temas/Segurança Pública]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
 
 ## Paraíba: intervenção se o governador não combater o crime (agosto de 2026)
 

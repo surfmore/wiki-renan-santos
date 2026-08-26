@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-24 - Record está dando espaço ao Lula"
+  - "2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!"
   - "2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!"
   - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
   - "2026-08-24 - Lula não é homem de verdade."
@@ -69,6 +71,14 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Lula na Record: "bêbado safado" e desafios sobre INSS e Banco Master (agosto de 2026)
+
+Em **24 de agosto de 2026**, ao ver Lula na **Record**, Renan critica a emissora por dar espaço ao presidente e o chama de **"aquele bêbado safado"** que foi "fazer monólogo". Ele desafia a Record a perguntar a Lula se o filho dele, **Lulinha**, "roubou ou não o nosso dinheiro no INSS" e se o governo é "um lugar em que a turma do **Banco Master** se esconde e se escora, porque o escândalo do Banco Master surgiu no governo dele". Ver [[fontes/2026-08-24 - Record está dando espaço ao Lula]], [[temas/Mídia e Imprensa]], [[eventos/Escândalo do INSS]] e [[eventos/Escândalo Banco Master]].
+
+## PT quer "centralizar o poder sobre as polícias"; "o PT é inimigo das polícias" (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan acusa o governo Lula de querer "legislar sobre segurança pública, concentrando poderes na mão dele" — uma "vontade que o PT tem há décadas" por ter "uma volúpia por poder". Ele afirma que o PT quer concentrar o exercício da violência nas mãos do governo, não para atacar bandido, mas para **"segurar a polícia"**, e que "o PT é inimigo das polícias em todos os estados". Em contraponto, defende intervenção em estados que não combatem o crime organizado (ver [[temas/Segurança Pública]] e [[posicoes/Intervenção Federal em Estados com Baixo IDH]]). Ver [[fontes/2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!]].
 
 ## "Lula está me provocando": resposta sobre os "candidatos de internet" (agosto de 2026)
 

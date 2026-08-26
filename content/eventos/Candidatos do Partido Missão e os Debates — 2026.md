@@ -7,6 +7,7 @@ tags:
   - debates
 date: 2026-08-22
 fontes:
+  - "2026-08-24 - Peço desculpas pelo lapso 😂"
   - "2026-08-24 - Lula está me provocando"
   - "2026-08-24 - Lula não tem coragem de vir ao debate"
   - "2026-08-24 - Lula não é homem de verdade."
@@ -23,6 +24,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## No debate, o "lapso" de Renan ao escolher Lula para o confronto direto (agosto de 2026)
+
+Em **24 de agosto de 2026**, em trecho do **debate presidencial da Band**, Renan é sorteado para abrir a primeira rodada de confronto direto e, ao ser perguntado para quem direcionaria sua pergunta, responde: **"Pro candidato Lula"** — que não estava presente. O mediador o corrige: "o senhor precisa escolher um dos candidatos presentes". Renan se desculpa: **"Foi um lapso. Peço desculpas."** O momento ilustra, em tom descontraído, a ausência de [[pessoas/Lula]] no debate — tema central da campanha de Renan naquele período. Ver [[fontes/2026-08-24 - Peço desculpas pelo lapso 😂]].
 
 ## "Você pode fugir desse debate da Band, mas não vai fugir dos próximos" (agosto de 2026)
 

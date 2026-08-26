@@ -7,6 +7,7 @@ tags:
   - escolas-civico-militares
 date: 2026-07-27
 fontes:
+  - "2026-08-24 - Minhas propostas para a educação no debate na Band."
   - "2026-08-19 - JORNALISTA ME PEGOU!!!"
   - "2026-08-15 - Por que eu defendo mais escolas cívico-militares."
   - "2026-08-12 - Metas da Missão"
@@ -22,6 +23,12 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## No debate da Band: lei de responsabilidade gerencial, método fônico e educação-trabalho (agosto de 2026)
+
+Em **24 de agosto de 2026**, em trecho do **debate presidencial da Band**, perguntado sobre o analfabetismo no segundo ano do ensino fundamental, Renan diz que "a situação do Brasil é desesperadora" e critica a "pátria educadora" do governo Dilma: os testes internacionais mostram que "a gente tem a pátria do analfabetismo funcional". Ele afirma que os estados com pior desempenho escolar "curiosamente votam no Partido dos Trabalhadores" e fala de uma **"sabotagem ao ensino fundamental"**: crianças não alfabetizadas pelo **método fônico** e **professor sem autoridade** em sala.
+
+Como proposta, Renan liga a educação à **lei de responsabilidade gerencial** (ver [[posicoes/Emendas Parlamentares Condicionadas a Metas]]): prefeitos e governadores terão que gastar com **educação básica** em vez de "show do Wesley e Safadão"; o município que melhorar o desempenho pode receber mais dinheiro; o prefeito que "tornar os seus jovens analfabetos funcionais" pode se tornar **inelegível**. Ele defende ainda a **integração entre educação e trabalho** como "sonho de transformação" da nação: "se você não formar a sua própria mão de obra capaz, nós não vamos sair do buraco". Ver [[fontes/2026-08-24 - Minhas propostas para a educação no debate na Band.]] e [[temas/Empobrecimento e Mercado de Trabalho]].
 
 ## Fechar muitas universidades e manter apenas os melhores alunos (agosto de 2026)
 

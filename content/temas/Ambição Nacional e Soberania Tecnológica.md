@@ -8,6 +8,10 @@ tags:
 date: 2026-07-03
 ---
 
+## "Nós nascemos para liderar": Brasil entre as cinco maiores nações do mundo (agosto de 2026)
+
+Em **24 de agosto de 2026**, em discurso de campanha, Renan afirma que "se você vive de migalha, é porque você aceita alguém que te trata como bicho" e que o Brasil "está sendo o país da migalha". Ele projeta o país como **"uma das cinco maiores nações do mundo"** — ao lado de Rússia, China, Índia e Estados Unidos — para "definir tudo que importa no mundo", com base em **terra rara, tecnologia e inteligência artificial**. No plano produtivo, promete **gerar classe média**, desenvolver economicamente o **Nordeste**, dar **infraestrutura ao Centro-Oeste** para exportar, **voltar a produzir carro** e **criar marcas internacionais** em vez de exportar apenas matérias-primas. "O Brasil é a maior experiência tropical do mundo", diz, e "nasceu para ser o maior país do sul global": "nós nascemos para liberar e não passar vergonha". Ver [[fontes/2026-08-24 - Nós nascemos para liderar!]].
+
 ## "O Brasil é um país que desistiu": retomar com ambição o futuro (agosto de 2026)
 
 Em **19 de agosto de 2026**, em discurso de campanha, Renan afirma que "o Brasil é um país que desistiu" e que "ninguém mais tem saco em fazer o Brasil andar". Ele descreve um "cenário de desistência" — Lula tentando a quarta reeleição e ninguém debatendo os temas que importam — e conclui: "Ou a gente retoma com ambição o futuro que o Brasil merece ter, ou desiste. Eu não quero desistir."

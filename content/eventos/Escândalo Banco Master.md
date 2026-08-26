@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-04 - Minha posição em relação ao STF"
@@ -17,6 +18,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## "A turma do Banco Master se esconde no governo Lula": desafio à Record (agosto de 2026)
+
+Em **24 de agosto de 2026**, ao comentar a presença de [[pessoas/Lula]] na Record, Renan desafia a emissora a perguntar ao presidente se o governo dele "é ou não é um lugar em que a turma do **Banco Master** se esconde e se escora, porque o escândalo do Banco Master surgiu no governo dele". A fala reforça a tese de que a rede do Banco Master atravessa o governo Lula. Ver [[fontes/2026-08-24 - Record está dando espaço ao Lula]] e [[temas/Mídia e Imprensa]].
 
 ## Banco Master entre os "escândalos em comum" de Lula e Flávio (agosto de 2026)
 

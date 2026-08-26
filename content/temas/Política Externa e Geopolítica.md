@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-06-20
 fontes:
+  - "2026-08-24 - Nós nascemos para liderar!"
   - "2026-08-24 - Lula não tem coragem de vir ao debate"
   - "2026-08-16 - Já imaginaram"
   - "2026-07-25 - Eu desafio o Lula e o Flávio Bolsonaro."
@@ -22,6 +23,10 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## Brasil entre as cinco maiores nações, ao lado de Rússia, China, Índia e EUA (agosto de 2026)
+
+Em **24 de agosto de 2026**, em discurso de campanha, Renan projeta o Brasil como **"uma das cinco maiores nações do mundo"**, sentado à mesa com **Rússia, China, Índia e Estados Unidos** "para definir tudo que importa no mundo" — de **terra rara** e tecnologia a inteligência artificial. A fala reforça a ambição de potência já presente em seu projeto de soberania tecnológica. Ver [[fontes/2026-08-24 - Nós nascemos para liderar!]] e [[temas/Ambição Nacional e Soberania Tecnológica]].
 
 ## Brasil "submisso" na política internacional: "pedindo pinico pra China ou pros Estados Unidos" (agosto de 2026)
 

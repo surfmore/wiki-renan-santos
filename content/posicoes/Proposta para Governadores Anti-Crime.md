@@ -6,12 +6,17 @@ tags:
   - programa
 date: 2026-08-21
 fontes:
+  - "2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!"
   - "2026-08-21 - Resposta ao Governador da Paraíba"
   - "2026-08-21 - PM perde paciência e bota fogo em barricadas na Paraíba"
   - "2025-10-29 - Minha proposta para os governadores"
 ---
 
 Em **29 de outubro de 2025**, no contexto da crise de segurança no Rio de Janeiro, Renan Santos apresentou um programa de 11 pontos direcionado tanto aos **governadores de oposição** quanto aos **pré-candidatos à presidência**, propondo que endossem coletivamente uma agenda a ser implementada integralmente por quem vencer em 2026.
+
+## Estados sem políticas efetivas de combate ao crime serão alvo de intervenção (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan afirma que **estados e governos estaduais que não aplicarem políticas efetivas de destruição do crime organizado serão alvo de intervenção** — citando **Rio de Janeiro, Ceará e Bahia**: "ou eles se enquadram no enfrentamento total ao crime organizado, ou seus governos vão se enquadrar ao governo federal, ao estado de defesa, a GLO". Ele apresenta a medida como resposta à tentativa do governo Lula de concentrar o poder sobre as polícias (ver [[temas/Segurança Pública]] e [[posicoes/Intervenção Federal em Estados com Baixo IDH]]). Ver [[fontes/2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!]].
 
 ## No debate: "estado que não quiser atuar sofrerá intervenção" — Ceará e Bahia (agosto de 2026)
 

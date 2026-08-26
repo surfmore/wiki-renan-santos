@@ -8,6 +8,7 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-23 - Essa mulher foi roubada."
   - "2026-08-21 - Ninguém liga para o Lulinha."
   - "2026-08-20 - Você vai voltar a comer picanha"
@@ -21,6 +22,10 @@ fontes:
 # Escândalo do INSS
 
 Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## "A Record vai perguntar se Lulinha roubou no INSS?" — desafio à imprensa (agosto de 2026)
+
+Em **24 de agosto de 2026**, ao ver [[pessoas/Lula]] na Record, Renan desafia a emissora a perguntar ao presidente "se o filho dele, **Lulinha**, roubou ou não o nosso dinheiro no INSS". A cobrança liga a cobertura da imprensa ao escândalo do INSS (ver [[temas/Mídia e Imprensa]]). Ver [[fontes/2026-08-24 - Record está dando espaço ao Lula]].
 
 ## Aposentada sem receber em Maceió: o "lado desumano" do esquema (agosto de 2026)
 

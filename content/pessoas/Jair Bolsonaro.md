@@ -7,6 +7,7 @@ tags:
   - prisão
 date: 2026-05-25
 fontes:
+  - "2026-08-24 - Nós nascemos para liderar!"
   - "2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS"
   - "2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF"
   - "2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI"
@@ -16,6 +17,10 @@ fontes:
   - "2025-12-06 - Flávio Bolsonaro rachou a direita"
   - "2025-11-22 - Sobre a prisão do Bolsonaro"
 ---
+
+## A família que "trocou a luta pela salvação junto ao STF" (agosto de 2026)
+
+Em **24 de agosto de 2026**, em discurso de campanha, Renan afirma que, após as manifestações que derrubaram Dilma Rousseff, "a família desse cara aqui chegou ao poder" e **trocou toda aquela luta e esperança pela "salvação junto ao STF"** de quem "cometia o crime de rachadinha, que pegava o salário do funcionário fantasma no gabinete, botava um pedaço no bolso e depois saía comprando casas". Ele conclui que "o Brasil não precisa ser traído por essa gente, nem ser pautado por essa gente" — reforçando a narrativa de que a família Bolsonaro traiu o movimento anticorrupção que o levou ao poder. Ver [[fontes/2026-08-24 - Nós nascemos para liderar!]].
 
 ## Jair convidou Alexandre de Moraes para vice (junho de 2026)
 

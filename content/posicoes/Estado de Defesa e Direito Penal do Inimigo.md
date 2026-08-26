@@ -6,6 +6,10 @@ tags:
 date: 2026-08-07
 ---
 
+## "Ou se enquadram no enfrentamento ou seus governos vão para o estado de defesa/GLO" (agosto de 2026)
+
+Em **24 de agosto de 2026**, ao criticar o projeto do PT de centralizar o poder sobre as polícias, Renan reafirma o uso do **estado de defesa** e da **GLO** como instrumentos contra governos estaduais omissos: citando **Rio de Janeiro, Ceará e Bahia**, diz que "ou eles se enquadram no enfrentamento total ao crime organizado, ou seus governos vão se enquadrar ao governo federal, ao estado de defesa, a GLO". Ver [[fontes/2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!]], [[temas/Segurança Pública]] e [[posicoes/Intervenção Federal em Estados com Baixo IDH]].
+
 ## Três propostas no debate: estado de defesa, GLO e super presídios (agosto de 2026)
 
 Em **24 de agosto de 2026**, em trecho de debate, Renan apresenta três propostas de segurança: **(1)** declarar **estado de defesa** e colocar em **GLO (Garantia da Lei e da Ordem)** as regiões tomadas pelo crime organizado — permitindo que polícias estaduais e a Polícia Federal atuem "para destruir, para eliminar o crime organizado" ("passar a rapa nesses caras"); **(2)** construir **super presídios** com **300 a 500 mil vagas**, sem isolamento de facção — "Facciado vai estar todo mundo junto porque nós vamos eliminar as facções"; **(3)** **integração entre estados** com ameaça de intervenção federal para quem não combater o crime.

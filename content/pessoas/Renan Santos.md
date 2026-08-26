@@ -7,6 +7,7 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-24 - Nós nascemos para liderar!"
   - "2026-08-24 - Lula está me provocando"
   - "2026-08-20 - Você vai voltar a comer picanha"
   - "2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio."
@@ -24,6 +25,10 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "Nós nascemos para liderar": as manifestações de 2015 e o "maior país do sul global" (agosto de 2026)
+
+Em **24 de agosto de 2026**, em discurso de campanha, Renan afirma que, **"há 10 anos atrás, eu convoquei as manifestações que derrubaram Dilma Rousseff"** e que o Brasil estava "todo cheio de esperança", com pessoas nas ruas defendendo a Lava Jato. Ele se apresenta como a liderança que impedirá o país de continuar sendo "o país da migalha": "nós nascemos para ser o maior país do sul global". Ver [[fontes/2026-08-24 - Nós nascemos para liderar!]].
 
 ## "Não sou influencer": líder político que derrubou o governo Dilma; "o 14 supera o 13" (agosto de 2026)
 

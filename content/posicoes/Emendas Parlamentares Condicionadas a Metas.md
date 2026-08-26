@@ -9,6 +9,10 @@ date: 2026-08-22
 
 Proposta defendida por Renan Santos de que **emendas parlamentares só possam ser enviadas a municípios que demonstrem bom desempenho** em áreas-chave de políticas públicas.
 
+## Aplicação à educação: "prefeito que não alfabetiza pode ficar inelegível" (agosto de 2026)
+
+Em **24 de agosto de 2026**, no **debate presidencial da Band**, Renan apresenta a **lei de responsabilidade gerencial** aplicada à **educação básica**: em vez de gastar dinheiro com "show do Wesley e Safadão", prefeitos e governadores terão que gastar com segurança, saúde e educação. O município que **melhorar o desempenho da educação básica poderá receber mais dinheiro**; o prefeito que **não entregar e tornar os seus jovens analfabetos funcionais pode se tornar inelegível**. A fala amplia a proposta, já vinculada a metas de saneamento, segurança, saúde e habitação, com um recorte específico de **alfabetização e desempenho escolar** como critério de repasse e inelegibilidade. Ver [[fontes/2026-08-24 - Minhas propostas para a educação no debate na Band.]] e [[posicoes/Propostas para Educação]].
+
 ## "Lei de responsabilidade gerencial": inelegibilidade de 8 anos e desafio a Lira (agosto de 2026)
 
 Em **23 de agosto de 2026**, em resposta a um novo desafio de [[pessoas/Arthur Lira]] sobre o estado de Alagoas, Renan reafirma, do **Vergel do Lago** (Maceió), a **lei de responsabilidade gerencial** como mecanismo para "alterar toda a dinâmica política dos municípios, estados do Brasil". A regra: **político que não cumpre metas básicas ligadas a saneamento, segurança, habitação e educação fica 8 anos inelegível**. Ele lança o desafio a Lira: "Gosta dessa ideia, Artur Lira?"

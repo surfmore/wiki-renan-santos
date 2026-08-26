@@ -5,6 +5,7 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-23 - As decijanjas precisam acabar."
   - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
   - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
@@ -26,6 +27,10 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Record "se entregando ao Lula": crítica e desafio de sabatina (agosto de 2026)
+
+Em **24 de agosto de 2026**, Renan critica a **Record** por dar espaço a [[pessoas/Lula]], que estava na emissora naquele momento. Ele diz que a Record "tá se comportando como moleque" e se entregando ao Lula porque estaria "envolvida no escândalo de corrupção com alguns dos seus donos no escândalo Digima". Renan afirma que, em vez de "contribuir com a democracia", a emissora chamou "aquele bêbado safado" para "fazer monólogo", e a desafia a perguntar a Lula se o filho dele, **Lulinha**, roubou dinheiro do **INSS** e se o governo é lugar em que a turma do **Banco Master** "se esconde e se escora". Ele cobra que a Record o chame para **sabatinas** e conclui: "Rede Record se comporte como um lugar amigo da democracia e não como puxa-saco de ladrão." Ver [[fontes/2026-08-24 - Record está dando espaço ao Lula]], [[eventos/Escândalo do INSS]] e [[eventos/Escândalo Banco Master]].
 
 ## "Decijanja": decisão sobre o Discord atribuída a Janja (agosto de 2026)
 
