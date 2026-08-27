@@ -15,7 +15,7 @@ Em **18 de agosto de 2026**, gravando em uma terra indígena em **Mato Grosso** 
 
 Como resposta, Renan promete que em seu governo as fronteiras serão protegidas e as reservas indígenas "poderão ter uso comercial e econômico a favor dos índios de maneira legal". A proposta aparece combinada à promessa de destruir o crime organizado, para que paisagens de destruição como a do garimpo "vocês nunca mais vão ver".
 
-Ver [[fontes/2026-08-18 - Eu fui em uma terra indígena tomada por garimpo ilegal do Comando Vermelho]].
+Ver [[fontes/2026-08-18 - Eu fui em uma terra indígena tomada por garimpo ilegal do Comando Vermelho]]. *O vídeo de **26 de agosto de 2026** ([[fontes/2026-08-26 - Eu fui em um garimpo ilegal tomado pelo comando vermelho em uma área indígena]]) é republicação deste conteúdo, sem afirmações novas.*
 
 ## Visita à tribo Pareci: índio produtivo com financiamento e licenciamento (julho de 2026)
 

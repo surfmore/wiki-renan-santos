@@ -8,6 +8,7 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-08-25 - Eu quase peguei o Lula hoje."
   - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-23 - Essa mulher foi roubada."
   - "2026-08-21 - Ninguém liga para o Lulinha."
@@ -22,6 +23,10 @@ fontes:
 # Escândalo do INSS
 
 Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## Camiseta "Cadê o dinheiro dos velhinhos?" e cobrança em coletiva (agosto de 2026)
+
+Em **25 de agosto de 2026**, em evento da **Adib** (infraestrutura) onde [[pessoas/Lula]] cancelaria a participação, Renan leva à coletiva de imprensa uma **camiseta com a foto de Lulinha** estampada com a pergunta "**Cadê o dinheiro dos velhinhos?**". Ele cobra: "Ô Lula, conta pra gente cadê o dinheiro. Que que teu filho fez com esse dinheiro? Por que que o teu irmão estava participando do mesmo escândalo? Ele próprio também com uma ONG que ficava se apropriando de curso de vovô." Ver [[fontes/2026-08-25 - Eu quase peguei o Lula hoje.]] e [[pessoas/Lula]].
 
 ## "A Record vai perguntar se Lulinha roubou no INSS?" — desafio à imprensa (agosto de 2026)
 

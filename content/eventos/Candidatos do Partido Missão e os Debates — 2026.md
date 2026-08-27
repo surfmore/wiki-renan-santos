@@ -7,6 +7,9 @@ tags:
   - debates
 date: 2026-08-22
 fontes:
+  - "2026-08-25 - Pronunciamento em resposta a Janja"
+  - "2026-08-25 - Respondendo críticas ao debate"
+  - "2026-08-25 - Eu quase peguei o Lula hoje."
   - "2026-08-24 - Peço desculpas pelo lapso 😂"
   - "2026-08-24 - Lula está me provocando"
   - "2026-08-24 - Lula não tem coragem de vir ao debate"
@@ -24,6 +27,18 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## Desafio a Lula para o debate no SBT após a nota de Janja (agosto de 2026)
+
+Em **25 de agosto de 2026**, em **pronunciamento oficial** respondendo à nota de repúdio de [[pessoas/Janja]] à Band, Renan desafia [[pessoas/Lula]] ao **debate no SBT**: "já que você se sentiu tão ofendida, envie o seu marido, o Lula, para o próximo debate comigo no SBT. Assim ele vai poder defender a honra dele e vai poder explicar para mim porque que você é uma boa companhia." O desafio retoma a estratégia de cobrar a presença de Lula nos debates após a ausência no da Band. Ver [[fontes/2026-08-25 - Pronunciamento em resposta a Janja]].
+
+## "Apareça nos debates": desafio após o cancelamento de evento (agosto de 2026)
+
+Em **25 de agosto de 2026**, após relatar que [[pessoas/Lula]] cancelou de última hora a participação em evento da **Adib** — e que o governo mandou "um sonolento do Geraldo Walking" no lugar —, Renan desafia o presidente: "Tá na hora de você explicar. Para de fugir, meu amigo. **Apareça nos debates**. Larga de ser covarde." Ver [[fontes/2026-08-25 - Eu quase peguei o Lula hoje.]] e [[pessoas/Lula]].
+
+## Segundo turno: "Lula não vai poder fugir dos debates" (agosto de 2026)
+
+Em **25 de agosto de 2026**, respondendo a quem previa que ele "no segundo turno vai apertar o 13 e confirmar", Renan afirma que irá ao **segundo turno enfrentar Lula** — "e dessa vez ele não vai poder fugir dos debates", pois no confronto direto "ele vai ter direito à resposta, eu vou ter réplica, vou ter tréplica, ou seja, vai ter um enfrentamento real ao Lula". Ele projeta: "Eu vou comer o Lula com farinha nos debates. Vai ser a maior humilhação que esse homem já passou na vida dele." Ver [[fontes/2026-08-25 - Respondendo críticas ao debate]] e [[pessoas/Lula]].
 
 ## No debate, o "lapso" de Renan ao escolher Lula para o confronto direto (agosto de 2026)
 

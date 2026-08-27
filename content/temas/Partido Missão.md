@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
   - "2026-08-24 - Lula está me provocando"
   - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
@@ -50,6 +51,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## Defesa do livro amarelo contra a acusação de "zero proposta" (agosto de 2026)
+
+Em **25 de agosto de 2026**, respondendo à crítica de que teria apresentado "zero proposta" no debate da Band, Renan volta a defender o **"livro amarelo"** de propostas: "Eu fui em inúmeros podcasts, seja podcasts especializados, seja sabatinas, falando de propostas. Na sabatina do Globo, foi o que mais falou de propostas, foi atacado por todos os lados e defendi propostas." Ele desafia o crítico a "ler o livro amarelo e comparar o número de propostas e a qualidade de propostas com a de todos os outros candidatos". Ver [[fontes/2026-08-25 - Respondendo críticas ao debate]].
 
 ## "Livro amarelo": 460 páginas de propostas construídas sem dinheiro público (agosto de 2026)
 

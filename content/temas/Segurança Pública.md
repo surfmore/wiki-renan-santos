@@ -6,6 +6,14 @@ tags:
 date: 2026-08-10
 ---
 
+## "Banho de sangue" contra as facções e o Comando Vermelho como ameaça histórica (agosto de 2026)
+
+Em **25 de agosto de 2026**, em trecho de entrevista, Renan confirma que "no primeiro dia de governo" vai "iniciar um banho de sangue contra os membros das facções". Ele descreve o **Comando Vermelho** como "muito pior do que qualquer coisa que passou na história do Brasil": "diariamente, dezenas de pessoas morrem ao redor do Brasil em conflitos tocados pelo comando vermelho. São dezenas, majoritariamente **meninos negros** — as maiores vítimas". Renan aponta [[pessoas/Doca]] como o controlador das operações do CV na maioria das favelas, defende que o enfrentamento vá "do Doca até a base da pirâmide", e relata o funcionamento do **Tribunal do Crime** (ex.: quem pega Uber em favela no Rio pode ser morto junto com o motorista). Diz que as pessoas que mais pedem resposta dura são "mulheres humildes, mulheres mais pobres". Ver [[fontes/2026-08-25 - Sim, banho de sangue.]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].
+
+## "Ter raiva do errado é uma virtude": defesa da agressividade diante do avanço das facções (agosto de 2026)
+
+Em **25 de agosto de 2026**, respondendo à crítica de que seria preciso "parar de normalizar agressividade", Renan defende sua postura: se fosse "passivo todo calmão" diante "dos maiores escândalos de corrupção da nossa história", "do avanço do **Comando Vermelho e PCC** sobre bairros e cidades inteiras", da morte de "homens, mulheres e crianças em todo o país vítimas do crime", dos assaltos e "da fila na creche", ele seria "uma pessoa negligente". Para ele, "ter raiva do errado é uma virtude" e "aceitar as coisas como elas estão vai só ajudar quem tá no poder". Ver [[fontes/2026-08-25 - Respondendo críticas ao debate]].
+
 ## PT quer "centralizar o poder sobre as polícias"; "o PT é inimigo das polícias" (agosto de 2026)
 
 Em **24 de agosto de 2026**, Renan critica a tentativa do governo [[pessoas/Lula]] de "legislar sobre segurança pública, concentrando poderes na mão dele" — uma "vontade que o PT tem há décadas" por ter "uma volúpia por poder". Ele afirma que o PT quer **concentrar o exercício da violência nas mãos dele**, não para atacar bandido, mas para **"segurar a polícia"**, e que "o PT é inimigo das polícias em todos os estados". Como contraponto, defende que **estados que não aplicarem políticas efetivas de destruição do crime organizado serão alvo de intervenção** — citando **Rio de Janeiro, Ceará e Bahia**: "ou eles se enquadram no enfrentamento total ao crime organizado, ou seus governos vão se enquadrar ao governo federal, ao estado de defesa, a GLO". Ver [[fontes/2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!]], [[posicoes/Intervenção Federal em Estados com Baixo IDH]] e [[posicoes/Estado de Defesa e Direito Penal do Inimigo]].

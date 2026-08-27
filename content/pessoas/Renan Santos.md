@@ -7,6 +7,7 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-24 - Nós nascemos para liderar!"
   - "2026-08-24 - Lula está me provocando"
   - "2026-08-20 - Você vai voltar a comer picanha"
@@ -25,6 +26,10 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## Crescimento após o debate e resposta às críticas (agosto de 2026)
+
+Em **25 de agosto de 2026**, Renan afirma que, após o debate da Band, "a maior parte" das reações foi "muito positiva": "Cresci bastante, ganhei seguidores, subi em pesquisa". Ele respondeu a três críticas — de "zero proposta", de "normalizar agressividade" e de previsão de apoio a Lula no segundo turno — reafirmando o [[temas/Partido Missão|livro amarelo]], a "raiva do errado" como virtude e a promessa de enfrentar [[pessoas/Lula]] no segundo turno. Ver [[fontes/2026-08-25 - Respondendo críticas ao debate]].
 
 ## "Nós nascemos para liderar": as manifestações de 2015 e o "maior país do sul global" (agosto de 2026)
 

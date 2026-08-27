@@ -8,6 +8,7 @@ tags:
   - desigualdade
 date: 2026-06-21
 fontes:
+  - "2026-08-25 - Pronunciamento em resposta a Janja"
   - "2026-08-17 - Lula fugiu do debate!"
   - "2026-08-17 - Por que Lula não quer ir ao debate comigo"
   - "2026-07-27 - Quantos animais você acha que morrem nas estradas por ano"
@@ -20,6 +21,10 @@ fontes:
   - "2025-11-21 - MULHER CONTA COMO É A REALIDADE EM BELÉM"
   - "2025-12-04 - O legado da COP30"
 ---
+
+## OEI, contratos sem licitação e "centenas de milhões" na COP30 (agosto de 2026)
+
+Em **25 de agosto de 2026**, em **pronunciamento oficial** respondendo à nota de repúdio de [[pessoas/Janja]], Renan retoma a acusação da **OEI** (Organização dos Estados Ibero-americanos): Janja teria sido convidada a fazer parte da organização, que "curiosamente" passou a ter **contratos sem licitação** não só com o governo Lula, mas com a **COP30** — em valores que "ultrapassam a centenas de milhões de reais". Ver [[fontes/2026-08-25 - Pronunciamento em resposta a Janja]] e [[pessoas/Janja]].
 
 ## COP30 como gasto bilionário que quebra o país e o contrato de Janja (agosto de 2026)
 

@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-08-07
 fontes:
+  - "2026-08-25 - Pronunciamento em resposta a Janja"
   - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
   - "2026-08-24 - Lula está me provocando"
   - "2026-08-23 - As decijanjas precisam acabar."
@@ -29,6 +30,14 @@ Rosângela da Silva, conhecida como Janja, é a esposa do presidente Lula. Renan
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### Pronunciamento em resposta à nota de repúdio por "misoginia" (agosto de 2026)
+
+Em **25 de agosto de 2026**, Renan grava um **pronunciamento oficial** em resposta à **nota de repúdio** que Janja enviou à **Band** contra suas falas no debate presidencial, classificadas por ela como **misoginia**. Renan diz ter ficado "confuso": "primeiro porque Janja não representa todas as mulheres" — "a maior parte das mulheres brasileiras são pessoas honestas, não são pessoas deslumbradas e, acima de tudo, não vivem de normalizar a corrupção através de marido safado".
+
+Ele a chama de **"deslumbrada"** que "torra o nosso dinheiro em eventos internacionais" e bate "junto do seu marido recorde de gasto no cartão corporativo". Sobre a nota que criticava homens que interrompem falas de mulheres, Renan responde que ela, "diante de um idoso, seu marido, também pratica interrupção". Afirma que Janja, **"narcisista"**, "não foi eleita para nenhuma posição", mas é "a pessoa mais influente do governo Lula" — interfere na formação de políticas públicas e **cria fake news**, como teria feito contra o **Discord**, com consequências jurídicas.
+
+Renan retoma a acusação da **OEI**: Janja teria sido convidada a fazer parte da organização, que "curiosamente" passou a ter **contratos sem licitação** com o governo Lula e com a **COP30**, em valores que "ultrapassam a centenas de milhões de reais". Conclui que ela "nunca será nada além da mulher do Lula" e, ironizando a indignação seletiva, pergunta por que ela não se manifestou quando Renan chamou Lula de "ladrão" — e a desafia a enviar Lula ao **debate no SBT** para defender a honra dela. Ver [[fontes/2026-08-25 - Pronunciamento em resposta a Janja]].
 
 ### "Influencer é a tua esposa Janja": influenciadora de moda paga com dinheiro público (agosto de 2026)
 
@@ -113,6 +122,7 @@ Renan usa o caso de Janja para argumentar que o Norte e o Nordeste são utilizad
 
 ## Fontes
 
+- [[fontes/2026-08-25 - Pronunciamento em resposta a Janja]] — pronunciamento oficial em resposta à nota de repúdio por "misoginia"; OEI/COP30; "nunca será nada além da mulher do Lula"
 - [[fontes/2026-08-23 - As decijanjas precisam acabar.]] — "decijanja" sobre o Discord; Janja sem cargo público; lei dura para abuso infantil na internet
 - [[fontes/2026-07-15 - Criticar a gastança da Janja é MISOGINIA]] — Renan rebate acusação de misoginia contra quem critica gastos de Janja; denuncia uso de discurso vitimista
 - [[fontes/2026-01-24 - RENAN SANTOS DIZ QUE VAI PRENDER A JANJA SE FOR ELEITO PRESIDENTE]] — promessa de prisão; TCU e superfaturamento

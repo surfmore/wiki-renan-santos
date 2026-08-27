@@ -6,6 +6,10 @@ tags:
 date: 2026-08-07
 ---
 
+## "Banho de sangue" contra as facções e o caso de Doca (agosto de 2026)
+
+Em **25 de agosto de 2026**, em trecho de entrevista, Renan confirma que, "no primeiro dia de governo Renan Santos", vai "iniciar um banho de sangue contra os membros das facções". Ao explicar o **direito penal do inimigo**, ele afirma que o processo de determinar "através da investigação que pessoas fazem parte de um determinado grupo criminoso" já existe no Brasil "há mais de século" — Polícia Federal, Ministério Público e polícias estaduais já identificam facções como o Comando Vermelho. Renan aponta [[pessoas/Doca]] como o responsável pela operação do CV na maior parte das favelas e diz que **"matar um sujeito como Doca é necessário"**; sobre o alcance do "banho de sangue", defende que ele deve "extrapolar do Doca até a base da pirâmide da facção dele". Ver [[fontes/2026-08-25 - Sim, banho de sangue.]] e [[temas/Segurança Pública]].
+
 ## "Ou se enquadram no enfrentamento ou seus governos vão para o estado de defesa/GLO" (agosto de 2026)
 
 Em **24 de agosto de 2026**, ao criticar o projeto do PT de centralizar o poder sobre as polícias, Renan reafirma o uso do **estado de defesa** e da **GLO** como instrumentos contra governos estaduais omissos: citando **Rio de Janeiro, Ceará e Bahia**, diz que "ou eles se enquadram no enfrentamento total ao crime organizado, ou seus governos vão se enquadrar ao governo federal, ao estado de defesa, a GLO". Ver [[fontes/2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!]], [[temas/Segurança Pública]] e [[posicoes/Intervenção Federal em Estados com Baixo IDH]].
@@ -193,6 +197,7 @@ Ver [[fontes/2026-04-26 - É assim que vou acabar com o crime organizado!]].
 
 ## Fontes
 
+- [[fontes/2026-08-25 - Sim, banho de sangue.]] — confirmação do "banho de sangue" contra facções; investigação prévia; o caso de Doca; extrapolação à base da pirâmide
 - [[fontes/2026-08-24 - Estado de sítio e GLO em áreas dominadas pelo crime organizado]] — estado de defesa + GLO em áreas dominadas pelo crime; super presídios com 300-500 mil vagas
 - [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] — direito penal do inimigo a favor da polícia e do Estado; reocupação territorial
 - [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF; "prevaricação é não agir"

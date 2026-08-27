@@ -5,6 +5,7 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-25 - Pronunciamento em resposta a Janja"
   - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-23 - As decijanjas precisam acabar."
   - "2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA"
@@ -27,6 +28,10 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Janja procura a Band com nota de repúdio; acusação de "misoginia" (agosto de 2026)
+
+Em **25 de agosto de 2026**, em **pronunciamento oficial**, Renan responde à **nota de repúdio** que [[pessoas/Janja]] enviou à **Band** contra suas falas no debate presidencial, classificadas como **misoginia**. Renan rebate dizendo que Janja "não representa todas as mulheres" e que a nota usa a acusação de misoginia como **estratégia para impedir a crítica**: "Janja não quer que você tenha direito sequer de criticá-la. A mesma estratégia que ela usou contra mim nessa nota, ela utilizou contra todos os brasileiros e brasileiras que criticavam o fato dela torrar o nosso dinheiro em viagens internacionais." Ver [[fontes/2026-08-25 - Pronunciamento em resposta a Janja]] e [[pessoas/Janja]].
 
 ## Record "se entregando ao Lula": crítica e desafio de sabatina (agosto de 2026)
 

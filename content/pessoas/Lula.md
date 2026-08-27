@@ -7,6 +7,9 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-25 - Pronunciamento em resposta a Janja"
+  - "2026-08-25 - Respondendo críticas ao debate"
+  - "2026-08-25 - Eu quase peguei o Lula hoje."
   - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-24 - Projeto do PT quer centralizar poder das polícias MAS NUNCA!"
   - "2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!"
@@ -71,6 +74,18 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "O Lula, coitado, tem que ficar lá com aquela Janja": nota de Janja e desafio ao debate no SBT (agosto de 2026)
+
+Em **25 de agosto de 2026**, Renan responde à nota de repúdio de [[pessoas/Janja]] à Band com um **pronunciamento oficial**. A fala que gerou a nota foi a de Renan no debate da Band: "O Lula, coitado, tem que ficar lá com aquela Janja. Era mais certo ter vindo no debate que ele ia ter companhias melhores". Renan afirma que Janja "não representa todas as mulheres" e ironiza a indignação seletiva: pergunta por que ela não se manifestou quando ele chamou Lula de "ladrão". Ao final, desafia Janja a enviar **Lula ao debate no SBT**: "Assim ele vai poder defender a honra dele e vai poder explicar para mim porque que você é uma boa companhia." Ver [[fontes/2026-08-25 - Pronunciamento em resposta a Janja]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
+## "Vou comer o Lula com farinha nos debates" e "não vai restar pedra sobre pedra do lulismo" (agosto de 2026)
+
+Em **25 de agosto de 2026**, respondendo a quem previa que ele "no segundo turno vai apertar o 13 e confirmar", Renan afirma que irá ao **segundo turno enfrentar Lula** — "e dessa vez ele não vai poder fugir dos debates". Ele promete: "Eu vou comer o Lula com farinha nos debates. Vai ser a maior humilhação que esse homem já passou na vida dele", e conclui que "não vai restar pedra sobre pedra do lulismo no Brasil". Para Renan, a visão pessimista de que Lula vencerá "permite que gente como o Lula vença as eleições". Ver [[fontes/2026-08-25 - Respondendo críticas ao debate]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
+## "Eu quase peguei o Lula": cancelamento de evento e camiseta "Cadê o dinheiro dos velhinhos?" (agosto de 2026)
+
+Em **25 de agosto de 2026**, Renan relata que Lula **cancelou de última hora** sua participação em evento da **Adib** (infraestrutura), onde palestraria logo após ele — repetindo o padrão que atribui também a [[pessoas/Flávio Bolsonaro]]: "esses caras cancelam todos os eventos em que eu tô presente". No lugar de Lula, o governo mandou "um sonolento do **Geraldo Walking**". Renan levou à coletiva uma **camiseta com a foto de Lulinha** e a pergunta "Cadê o dinheiro dos velhinhos?", cobrando explicações sobre o filho e o irmão no escândalo do INSS. Ele desafia Lula: "Para de fugir, meu amigo. **Apareça nos debates**. Larga de ser covarde." Ver [[fontes/2026-08-25 - Eu quase peguei o Lula hoje.]], [[eventos/Escândalo do INSS]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## Lula na Record: "bêbado safado" e desafios sobre INSS e Banco Master (agosto de 2026)
 
