@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2026-07-27
 fontes:
+  - "2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais"
   - "2026-08-19 - Eu não quero desistir!"
   - "2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes"
   - "2026-07-08 - Resposta para Vera Magalhães"
@@ -25,6 +26,10 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## Municípios envelhecidos no RS e migração em MT: gasto por necessidade local (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan usa exemplos regionais para defender a **desvinculação dos pisos de educação e saúde**: municípios do interior do Rio Grande do Sul em que "a população envelheceu, não tá nascendo gente" precisariam gastar mais com saúde do que com educação, enquanto lugares como Mato Grosso, com migração interna grande, precisariam de mais gastos em educação. Para ele, as vinculações atuais geram "gasto ineficiente, pouco inteligente e dinheiro". Ver [[fontes/2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais]] e [[posicoes/Reforma Fiscal]].
 
 ## Alagoas: analfabetismo e emendas que não se revertem em desenvolvimento (agosto de 2026)
 

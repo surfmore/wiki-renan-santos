@@ -7,6 +7,10 @@ tags:
 date: 2026-08-07
 ---
 
+## "Decisão ilegal não se cumpre": sigilo de fonte como cláusula pétrea (agosto de 2026)
+
+Em **27 de agosto de 2026**, em trecho de entrevista, Renan retoma o princípio de que **"decisão ilegal não se cumpre"** e o aplica ao caso da quebra do sigilo de fonte de jornalistas no Maranhão por [[pessoas/Alexandre de Moraes]] — que ele classifica como **"grotesca"** e violadora de "cláusula pétrea da Constituição". Ele compara o peso da quebra do sigilo de fonte ao de uma decisão que estabelecesse pena de morte por decreto, e ressalva que não pretende "sair desrespeitando todas as decisões do STF". Diante de decisão ilegal que coloque vidas em risco, diz que ouviria a **AGU**, pediria parecer e recorreria ao STF — mas não cumpriria. Ver [[fontes/2026-08-27 - Decisão ilegal não se cumpre!]] e [[eventos/Busca e Apreensão contra Fonte de Jornalista — Agosto de 2026]].
+
 ## "Corrupção do Centrão e do STF": Renan como único capaz de apontá-la (agosto de 2026)
 
 Em **16 de agosto de 2026**, no anúncio oficial de sua candidatura, Renan afirma ser **"o único que pode apontar a corrupção do Centrão e do STF"** — além da corrupção de Lula e da família Bolsonaro — porque "acima de tudo, eu sou livre e tenho um passado ilibado". A declaração conecta a pauta de combate à corrupção no Judiciário à sua candidatura. Ver [[fontes/2026-08-16 - Não veja esse vídeo!]].

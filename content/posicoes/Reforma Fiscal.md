@@ -8,6 +8,10 @@ date: 2026-08-06
 
 Renan Santos defende uma reforma fiscal ampla como resposta ao que considera uma crise estrutural das contas públicas brasileiras. Ele frequentemente cita o Uruguai como exemplo de país que conseguiu impor disciplina fiscal por meio de regras institucionais duras.
 
+## Analogia dos clubes de futebol: desindexação e desvinculação dos pisos de educação e saúde (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan usa o exemplo do futebol para defender o ajuste fiscal: **Palmeiras e Flamengo fizeram ajustes e sobreviveram; São Paulo, Corinthians e Vasco não fizeram e quebraram** — "essas medidas tem que ser adotadas pelo Brasil para sobreviver". Ele propõe **desindexar benefícios de salário** e **desvincular os pisos de educação e saúde**, hoje "irracionais" e responsáveis por quebrar pequenos municípios: municípios do interior do RS com população envelhecida precisam de mais saúde e menos educação, enquanto Mato Grosso, com migração, precisa de mais educação. Defende ainda que os **cortes de gastos** sejam vinculados a **investimento em infraestrutura**, "que é uma coisa que o Brasil tá precisando para poder voltar a crescer". Ver [[fontes/2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais]], [[posicoes/Propostas para Educação]] e [[posicoes/Propostas para Saúde]].
+
 ## Queda da taxa de juros e investimento estrangeiro via reformas (agosto de 2026)
 
 Em **16 de agosto de 2026**, em discurso de campanha projetando a vitória eleitoral, Renan descreve como cenário de seu governo a **queda da taxa de juros** e a **chegada do investimento estrangeiro** "diante das reformas que nós vamos fazer durante a transição". O vídeo conecta as reformas anunciadas no primeiro pronunciamento de um eventual governo ao barateamento do crédito e à atração de capital externo. Ver [[fontes/2026-08-16 - Já imaginaram]].

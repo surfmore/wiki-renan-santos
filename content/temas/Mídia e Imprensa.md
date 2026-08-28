@@ -5,6 +5,8 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-27 - Fui bem no JN"
+  - "2026-08-27 - Eles toparam debate!"
   - "2026-08-25 - Pronunciamento em resposta a Janja"
   - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-23 - As decijanjas precisam acabar."
@@ -28,6 +30,10 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Jornal Nacional e sabatina do Globo: vitrine da candidatura (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan avalia sua participação no **Jornal Nacional** como o momento em que "o Brasil começou a conhecer quem é Renan Antônio Ferreira dos Santos", com reações positivas nas ruas. Ele anuncia a agenda de aparições de [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] no JN e a **sabatina do Globo** que faria em seguida. Ver [[fontes/2026-08-27 - Fui bem no JN]] e [[fontes/2026-08-27 - Eles toparam debate!]].
 
 ## Janja procura a Band com nota de repúdio; acusação de "misoginia" (agosto de 2026)
 

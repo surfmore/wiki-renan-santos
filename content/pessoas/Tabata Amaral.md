@@ -6,6 +6,7 @@ tags:
   - oposição
 date: 2026-08-10
 fontes:
+  - "2026-08-27 - A lei da misoginia é uma lei para perseguir"
   - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
   - "2026-08-10 - Fui cancelado pela Andréia Sadi."
   - "2026-08-08 - Esse vídeo é o argumento irrefutável para derrubar a maioridade penal."
@@ -19,6 +20,10 @@ fontes:
 Deputada federal, fundadora do **Partido Solidariedade** (ex-PSB), conhecida por se apresentar como representante da periferia e da educação. Renan Santos a critica como símbolo do que chama de "narcisismo progressista": uma política que glorifica a irregularidade quando beneficia seu eleitorado, mas vota contra quem tenta empreender dentro da lei.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos.
+
+## Relatora do PL da Misoginia e a defesa de criminalizar o "betinha" (agosto de 2026)
+
+Em **27 de agosto de 2026**, em trecho de debate, Renan aponta [[pessoas/Tabata Amaral]] como **relatora do PL da Misoginia** e contesta sua afirmação de que meninos que chamam outros meninos de "betinha" apresentam "comportamento misógino". Renan responde: "Mas eu estou puxando porque é ridículo nesse ponto. Eu estou falando da relatora do programa." Para ele, "betinha" é "uma brincadeira de crianças" e "meninos brincam, meninos têm hierarquia" — e um tema sensível como a misoginia não deveria virar "um porrete para você ficar censurando qualquer um que você discorde". Ele critica ainda que o PL permitiria interpretação extensiva e crimes imprescritíveis "com argumentos vazios e abstratos e punições muito pesadas". Ver [[fontes/2026-08-27 - A lei da misoginia é uma lei para perseguir]].
 
 ## Vídeo contra Renan pelo caso "Betinha" e o debate sobre "cultura do machismo na internet" (agosto de 2026)
 

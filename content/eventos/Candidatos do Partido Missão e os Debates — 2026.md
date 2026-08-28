@@ -7,6 +7,8 @@ tags:
   - debates
 date: 2026-08-22
 fontes:
+  - "2026-08-27 - Eles toparam debate!"
+  - "2026-08-27 - Fui bem no JN"
   - "2026-08-25 - Pronunciamento em resposta a Janja"
   - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-25 - Eu quase peguei o Lula hoje."
@@ -27,6 +29,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## "Eles toparam debate": desafio após o Jornal Nacional e proposta de debate popular (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan anuncia que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] aceitaram ir ao **Jornal Nacional** — onde ele próprio foi na véspera e "respondeu todas as perguntas". Ele cobra de Lula explicações sobre o filho, o **INSS**, a "picanha", o **Banco Master** e os "ministros envolvidos no escândalo"; de Flávio, sobre o filme **Dark Horse**, a rachadinha e as relações com [[pessoas/Willer Tomás]]. Renan os convida ao **debate do SBT** e, como alternativa, propõe um debate popular em auditório, estádio ou no **ginásio do Ibirapuera** (SP) "para dezenas de milhares de pessoas": "uma mesa no meio: eu, você e Lula". Ver [[fontes/2026-08-27 - Eles toparam debate!]] e [[fontes/2026-08-27 - Fui bem no JN]].
 
 ## Desafio a Lula para o debate no SBT após a nota de Janja (agosto de 2026)
 

@@ -9,6 +9,10 @@ date: 2026-08-06
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
 
+## "Decisão grotesca" e a quebra do sigilo de fonte no Maranhão (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan classifica como **"grotesca"** a decisão de Moraes que teria quebrado o sigilo de fonte de jornalistas no Maranhão, afirmando que ela violou "uma cláusula pétrea da Constituição". Ele diz que "jornalistas do Brasil inteiro protestaram porque não existe democracia sem sigilo de fonte" e compara o peso da medida ao de uma decisão que estabelecesse pena de morte por decreto. Ver [[fontes/2026-08-27 - Decisão ilegal não se cumpre!]] e [[temas/STF e Ativismo Judicial]].
+
 ## Busca e apreensão contra fonte de jornalista: quebra do sigilo (agosto de 2026)
 
 Em **13 de agosto de 2026**, Renan comenta decisão de Moraes que determinou busca e apreensão contra um empresário apontado como **fonte de um jornalista** — que havia noticiado o uso irregular de carro oficial por [[pessoas/Flávio Dino]]. Renan afirma que a medida **quebra o sigilo de fonte**, "uma coisa sagrada" garantida pela Constituição, e que "decisão ilegal não se cumpre". Ele usa o caso para reforçar a tese de que o STF cruza "qualquer linha de razoabilidade" e que o Brasil se aproxima de uma "ditadura do judiciário".

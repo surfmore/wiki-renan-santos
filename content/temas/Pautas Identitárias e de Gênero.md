@@ -7,6 +7,7 @@ tags:
   - esquerda
 date: 2026-08-05
 fontes:
+  - "2026-08-27 - A lei da misoginia é uma lei para perseguir"
   - "2026-08-09 - Olha a última do Wagner Moura"
   - "2026-08-05 - Um governo para todos"
   - "2026-07-15 - Criticar a gastança da Janja é MISOGINIA"
@@ -22,6 +23,12 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## PL da Misoginia: "lei para perseguir" e a defesa de criminalizar o "betinha" (agosto de 2026)
+
+Em **27 de agosto de 2026**, em trecho de debate, Renan critica o **PL da Misoginia**, cuja relatora é [[pessoas/Tabata Amaral]], como "uma lei para perseguir". Ele contesta o argumento de que meninos que chamam outros de "betinha" teriam comportamento misógino: para Renan, "betinha" vem de alfa e beta, é "uma brincadeira de crianças" — "meninos brincam, meninos têm hierarquia" — e não deveria ser "alvo de uma política estatal".
+
+Renan afirma que o PL permite "interpretação extensiva sobre qualquer tema que pode ser causado misógeno, que vira um crime imprescritível" — enquanto o feminicídio não é imprescritível. Ele diz crer na educação, não na perseguição, e ser contra "uma sociedade de controle": usar um tema sensível "como um porrete para você ficar censurando qualquer um que você discorde". Ver [[fontes/2026-08-27 - A lei da misoginia é uma lei para perseguir]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
 
 ## "Fascismo de esquerda" e o cansaço do identitarismo (agosto de 2026)
 

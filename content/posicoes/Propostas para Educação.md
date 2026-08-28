@@ -7,6 +7,7 @@ tags:
   - escolas-civico-militares
 date: 2026-07-27
 fontes:
+  - "2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais"
   - "2026-08-24 - Minhas propostas para a educação no debate na Band."
   - "2026-08-19 - JORNALISTA ME PEGOU!!!"
   - "2026-08-15 - Por que eu defendo mais escolas cívico-militares."
@@ -23,6 +24,10 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Desvinculação do piso de educação e gasto por necessidade local (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan propõe **desvincular o piso constitucional de educação**, que considera "irracional" por obrigar municípios a gastar com educação mesmo sem demanda. Ele cita municípios do interior do RS, com população envelhecida e "quase não tendo crianças novas", que precisariam gastar mais com saúde do que com educação; e Mato Grosso, com migração interna grande, que precisaria de maiores gastos em educação. Sem essa liberdade, diz, "você tem basicamente um gasto ineficiente". Ver [[fontes/2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais]] e [[posicoes/Reforma Fiscal]].
 
 ## No debate da Band: lei de responsabilidade gerencial, método fônico e educação-trabalho (agosto de 2026)
 

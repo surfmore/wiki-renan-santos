@@ -7,12 +7,17 @@ tags:
   - tecnologia
 date: 2026-07-20
 fontes:
+  - "2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais"
   - "2026-07-20 - O Brasil só tem gordo"
   - "2026-06-02 - O Cariani vai me cancelar"
   - "2026-03-09 - 8 PROPOSTAS PARA SAÚDE NO BRASIL!"
 ---
 
 Renan apresentou oito propostas para reformar a saúde pública brasileira, com foco em prevenção, tecnologia e gestão por resultado.
+
+## Desvinculação do piso de saúde e municípios com população envelhecida (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan propõe **desvincular o piso constitucional de saúde**, argumentando que as vinculações atuais obrigam municípios a gastos ineficientes. Ele cita municípios do interior do RS em que "a população envelheceu, não tá nascendo gente" e que precisariam de "mais gastos com saúde e menos gastos com educação" — mas a vinculação os impede. Para Renan, "quando a liberdade não é gerada, você tem basicamente um gasto ineficiente, pouco inteligente e dinheiro". Ver [[fontes/2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais]] e [[posicoes/Reforma Fiscal]].
 
 ## Reapresentação das propostas (julho de 2026)
 

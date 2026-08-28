@@ -7,6 +7,7 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-27 - Fui bem no JN"
   - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-24 - Nós nascemos para liderar!"
   - "2026-08-24 - Lula está me provocando"
@@ -26,6 +27,10 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## Participação no Jornal Nacional e o problema do Instagram (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan avalia sua participação no **Jornal Nacional** no dia anterior (26/08) como o momento em que "o Brasil começou a conhecer quem é Renan Antônio Ferreira dos Santos". Ele diz que apresentou "ideias, perspectivas" fora da "caixinha de direita ou esquerda" e viu "gente de esquerda concordando". Relata o problema do algoritmo do Instagram — seu "@" é "renançandosemndl", o que dificulta que "milhões de pessoas" que o procuram encontrem o perfil. Ver [[fontes/2026-08-27 - Fui bem no JN]] e [[temas/Mídia e Imprensa]].
 
 ## Crescimento após o debate e resposta às críticas (agosto de 2026)
 

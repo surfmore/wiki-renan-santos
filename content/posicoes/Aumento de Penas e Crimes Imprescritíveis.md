@@ -7,6 +7,7 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-27 - A lei da misoginia é uma lei para perseguir"
   - "2026-08-20 - Vídeos completos logo logo!"
   - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
   - "2026-08-18 - Hoje no Brasil a gente vive o “prendeu soltou”"
@@ -18,6 +19,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## "Piada" imprescritível vs. feminicídio prescritível: crítica à misoginia como crime (agosto de 2026)
+
+Em **27 de agosto de 2026**, Renan usa a contradição da imprescritibilidade para criticar o **PL da Misoginia**: enquanto o **feminicídio não é imprescritível**, uma pessoa que "pode ser considerada como autora de uma piada" teria um crime que não prescreve — "Que país doente. Na hora de punir a gente é mais brando". Ele afirma que leis vagas com "punições muito pesadas" permitem perseguição, e defende a educação como resposta em vez da criminalização. Ver [[fontes/2026-08-27 - A lei da misoginia é uma lei para perseguir]] e [[temas/Pautas Identitárias e de Gênero]].
 
 ## Pena mínima de 30 anos para assalto à mão armada (agosto de 2026)
 

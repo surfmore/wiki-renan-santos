@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-27 - Eles toparam debate!"
   - "2026-08-25 - Pronunciamento em resposta a Janja"
   - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-25 - Eu quase peguei o Lula hoje."
@@ -74,6 +75,10 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Desafiado no Jornal Nacional: filho, INSS e Banco Master (agosto de 2026)
+
+Em **27 de agosto de 2026**, ao anunciar que Lula iria ao **Jornal Nacional**, Renan o desafia a responder sobre o filho, o **INSS**, a "picanha que não chegou", o **Banco Master** e os "ministros envolvidos no escândalo". Ele o convida ao **debate do SBT** e propõe como alternativa um debate popular no ginásio do Ibirapuera: "Vamos botar lá uma mesa no meio. Eu, você e Lula. Bora, Lula. Aguardo vocês. Não fujam." Ver [[fontes/2026-08-27 - Eles toparam debate!]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## "O Lula, coitado, tem que ficar lá com aquela Janja": nota de Janja e desafio ao debate no SBT (agosto de 2026)
 

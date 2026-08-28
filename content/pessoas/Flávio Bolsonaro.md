@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-08-27 - Eles toparam debate!"
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-22 - RESPOSTA AO SILAS"
   - "2026-08-20 - Você vai voltar a comer picanha"
@@ -29,6 +30,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Desafiado no JN: Dark Horse, rachadinha e relações com Willer Tomás (agosto de 2026)
+
+Em **27 de agosto de 2026**, ao anunciar que Flávio iria ao **Jornal Nacional**, Renan o desafia a responder sobre o dinheiro do filme **Dark Horse**, "a rachadinha", "as relações estranhas com o [[pessoas/Willer Tomás]]" e o "escritório de advocacia que recebeu o dinheiro da turma do Master". Ele convida Lula e Flávio ao **debate do SBT** e propõe um debate popular em estádio ou no ginásio do Ibirapuera: "Bora, Flavinho. Aguardo vocês. Não fujam." Ver [[fontes/2026-08-27 - Eles toparam debate!]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## "Flávio quer perder pro Lula para continuar mandando na direita" (agosto de 2026)
 

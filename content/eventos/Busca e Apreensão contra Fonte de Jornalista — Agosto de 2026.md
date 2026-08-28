@@ -7,12 +7,17 @@ tags:
   - sigilo-de-fonte
 date: 2026-08-13
 fontes:
+  - "2026-08-27 - Decisão ilegal não se cumpre!"
   - "2026-08-13 - Decisão ilegal não se cumpre 👍🏻"
 ---
 
 # Busca e Apreensão contra Fonte de Jornalista — Agosto de 2026
 
 Episódio de **13 de agosto de 2026** comentado por Renan Santos, em que uma decisão de [[pessoas/Alexandre de Moraes]] determinou **busca e apreensão** contra um empresário apontado como **fonte de um jornalista**. Renan caracteriza a medida como **quebra do sigilo de fonte** — "uma coisa sagrada", garantida pela Constituição.
+
+## Retomada em entrevista: "decisão ilegal não se cumpre" e o sigilo como cláusula pétrea (agosto de 2026)
+
+Em **27 de agosto de 2026**, em trecho de entrevista, Renan retoma o episódio para explicar sua posição sobre decisões ilegais do STF. Ele classifica a decisão de Moraes como **"grotesca"** por ter violado "uma cláusula pétrea da Constituição quebrando o sigilo de fonte de jornalistas lá no Maranhão", e diz que "jornalistas do Brasil inteiro protestaram porque não existe democracia sem sigilo de fonte". Afirma que o sigilo de fonte tem o "mesmo peso" de uma cláusula pétrea — comparando a uma decisão que estabelecesse pena de morte por decreto — e que, diante de decisão ilegal, qualquer cidadão "tem um dever de não cumprir". Ver [[fontes/2026-08-27 - Decisão ilegal não se cumpre!]].
 
 ## A denúncia de Renan
 
