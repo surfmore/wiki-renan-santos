@@ -1,5 +1,6 @@
 ---
 title: "Campinas deveria ser o Vale do Silício brasileiro"
+video_id: "rOL7S_5Y8qY"
 tags:
   - fonte
   - campinas

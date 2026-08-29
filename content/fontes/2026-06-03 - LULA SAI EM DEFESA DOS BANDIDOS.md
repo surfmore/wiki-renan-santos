@@ -1,5 +1,6 @@
 ---
 title: "LULA SAI EM DEFESA DOS BANDIDOS"
+video_id: "01v8rj8-lFo"
 tags:
   - fonte
   - segurança-pública

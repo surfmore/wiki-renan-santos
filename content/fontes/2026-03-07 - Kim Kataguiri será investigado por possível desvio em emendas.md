@@ -1,5 +1,6 @@
 ---
 title: "Kim Kataguiri será investigado por possível desvio em emendas"
+video_id: "MFyMX6ulJmc"
 tags:
   - fonte
   - kim-kataguiri

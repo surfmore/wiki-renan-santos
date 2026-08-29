@@ -1,5 +1,6 @@
 ---
 title: "Estou sendo cancelado por defender que o Brasil tenha armas nucleares"
+video_id: "hFqkaW5udEQ"
 tags:
   - fonte
   - geopolítica

@@ -1,5 +1,6 @@
 ---
 title: "URGENTE: Boulos quer destruir os apps de entregas"
+video_id: "I2TSHQBS7H8"
 tags:
   - fonte
   - mercado-trabalho

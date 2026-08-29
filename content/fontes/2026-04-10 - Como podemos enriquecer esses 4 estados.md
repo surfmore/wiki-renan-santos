@@ -7,7 +7,7 @@ tags:
   - agro
 date: 2026-04-10
 canal: renan-canal
-video_id: 3NMEQvGX2kM
+video_id: "3NMEQvGX2kM"
 url: "https://www.youtube.com/watch?v=3NMEQvGX2kM"
 ---
 

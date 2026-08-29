@@ -7,7 +7,7 @@ tags:
   - corrupção
 date: 2026-04-08
 canal: renan-canal
-video_id: vxaUjgNKlRo
+video_id: "vxaUjgNKlRo"
 url: "https://www.youtube.com/watch?v=vxaUjgNKlRo"
 ---
 

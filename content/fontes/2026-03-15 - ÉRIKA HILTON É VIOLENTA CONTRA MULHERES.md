@@ -6,7 +6,7 @@ tags:
   - pauta-identitária
 date: 2026-03-15
 canal: renan-canal
-video_id: bT51EB9tp6A
+video_id: "bT51EB9tp6A"
 url: "https://www.youtube.com/watch?v=bT51EB9tp6A"
 tipo: short
 ---

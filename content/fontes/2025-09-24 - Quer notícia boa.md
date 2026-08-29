@@ -1,5 +1,6 @@
 ---
 title: "Quer notícia boa"
+video_id: "M-Z1rO2_hng"
 tags:
   - fonte
   - partido-missão

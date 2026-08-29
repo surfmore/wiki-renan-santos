@@ -33,7 +33,7 @@ Em formato de entrevista, Renan Santos responde sobre seu posicionamento políti
 ## Temas
 - [[temas/Carga Tributária]] — reforma da previdência, corte de renúncias fiscais
 - [[temas/Judiciário e Supersalários]] — fim dos supersalários do funcionalismo
-- [[temas/Educação]] — programa de alfabetização, foco em resultados concretos
+- [[posicoes/Propostas para Educação]] — programa de alfabetização, foco em resultados concretos
 
 ## Posições
 - [[posicoes/Reforma Fiscal]] — PEC protocolada com corte de R$ 3,3 trilhões

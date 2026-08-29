@@ -1,5 +1,6 @@
 ---
 title: "RENATO CARIANI COMENTA SOBRE SHOWS EM CIDADES MISERÁVEIS"
+video_id: "YspKc1duuCY"
 tags:
   - fonte
   - short

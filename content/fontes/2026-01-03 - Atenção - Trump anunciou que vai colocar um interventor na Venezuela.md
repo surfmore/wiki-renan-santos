@@ -1,5 +1,6 @@
 ---
 title: "Atenção - Trump anunciou que vai colocar um interventor na Venezuela"
+video_id: "iq9BXiI4W1Y"
 tags:
   - fonte
   - geopolítica

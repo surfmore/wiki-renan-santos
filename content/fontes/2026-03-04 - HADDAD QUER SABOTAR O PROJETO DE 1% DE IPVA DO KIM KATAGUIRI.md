@@ -1,5 +1,6 @@
 ---
 title: "HADDAD QUER SABOTAR O PROJETO DE 1% DE IPVA DO KIM KATAGUIRI"
+video_id: "pvMf-x7n5yM"
 tags:
   - fonte
   - carga-tributária

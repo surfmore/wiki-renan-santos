@@ -7,7 +7,7 @@ tags:
   - cinema
 date: 2026-03-17
 canal: renan-canal
-video_id: -gskL25hnaA
+video_id: "-gskL25hnaA"
 url: "https://www.youtube.com/watch?v=-gskL25hnaA"
 tipo: short
 ---

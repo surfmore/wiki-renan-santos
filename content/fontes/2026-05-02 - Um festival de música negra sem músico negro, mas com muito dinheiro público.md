@@ -1,5 +1,6 @@
 ---
 title: "Um festival de música negra sem músico negro, mas com muito dinheiro público"
+video_id: "whUnUEWaBUs"
 tags:
   - fonte
   - corrupção-municipal

@@ -1,5 +1,6 @@
 ---
 title: "O Brasil precisa de uma arma nuclear"
+video_id: "f9A8PnZEPcg"
 tags:
   - fonte
   - geopolítica

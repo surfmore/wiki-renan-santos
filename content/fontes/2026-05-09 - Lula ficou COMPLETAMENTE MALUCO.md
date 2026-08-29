@@ -1,5 +1,6 @@
 ---
 title: "Lula ficou COMPLETAMENTE MALUCO"
+video_id: "MFRtLzbHb0Y"
 tags:
   - fonte
 date: 2026-05-09

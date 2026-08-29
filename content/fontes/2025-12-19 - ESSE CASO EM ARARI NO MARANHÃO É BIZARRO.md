@@ -1,5 +1,6 @@
 ---
 title: "ESSE CASO EM ARARI NO MARANHÃO É BIZARRO"
+video_id: "o2Kqmc9DrD8"
 tags:
   - fonte
   - arari

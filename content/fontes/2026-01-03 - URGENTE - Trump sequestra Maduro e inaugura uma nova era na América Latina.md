@@ -1,5 +1,6 @@
 ---
 title: "URGENTE - Trump sequestra Maduro e inaugura uma nova era na América Latina"
+video_id: "xgnXRQFcfjI"
 tags:
   - fonte
   - geopolítica

@@ -7,7 +7,7 @@ tags:
   - Igreja Lagoinha
 date: 2026-01-23
 canal: renan-canal
-video_id: mgtpXOgBb8s
+video_id: "mgtpXOgBb8s"
 url: "https://www.youtube.com/watch?v=mgtpXOgBb8s"
 tipo: short
 ---

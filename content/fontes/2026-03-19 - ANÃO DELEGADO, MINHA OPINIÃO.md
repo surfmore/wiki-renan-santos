@@ -7,7 +7,7 @@ tags:
   - meritocracia
 date: 2026-03-19
 canal: renan-canal
-video_id: BczNor-uSeI
+video_id: "BczNor-uSeI"
 url: "https://www.youtube.com/watch?v=BczNor-uSeI"
 tipo: short
 ---

@@ -6,7 +6,7 @@ tags:
   - transcrição-inválida
 date: 2026-04-10
 canal: renan-canal
-video_id: vA49b677Na8
+video_id: "vA49b677Na8"
 url: "https://www.youtube.com/watch?v=vA49b677Na8"
 ---
 

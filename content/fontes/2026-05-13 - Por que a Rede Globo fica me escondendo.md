@@ -1,5 +1,6 @@
 ---
 title: "Por que a Rede Globo fica me escondendo"
+video_id: "yvo1947-p9k"
 tags:
   - fonte
 date: 2026-05-13

@@ -1,5 +1,6 @@
 ---
 title: "RATINHO JR. NÃO SERÁ MAIS CANDIDATO"
+video_id: "df8lg2Ey_ew"
 tags:
   - fonte
   - direita-tradicional

@@ -1,5 +1,6 @@
 ---
 title: "Edir Macedo tem seu próprio Banco Master"
+video_id: "T-IbN5jT2m8"
 tags:
   - fonte
   - banco-master

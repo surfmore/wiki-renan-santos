@@ -1,5 +1,6 @@
 ---
 title: "Então realmente tinha influenciador sendo pago para defender o Banco Master"
+video_id: "Zi69vl3_qHM"
 tags:
   - fonte
   - curto

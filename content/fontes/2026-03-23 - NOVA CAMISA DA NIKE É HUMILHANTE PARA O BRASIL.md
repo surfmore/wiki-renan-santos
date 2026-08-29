@@ -1,5 +1,6 @@
 ---
 title: "NOVA CAMISA DA NIKE É HUMILHANTE PARA O BRASIL"
+video_id: "fuHLAtUfAEo"
 tags:
   - fonte
   - identidade-nacional

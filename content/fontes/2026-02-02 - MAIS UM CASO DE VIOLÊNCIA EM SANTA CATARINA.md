@@ -1,5 +1,6 @@
 ---
 title: "MAIS UM CASO DE VIOLÊNCIA EM SANTA CATARINA"
+video_id: "AReGWFyN2u8"
 tags:
   - fonte
   - segurança-pública

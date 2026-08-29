@@ -1,5 +1,6 @@
 ---
 title: "É meu destino encontrar Lula no debate"
+video_id: "qaPWhs6f10I"
 tags:
   - fonte
 date: 2026-05-22

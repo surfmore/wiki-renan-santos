@@ -7,7 +7,7 @@ tags:
   - santa-catarina
 date: 2026-01-25
 canal: renan-canal
-video_id: eb9Y50Y42Cg
+video_id: "eb9Y50Y42Cg"
 url: "https://www.youtube.com/watch?v=eb9Y50Y42Cg"
 tipo: short
 ---

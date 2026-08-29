@@ -1,5 +1,6 @@
 ---
 title: "ABRIR E FECHAR EMPRESAS TEM QUE SER FÁCIL"
+video_id: "Fp42bAyt7e4"
 tags:
   - fonte
   - empreendedorismo

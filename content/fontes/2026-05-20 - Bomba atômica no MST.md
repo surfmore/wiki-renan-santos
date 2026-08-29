@@ -1,5 +1,6 @@
 ---
 title: "Bomba atômica no MST"
+video_id: "wX6FEu56bKY"
 tags:
   - fonte
 date: 2026-05-20

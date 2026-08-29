@@ -1,5 +1,6 @@
 ---
 title: "Tem Como Acabar a Escala 6x1 no Brasil"
+video_id: "HLKbjsZRo5k"
 tags:
   - fonte
   - emprego

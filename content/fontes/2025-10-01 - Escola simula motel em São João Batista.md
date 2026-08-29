@@ -1,5 +1,6 @@
 ---
 title: "Escola simula motel em São João Batista"
+video_id: "LHjYyNWWXXU"
 tags:
   - fonte
   - municípios

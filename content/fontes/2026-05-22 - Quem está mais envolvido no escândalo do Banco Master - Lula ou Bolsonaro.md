@@ -1,5 +1,6 @@
 ---
 title: "Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro?"
+video_id: "oiuKDEla-R8"
 tags:
   - fonte
 date: 2026-05-22

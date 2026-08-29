@@ -1,5 +1,6 @@
 ---
 title: "Bora tomar detergente?"
+video_id: "vk1YmoAjq_g"
 tags:
   - fonte
 date: 2026-05-11

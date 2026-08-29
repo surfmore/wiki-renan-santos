@@ -7,7 +7,7 @@ tags:
   - infraestrutura
 date: 2026-03-18
 canal: renan-canal
-video_id: cWJ3MagWhes
+video_id: "cWJ3MagWhes"
 url: "https://www.youtube.com/watch?v=cWJ3MagWhes"
 tipo: short
 ---

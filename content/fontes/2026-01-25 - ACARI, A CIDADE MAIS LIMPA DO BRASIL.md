@@ -7,7 +7,7 @@ tags:
   - cultura-cívica
 date: 2026-01-25
 canal: renan-canal
-video_id: KX34olrLGnM
+video_id: "KX34olrLGnM"
 url: "https://www.youtube.com/watch?v=KX34olrLGnM"
 tipo: short
 ---

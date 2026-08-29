@@ -1,5 +1,6 @@
 ---
 title: "CUNHADO DE VORCARO, FABIANO ZETTEL, É PRESO EM DESDOBRAMENTO DO CASO BANCO MASTER"
+video_id: "IswxXzdFMQI"
 tags:
   - fonte
   - short

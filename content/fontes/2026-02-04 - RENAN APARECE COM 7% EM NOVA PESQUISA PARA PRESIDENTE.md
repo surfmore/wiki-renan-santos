@@ -1,5 +1,6 @@
 ---
 title: "RENAN APARECE COM 7% EM NOVA PESQUISA PARA PRESIDENTE"
+video_id: "U4a7vC0TE0s"
 tags:
   - fonte
   - candidatura

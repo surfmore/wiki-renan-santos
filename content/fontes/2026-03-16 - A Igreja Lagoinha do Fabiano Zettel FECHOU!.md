@@ -7,7 +7,7 @@ tags:
   - evangélicos
 date: 2026-03-16
 canal: renan-canal
-video_id: xONiWD2bF-k
+video_id: "xONiWD2bF-k"
 url: "https://www.youtube.com/watch?v=xONiWD2bF-k"
 tipo: short
 ---

@@ -1,5 +1,6 @@
 ---
 title: "O PT está serelepe achando que ninguém vai lembrar do papel deles no escândalo com Daniel Vorcaro"
+video_id: "CPBUADfG9Hk"
 tags:
   - fonte
 date: 2026-05-16

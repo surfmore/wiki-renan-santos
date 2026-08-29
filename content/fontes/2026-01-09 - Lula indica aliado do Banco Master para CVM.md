@@ -1,5 +1,6 @@
 ---
 title: "Lula indica aliado do Banco Master para CVM"
+video_id: "nqBgdfIYiNQ"
 tags:
   - fonte
   - curto

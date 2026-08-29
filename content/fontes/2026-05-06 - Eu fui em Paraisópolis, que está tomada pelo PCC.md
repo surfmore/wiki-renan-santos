@@ -1,5 +1,6 @@
 ---
 title: "Eu fui em Paraisópolis, que está tomada pelo PCC"
+video_id: "CNbKxPzcpw4"
 tags:
   - fonte
   - short

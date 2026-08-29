@@ -1,5 +1,6 @@
 ---
 title: "RENAN VISITA A FÁBRICA DA AETHRA — Pouso Alegre — MG"
+video_id: "sS3i05_xLeA"
 tags:
   - fonte
 date: 2026-05-13

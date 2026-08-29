@@ -1,5 +1,6 @@
 ---
 title: "Flávio Bolsonaro confessou o acordo com o Alexandre de Moraes"
+video_id: "YFTvv1a-0j0"
 tags:
   - fonte
 date: 2026-05-10

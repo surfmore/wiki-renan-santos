@@ -1,5 +1,6 @@
 ---
 title: "Lula está prestes a aprovar seu maior projeto - e direita vai ajudar"
+video_id: "2QDplUZ1AZA"
 tags:
   - fonte
   - escala-6x1

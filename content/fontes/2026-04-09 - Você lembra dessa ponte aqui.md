@@ -7,7 +7,7 @@ tags:
   - infraestrutura
 date: 2026-04-09
 canal: renan-canal
-video_id: nmoUUsiUEG8
+video_id: "nmoUUsiUEG8"
 url: "https://www.youtube.com/watch?v=nmoUUsiUEG8"
 ---
 

@@ -7,7 +7,7 @@ tags:
   - jaques-wagner
 date: 2026-01-24
 canal: renan-canal
-video_id: kG5pl5UB0wk
+video_id: "kG5pl5UB0wk"
 url: "https://www.youtube.com/watch?v=kG5pl5UB0wk"
 tipo: short
 ---

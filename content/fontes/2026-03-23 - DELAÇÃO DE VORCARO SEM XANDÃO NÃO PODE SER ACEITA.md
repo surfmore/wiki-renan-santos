@@ -1,5 +1,6 @@
 ---
 title: "DELAÇÃO DE VORCARO SEM XANDÃO NÃO PODE SER ACEITA"
+video_id: "n-NeSsmT6jc"
 tags:
   - fonte
   - banco-master

@@ -6,7 +6,7 @@ tags:
   - segurança-pública
 date: 2026-03-18
 canal: renan-canal
-video_id: 3VU4PSW6mfM
+video_id: "3VU4PSW6mfM"
 url: "https://www.youtube.com/watch?v=3VU4PSW6mfM"
 tipo: short
 ---

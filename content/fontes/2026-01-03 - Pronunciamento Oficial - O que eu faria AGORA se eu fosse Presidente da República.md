@@ -1,5 +1,6 @@
 ---
 title: "Pronunciamento Oficial - O que eu faria AGORA se eu fosse Presidente da República"
+video_id: "e_B1qNlHu34"
 tags:
   - fonte
   - geopolítica

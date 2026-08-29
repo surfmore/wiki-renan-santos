@@ -7,7 +7,7 @@ tags:
   - emprego
 date: 2026-03-17
 canal: renan-canal
-video_id: jevS8LQhuNA
+video_id: "jevS8LQhuNA"
 url: "https://www.youtube.com/watch?v=jevS8LQhuNA"
 tipo: short
 ---

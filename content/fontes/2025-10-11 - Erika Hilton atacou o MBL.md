@@ -1,5 +1,6 @@
 ---
 title: "Erika Hilton atacou o MBL"
+video_id: "P9TRV_eljHo"
 tags:
   - fonte
   - desfavelização

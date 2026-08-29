@@ -1,5 +1,6 @@
 ---
 title: "VAMOS CRIMINALIZAR A EXTREMA-ESQUERDA"
+video_id: "fJVRBWdM2Yk"
 tags:
   - fonte
   - liberdade-de-expressão

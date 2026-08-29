@@ -1,5 +1,6 @@
 ---
 title: "FIQUEI PARADO NA DUTRA NO MEIO DA MINHA PRÉ-CAMPANHA"
+video_id: "Wn8d9xjghZM"
 tags:
   - fonte
   - infraestrutura

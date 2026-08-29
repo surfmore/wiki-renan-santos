@@ -1,5 +1,6 @@
 ---
 title: "Santa Catarina, não podemos deixar que a favelização tome conta do estado!"
+video_id: "EOzoBKTFxII"
 tags:
   - fonte
   - segurança

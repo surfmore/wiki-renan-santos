@@ -6,7 +6,7 @@ tags:
   - propostas
 date: 2026-03-17
 canal: renan-canal
-video_id: tXpSvgNN9wM
+video_id: "tXpSvgNN9wM"
 url: "https://www.youtube.com/watch?v=tXpSvgNN9wM"
 tipo: short
 ---

@@ -7,7 +7,7 @@ tags:
   - crítica-direita
 date: 2026-03-16
 canal: renan-canal
-video_id: -vRBWbTH73I
+video_id: "-vRBWbTH73I"
 url: "https://www.youtube.com/watch?v=-vRBWbTH73I"
 tipo: short
 ---

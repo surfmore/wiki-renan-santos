@@ -275,7 +275,7 @@ Renan propõe **quatro medidas**:
 
 Sua tese central é inverter a regra atual: "quem vai viver no condomínio fechado vão ser os bandidos, sempre presos, e o resto da população, não mais favelizada, vivendo um Brasil livre para todos."
 
-O vídeo tem a participação de [[pessoas/Vítor Antu|Vítor Antum]], pré-candidato a deputado federal pelo Partido Missão.
+O vídeo tem a participação de Vítor Antu, pré-candidato a deputado federal pelo Partido Missão.
 
 Ver [[fontes/2026-07-23 - Estão tacando granada de drones no Rio de Janeiro]].
 

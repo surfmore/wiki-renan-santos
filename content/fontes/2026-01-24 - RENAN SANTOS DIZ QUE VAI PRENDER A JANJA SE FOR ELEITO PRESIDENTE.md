@@ -7,7 +7,7 @@ tags:
   - corrupção
 date: 2026-01-24
 canal: renan-canal
-video_id: pdY-sUDFAPw
+video_id: "pdY-sUDFAPw"
 url: "https://www.youtube.com/watch?v=pdY-sUDFAPw"
 tipo: short
 ---

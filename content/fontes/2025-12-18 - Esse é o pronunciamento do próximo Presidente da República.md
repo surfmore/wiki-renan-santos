@@ -1,5 +1,6 @@
 ---
 title: "Esse é o pronunciamento do próximo Presidente da República."
+video_id: "W7675pbdaAk"
 tags:
   - fonte
   - eleições-2026

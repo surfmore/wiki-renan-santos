@@ -1,5 +1,6 @@
 ---
 title: "Expulsei o Kim do MBL"
+video_id: "OzfblZP_EeE"
 tags:
   - fonte
   - partido-missão

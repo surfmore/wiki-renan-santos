@@ -1,5 +1,6 @@
 ---
 title: "Tutorial sobre como ganhar um apartamento em São Paulo!"
+video_id: "0grmQKwTsNY"
 tags:
   - fonte
 date: 2026-05-12

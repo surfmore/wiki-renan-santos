@@ -1,5 +1,6 @@
 ---
 title: "RENAN RESPONDE JORNALISTA BURRO!"
+video_id: "MuiVB4zOkOU"
 tags:
   - fonte
   - mídia

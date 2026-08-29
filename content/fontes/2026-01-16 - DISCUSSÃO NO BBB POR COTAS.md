@@ -1,5 +1,6 @@
 ---
 title: "DISCUSSÃO NO BBB POR COTAS..."
+video_id: "xmWC6ZEylW8"
 tags:
   - fonte
   - short

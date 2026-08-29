@@ -7,7 +7,7 @@ tags:
   - igrejas
 date: 2026-03-18
 canal: renan-canal
-video_id: MMWiu86lShc
+video_id: "MMWiu86lShc"
 url: "https://www.youtube.com/watch?v=MMWiu86lShc"
 tipo: short
 ---

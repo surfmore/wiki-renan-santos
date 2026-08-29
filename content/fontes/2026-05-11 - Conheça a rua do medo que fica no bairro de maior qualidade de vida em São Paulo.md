@@ -1,5 +1,6 @@
 ---
 title: "Conheça a 'rua do medo' que fica no bairro de maior qualidade de vida em São Paulo"
+video_id: "RiRB44sOyc0"
 tags:
   - fonte
 date: 2026-05-11

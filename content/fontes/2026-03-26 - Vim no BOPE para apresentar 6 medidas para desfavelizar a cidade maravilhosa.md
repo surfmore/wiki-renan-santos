@@ -1,5 +1,6 @@
 ---
 title: "Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
+video_id: "Y1o1KpciG6U"
 tags:
   - fonte
   - segurança

@@ -7,7 +7,7 @@ tags:
   - lula
 date: 2026-01-24
 canal: renan-canal
-video_id: GBtfyBxlvog
+video_id: "GBtfyBxlvog"
 url: "https://www.youtube.com/watch?v=GBtfyBxlvog"
 tipo: short
 ---

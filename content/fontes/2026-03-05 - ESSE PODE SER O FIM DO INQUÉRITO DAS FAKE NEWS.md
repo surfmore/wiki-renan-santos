@@ -1,5 +1,6 @@
 ---
 title: "ESSE PODE SER O FIM DO INQUÉRITO DAS FAKE NEWS"
+video_id: "t-Fr5ZyNRbE"
 tags:
   - fonte
   - stf

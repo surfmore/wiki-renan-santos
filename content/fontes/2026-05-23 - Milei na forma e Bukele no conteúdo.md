@@ -1,5 +1,6 @@
 ---
 title: "Milei na forma e Bukele no conteúdo"
+video_id: "xj90cmHOeUI"
 tags:
   - fonte
 date: 2026-05-23

@@ -1,5 +1,6 @@
 ---
 title: "O Brasil precisa falar sobre a saída do Bolsa Família."
+video_id: "k6ssBI7yAj8"
 tags:
   - fonte
   - curto

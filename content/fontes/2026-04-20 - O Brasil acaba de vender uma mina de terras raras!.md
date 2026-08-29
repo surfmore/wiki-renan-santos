@@ -4,7 +4,7 @@ tags:
   - fonte
 date: 2026-04-20
 canal: renan-canal
-video_id: 0HzVs48NQ1I
+video_id: "0HzVs48NQ1I"
 url: "https://www.youtube.com/watch?v=0HzVs48NQ1I"
 ---
 

@@ -1,5 +1,6 @@
 ---
 title: "VAZOU! Faça sua doação para pix@partidomissao.com"
+video_id: "YRIeHMZ0Ktw"
 tags:
   - fonte
 date: 2026-05-15

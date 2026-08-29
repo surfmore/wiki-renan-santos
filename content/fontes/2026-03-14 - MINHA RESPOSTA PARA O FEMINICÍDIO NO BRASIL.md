@@ -7,7 +7,7 @@ tags:
   - maioridade-penal
 date: 2026-03-14
 canal: renan-canal
-video_id: VgGA2eh1nFg
+video_id: "VgGA2eh1nFg"
 url: "https://www.youtube.com/watch?v=VgGA2eh1nFg"
 tipo: short
 ---

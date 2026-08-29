@@ -1,5 +1,6 @@
 ---
 title: "VALE GÁS É PROGRAMA DE COMPRA DE VOTO DO LULA"
+video_id: "2rvS-3VsA5g"
 tags:
   - fonte
   - populismo

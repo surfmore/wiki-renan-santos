@@ -1,5 +1,6 @@
 ---
 title: "URGENTE - a nova mentira do Lula"
+video_id: "0ICsuO-_TI8"
 tags:
   - fonte
 date: 2026-05-12

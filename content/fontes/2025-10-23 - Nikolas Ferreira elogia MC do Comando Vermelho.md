@@ -1,5 +1,6 @@
 ---
 title: "Nikolas Ferreira elogia MC do Comando Vermelho"
+video_id: "dLWwBgto-WQ"
 tags:
   - fonte
   - crítica-à-direita

@@ -1,5 +1,6 @@
 ---
 title: "A Globo resolveu me atacar!"
+video_id: "UaBmd7C0A6A"
 tags:
   - fonte
   - mídia

@@ -1,5 +1,6 @@
 ---
 title: "Renan é autista? Por que razão ele foi cancelado?"
+video_id: "DdVxI5vK-qY"
 tags:
   - fonte
 date: 2026-05-10

@@ -1,5 +1,6 @@
 ---
 title: "Qual o próximo país, Trump"
+video_id: "CWPYjfUjnEA"
 tags:
   - fonte
   - geopolítica

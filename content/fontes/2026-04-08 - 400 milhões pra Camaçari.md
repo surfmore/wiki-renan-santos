@@ -7,7 +7,7 @@ tags:
   - china
 date: 2026-04-08
 canal: renan-canal
-video_id: cvvYRXIVDAA
+video_id: "cvvYRXIVDAA"
 url: "https://www.youtube.com/watch?v=cvvYRXIVDAA"
 ---
 

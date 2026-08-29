@@ -1,5 +1,6 @@
 ---
 title: "Governo Lula Taxa Mais de 1,2 Mil Produtos Importados"
+video_id: "gfz_yuVkjAQ"
 tags:
   - fonte
   - carga-tributária

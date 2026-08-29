@@ -1,5 +1,6 @@
 ---
 title: "B4ANDIDO AMIGÃO DA JUÍZA É M0RTO EM CONFRONTO"
+video_id: "H8bUaImmxNE"
 tags:
   - fonte
   - judiciário

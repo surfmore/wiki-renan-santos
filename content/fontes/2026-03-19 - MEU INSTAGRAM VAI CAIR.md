@@ -6,7 +6,7 @@ tags:
   - censura
 date: 2026-03-19
 canal: renan-canal
-video_id: mRFuvk9cQ9g
+video_id: "mRFuvk9cQ9g"
 url: "https://www.youtube.com/watch?v=mRFuvk9cQ9g"
 tipo: short
 ---

@@ -1,5 +1,6 @@
 ---
 title: "O que FLÁVIO BOLSONARO e JOÃO CAMPOS têm em comum"
+video_id: "X8WgKCgD44M"
 tags:
   - fonte
   - direita-tradicional

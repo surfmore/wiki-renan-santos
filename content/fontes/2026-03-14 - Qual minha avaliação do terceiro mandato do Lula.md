@@ -7,7 +7,7 @@ tags:
   - esquerda
 date: 2026-03-14
 canal: renan-canal
-video_id: GAPDXC9ihNw
+video_id: "GAPDXC9ihNw"
 url: "https://www.youtube.com/watch?v=GAPDXC9ihNw"
 tipo: short
 ---

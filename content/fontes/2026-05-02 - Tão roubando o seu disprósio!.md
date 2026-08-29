@@ -1,5 +1,6 @@
 ---
 title: "Tão roubando o seu disprósio!"
+video_id: "L9qvMHz9ItA"
 tags:
   - fonte
   - soberania-tecnológica

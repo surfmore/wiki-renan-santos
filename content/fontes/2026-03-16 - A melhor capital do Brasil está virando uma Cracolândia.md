@@ -7,7 +7,7 @@ tags:
   - curitiba
 date: 2026-03-16
 canal: renan-canal
-video_id: ggU3eQDGJCw
+video_id: "ggU3eQDGJCw"
 url: "https://www.youtube.com/watch?v=ggU3eQDGJCw"
 tipo: short
 ---

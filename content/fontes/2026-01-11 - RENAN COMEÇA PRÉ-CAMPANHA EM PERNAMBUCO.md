@@ -1,5 +1,6 @@
 ---
 title: "RENAN COMEÇA PRÉ-CAMPANHA EM PERNAMBUCO"
+video_id: "M27WqhCM_hQ"
 tags:
   - fonte
   - curto

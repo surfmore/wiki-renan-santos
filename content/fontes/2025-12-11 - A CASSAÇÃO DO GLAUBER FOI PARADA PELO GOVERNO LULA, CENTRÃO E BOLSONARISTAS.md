@@ -1,5 +1,6 @@
 ---
 title: "A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, CENTRÃO E BOLSONARISTAS"
+video_id: "7MRH9z8yF-w"
 tags:
   - fonte
   - câmara

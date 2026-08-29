@@ -1,5 +1,6 @@
 ---
 title: "LULA ESTÁ EVITANDO FALAR DO ESCÂNDALO DO BANCO MASTER"
+video_id: "UktEiK2v80w"
 tags:
   - fonte
   - banco-master

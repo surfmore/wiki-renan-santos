@@ -1,5 +1,6 @@
 ---
 title: "Querem cassar a Luana, vereadora da Chapada Gaúcha"
+video_id: "GrKxKiYp734"
 tags:
   - fonte
 date: 2026-05-18

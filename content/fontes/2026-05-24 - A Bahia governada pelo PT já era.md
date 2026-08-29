@@ -1,5 +1,6 @@
 ---
 title: "A Bahia governada pelo PT já era"
+video_id: "IlbX9Y-2xDA"
 tags:
   - fonte
   - short

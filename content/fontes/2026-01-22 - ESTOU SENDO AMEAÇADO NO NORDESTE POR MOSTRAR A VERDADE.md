@@ -7,7 +7,7 @@ tags:
   - campanha
 date: 2026-01-22
 canal: renan-canal
-video_id: L1KAgJz1_4Y
+video_id: "L1KAgJz1_4Y"
 url: "https://www.youtube.com/watch?v=L1KAgJz1_4Y"
 tipo: short
 ---

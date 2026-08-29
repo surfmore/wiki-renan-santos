@@ -1,5 +1,6 @@
 ---
 title: "TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!"
+video_id: "EYyMoumoP28"
 tags:
   - fonte
   - política-externa

@@ -7,7 +7,7 @@ tags:
   - resort-tayaya
 date: 2026-01-21
 canal: renan-canal
-video_id: zjUV9Xdi2kM
+video_id: "zjUV9Xdi2kM"
 url: "https://www.youtube.com/watch?v=zjUV9Xdi2kM"
 tipo: short
 ---

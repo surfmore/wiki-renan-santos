@@ -1,5 +1,6 @@
 ---
 title: "O centrão é o verdadeiro problema do Brasil!"
+video_id: "rZpIJnLy2h0"
 tags:
   - fonte
 date: 2026-05-21

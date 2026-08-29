@@ -6,7 +6,7 @@ tags:
   - banco-master
 date: 2026-04-10
 canal: renan-canal
-video_id: X2NtlyXyf9o
+video_id: "X2NtlyXyf9o"
 url: "https://www.youtube.com/watch?v=X2NtlyXyf9o"
 ---
 

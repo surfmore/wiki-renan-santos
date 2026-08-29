@@ -1,5 +1,6 @@
 ---
 title: "Carta aberta ao pequeno empresário brasileiro"
+video_id: "VP78RgdFnh4"
 tags:
   - fonte
   - economia

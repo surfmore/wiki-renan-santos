@@ -1,5 +1,6 @@
 ---
 title: "A proposta mais burra que você vai ver hoje"
+video_id: "bFO-UIQV53I"
 tags:
   - fonte
   - populismo

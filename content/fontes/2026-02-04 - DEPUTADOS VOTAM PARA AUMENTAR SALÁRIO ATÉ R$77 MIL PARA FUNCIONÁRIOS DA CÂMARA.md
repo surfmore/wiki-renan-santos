@@ -1,5 +1,6 @@
 ---
 title: "DEPUTADOS VOTAM PARA AUMENTAR SALÁRIO EM ATÉ R$77 MIL PARA FUNCIONÁRIOS DA CÂMARA"
+video_id: "iCWDcYXKPHY"
 tags:
   - fonte
   - supersalários

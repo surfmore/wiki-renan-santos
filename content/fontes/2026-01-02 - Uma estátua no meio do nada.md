@@ -1,5 +1,6 @@
 ---
 title: "Uma estátua no meio do nada"
+video_id: "7pOid-uTYTk"
 tags:
   - fonte
   - corrupção-municipal

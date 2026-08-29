@@ -6,7 +6,7 @@ tags:
   - partido-missão
 date: 2026-03-19
 canal: renan-canal
-video_id: P-DY_-JK_c4
+video_id: "P-DY_-JK_c4"
 url: "https://www.youtube.com/watch?v=P-DY_-JK_c4"
 tipo: short
 ---

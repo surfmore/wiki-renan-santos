@@ -1,5 +1,6 @@
 ---
 title: "ESSE VIDEO DO RICHARD RASMUSSEN VAI TE DEIXAR PTO"
+video_id: "BH-TMaBJHIk"
 tags:
   - fonte
   - corrupção

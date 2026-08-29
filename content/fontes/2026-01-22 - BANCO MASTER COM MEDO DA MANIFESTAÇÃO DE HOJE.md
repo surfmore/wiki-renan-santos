@@ -6,7 +6,7 @@ tags:
   - manifestação
 date: 2026-01-22
 canal: renan-canal
-video_id: yz0Z-eFwMYo
+video_id: "yz0Z-eFwMYo"
 url: "https://www.youtube.com/watch?v=yz0Z-eFwMYo"
 tipo: short
 ---
