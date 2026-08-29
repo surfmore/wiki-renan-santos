@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2026-07-27
 fontes:
+  - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais"
   - "2026-08-19 - Eu não quero desistir!"
   - "2026-07-27 - Por que a mesma estrada é tão diferente em estados diferentes"
@@ -26,6 +27,10 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## "O Nordeste vai ser a nova locomotiva brasileira" (agosto de 2026)
+
+Em **27 de agosto de 2026**, em discurso de campanha, Renan promete **desenvolver o Nordeste**: "O Nordeste vai ter um futuro glorioso, ele vai ser a nova locomotiva brasileira" — dentro de uma visão que inclui a "guerra ao crime organizado" e as favelas que viram bairros. A frase sintetiza, em tom de campanha, o compromisso com a região já defendido em vídeos anteriores. Ver [[fontes/2026-08-27 - Vamos sonhar esse sonho!]] e [[posicoes/Desfavelização do Brasil]].
 
 ## Municípios envelhecidos no RS e migração em MT: gasto por necessidade local (agosto de 2026)
 

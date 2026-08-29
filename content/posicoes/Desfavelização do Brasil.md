@@ -7,6 +7,8 @@ tags:
   - habitação
 date: 2026-08-22
 fontes:
+  - "2026-08-27 - Uma pessoa que mora em favela hoje já não tem “direitos”."
+  - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim."
   - "2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl"
   - "2026-08-20 - Eu destruí uma barricada do Comando Vermelho!"
@@ -25,6 +27,14 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Favela como "regime paralelo": titulares de deveres sem direitos (agosto de 2026)
+
+Em **27 de agosto de 2026**, em trecho de entrevista, Renan argumenta que pessoas em regiões tomadas pelo crime organizado **"não estão circunscritas naquilo que a gente chama de estado democrático de direito", mas vivem num "regime paralelo"** — "um regime opressivo, liderado pelo crime organizado". Para ele, quem vive em favela "não dispõe desses direitos" e **"não tá abdicando de nada que ela não tenha"** — as pessoas "não acham que elas têm direitos", "estão pedindo socorro". Ele desafia: "retiro minha candidatura se algum candidato visitou mais favelas... como eu visitei". A desfavelização é apresentada como tema central: uma política de **"levar o Estado e tornar aquelas pessoas que hoje são titulares de deveres, titulares também de direito"**, precedida de uma **política de ocupação** e do **desmonte estratégico das facções**. Ver [[fontes/2026-08-27 - Uma pessoa que mora em favela hoje já não tem “direitos”.]] e [[temas/Segurança Pública]].
+
+## Favelas que viram bairros e moradores que viram cidadãos (agosto de 2026)
+
+Em **27 de agosto de 2026**, em discurso de campanha, Renan promete que **"as favelas do Brasil se tornem bairros e que as pessoas que moram lá se tornem cidadãos"**, dentro de uma visão que inclui a "guerra ao crime organizado" e o desenvolvimento do Nordeste. A frase sintetiza, em tom de campanha, o objetivo central do programa de desfavelização. Ver [[fontes/2026-08-27 - Vamos sonhar esse sonho!]] e [[temas/Segurança Pública]].
 
 ## Carta de compromisso com os moradores e o "Nuremberg das favelas" (agosto de 2026)
 

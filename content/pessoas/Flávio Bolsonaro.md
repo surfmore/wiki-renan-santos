@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Eles toparam debate!"
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-22 - RESPOSTA AO SILAS"
@@ -30,6 +31,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Projeto de poder cansado que rifou o nosso futuro" (agosto de 2026)
+
+Em **27 de agosto de 2026**, em discurso de campanha, Renan afirma que os projetos de poder de Flávio e de Lula "não valem nada, estão cansados e **rifaram o nosso futuro**" — em contraposição ao seu "sonho" de tornar o Brasil "uma das maiores nações do mundo". Ver [[fontes/2026-08-27 - Vamos sonhar esse sonho!]].
 
 ## Desafiado no JN: Dark Horse, rachadinha e relações com Willer Tomás (agosto de 2026)
 

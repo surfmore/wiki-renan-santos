@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Eles toparam debate!"
   - "2026-08-25 - Pronunciamento em resposta a Janja"
   - "2026-08-25 - Respondendo críticas ao debate"
@@ -75,6 +76,10 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Projeto de poder cansado que rifou o nosso futuro" (agosto de 2026)
+
+Em **27 de agosto de 2026**, em discurso de campanha, Renan afirma que os projetos de poder de Lula e de Flávio Bolsonaro "não valem nada, estão cansados e **rifaram o nosso futuro**" — em contraposição ao seu "sonho" de tornar o Brasil "uma das maiores nações do mundo". Ver [[fontes/2026-08-27 - Vamos sonhar esse sonho!]].
 
 ## Desafiado no Jornal Nacional: filho, INSS e Banco Master (agosto de 2026)
 

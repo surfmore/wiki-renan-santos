@@ -7,6 +7,9 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-27 - Eu amei o Muller!"
+  - "2026-08-27 - Titio tá aqui!"
+  - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Fui bem no JN"
   - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-24 - Nós nascemos para liderar!"
@@ -27,6 +30,18 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "Vamos sonhar esse sonho": mensagem de campanha e visão de futuro (agosto de 2026)
+
+Em **27 de agosto de 2026**, em discurso de campanha, Renan afirma que construiu "uma campanha que conversou com o Brasil inteiro" e que **"rodei o Brasil mais pobre"**, dizendo amar o país, que "nasceu para ser uma das maiores nações do mundo". Ele promete "guerra ao crime organizado", **"favelas do Brasil se tornem bairros e que as pessoas que moram lá se tornem cidadãos"**, o desenvolvimento do Nordeste como "nova locomotiva brasileira" e um "canteiro de obras gigantesco" para aumentar a produtividade — para que ninguém mais sonhe em se mudar do Brasil. Encerra com o apelo: "Vamos sonhar esse sonho... Eu tô aqui dando minha vida por isso." Ver [[fontes/2026-08-27 - Vamos sonhar esse sonho!]] e [[posicoes/Desfavelização do Brasil]].
+
+## Conexão com a juventude: conversa com o estudante Muller (agosto de 2026)
+
+Em **27 de agosto de 2026**, durante atividade de campanha, Renan conversa com **Muller**, estudante de 16 anos cujo pai "era do crime" e foi preso. Renan o elogia por estar na escola — "sensacional, pô. Porque muitos inocentes perdem a vida por causa de crime" — e, ao saber que o jovem conhece suas propostas (a ideia de "o brasileiro poder comprar o que ele quiser, sem ser roubado"), responde: "Conhece tudo, pô. Parabéns, velho" e **"o futuro é glorioso"**. O vídeo reforça a narrativa de conexão da campanha com a juventude e com histórias de superação. Ver [[fontes/2026-08-27 - Eu amei o Muller!]].
+
+## Saudação à mãe e à sobrinha Angelina (agosto de 2026)
+
+Em **27 de agosto de 2026**, em vídeo curto de campanha, Renan agradece o público ("Uma honra estar aqui com vocês") e manda um beijo para a **mãe** e para a **sobrinha Angelina** — "Titio tá aqui, Angelina". Registra um detalhe pessoal em meio à rotina de campanha. Ver [[fontes/2026-08-27 - Titio tá aqui!]].
 
 ## Participação no Jornal Nacional e o problema do Instagram (agosto de 2026)
 

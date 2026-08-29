@@ -6,6 +6,14 @@ tags:
 date: 2026-08-07
 ---
 
+## "O sangue que tem que jorrar é do bandido": o policial deve atirar para matar (agosto de 2026)
+
+Em **27 de agosto de 2026**, em trecho de entrevista, Renan responde à crítica ao tom de "matar quem rouba" afirmando que **"o sangue que tem que jorrar é do bandido"** — e não o do inocente morto em latrocínio (caso de Eduardo, em São Paulo). Ele reafirma o **"prendeu, matou"**: se um policial estiver diante do criminoso que aponta uma arma, **"ele tem que atirar para matar nessa pessoa"** — quem aponta arma "se torna juiz da tua vida, dos teus sonhos, do teu futuro" sem ter esse direito. Relata que a própria mãe foi alvo de sequestro relâmpago e que "todo mundo" no Brasil passou por "uma experiência traumática", concluindo que o "povo brasileiro tá pedindo uma guerra". Ver [[fontes/2026-08-27 - O sangue que tem que jorrar é do bandido. Concorda]] e [[temas/Segurança Pública]].
+
+## Regime paralelo nas favelas como justificativa do estado de exceção (agosto de 2026)
+
+Em **27 de agosto de 2026**, em trecho de entrevista, Renan sustenta que pessoas em regiões tomadas pelo crime organizado **"não estão circunscritas... no estado democrático de direito", mas vivem num "regime paralelo"** — "um regime opressivo, liderado pelo crime organizado". O argumento serve de base para a proposta de estado de exceção territorial: quem vive em favela "não dispõe desses direitos" e, portanto, "não tá abdicando de nada que ela não tenha". Ele propõe como resposta uma **política de ocupação**, a **destruição da liderança do crime organizado** e o **desmonte estratégico com coordenação nacional das facções**. Ver [[fontes/2026-08-27 - Uma pessoa que mora em favela hoje já não tem “direitos”.]], [[temas/Segurança Pública]] e [[posicoes/Desfavelização do Brasil]].
+
 ## "Banho de sangue" contra as facções e o caso de Doca (agosto de 2026)
 
 Em **25 de agosto de 2026**, em trecho de entrevista, Renan confirma que, "no primeiro dia de governo Renan Santos", vai "iniciar um banho de sangue contra os membros das facções". Ao explicar o **direito penal do inimigo**, ele afirma que o processo de determinar "através da investigação que pessoas fazem parte de um determinado grupo criminoso" já existe no Brasil "há mais de século" — Polícia Federal, Ministério Público e polícias estaduais já identificam facções como o Comando Vermelho. Renan aponta [[pessoas/Doca]] como o responsável pela operação do CV na maior parte das favelas e diz que **"matar um sujeito como Doca é necessário"**; sobre o alcance do "banho de sangue", defende que ele deve "extrapolar do Doca até a base da pirâmide da facção dele". Ver [[fontes/2026-08-25 - Sim, banho de sangue.]] e [[temas/Segurança Pública]].
