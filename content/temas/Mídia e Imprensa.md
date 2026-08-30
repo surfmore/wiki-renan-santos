@@ -5,6 +5,7 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-29 - Jornalista quis defender o Cleitinho"
   - "2026-08-27 - Fui bem no JN"
   - "2026-08-27 - Eles toparam debate!"
   - "2026-08-25 - Pronunciamento em resposta a Janja"
@@ -30,6 +31,10 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## Confronto com jornalista em Minas: "jornalista de baixa inteligência" (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan responde a um jornalista que questionou sua base militante e defendeu a candidatura de **Cleitinho** ao governo de Minas Gerais. Renan o chama de "jornalista de baixa inteligência", afirma que a base militante foi "atestada por institutos que fazem matérias" e critica o jornalista por não inquirir adversários — "mesmo que isso lhe traga problemas com popularidade ou com a audiência". Ver [[fontes/2026-08-29 - Jornalista quis defender o Cleitinho]] e [[pessoas/Cleitinho Azevedo]].
 
 ## Jornal Nacional e sabatina do Globo: vitrine da candidatura (agosto de 2026)
 

@@ -8,6 +8,10 @@ date: 2026-07-03
 
 Renan Santos tem como um dos pilares do seu discurso econômico a crítica ao nível da tributação no Brasil. A tese central é sintetizada na frase que ele repete: **"o Brasil cobra impostos como se fosse a Suécia, mas entrega serviços como se fosse a África"**.
 
+## Brasil "na fila do rebaixamento": a analogia dos clubes de futebol (agosto de 2026)
+
+Em **28 de agosto de 2026**, Renan detalha a analogia dos clubes para o ajuste fiscal: Flamengo (com **Eduardo Bandeira de Mello**, a partir de 2013) e Palmeiras (com **Paulo Nobre**) cortaram despesas e criaram regras fiscais internas, tornando-se os únicos times que jogam "em nível europeu"; São Paulo, Corinthians, Santos e Cruzeiro "quebraram". Ele afirma que o Brasil está "sempre na fila do rebaixamento", "quebrado, deficitário, fazendo populismo", e precisa aplicar a mesma lógica — cortar despesas e acabar com vinculações — como defende na sua [[posicoes/Reforma Fiscal|reforma fiscal]]. Ver [[fontes/2026-08-28 - O que Flamengo e Palmeiras fizeram]].
+
 ## "Juros no talo" e "quebradeira generalizada" no ano seguinte (agosto de 2026)
 
 Em **24 de agosto de 2026**, no contexto da crítica ao "jogo de cartas marcadas" de Lula e Flávio Bolsonaro, Renan afirma que o país "está indo pro buraco", com os **juros "no talo"** e uma **"quebradeira generalizada"** prevista para o ano seguinte — enquanto os adversários "querem comprar o voto das pessoas" em vez de discutir na Band. Ver [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]].

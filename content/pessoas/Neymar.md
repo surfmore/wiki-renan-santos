@@ -6,6 +6,7 @@ tags:
   - crime-organizado
 date: 2026-04-18
 fontes:
+  - "2026-08-29 - Hahahahah"
   - "2026-04-15 - Recado para Neymar"
   - "2026-04-18 - Fui ameaçado pelo pai do Neymar"
 ---
@@ -13,6 +14,10 @@ fontes:
 Jogador de futebol brasileiro. Renan Santos o menciona não em relação à carreira esportiva, mas pelo **padrão de associações com pessoas ligadas ao tráfico de drogas e ao crime organizado**, e pela influência que isso exerce sobre jovens brasileiros que o admiram.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As afirmações são reprodução das declarações dele e não são verificadas independentemente por este wiki.
+
+## Exemplo de falsa acusação comprovadamente inocente (agosto de 2026)
+
+Em **29 de agosto de 2026**, em resposta a uma provocação sobre uma acusação de estupro contra ele, Renan cita Neymar como exemplo de quem recebeu "uma falsa acusação de estupro e que mostrou para todo mundo que é inocente". A menção usa Neymar como referência positiva de inocência comprovada — em contraste com as críticas ao padrão de associações do jogador presentes no restante desta página. Ver [[fontes/2026-08-29 - Hahahahah]].
 
 ## Associados de Neymar com ligações ao crime organizado (abril de 2026)
 

@@ -8,6 +8,7 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-08-28 - Ué, Lula!"
   - "2026-08-25 - Eu quase peguei o Lula hoje."
   - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-23 - Essa mulher foi roubada."
@@ -23,6 +24,10 @@ fontes:
 # Escândalo do INSS
 
 Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## "Ué, Lula!": sarcasmo sobre a falta de devolução aos aposentados (agosto de 2026)
+
+Em **28 de agosto de 2026**, Renan publica um short sarcástico afirmando que "não tem um aposentado que foi roubado e que não foi devolvido o dinheiro", encerrado com o depoimento da aposentada **dona Socorro**, de Maceió, que diz ter sido "roubada do INSS" e que "até agora não recebi nenhum tostão" — retomando o caso apresentado em 23/08. Ver [[fontes/2026-08-28 - Ué, Lula!]] e [[pessoas/Lula]].
 
 ## Camiseta "Cadê o dinheiro dos velhinhos?" e cobrança em coletiva (agosto de 2026)
 

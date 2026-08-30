@@ -7,6 +7,7 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-28 - Cristian Cravinhos ainda existe"
   - "2026-08-27 - A lei da misoginia é uma lei para perseguir"
   - "2026-08-20 - Vídeos completos logo logo!"
   - "2026-08-19 - Quanto tempo o agressor de Giulia Falcão ficará preso"
@@ -19,6 +20,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## Assassinos condenados soltos e "faturando na mídia": o caso Cravinhos (agosto de 2026)
+
+Em **28 de agosto de 2026**, ao comentar a foto do influenciador **Tadala Felas** com **Cristian Cravinhos** — condenado pelo assassinato dos pais de **Suzane von Richthofen** — Renan critica a impunidade e a celebração de criminosos: os condenados "ficaram presos um tempo e agora estão soltos" e tentam "faturar na mídia" com a atenção dos brasileiros. Ele ironiza ser tratado como louco por defender o enfrentamento a membros do crime organizado. Ver [[fontes/2026-08-28 - Cristian Cravinhos ainda existe]] e [[eventos/Irmãos Cravinhos soltos e celebrados — Agosto de 2026]].
 
 ## "Piada" imprescritível vs. feminicídio prescritível: crítica à misoginia como crime (agosto de 2026)
 

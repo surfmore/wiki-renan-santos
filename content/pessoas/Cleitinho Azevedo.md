@@ -7,6 +7,7 @@ tags:
   - minas-gerais
 date: 2026-07-04
 fontes:
+  - "2026-08-29 - Jornalista quis defender o Cleitinho"
   - "2026-07-04 - Virgínia fez você perder dinheiro"
   - "2026-05-01 - A proposta mais burra que você vai ver hoje"
   - "2026-01-01 - Estou processando o Senado"
@@ -15,6 +16,10 @@ fontes:
 # Cleitinho Azevedo
 
 Senador da República e pré-candidato ao governo de Minas Gerais. Renan Santos o critica recorrentemente como exemplo de político **populista** que escolhe sistematicamente as posições mais populares independentemente de sua consistência ideológica.
+
+## "O povo mineiro tá votando muito errado": resposta a jornalista (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan responde a um jornalista que questionou sua base militante e defendeu a candidatura de Cleitinho ao governo de Minas Gerais, chamando o jornalista de "baixa inteligência" e afirmando que o povo mineiro "tá votando muito errado num sujeito como Cleitinho". Para Renan, o jornalista deveria inquirir os adversários do candidato a presidente em vez de "puxar o saco do candidato que tá liderando aqui em Minas". Ver [[fontes/2026-08-29 - Jornalista quis defender o Cleitinho]].
 
 ## Perfil populista (maio de 2026)
 
