@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-08-29 - O candidato que mais fala a verdade"
   - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Eles toparam debate!"
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
@@ -31,6 +32,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Também mentiu" no ranking de verificação de fatos (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan afirma que Flávio "também mentiu", citando-o ao lado de [[pessoas/Lula|Lula]] como os "mentirosos de sempre" em um ranking de verificação de fatos do site "Ranking dos Políticos" — no qual Renan aparece com 55% de verdades verificadas. Ver [[fontes/2026-08-29 - O candidato que mais fala a verdade]].
 
 ## "Projeto de poder cansado que rifou o nosso futuro" (agosto de 2026)
 

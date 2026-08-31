@@ -6,6 +6,14 @@ tags:
 date: 2026-08-10
 ---
 
+## "Cerca de 100 brasileiros morrendo de homicídio por dia": feminicídio como tema eleitoral (agosto de 2026)
+
+Em **30 de agosto de 2026**, Renan afirma que cerca de **100 brasileiros morrem de homicídio por dia** — "branco, preto, pardo... homem e mulher tá morrendo no Brasil" — e acusa a campanha de instrumentalizar o feminicídio para dividir o voto masculino e feminino e impedir as pessoas de enxergarem o problema da segurança: "se você quiser prender bandido, você é machista". Ele aponta [[pessoas/Lula]] como o "candidato da impunidade" cujo governo registra recordes de feminicídio. Ver [[fontes/2026-08-30 - Lula é o candidato do feminicídio]] e [[temas/Pautas Identitárias e de Gênero]].
+
+## Saidinha e impunidade: condenado de 120 anos que estuprou adolescente (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan comenta o caso de uma menina de 16 anos violentada por um homem condenado a **120 anos** que estava em **saidinha** — e critica a justiça por conceder o benefício a um condenado com múltiplos crimes ("ele não tem nada a perder"). Ele afirma que o criminoso "tinha que tá morto", responsabiliza o juiz e o legislador, e defende que o caso expõe a prioridade invertida da imprensa e do sistema penal. No dia seguinte (30/08), reafirma a necessidade de **mudar as leis de execução penal** para que o condenado cumpra a pena integralmente, em presídios onde passaria "30, 40 anos da sua vida, eventualmente muitos deles não saiam". Ver [[fontes/2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora]], [[fontes/2026-08-30 - Eu não sou pacifista com criminoso que abusa de meninas.]] e [[eventos/Estupro de adolescente por condenado em saidinha — Agosto de 2026]].
+
 ## Assassinos soltos e celebrados: o caso dos irmãos Cravinhos (agosto de 2026)
 
 Em **28 de agosto de 2026**, Renan comenta a foto do influenciador **Tadala Felas** com **Cristian Cravinhos** — um dos irmãos condenados pelo assassinato dos pais de **Suzane von Richthofen** — e critica a celebração de assassinos pela cultura de entretenimento. Ele relembra o crime (pai morto a pauladas, mãe asfixiada), observa que os condenados estão soltos e tentando "faturar na mídia", e ironiza a inversão de valores: "Louco, sou eu que vou na TV e falo que a gente precisa matar membros do crime organizado." Para Renan, os brasileiros parecem querer "se divertir nessa loucura toda" em vez de "viver num país sério, ninguém quer ordem". Ver [[fontes/2026-08-28 - Cristian Cravinhos ainda existe]] e [[eventos/Irmãos Cravinhos soltos e celebrados — Agosto de 2026]].

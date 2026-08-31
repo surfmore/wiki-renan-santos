@@ -7,6 +7,7 @@ tags:
   - infraestrutura
 date: 2026-06-23
 fontes:
+  - "2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes."
   - "2026-08-02 - Não vou dar celular nem vale-gás para ninguém!"
   - "2026-06-23 - O que é o mundo por trás da propaganda do PT"
   - "2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA"
@@ -14,6 +15,10 @@ fontes:
 ---
 
 Proposta central de Renan Santos para reformar o Bolsa Família: em vez de cortar o benefício, condicionar o acesso à participação em **frentes de trabalho** — inspirado no modelo do presidente americano Franklin Roosevelt durante a Grande Depressão.
+
+## Oito em dez no Bolsa Família e a frente de trabalho nas obras (agosto de 2026)
+
+Em **29 de agosto de 2026**, na comunidade do **Taquari**, Renan ouve dos moradores que a maioria não trabalha e que, de cada dez pessoas, **oito estão no Bolsa Família e duas trabalham**. Ele propõe contratar nas obras quem está no benefício e pode trabalhar: "Se a gente vai fazer as obras aqui, a gente vai contratar vocês para trabalhar na obra." Quando os moradores respondem, em um primeiro momento, que não iriam trabalhar mesmo assim, Renan reforça a necessidade de **condicionar o benefício ao trabalho** — "se a gente vai fazer a obra, se bolsa família, eu corto o bolsa família, você não quiser" — e critica quem "fica todo mundo mamando na teta do governo e deixando quem trabalha sofrer": "quem tá trabalhando tá pagando a conta de quem tá parado". Ele enquadra o país como "muito inimigo de quem é honesto". Ver [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] e [[posicoes/Desfavelização do Brasil]].
 
 ## "A resposta é não": não vai acabar com o Bolsa Família (agosto de 2026)
 
@@ -112,6 +117,7 @@ Ver [[fontes/2026-01-05 - O Brasil precisa falar sobre a saída do Bolsa Famíli
 
 ## Fontes
 
+- [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] — Taquari; oito em dez no Bolsa Família; condicionar benefício ao trabalho nas obras
 - [[fontes/2026-08-02 - Não vou dar celular nem vale-gás para ninguém!]] — "não vou oferecer esmola para ninguém"; contra vale-gás e celular assistencialistas
 - [[fontes/2026-04-17 - Você vai TRABALHAR.]] — confirmação direta "ou rala ou rola"; formulário de frente de trabalho no CRAS
 - [[fontes/2026-03-17 - O QUE EU VOU FAZER COM O BOLSA FAMÍLIA]] — apresentação completa da proposta

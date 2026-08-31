@@ -7,6 +7,8 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-30 - Eu não sou pacifista com criminoso que abusa de meninas."
+  - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
   - "2026-08-28 - Cristian Cravinhos ainda existe"
   - "2026-08-27 - A lei da misoginia é uma lei para perseguir"
   - "2026-08-20 - Vídeos completos logo logo!"
@@ -20,6 +22,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## Fim da saidinha e responsabilização do juiz: o caso do condenado de 120 anos (agosto de 2026)
+
+Em **29 de agosto de 2026**, ao comentar o estupro de uma menina de 16 anos por um homem condenado a **120 anos** de prisão que estava em **saidinha**, Renan critica a "nossa justiça" por defender que "aumentar a pena é errado" enquanto concede saidinha a um condenado com múltiplos crimes acumulados. Ele afirma que o criminoso "não tem nada a perder" e que **"ele tinha que tá morto"** — e estende a responsabilidade ao **juiz que o soltou, ao promotor, ao legislador e aos políticos**, que teriam "a mão suja de sangue". No dia seguinte (30/08), retoma o caso para defender a **mudança nas leis de execução penal** — "de modo que um bandido que seja condenado ele cumpra sua pena" — com presos cumprindo 30, 40 anos e "eventualmente muitos deles não saiam". Ver [[fontes/2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora]], [[fontes/2026-08-30 - Eu não sou pacifista com criminoso que abusa de meninas.]] e [[eventos/Estupro de adolescente por condenado em saidinha — Agosto de 2026]].
 
 ## Assassinos condenados soltos e "faturando na mídia": o caso Cravinhos (agosto de 2026)
 

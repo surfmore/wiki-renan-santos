@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-08-22
 fontes:
+  - "2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes."
   - "2026-08-27 - Uma pessoa que mora em favela hoje já não tem “direitos”."
   - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim."
@@ -27,6 +28,12 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## Visita ao Taquari: conversa direta com os moradores, sem intermediários (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan visita a comunidade do **Taquari** para falar diretamente com os moradores sobre desfavelização, em resposta a jornalistas que afirmaram que ele precisaria conversar com ONGs antes de tratar do tema. Ele rebate: **"Eu não ligo para essa ONG, eu falo com as pessoas"** — "Se eu converso com as pessoas, as pessoas querem a mesma coisa que eu tô falando, que é urbanizar, levar infraestrutura, arrumar a casa que tá na encosta, tem que tirar, tem que fazer moradia nova, dar título de propriedade". Sobre a exigência da jornalista, conclui: "Ela que tem que ir lá e conversar, porque a gente não quer conversa, a gente quer mudança, a gente quer melhoria."
+
+Na comunidade, moradores relatam esgoto a céu aberto, uma ponte construída pela própria população e doentes carregados na rede por falta de carro. Renan conversa sobre as **casas na encosta**, que precisariam ser **removidas e substituídas por prédios** diante do risco de deslizamento ("Quando tiver um chuvão... essa casa aqui alargou uma vez aqui quase que mata todo mundo"). O episódio reforça a tese de que a desfavelização nasce do diálogo com a população — não com intermediários — e conecta o programa à proposta de [[posicoes/Frente de Trabalho para o Bolsa Família|condicionar o Bolsa Família a frentes de trabalho]]. Ver [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] e [[temas/Mídia e Imprensa]].
 
 ## Favela como "regime paralelo": titulares de deveres sem direitos (agosto de 2026)
 
@@ -353,6 +360,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] — visita ao Taquari; conversa direta com moradores; "eu não ligo para essa ONG"; casas de encosta e título de propriedade
 - [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — carta de compromisso com moradores; cinco compromissos; R$ 100 bi/ano; "Nuremberg das favelas"
 - [[fontes/2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl]] — "marco nacional de desfavelização" no Mundaú (Maceió); legislação que proíbe novas invasões e define modelos de reocupação
 - [[fontes/2026-06-25 - Resposta para a mulher do Boulos]] — Renan responde à esposa de Boulos (MTST); esclarece "passar uma régua" e acusa movimentos de moradia de máfia com fraudes no Minha Casa, Minha Vida

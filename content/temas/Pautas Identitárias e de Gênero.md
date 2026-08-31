@@ -7,6 +7,8 @@ tags:
   - esquerda
 date: 2026-08-05
 fontes:
+  - "2026-08-30 - Lula é o candidato do feminicídio"
+  - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
   - "2026-08-27 - A lei da misoginia é uma lei para perseguir"
   - "2026-08-09 - Olha a última do Wagner Moura"
   - "2026-08-05 - Um governo para todos"
@@ -23,6 +25,10 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Feminicídio como "hoax" eleitoral e o foco seletivo da imprensa (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan acusa o foco da imprensa e da esquerda no feminicídio de ser um **"hoax"** para mascarar que os brasileiros estão preocupados com segurança. Ele apresenta estatísticas — 4% das mortes diárias são feminicídio, enquanto outras 6 mulheres morrem em assassinatos comuns e 12 crianças/adolescentes são mortos por dia — e afirma que o tema é instrumentalizado para classificar como "machista" quem prioriza o combate ao crime: "se você quiser prender bandido, você é machista". Para Renan, a esquerda usa o tema para dividir o voto masculino e feminino, ganha a eleição e "as mulheres continuam morrendo por vários outros crimes". No dia seguinte (30/08), em [[fontes/2026-08-30 - Lula é o candidato do feminicídio]], ele aponta Lula como o "candidato da impunidade" que instrumentaliza o tema. Ver [[fontes/2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
 
 ## PL da Misoginia: "lei para perseguir" e a defesa de criminalizar o "betinha" (agosto de 2026)
 

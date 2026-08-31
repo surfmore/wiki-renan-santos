@@ -7,6 +7,7 @@ tags:
   - prisão-perpétua
 date: 2026-08-07
 fontes:
+  - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
   - "2026-08-14 - Teve que ser carregado pela polícia"
   - "2026-08-08 - Esse caso aqui vai gerar pena de morte."
   - "2026-08-07 - Esse caso aqui vai gerar pena de m0rte."
@@ -17,6 +18,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre a aplicação da pena de morte e da prisão perpétua para crimes hediondos no Brasil.
+
+## "Ele tinha que tá morto": condenado de 120 anos que estuprou adolescente em saidinha (agosto de 2026)
+
+Em **29 de agosto de 2026**, comentando o [[eventos/Estupro de adolescente por condenado em saidinha — Agosto de 2026|caso do condenado a 120 anos que estuprou uma menina de 16 anos em saidinha]], Renan afirma que o criminoso "não tinha que tá vivo" e que **"ele tinha que tá morto"** — "eu quero matar o cara que tá estuprando". Ele critica a justiça por considerar "errado" aumentar penas e por conceder saidinha a um condenado com múltiplos crimes, e responsabiliza o juiz que o soltou. Ver [[fontes/2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora]].
 
 ## Estupro de vulnerável: pena de 15 anos, prescrição e defesa da pena de morte (agosto de 2026)
 

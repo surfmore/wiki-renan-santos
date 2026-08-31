@@ -6,6 +6,10 @@ tags:
 date: 2026-08-07
 ---
 
+## "Uma guerra": força-tarefa nacional, GLO e retirada do comando territorial das facções (agosto de 2026)
+
+Em **30 de agosto de 2026**, Renan defende que o enfrentamento ao crime organizado se dê **"através de uma guerra"**, com aumento das leis penais e mudança nas leis de execução penal. Somado a isso, propõe colocar **favelas, bairros e cidades sob GLO e estado de defesa** e montar uma **força-tarefa nacional** envolvendo governadores, Polícia Federal e polícias estaduais, para **retirar o comando territorial** que as facções exercem sobre territórios brasileiros. O objetivo: prender os integrantes e fazê-los cumprir pena integralmente, em presídios onde passariam "30, 40 anos da sua vida, eventualmente muitos deles não saiam" — para "destruir o business Comando Vermelho e o business PCC". Ver [[fontes/2026-08-30 - Eu não sou pacifista com criminoso que abusa de meninas.]] e [[temas/Segurança Pública]].
+
 ## "O sangue que tem que jorrar é do bandido": o policial deve atirar para matar (agosto de 2026)
 
 Em **27 de agosto de 2026**, em trecho de entrevista, Renan responde à crítica ao tom de "matar quem rouba" afirmando que **"o sangue que tem que jorrar é do bandido"** — e não o do inocente morto em latrocínio (caso de Eduardo, em São Paulo). Ele reafirma o **"prendeu, matou"**: se um policial estiver diante do criminoso que aponta uma arma, **"ele tem que atirar para matar nessa pessoa"** — quem aponta arma "se torna juiz da tua vida, dos teus sonhos, do teu futuro" sem ter esse direito. Relata que a própria mãe foi alvo de sequestro relâmpago e que "todo mundo" no Brasil passou por "uma experiência traumática", concluindo que o "povo brasileiro tá pedindo uma guerra". Ver [[fontes/2026-08-27 - O sangue que tem que jorrar é do bandido. Concorda]] e [[temas/Segurança Pública]].

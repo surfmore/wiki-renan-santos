@@ -7,6 +7,8 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-30 - Lula é o candidato do feminicídio"
+  - "2026-08-29 - O candidato que mais fala a verdade"
   - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Eles toparam debate!"
   - "2026-08-25 - Pronunciamento em resposta a Janja"
@@ -76,6 +78,14 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## "Lula é o candidato do feminicídio": impunidade e recordes no seu governo (agosto de 2026)
+
+Em **30 de agosto de 2026**, Renan afirma que Lula é o **"candidato da impunidade"** e que o tema do feminicídio está sendo instrumentalizado para que as mulheres votem "num candidato que faça o que mais mulheres morram". Ele diz que Lula tem "piadas machistas de toda sorte" e que os recordes de feminicídio ocorrem "no governo de quem? Do Lula" — sem que ninguém o questione — enquanto nos governos dele e de Dilma Rousseff "mortes de homens e mulheres aumentaram". Ver [[fontes/2026-08-30 - Lula é o candidato do feminicídio]] e [[temas/Pautas Identitárias e de Gênero]].
+
+## "O maior mentiroso de todos": ranking de verificação de fatos (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan afirma que Lula "naturalmente ganhou" como o candidato com mais mentiras verificadas em um ranking do site "Ranking dos Políticos" — apresentando "um número bem grande de mentira". Em contraste, Renan se diz o único que não mentiu no Jornal Nacional, com 55% de verdades verificadas. Ver [[fontes/2026-08-29 - O candidato que mais fala a verdade]].
 
 ## "Projeto de poder cansado que rifou o nosso futuro" (agosto de 2026)
 

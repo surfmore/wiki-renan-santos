@@ -7,6 +7,7 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-29 - O candidato que mais fala a verdade"
   - "2026-08-27 - Eu amei o Muller!"
   - "2026-08-27 - Titio tá aqui!"
   - "2026-08-27 - Vamos sonhar esse sonho!"
@@ -30,6 +31,10 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "O candidato que mais fala a verdade": 55% de verdades verificadas (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan afirma ter sido **o único candidato que não mentiu no Jornal Nacional** e apresenta um ranking do site "Ranking dos Políticos" em que aparece em primeiro lugar com **55% de verdades verificadas** — todos os fatos verificáveis por ele ditos foram confirmados como verdadeiros, sendo o restante opiniões ou fatos não verificáveis (como histórias pessoais). Ele diz ter prometido "uma campanha baseada na verdade" e querer entregar "pela primeira vez na história do Brasil um político corajoso com um livro de propostas que toda vez que é instado a falar alguma coisa, fala verdade". Ver [[fontes/2026-08-29 - O candidato que mais fala a verdade]] e [[temas/Partido Missão]].
 
 ## "Vamos sonhar esse sonho": mensagem de campanha e visão de futuro (agosto de 2026)
 

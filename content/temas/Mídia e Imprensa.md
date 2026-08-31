@@ -5,6 +5,8 @@ tags:
   - mídia
 date: 2026-08-07
 fontes:
+  - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
+  - "2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes."
   - "2026-08-29 - Jornalista quis defender o Cleitinho"
   - "2026-08-27 - Fui bem no JN"
   - "2026-08-27 - Eles toparam debate!"
@@ -31,6 +33,14 @@ fontes:
 ---
 
 Renan Santos tem criticado recorrentemente o tratamento dado à sua pré-candidatura pela grande imprensa, em especial pelos grupos Folha de S. Paulo e Globo. A crítica tem duas linhas principais: (1) invisibilização nas pesquisas e reportagens e (2) ataques pessoais crescentes à medida que sobe nas pesquisas.
+
+## "Jornalistas que só falam em feminicídio": foco seletivo e o caso da saidinha (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan critica a imprensa por tratar o feminicídio de forma seletiva — "hoje jornalistas no Brasil só falam em feminicídio" — e usa o [[eventos/Estupro de adolescente por condenado em saidinha — Agosto de 2026|estupro de uma menina de 16 anos por um condenado em saidinha]] para questionar a prioridade do noticiário: outras 6 mulheres morrem por dia em assassinatos comuns e 12 crianças/adolescentes são mortos, mas a imprensa "só fala desses 4%". Ele acusa o discurso de servir para rotular como machista quem prioriza o combate ao crime. Ver [[fontes/2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora]] e [[temas/Pautas Identitárias e de Gênero]].
+
+## "Não preciso conversar com ONG": jornalistas como intermediários da favela (agosto de 2026)
+
+Em **29 de agosto de 2026**, Renan critica jornalistas que afirmaram que ele precisaria conversar com ONGs antes de falar de desfavelização. Em visita ao Taquari, ele rebate que fala diretamente com as pessoas — "Eu não ligo para essa ONG, eu falo com as pessoas" — e que a jornalista "tem que ir lá e conversar, porque a gente não quer conversa, a gente quer mudança". Para Renan, os "jornalistas intelectuais" tentam intermediar o diálogo com a favela enquanto a população quer a mesma coisa que ele propõe: urbanizar e dar título de propriedade. Ver [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] e [[posicoes/Desfavelização do Brasil]].
 
 ## Confronto com jornalista em Minas: "jornalista de baixa inteligência" (agosto de 2026)
 
@@ -334,6 +344,8 @@ Ver [[fontes/2025-11-19 - Resposta para a humorista alemã]] e [[eventos/COP30 �
 
 ## Fontes
 
+- [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] — jornalistas que exigem conversa com ONGs; "eu não ligo para essa ONG, eu falo com as pessoas"
+- [[fontes/2026-08-29 - Jornalista quis defender o Cleitinho]] — confronto com jornalista "de baixa inteligência"; povo mineiro "votando muito errado"
 - [[fontes/2026-08-23 - As decijanjas precisam acabar.]] — decisão sobre o Discord atribuída a Janja; lei dura para abuso infantil na internet
 - [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — resolução do TSE limita recomendação das redes sociais dos candidatos
 - [[fontes/2026-07-16 - Vou retirar minha pré candidatura]] — Renan critica sistema de pesquisas como "jogo de cartas marcadas"; questiona crescimento de Caiado
