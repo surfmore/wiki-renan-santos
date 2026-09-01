@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## "As nossas leis têm que ser duras": o caso da mãe obrigada a devolver a camisa do Neymar (agosto de 2026)
+
+Em **31 de agosto de 2026**, Renan narra o episódio de uma mãe e seu filho — torcedores do Corinthians — obrigados a devolver a camisa que [[pessoas/Neymar]] havia dado ao menino após um jogo contra o Santos, e a fugir do estádio "como se eles fossem os bandidos" diante de ameaças de outros torcedores. Ele usa o caso para afirmar que o Brasil está "tão doente, tão maluco" e que "esses caras" — descritos como os mesmos que "podem te assaltar na rua", "batem na namorada" e "não prestam" — "são inimigos". Para Renan, o episódio justifica o endurecimento das leis: "quando eu falo que as nossas leis têm que ser duras, é para proteger a mãe e esse menino de vagabundos como esses caras". Ele ressalva que são "um pequeno grupo", não a maioria da torcida, e que "é essa minoria que o meu governo vai destruir". Ver [[fontes/2026-08-31 - Essa mãe teve que devolver a camisa do Neymar.]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
 ## "Cerca de 100 brasileiros morrendo de homicídio por dia": feminicídio como tema eleitoral (agosto de 2026)
 
 Em **30 de agosto de 2026**, Renan afirma que cerca de **100 brasileiros morrem de homicídio por dia** — "branco, preto, pardo... homem e mulher tá morrendo no Brasil" — e acusa a campanha de instrumentalizar o feminicídio para dividir o voto masculino e feminino e impedir as pessoas de enxergarem o problema da segurança: "se você quiser prender bandido, você é machista". Ele aponta [[pessoas/Lula]] como o "candidato da impunidade" cujo governo registra recordes de feminicídio. Ver [[fontes/2026-08-30 - Lula é o candidato do feminicídio]] e [[temas/Pautas Identitárias e de Gênero]].

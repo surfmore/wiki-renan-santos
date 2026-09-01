@@ -7,6 +7,9 @@ tags:
   - pré-candidato
 date: 2025-09-02
 fontes:
+  - "2026-08-31 - Boraaaaaaa!!!"
+  - "2026-08-30 - Não vamos abaixar a cabeça"
+  - "2026-08-30 - Sobre a proposta de tirar a candidatura"
   - "2026-08-29 - O candidato que mais fala a verdade"
   - "2026-08-27 - Eu amei o Muller!"
   - "2026-08-27 - Titio tá aqui!"
@@ -31,6 +34,18 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## "A base de votos mais sólida": pesquisas mostram Renan sem perder voto e a disparada de Augusto Curi (agosto de 2026)
+
+Em **31 de agosto de 2026**, Renan comenta as pesquisas **Nexus/BTG** e **Atlas** e afirma ter sido **o único candidato que não perdeu voto em nenhuma delas** — "eu construí a base de votos mais sólida. Tudo que nós construímos juntos, nós não perdemos". Enquanto [[pessoas/Augusto Curi]] dispara (de 0 para 7,8 na Atlas), Renan diz ter mantido a mesma intenção de voto, e aponta [[pessoas/Lula]], [[pessoas/Flávio Bolsonaro]], [[pessoas/Ronaldo Caiado]] e [[pessoas/Romeu Zema]] como candidatos que perdem votos "e não recuperam". Ele lê a ascensão de Curi como prova de um eleitorado grande que rejeita Lula e Flávio e que "vai acabar descobrindo quem realmente vai enfrentar Flávio [e] Lula, que sou eu". Encerra com o jingle: "Meu nome é Renan, meu número é 14." Ver [[fontes/2026-08-31 - Boraaaaaaa!!!]] e [[pessoas/Augusto Curi]].
+
+## Ameaça à candidatura no TSE e a "campanha mais pobre" da eleição (agosto de 2026)
+
+Em **30 de agosto de 2026**, Renan responde à notícia de que sua candidatura poderia cair no TSE — "na mão do [[pessoas/Dias Toffoli]]" — por supostas ilicitudes. Ele atribui o caso a um problema de **registro das redes sociais de todos os candidatos**, um "problema interno de sistema" já resolvido, e ironiza a possível acusação de **abuso de poder econômico** contra a campanha que ele descreve como a "mais pobre, mais barata" da eleição: sem tempo de TV, sem fundo partidário e sem fundo eleitoral, sustentada apenas por vaquinha e doações privadas. Pede aos apoiadores que não baixem a cabeça: "nós vamos vencer porque os justos vencem". Ver [[fontes/2026-08-30 - Não vamos abaixar a cabeça]] e [[temas/Partido Missão]].
+
+## "O vencedor da semana" nas sabatinas e no debate (agosto de 2026)
+
+Em **30 de agosto de 2026**, Renan responde a quem o aconselhava a desistir da candidatura e afirma ter sido **"o vencedor da semana"**: o melhor na **Sabatina do Jornal Nacional**, no **debate da Band** e na **Sabatina da Globo/GloboNews**. Ele diz que seus eventos estão sempre cheios e que faz campanha "sem precisar dinheiro sujo", e que a candidatura está **em terceiro lugar e subindo** — "o Brasil tá descobrindo a gente só agora". Reafirma que não desistirá "por causa da grana": "nós vamos continuar essa guerra até o fim". Ver [[fontes/2026-08-30 - Sobre a proposta de tirar a candidatura]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
 
 ## "O candidato que mais fala a verdade": 55% de verdades verificadas (agosto de 2026)
 

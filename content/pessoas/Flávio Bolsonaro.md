@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-08-31 - Boraaaaaaa!!!"
   - "2026-08-29 - O candidato que mais fala a verdade"
   - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Eles toparam debate!"
@@ -32,6 +33,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Perdendo votos nas pesquisas e "sem recuperação" (agosto de 2026)
+
+Em **31 de agosto de 2026**, ao comentar as pesquisas **Nexus/BTG** e **Atlas**, Renan afirma que [[pessoas/Lula]], Flávio, [[pessoas/Ronaldo Caiado]] e [[pessoas/Romeu Zema]] estão perdendo votos e "esses casos não recuperam". A leitura reforça a tese de que o eleitorado que rejeita Lula e Flávio migraria para a candidatura de Renan, único candidato que, segundo ele, não perdeu voto em nenhuma das pesquisas. Ver [[fontes/2026-08-31 - Boraaaaaaa!!!]] e [[pessoas/Augusto Curi]].
 
 ## "Também mentiu" no ranking de verificação de fatos (agosto de 2026)
 

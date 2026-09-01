@@ -7,6 +7,7 @@ tags:
   - pt
 date: 2026-08-07
 fontes:
+  - "2026-08-31 - Boraaaaaaa!!!"
   - "2026-08-30 - Lula é o candidato do feminicídio"
   - "2026-08-29 - O candidato que mais fala a verdade"
   - "2026-08-27 - Vamos sonhar esse sonho!"
@@ -78,6 +79,10 @@ fontes:
 ---
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
+
+## Perdendo votos nas pesquisas e a ascensão de Augusto Curi (agosto de 2026)
+
+Em **31 de agosto de 2026**, ao comentar as pesquisas **Nexus/BTG** e **Atlas**, Renan afirma que Lula, [[pessoas/Flávio Bolsonaro]], [[pessoas/Ronaldo Caiado]] e [[pessoas/Romeu Zema]] estão perdendo votos e "esses casos não recuperam". Ele lê a disparada de [[pessoas/Augusto Curi]] como evidência de um "eleitorado muito grande que não quer nem Lula nem Flávio" e que, segundo Renan, acabará migrando para sua candidatura. Ver [[fontes/2026-08-31 - Boraaaaaaa!!!]].
 
 ## "Lula é o candidato do feminicídio": impunidade e recordes no seu governo (agosto de 2026)
 

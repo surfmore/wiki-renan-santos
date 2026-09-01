@@ -7,6 +7,7 @@ tags:
   - defesa
 date: 2026-01-05
 fontes:
+  - "2026-08-31 - Pô, a Argentina"
   - "2026-08-02 - VENHAM ME PEGAR!"
   - "2026-01-05 - Estou sendo cancelado por defender que o Brasil tenha armas nucleares"
   - "2026-01-04 - O Brasil precisa de uma arma nuclear"
@@ -14,6 +15,10 @@ fontes:
 ---
 
 Proposta polêmica de Renan Santos de que o Brasil desenvolva um programa nuclear militar como instrumento de soberania. A ideia foi defendida em ao menos três vídeos, gerando cancelamento nas redes sociais e sendo apresentada como distinção central de sua candidatura.
+
+## "Qualquer nação que tem grandeza precisa ter bomba atômica": a Argentina como "piada" (agosto de 2026)
+
+Em **31 de agosto de 2026**, em discussão com a jornalista Renata e César Trali, Renan reafirma que "qualquer nação que tem grandeza precisa ter bomba atômica". Ao ser questionado por outra jornalista sobre uma possível **corrida armamentista com a Argentina**, ele responde com deboche — "se o nosso problema é corrida armamentista com a Argentina, cara, acabou, acabou" — e classifica o país como um poder militar inexistente: "é piada". Para Renan, quando o Brasil construir a bomba, "a Argentina vai querer que a gente construa, porque a gente vai se tornar um polo de poder". Ele amplia a tese para a **América Latina** como **polo de poder regional** para negociar com os grandes blocos globais e critica "os indignados com a chance do Brasil ser forte". Ver [[fontes/2026-08-31 - Pô, a Argentina]] e [[temas/Política Externa e Geopolítica]].
 
 ## Aviões de guerra com terras raras: além da bomba (agosto de 2026)
 

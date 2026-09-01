@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-05-25
 fontes:
+  - "2026-08-30 - Não vamos abaixar a cabeça"
   - "2026-04-29 - FLÁVIO É FRACO"
   - "2026-04-27 - O que eu penso sobre prisão de ministros do STF"
   - "2026-03-13 - Um homem pode salvar Dias Toffoli e Xandão hoje"
@@ -24,6 +25,10 @@ fontes:
 Ministro do Supremo Tribunal Federal, indicado ao cargo em 2009 pelo presidente Lula. Renan Santos o trata como o centro da rede de relações entre o STF e o [[eventos/Escândalo Banco Master]], e como um dos alvos prioritários de seu pedido de impeachment.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## Registro da candidatura de Renan "na mão de Toffoli" (agosto de 2026)
+
+Em **30 de agosto de 2026**, ao responder à notícia de que sua candidatura poderia cair no TSE, Renan afirma que o registro "tá na mão do Dias Toffoli" — o ministro seria o relator com poder de decidir sobre o caso. Renan atribui a ameaça a um problema de **registro das redes sociais de todos os candidatos** no sistema do TSE, já resolvido, e ironiza a possibilidade de ser enquadrado por **abuso de poder econômico** numa campanha que descreve como a mais pobre da eleição. Ver [[fontes/2026-08-30 - Não vamos abaixar a cabeça]] e [[pessoas/Renan Santos]].
 
 ## Deveria estar preso — a posição de Renan (abril de 2026)
 

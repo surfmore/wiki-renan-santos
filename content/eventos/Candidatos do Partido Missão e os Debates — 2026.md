@@ -7,6 +7,7 @@ tags:
   - debates
 date: 2026-08-22
 fontes:
+  - "2026-08-30 - Sobre a proposta de tirar a candidatura"
   - "2026-08-27 - Eles toparam debate!"
   - "2026-08-27 - Fui bem no JN"
   - "2026-08-25 - Pronunciamento em resposta a Janja"
@@ -29,6 +30,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## "O vencedor da semana": avaliação do debate da Band e das sabatinas (agosto de 2026)
+
+Em **30 de agosto de 2026**, Renan afirma ter sido **"o vencedor da semana"** no ciclo de sabatinas e debates: "eu consegui melhor na Sabatina JN. Eu fui o melhor no debate da Band. Fui também o melhor na Sabatina da Globo e da Globo News". Ele usa o desempenho para responder às previsões de que [[pessoas/Flávio Bolsonaro]] (com "um monte de diploma") e [[pessoas/Lula]] ("muito experiente") "iam aparecer" na sabatina — e para reafirmar que não desistirá da candidatura. Ver [[fontes/2026-08-30 - Sobre a proposta de tirar a candidatura]] e [[pessoas/Renan Santos]].
 
 ## "Eles toparam debate": desafio após o Jornal Nacional e proposta de debate popular (agosto de 2026)
 

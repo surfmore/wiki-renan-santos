@@ -6,6 +6,7 @@ tags:
   - crime-organizado
 date: 2026-04-18
 fontes:
+  - "2026-08-31 - Essa mãe teve que devolver a camisa do Neymar."
   - "2026-08-29 - Hahahahah"
   - "2026-04-15 - Recado para Neymar"
   - "2026-04-18 - Fui ameaçado pelo pai do Neymar"
@@ -14,6 +15,10 @@ fontes:
 Jogador de futebol brasileiro. Renan Santos o menciona não em relação à carreira esportiva, mas pelo **padrão de associações com pessoas ligadas ao tráfico de drogas e ao crime organizado**, e pela influência que isso exerce sobre jovens brasileiros que o admiram.
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As afirmações são reprodução das declarações dele e não são verificadas independentemente por este wiki.
+
+## "Ídolo nacional" e o gesto com a camisa ao menino (agosto de 2026)
+
+Em **31 de agosto de 2026**, Renan narra o episódio em que Neymar tirou a camisa e a entregou a um menino na torcida do Corinthians — "goste ou não dele, ele é um ídolo nacional. Ponto". Ele descreve o gesto como uma "cena bonita e civilizada", atribuindo a reação agressiva de outros torcedores a um pequeno grupo de "bandidos", não a Neymar. A menção destaca Neymar pelo gesto positivo, em contraste com as críticas ao seu círculo de associações presentes no restante da página. Ver [[fontes/2026-08-31 - Essa mãe teve que devolver a camisa do Neymar.]] e [[temas/Segurança Pública]].
 
 ## Exemplo de falsa acusação comprovadamente inocente (agosto de 2026)
 

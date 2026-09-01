@@ -7,6 +7,7 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-08-31 - Essa mãe teve que devolver a camisa do Neymar."
   - "2026-08-30 - Eu não sou pacifista com criminoso que abusa de meninas."
   - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
   - "2026-08-28 - Cristian Cravinhos ainda existe"
@@ -22,6 +23,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## "As nossas leis têm que ser duras": proteger cidadãos comuns de "vagabundos" (agosto de 2026)
+
+Em **31 de agosto de 2026**, ao comentar o caso da mãe obrigada a devolver a camisa de [[pessoas/Neymar]] ao menino no estádio, Renan defende que "as nossas leis têm que ser duras" para proteger cidadãos comuns: "quando eu falo que as nossas leis têm que ser duras, é para proteger a mãe e esse menino de vagabundos como esses caras". Ele classifica os agressores como "inimigos" — "provavelmente o cara que pode te assaltar na rua", "o cara que bate na namorada", "um cara que não presta" — e afirma que "é essa minoria que o meu governo vai destruir". Ver [[fontes/2026-08-31 - Essa mãe teve que devolver a camisa do Neymar.]] e [[temas/Segurança Pública]].
 
 ## Fim da saidinha e responsabilização do juiz: o caso do condenado de 120 anos (agosto de 2026)
 

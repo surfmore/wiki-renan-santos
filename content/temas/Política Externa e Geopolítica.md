@@ -6,6 +6,7 @@ tags:
   - geopolítica
 date: 2026-06-20
 fontes:
+  - "2026-08-31 - Pô, a Argentina"
   - "2026-08-24 - Nós nascemos para liderar!"
   - "2026-08-24 - Lula não tem coragem de vir ao debate"
   - "2026-08-16 - Já imaginaram"
@@ -23,6 +24,10 @@ fontes:
 ---
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
+
+## América Latina como polo de poder regional para negociar com os grandes blocos (agosto de 2026)
+
+Em **31 de agosto de 2026**, ao defender o [[temas/Programa Nuclear Brasileiro|programa nuclear]], Renan afirma que o Brasil — e a **América Latina** de forma mais ampla — precisa de força para ser um **polo de poder regional** capaz de "negociar com os grandes blocos globais": "esse é o papel nosso". Ele ironiza "os indignados com a chance do Brasil ser forte" e a preocupação com uma corrida armamentista com a Argentina — país que classifica como "piada" militar — argumentando que, quando o Brasil se tornar um polo de poder, a Argentina "vai querer que a gente construa" a bomba. Ver [[fontes/2026-08-31 - Pô, a Argentina]].
 
 ## Brasil entre as cinco maiores nações, ao lado de Rússia, China, Índia e EUA (agosto de 2026)
 
