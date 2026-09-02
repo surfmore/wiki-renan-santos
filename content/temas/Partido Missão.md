@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-09-02 - Nós somos um grupo destinado à glória."
   - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
   - "2026-08-24 - Lula está me provocando"
@@ -51,6 +52,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## "Participando ou não das eleições, somos um grupo destinado à glória" (setembro de 2026)
+
+Em **2 de setembro de 2026**, em discurso de motivação à militância, Renan afirma que o movimento vai "trabalhar muito" e que "vai dar certo", pedindo mais fé e dizendo que o grupo fará o melhor "sem ter medo desses caras". A frase central reforça a continuidade do projeto independentemente do pleito: **"participando ou não participando das eleições, nós somos um grupo destinado à glória"** — eco de discursos anteriores da campanha e resposta implícita às ameaças à candidatura. Ver [[fontes/2026-09-02 - Nós somos um grupo destinado à glória.]] e [[temas/Sebastianismo e Messianismo Político]].
 
 ## Defesa do livro amarelo contra a acusação de "zero proposta" (agosto de 2026)
 

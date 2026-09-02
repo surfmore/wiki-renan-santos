@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
   - "2026-08-21 - Ninguém liga para o Lulinha."
@@ -18,6 +19,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## STF em "guerra civil", censura de Renan e a tese do controle das eleições (setembro de 2026)
+
+Em **2 de setembro de 2026**, Renan afirma que o STF "começou sua guerra civil": [[pessoas/Alexandre de Moraes]] e [[pessoas/André Mendonça]] "quase saíram na porrada", porque Mendonça tentaria "trazer luz" ao escândalo do Banco Master enquanto Moraes "e sua turma" reagiriam. Renan diz que foi **censurado por 24 horas** nas redes sociais justamente por ser quem mais fala sobre o caso e que [[pessoas/Dias Toffoli]], "enviado no TSE", tentou tirar suas redes. Ele afirma que "o jogo foi todo desenhado para que Daniel Vorcaro, da cadeia, controle as eleições" — com [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]], líderes nas pesquisas, prontos para "salvar" Vorcaro e libertá-lo após vencer. O vídeo também liga [[pessoas/Augusto Curi]] ao escândalo, acusando o coach de contratar influenciadores que trabalhavam para o Banco Master e de ser sócio de um banco que tentou comprar o Master "de maneira fraudulenta". Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]].
 
 ## "A turma do Banco Master se esconde no governo Lula": desafio à Record (agosto de 2026)
 

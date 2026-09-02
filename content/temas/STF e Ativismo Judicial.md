@@ -7,6 +7,10 @@ tags:
 date: 2026-08-07
 ---
 
+## "Guerra civil" no STF em torno do Banco Master e a censura a Renan (setembro de 2026)
+
+Em **2 de setembro de 2026**, Renan afirma que o STF "começou sua guerra civil" e que os ministros [[pessoas/Alexandre de Moraes]] e [[pessoas/André Mendonça]] **"quase saíram na porrada"** — porque Mendonça tentaria "trazer luz" ao [[eventos/Escândalo Banco Master]] enquanto Moraes "e sua turma" reagiriam para conter a apuração. Renan também relata ter ficado **censurado por 24 horas** nas redes sociais, num momento que ele considera "conveniente" para silenciá-lo, já que é "a pessoa que mais fala sobre o escândalo do Banco Master". Ele atribui a [[pessoas/Dias Toffoli]], no TSE, uma tentativa de tirar suas redes sociais, e afirma que, se tudo continuar como está, não importa quem vença a eleição — o resultado será "a república da corrupção". Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]].
+
 ## "Decisão ilegal não se cumpre": sigilo de fonte como cláusula pétrea (agosto de 2026)
 
 Em **27 de agosto de 2026**, em trecho de entrevista, Renan retoma o princípio de que **"decisão ilegal não se cumpre"** e o aplica ao caso da quebra do sigilo de fonte de jornalistas no Maranhão por [[pessoas/Alexandre de Moraes]] — que ele classifica como **"grotesca"** e violadora de "cláusula pétrea da Constituição". Ele compara o peso da quebra do sigilo de fonte ao de uma decisão que estabelecesse pena de morte por decreto, e ressalva que não pretende "sair desrespeitando todas as decisões do STF". Diante de decisão ilegal que coloque vidas em risco, diz que ouviria a **AGU**, pediria parecer e recorreria ao STF — mas não cumpriria. Ver [[fontes/2026-08-27 - Decisão ilegal não se cumpre!]] e [[eventos/Busca e Apreensão contra Fonte de Jornalista — Agosto de 2026]].

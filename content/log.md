@@ -1,5 +1,17 @@
 # Log de operações
 
+## [2026-09-02] ingest | Eu fui censurado por 24h
+- Fonte criada: fontes/2026-09-02 - Eu fui censurado por 24h
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: pessoas/Augusto Curi (acusação de vínculo com o Banco Master: contratação de influenciadores do Master e sociedade em banco que tentou comprá-lo), pessoas/André Mendonça ("quase saíram na porrada" com Moraes; tenta "trazer luz" ao Banco Master), pessoas/Alexandre de Moraes (quase confronto com Mendonça; grupo reage à apuração), pessoas/Dias Toffoli ("enviado no TSE"; tentativa de tirar as redes de Renan), pessoas/Daniel Vorcaro ("o jogo foi todo desenhado" para ele controlar as eleições da cadeia; Lula e Flávio vão "liberá-lo após vencer"), eventos/Escândalo Banco Master (STF em "guerra civil"; censura de 24h a Renan; ligação de Curi ao caso), temas/STF e Ativismo Judicial ("guerra civil" no STF e censura a Renan), index.md, log.md, wiki/.processed_ids
+- Nota: video_id btYtdjpffFs registrado em wiki/.processed_ids antes da criação de páginas. Renan relata censura de 24h nas redes, afirma que Moraes e Mendonça quase entraram em confronto no STF e que foi calado por falar do escândalo do Banco Master. Novo: acusação contra Augusto Curi (contratação de influenciadores do Banco Master e sociedade no banco Victor). Atribuição: Renan é o falante único. Página de fonte criada em wiki/fontes/.
+
+## [2026-09-02] ingest | Nós somos um grupo destinado à glória.
+- Fonte criada: fontes/2026-09-02 - Nós somos um grupo destinado à glória.
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Partido Missão ("participando ou não participando das eleições, nós somos um grupo destinado à glória"), temas/Sebastianismo e Messianismo Político (discurso de tom messiânico; continuidade do grupo eleito), index.md, log.md, wiki/.processed_ids
+- Nota: video_id 0buddRUHKi4 registrado em wiki/.processed_ids antes da criação de páginas. Discurso de motivação à militância, sem propostas de política pública; frase central sobre a continuidade do movimento independentemente do resultado eleitoral. Atribuição: Renan é o falante único. Página de fonte criada em wiki/fontes/.
+
 ## [2026-09-01] ingest automático | Batch de 5 shorts (Não vamos abaixar a cabeça, Sobre a proposta de tirar a candidatura, Boraaaaaaa!!!, Essa mãe teve que devolver a camisa do Neymar., Pô, a Argentina)
 - Fontes criadas: fontes/2026-08-30 - Não vamos abaixar a cabeça, fontes/2026-08-30 - Sobre a proposta de tirar a candidatura, fontes/2026-08-31 - Boraaaaaaa!!!, fontes/2026-08-31 - Essa mãe teve que devolver a camisa do Neymar., fontes/2026-08-31 - Pô, a Argentina
 - Páginas criadas: pessoas/Augusto Curi

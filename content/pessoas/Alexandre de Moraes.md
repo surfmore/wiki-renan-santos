@@ -9,6 +9,10 @@ date: 2026-08-06
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
 
+## Quase confronto com André Mendonça no STF (setembro de 2026)
+
+Em **2 de setembro de 2026**, Renan afirma que Moraes e [[pessoas/André Mendonça]] **"quase saíram na porrada"** no STF, num episódio que ele descreve como o começo de uma "guerra civil" na Corte. Segundo Renan, enquanto Mendonça tenta "trazer luz" ao [[eventos/Escândalo Banco Master]], Moraes "e sua turma estão reagindo" para conter a apuração. A fala reforça o papel atribuído por Renan a Moraes como protetor da rede do Banco Master dentro do Supremo. Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]] e [[temas/STF e Ativismo Judicial]].
+
 ## "Decisão grotesca" e a quebra do sigilo de fonte no Maranhão (agosto de 2026)
 
 Em **27 de agosto de 2026**, Renan classifica como **"grotesca"** a decisão de Moraes que teria quebrado o sigilo de fonte de jornalistas no Maranhão, afirmando que ela violou "uma cláusula pétrea da Constituição". Ele diz que "jornalistas do Brasil inteiro protestaram porque não existe democracia sem sigilo de fonte" e compara o peso da medida ao de uma decisão que estabelecesse pena de morte por decreto. Ver [[fontes/2026-08-27 - Decisão ilegal não se cumpre!]] e [[temas/STF e Ativismo Judicial]].
@@ -149,6 +153,7 @@ Renan também menciona que em dezembro de 2025 Tarcísio de Freitas trocava "ris
 
 ## Fontes principais
 
+- [[fontes/2026-09-02 - Eu fui censurado por 24h]] — "quase saíram na porrada" com Mendonça; grupo de Moraes reage ao caso Banco Master
 - [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]]
 - [[fontes/2025-12-23 - Banco Master é o fim da República]]
 - [[fontes/2026-02-14 - CHEGOU A VEZ DO ALEXANDRE DE MORAES]]

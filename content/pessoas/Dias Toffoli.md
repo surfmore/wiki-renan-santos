@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-05-25
 fontes:
+  - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-08-30 - Não vamos abaixar a cabeça"
   - "2026-04-29 - FLÁVIO É FRACO"
   - "2026-04-27 - O que eu penso sobre prisão de ministros do STF"
@@ -25,6 +26,10 @@ fontes:
 Ministro do Supremo Tribunal Federal, indicado ao cargo em 2009 pelo presidente Lula. Renan Santos o trata como o centro da rede de relações entre o STF e o [[eventos/Escândalo Banco Master]], e como um dos alvos prioritários de seu pedido de impeachment.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## "Enviado no TSE": acusação de tentar tirar as redes de Renan (setembro de 2026)
+
+Em **2 de setembro de 2026**, Renan afirma que Toffoli — que ele chama de "enviado no TSE" — **tentou tirar suas redes sociais** num momento que coincide com sua censura de 24 horas nas plataformas. Renan conecta a manobra ao [[eventos/Escândalo Banco Master]]: segundo ele, Toffoli faria parte do desenho para que [[pessoas/Daniel Vorcaro]], da cadeia, controle as eleições, e por isso agiria para silenciar seu principal crítico. Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]].
 
 ## Registro da candidatura de Renan "na mão de Toffoli" (agosto de 2026)
 
@@ -108,6 +113,7 @@ Ver [[fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-09-02 - Eu fui censurado por 24h]] — "enviado no TSE"; tentativa de tirar as redes de Renan
 - [[fontes/2026-04-29 - FLÁVIO É FRACO]] — rabo preso de Flávio com Toffoli impede ação do Senado
 - [[fontes/2026-04-27 - O que eu penso sobre prisão de ministros do STF]] — Toffoli e Moraes deveriam estar presos
 - [[fontes/2026-03-11 - Vim no resort do Toffoli mostrar a parte de jogos]] — Pay Brokers; Ratinho; cassino legalizado

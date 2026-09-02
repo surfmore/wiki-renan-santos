@@ -6,6 +6,7 @@ tags:
   - corrupção
 date: 2026-07-02
 fontes:
+  - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-07-02 - Um exemplo de mulher"
   - "2026-05-21 - Flávio Bolsonaro precisa de ajuda!"
   - "2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora"
@@ -21,6 +22,10 @@ fontes:
 **Quem é:** Banqueiro paulistano, controlador do Banco Master. Preso em janeiro de 2026 como parte de desdobramento do escândalo do banco, que envolve um esquema de emissão de CRIs e CRAs sobrevalorizados causando um rombo estimado em dezenas de bilhões de reais no Fundo Garantidor de Crédito. Ex-frequentador do jetset do Mediterrâneo, identificado por Renan Santos como a figura central de uma rede de relações promíscuas — financeiras, políticas e pessoais — entre os polos de poder do Brasil.
 
 ## O que o Renan Santos disse
+
+### O jogo para Vorcaro controlar as eleições da cadeia (setembro de 2026)
+
+Em **2 de setembro de 2026**, Renan afirma que "o jogo foi todo desenhado para que Daniel Vorcaro, da cadeia, controle as eleições". Segundo ele, [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] — que estariam no escândalo do Banco Master — lideram as pesquisas e ambos "vão salvar Daniel Vorcaro, vão liberá-lo após vencer". Renan diz que teria sido censurado por 24 horas justamente por ser quem mais fala sobre o caso. Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]] e [[eventos/Escândalo Banco Master]].
 
 ### Tentativa de doxxing e suborno da jornalista Malu Gaspar (julho de 2026)
 
@@ -129,6 +134,7 @@ Renan descreveu o celular de Zettel como uma "bomba": "tem muitas informações 
 
 ## Fontes
 
+- [[fontes/2026-09-02 - Eu fui censurado por 24h]] — "o jogo foi todo desenhado" para Vorcaro controlar as eleições da cadeia
 - [[fontes/2026-05-21 - Flávio Bolsonaro precisa de ajuda!]] — visita de Flávio à residência de Vorcaro após a prisão
 - [[fontes/2026-05-13 - Se o Brasil for um país sério, Flávio Bolsonaro e Xandão vão pra cadeia agora]] — áudio de Flávio pedindo dinheiro; acusação de caixa dois
 - [[fontes/2026-03-16 - VORCARO DELATOU O LULA]] — delação e nomes envolvidos

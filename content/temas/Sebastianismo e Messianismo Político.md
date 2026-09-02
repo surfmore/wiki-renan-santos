@@ -11,6 +11,10 @@ Sebastianismo é o fenômeno cultural originado em Portugal após a **Batalha de
 
 Renan Santos aborda esse conceito como chave para entender a **cultura política brasileira**, especialmente a tendência a aguardar líderes messiânicos ou salvadores.
 
+## "Destinados à glória": a continuidade do grupo eleito (setembro de 2026)
+
+Em **2 de setembro de 2026**, Renan profere discurso de tom messiânico à militância: "nós somos um grupo destinado à glória" e "não vamos ter medo desses caras". A frase mais significativa condiciona o destino do grupo à sua missão, não ao resultado eleitoral — "**participando ou não participando das eleições, nós somos um grupo destinado à glória**" — o que prolonga a linguagem do "grupo escolhido" e do "destino" já presente nos discursos de agosto. Ver [[fontes/2026-09-02 - Nós somos um grupo destinado à glória.]] e [[temas/Partido Missão]].
+
 ## "A afirmação da nossa geração": a missão geracional (agosto de 2026)
 
 Em **5 de agosto de 2026**, Renan profere discurso em que apresenta o Partido Missão não como reação aos adversários, mas como afirmação de um projeto próprio: "Nós não somos a negação dos demais, nós somos a afirmação da nossa geração." Ele narra a construção do partido "com as próprias ideias, com as próprias cores, com o próprio sonho, com a própria imaginação" e afirma que, se sua geração não criasse o próprio caminho, "o pesadelo da geração deles" continuaria pautando o país. O discurso combina a linguagem de missão coletiva com a recusa do rótulo de "terceira via" — a geração não se define por oposição, mas por destino próprio.
