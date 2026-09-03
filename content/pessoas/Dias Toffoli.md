@@ -7,6 +7,7 @@ tags:
   - corrupção
 date: 2026-05-25
 fontes:
+  - "2026-09-03 - Toffoli fez por vingança"
   - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-08-30 - Não vamos abaixar a cabeça"
   - "2026-04-29 - FLÁVIO É FRACO"
@@ -26,6 +27,10 @@ fontes:
 Ministro do Supremo Tribunal Federal, indicado ao cargo em 2009 pelo presidente Lula. Renan Santos o trata como o centro da rede de relações entre o STF e o [[eventos/Escândalo Banco Master]], e como um dos alvos prioritários de seu pedido de impeachment.
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
+
+## "Toffoli fez por vingança": decisão que suspendeu redes e debates de Renan (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan afirma que Toffoli decidiu que ele **não poderia usar as redes sociais nem participar de sabatina e debate** — decisão que o próprio Toffoli teria revertido após forte pressão. Renan atribui a medida a uma **vingança** pelas manifestações que organizou contra o ministro em torno do resort **Tayayá** e da relação de Toffoli com a "turma do [[pessoas/Fabiano Zettel]]" (a compra e a venda do resort e o envolvimento da família de Toffoli). Ele classifica a decisão como **monocrática e ilegal** — uma irregularidade no registro de redes sociais não poderia suspender o andamento da candidatura, no máximo geraria multa — e afirma que a reversão veio minutos após sua coletiva de imprensa, sob pressão de juristas, imprensa e dos demais candidatos à presidência, exceto [[pessoas/Lula]]. Ver [[fontes/2026-09-03 - Toffoli fez por vingança]].
 
 ## "Enviado no TSE": acusação de tentar tirar as redes de Renan (setembro de 2026)
 
@@ -113,6 +118,7 @@ Ver [[fontes/2026-02-14 - FAMÍLIA BOLSONARO QUER DEFENDER DIAS TOFFOLI]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-09-03 - Toffoli fez por vingança]] — decisão monocrática que suspendeu redes e debates de Renan; acusação de vingança pelo caso Tayayá
 - [[fontes/2026-09-02 - Eu fui censurado por 24h]] — "enviado no TSE"; tentativa de tirar as redes de Renan
 - [[fontes/2026-04-29 - FLÁVIO É FRACO]] — rabo preso de Flávio com Toffoli impede ação do Senado
 - [[fontes/2026-04-27 - O que eu penso sobre prisão de ministros do STF]] — Toffoli e Moraes deveriam estar presos

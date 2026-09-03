@@ -35,6 +35,10 @@ fontes:
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
 
+## Decisão de Toffoli suspende redes e debates de Renan; revertida após pressão (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan relata que o ministro [[pessoas/Dias Toffoli]] decidiu que ele **não poderia usar as redes sociais nem participar de sabatina e debate** — decisão revertida, segundo ele, após pressão de juristas, imprensa e dos demais candidatos à presidência. Renan nega irregularidade relevante: afirma que sua candidatura já havia sido lançada quando a exigência de declarar as redes sociais surgiu, que outros milhares de candidatos estavam na mesma situação e que sua equipe peticionou ao TSE, atuando "com boa-fé em todo esse processo". Ver [[fontes/2026-09-03 - Toffoli fez por vingança]] e [[pessoas/Dias Toffoli]].
+
 ## "A base de votos mais sólida": pesquisas mostram Renan sem perder voto e a disparada de Augusto Curi (agosto de 2026)
 
 Em **31 de agosto de 2026**, Renan comenta as pesquisas **Nexus/BTG** e **Atlas** e afirma ter sido **o único candidato que não perdeu voto em nenhuma delas** — "eu construí a base de votos mais sólida. Tudo que nós construímos juntos, nós não perdemos". Enquanto [[pessoas/Augusto Curi]] dispara (de 0 para 7,8 na Atlas), Renan diz ter mantido a mesma intenção de voto, e aponta [[pessoas/Lula]], [[pessoas/Flávio Bolsonaro]], [[pessoas/Ronaldo Caiado]] e [[pessoas/Romeu Zema]] como candidatos que perdem votos "e não recuperam". Ele lê a ascensão de Curi como prova de um eleitorado grande que rejeita Lula e Flávio e que "vai acabar descobrindo quem realmente vai enfrentar Flávio [e] Lula, que sou eu". Encerra com o jingle: "Meu nome é Renan, meu número é 14." Ver [[fontes/2026-08-31 - Boraaaaaaa!!!]] e [[pessoas/Augusto Curi]].
@@ -293,6 +297,7 @@ Ver [[fontes/2026-05-19 - 6,9% DISPAREI NA ATLAS]].
 
 ## Fontes
 
+- [[fontes/2026-09-03 - Toffoli fez por vingança]] — decisão que suspendeu redes e debates de Renan; boa-fé no registro das redes sociais
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — "quero arrasar nos debates"; desafio a Lula; "covarde" fugindo
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — passado ilibado, livro de 460 páginas de propostas e desafio aos candidatos
 - [[fontes/2026-08-19 - Renan Santos diz não entender por que fãs querem fotos com ele]] — perfil pessoal: tímido, reservado e desconfortável com a fama

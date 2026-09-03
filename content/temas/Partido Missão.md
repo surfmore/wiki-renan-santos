@@ -53,6 +53,10 @@ fontes:
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
 
+## "O único partido sem relação com o Banco Master" (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan afirma que o Partido Missão é o único partido sem relação com o [[eventos/Escândalo Banco Master]]: "os meus deputados nunca receberam ligação, nem andaram de jatinho do Banco Master", nunca pediram favores nem trocaram favores com o banco. Ele classifica os candidatos do partido como "a bancada que vai mudar a história do Brasil" e encerra com a propaganda de campanha: "vote 14" e o site candidatos.missão.org.br. Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].
+
 ## "Participando ou não das eleições, somos um grupo destinado à glória" (setembro de 2026)
 
 Em **2 de setembro de 2026**, em discurso de motivação à militância, Renan afirma que o movimento vai "trabalhar muito" e que "vai dar certo", pedindo mais fé e dizendo que o grupo fará o melhor "sem ter medo desses caras". A frase central reforça a continuidade do projeto independentemente do pleito: **"participando ou não participando das eleições, nós somos um grupo destinado à glória"** — eco de discursos anteriores da campanha e resposta implícita às ameaças à candidatura. Ver [[fontes/2026-09-02 - Nós somos um grupo destinado à glória.]] e [[temas/Sebastianismo e Messianismo Político]].
@@ -366,6 +370,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] — Missão como único partido sem relação com o Banco Master; "vote 14"
 - [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — resolução do TSE limita as redes sociais da campanha; convocação da militância; "a guerra começou"
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — livro de 460 páginas de propostas; desafio aos demais candidatos
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — candidatura oficial de Renan pelo partido, número 14; recorde de assinaturas

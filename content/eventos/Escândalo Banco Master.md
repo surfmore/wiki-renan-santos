@@ -6,6 +6,8 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-09-03 - Seu político favorito foi pego no Master, né"
+  - "2026-09-03 - Da vontade de se M4T4R com isso"
   - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-08-24 - Record está dando espaço ao Lula"
   - "2026-08-22 - Simplesmente não dá mais pra ficar calado."
@@ -19,6 +21,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## "Todos os políticos estão envolvidos" e a exceção do Partido Missão (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan afirma que "todos os políticos do centrão, esquerda e direita estão envolvidos no escândalo do Banco Master": [[pessoas/Flávio Bolsonaro]] (filme de R$ 130 milhões com [[pessoas/Daniel Vorcaro]]), [[pessoas/Alexandre de Moraes]] (esposa com contrato multimilionário com o banco; filhos com jatinho), [[pessoas/Lula]] (encontro a portas fechadas com Vorcaro; ministros recebendo "consultoria") e [[pessoas/Augusto Curi]] (influenciadores ligados ao Master e cotas em banco que tentou comprar o Master). Renan diz que o **único partido sem relação com o escândalo é o [[temas/Partido Missão]]**. No mesmo dia, afirma que [[pessoas/Davi Alcolumbre]] usa o envolvimento de Flávio como desculpa para não pautar nada contra Moraes no Senado — com foto de ministros do STF "comemorando". Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] e [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]].
 
 ## STF em "guerra civil", censura de Renan e a tese do controle das eleições (setembro de 2026)
 
@@ -513,6 +519,8 @@ O caso reforça a tese de Renan de que o escândalo envolve tanto PT quanto bols
 
 ## Fontes
 
+- [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] — todos os políticos "envolvidos"; Missão como exceção
+- [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] — Alcolumbre blindaria Moraes; ministros do STF "comemorando"
 - [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Banco Master entre os escândalos comuns a Lula e Flávio; recusa do debate da Band
 - [[fontes/2026-01-21 - URGENTE - RESORT DO TOFFOLI TINHA ATÉ CASSINO]]
 - [[fontes/2026-01-22 - BANCO MASTER COM MEDO DA MANIFESTAÇÃO DE HOJE]]

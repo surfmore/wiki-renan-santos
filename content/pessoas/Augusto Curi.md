@@ -7,6 +7,7 @@ tags:
   - coach
 date: 2026-08-31
 fontes:
+  - "2026-09-03 - Seu político favorito foi pego no Master, né"
   - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-08-31 - Boraaaaaaa!!!"
   - "2026-08-30 - Sobre a proposta de tirar a candidatura"
@@ -15,6 +16,10 @@ fontes:
 **Augusto Curi** é um coach que emergiu como fenômeno nas pesquisas eleitorais de 2026. Renan Santos o trata como um adversário eleitoral vazio, mas usa a disparada de Curi como evidência de que existe um eleitorado grande rejeitando os dois principais candidatos — [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]].
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As descrições sobre Curi são a caracterização feita por Renan, não verificações independentes deste wiki.
+
+## Reiteração da acusação de vínculo com o Banco Master (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Seu político favorito foi pego no Master, né", Renan repete a acusação do dia anterior: quem "agora gosta do Curi" deve lembrar que Curi **contratou influenciadores ligados ao Banco Master** para divulgar sua candidatura e teria **cotas de um banco** que tentou comprar o Master "de maneira fraudulenta". Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].
 
 ## Acusação de vínculo com o Banco Master (setembro de 2026)
 
@@ -32,6 +37,7 @@ Em **30 de agosto de 2026**, ao responder às previsões de que os adversários 
 
 ## Fontes
 
+- [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] — reiteração: influenciadores ligados ao Master; cotas em banco que tentou comprar o Master
 - [[fontes/2026-09-02 - Eu fui censurado por 24h]] — acusação de vínculo de Curi com o Banco Master
 - [[fontes/2026-08-31 - Boraaaaaaa!!!]] — disparada de Curi nas pesquisas; "saco vazio"; eleitorado despolitizado
 - [[fontes/2026-08-30 - Sobre a proposta de tirar a candidatura]] — "o tal do Curi com seus diplomas"

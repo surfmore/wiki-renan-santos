@@ -7,6 +7,7 @@ tags:
   - banco-master
 date: 2026-06-18
 fontes:
+  - "2026-09-03 - Da vontade de se M4T4R com isso"
   - "2026-06-18 - Noruega vs Iraque"
   - "2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro"
   - "2026-05-21 - O centrão é o verdadeiro problema do Brasil!"
@@ -20,6 +21,10 @@ fontes:
 ---
 
 **Quem é:** Senador pelo Amapá (União Brasil) e presidente do Senado Federal. Figura do centrão que Renan Santos usa como síntese do que chama de "poder oligárquico desproporcional" — um político de um dos estados menos populosos e mais pobres do Brasil que controla o Congresso Nacional.
+
+### Blindagem a Moraes e a desculpa dos R$ 130 milhões (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan comenta uma foto de ministros do STF rindo após uma sessão — que teria "estourado na imprensa" — e a lê como comemoração por estarem "armando a marmelada" com Alcolumbre. Segundo Renan, a desculpa de Alcolumbre para **não pautar nada que envolva [[pessoas/Alexandre de Moraes]] no Senado** seria: "todo mundo esqueceu que pediram 130 milhões pra mesma pessoa [em referência a [[pessoas/Daniel Vorcaro]]] pra fazer um filme e agora culpado só o ministro Alexandre de Moraes". Na leitura de Renan, Alcolumbre usaria o envolvimento de [[pessoas/Flávio Bolsonaro]] nesse financiamento como justificativa para blindar Moraes, mandando o eleitor "brigar entre Lula e Flávio" enquanto ele "salva o Xandão". Renan o chama de "Batoré", "bicho ignorante e corrupto". Ver [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]].
 
 ### Petróleo no Amapá: o risco da maldição dos recursos (junho de 2026)
 
@@ -85,6 +90,7 @@ Ver [[fontes/2026-02-19 - VOCÊ NÃO ODEIA O SENADO BRASILEIRO O SUFICIENTE]] e 
 
 ## Fontes
 
+- [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] — recusa a pautar Moraes no Senado; ministros do STF "comemorando"; "Batoré ignorante e corrupto"
 - [[fontes/2026-06-18 - Noruega vs Iraque]] — petróleo no Amapá e a desconfiança sobre a gestão de Alcolumbre
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — centrão bipartidário soterrou a CPI
 - [[fontes/2026-05-21 - O centrão é o verdadeiro problema do Brasil!]] — "homem mais poderoso do Brasil" é senador do Amapá

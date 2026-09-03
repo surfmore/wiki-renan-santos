@@ -7,6 +7,10 @@ tags:
 date: 2026-08-07
 ---
 
+## Ministros "comemorando", "ditadura sem ditador" e a decisão de Toffoli (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan comenta uma foto de ministros do STF rindo após uma sessão — que teria "estourado na imprensa" — e a lê como comemoração por estarem "armando a marmelada" com [[pessoas/Davi Alcolumbre]] para blindar [[pessoas/Alexandre de Moraes]]. Ele afirma que o Brasil vive "uma ditadura" sem ditador único: "um grupo de pessoas, uma oligarquia que ganham dinheiro roubando a gente", da qual participariam petistas, [[pessoas/Flávio Bolsonaro]], quase todo o STF e quase todo o centrão — e que criticar esse grupo levaria à prisão. No mesmo dia, sobre a decisão de [[pessoas/Dias Toffoli]] que suspendeu suas redes sociais e sua participação em sabatinas e debates (depois revertida), Renan a classifica como monocrática e ilegal e a atribui a uma vingança pelo caso do resort Tayayá. Ver [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] e [[fontes/2026-09-03 - Toffoli fez por vingança]].
+
 ## "Guerra civil" no STF em torno do Banco Master e a censura a Renan (setembro de 2026)
 
 Em **2 de setembro de 2026**, Renan afirma que o STF "começou sua guerra civil" e que os ministros [[pessoas/Alexandre de Moraes]] e [[pessoas/André Mendonça]] **"quase saíram na porrada"** — porque Mendonça tentaria "trazer luz" ao [[eventos/Escândalo Banco Master]] enquanto Moraes "e sua turma" reagiriam para conter a apuração. Renan também relata ter ficado **censurado por 24 horas** nas redes sociais, num momento que ele considera "conveniente" para silenciá-lo, já que é "a pessoa que mais fala sobre o escândalo do Banco Master". Ele atribui a [[pessoas/Dias Toffoli]], no TSE, uma tentativa de tirar suas redes sociais, e afirma que, se tudo continuar como está, não importa quem vença a eleição — o resultado será "a república da corrupção". Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]].
@@ -419,6 +423,8 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-09-03 - Toffoli fez por vingança]] — decisão monocrática que suspendeu redes e debates de Renan; vingança pelo Tayayá
+- [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] — foto de ministros "comemorando"; "ditadura sem ditador, uma oligarquia"
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção do Centrão e do STF"; Renan se diz o único capaz de apontá-la
 - [[fontes/2026-07-21 - Eu tenho que tomar impeachment se eu não fizer isso]] — declaração de desobediência a decisões do STF sobre operações em favelas
 - [[fontes/2026-07-10 - O que está acontecendo na CBF]] — CBF controlada por Gilmar Mendes; bets financiando clubes; investigação prometida

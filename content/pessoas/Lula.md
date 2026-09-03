@@ -80,6 +80,10 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## Encontro "a portas fechadas" com Vorcaro e ministros recebendo "consultoria" (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Seu político favorito foi pego no Master, né", Renan afirma que Lula se encontrou com [[pessoas/Daniel Vorcaro]] **a portas fechadas** e que muitos ministros de seu governo receberiam dinheiro "a título de consultoria" do Banco Master. A fala reforça a tese de que a rede do [[eventos/Escândalo Banco Master]] atravessa o governo Lula, já presente em vídeos anteriores. Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].
+
 ## Perdendo votos nas pesquisas e a ascensão de Augusto Curi (agosto de 2026)
 
 Em **31 de agosto de 2026**, ao comentar as pesquisas **Nexus/BTG** e **Atlas**, Renan afirma que Lula, [[pessoas/Flávio Bolsonaro]], [[pessoas/Ronaldo Caiado]] e [[pessoas/Romeu Zema]] estão perdendo votos e "esses casos não recuperam". Ele lê a disparada de [[pessoas/Augusto Curi]] como evidência de um "eleitorado muito grande que não quer nem Lula nem Flávio" e que, segundo Renan, acabará migrando para sua candidatura. Ver [[fontes/2026-08-31 - Boraaaaaaa!!!]].
@@ -596,6 +600,7 @@ Em 29 de abril de 2026, com o centrão rachadó com Lula pela rejeição de Mess
 
 ## Fontes
 
+- [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] — encontro com Vorcaro a portas fechadas; ministros recebendo "consultoria" do Banco Master
 - [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]] — promessa de "trabalhar menos e ganhar mais"; resposta com reforma trabalhista
 - [[fontes/2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA]] — Lula "desistiu de apresentar proposta"; "bêbado ou com a Janja"
 - [[fontes/2026-08-24 - Lula não é homem de verdade.]] — chamado de "ladrão" e desafiado a defender o legado

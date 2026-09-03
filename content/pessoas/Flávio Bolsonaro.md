@@ -6,6 +6,8 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-09-03 - Seu político favorito foi pego no Master, né"
+  - "2026-09-03 - Da vontade de se M4T4R com isso"
   - "2026-08-31 - Boraaaaaaa!!!"
   - "2026-08-29 - O candidato que mais fala a verdade"
   - "2026-08-27 - Vamos sonhar esse sonho!"
@@ -33,6 +35,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Seu político favorito foi pego no Master": filme de R$ 130 mi e blindagem de Moraes (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Seu político favorito foi pego no Master, né", Renan afirma que Flávio financiou um filme com **cerca de R$ 130 milhões combinados com [[pessoas/Daniel Vorcaro]]**, recebia dinheiro do banqueiro, tinha "conversas indecorosas" com ele, andava de jatinho e estava na lista de contatos — caracterizando tráfico de influência. No mesmo dia, em "Da vontade de se M4T4R com isso", Renan diz que [[pessoas/Davi Alcolumbre]] usaria o envolvimento de Flávio nesse financiamento como desculpa para **não pautar nada contra [[pessoas/Alexandre de Moraes]] no Senado** — e que Flávio faria parte da "oligarquia" que, segundo Renan, rouba o país sem consequências. Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] e [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]].
 
 ## Perdendo votos nas pesquisas e "sem recuperação" (agosto de 2026)
 
@@ -616,6 +622,8 @@ Em [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]], Rena
 
 ## Fontes principais (ordem cronológica decrescente)
 
+- [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] — filme de R$ 130 mi com Vorcaro; lista de contatos; tráfico de influência
+- [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] — usado por Alcolumbre como desculpa para blindar Moraes no Senado
 - [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] — "Flávio quer perder pro Lula para continuar mandando na direita"; direita como "bordel"; acordo com Xandão e Vorcaro
 - [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — "fralda do Flávio" no debate da Band; ausência classificada como covardia
 - [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — recusa do debate da Band; "fraldas geriátricas"; escândalos em comum com Lula

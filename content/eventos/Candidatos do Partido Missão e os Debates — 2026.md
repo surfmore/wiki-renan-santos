@@ -7,6 +7,7 @@ tags:
   - debates
 date: 2026-08-22
 fontes:
+  - "2026-09-03 - Toffoli fez por vingança"
   - "2026-08-30 - Sobre a proposta de tirar a candidatura"
   - "2026-08-27 - Eles toparam debate!"
   - "2026-08-27 - Fui bem no JN"
@@ -30,6 +31,10 @@ fontes:
 ---
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
+
+## Toffoli suspende redes e participação de Renan em debates; decisão é revertida (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan afirma que o ministro [[pessoas/Dias Toffoli]], relator de seu registro no TSE, decidiu que ele **não poderia usar as redes sociais nem participar de sabatina e debate** — na prática, uma restrição à campanha. Renan classifica a decisão como monocrática e ilegal e diz que ela foi revertida minutos após sua coletiva de imprensa, sob pressão de juristas, imprensa e dos demais candidatos à presidência, exceto [[pessoas/Lula]]. Ver [[fontes/2026-09-03 - Toffoli fez por vingança]] e [[pessoas/Dias Toffoli]].
 
 ## "O vencedor da semana": avaliação do debate da Band e das sabatinas (agosto de 2026)
 
@@ -101,6 +106,7 @@ Em **31 de julho de 2026**, Renan e Bem Mendes — candidato do Missão ao gover
 
 ## Fontes
 
+- [[fontes/2026-09-03 - Toffoli fez por vingança]] — decisão que suspendeu redes e debates de Renan; revertida após pressão
 - [[fontes/2026-08-24 - Minha resposta sobre a escala 6x1 no debate da Band!]] — resposta sobre a escala 6x1 dada no debate da Band
 - [[fontes/2026-08-24 - Lula não é homem de verdade.]] — Lula desafiado a defender o legado; "você vai chamar seus advogados para me processar?"
 - [[fontes/2026-08-24 - Lula não tem coragem de vir ao debate]] — Lula sem coragem de debater fome, insegurança e submissão internacional

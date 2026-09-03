@@ -9,6 +9,10 @@ date: 2026-08-06
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
 
+## Blindado por Alcolumbre e acusado de contrato da esposa "editado por ele" (setembro de 2026)
+
+Em **3 de setembro de 2026**, Renan afirma que [[pessoas/Davi Alcolumbre]] se recusa a pautar no Senado qualquer tema que envolva Moraes, usando como desculpa o financiamento de um filme de cerca de R$ 130 milhões por [[pessoas/Flávio Bolsonaro]] junto a [[pessoas/Daniel Vorcaro]] ("agora culpado só o ministro Alexandre de Moraes"). No mesmo dia, em vídeo sobre o [[eventos/Escândalo Banco Master]], Renan diz que Moraes — "herói da democracia para muita gente" — teria a esposa com contrato multimilionário "que foi editado pelo próprio Alexandre de Moraes" com a turma do Banco Master, e filhos que dispunham de jatinho pago com dinheiro de Vorcaro. Para Renan, Moraes integra a "oligarquia" que rouba o país sem consequências. Ver [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] e [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].
+
 ## Quase confronto com André Mendonça no STF (setembro de 2026)
 
 Em **2 de setembro de 2026**, Renan afirma que Moraes e [[pessoas/André Mendonça]] **"quase saíram na porrada"** no STF, num episódio que ele descreve como o começo de uma "guerra civil" na Corte. Segundo Renan, enquanto Mendonça tenta "trazer luz" ao [[eventos/Escândalo Banco Master]], Moraes "e sua turma estão reagindo" para conter a apuração. A fala reforça o papel atribuído por Renan a Moraes como protetor da rede do Banco Master dentro do Supremo. Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]] e [[temas/STF e Ativismo Judicial]].
@@ -153,6 +157,8 @@ Renan também menciona que em dezembro de 2025 Tarcísio de Freitas trocava "ris
 
 ## Fontes principais
 
+- [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] — esposa com contrato multimilionário "editado pelo próprio" Moraes; filhos com jatinho; "seu político favorito foi pego"
+- [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] — Alcolumbre blindaria Moraes; ministros do STF "comemorando"
 - [[fontes/2026-09-02 - Eu fui censurado por 24h]] — "quase saíram na porrada" com Mendonça; grupo de Moraes reage ao caso Banco Master
 - [[fontes/2025-12-12 - TRUMP RETIROU MAGNITSKY DO ALEXANDRE DE MORAES!]]
 - [[fontes/2025-12-23 - Banco Master é o fim da República]]
