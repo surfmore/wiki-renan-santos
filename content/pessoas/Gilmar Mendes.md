@@ -28,6 +28,10 @@ fontes:
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As afirmações são reprodução das declarações dele e não são verificadas independentemente por este wiki.
 
+## Encontro com o coordenador de campanha de Flávio (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que o coordenador da campanha de [[pessoas/Flávio Bolsonaro]], **Rogério Marinho**, foi encontrar Gilmar Mendes para "apaziguar a relação" entre a candidatura de Flávio e o STF. Renan usa o episódio como prova de que o bolsonarismo negocia com a Corte nos bastidores enquanto usa o discurso de enfrentamento apenas como "ferramenta eleitoral". Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
 ## Proteção a Flávio Bolsonaro via foro privilegiado (maio de 2026)
 
 Em **17 de maio de 2026**, ao traçar o perfil de Flávio Bolsonaro, Renan descreve como [[pessoas/Dias Toffoli]] e Gilmar Mendes atuaram em conjunto para blindar Flávio: Toffoli anulou as provas do COAF e Gilmar criou **foro privilegiado retroativo** para manter o caso das rachadinhas em Brasília, travando o processo. Em retribuição, Flávio derrubou a CPI da Lava-Toga no Senado e nunca mais mencionou os nomes de Toffoli ou Gilmar — exceto para **apoiar o irmão de Gilmar para prefeito em Mato Grosso**.

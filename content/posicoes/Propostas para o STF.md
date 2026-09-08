@@ -12,6 +12,10 @@ fontes:
 
 Conjunto de sete propostas concretas que Renan Santos afirma que encaminhará como presidente da República para reformar o Supremo Tribunal Federal.
 
+## Promessa de afastar Moraes e Toffoli como primeira medida (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan afirma que, como presidente, **uma das primeiras coisas que fará será afastar [[pessoas/Alexandre de Moraes]] e [[pessoas/Dias Toffoli]]**, "liderando o Senado e a população brasileira no enfrentamento sério à corrupção". A fala reforça, em tom mais incisivo, a responsabilização de ministros envolvidos em escândalos já presente nas sete propostas e na promessa de nomeações escrutinadas. Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]].
+
 ## Reafirmação republicana: quatro nomeações escrutinadas (agosto de 2026)
 
 Em **4 de agosto de 2026**, Renan detalha como usará as cerca de **quatro nomeações** que fará ao STF como presidente. Promete "nomeações republicanas com um perfil escrutinado não só pelo Senado, mas pela sociedade civil", com indicados sabatinados pela imprensa e pelo Senado. O objetivo é formar uma "maioria republicana" na Corte: sem escritórios fazendo negócios (com adoção de código de ética), que não seja "fã das decisões monocráticas de interferência nos demais poderes" e que não julgue parlamentares que devem fiscalizar o STF. Renan afirma que não declarará guerra à Corte no primeiro dia e que quer investigação de ministros envolvidos em escândalos de corrupção (como o [[eventos/Escândalo Banco Master]]).

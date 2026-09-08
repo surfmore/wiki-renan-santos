@@ -7,6 +7,18 @@ tags:
 date: 2026-08-07
 ---
 
+## "Afastar Moraes e Toffoli" liderando o Senado (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan afirma que, como presidente, uma das primeiras medidas será **afastar [[pessoas/Alexandre de Moraes]] e [[pessoas/Dias Toffoli]]**, liderando o Senado e a população "no enfrentamento sério à corrupção". A fala conecta sua pauta de enfrentamento ao STF à promessa de governo. Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]] e [[posicoes/Propostas para o STF]].
+
+## MP Eleitoral contra Renan por "abuso de poder econômico" (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Cara…. Que inferno…", Renan diz que o Ministério Público Eleitoral o interpelou por **abuso de poder econômico** — acusação que classifica como "ridícula", pois sua campanha seria "de longe a mais barata" entre os candidatos, sem dinheiro, rodando de carro e com candidatos de R$ 2.000 a R$ 5.000. Ele liga a investida à tentativa anterior de [[pessoas/Dias Toffoli]] de "encerrar" sua candidatura pelas redes sociais não declaradas e conclui que "o sistema é feito para te moer, para te humilhar". Ver [[fontes/2026-09-04 - Cara…. Que inferno…]].
+
+## Impeachment de Moraes, primeira "derrota" e a quadrilha do STF (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que "todo mundo no STF, salvo raras exceções" está envolvido no [[eventos/Escândalo Banco Master]] e que o Senado precisa "botar para andar" o **impeachment de [[pessoas/Alexandre de Moraes]]**. Ele diz que [[pessoas/André Mendonça]] "tem nas mãos" Moraes e [[pessoas/Flávio Bolsonaro]] e não pode cair na "armadilha de ser ministro que tem lado", e comemora que Moraes tenha sido **derrubado por Fachin** ao tentar incluir Mendonça no seu inquérito — "a primeira vez que o Moraes começa a perder". Renan resume o alvo como as "quadrilhas" do PT, dos Bolsonaro e dos ministros do STF, com [[pessoas/Daniel Vorcaro]] controlando "da cadeia" o resultado das eleições. Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
 ## Ministros "comemorando", "ditadura sem ditador" e a decisão de Toffoli (setembro de 2026)
 
 Em **3 de setembro de 2026**, Renan comenta uma foto de ministros do STF rindo após uma sessão — que teria "estourado na imprensa" — e a lê como comemoração por estarem "armando a marmelada" com [[pessoas/Davi Alcolumbre]] para blindar [[pessoas/Alexandre de Moraes]]. Ele afirma que o Brasil vive "uma ditadura" sem ditador único: "um grupo de pessoas, uma oligarquia que ganham dinheiro roubando a gente", da qual participariam petistas, [[pessoas/Flávio Bolsonaro]], quase todo o STF e quase todo o centrão — e que criticar esse grupo levaria à prisão. No mesmo dia, sobre a decisão de [[pessoas/Dias Toffoli]] que suspendeu suas redes sociais e sua participação em sabatinas e debates (depois revertida), Renan a classifica como monocrática e ilegal e a atribui a uma vingança pelo caso do resort Tayayá. Ver [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] e [[fontes/2026-09-03 - Toffoli fez por vingança]].

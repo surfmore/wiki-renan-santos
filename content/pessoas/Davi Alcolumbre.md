@@ -22,6 +22,10 @@ fontes:
 
 **Quem é:** Senador pelo Amapá (União Brasil) e presidente do Senado Federal. Figura do centrão que Renan Santos usa como síntese do que chama de "poder oligárquico desproporcional" — um político de um dos estados menos populosos e mais pobres do Brasil que controla o Congresso Nacional.
 
+### Presidente do Senado e a grana de Vorcaro a Flávio (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan cita [[pessoas/Flávio Bolsonaro]] e o presidente do Senado, [[pessoas/Davi Alcolumbre]], ao afirmar que Flávio "realmente recebeu grana do Vorcaro" — e lembra que "todo mundo esqueceu que pediram 130 milhões pra mesma pessoa para fazer um filme". A fala reforça o argumento de Renan de que o entorno de Alcolumbre no Senado blindaria os envolvidos no [[eventos/Escândalo Banco Master]]. Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].
+
 ### Blindagem a Moraes e a desculpa dos R$ 130 milhões (setembro de 2026)
 
 Em **3 de setembro de 2026**, Renan comenta uma foto de ministros do STF rindo após uma sessão — que teria "estourado na imprensa" — e a lê como comemoração por estarem "armando a marmelada" com Alcolumbre. Segundo Renan, a desculpa de Alcolumbre para **não pautar nada que envolva [[pessoas/Alexandre de Moraes]] no Senado** seria: "todo mundo esqueceu que pediram 130 milhões pra mesma pessoa [em referência a [[pessoas/Daniel Vorcaro]]] pra fazer um filme e agora culpado só o ministro Alexandre de Moraes". Na leitura de Renan, Alcolumbre usaria o envolvimento de [[pessoas/Flávio Bolsonaro]] nesse financiamento como justificativa para blindar Moraes, mandando o eleitor "brigar entre Lula e Flávio" enquanto ele "salva o Xandão". Renan o chama de "Batoré", "bicho ignorante e corrupto". Ver [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]].

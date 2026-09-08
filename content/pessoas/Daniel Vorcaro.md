@@ -23,6 +23,18 @@ fontes:
 
 ## O que o Renan Santos disse
 
+### Renan nega relação e quer Vorcaro "apodrecendo na cadeia" (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan afirma que nunca apareceu na lista de telefone de Vorcaro, nunca recebeu doações dele e nunca foi a nenhuma festa sua, e que quer que ele "apodreça na cadeia" — em contraste com "meus concorrentes", que segundo ele receberiam "dinheiro de vagabundo". Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]].
+
+### Da cadeia, controlaria o resultado das eleições (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que, como [[pessoas/Lula]] e o bolsonarismo estão envolvidos no escândalo e **Vorcaro controla da cadeia o resultado das eleições**, não se pode permitir que essas figuras façam acordo — segundo ele, Lula só está solto por um acordo no STF e [[pessoas/Flávio Bolsonaro]] só não foi preso pelo mesmo motivo. Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
+### Vorcaro no centro do "mapa" dos candidatos (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan apresenta Vorcaro como a origem comum das relações dos principais candidatos com o [[eventos/Escândalo Banco Master]]: [[pessoas/Lula]] "envolvido até o pescoço", [[pessoas/Flávio Bolsonaro]] que "recebeu dinheiro do próprio Vorcaro", e [[pessoas/Augusto Curi]], que teria contratado os mesmos influenciadores de Vorcaro e cotas em banco que tentou comprar o Master. Em contraste, Renan afirma que ele e o [[temas/Partido Missão]] não têm relação com o escândalo. Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].
+
 ### O jogo para Vorcaro controlar as eleições da cadeia (setembro de 2026)
 
 Em **2 de setembro de 2026**, Renan afirma que "o jogo foi todo desenhado para que Daniel Vorcaro, da cadeia, controle as eleições". Segundo ele, [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] — que estariam no escândalo do Banco Master — lideram as pesquisas e ambos "vão salvar Daniel Vorcaro, vão liberá-lo após vencer". Renan diz que teria sido censurado por 24 horas justamente por ser quem mais fala sobre o caso. Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]] e [[eventos/Escândalo Banco Master]].

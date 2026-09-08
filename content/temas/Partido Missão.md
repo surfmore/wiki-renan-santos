@@ -53,6 +53,10 @@ fontes:
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
 
+## Estratégia da "tropa": site tropa.com.br e exército digital (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Comente TROPA", Renan apresenta a estratégia de mobilização da campanha do Missão: o site **tropa.com.br**, no qual apoiadores criariam e publicariam conteúdo nas próprias redes sociais, formando "milhares de soldados produzindo conteúdo diário". Ele justifica a aposta nas redes sociais como a "arma" da campanha diante da falta de recursos e dos obstáculos que atribui ao sistema. Ver [[fontes/2026-09-04 - Comente TROPA]].
+
 ## "O único partido sem relação com o Banco Master" (setembro de 2026)
 
 Em **3 de setembro de 2026**, Renan afirma que o Partido Missão é o único partido sem relação com o [[eventos/Escândalo Banco Master]]: "os meus deputados nunca receberam ligação, nem andaram de jatinho do Banco Master", nunca pediram favores nem trocaram favores com o banco. Ele classifica os candidatos do partido como "a bancada que vai mudar a história do Brasil" e encerra com a propaganda de campanha: "vote 14" e o site candidatos.missão.org.br. Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].

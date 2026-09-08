@@ -9,6 +9,14 @@ date: 2026-08-06
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
 
+## Alvo de "afastamento" na primeira medida de governo (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan afirma que, como presidente, **uma das primeiras coisas que fará será afastar Moraes e [[pessoas/Dias Toffoli]]**, liderando o Senado e a população brasileira "no enfrentamento sério à corrupção". A declaração radicaliza, no plano da promessa de campanha, o que Renan já dizia sobre investigar ministros envolvidos no [[eventos/Escândalo Banco Master]]. Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]] e [[posicoes/Propostas para o STF]].
+
+## Impeachment no Senado e primeira "derrota" para Fachin (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que [[pessoas/André Mendonça]] "tem nas mãos" Moraes e que o **Senado precisa botar para andar o pedido de impeachment** contra ele. Segundo Renan, Moraes tentou colocar Mendonça no seu inquérito e foi **derrubado pelo ministro Fachin** — o que Renan classifica como "a primeira vez que o Alexandre de Moraes começa a perder, a ser derrotado". Renan diz que Moraes estaria protegido por acordos no STF que também beneficiariam [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]]. Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
 ## Blindado por Alcolumbre e acusado de contrato da esposa "editado por ele" (setembro de 2026)
 
 Em **3 de setembro de 2026**, Renan afirma que [[pessoas/Davi Alcolumbre]] se recusa a pautar no Senado qualquer tema que envolva Moraes, usando como desculpa o financiamento de um filme de cerca de R$ 130 milhões por [[pessoas/Flávio Bolsonaro]] junto a [[pessoas/Daniel Vorcaro]] ("agora culpado só o ministro Alexandre de Moraes"). No mesmo dia, em vídeo sobre o [[eventos/Escândalo Banco Master]], Renan diz que Moraes — "herói da democracia para muita gente" — teria a esposa com contrato multimilionário "que foi editado pelo próprio Alexandre de Moraes" com a turma do Banco Master, e filhos que dispunham de jatinho pago com dinheiro de Vorcaro. Para Renan, Moraes integra a "oligarquia" que rouba o país sem consequências. Ver [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] e [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].

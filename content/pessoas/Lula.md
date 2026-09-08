@@ -80,6 +80,14 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## "Só está solto porque um acordo no STF o salvou" (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que Lula **só está solto porque um acordo no STF o salvou e o tirou da cadeia**, e o inclui entre os envolvidos no [[eventos/Escândalo Banco Master]] e no escândalo do INSS que [[pessoas/André Mendonça]] poderia revelar. Na leitura de Renan, a rede de acordos no STF protege Lula, [[pessoas/Flávio Bolsonaro]] e [[pessoas/Alexandre de Moraes]] ao mesmo tempo. Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
+## "Envolvido até o pescoço" no Banco Master e 43% nas pesquisas (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan afirma que Lula, com **43% nas pesquisas**, está "envolvido até o pescoço" no [[eventos/Escândalo Banco Master]] — "isso não é opinião", diz, mas notícias sobre a relação. Segundo Renan, no dia anterior Lula teria passado o dia defendendo o ministro [[pessoas/Alexandre de Moraes]] ("o Xandão") e articulando no Senado a "salvação" de ministro citado no escândalo. Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].
+
 ## Encontro "a portas fechadas" com Vorcaro e ministros recebendo "consultoria" (setembro de 2026)
 
 Em **3 de setembro de 2026**, no vídeo "Seu político favorito foi pego no Master, né", Renan afirma que Lula se encontrou com [[pessoas/Daniel Vorcaro]] **a portas fechadas** e que muitos ministros de seu governo receberiam dinheiro "a título de consultoria" do Banco Master. A fala reforça a tese de que a rede do [[eventos/Escândalo Banco Master]] atravessa o governo Lula, já presente em vídeos anteriores. Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].

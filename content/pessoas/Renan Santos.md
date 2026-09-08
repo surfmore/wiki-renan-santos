@@ -35,6 +35,26 @@ fontes:
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
 
+## "Devo manter ou não minha candidatura": nega relação com Vorcaro (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan declara não ter nenhuma relação com [[pessoas/Daniel Vorcaro]] — nunca apareceu na lista de telefone dele, nunca recebeu doações nem foi a festas — e diz querer que o banqueiro "apodreça na cadeia". Ele afirma que, como presidente, uma das primeiras medidas será **afastar [[pessoas/Alexandre de Moraes]] e [[pessoas/Dias Toffoli]]**, liderando o Senado e a população "no enfrentamento sério à corrupção", e desafia os eleitores dos concorrentes: "será que o seu candidato pode falar a mesma coisa que eu falei?" Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]].
+
+## Lança o site tropa.com.br e convoca a "tropa" digital (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Comente TROPA", Renan anuncia uma estratégia de mobilização digital: o site **tropa.com.br**, onde apoiadores criariam conteúdo em menos de dois minutos e publicariam nas próprias redes sociais ("sejam minha tropa. Teremos milhares de soldados produzindo conteúdo diário"). Ele recapitula os obstáculos que atribui ao sistema — falta de verba, algoritmo das redes, cancelamento de debates, "candidatos falsos" e "um ministro do TSE nomeado para destruir minha candidatura" — e afirma que passou por "cinco" tentativas de sabotagem sem desistir. Pede que os apoiadores escrevam "tropa" nos comentários para receber o link. Ver [[fontes/2026-09-04 - Comente TROPA]].
+
+## Ironia sobre acusação de abuso de poder econômico (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Cara…. Que inferno…", Renan ironiza a interpelação do Ministério Público Eleitoral por **abuso de poder econômico**: "eu sou a campanha de longe mais barata dos candidatos a presidente", diz, lembrando que roda de carro enquanto adversários usam jatinho, tempo de televisão e influenciadores comprados, e que os candidatos do [[temas/Partido Missão]] têm campanhas de R$ 2.000 a R$ 5.000. Ele afirma que "o sistema é feito para te moer, para te humilhar" e convoca: "vamos para cima deles... o jogo é para ser bruto". Ver [[fontes/2026-09-04 - Cara…. Que inferno…]].
+
+## "Se o povo despertar, eu estarei com o povo nas ruas" (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan diz estar "pagando um preço muito caro", perseguido por [[pessoas/Dias Toffoli]] e pelo Ministério Público Eleitoral por falar a verdade sobre o [[eventos/Escândalo Banco Master]] e não ter "rabo preso com ninguém". Ele pede que as pessoas desobedeçam e saiam às ruas — não atrás de "caminhão de som de político vagabundo", mas porque "você tem um país a salvar": "se o povo despertar, eu estarei com o povo nas ruas, nunca acima dele", ainda que as consequências para ele e para o [[temas/Partido Missão]] sejam "provavelmente terríveis". Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
+## "Se você quer combater a corrupção, só tem um nome": 8% e empate com Curi (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan diz estar com **8% nas pesquisas, empatado com [[pessoas/Augusto Curi]]**, e afirma ser o único candidato, na sua leitura, sem relação com o [[eventos/Escândalo Banco Master]]. Ele lembra que ele e o [[temas/Partido Missão]] convocaram manifestações contra os envolvidos e que, por isso, o ministro [[pessoas/Dias Toffoli]] teria tentado caçar seu registro. Encerra dizendo que, para enfrentar a corrupção, "só tem um nome, é Renan Santos e o número dele é 14". Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].
+
 ## Decisão de Toffoli suspende redes e debates de Renan; revertida após pressão (setembro de 2026)
 
 Em **3 de setembro de 2026**, Renan relata que o ministro [[pessoas/Dias Toffoli]] decidiu que ele **não poderia usar as redes sociais nem participar de sabatina e debate** — decisão revertida, segundo ele, após pressão de juristas, imprensa e dos demais candidatos à presidência. Renan nega irregularidade relevante: afirma que sua candidatura já havia sido lançada quando a exigência de declarar as redes sociais surgiu, que outros milhares de candidatos estavam na mesma situação e que sua equipe peticionou ao TSE, atuando "com boa-fé em todo esse processo". Ver [[fontes/2026-09-03 - Toffoli fez por vingança]] e [[pessoas/Dias Toffoli]].

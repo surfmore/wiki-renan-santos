@@ -17,6 +17,10 @@ fontes:
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As descrições sobre Curi são a caracterização feita por Renan, não verificações independentes deste wiki.
 
+## "Fã do master sem opinião": Avante, influenciadores do Master e cotas no Banco Victor (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan afirma que Curi, candidato do **Avante** — partido que, segundo ele, vota em **88% dos casos com o PT** — "tem relação com o caso" do [[eventos/Escândalo Banco Master]]: teria **contratado os mesmos influenciadores usados por [[pessoas/Daniel Vorcaro]]** para defender o Banco Master durante o escândalo e seria **cotista em mais de R$ 30 milhões** em negócios do **Banco Victor**, banco que Renan classifica como fraudulento e que tentou comprar o Master, "igualzinho o BRB" no momento de crise. Renan diz que Curi não tem opinião sobre o escândalo e lembra que ele afirmou que governaria tanto com petistas quanto com bolsonaristas. Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].
+
 ## Reiteração da acusação de vínculo com o Banco Master (setembro de 2026)
 
 Em **3 de setembro de 2026**, no vídeo "Seu político favorito foi pego no Master, né", Renan repete a acusação do dia anterior: quem "agora gosta do Curi" deve lembrar que Curi **contratou influenciadores ligados ao Banco Master** para divulgar sua candidatura e teria **cotas de um banco** que tentou comprar o Master "de maneira fraudulenta". Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]].

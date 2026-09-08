@@ -28,6 +28,22 @@ Ministro do Supremo Tribunal Federal, indicado ao cargo em 2009 pelo presidente 
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
 
+## Alvo de "afastamento" na primeira medida de governo (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan afirma que, como presidente, **uma das primeiras coisas que fará será afastar Toffoli e [[pessoas/Alexandre de Moraes]]**, liderando o Senado e a população brasileira "no enfrentamento sério à corrupção". Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]].
+
+## "Tentar encerrar" a candidatura pelas redes sociais (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "Cara…. Que inferno…", Renan ironiza a sequência de investidas contra sua campanha: depois de Toffoli tentar "encerrar" sua candidatura com o argumento de que ele não declarou as redes sociais — quando, segundo Renan, "quase 7.000 candidatos" tiveram problema similar e ele perdeu **dois dias de campanha** —, agora o Ministério Público Eleitoral o interpelaria por **abuso de poder econômico**. Ver [[fontes/2026-09-04 - Cara…. Que inferno…]].
+
+## Acusado de perseguir Renan ao lado do MP Eleitoral (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que está "pagando um preço muito caro" e sendo **perseguido por Toffoli e pelo Ministério Público Eleitoral** simplesmente por falar a verdade sobre o [[eventos/Escândalo Banco Master]] e não ter "rabo preso com ninguém". A fala liga a atuação de Toffoli no TSE à proteção da rede investigada no escândalo. Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
+## "Tentou caçar meu registro": Toffoli como parte do escândalo (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan afirma que Toffoli, "ministro envolvido no escândalo do Banco Master", **tentou caçar seu registro de candidatura** para tirá-lo das eleições — na leitura de Renan, uma consequência de ele e seu grupo terem convocado "muitas manifestações" contra os envolvidos no caso. Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].
+
 ## "Toffoli fez por vingança": decisão que suspendeu redes e debates de Renan (setembro de 2026)
 
 Em **3 de setembro de 2026**, Renan afirma que Toffoli decidiu que ele **não poderia usar as redes sociais nem participar de sabatina e debate** — decisão que o próprio Toffoli teria revertido após forte pressão. Renan atribui a medida a uma **vingança** pelas manifestações que organizou contra o ministro em torno do resort **Tayayá** e da relação de Toffoli com a "turma do [[pessoas/Fabiano Zettel]]" (a compra e a venda do resort e o envolvimento da família de Toffoli). Ele classifica a decisão como **monocrática e ilegal** — uma irregularidade no registro de redes sociais não poderia suspender o andamento da candidatura, no máximo geraria multa — e afirma que a reversão veio minutos após sua coletiva de imprensa, sob pressão de juristas, imprensa e dos demais candidatos à presidência, exceto [[pessoas/Lula]]. Ver [[fontes/2026-09-03 - Toffoli fez por vingança]].

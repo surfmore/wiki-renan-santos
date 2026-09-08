@@ -36,6 +36,14 @@ fontes:
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## "Nas mãos" de Mendonça e campanha que apazigua Gilmar (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que [[pessoas/André Mendonça]] "tem nas mãos" Flávio — inclusive a pedido da **PGR** — e que Flávio **só não foi preso porque fez acordo com o STF**. Renan diz que Flávio convoca uma manifestação em que "não tem coragem" de pedir o impeachment dos ministros do STF, e revela que o coordenador da campanha de Flávio, **Rogério Marinho**, foi encontrar [[pessoas/Gilmar Mendes]] para "apaziguar a relação" — o mesmo Rogério Marinho que não assina o pedido de impeachment contra [[pessoas/Alexandre de Moraes]]. Para Renan, isso mostra que o tema é usado "apenas como ferramenta eleitoral". Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
+## "Recebeu dinheiro do próprio Vorcaro"; 33% nas pesquisas (setembro de 2026)
+
+Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan afirma que Flávio, com **33% nas pesquisas**, está "mais do que envolvido" no [[eventos/Escândalo Banco Master]]: segundo ele, Flávio **recebeu dinheiro do próprio [[pessoas/Daniel Vorcaro]]** — com notícias exibidas no vídeo — e Renan lembra que "pediram 130 milhões pra mesma pessoa para fazer um filme", em referência ao financiamento combinado com Vorcaro. Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].
+
 ## "Seu político favorito foi pego no Master": filme de R$ 130 mi e blindagem de Moraes (setembro de 2026)
 
 Em **3 de setembro de 2026**, no vídeo "Seu político favorito foi pego no Master, né", Renan afirma que Flávio financiou um filme com **cerca de R$ 130 milhões combinados com [[pessoas/Daniel Vorcaro]]**, recebia dinheiro do banqueiro, tinha "conversas indecorosas" com ele, andava de jatinho e estava na lista de contatos — caracterizando tráfico de influência. No mesmo dia, em "Da vontade de se M4T4R com isso", Renan diz que [[pessoas/Davi Alcolumbre]] usaria o envolvimento de Flávio nesse financiamento como desculpa para **não pautar nada contra [[pessoas/Alexandre de Moraes]] no Senado** — e que Flávio faria parte da "oligarquia" que, segundo Renan, rouba o país sem consequências. Ver [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] e [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]].

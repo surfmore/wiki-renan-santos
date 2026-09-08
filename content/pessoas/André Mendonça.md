@@ -17,6 +17,10 @@ Ministro do Supremo Tribunal Federal, indicado ao cargo pelo ex-presidente Jair 
 
 ## O que Renan diz sobre ele
 
+### "Tem nas mãos" Moraes e Flávio; não pode ter lado (setembro de 2026)
+
+Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que Mendonça **"tem nas mãos" [[pessoas/Alexandre de Moraes]]** — e agora também teria [[pessoas/Flávio Bolsonaro]] "nas mãos", inclusive a pedido da **PGR**. Ele pede que o Senado "bote para andar" o impeachment contra Moraes e que Mendonça não caia na "armadilha de ser um ministro do STF que tem lado": que use a chance para "derrubar a todos" e "passar o Brasil a limpa". Renan também relata que Moraes tentou colocar Mendonça no seu inquérito e foi **derrubado pelo ministro Fachin** — lido como a "primeira vez" que Moraes perde. Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].
+
 ### Embate com Moraes no STF em torno do Banco Master (setembro de 2026)
 
 Em **2 de setembro de 2026**, Renan afirma que [[pessoas/Alexandre de Moraes]] e André Mendonça "quase saíram na porrada" no STF, num episódio que ele descreve como o início de uma "guerra civil" na Corte. Segundo Renan, Mendonça estaria tentando **"trazer luz" ao [[eventos/Escândalo Banco Master]]** enquanto Moraes "e sua turma" reagiriam para abafar o caso. A fala coloca Mendonça como o ministro que pressiona pela apuração do escândalo dentro do Supremo. Ver [[fontes/2026-09-02 - Eu fui censurado por 24h]].
