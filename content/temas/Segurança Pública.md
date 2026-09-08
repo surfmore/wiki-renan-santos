@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## Violência contra a mulher nas favelas: subnotificação e o "Nuremberg das favelas" (setembro de 2026)
+
+Em **5 de setembro de 2026**, Renan afirma que o Brasil registra cerca de **250 mil casos reportados por ano** de violência contra a mulher e que o número "vai praticamente duplicar" se as vítimas denunciarem — porque a maior parte dessas violências **não é reportada**, sobretudo nos bairros pobres e nas favelas. Ele descreve o medo de retaliação como a principal barreira: numa festa no Rio, uma menina (muitas vezes menor de idade) que recusa a investida de um homem e é agredida não denuncia porque sabe que, se virar investigação, "ela tá morta, a mãe dela tá com problema". Para esses crimes cometidos sob o domínio do crime organizado, Renan propõe que, após a **destruição das facções**, as vítimas possam finalmente contar e os criminosos sejam punidos no **"Nuremberg das favelas"** com penas que somam milhares de anos. Ver [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]], [[temas/Pautas Identitárias e de Gênero]], [[posicoes/Desfavelização do Brasil]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
+
 ## "As nossas leis têm que ser duras": o caso da mãe obrigada a devolver a camisa do Neymar (agosto de 2026)
 
 Em **31 de agosto de 2026**, Renan narra o episódio de uma mãe e seu filho — torcedores do Corinthians — obrigados a devolver a camisa que [[pessoas/Neymar]] havia dado ao menino após um jogo contra o Santos, e a fugir do estádio "como se eles fossem os bandidos" diante de ameaças de outros torcedores. Ele usa o caso para afirmar que o Brasil está "tão doente, tão maluco" e que "esses caras" — descritos como os mesmos que "podem te assaltar na rua", "batem na namorada" e "não prestam" — "são inimigos". Para Renan, o episódio justifica o endurecimento das leis: "quando eu falo que as nossas leis têm que ser duras, é para proteger a mãe e esse menino de vagabundos como esses caras". Ele ressalva que são "um pequeno grupo", não a maioria da torcida, e que "é essa minoria que o meu governo vai destruir". Ver [[fontes/2026-08-31 - Essa mãe teve que devolver a camisa do Neymar.]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
@@ -1255,6 +1259,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]] — 250 mil casos/ano de violência contra a mulher; subnotificação por medo de retaliação; "Nuremberg das favelas"
 - [[fontes/2026-08-24 - Estado de sítio e GLO em áreas dominadas pelo crime organizado]] — no debate, três propostas: estado de defesa + GLO, super presídios (300-500 mil vagas), intervenção em estados que não combatem o crime
 - [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — "salve" do PCC tentando impedir evento; coragem de enfrentar o crime; marco de desfavelização
 - [[fontes/2026-08-20 - Eu destruí as câmeras de uma facção criminosa]] — destruição de câmeras de facção; monitoramento territorial; reocupação e direito penal do inimigo

@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-09-03 - Seu político favorito foi pego no Master, né"
   - "2026-09-03 - Da vontade de se M4T4R com isso"
   - "2026-09-02 - Eu fui censurado por 24h"
@@ -21,6 +22,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## "A mesma grana suja do Vorcaro" chegando a Flávio, Moraes e Lewandowski (setembro de 2026)
+
+Em **5 de setembro de 2026**, no vídeo "Todo mundo no mesmo escândalo", Renan afirma que **"foi a mesma grana suja do Vorcaro que molhou a mão"** de [[pessoas/Flávio Bolsonaro]], de [[pessoas/Alexandre de Moraes]] e de [[pessoas/Ricardo Lewandowski]] — ministro da Justiça de [[pessoas/Lula]] — "é o mesmo dinheiro sujo". Ele reforça que o país está destruído porque quem mandou "roubou junto, participou das mesmas orgias", e estende a tese ao [[eventos/Escândalo do INSS]]: o mesmo dinheiro sujo do "NSS" teria circulado com **Willer Tomás** (apontado como sócio de Flávio) e **Everton Rocha** (vice-líder do governo Lula). Para Renan, o eleitor precisa "despertar que o inimigo são todos eles", pois "todo mundo está enfiado no mesmo escândalo, todo mundo puxando o saco um do outro". Ver [[fontes/2026-09-05 - Todo mundo no mesmo escândalo]].
 
 ## STF e política "todos envolvidos"; acordos que protegem Lula e Flávio (setembro de 2026)
 

@@ -7,6 +7,7 @@ tags:
   - banco-master
 date: 2026-05-29
 fontes:
+  - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro"
   - "2026-05-16 - O PT está serelepe achando que ninguém vai lembrar do papel deles no escândalo com Daniel Vorcaro"
   - "2026-04-10 - Direita, centro e esquerda no Banco Master"
@@ -25,6 +26,10 @@ Ex-ministro do Supremo Tribunal Federal, nomeado ministro da Justiça no governo
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele e não foram verificadas de forma independente por este wiki.
 
 ## O que Renan diz
+
+### "A mesma grana suja do Vorcaro" que "molhou a mão" de Lewandowski (setembro de 2026)
+
+Em **5 de setembro de 2026**, Renan afirma que "foi a mesma grana suja do Vorcaro que molhou a mão do Ricardo Lewandowski, ministro da Justiça do Lula" — "é o mesmo dinheiro sujo". A fala insere Lewandowski na mesma rede do [[eventos/Escândalo Banco Master]] que, segundo Renan, também atingiria Flávio Bolsonaro e Alexandre de Moraes. Ver [[fontes/2026-09-05 - Todo mundo no mesmo escândalo]].
 
 ### Contrato com o Banco Master: valores divergentes nas fontes
 
@@ -67,6 +72,7 @@ Ver [[fontes/2025-10-29 - O Rio de Janeiro precisa urgente de uma guerra]].
 
 ## Fontes
 
+- [[fontes/2026-09-05 - Todo mundo no mesmo escândalo]] — "a mesma grana suja do Vorcaro" que "molhou a mão" de Lewandowski
 - [[fontes/2026-05-22 - Quem está mais envolvido no escândalo do Banco Master - Lula ou Bolsonaro]] — contrato datado de 2023
 - [[fontes/2026-05-16 - O PT está serelepe achando que ninguém vai lembrar do papel deles no escândalo com Daniel Vorcaro]] — papel do PT e de Lewandowski no escândalo
 - [[fontes/2026-04-10 - Direita, centro e esquerda no Banco Master]] — valor de R$ 6,1 milhões ao escritório

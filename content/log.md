@@ -1,5 +1,35 @@
 # Log de operações
 
+## [2026-09-06] ingest automático | João Campos gasta mais com propaganda que outras áreas essenciais. Em Pernambuco votem Renan Hallais
+- Fonte criada: fontes/2026-09-06 - João Campos gasta mais com propaganda que outras áreas essenciais. Em Pernambuco votem Renan Hallais
+- Páginas criadas: (nenhuma — conteúdo adicionado a página existente)
+- Páginas atualizadas: pessoas/João Campos ("compra o voto da população mais pobre" no Ibura; morro pintado/escadaria), index.md, log.md, wiki/.processed_ids
+- Nota: video_id BQRbm7-PNTs registrado antes da criação de páginas. Vídeo de campanha com múltiplos falantes na comunidade do Ibura (Recife): Renan Santos afirma na abertura que João Campos "compra o voto da população mais pobre" (morro pintado e escadaria de "R$ milhões"); narração (">>") e o candidato do Missão ao governo de PE, Renan Hallais (grafado Ralis/Rallais/Ralais em fontes anteriores), acusam Campos de gastar mais com festa/propaganda (Pablo Vittar, Juliette) do que com saneamento; Renan Santos fecha oferecendo "estrutura, dinheiro e legislação" para bons governadores. Atribuição conservadora: narração intermediária não atribuída a Renan Santos; sem criação de página para Renan Hallais (nome instável entre fontes; conteúdo já registrado na página de João Campos).
+
+## [2026-09-06] ingest automático | Estamos dando a chance!
+- Fonte criada: fontes/2026-09-06 - Estamos dando a chance!
+- Páginas criadas: (nenhuma — conteúdo adicionado a página existente)
+- Páginas atualizadas: temas/Partido Missão ("a droga de um candidato sincero"; desafio a quem o chama de corrupto/covarde), index.md, log.md, wiki/.processed_ids
+- Nota: video_id zhpMgBQEucE registrado antes da criação de páginas. Vídeo curto de discurso de campanha: "o Brasil está experimentando pela primeira vez a droga de um candidato sincero, honesto, com proposta e que não é covarde"; ironia sobre o "livro de proposta" e desafio "me chamar de corrupto/covarde". Sem proposta nova de política pública — apenas registro na página do partido. Atribuição: Renan é o falante único.
+
+## [2026-09-05] ingest automático | Um pouco de esperança para esse Brasil
+- Fonte criada: fontes/2026-09-05 - Um pouco de esperança para esse Brasil
+- Páginas criadas: (nenhuma — conteúdo adicionado a página existente)
+- Páginas atualizadas: temas/Desigualdade Regional e Migração Interna (projeto social no sertão do RN; "tomar o Nordeste de cooperativas"), index.md, log.md, wiki/.processed_ids
+- Nota: video_id RXl5iPmWug0 registrado antes da criação de páginas. Vídeo de tom positivo mostrando trabalho social com mulheres (mães solteiras) no sertão do RN: poços/irrigação com doações, primeira colheita, reinvestimento (tilápia, frutas, carrinho de entregas) e parceria com supermercados; Renan defende replicar o modelo de cooperativas do Sul e "tomar o Nordeste de cooperativas". O nome do projeto aparece corrompido na transcrição ("Leveços"/"Leve Poços") e não foi afirmado; trecho narrado (">>") não atribuído a Renan. Sem proposta nova de política pública — conteúdo registrado na página de tema existente, sem criação de página rasa.
+
+## [2026-09-05] ingest automático | Todo mundo no mesmo escândalo
+- Fonte criada: fontes/2026-09-05 - Todo mundo no mesmo escândalo
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: eventos/Escândalo Banco Master ("mesma grana suja do Vorcaro" até Lewandowski), eventos/Escândalo do INSS (dinheiro do "NSS" com Willer Tomás e Everton Rocha), pessoas/Flávio Bolsonaro ("bucha de canhão"; coordenador apaziguando Gilmar), pessoas/Ricardo Lewandowski ("molhou a mão" do ministro da Justiça), index.md, log.md, wiki/.processed_ids
+- Nota: video_id HXab-6ze6QQ registrado antes da criação de páginas. Renan diz que a mesma grana suja do Vorcaro atingiu Flávio, Alexandre de Moraes e Lewandowski (ministro da Justiça de Lula); reitera o envio do coordenador de campanha de Flávio a Gilmar Mendes "para apaziguar"; afirma que a elite política usa o eleitor como "bucha de canhão"; liga o mesmo dinheiro do INSS a Willer Tomás e Everton Rocha. Conteúdo em grande parte reiterativo dos vídeos de 03-04/09 — registrado apenas o que acrescenta (Lewandowski no mesmo dinheiro; "bucha de canhão"; INSS/Willer/Everton). Atribuição: Renan é o falante único.
+
+## [2026-09-05] ingest automático | Isso é muito grave e muito pesado!
+- Fonte criada: fontes/2026-09-05 - Isso é muito grave e muito pesado!
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Pautas Identitárias e de Gênero (feminicídio como subconjunto da violência contra a mulher; subnotificação), temas/Segurança Pública (violência contra a mulher nas favelas; 250 mil casos/ano), posicoes/Desfavelização do Brasil ("Nuremberg das favelas" para crimes contra mulheres), posicoes/Aumento de Penas e Crimes Imprescritíveis (penas que somam milhares de anos), index.md, log.md, wiki/.processed_ids
+- Nota: video_id ZzVIiMyLG_Y registrado antes da criação de páginas. Renan responde às perguntas recorrentes sobre feminicídio distinguindo-o da violência contra a mulher como um todo; ~250 mil casos reportados/ano, número que quase dobraria com a denúncia; nas favelas, moças não reportam abusos por medo de retaliação (ex.: baile no Rio). Proposta: julgar os criminosos no "Nuremberg das favelas" após a destruição do crime organizado, com penas que extrapolam milhares de anos. Atribuição: Renan é o falante único.
+
 ## [2026-09-04] ingest automático | Batch de 5 shorts (Se você quer combater a corrupção, você só tem uma opção., A verdade sobre André Mendonça e Xandão, Cara…. Que inferno…, Comente TROPA, Devo manter ou não minha candidatura)
 - Fontes criadas: fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção., fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão, fontes/2026-09-04 - Cara…. Que inferno…, fontes/2026-09-04 - Comente TROPA, fontes/2026-09-04 - Devo manter ou não minha candidatura
 - Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)

@@ -8,6 +8,7 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-08-28 - Ué, Lula!"
   - "2026-08-25 - Eu quase peguei o Lula hoje."
   - "2026-08-24 - Record está dando espaço ao Lula"
@@ -24,6 +25,10 @@ fontes:
 # Escândalo do INSS
 
 Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## O mesmo dinheiro sujo do "NSS": Willer Tomás e Everton Rocha (setembro de 2026)
+
+Em **5 de setembro de 2026**, no vídeo "Todo mundo no mesmo escândalo", Renan afirma que **"foi o mesmo dinheiro sujo do NSS [INSS] que andou com [[pessoas/Willer Tomás]], sócio do Flávio Bolsonaro, e com o Everton Rocha, vice-líder do governo Lula"** — "é o mesmo dinheiro sujo todas as vezes". A fala retoma a foto da festa divulgada em 11/08 e liga o esquema do INSS à mesma rede do [[eventos/Escândalo Banco Master]], apresentando Lula e Flávio como lados do mesmo escândalo. Ver [[fontes/2026-09-05 - Todo mundo no mesmo escândalo]].
 
 ## "Ué, Lula!": sarcasmo sobre a falta de devolução aos aposentados (agosto de 2026)
 
@@ -82,6 +87,7 @@ Ver [[fontes/2026-03-27 - URGENTE - STF derruba CPMI do INSS]] e [[eventos/Escâ
 
 ## Fontes
 
+- [[fontes/2026-09-05 - Todo mundo no mesmo escândalo]] — o mesmo dinheiro sujo do "NSS" com Willer Tomás e Everton Rocha
 - [[fontes/2026-08-23 - Essa mulher foi roubada.]] — aposentada de Maceió sem receber; irmão e filho de Lula apontados no esquema
 - [[fontes/2026-08-20 - Você vai voltar a comer picanha]] — Lulinha envolvido no escândalo do "NSS"; "mesmo esquema, mesmo golpe"
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — escândalo do "NSS" como elo entre Lula e a família Bolsonaro

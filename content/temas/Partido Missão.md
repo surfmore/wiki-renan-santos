@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-09-06 - Estamos dando a chance!"
   - "2026-09-02 - Nós somos um grupo destinado à glória."
   - "2026-08-25 - Respondendo críticas ao debate"
   - "2026-08-24 - MELHOR FICAR BÊBADO DO QUE COM A JANJA"
@@ -52,6 +53,10 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## "A droga de um candidato sincero": desafio a quem o chama de corrupto ou covarde (setembro de 2026)
+
+Em **6 de setembro de 2026**, Renan afirma que o Brasil está "dando a chance de experimentar pela primeira vez a droga de um candidato sincero, honesto, com proposta e que não é covarde". Em tom de campanha, ele rebate a crítica de que "ninguém tem proposta" — "toma droga do livro de proposta", em referência ao livro de propostas do partido — e desafia quem diz que "todo político é corrupto": "quero ver me chamar de corrupto... covarde. Ó, vem me chamar de covarde". Ver [[fontes/2026-09-06 - Estamos dando a chance!]].
 
 ## Estratégia da "tropa": site tropa.com.br e exército digital (setembro de 2026)
 
@@ -374,6 +379,7 @@ Ver [[fontes/2026-06-03 - Bora bater mais uma meta na minha vaquinha!]].
 
 ## Fontes (cronológico decrescente)
 
+- [[fontes/2026-09-06 - Estamos dando a chance!]] — "a droga de um candidato sincero"; desafio a quem o chama de corrupto/covarde; "livro de proposta"
 - [[fontes/2026-09-03 - Seu político favorito foi pego no Master, né]] — Missão como único partido sem relação com o Banco Master; "vote 14"
 - [[fontes/2026-08-22 - PRECISO DE AJUDA, TSE ACABOU COM MINHA CAMPANHA]] — resolução do TSE limita as redes sociais da campanha; convocação da militância; "a guerra começou"
 - [[fontes/2026-08-20 - 2026 e tem gente que ainda acredita em Lula e Flávio.]] — livro de 460 páginas de propostas; desafio aos demais candidatos

@@ -7,6 +7,7 @@ tags:
   - Recife
 date: 2026-05-08
 fontes:
+  - "2026-09-06 - João Campos gasta mais com propaganda que outras áreas essenciais. Em Pernambuco votem Renan Hallais"
   - "2026-05-08 - Tabata Amaral é solidária com o Recife"
   - "2026-01-13 - JOÃO CAMPOS E SUA FAMÍLIA PRECISAM SER ARRUINADOS"
   - "2026-01-09 - O Maior Carnaval do Brasil"
@@ -14,6 +15,10 @@ fontes:
 ---
 
 Prefeito de Recife, filiado ao PSB. Filho de Eduardo Campos. Candidato cotado para o governo de Pernambuco. Renan Santos o cita como exemplo do que chama de "deturpação da deturpação": político do centrão que adotou linguagem e estética de influencer sem entregar resultados.
+
+## "Compra o voto da população mais pobre": marketing na comunidade do Ibura (setembro de 2026)
+
+Em **6 de setembro de 2026**, em vídeo de campanha gravado na **comunidade do Ibura** (Recife), Renan Santos afirma que João Campos "compra o voto da população mais pobre" e aponta como exemplo o local em que o prefeito "pintou um morro, fez uma escadaria e cobrou **R$ milhões** por essa brincadeira". O mesmo material de campanha — com narração de terceiros e falas do candidato do [[temas/Partido Missão]] ao governo de Pernambuco, **Renan Hallais** — acusa Campos de gastar mais com festa e propaganda (show de **Pablo Vittar**, vídeo com **Juliette**) do que com saneamento e prevenção de alagamentos. Renan Santos complementa que, como presidente, ofereceria "estrutura, dinheiro e legislação" para que "bons governadores" levem dignidade e "chutem político populista". *Nota: neste vídeo, a acusação de gastos com propaganda aparece em trechos narrados não atribuídos diretamente a Renan Santos.* Ver [[fontes/2026-09-06 - João Campos gasta mais com propaganda que outras áreas essenciais. Em Pernambuco votem Renan Hallais]].
 
 ## Benefício de amigo via cota para deficiente com diagnóstico autista (maio de 2026)
 
@@ -71,6 +76,7 @@ Renan também aponta que João Campos está cotado para disputar o governo de Pe
 
 ## Fontes
 
+- [[fontes/2026-09-06 - João Campos gasta mais com propaganda que outras áreas essenciais. Em Pernambuco votem Renan Hallais]] — "compra o voto da população mais pobre"; morro pintado e escadaria no Ibura; gastos com propaganda vs. saneamento
 - [[fontes/2026-01-13 - JOÃO CAMPOS E SUA FAMÍLIA PRECISAM SER ARRUINADOS]]
 - [[fontes/2025-12-31 - A casa do João Campos caiu]]
 - [[fontes/2025-12-26 - Pernambucano o que aconteceu com você]]

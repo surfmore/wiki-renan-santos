@@ -7,6 +7,7 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-09-05 - Isso é muito grave e muito pesado!"
   - "2026-08-31 - Essa mãe teve que devolver a camisa do Neymar."
   - "2026-08-30 - Eu não sou pacifista com criminoso que abusa de meninas."
   - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
@@ -23,6 +24,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## Penas que "extrapolam milhares de anos": punição dos crimes contra mulheres no "Nuremberg das favelas" (setembro de 2026)
+
+Em **5 de setembro de 2026**, respondendo às perguntas recorrentes sobre feminicídio, Renan distingue feminicídio de violência contra a mulher como um todo e afirma que a maior parte dessa violência não é reportada — cerca de **250 mil casos/ano**, número que "vai praticamente duplicar" se as vítimas denunciarem. Para os crimes cometidos contra moças nas favelas — onde a denúncia não ocorre por medo de retaliação —, ele propõe que, após a destruição do crime organizado, os criminosos sejam julgados no **"Nuremberg das favelas"** e punidos **"com penas que extrapolam milhares de anos"**: somando os muitos assassinatos e crimes sexuais de que foram corresponsáveis, "a coisa fica muito alta". Ver [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]], [[posicoes/Desfavelização do Brasil]] e [[temas/Segurança Pública]].
 
 ## "As nossas leis têm que ser duras": proteger cidadãos comuns de "vagabundos" (agosto de 2026)
 

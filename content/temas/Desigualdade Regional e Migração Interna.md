@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2026-07-27
 fontes:
+  - "2026-09-05 - Um pouco de esperança para esse Brasil"
   - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais"
   - "2026-08-19 - Eu não quero desistir!"
@@ -27,6 +28,10 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## Projeto social no sertão do RN e "tomar o Nordeste de cooperativas" (setembro de 2026)
+
+Em **5 de setembro de 2026**, Renan mostra um trabalho social que diz realizar com **mulheres — muitas delas mães solteiras — no sertão do Rio Grande do Norte**: um projeto de poços e irrigação, financiado com doações, em que as participantes estariam tendo a primeira colheita. Ele afirma que o projeto vai reinvestir os ganhos para ampliar a produção (horta, **tilápia**, frutas, maior valor agregado) e comercializá-la com **parceria com supermercados**. Para Renan, o exemplo mostra que "é muito possível, com muito pouco dinheiro investido, você criar cooperativas — como acontece muito no Sul do Brasil" — e defende **"tomar o Nordeste de cooperativas"** como caminho de emancipação econômica ("emancipar mulheres, mães que querem trabalhar"). Ver [[fontes/2026-09-05 - Um pouco de esperança para esse Brasil]].
 
 ## "O Nordeste vai ser a nova locomotiva brasileira" (agosto de 2026)
 
@@ -532,6 +537,7 @@ Em [[fontes/2025-12-10 - Saiu o mapa do PIB per capita]], Renan analisa o novo m
 
 ## Fontes
 
+- [[fontes/2026-09-05 - Um pouco de esperança para esse Brasil]] — projeto social no sertão do RN; cooperativas no Nordeste; emancipação de mães solteiras
 - [[fontes/2026-08-23 - Respondi a um desafio do Arthur Lira]] — Alagoas disputando com o Piauí o maior analfabetismo; queda da cobertura de esgoto; emendas secretas sem resultado
 - [[fontes/2026-06-20 - Como esse exemplo pode salvar Marajó]] — Ecofazenda sustentável no Marajó como exemplo positivo de desenvolvimento regional
 - [[fontes/2026-06-19 - Essa é a água que essa senhora toma.]] — Melgaço (PA); pior IDH do Brasil; palafita sem saneamento; crítica à Universidade Federal do Marajó

@@ -7,6 +7,7 @@ tags:
   - esquerda
 date: 2026-08-05
 fontes:
+  - "2026-09-05 - Isso é muito grave e muito pesado!"
   - "2026-08-30 - Lula é o candidato do feminicídio"
   - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
   - "2026-08-27 - A lei da misoginia é uma lei para perseguir"
@@ -25,6 +26,10 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Feminicídio como subconjunto da violência contra a mulher: subnotificação e o "Nuremberg das favelas" (setembro de 2026)
+
+Em **5 de setembro de 2026**, Renan responde às perguntas recorrentes de jornalistas sobre feminicídio explicando que "todo feminicídio é uma violência contra a mulher, mas nem toda violência contra a mulher termina em feminicídio". Ele diz ser raramente questionado sobre **violência contra a mulher como um todo** e aponta a **subnotificação** como o "grande problema": seriam cerca de **250 mil casos reportados por ano**, número que "vai praticamente duplicar se as mulheres tiverem coragem de reportar". A fala dá contorno mais amplo à crítica anterior ao foco eleitoral no feminicídio: em vez de negar o problema, Renan afirma que a maior parte dele acontece longe das estatísticas — nos bairros pobres e favelas, onde a vítima não denuncia por medo de retaliação — e propõe enfrentá-lo com a destruição do crime organizado e o julgamento dos criminosos no **"Nuremberg das favelas"**, com penas que somam milhares de anos. Ver [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]], [[posicoes/Aumento de Penas e Crimes Imprescritíveis]] e [[posicoes/Desfavelização do Brasil]].
 
 ## Feminicídio como "hoax" eleitoral e o foco seletivo da imprensa (agosto de 2026)
 
@@ -343,6 +348,7 @@ Ver [[fontes/2026-02-13 - SE VOCÊ É MULHER, PRECISA VER ESSE VÍDEO]] e [[font
 
 ## Fontes
 
+- [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]] — feminicídio como subconjunto da violência contra a mulher; 250 mil casos/ano subnotificados; "Nuremberg das favelas"
 - [[fontes/2026-08-09 - Olha a última do Wagner Moura]] — "fascismo de esquerda"; cansaço do identitarismo; fim das amarras identitárias na cultura
 - [[fontes/2026-06-14 - Romário está sendo cancelado!]] — Renan usa o cancelamento de Romário para alertar sobre os riscos da Lei da Misoginia
 - [[fontes/2026-06-09 - Cotas num hospital privado]] — MP exige 55% de cotistas no Hospital Albert Einstein; Renan critica e propõe alternativa meritocrática

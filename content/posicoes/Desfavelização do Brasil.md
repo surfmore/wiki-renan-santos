@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-08-22
 fontes:
+  - "2026-09-05 - Isso é muito grave e muito pesado!"
   - "2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes."
   - "2026-08-27 - Uma pessoa que mora em favela hoje já não tem “direitos”."
   - "2026-08-27 - Vamos sonhar esse sonho!"
@@ -28,6 +29,12 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## "Nuremberg das favelas" para os crimes contra mulheres nas favelas (setembro de 2026)
+
+Em **5 de setembro de 2026**, Renan detalha o **"Nuremberg das favelas"** como parte de sua política de enfrentamento ao crime organizado e de desfavelização, voltado especificamente à **violência contra a mulher** que ocorre nos bairros pobres e favelas e que, segundo ele, não é reportada por medo de retaliação e pela certeza de impunidade. Ele afirma que o Brasil tem cerca de **250 mil casos reportados por ano** de violência contra a mulher e que esse número quase duplicaria se as vítimas tivessem coragem de denunciar.
+
+Na proposta de Renan, "tão logo a gente destrua o crime organizado", as vítimas — inclusive as moças que sofreram abusos e tentativas de abuso — poderiam finalmente contar o que sofreram, e os criminosos seriam julgados e punidos "com penas que extrapolam milhares de anos", somando os assassinatos e crimes sexuais de que foram corresponsáveis — à semelhança dos julgamentos de Nuremberg contra as lideranças nazistas. Ver [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]] e [[temas/Segurança Pública]].
 
 ## Visita ao Taquari: conversa direta com os moradores, sem intermediários (agosto de 2026)
 
@@ -360,6 +367,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]] — "Nuremberg das favelas" aplicado à violência contra a mulher nas favelas; 250 mil casos reportados/ano; punição com penas que somam milhares de anos
 - [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] — visita ao Taquari; conversa direta com moradores; "eu não ligo para essa ONG"; casas de encosta e título de propriedade
 - [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — carta de compromisso com moradores; cinco compromissos; R$ 100 bi/ano; "Nuremberg das favelas"
 - [[fontes/2026-08-22 - 👍🏻👍🏻 siga @renansantosmbl]] — "marco nacional de desfavelização" no Mundaú (Maceió); legislação que proíbe novas invasões e define modelos de reocupação

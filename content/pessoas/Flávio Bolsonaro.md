@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-09-03 - Seu político favorito foi pego no Master, né"
   - "2026-09-03 - Da vontade de se M4T4R com isso"
   - "2026-08-31 - Boraaaaaaa!!!"
@@ -35,6 +36,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Mesma grana suja do Vorcaro" e eleitor como "bucha de canhão" (setembro de 2026)
+
+Em **5 de setembro de 2026**, Renan afirma que "foi a mesma grana suja do Vorcaro que molhou a mão do Flávio" — a mesma que teria atingido [[pessoas/Alexandre de Moraes]] e [[pessoas/Ricardo Lewandowski]]. Ele reitera que Flávio enviou o **coordenador de campanha** para conversar com [[pessoas/Gilmar Mendes]] "para apaziguar", e diz que a ideia dos grupos no poder é **"usar o nosso eleitor como bucha de canhão"**. Para Renan, o mesmo dinheiro sujo do "NSS" (INSS) circulou com [[pessoas/Willer Tomás]], apontado como sócio de Flávio, e com **Everton Rocha**, vice-líder do governo Lula. Ver [[fontes/2026-09-05 - Todo mundo no mesmo escândalo]].
 
 ## "Nas mãos" de Mendonça e campanha que apazigua Gilmar (setembro de 2026)
 
