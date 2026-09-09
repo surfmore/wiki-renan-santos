@@ -6,6 +6,7 @@ tags:
   - religião
 date: 2026-07-30
 fontes:
+  - "2026-09-08 - André Mendonça afasta Andrei Rodrigues"
   - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS"
   - "2026-06-01 - Frei Gilson é um Red Pill"
@@ -16,6 +17,10 @@ fontes:
 Ministro do Supremo Tribunal Federal, indicado ao cargo pelo ex-presidente Jair Bolsonaro em 2021 com a promessa de ser um ministro "terrivelmente evangélico" — expressão que se tornou marca de sua indicação.
 
 ## O que Renan diz sobre ele
+
+### Afastamento de Andrei Rodrigues da direção-geral da Polícia Federal (setembro de 2026)
+
+Em **8 de setembro de 2026**, no vídeo "André Mendonça afasta Andrei Rodrigues", Renan defende "de forma aberta e sem medo a imediata saída de **Andrei Rodrigues** da direção-geral da Polícia Federal". O short encerra com um trecho de notícia narrada informando que Mendonça **determinou o afastamento de Andrei Rodrigues da diretoria da PF** — apresentado como a concretização da defesa que Renan fazia. Ver [[fontes/2026-09-08 - André Mendonça afasta Andrei Rodrigues]].
 
 ### "Tem nas mãos" Moraes e Flávio; não pode ter lado (setembro de 2026)
 
@@ -37,6 +42,7 @@ Em **1.º de junho de 2026**, Renan Santos menciona André Mendonça ao apresent
 
 ## Fontes
 
+- [[fontes/2026-09-08 - André Mendonça afasta Andrei Rodrigues]] — Renan defende a saída de Andrei Rodrigues da PF; Mendonça determina o afastamento
 - [[fontes/2026-09-02 - Eu fui censurado por 24h]] — "quase saíram na porrada" com Moraes; Mendonça tenta "trazer luz" ao Banco Master
 - [[fontes/2026-07-30 - Bomba! Lulinha é envolvido no escândalo do INSS]]
 - [[fontes/2026-06-01 - Frei Gilson é um Red Pill]]

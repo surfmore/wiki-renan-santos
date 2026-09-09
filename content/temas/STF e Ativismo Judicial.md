@@ -7,6 +7,10 @@ tags:
 date: 2026-08-07
 ---
 
+## Nomeações ao STF para "salvar" Lula ou Flávio: país destruído em ambos os cenários (setembro de 2026)
+
+Em **7 de setembro de 2026**, no discurso "Nós fomos aprisionados", Renan afirma que, se [[pessoas/Lula]] for reeleito, ele colocará **mais quatro ministros no STF**; se [[pessoas/Flávio Bolsonaro]] vencer, o Brasil terá "o governo dos corruptos" — "uma oligarquia de corruptos do centrão" — que fará **nomeações para o STF para salvar todos eles dos escândalos de corrupção**. Em ambos os casos, diz Renan, "o seu país está destruído", "não haverá reforma" e o futuro dos brasileiros "será rifado". Ver [[fontes/2026-09-07 - Nós fomos aprisionados]] e [[posicoes/Propostas para o STF]].
+
 ## "Afastar Moraes e Toffoli" liderando o Senado (setembro de 2026)
 
 Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan afirma que, como presidente, uma das primeiras medidas será **afastar [[pessoas/Alexandre de Moraes]] e [[pessoas/Dias Toffoli]]**, liderando o Senado e a população "no enfrentamento sério à corrupção". A fala conecta sua pauta de enfrentamento ao STF à promessa de governo. Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]] e [[posicoes/Propostas para o STF]].

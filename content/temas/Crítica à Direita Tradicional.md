@@ -7,6 +7,10 @@ tags:
 date: 2026-08-22
 ---
 
+## "Nós fomos aprisionados": Lula ou Flávio, os dois cenários de destruição (setembro de 2026)
+
+Em **7 de setembro de 2026**, em discurso de campanha, Renan afirma que o país precisa de uma **"nova independência"** para "botar abaixo um regime político que torna a gente dependente de ladrões que controlam a grana, o tempo de TV e a forma de fazer política" — ladrões que estariam no centrão, na esquerda e na direita. Ele descreve os dois cenários da eleição: com [[pessoas/Lula]], um "governo autoritário à esquerda" que nomearia **mais quatro ministros ao STF**; com [[pessoas/Flávio Bolsonaro]], "o governo dos corruptos" — "uma oligarquia de corruptos do centrão" — nomeando ao STF "para salvar todos eles dos escândalos de corrupção". "Em ambos os casos, o seu país está destruído", afirma. Renan conclui que "a falta de ambição e dignidade de parte do Brasil" exige que "a gente se rebele contra todos eles". Ver [[fontes/2026-09-07 - Nós fomos aprisionados]] e [[temas/STF e Ativismo Judicial]].
+
 ## "Esquerda e direita estão roubando você junto": o jogo de cartas marcadas (agosto de 2026)
 
 Em **24 de agosto de 2026**, Renan afirma que [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] "querem comprar o voto das pessoas para as eleições" — "comprando o prefeito, comprando o governador, indo fazer dancinha ridícula" — enquanto o país "está indo pro buraco", com "juros lá no talo" e "quebradeira generalizada" prevista para o ano seguinte. Ele diz que, "em vez desses caras estarem aqui conosco discutindo na Bandeirantes", eles "querem um jogo de cartas marcadas".

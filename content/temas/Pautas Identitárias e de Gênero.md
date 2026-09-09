@@ -7,6 +7,7 @@ tags:
   - esquerda
 date: 2026-08-05
 fontes:
+  - "2026-09-07 - E essa reação das mulheres 💪🏻💪🏻"
   - "2026-09-05 - Isso é muito grave e muito pesado!"
   - "2026-08-30 - Lula é o candidato do feminicídio"
   - "2026-08-29 - “Condenado a 120 anos abusa de adolescente em saidinha”, entendem minha agressividade agora"
@@ -26,6 +27,10 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## "Todas as nossas propostas são para mulheres": recusa do populismo eleitoral (setembro de 2026)
+
+Em **7 de setembro de 2026**, questionado sobre o público majoritariamente masculino de sua campanha e sobre a ausência de propostas específicas para mulheres, Renan responde que **"todas as nossas propostas são para mulheres"** — porque as propostas estruturais de seu programa (reforma das contas públicas, queda de juros e impostos, controle da inflação) beneficiam quem controla os orçamentos domésticos no Brasil, majoritariamente mulheres ("milhões de mulheres donas de casa"). Ele recusa o que chama de populismo eleitoral: prometer "quatro ministras mulheres no STF" ou um "ministeriado que tem 60% de mulheres" "não vai resolver a vida de mulheres". Renan lembra que o PT "ganhou a última eleição falando em mulheres o tempo todo" e pergunta se a vida delas melhorou ou se deixaram de ficar mais pobres — respondendo "não" a ambas. Afirma que não será um "boneco eleitoral" e que suas propostas atingem homens e mulheres de todas as regiões e grupos. Ver [[fontes/2026-09-07 - E essa reação das mulheres 💪🏻💪🏻]].
 
 ## Feminicídio como subconjunto da violência contra a mulher: subnotificação e o "Nuremberg das favelas" (setembro de 2026)
 

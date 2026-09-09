@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## Lula e Flávio "não falam sobre segurança pública" e aceitam o roubo (setembro de 2026)
+
+Em **7 de setembro de 2026**, no discurso "Nós fomos aprisionados", Renan afirma que [[pessoas/Flávio Bolsonaro]] e [[pessoas/Lula]] **"não falam sobre segurança pública"** — "aceitam que você continue sendo roubado, aceitam que você tenha medo de andar na rua" — e que, "em grande medida, seus eleitores hoje também aceitam isso". Ele diz ter feito uma campanha sobre o tema "da maneira mais enfática e clara possível", com "todos os números e dados", mas que a nação, "presa nesse torpor", parece não querer mudar: se os que aceitam o estado de coisas se tornarem maioria, o eleitor "não vai poder nem consumir mais, nem comprar um carro, uma casa". Ver [[fontes/2026-09-07 - Nós fomos aprisionados]] e [[temas/Crítica à Direita Tradicional]].
+
 ## Violência contra a mulher nas favelas: subnotificação e o "Nuremberg das favelas" (setembro de 2026)
 
 Em **5 de setembro de 2026**, Renan afirma que o Brasil registra cerca de **250 mil casos reportados por ano** de violência contra a mulher e que o número "vai praticamente duplicar" se as vítimas denunciarem — porque a maior parte dessas violências **não é reportada**, sobretudo nos bairros pobres e nas favelas. Ele descreve o medo de retaliação como a principal barreira: numa festa no Rio, uma menina (muitas vezes menor de idade) que recusa a investida de um homem e é agredida não denuncia porque sabe que, se virar investigação, "ela tá morta, a mãe dela tá com problema". Para esses crimes cometidos sob o domínio do crime organizado, Renan propõe que, após a **destruição das facções**, as vítimas possam finalmente contar e os criminosos sejam punidos no **"Nuremberg das favelas"** com penas que somam milhares de anos. Ver [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]], [[temas/Pautas Identitárias e de Gênero]], [[posicoes/Desfavelização do Brasil]] e [[posicoes/Aumento de Penas e Crimes Imprescritíveis]].
