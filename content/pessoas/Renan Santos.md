@@ -4,7 +4,7 @@ tags:
   - pessoa
   - mbl
   - partido-missão
-  - pré-candidato
+  - candidato
 date: 2025-09-02
 fontes:
   - "2026-08-31 - Boraaaaaaa!!!"

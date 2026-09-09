@@ -35,7 +35,7 @@ fontes:
   - "2026-07-31 - Resposta ao Lula"
 ---
 
-Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **pré-candidato à Presidência da República** pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **candidato à Presidência da República** (eleições 2026) pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
 ## "Mesma grana suja do Vorcaro" e eleitor como "bucha de canhão" (setembro de 2026)
 

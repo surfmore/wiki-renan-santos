@@ -13,7 +13,9 @@ tags:
   - toffoli
 ---
 
-Short em que Renan denuncia um acordo político nos bastidores para sacrificar Toffoli e salvar os demais envolvidos no escândalo do Banco Master.
+# Acordão para derrubar o ministro Dias Toffoli
+
+Short em que Renan denuncia um acordo político nos bastidores para sacrificar [[pessoas/Dias Toffoli]] e salvar os demais envolvidos no [[eventos/Escândalo Banco Master]].
 
 ## O acordo (segundo Renan)
 

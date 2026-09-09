@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-09-09] lint | Lint completo do wiki
+- Verificação: 0 links quebrados em páginas de conteúdo; 1 link quebrado real em log.md (corrigido); 0 páginas órfãs reais; 0 fontes sem URL do YouTube; 0 fontes sem video_id; `.processed_ids` consistente (922 IDs).
+- Páginas removidas (3 fontes duplicadas, mesmo video_id): fontes/2026-02-13 - ATENÇÃO - rolou um acordão para cair o Ministro Dias Toffoli (duplicata de "ACORDÃO PARA DERRUBAR O MINISTRO DIAS TOFFOLI", id -0R-8TyXz6s); fontes/2026-04-14 - Eu fui no presídio de pedrinhas, no Maranhão (duplicata de "Presídio de Pedrinhas", id ULp_8oJL-ac); fontes/2026-04-05 - Você já pensou em transformar lixo em energia (duplicata de "Lixo em energia em Pouso Alegre", id jx_-KvvmnOg). Conteúdo mais rico preservado na página mantida; contadores do index.md recalculados (922 fontes).
+- Páginas atualizadas: temas/Energia e Matriz Elétrica (retarget do link da duplicata removida para "Lixo em energia em Pouso Alegre"); pessoas/Flávio Bolsonaro (intro: "pré-candidato" → "candidato à Presidência (eleições 2026)"); pessoas/Renan Santos (tag "pré-candidato" → "candidato"); log.md; index.md (via atualizar_index.py).
+- Observações (não corrigidas nesta rodada): (1) ~40 páginas de pessoas/temas/posições com conteúdo relevante (ex.: Neymar, Janja, Ronaldo Caiado, Tabata Amaral, Flávio Dino, Tarcísio, Boulos) não têm card no grid da home — a home exibe um subconjunto; avaliar curadoria. (2) Log histórico cita conceitos sem página própria (Liberdade de Expressão, Crime Organizado, Educação, Corrupção, etc.), já consolidados sob outros nomes (Mídia e Imprensa, Segurança Pública, Propostas para Educação, Corrupção Municipal) — referências estão em code spans no log, sem quebrar render. (3) Divergência pontual de conteúdo entre versões antigas de duplicatas (ex.: "Sabesp/Tarouri" vs "EMTU/Mike/Tanure") foi resolvida mantendo a versão referenciada pelo wiki (EMTU/Mike/Tanure).
+
 ## [2026-09-06] ingest automático | João Campos gasta mais com propaganda que outras áreas essenciais. Em Pernambuco votem Renan Hallais
 - Fonte criada: fontes/2026-09-06 - João Campos gasta mais com propaganda que outras áreas essenciais. Em Pernambuco votem Renan Hallais
 - Páginas criadas: (nenhuma — conteúdo adicionado a página existente)
@@ -452,7 +458,7 @@
   - 2 fontes renomeadas: `[suJJjWFu_44]` e `[QrFE87WpcEs]` → `(suJJjWFu_44)` e `(QrFE87WpcEs)` (colchetes conflitam com wikilinks)
   - 5 wikilinks atualizados em pessoas/Renan Santos, temas/Crítica à Direita Tradicional, temas/Desigualdade Regional, temas/Partido Missão, temas/Segurança Pública (refletem novo nome dos arquivos)
   - 6 links convertidos para texto plano (páginas que não existem): Dilma Rousseff, Donald Trump, Margaret Thatcher, Ronald Reagan, Fernando Henrique Cardoso, Lee Kuan Yew em fontes/2026-07-11* e fontes/2026-07-12*
-  - 1 broken link em fontes/2026-07-13 ([[temas/Educação]] → texto plano)
+  - 1 broken link em fontes/2026-07-13 (`[[temas/Educação]]` → texto plano)
   - 4 broken links convertidos para texto plano em temas/Política Externa e Geopolítica (Trump, Thatcher, Reagan, FHC, Lee Kuan Yew — mencionados sem página própria)
 - **Cards adicionados ao index.md:**
   - eventos/Prisão do Bolsonaro (estava faltando no grid)
