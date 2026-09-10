@@ -7,6 +7,12 @@ tags:
 date: 2026-08-07
 ---
 
+## "Posição oficial" sobre Moraes, manifesto de lideranças e calendário de atos (setembro de 2026)
+
+Em **5 de setembro de 2026**, em pronunciamento apresentado como sua **posição oficial sobre o caso [[pessoas/Alexandre de Moraes]]**, Renan afirma que "o Brasil precisa agir contra Alexandre de Moraes e todos os envolvidos no escândalo do [[eventos/Escândalo Banco Master]]" — "quando eu digo todos, eu digo todos": [[pessoas/Lula]], membros do governo, gente do centrão, empresários e ministros do Supremo. Ele pede que as conversas de [[pessoas/Daniel Vorcaro]] com todas as autoridades sejam liberadas à imprensa e que todos os que receberam dinheiro do banqueiro sejam expostos, para que "a população saiba que a justiça vai julgá-los". Diz ter sido ele próprio "vítima do Dias Toffoli essa semana".
+
+Renan anuncia ainda um **manifesto assinado por "grandes lideranças brasileiras"**, rejeitando "uma Suprema Corte que interfere na nossa vida como tá interferindo e que participa de escândalo de corrupção", e um **calendário de atos e manifestações pelo Brasil** para "despertar a população" — dizendo-se disposto a "sacrificar um pedaço da campanha". Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]] e [[posicoes/Manifesto contra o STF e Calendário de Atos]].
+
 ## Nomeações ao STF para "salvar" Lula ou Flávio: país destruído em ambos os cenários (setembro de 2026)
 
 Em **7 de setembro de 2026**, no discurso "Nós fomos aprisionados", Renan afirma que, se [[pessoas/Lula]] for reeleito, ele colocará **mais quatro ministros no STF**; se [[pessoas/Flávio Bolsonaro]] vencer, o Brasil terá "o governo dos corruptos" — "uma oligarquia de corruptos do centrão" — que fará **nomeações para o STF para salvar todos eles dos escândalos de corrupção**. Em ambos os casos, diz Renan, "o seu país está destruído", "não haverá reforma" e o futuro dos brasileiros "será rifado". Ver [[fontes/2026-09-07 - Nós fomos aprisionados]] e [[posicoes/Propostas para o STF]].

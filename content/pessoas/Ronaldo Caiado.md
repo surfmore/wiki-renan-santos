@@ -14,6 +14,10 @@ fontes:
 
 Governador de Goiás e pré-candidato à presidência. Em janeiro de 2026, filiou-se ao **PSD** de Gilberto Kassab — partido que já abrigava Ratinho Júnior (PR) e Eduardo Leite (RS). O movimento gerou ampla cobertura da imprensa como articulação da "direita moderada", mas Renan Santos fez uma leitura radicalmente diferente.
 
+## Articulação de um debate alternativo após o cancelamento do SBT (setembro de 2026)
+
+Em **8 e 9 de setembro de 2026**, após o cancelamento do debate do SBT, Renan afirma ter falado com a **campanha de Caiado** para organizar "no mesmo horário que seria o debate, uma live com discussão, debate", na rede de Paulo Matias. Ele diz que a ideia é "discutir proposta" e "falar em alto nível sobre os problemas do Brasil", e lamenta que a eleição não seja disputada por "gente como eu, como o Caiado", e sim por "esses covardes vagabundos que fogem de tudo". Em 9 de setembro, Renan confirma: "conversei com o Caiado e haverá debate (...) se não [der no] SBT, vamos fazer numa outra TV". Ver [[fontes/2026-09-08 - É oficial…]], [[fontes/2026-09-09 - Boas notícias!]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
 ## Parabenizado por comparecer ao debate da Band (agosto de 2026)
 
 Em **23 de agosto de 2026**, no debate presidencial da **Band**, Renan parabeniza Caiado por ter comparecido — contrastando com a ausência de Lula, Flávio Bolsonaro e Zema: "parabenizo o Cura e o Caiado que estão vindo". Ver [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]].

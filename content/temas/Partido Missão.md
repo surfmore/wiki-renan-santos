@@ -54,6 +54,14 @@ fontes:
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
 
+## 11% na pesquisa, agenda de eventos e um "anúncio muito doido" (setembro de 2026)
+
+Em **9 de setembro de 2026**, Renan comemora **11% em uma pesquisa** divulgada naquele dia e lê o resultado como sinal de "um reajuste" na corrida eleitoral, atribuindo-o ao "buzz e o barulho nas redes sociais" e aos "eventos grandes pelas cidades, pelo Brasil". Ele anuncia que fará "eventos em vários estados" — começando por São Paulo naquele dia — e promete um "anúncio muito doido" da campanha. Ver [[fontes/2026-09-09 - Boas notícias!]] e [[posicoes/Manifesto contra o STF e Calendário de Atos]].
+
+## "O livro amarelo não precisa ser pintado de rosa": universidade das propostas (setembro de 2026)
+
+Em **8 de setembro de 2026**, respondendo à acusação de não ter propostas para mulheres, Renan defende o **livro amarelo** como um programa universal: "o meu livro de propostas, o livro amarelo, não precisa ser pintado de rosa. Ele é um livro sobre mulheres, mulheres brasileiras" — porque, argumenta, as mulheres são maioria da população e serão as "mais afetadas positivamente" por propostas que valem "para brasileiros". Ele pede que as mulheres compartilhem o vídeo com amigas, irmãs, mães, tias e avós para desmentir o que chama de "história mentirosa de que a gente não se preocupa com mulheres no nosso programa". Ver [[fontes/2026-09-08 - Fui cancelado por não ter propostas para mulheres]], [[fontes/2026-09-08 - Não tenho propostas para as mulheres]] e [[posicoes/Propostas Universais e Recusa de Políticas Segmentadas]].
+
 ## "A droga de um candidato sincero": desafio a quem o chama de corrupto ou covarde (setembro de 2026)
 
 Em **6 de setembro de 2026**, Renan afirma que o Brasil está "dando a chance de experimentar pela primeira vez a droga de um candidato sincero, honesto, com proposta e que não é covarde". Em tom de campanha, ele rebate a crítica de que "ninguém tem proposta" — "toma droga do livro de proposta", em referência ao livro de propostas do partido — e desafia quem diz que "todo político é corrupto": "quero ver me chamar de corrupto... covarde. Ó, vem me chamar de covarde". Ver [[fontes/2026-09-06 - Estamos dando a chance!]].

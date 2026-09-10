@@ -7,6 +7,10 @@ tags:
 date: 2026-08-22
 ---
 
+## "Não vou sair às ruas com o senhor Flávio Bolsonaro": o PL como "comício" (setembro de 2026)
+
+Em **5 de setembro de 2026**, Renan recusa publicamente dividir palanque com [[pessoas/Flávio Bolsonaro]]: "eu não vou sair às ruas com o senhor Flávio Bolsonaro. Isso deveria ser óbvio para todo brasileiro honesto". Ele alega que Flávio e a família receberam "dezenas de milhões de reais" de [[pessoas/Daniel Vorcaro]] e que a convocação de manifestação do senador não menciona [[pessoas/Alexandre de Moraes]] nem o STF, apenas candidatos do PL — o que, na leitura de Renan, revela que "o que ele tá fazendo é **um comício**". Renan acrescenta que o coordenador de campanha de Flávio, [[pessoas/Rogério Marinho]], foi a [[pessoas/Gilmar Mendes]] "fazer as pazes", e conclui que "nem eu, nem a população brasileira devemos fazer papel de trouxa num comício eleitoral para eleger gente do PL" — "o mesmo PL que não faz nada contra o senhor Alexandre de Moraes e nada contra a corrupção". Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]].
+
 ## "Nós fomos aprisionados": Lula ou Flávio, os dois cenários de destruição (setembro de 2026)
 
 Em **7 de setembro de 2026**, em discurso de campanha, Renan afirma que o país precisa de uma **"nova independência"** para "botar abaixo um regime político que torna a gente dependente de ladrões que controlam a grana, o tempo de TV e a forma de fazer política" — ladrões que estariam no centrão, na esquerda e na direita. Ele descreve os dois cenários da eleição: com [[pessoas/Lula]], um "governo autoritário à esquerda" que nomearia **mais quatro ministros ao STF**; com [[pessoas/Flávio Bolsonaro]], "o governo dos corruptos" — "uma oligarquia de corruptos do centrão" — nomeando ao STF "para salvar todos eles dos escândalos de corrupção". "Em ambos os casos, o seu país está destruído", afirma. Renan conclui que "a falta de ambição e dignidade de parte do Brasil" exige que "a gente se rebele contra todos eles". Ver [[fontes/2026-09-07 - Nós fomos aprisionados]] e [[temas/STF e Ativismo Judicial]].

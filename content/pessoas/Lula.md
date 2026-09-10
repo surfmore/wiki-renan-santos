@@ -80,6 +80,14 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## Fuga do debate do SBT e "nenhuma proposta" (setembro de 2026)
+
+Em **8 de setembro de 2026**, Renan anuncia que Lula e [[pessoas/Flávio Bolsonaro]] fizeram **cancelar o debate do SBT** ao não comparecer, e diz que "estão tirando de mim e dos demais o direito de discutir propostas para essa eleição". Segundo Renan, "Lula e Flávio não têm proposta para nada" e fogem do contraditório porque, "ao evitar que as pessoas escutem propostas", escapam de "serem inquiridos pelos escândalos que eles fazem parte" — mantendo-se assim na liderança e prendendo o eleitor "nesse curto-circuito de Lula e Bolsonaro para sempre". O vídeo termina com o ataque direto: "Lula, tu é corrupto, meu irmão. Que vergonha, que papelão". Ver [[fontes/2026-09-08 - É oficial…]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
+## Citado entre "todos" os envolvidos no escândalo do Banco Master (setembro de 2026)
+
+Em **5 de setembro de 2026**, no pronunciamento sobre o caso Alexandre de Moraes, Renan afirma que "o Brasil precisa agir contra [[pessoas/Alexandre de Moraes]] e todos os envolvidos no escândalo do [[eventos/Escândalo Banco Master]]" — "quando eu digo todos, eu digo todos" — e nomeia, entre eles, "o Lula, os membros do governo dele, gente do centrão, empresários e ministros do Supremo". Ele afirma ainda que, sem reação popular, ocorrerá "uma gigantesca pizza" com "um sabor Lula de um lado e do outro lado um sabor Flávio Bolsonaro", e que [[pessoas/Daniel Vorcaro]] "manda no resultado das eleições". Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]].
+
 ## "Só está solto porque um acordo no STF o salvou" (setembro de 2026)
 
 Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que Lula **só está solto porque um acordo no STF o salvou e o tirou da cadeia**, e o inclui entre os envolvidos no [[eventos/Escândalo Banco Master]] e no escândalo do INSS que [[pessoas/André Mendonça]] poderia revelar. Na leitura de Renan, a rede de acordos no STF protege Lula, [[pessoas/Flávio Bolsonaro]] e [[pessoas/Alexandre de Moraes]] ao mesmo tempo. Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].

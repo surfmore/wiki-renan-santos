@@ -37,6 +37,16 @@ fontes:
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **candidato à Presidência da República** (eleições 2026) pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## Fuga do debate do SBT: "Flávio, tu é corrupto, meu irmão" (setembro de 2026)
+
+Em **8 de setembro de 2026**, Renan anuncia que Flávio e [[pessoas/Lula]] fizeram **cancelar o debate do SBT** ao não comparecer — "custa caro fazer um debate e eles não vão". Renan afirma que Flávio "não tem proposta para nada", está "envolvido nos mesmos escândalos de corrupção" e foge do debate para evitar "que as pessoas escutem propostas e vejam o contraditório" e para não ser inquirido sobre os escândalos de que faz parte. Encerra: "Flávio, tu é corrupto, meu irmão. Que vergonha, que papelão (...) que situação ridícula do Brasil". Ver [[fontes/2026-09-08 - É oficial…]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
+## "Não vou sair às ruas com o senhor Flávio Bolsonaro" (setembro de 2026)
+
+Em **5 de setembro de 2026**, em pronunciamento oficial sobre o caso Alexandre de Moraes, Renan anuncia que **não participará de manifestações ao lado de Flávio Bolsonaro**: "eu não vou sair às ruas com o senhor Flávio Bolsonaro. Isso deveria ser óbvio para todo brasileiro honesto". O motivo alegado é que Flávio "está envolvido no escândalo do Banco Master" e que ele "e a família dele receberam dezenas de milhões de reais do [[pessoas/Daniel Vorcaro]], igualzinho o [[pessoas/Alexandre de Moraes]]". Renan compara a hipótese a marchar com [[pessoas/Lula]] pedindo a prisão de Marcelo Odebrecht no petrolão.
+
+Ele mostra a convocação de manifestação publicada nas redes de Flávio e afirma que ela **não cita Alexandre de Moraes nem o STF**, apenas "vários candidatos do PL, partido dele" — o que, na sua leitura, mostra que "o que ele tá fazendo é um comício". Cita ainda que o coordenador da campanha de Flávio, [[pessoas/Rogério Marinho]], foi a [[pessoas/Gilmar Mendes]] "fazer as pazes" — o mesmo Marinho que se recusou a assinar o pedido de impeachment contra Moraes — e conclui que "o mesmo PL que não faz nada contra o senhor Alexandre de Moraes e nada contra a corrupção" só quer usar o tema eleitoralmente. Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]].
+
 ## "Mesma grana suja do Vorcaro" e eleitor como "bucha de canhão" (setembro de 2026)
 
 Em **5 de setembro de 2026**, Renan afirma que "foi a mesma grana suja do Vorcaro que molhou a mão do Flávio" — a mesma que teria atingido [[pessoas/Alexandre de Moraes]] e [[pessoas/Ricardo Lewandowski]]. Ele reitera que Flávio enviou o **coordenador de campanha** para conversar com [[pessoas/Gilmar Mendes]] "para apaziguar", e diz que a ideia dos grupos no poder é **"usar o nosso eleitor como bucha de canhão"**. Para Renan, o mesmo dinheiro sujo do "NSS" (INSS) circulou com [[pessoas/Willer Tomás]], apontado como sócio de Flávio, e com **Everton Rocha**, vice-líder do governo Lula. Ver [[fontes/2026-09-05 - Todo mundo no mesmo escândalo]].

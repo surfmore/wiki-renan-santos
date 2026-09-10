@@ -28,6 +28,10 @@ fontes:
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As afirmações são reprodução das declarações dele e não são verificadas independentemente por este wiki.
 
+## "Fazer as pazes": Gilmar recebe o coordenador de campanha de Flávio (setembro de 2026)
+
+Em **5 de setembro de 2026**, em pronunciamento sobre o caso Alexandre de Moraes, Renan volta ao episódio e afirma que, "ontem, na sexta-feira, o coordenador de campanha do Flávio Bolsonaro, [[pessoas/Rogério Marinho]], foi até o Gilmar Mendes fazer as pazes com ele, evitando crises" — acrescentando que é o mesmo Marinho "que se negou a assinar o pedido de impeachment do Alexandre de Moraes". Renan usa o encontro para sustentar que o enfrentamento ao STF no campo bolsonarista é "apenas ferramenta eleitoral". Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]] e [[pessoas/Rogério Marinho]].
+
 ## Encontro com o coordenador de campanha de Flávio (setembro de 2026)
 
 Em **4 de setembro de 2026**, no vídeo "A verdade sobre André Mendonça e Xandão", Renan afirma que o coordenador da campanha de [[pessoas/Flávio Bolsonaro]], **Rogério Marinho**, foi encontrar Gilmar Mendes para "apaziguar a relação" entre a candidatura de Flávio e o STF. Renan usa o episódio como prova de que o bolsonarismo negocia com a Corte nos bastidores enquanto usa o discurso de enfrentamento apenas como "ferramenta eleitoral". Ver [[fontes/2026-09-04 - A verdade sobre André Mendonça e Xandão]].

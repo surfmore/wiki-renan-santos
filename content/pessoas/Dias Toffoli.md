@@ -28,6 +28,10 @@ Ministro do Supremo Tribunal Federal, indicado ao cargo em 2009 pelo presidente 
 
 > Nota: esta página reúne exclusivamente afirmações feitas por Renan Santos em seus vídeos. As acusações são reprodução das declarações dele, não verificações independentes deste wiki.
 
+## Renan diz ter sido "vítima" de Toffoli na semana (setembro de 2026)
+
+Em **5 de setembro de 2026**, no pronunciamento sobre o caso Alexandre de Moraes, Renan afirma: "eu fui vítima do Dias Toffoli essa semana" — referência ao episódio em que o ministro, relator de seu registro no TSE, suspendeu suas redes sociais e sua participação em sabatinas e debates antes de recuar sob pressão. A menção é usada por Renan para justificar sua demanda de que as conversas de [[pessoas/Daniel Vorcaro]] com autoridades da República sejam tornadas públicas. Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].
+
 ## Alvo de "afastamento" na primeira medida de governo (setembro de 2026)
 
 Em **4 de setembro de 2026**, no vídeo "Devo manter ou não minha candidatura", Renan afirma que, como presidente, **uma das primeiras coisas que fará será afastar Toffoli e [[pessoas/Alexandre de Moraes]]**, liderando o Senado e a população brasileira "no enfrentamento sério à corrupção". Ver [[fontes/2026-09-04 - Devo manter ou não minha candidatura]].

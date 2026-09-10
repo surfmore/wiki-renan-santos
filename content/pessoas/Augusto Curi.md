@@ -17,6 +17,10 @@ fontes:
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As descrições sobre Curi são a caracterização feita por Renan, não verificações independentes deste wiki.
 
+## "O fenômeno do Curi passou" (setembro de 2026)
+
+Em **9 de setembro de 2026**, ao comentar uma pesquisa que lhe atribui **11%**, Renan afirma: "parece que o fenômeno do Curi ali de rede social, do tipo 'ah, não tenho proposta, por isso vou votar nele', **passou**". A leitura conecta o crescimento de Renan ao esvaziamento do eleitorado que ele descrevia como "despolitizado" — a "galera que só não quer Lula nem Flávio". Ver [[fontes/2026-09-09 - Boas notícias!]].
+
 ## "Fã do master sem opinião": Avante, influenciadores do Master e cotas no Banco Victor (setembro de 2026)
 
 Em **3 de setembro de 2026**, no vídeo "Se você quer combater a corrupção, você só tem uma opção.", Renan afirma que Curi, candidato do **Avante** — partido que, segundo ele, vota em **88% dos casos com o PT** — "tem relação com o caso" do [[eventos/Escândalo Banco Master]]: teria **contratado os mesmos influenciadores usados por [[pessoas/Daniel Vorcaro]]** para defender o Banco Master durante o escândalo e seria **cotista em mais de R$ 30 milhões** em negócios do **Banco Victor**, banco que Renan classifica como fraudulento e que tentou comprar o Master, "igualzinho o BRB" no momento de crise. Renan diz que Curi não tem opinião sobre o escândalo e lembra que ele afirmou que governaria tanto com petistas quanto com bolsonaristas. Ver [[fontes/2026-09-03 - Se você quer combater a corrupção, você só tem uma opção.]].

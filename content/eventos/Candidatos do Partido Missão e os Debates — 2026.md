@@ -32,6 +32,12 @@ fontes:
 
 Episódio recorrente das eleições de 2026 em que candidatos do **Partido Missão** aos governos estaduais foram excluídos de debates eleitorais, gerando mobilização de Renan Santos para pressionar as emissoras.
 
+## Debate do SBT cancelado: live alternativa com a campanha de Caiado (setembro de 2026)
+
+Em **8 de setembro de 2026**, Renan anuncia que **o debate do SBT foi cancelado** — "o SBT e o grupo de mídia que basicamente estava tocando o debate saiu fora" — depois de [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]] não confirmarem presença ("custa caro fazer um debate e eles não vão"). Ele classifica o episódio como retirada de "direito de discutir propostas para essa eleição" e diz que a fuga serve para que os dois "se mantenham na liderança", prendendo o eleitor "nesse curto-circuito de Lula e Bolsonaro para sempre". Como resposta, Renan afirma ter falado com a **campanha de [[pessoas/Ronaldo Caiado]]** para organizar, no mesmo horário do debate cancelado, **uma live com discussão e debate** na "rede do Paulo Matias". Ver [[fontes/2026-09-08 - É oficial…]] e [[pessoas/Ronaldo Caiado]].
+
+No dia seguinte (**9 de setembro de 2026**), Renan confirma que "há de haver debate": "vamos fazer debate e, se não [der no] SBT, vamos fazer numa outra TV. Estamos conversando com o Paulo Matias para ele organizar". Ver [[fontes/2026-09-09 - Boas notícias!]].
+
 ## Toffoli suspende redes e participação de Renan em debates; decisão é revertida (setembro de 2026)
 
 Em **3 de setembro de 2026**, Renan afirma que o ministro [[pessoas/Dias Toffoli]], relator de seu registro no TSE, decidiu que ele **não poderia usar as redes sociais nem participar de sabatina e debate** — na prática, uma restrição à campanha. Renan classifica a decisão como monocrática e ilegal e diz que ela foi revertida minutos após sua coletiva de imprensa, sob pressão de juristas, imprensa e dos demais candidatos à presidência, exceto [[pessoas/Lula]]. Ver [[fontes/2026-09-03 - Toffoli fez por vingança]] e [[pessoas/Dias Toffoli]].
