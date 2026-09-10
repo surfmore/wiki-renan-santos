@@ -7,6 +7,7 @@ tags:
   - desigualdade
 date: 2026-07-27
 fontes:
+  - "2026-09-09 - E aí Imaginou"
   - "2026-09-05 - Um pouco de esperança para esse Brasil"
   - "2026-08-27 - Vamos sonhar esse sonho!"
   - "2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais"
@@ -28,6 +29,10 @@ fontes:
   - "2025-09-06 - Cuida de mim, painho!"
   - "2025-09-02 - QUEM É RENAN SANTOS [suJJjWFu_44]"
 ---
+
+## O sertão industrializado e a volta dos que migraram (setembro de 2026)
+
+Em **9 de setembro de 2026**, em vídeo de campanha sobre o Brasil "na versão mais bonita dele", Renan projeta o **sertão do Nordeste** com "empresa, com estradas, ferrovias cruzando para lá e para cá" e "polos industriais exportando produtos brasileiros pro resto do mundo". No Sul, imagina o Rio Grande do Sul "sem aquelas enchentes, aquelas loucuras" porque "vai ter infraestrutura", o que faria os **gaúchos "voltando a morar lá"** — invertendo o fluxo migratório — além de argentinos voltando a passar férias no Brasil. O Centro-Oeste receberia "indústria para caramba", incluindo a indústria do rodeio e a "indústria country" mundial. Ver [[fontes/2026-09-09 - E aí Imaginou]] e [[temas/Ambição Nacional e Soberania Tecnológica]].
 
 ## Projeto social no sertão do RN e "tomar o Nordeste de cooperativas" (setembro de 2026)
 

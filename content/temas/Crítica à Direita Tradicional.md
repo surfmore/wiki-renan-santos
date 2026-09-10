@@ -7,6 +7,20 @@ tags:
 date: 2026-08-22
 ---
 
+## "O antipetista virou cínico": o eleitor que aceita a corrupção para não perder de Lula (setembro de 2026)
+
+Em **10 de setembro de 2026**, comentando a Operação Dark Horse, Renan dirige a crítica não apenas a [[pessoas/Flávio Bolsonaro]] mas ao eleitor que o sustenta. Ele diz que o argumento "é melhor ele do que a turma do Lula" não se sustenta porque "eles estão envolvendo os mesmos escândalos" e, como o Brasil tem **dois turnos**, "no primeiro turno você pode votar em outra pessoa" — "o Lula só ganha se você votar no Lula". Quem insiste em Flávio, conclui, "no fundo gosta de ladrão".
+
+Renan explica por que não faz a mesma crítica ao PT nesse vídeo: o PT "já é nosso inimigo natural" e "já tem isso intro[nizado] como uma doutrina" — "a ideia de que a corrupção pode ser um instrumento político… é da esquerda". O alvo é o antipetista que "hoje fala: 'não, eu gosto da família Bolsonaro mesmo sendo corrupto'" e, na sua formulação, **"virou cínico"**. Ele encerra responsabilizando esse eleitor pelas consequências: "não reclame depois quando o Lula ganhar, não reclame depois quando a crise econômica se instalar, porque foram vocês que criaram essa crise". Ver [[fontes/2026-09-10 - Operação 'Dark Horse']] e [[eventos/Operação Dark Horse — Setembro de 2026]].
+
+## "O brasileiro gosta de bandido": a tese sobre o eleitorado (setembro de 2026)
+
+No mesmo vídeo de **10 de setembro de 2026**, Renan amplia a crítica para além da política: "o brasileiro reclama do bandido, mas o brasileiro gosta de bandido. Brasileiro é apaixonado em bandido." Ele cita como exemplos a admiração pública por [[pessoas/Virgínia Fonseca]] — que diz "tá envolvida com Bet" e cujo entorno teria "coisas que chegam até próximo a crime organizado" — e por [[pessoas/Deolane Bezerra]]. Sobre o eleitorado de Flávio, afirma que "as pessoas não amam o Flávio, elas amam o [[pessoas/Jair Bolsonaro]]" e "se vão se juntando ao Flávio por essa conveniência". Ver [[fontes/2026-09-10 - Operação 'Dark Horse']].
+
+## "O meu vagabundo ganhou do seu vagabundo": o voto em "dois ladrões" (setembro de 2026)
+
+Em **9 de setembro de 2026**, em vídeo de campanha, Renan diz que o Brasil "mais bonito" que ele descreve é possível, mas que o eleitor "tá deixando de realizar esse sonho" porque "tá sendo covarde, votando em **uns dois ladrões**" — referência ao par [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]]. Ele resume a postura que critica na frase "o meu vagabundo ganhou do seu vagabundo" e encerra pedindo que o eleitor não "sonhe o sonho dos vagabundos". Ver [[fontes/2026-09-09 - E aí Imaginou]] e [[temas/Ambição Nacional e Soberania Tecnológica]].
+
 ## "Não vou sair às ruas com o senhor Flávio Bolsonaro": o PL como "comício" (setembro de 2026)
 
 Em **5 de setembro de 2026**, Renan recusa publicamente dividir palanque com [[pessoas/Flávio Bolsonaro]]: "eu não vou sair às ruas com o senhor Flávio Bolsonaro. Isso deveria ser óbvio para todo brasileiro honesto". Ele alega que Flávio e a família receberam "dezenas de milhões de reais" de [[pessoas/Daniel Vorcaro]] e que a convocação de manifestação do senador não menciona [[pessoas/Alexandre de Moraes]] nem o STF, apenas candidatos do PL — o que, na leitura de Renan, revela que "o que ele tá fazendo é **um comício**". Renan acrescenta que o coordenador de campanha de Flávio, [[pessoas/Rogério Marinho]], foi a [[pessoas/Gilmar Mendes]] "fazer as pazes", e conclui que "nem eu, nem a população brasileira devemos fazer papel de trouxa num comício eleitoral para eleger gente do PL" — "o mesmo PL que não faz nada contra o senhor Alexandre de Moraes e nada contra a corrupção". Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]].

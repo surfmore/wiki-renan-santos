@@ -7,6 +7,12 @@ tags:
 date: 2026-08-07
 ---
 
+## "O STF é igual a sua família": a Corte como facção e "grupo de idosos" (setembro de 2026)
+
+Em **9 de setembro de 2026**, em vídeo de opinião sobre o novo capítulo da crise na Corte, Renan compara o tribunal a uma **família em que os netos brigam e a avó manda parar** — na analogia, [[pessoas/André Mendonça]] e [[pessoas/Flávio Dino]] aparecem como os que brigam, e o ministro **Fachin** como a figura que chega e diz "parem de brigar". Sua avaliação da conjuntura é direta: "a situação no Brasil é patética".
+
+Renan diz que os ministros vivem "ganhando fortunas todos os meses, cheio de consultores e funcionários", com "escritórios ligados aos seus parentes", e que "essas pessoas estão fora da realidade" — em contraste com quem "está morrendo nas filas do SUS" e com crianças que "não [estão] se formando nas escolas". Ele conclui que "todos os membros do STF representam uma facção política específica" e "estão distantes de qualquer coisa [de] interesse verdadeiramente nacional", com "um grupo que convive com as pessoas de Bolsonaro e outro que anda por aí com o povo de Lula". A síntese: "o STF é igual a sua família" — dividida entre "vote na Lula" e "vote no Flávio" —, "um grupo de idosos decidindo se apoie Lula ou Flávio", enquanto o eleitor mais jovem "está pagando a conta". Ver [[fontes/2026-09-09 - Minha sincera opinião...]] e [[temas/Judiciário e Supersalários]].
+
 ## "Posição oficial" sobre Moraes, manifesto de lideranças e calendário de atos (setembro de 2026)
 
 Em **5 de setembro de 2026**, em pronunciamento apresentado como sua **posição oficial sobre o caso [[pessoas/Alexandre de Moraes]]**, Renan afirma que "o Brasil precisa agir contra Alexandre de Moraes e todos os envolvidos no escândalo do [[eventos/Escândalo Banco Master]]" — "quando eu digo todos, eu digo todos": [[pessoas/Lula]], membros do governo, gente do centrão, empresários e ministros do Supremo. Ele pede que as conversas de [[pessoas/Daniel Vorcaro]] com todas as autoridades sejam liberadas à imprensa e que todos os que receberam dinheiro do banqueiro sejam expostos, para que "a população saiba que a justiça vai julgá-los". Diz ter sido ele próprio "vítima do Dias Toffoli essa semana".

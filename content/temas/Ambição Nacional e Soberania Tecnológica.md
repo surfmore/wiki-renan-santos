@@ -8,6 +8,14 @@ tags:
 date: 2026-07-03
 ---
 
+## "Não pense pequeno": o Brasil imaginado em detalhe (setembro de 2026)
+
+Em **9 de setembro de 2026**, em vídeo de campanha, Renan pede que o eleitor imagine o Brasil "na versão mais bonita dele" e lista o que seria esse país: cidades com "praças novas, prédios sendo construídos, tudo bem arborizado, favela sendo urbanizada"; ruas seguras, onde se anda "sabendo que você não vai ser roubada ou roubado"; o Rio "sem favela, gringo chegando, gente abrindo startup"; São Paulo "absolutamente urbanizada, metrô para todo lado".
+
+O exercício inclui conquistas de **soberania tecnológica e cultural**: uma equipe brasileira na Fórmula 1 com "tecnologia brasileira, motor brasileiro" e "aerodinâmica feita na Embraer"; marcas de moda feitas com fibras naturais da Amazônia; alimentos e sorvetes exportados com marca nacional; uma cafeteria brasileira levando "cafezinho mineiro" e pão de queijo a concorrer com o Starbucks; e uma marca brasileira de carro elétrico com baterias usando as terras raras do país. Projeta também o Brasil disputando "campeonatos internacionais de matemática, de física" e sendo respeitado. O vídeo se encerra com a acusação de que o eleitor deixa de realizar esse sonho por "estar sendo covarde, votando em uns dois ladrões" — retomando a fórmula "não pense pequeno" de agosto.
+
+Ver [[fontes/2026-09-09 - E aí Imaginou]].
+
 ## "Nós nascemos para liderar": Brasil entre as cinco maiores nações do mundo (agosto de 2026)
 
 Em **24 de agosto de 2026**, em discurso de campanha, Renan afirma que "se você vive de migalha, é porque você aceita alguém que te trata como bicho" e que o Brasil "está sendo o país da migalha". Ele projeta o país como **"uma das cinco maiores nações do mundo"** — ao lado de Rússia, China, Índia e Estados Unidos — para "definir tudo que importa no mundo", com base em **terra rara, tecnologia e inteligência artificial**. No plano produtivo, promete **gerar classe média**, desenvolver economicamente o **Nordeste**, dar **infraestrutura ao Centro-Oeste** para exportar, **voltar a produzir carro** e **criar marcas internacionais** em vez de exportar apenas matérias-primas. "O Brasil é a maior experiência tropical do mundo", diz, e "nasceu para ser o maior país do sul global": "nós nascemos para liberar e não passar vergonha". Ver [[fontes/2026-08-24 - Nós nascemos para liderar!]].
@@ -472,6 +480,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-09-09 - E aí Imaginou]] — o Brasil "na versão mais bonita dele": favela urbanizada, marcas nacionais, F1 com Embraer e carro elétrico com terras raras
 - [[fontes/2026-08-16 - Já imaginaram]] — fortalecimento militar e troca de tecnologia com base nas terras raras
 - [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — programa espacial, aviões de guerra com terras raras e assento no Conselho de Segurança da ONU
 - [[fontes/2026-08-02 - Lula está há 30 anos falando a mesma coisa!]] — contraste entre a falta de ambição de Lula e nações que se desenvolveram

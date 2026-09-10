@@ -7,6 +7,7 @@ tags:
   - habitação
 date: 2026-08-22
 fontes:
+  - "2026-09-09 - E aí Imaginou"
   - "2026-09-05 - Isso é muito grave e muito pesado!"
   - "2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes."
   - "2026-08-27 - Uma pessoa que mora em favela hoje já não tem “direitos”."
@@ -29,6 +30,10 @@ fontes:
   - "2026-03-26 - Vim no BOPE para apresentar 6 medidas para desfavelizar a cidade maravilhosa"
   - "2026-03-28 - Eu fui na favela que o BOPE tomou conta"
 ---
+
+## "Favela sendo urbanizada": a desfavelização como parte do Brasil imaginado (setembro de 2026)
+
+Em **9 de setembro de 2026**, em vídeo de campanha, Renan pede que o eleitor imagine a própria cidade "na versão mais bonita dela" e inclui a **urbanização das favelas** entre os elementos desse futuro: "praças novas, prédios sendo construídos, tudo bem arborizado, **favela sendo urbanizada**". No Rio de Janeiro, projeta "toda a potencialidade dele explorada, **sem favela**, gringo chegando, gente abrindo startup". O vídeo trata a desfavelização como parte indissociável da segurança no cotidiano — poder andar na rua "sabendo que você não vai ser roubada ou roubado". Ver [[fontes/2026-09-09 - E aí Imaginou]] e [[temas/Ambição Nacional e Soberania Tecnológica]].
 
 ## "Nuremberg das favelas" para os crimes contra mulheres nas favelas (setembro de 2026)
 
@@ -367,6 +372,7 @@ Ver [[fontes/2025-10-10 - Regis Tadeu detona Renan Santos]].
 
 ## Fontes
 
+- [[fontes/2026-09-09 - E aí Imaginou]] — "favela sendo urbanizada" e o Rio "sem favela" no Brasil imaginado; ruas seguras como parte do projeto
 - [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]] — "Nuremberg das favelas" aplicado à violência contra a mulher nas favelas; 250 mil casos reportados/ano; punição com penas que somam milhares de anos
 - [[fontes/2026-08-29 - Me disseram que pra falar de desfavelização precisava falar com ONGs antes.]] — visita ao Taquari; conversa direta com moradores; "eu não ligo para essa ONG"; casas de encosta e título de propriedade
 - [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — carta de compromisso com moradores; cinco compromissos; R$ 100 bi/ano; "Nuremberg das favelas"

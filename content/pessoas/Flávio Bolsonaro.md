@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-09-10 - Operação 'Dark Horse'"
   - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-09-03 - Seu político favorito foi pego no Master, né"
   - "2026-09-03 - Da vontade de se M4T4R com isso"
@@ -36,6 +37,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **candidato à Presidência da República** (eleições 2026) pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## Operação Dark Horse: "houve roubalheiro" e a família entre os que deveriam ser presos (setembro de 2026)
+
+Em **10 de setembro de 2026**, comentando a [[eventos/Operação Dark Horse — Setembro de 2026]], Renan afirma que "é óbvio que houve roubalheiro no caso do Dark Horse" e que, "havendo justiça no país", os envolvidos "serão presos" — "isso vai incluir membros da família" e "**isso inclui o próprio Flávio**" —, embora ele mesmo duvide que essa justiça exista. Renan diz que "o eleitor do Flávio não liga" e lista o que esse eleitor "já aturou": o cassino em que Flávio foi com [[pessoas/Willer Tomás]] "gastar milhões", a "compra de mansões sem explicação" de como obteve o dinheiro e escândalos recentes. Ele acrescenta que as pessoas "não amam o Flávio, elas amam o [[pessoas/Jair Bolsonaro]]" e "se vão se juntando ao Flávio por essa conveniência". Ver [[fontes/2026-09-10 - Operação 'Dark Horse']] e [[temas/Crítica à Direita Tradicional]].
 
 ## Fuga do debate do SBT: "Flávio, tu é corrupto, meu irmão" (setembro de 2026)
 

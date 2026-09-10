@@ -6,6 +6,7 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-09-09 - Minha sincera opinião..."
   - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-09-03 - Seu político favorito foi pego no Master, né"
   - "2026-09-03 - Da vontade de se M4T4R com isso"
@@ -22,6 +23,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## "Eles têm que cair e ser presos": todos os envolvidos, "incluindo juízes da Suprema Corte" (setembro de 2026)
+
+Em **9 de setembro de 2026**, comentando a crise entre ministros do STF, Renan afirma que "todos os envolvidos" no escândalo bancário — "**incluindo juízes da Suprema Corte**" — "**têm que cair e ser presos**". A transcrição automática registra a expressão "campo do Banco Central", provavelmente corrompida no contexto do escândalo do Banco Master. Renan contextualiza a exigência na tese de que os ministros "estão fora da realidade", vivendo "uma vida principesca" com consultores e "escritórios ligados aos seus parentes". A fala reforça a exigência, já feita em 5 de setembro, de que "todos os envolvidos" sejam expostos e julgados, "quando eu digo todos, eu digo todos". Ver [[fontes/2026-09-09 - Minha sincera opinião...]] e [[temas/STF e Ativismo Judicial]].
 
 ## "Posição oficial": liberar as conversas de Vorcaro e expor quem recebeu o dinheiro (setembro de 2026)
 
