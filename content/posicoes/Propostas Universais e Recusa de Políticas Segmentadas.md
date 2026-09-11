@@ -6,12 +6,17 @@ tags:
   - programa-de-governo
 date: 2026-09-08
 fontes:
+  - "2026-09-11 - Minha opinião sobre os feminicídios"
   - "2026-09-08 - Não tenho propostas para as mulheres"
   - "2026-09-08 - Fui cancelado por não ter propostas para mulheres"
   - "2026-09-07 - E essa reação das mulheres 💪🏻💪🏻"
 ---
 
 Renan Santos sustenta que o **livro amarelo** — seu programa de governo — é composto de **propostas universais, feitas "para brasileiros"**, e não de pacotes segmentados por gênero, raça ou etnia. A posição foi formalizada na esteira de uma série de entrevistas em que lhe foi dito que ele "não tem propostas para as mulheres".
+
+## "Não vou escolher só um recorte": feminicídio e a recusa do tema único (setembro de 2026)
+
+Em **11 de setembro de 2026**, em entrevista, Renan aplica a lógica das **propostas universais** ao debate do feminicídio. Diz que "o que eu não vou fazer é escolher só um recorte": falará do feminicídio "só que de todo tipo de morte de brasileiro, todo tipo de violência". Na sua formulação, a eleição "é só para falar sobre violência contra a mulher que existe, que tem que ser combatida, mas que não é toda a violência que existe" — e conclui que "a minoria escolhida não foi vocês para essa eleição". Ver [[fontes/2026-09-11 - Minha opinião sobre os feminicídios]] e [[temas/Pautas Identitárias e de Gênero]].
 
 ## "Eu tô fazendo propostas para brasileiros" (setembro de 2026)
 

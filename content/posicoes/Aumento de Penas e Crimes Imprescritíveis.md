@@ -7,6 +7,7 @@ tags:
   - código-penal
 date: 2026-08-10
 fontes:
+  - "2026-09-11 - Minha opinião sobre os feminicídios"
   - "2026-09-05 - Isso é muito grave e muito pesado!"
   - "2026-08-31 - Essa mãe teve que devolver a camisa do Neymar."
   - "2026-08-30 - Eu não sou pacifista com criminoso que abusa de meninas."
@@ -24,6 +25,10 @@ fontes:
 ---
 
 Posição de Renan Santos sobre o endurecimento das penas e o fim da prescrição para crimes violentos no Brasil, apresentada em resposta a críticas de que ele não se importaria com o feminicídio.
+
+## "Defensor de aumento de pena para todo tipo de crime violento" (setembro de 2026)
+
+Em **11 de setembro de 2026**, em entrevista sobre a lei do feminicídio, Renan reafirma ser "o defensor de aumento de pena para todo tipo de crime violento" e recusa tratar o feminicídio como recorte isolado: como presidente, diz que tem de "diminuir todos os tipos de violência". Cita dados (67% das vítimas de feminicídio são pardas ou negras; ~100 mortes/dia, das quais 4% por feminicídio e 12 crianças) para defender uma política penal abrangente. Ver [[fontes/2026-09-11 - Minha opinião sobre os feminicídios]] e [[posicoes/Propostas Universais e Recusa de Políticas Segmentadas]].
 
 ## Penas que "extrapolam milhares de anos": punição dos crimes contra mulheres no "Nuremberg das favelas" (setembro de 2026)
 

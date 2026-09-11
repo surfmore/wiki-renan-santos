@@ -7,6 +7,10 @@ tags:
 date: 2026-08-07
 ---
 
+## Ação no STF para abrir o inquérito das fake news e os escândalos do INSS e Master (setembro de 2026)
+
+Em **11 de setembro de 2026**, Renan anuncia ter protocolado uma **ação no STF** pedindo que se torne público tudo o que envolve o **inquérito das fake news** de [[pessoas/Alexandre de Moraes]] — "autoridades que atuaram, quem foi perseguido, como eram os instrumentos utilizados pelo Xandão para perseguir adversários". O gancho é a decisão de [[pessoas/André Mendonça]] que levantou o sigilo do caso do [[eventos/Escândalo Banco Master]]. Renan pede ainda que venha "tudo à tona" do [[eventos/Escândalo do INSS]], que "envolve Lulinha, envolve também gente envolvida com o Flávio, envolve gente ligada ao centrão". Sua tese: "todo mundo que tá no topo do STF, à esquerda, à direita, centrão, tá todo mundo corrompido" — e, se o país souber o que aconteceu nesses casos, "o Brasil para". Diz ter "enterrado sua carreira política" ao agir e se apresenta como "o único presidente de partido que tem condições morais e institucionais para fazer o enfrentamento desses caras". Ver [[fontes/2026-09-11 - Eu enterrei minha carreira política]] e [[posicoes/Abertura Total dos Inquéritos]].
+
 ## "O STF é igual a sua família": a Corte como facção e "grupo de idosos" (setembro de 2026)
 
 Em **9 de setembro de 2026**, em vídeo de opinião sobre o novo capítulo da crise na Corte, Renan compara o tribunal a uma **família em que os netos brigam e a avó manda parar** — na analogia, [[pessoas/André Mendonça]] e [[pessoas/Flávio Dino]] aparecem como os que brigam, e o ministro **Fachin** como a figura que chega e diz "parem de brigar". Sua avaliação da conjuntura é direta: "a situação no Brasil é patética".
@@ -451,6 +455,8 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-09-11 - Eu enterrei minha carreira política]] — ação no STF para abrir o inquérito das fake news e os escândalos do INSS e do Master
+- [[fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master]] — Renan citado no inquérito do Master; nega conhecer Vorcaro
 - [[fontes/2026-09-03 - Toffoli fez por vingança]] — decisão monocrática que suspendeu redes e debates de Renan; vingança pelo Tayayá
 - [[fontes/2026-09-03 - Da vontade de se M4T4R com isso]] — foto de ministros "comemorando"; "ditadura sem ditador, uma oligarquia"
 - [[fontes/2026-08-16 - Não veja esse vídeo!]] — "corrupção do Centrão e do STF"; Renan se diz o único capaz de apontá-la

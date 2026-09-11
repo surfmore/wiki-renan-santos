@@ -6,6 +6,7 @@ tags:
   - direita
 date: 2026-08-22
 fontes:
+  - "2026-09-11 - Eu não sou bandido"
   - "2026-09-10 - Operação 'Dark Horse'"
   - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-09-03 - Seu político favorito foi pego no Master, né"
@@ -37,6 +38,10 @@ fontes:
 ---
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **candidato à Presidência da República** (eleições 2026) pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
+
+## "Eu não sou bandido": Renan descarta apoiá-lo e o chama de "bandido da polícia" (setembro de 2026)
+
+Em **11 de setembro de 2026**, em entrevista, Renan descarta publicamente apoiar Flávio Bolsonaro em eventual segundo turno: "Não tenho característica nenhuma do Flávio Bolsonaro. Eu não sou ladrão. O Flávio Bolsonaro é estúpido, ele é fujão." Ele o classifica como "um **bandido da polícia**" e afirma: "descartada a possibilidade de eu apoiar qualquer pessoa que não eu". Ver [[fontes/2026-09-11 - Eu não sou bandido]] e [[temas/Crítica à Direita Tradicional]].
 
 ## Operação Dark Horse: "houve roubalheiro" e a família entre os que deveriam ser presos (setembro de 2026)
 

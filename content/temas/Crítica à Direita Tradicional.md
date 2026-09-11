@@ -7,6 +7,10 @@ tags:
 date: 2026-08-22
 ---
 
+## "Eu não sou bandido": descarte de apoio a Flávio Bolsonaro (setembro de 2026)
+
+Em **11 de setembro de 2026**, em entrevista, ao ser perguntado se apoiaria [[pessoas/Flávio Bolsonaro]] num eventual segundo turno, Renan rejeita a associação de forma direta: "Não tenho característica nenhuma do Flávio Bolsonaro. **Eu não sou ladrão.** O Flávio Bolsonaro é estúpido, ele é fujão" — e o classifica como "**um bandido da polícia**". Ele afirma que está "descartada a possibilidade de eu apoiar qualquer pessoa que não eu": "Estarei no segundo turno. Eu só trabalho com essa possibilidade." Renan explica por que seu grupo é atacado "dentro da direita": "porque a gente não se submete, não se negocia com a sua cabeça dentro da boca de um tigre. Eles exigem apenas a submissão. É igual o PT dentro da esquerda. O PT também destrói qualquer alternativa dentro da esquerda." Ver [[fontes/2026-09-11 - Eu não sou bandido]].
+
 ## "O antipetista virou cínico": o eleitor que aceita a corrupção para não perder de Lula (setembro de 2026)
 
 Em **10 de setembro de 2026**, comentando a Operação Dark Horse, Renan dirige a crítica não apenas a [[pessoas/Flávio Bolsonaro]] mas ao eleitor que o sustenta. Ele diz que o argumento "é melhor ele do que a turma do Lula" não se sustenta porque "eles estão envolvendo os mesmos escândalos" e, como o Brasil tem **dois turnos**, "no primeiro turno você pode votar em outra pessoa" — "o Lula só ganha se você votar no Lula". Quem insiste em Flávio, conclui, "no fundo gosta de ladrão".
@@ -731,6 +735,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-09-11 - Eu não sou bandido]] — recusa de apoio a Flávio Bolsonaro ("eu não sou bandido"); a lógica da submissão na direita e no PT
 - [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] — jogo de cartas marcadas; Flávio "quer perder pro Lula"; "esquerda e direita roubando você junto"
 - [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — fraldas físicas no debate da Band; Lula e Flávio como "canalhas" que fogem; crítica a Zema; elogio à Band
 - [[fontes/2026-08-22 - Simplesmente não dá mais pra ficar calado.]] — Lula e Flávio "panacas" que fogem do debate; fraldas geriátricas; escândalos em comum

@@ -6,6 +6,8 @@ tags:
   - stf
 date: 2026-07-02
 fontes:
+  - "2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master"
+  - "2026-09-11 - Eu enterrei minha carreira política"
   - "2026-09-09 - Minha sincera opinião..."
   - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-09-03 - Seu político favorito foi pego no Master, né"
@@ -23,6 +25,10 @@ fontes:
 ---
 
 Escândalo político-financeiro que, em abril de 2026, virou o principal eixo de mobilização da pré-campanha de Renan Santos à presidência da República. O caso envolve o **Banco Master**, de **Daniel Vorcaro**, e uma rede de pagamentos a agentes públicos e políticos classificados como "consultoria" ou "assessoria jurídica".
+
+## Renan citado no inquérito e nega vínculo com Vorcaro (setembro de 2026)
+
+Em **11 de setembro de 2026**, após o levantamento do sigilo, Renan confirma que foi **citado no inquérito** do Banco Master: "Oficialmente, eu estou no inquérito do Banco Master", por conta de "dois fatos". Ele nega qualquer vínculo com o banqueiro — "**eu não conheço o senhor Daniel Vorcaro**" — e afirma que **dois de seus próprios vídeos de denúncia** ao escândalo foram usados para fundamentar a apuração ("foram colocados no inquérito"). Diz ter trazido "muitos bastidores" do caso "ano passado, quando pouca gente tava falando", e encerra pedindo que "tudo tem que ser revelado": "o Brasil precisa saber o grande roubo da nossa história". No mesmo dia, anuncia ação no STF para abrir o inquérito das fake news e o caso do INSS. Ver [[fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master]] e [[posicoes/Abertura Total dos Inquéritos]].
 
 ## "Eles têm que cair e ser presos": todos os envolvidos, "incluindo juízes da Suprema Corte" (setembro de 2026)
 

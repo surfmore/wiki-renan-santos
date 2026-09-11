@@ -7,6 +7,7 @@ tags:
   - candidato
 date: 2025-09-02
 fontes:
+  - "2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master"
   - "2026-08-31 - Boraaaaaaa!!!"
   - "2026-08-30 - Não vamos abaixar a cabeça"
   - "2026-08-30 - Sobre a proposta de tirar a candidatura"
@@ -34,6 +35,10 @@ fontes:
 ---
 
 Renan Santos é fundador do **Movimento Brasil Livre (MBL)**, presidente do MBL e fundador do **Partido Missão**. É candidato à presidência da República pelo Partido Missão (número 14) e uma das principais vozes da direita não-bolsonarista no Brasil.
+
+## Citado no inquérito do Master e ação no STF para abrir tudo (setembro de 2026)
+
+Em **11 de setembro de 2026**, Renan confirma ter sido **citado no inquérito do Banco Master** após o levantamento do sigilo — "Oficialmente, eu estou no inquérito do Banco Master", citado "por conta de dois fatos" — e nega conhecer o banqueiro: "**eu não conheço o senhor Daniel Vorcaro**". Afirma que **dois de seus próprios vídeos de denúncia** do escândalo foram usados para fundamentar a apuração e pede que "tudo tem que ser revelado". No mesmo dia, anuncia ter protocolado **ação no STF** para abrir o inquérito das fake news de [[pessoas/Alexandre de Moraes]] e para que venham à tona os escândalos do INSS e do Master — dizendo que "enterrou sua carreira política" ao agir e que "todo mundo que tá no topo do STF, à esquerda, à direita, centrão, tá todo mundo corrompido". Ver [[fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master]], [[fontes/2026-09-11 - Eu enterrei minha carreira política]] e [[posicoes/Abertura Total dos Inquéritos]].
 
 ## 11% na pesquisa e "o fenômeno do Curi passou" (setembro de 2026)
 

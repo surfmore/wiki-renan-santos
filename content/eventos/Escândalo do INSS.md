@@ -8,6 +8,7 @@ tags:
   - lula
 date: 2026-08-11
 fontes:
+  - "2026-09-11 - Eu enterrei minha carreira política"
   - "2026-09-05 - Todo mundo no mesmo escândalo"
   - "2026-08-28 - Ué, Lula!"
   - "2026-08-25 - Eu quase peguei o Lula hoje."
@@ -25,6 +26,10 @@ fontes:
 # Escândalo do INSS
 
 Escândalo de corrupção envolvendo desvios de recursos do **Instituto Nacional do Seguro Social (INSS)** que Renan Santos denuncia recorrentemente em seus vídeos. Na narrativa de Renan, o caso conecta a cúpula do governo Lula, políticos do centrão e aliados do bolsonarismo em um mesmo esquema de corrupção. Em algumas falas, Renan se refere ao caso como escândalo do "NSS".
+
+## Renan pede abertura total do escândalo, citando Lulinha, Flávio e o centrão (setembro de 2026)
+
+Em **11 de setembro de 2026**, ao anunciar ação no STF para abrir o inquérito das fake news, Renan pede que venha "tudo à tona" também do escândalo do INSS — que, segundo ele, "envolve Lulinha, envolve também gente envolvida com o Flávio, envolve gente ligada ao centrão, envolve autoridades da República, envolve o filho e o irmão do Lula". Ele inclui o caso na lista de escândalos cuja revelação faria "o Brasil parar" e "as pessoas despertarem pro grande problema". Ver [[fontes/2026-09-11 - Eu enterrei minha carreira política]] e [[posicoes/Abertura Total dos Inquéritos]].
 
 ## O mesmo dinheiro sujo do "NSS": Willer Tomás e Everton Rocha (setembro de 2026)
 

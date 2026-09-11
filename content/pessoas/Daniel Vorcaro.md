@@ -6,6 +6,7 @@ tags:
   - corrupção
 date: 2026-07-02
 fontes:
+  - "2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master"
   - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-07-02 - Um exemplo de mulher"
   - "2026-05-21 - Flávio Bolsonaro precisa de ajuda!"
@@ -20,6 +21,10 @@ fontes:
 ---
 
 **Quem é:** Banqueiro paulistano, controlador do Banco Master. Preso em janeiro de 2026 como parte de desdobramento do escândalo do banco, que envolve um esquema de emissão de CRIs e CRAs sobrevalorizados causando um rombo estimado em dezenas de bilhões de reais no Fundo Garantidor de Crédito. Ex-frequentador do jetset do Mediterrâneo, identificado por Renan Santos como a figura central de uma rede de relações promíscuas — financeiras, políticas e pessoais — entre os polos de poder do Brasil.
+
+## "Eu não conheço o senhor Daniel Vorcaro": resposta à citação no inquérito (setembro de 2026)
+
+Em **11 de setembro de 2026**, ao confirmar que foi citado no inquérito do Banco Master, Renan nega qualquer relação com o banqueiro: "eu não conheço o senhor Daniel Vorcaro. Eu não tenho nenhum compromisso com o erro, mas vou me pronunciar." Ele afirma que dois vídeos seus de denúncia ao escândalo foram usados como meio de fundamentar a apuração. Ver [[fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master]] e [[eventos/Escândalo Banco Master]].
 
 ## O que o Renan Santos disse
 

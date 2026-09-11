@@ -7,6 +7,7 @@ tags:
   - esquerda
 date: 2026-08-05
 fontes:
+  - "2026-09-11 - Minha opinião sobre os feminicídios"
   - "2026-09-07 - E essa reação das mulheres 💪🏻💪🏻"
   - "2026-09-05 - Isso é muito grave e muito pesado!"
   - "2026-08-30 - Lula é o candidato do feminicídio"
@@ -27,6 +28,10 @@ fontes:
 ---
 
 Posições de Renan Santos sobre transgeneridade, identidade de gênero, feminicídio e cotas — temas que ele frequentemente usa para contrastar a abordagem do MBL com a da esquerda progressista.
+
+## Feminicídio: aumento de pena "para todo crime violento" e recusa do recorte (setembro de 2026)
+
+Em **11 de setembro de 2026**, em entrevista, Renan afirma ser "o defensor de aumento de pena para todo tipo de crime violento" e enquadra o feminicídio nesse conjunto. Ele desloca o debate para dados: "quem morre mais no Brasil são homens negros"; **67% das vítimas de feminicídio são mulheres pardas ou negras**; das cerca de **100 pessoas que morrem por dia**, o feminicídio representa **4%** e as crianças, 12. Sua conclusão é que não escolherá "só um recorte": como presidente, "tenho que diminuir todos os tipos de violência" — contra negro, mulher e criança. Diz que "a minoria escolhida não foi vocês para essa eleição" e que falará do feminicídio "só que de todo tipo de morte de brasileiro". Reitera os **250 mil casos/ano** reportados de violência contra a mulher e o problema da subnotificação (medo de reportar no interior e nas favelas), defendendo que suas **políticas universais** "vão aumentar a notificação" e, com ela, o combate. Ver [[fontes/2026-09-11 - Minha opinião sobre os feminicídios]], [[posicoes/Propostas Universais e Recusa de Políticas Segmentadas]] e [[temas/Segurança Pública]].
 
 ## "Propostas para brasileiros": recusa de segmentar o programa por grupo (setembro de 2026)
 
