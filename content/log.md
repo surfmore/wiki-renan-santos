@@ -1,5 +1,11 @@
 # Log de operações
 
+## [2026-09-12] ingest automático | O crime não pode ser o normal nas nossas vidas
+- Fonte criada: fontes/2026-09-11 - O crime não pode ser o normal nas nossas vidas
+- Páginas criadas: (nenhuma — conteúdo adicionado a página existente)
+- Páginas atualizadas: temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: video_id FUtlwNXEbrg registrado em wiki/.processed_ids antes da criação de páginas. Único pendente da execução (1 de 1): conferência de todos os .md de raw/processed/renan-canal/shorts contra a lista de IDs mostrou que os 936 restantes já estavam ingeridos. Short de campanha de ~22 segundos sobre a perda da infância na rua: "As crianças costumavam brincar na rua. De repente, isso parou. Os muros cresceram e a insegurança aumentou." CURADORIA/ATRIBUIÇÃO: a legenda automática do vídeo capturou apenas a locução de abertura (~20s) — o restante da peça não pôde ser recuperado na transcrição, de modo que nenhuma outra fala foi atribuída a Renan (a frase-título "o crime não pode ser o normal nas nossas vidas" não aparece na transcrição e foi registrada como enquadramento da peça, não como citação). Conteúdo retórico, sem proposta nova: nenhuma página foi criada e o registro foi feito no topo de temas/Segurança Pública, com a nota de limitação da transcrição.
+
 ## [2026-09-11] ingest automático | Batch de 5 shorts (Eu enterrei minha carreira política; Eu não sou bandido; JOTA MARKETEIRO; Minha opinião sobre os feminicídios; Nota Oficial sobre minha inclusão no inquérito do Master)
 - Fontes criadas: fontes/2026-09-11 - Eu enterrei minha carreira política, fontes/2026-09-11 - Eu não sou bandido, fontes/2026-09-11 - JOTA MARKETEIRO, fontes/2026-09-11 - Minha opinião sobre os feminicídios, fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master
 - Páginas criadas: posicoes/Abertura Total dos Inquéritos

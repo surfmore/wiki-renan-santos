@@ -1,7 +1,7 @@
 ---
 title: "Quem é Renan Santos"
 description: "Wiki público com tudo que Renan Santos já falou em seus vídeos — posições, propostas, trajetória e contexto organizado por IA."
-date: 2026-09-11
+date: 2026-09-12
 ---
 
 <style>
@@ -98,7 +98,7 @@ date: 2026-09-11
 </div>
 
 <div class="wiki-stats">
-<a class="wiki-stat" href="/fontes"><span class="num">940</span><span class="label">Fontes</span></a>
+<a class="wiki-stat" href="/fontes"><span class="num">941</span><span class="label">Fontes</span></a>
 <a class="wiki-stat" href="/temas"><span class="num">29</span><span class="label">Temas</span></a>
 <a class="wiki-stat" href="/posicoes"><span class="num">38</span><span class="label">Posições</span></a>
 <a class="wiki-stat" href="/pessoas"><span class="num">66</span><span class="label">Pessoas</span></a>
@@ -114,7 +114,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">🗂️ Temas</p>
 <div class="wiki-grid">
-<a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">157 fontes</span></div><p class="wiki-card-desc">Em 07/09, Lula e Flávio "não falam sobre segurança pública" e aceitam o roubo; em 05/09, violência contra a mulher nas favelas (250 mil casos/ano) e o "Nuremberg das favelas".</p></a>
+<a class="wiki-card" href="/temas/Segurança Pública"><div class="wiki-card-header"><span class="wiki-card-icon">🔫</span><span class="wiki-card-title">Segurança Pública</span><span class="wiki-card-count">158 fontes</span></div><p class="wiki-card-desc">Em 11/09, o fim da infância na rua: "os muros cresceram e a insegurança aumentou"; em 07/09, Lula e Flávio "não falam sobre segurança pública" e aceitam o roubo; em 05/09, violência contra a mulher nas favelas (250 mil casos/ano) e o "Nuremberg das favelas".</p></a>
 <a class="wiki-card" href="/temas/Crítica à Direita Tradicional"><div class="wiki-card-header"><span class="wiki-card-icon">🎯</span><span class="wiki-card-title">Crítica à Direita Tradicional</span><span class="wiki-card-count">103 fontes</span></div><p class="wiki-card-desc">Em 11/09, descarta apoiar Flávio Bolsonaro ("eu não sou bandido", "bandido da polícia"); em 10/09, o antipetista que "virou cínico" e "o brasileiro gosta de bandido".</p></a>
 <a class="wiki-card" href="/temas/Desigualdade Regional e Migração Interna"><div class="wiki-card-header"><span class="wiki-card-icon">🗺</span><span class="wiki-card-title">Desigualdade Regional e Migração ...</span><span class="wiki-card-count">60 fontes</span></div><p class="wiki-card-desc">Em 09/09, sertão nordestino industrializado e gaúchos "voltando a morar lá"; em 05/09, projeto social no sertão do RN e "tomar o Nordeste de cooperativas".</p></a>
 <a class="wiki-card" href="/temas/STF e Ativismo Judicial"><div class="wiki-card-header"><span class="wiki-card-icon">⚖</span><span class="wiki-card-title">STF e Ativismo Judicial</span><span class="wiki-card-count">59 fontes</span></div><p class="wiki-card-desc">Em 11/09, ação no STF para abrir o inquérito das fake news e "todo mundo no topo... tá corrompido"; em 09/09, "o STF é igual a sua família", com ministros como "facção política".</p></a>
@@ -251,6 +251,7 @@ Encontrou algum erro? Por gentileza, envie um e-mail para <a href="mailto:wikipo
 
 <p class="wiki-section-title">📹 Fontes (cronológico)</p>
 
+- [[fontes/2026-09-11 - O crime não pode ser o normal nas nossas vidas]] — o fim da infância na rua: "as crianças costumavam brincar na rua... os muros cresceram e a insegurança aumentou".
 - [[fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master]] — Renan confirma ter sido citado no inquérito do Banco Master e nega conhecer Vorcaro: "eu não conheço o senhor Daniel Vorcaro".
 - [[fontes/2026-09-11 - Minha opinião sobre os feminicídios]] — aumento de pena "para todo tipo de crime violento"; 67% das vítimas de feminicídio são pardas ou negras; recusa de "escolher só um recorte"; 250 mil casos/ano subnotificados.
 - [[fontes/2026-09-11 - JOTA MARKETEIRO]] — esquete de humor: paródia do marketing eleitoral que abandonaria as propostas; sem conteúdo programático atribuível a Renan.

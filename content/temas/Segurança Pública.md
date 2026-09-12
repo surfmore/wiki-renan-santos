@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## "O crime não pode ser o normal nas nossas vidas": o fim da infância na rua (setembro de 2026)
+
+Em **11 de setembro de 2026**, em short de campanha, Renan parte da lembrança da infância na rua para falar da escalada da insegurança: "**As crianças costumavam brincar na rua. De repente, isso parou. Os muros cresceram e a insegurança aumentou.**" A peça resume, no título, a tese que atravessa seu programa de segurança — **"o crime não pode ser o normal nas nossas vidas"** —, isto é, que a violência e o medo deixaram de ser exceção para se tornar o cotidiano dos brasileiros. A transcrição automática disponível registra apenas essa locução de abertura, sem outras declarações atribuíveis a Renan. Ver [[fontes/2026-09-11 - O crime não pode ser o normal nas nossas vidas]].
+
 ## Lula e Flávio "não falam sobre segurança pública" e aceitam o roubo (setembro de 2026)
 
 Em **7 de setembro de 2026**, no discurso "Nós fomos aprisionados", Renan afirma que [[pessoas/Flávio Bolsonaro]] e [[pessoas/Lula]] **"não falam sobre segurança pública"** — "aceitam que você continue sendo roubado, aceitam que você tenha medo de andar na rua" — e que, "em grande medida, seus eleitores hoje também aceitam isso". Ele diz ter feito uma campanha sobre o tema "da maneira mais enfática e clara possível", com "todos os números e dados", mas que a nação, "presa nesse torpor", parece não querer mudar: se os que aceitam o estado de coisas se tornarem maioria, o eleitor "não vai poder nem consumir mais, nem comprar um carro, uma casa". Ver [[fontes/2026-09-07 - Nós fomos aprisionados]] e [[temas/Crítica à Direita Tradicional]].
@@ -1263,6 +1267,7 @@ Ver [[fontes/2026-01-29 - PRECISAMOS DO CECOTINS URGENTEMENTE]] e [[posicoes/Pro
 
 ## Fontes
 
+- [[fontes/2026-09-11 - O crime não pode ser o normal nas nossas vidas]] — o fim da infância na rua: "os muros cresceram e a insegurança aumentou"; a insegurança como norma cotidiana
 - [[fontes/2026-09-05 - Isso é muito grave e muito pesado!]] — 250 mil casos/ano de violência contra a mulher; subnotificação por medo de retaliação; "Nuremberg das favelas"
 - [[fontes/2026-08-24 - Estado de sítio e GLO em áreas dominadas pelo crime organizado]] — no debate, três propostas: estado de defesa + GLO, super presídios (300-500 mil vagas), intervenção em estados que não combatem o crime
 - [[fontes/2026-08-23 - O PCC tentou nos impedir de fazer o nosso evento, mas nós o fizemos mesmo assim.]] — "salve" do PCC tentando impedir evento; coragem de enfrentar o crime; marco de desfavelização
