@@ -6,6 +6,10 @@ tags:
 date: 2026-08-10
 ---
 
+## Alimentação no cárcere: menos proteína animal para o preso (setembro de 2026)
+
+Em **13 de setembro de 2026**, respondendo à repercussão de uma declaração anterior, Renan confirma que **não quer que presidiários comam carne, frango "ou qualquer proteína na cadeia"** — a alimentação deveria ser "só em carboidratos" ("um arrozinho bem feitinho, uma farofinha bem feitinha, uma batata"), com o objetivo declarado de "ceder na sua produção diária de testosterona". Ele justifica a medida por **prioridade orçamentária**: o Estado gasta "até R$ 6 por refeição com criança" e, com presidiários, "mais de R$ 30, variando de R$ 10 a R$ 30". Critica o que descreve como queixa dos presos quando "a quantidade de mistura, seja frango, seja carne, não atende aos seus desejos" — motivo de rebeliões — e conclui: "Um país que privilegia a formação do presidiário e não da criança é um país que tá maluco." Ver [[fontes/2026-09-13 - Menos proteína animal pra presidiário, mais para merenda de criança]] e [[posicoes/Alimentação em Presídios e Merenda Escolar]].
+
 ## "O crime não pode ser o normal nas nossas vidas": o fim da infância na rua (setembro de 2026)
 
 Em **11 de setembro de 2026**, em short de campanha, Renan parte da lembrança da infância na rua para falar da escalada da insegurança: "**As crianças costumavam brincar na rua. De repente, isso parou. Os muros cresceram e a insegurança aumentou.**" A peça resume, no título, a tese que atravessa seu programa de segurança — **"o crime não pode ser o normal nas nossas vidas"** —, isto é, que a violência e o medo deixaram de ser exceção para se tornar o cotidiano dos brasileiros. A transcrição automática disponível registra apenas essa locução de abertura, sem outras declarações atribuíveis a Renan. Ver [[fontes/2026-09-11 - O crime não pode ser o normal nas nossas vidas]].

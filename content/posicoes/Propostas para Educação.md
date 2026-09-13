@@ -7,6 +7,7 @@ tags:
   - escolas-civico-militares
 date: 2026-07-27
 fontes:
+  - "2026-09-13 - Menos proteína animal pra presidiário, mais para merenda de criança"
   - "2026-08-27 - Flamengo e Palmeiras fizeram ajustes fiscais"
   - "2026-08-24 - Minhas propostas para a educação no debate na Band."
   - "2026-08-19 - JORNALISTA ME PEGOU!!!"
@@ -24,6 +25,10 @@ fontes:
 ---
 
 Renan apresentou propostas para a educação brasileira, com ênfase em meritocracia, ensino técnico, corte de gastos ineficientes e restauração da autoridade do professor. O ponto de partida: "Nossas crianças saem do ensino básico sem saber escrever."
+
+## Merenda escolar: mais proteína para a criança, menos para o presidiário (setembro de 2026)
+
+Em **13 de setembro de 2026**, Renan usa a alimentação escolar para contrastar prioridades do Estado. Ele denuncia "a alimentação quase imunda que boa parte das escolas brasileiras tem" e apresenta o dado de que o Estado gasta "na média até **R$ 6 por refeição** com criança no Brasil", enquanto com presidiários o valor "vai para mais de R$ 30, variando de R$ 10 a R$ 30". Critica o "famoso macarrão com salsicha" — "quase uma lavagem de porco (...) em que a proteína é uma salsicha industrializada de baixa qualidade" — e pergunta "como é que você vai ajudar na concentração, na formação de músculos, na formação cerebral das crianças?" A proposta anunciada é que "crianças terão mais proteína, a alimentação nas creches, [nas] escolas vai melhorar". Ver [[fontes/2026-09-13 - Menos proteína animal pra presidiário, mais para merenda de criança]] e [[posicoes/Alimentação em Presídios e Merenda Escolar]].
 
 ## Desvinculação do piso de educação e gasto por necessidade local (agosto de 2026)
 

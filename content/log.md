@@ -1,5 +1,35 @@
 # Log de operações
 
+## [2026-09-13] ingest automático | RECADO PARA UM VOVÔ BOLSONARISTA
+- Fonte criada: fontes/2026-09-13 - RECADO PARA UM VOVÔ BOLSONARISTA
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Crítica à Direita Tradicional, pessoas/Jair Bolsonaro, index.md, log.md, wiki/.processed_ids
+- Nota: video_id lV0-GjLiQ6A registrado em wiki/.processed_ids antes da criação de páginas. Vídeo dirigido a um eleitor bolsonarista mais velho ("seu Marcos"): Renan reivindica o crédito histórico do próprio grupo ("criamos um partido político, coisa que o Bolsonaro não conseguiu"; o impeachment de Dilma em 2016 e as manifestações que prenderam Lula como "vitória nossa", com Bolsonaro "não aj[udando] em nada"), pede que o interlocutor "desengate de certas preferências" e formula a tese "o Bolsonaro foi um erro. O Lula tá solto por conta das decisões do Bolsonaro. O PT tá de volta no poder por conta das decisões do Bolsonaro. Isso não é uma opinião minha, isso são fatos"; fecha pedindo voto "pro teu filho", "pro teu neto". ATRIBUIÇÃO: a transcrição é de fala única de Renan, com um trecho de fala do interlocutor ("o meu filho também, né? O Brian é que é teu neto") que NÃO foi atribuído a Renan. Nenhuma página nova criada (conteúdo encaixa na crítica à direita tradicional e na página de Jair Bolsonaro).
+
+## [2026-09-13] ingest automático | Menos proteína animal pra presidiário, mais para merenda de criança
+- Fonte criada: fontes/2026-09-13 - Menos proteína animal pra presidiário, mais para merenda de criança
+- Páginas criadas: posicoes/Alimentação em Presídios e Merenda Escolar
+- Páginas atualizadas: posicoes/Propostas para Educação, temas/Segurança Pública, index.md, log.md, wiki/.processed_ids
+- Nota: video_id ccWfnAnWABI registrado em wiki/.processed_ids antes da criação de páginas. Renan responde à repercussão de declaração anterior e confirma que "não quero que presidiários comam carne ou frango ou qualquer proteína na cadeia" — alimentação "só em carboidratos", com o objetivo declarado de "ceder na sua produção diária de testosterona". Base orçamentária: "até R$ 6 por refeição com criança" contra "mais de R$ 30, variando de R$ 10 a R$ 30" por presidiário; crítica ao "macarrão com salsicha"; fecho: "um país que privilegia a formação do presidiário e não da criança é um país que tá maluco". ATRIBUIÇÃO: o vídeo abre com um excerto de entrevista anterior, marcado com ">>" na transcrição automática e sem identificação de falante — registrado como excerto reproduzido pela própria peça (a resposta "reduzir e só deixar em carboidratos" coincide com a posição que Renan sustenta na sequência), e o restante é locução atribuída a Renan. Página de posição criada por haver proposta concreta e distinta (inversão de prioridade alimentar entre cárcere e merenda).
+
+## [2026-09-13] ingest automático | Eles que estão cruzando linhas
+- Fonte criada: fontes/2026-09-13 - Eles que estão cruzando linhas
+- Páginas criadas: (nenhuma — conteúdo adicionado a página existente)
+- Páginas atualizadas: temas/STF e Ativismo Judicial, index.md, log.md, wiki/.processed_ids
+- Nota: video_id A2DWt6vpUQs registrado em wiki/.processed_ids antes da criação de páginas. Trecho de entrevista em que Renan nega que descumprir decisões do Supremo seja antidemocrático ("Não, de maneira alguma"), cita descumprimentos anteriores e "um julgado do próprio STF de 96", recusa legitimidade a [[pessoas/Alexandre de Moraes]] e [[pessoas/Dias Toffoli]] ("para mim, eles [não] são ministros") e afirma que "não vou tratar uma decisão que vem do Toffoli e do Alexandre como aceitáveis"; encerra com "isso aqui é uma orgia institucional que eles estão fazendo". ATRIBUIÇÃO/CORREÇÃO: a pergunta do entrevistador (marcada com ">>") foi registrada apenas como contexto, sem atribuição a Renan; a transcrição grafava o nome de forma corrompida ("Diastofol" → Dias Toffoli) e a máxima jurídica aparecia corrompida ("decisão legal não se incumpre") — registrada com a formulação que Renan repete em outros vídeos ("decisão ilegal não se cumpre") e com nota explícita. Nenhuma página nova (a posição reitera "decisão ilegal não se cumpre", já documentada).
+
+## [2026-09-12] ingest automático | Resposta aos ataques a minha candidatura.
+- Fonte criada: fontes/2026-09-12 - Resposta aos ataques a minha candidatura.
+- Páginas criadas: (nenhuma — conteúdo adicionado a páginas existentes)
+- Páginas atualizadas: temas/Partido Missão, pessoas/Augusto Curi, index.md, log.md, wiki/.processed_ids
+- Nota: video_id A-ccdIHBFx0 registrado em wiki/.processed_ids antes da criação de páginas. Renan responde à ofensiva de ataques que atribui à campanha de [[pessoas/Flávio Bolsonaro]] e apresenta sua leitura da corrida: nas pesquisas de redes sociais (Atlas, Real Timing Data, Palver) "fico rondando a área dos 10%"; com a entrada de [[pessoas/Augusto Curi]] "todo mundo perdeu um pouquinho", mas ele afirma ter sido o único a não perder intenção de voto; aposta no eleitor "convicto" que lê o "livro amarelo" e "se multiplica" (projeção de 8–10% para "15, 20, 25, 30% no primeiro turno"); diz que as pesquisas não captam redes sociais, podcasts e eventos — onde cobra entrada e ainda tem "mais gente que os do Flávio". Fecha com a meta de campanha: "você tem que virar mais 10 votos em todo o teu entorno". Atribuição: Renan é o falante único. Sem página nova (a estratégia de campanha foi registrada em Partido Missão e o dado sobre Curi em sua página).
+
+## [2026-09-12] ingest automático | Minhas proposta sobre Terras raras
+- Fonte criada: fontes/2026-09-12 - Minhas proposta sobre Terras raras
+- Páginas criadas: posicoes/Terras Raras e Transferência Tecnológica
+- Páginas atualizadas: temas/Ambição Nacional e Soberania Tecnológica, temas/Política Externa e Geopolítica, index.md, log.md, wiki/.processed_ids
+- Nota: video_id Pyr1xLrCm_w registrado em wiki/.processed_ids antes da criação de páginas. Proposta detalhada para as terras raras: o que são (abundantes, extração difícil, concentração dispersa), o uso (do celular ao F-35, que usa meia tonelada do material), o diagnóstico (China com +90% do processamento e EUA "totalmente dependentes"; Brasil com 20% das reservas) e a proposta — reformas de competitividade e "nós não vamos tratar terra rara como pau-brasil": extrair, **processar** no Brasil com transferência tecnológica e construir por tratados a cadeia industrial (ímãs, baterias, equipamentos militares, carros elétricos). Parceiros citados: EUA (com "Trump desesperado em negociar"), Japão, Taiwan, Índia e Europa. Crítica final a "esse papo de cachorro caramelo ou do Lula lambendo o chão da China". Página de posição criada por ser proposta concreta e distinta, com histórico consolidado desde abril de 2026.
+
 ## [2026-09-12] ingest automático | O crime não pode ser o normal nas nossas vidas
 - Fonte criada: fontes/2026-09-11 - O crime não pode ser o normal nas nossas vidas
 - Páginas criadas: (nenhuma — conteúdo adicionado a página existente)

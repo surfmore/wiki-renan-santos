@@ -25,6 +25,10 @@ fontes:
 
 Renan Santos apresenta uma visão geopolítica que combina alinhamento com os Estados Unidos, crítica ao eixo BRICS, ambição de potência para o Brasil e recusa à submissão a qualquer bloco externo.
 
+## Terras raras: "Trump desesperado" e a diversificação de parceiros (setembro de 2026)
+
+Em **12 de setembro de 2026**, Renan afirma que "Donald Trump está desesperado em negociar com o próximo presidente brasileiro" por causa das **terras raras** — os EUA seriam "totalmente dependentes do fornecimento chinês" de material processado, e o Brasil detém a segunda maior reserva do mundo. Em vez de submeter-se a um único bloco, propõe negociar com **EUA, Japão, Taiwan, Índia e Europa** para atrair a cadeia industrial ao Brasil. Critica a política externa do governo como "papo de cachorro caramelo ou do Lula lambendo o chão da China" e avalia que "a China não ficará muito feliz em ver o Brasil, atual vassalo, se tornando pivô de uma nova reorientação global, industrial, baseada nessas terras raras". Ver [[fontes/2026-09-12 - Minhas proposta sobre Terras raras]], [[posicoes/Terras Raras e Transferência Tecnológica]] e [[temas/Ambição Nacional e Soberania Tecnológica]].
+
 ## América Latina como polo de poder regional para negociar com os grandes blocos (agosto de 2026)
 
 Em **31 de agosto de 2026**, ao defender o [[temas/Programa Nuclear Brasileiro|programa nuclear]], Renan afirma que o Brasil — e a **América Latina** de forma mais ampla — precisa de força para ser um **polo de poder regional** capaz de "negociar com os grandes blocos globais": "esse é o papel nosso". Ele ironiza "os indignados com a chance do Brasil ser forte" e a preocupação com uma corrida armamentista com a Argentina — país que classifica como "piada" militar — argumentando que, quando o Brasil se tornar um polo de poder, a Argentina "vai querer que a gente construa" a bomba. Ver [[fontes/2026-08-31 - Pô, a Argentina]].
@@ -204,6 +208,7 @@ Ver [[fontes/2026-06-06 - Você já ouviu falar em gastrodiplomacia]] e [[posico
 
 ## Fontes
 
+- [[fontes/2026-09-12 - Minhas proposta sobre Terras raras]] — "Trump desesperado" pelas terras raras; diversificação de parceiros (Japão, Taiwan, Índia, Europa); crítica à submissão à China
 - [[fontes/2026-08-16 - Já imaginaram]] — Brasil definindo a geopolítica global; terras raras, fortalecimento militar e troca de tecnologia
 - [[fontes/2026-07-16 - Taxaram a gente]] — Renan critica Lula e Flávio Bolsonaro por tarifas de Trump; propõe terras raras como alavanca de negociação
 - [[fontes/2026-06-28 - O que o Brasil pode aprender com o México nessa Copa do Mundo]] — análise do México como narcoestado; lição para o Brasil; Bukele como contraponto

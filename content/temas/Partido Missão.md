@@ -6,6 +6,7 @@ tags:
   - eleições-2026
 date: 2026-07-31
 fontes:
+  - "2026-09-12 - Resposta aos ataques a minha candidatura."
   - "2026-09-06 - Estamos dando a chance!"
   - "2026-09-02 - Nós somos um grupo destinado à glória."
   - "2026-08-25 - Respondendo críticas ao debate"
@@ -53,6 +54,12 @@ fontes:
 ---
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
+
+## "Ele se multiplica": a tese do eleitor convicto e a meta dos 10 votos (setembro de 2026)
+
+Em **12 de setembro de 2026**, respondendo a uma ofensiva de ataques que atribui à campanha de [[pessoas/Flávio Bolsonaro]], Renan apresenta uma leitura própria da corrida eleitoral. Diz que, nas pesquisas que "trabalham com redes sociais" — **Atlas**, **Real Timing Data** e **Palver** —, "fico rondando a área dos 10%", e afirma que a ascensão de [[pessoas/Augusto Curi]] fez "todo mundo perder um pouquinho", exceto ele. Atribui o resultado ao perfil do seu eleitorado: "O meu eleitor acredita em mim e nas minhas propostas", "lê o livro amarelo, que é um bestseller", "é convicto" e "é capaz de fazer algo que ninguém pode segurar nessas eleições: **ele se multiplica**".
+
+A projeção apresentada é de que "o que hoje é 8 a 10% pode virar, caso ele convença seu entorno, amigos e familiares, 15, 20, 25, 30% no primeiro turno" — fenômeno que diz ser "muito comum em candidaturas antissistema". Renan afirma que as pesquisas "não captam os números que eu tenho em redes sociais", a participação em podcasts e sabatinas, nem "a quantidade de pessoas que eu arrasto em todos os eventos" — e destaca que **cobra** entrada nos próprios eventos, enquanto Flávio "leva a gente de ônibus", e ainda assim tem "mais gente que os do Flávio". O vídeo termina com a convocação de campanha: "você tem uma missão. Você tem que virar mais 10 votos em todo o teu entorno". Ver [[fontes/2026-09-12 - Resposta aos ataques a minha candidatura.]] e [[pessoas/Augusto Curi]].
 
 ## 11% na pesquisa, agenda de eventos e um "anúncio muito doido" (setembro de 2026)
 

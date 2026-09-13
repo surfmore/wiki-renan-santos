@@ -8,6 +8,12 @@ tags:
 date: 2026-07-03
 ---
 
+## Terras raras: extrair, processar e industrializar no Brasil (setembro de 2026)
+
+Em **12 de setembro de 2026**, Renan detalha sua proposta para as **terras raras** — a segunda maior reserva do mundo, com cerca de 20% do total. Explica que o material é abundante mas de extração difícil e que mais de 90% do **processamento** mundial está na China, deixando os EUA "totalmente dependentes do fornecimento chinês para sequer se defender de uma guerra contra a China". Como o Brasil detém a reserva, trata o problema americano como solução nacional — e afirma que "Donald Trump está desesperado em negociar com o próximo presidente brasileiro".
+
+A proposta central é **não repetir o padrão de exportação de matéria-prima**: "nós não vamos tratar terra rara como pau-brasil". Renan defende **reformas de competitividade**, extração e processamento no Brasil com **transferência tecnológica**, e exige como contrapartida que as nações desenvolvidas construam aqui o parque industrial — "ímãs, baterias, equipamentos militares e depois inclusive carros elétricos feitos no Brasil". Lista como parceiros os EUA, o Japão, Taiwan (semicondutores), a Índia e a Europa, para que uma "cadeia industrial global" seja criada no país "para concorrer com a China". Ver [[fontes/2026-09-12 - Minhas proposta sobre Terras raras]] e [[posicoes/Terras Raras e Transferência Tecnológica]].
+
 ## "Não pense pequeno": o Brasil imaginado em detalhe (setembro de 2026)
 
 Em **9 de setembro de 2026**, em vídeo de campanha, Renan pede que o eleitor imagine o Brasil "na versão mais bonita dele" e lista o que seria esse país: cidades com "praças novas, prédios sendo construídos, tudo bem arborizado, favela sendo urbanizada"; ruas seguras, onde se anda "sabendo que você não vai ser roubada ou roubado"; o Rio "sem favela, gringo chegando, gente abrindo startup"; São Paulo "absolutamente urbanizada, metrô para todo lado".
@@ -480,6 +486,7 @@ Renan propõe políticas de **denominação de origem** (inspiradas no modelo eu
 
 ## Fontes
 
+- [[fontes/2026-09-12 - Minhas proposta sobre Terras raras]] — extrair e processar no Brasil com transferência de tecnologia; cadeia industrial (ímãs, baterias, bélica, carros elétricos) em território nacional; parceiros EUA, Japão, Taiwan, Índia e Europa
 - [[fontes/2026-09-09 - E aí Imaginou]] — o Brasil "na versão mais bonita dele": favela urbanizada, marcas nacionais, F1 com Embraer e carro elétrico com terras raras
 - [[fontes/2026-08-16 - Já imaginaram]] — fortalecimento militar e troca de tecnologia com base nas terras raras
 - [[fontes/2026-08-02 - VENHAM ME PEGAR!]] — programa espacial, aviões de guerra com terras raras e assento no Conselho de Segurança da ONU

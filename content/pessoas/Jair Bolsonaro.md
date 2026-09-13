@@ -7,6 +7,7 @@ tags:
   - prisão
 date: 2026-05-25
 fontes:
+  - "2026-09-13 - RECADO PARA UM VOVÔ BOLSONARISTA"
   - "2026-08-24 - Nós nascemos para liderar!"
   - "2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS"
   - "2026-03-15 - Minha posição sobre a doença de Bolsonaro e o STF"
@@ -17,6 +18,10 @@ fontes:
   - "2025-12-06 - Flávio Bolsonaro rachou a direita"
   - "2025-11-22 - Sobre a prisão do Bolsonaro"
 ---
+
+## "O Bolsonaro foi um erro": recado a um eleitor bolsonarista (setembro de 2026)
+
+Em **13 de setembro de 2026**, em vídeo dirigido a um eleitor bolsonarista mais velho, Renan afirma que "**o Bolsonaro foi um erro**" e responsabiliza o ex-presidente pela volta do PT ao poder: "O Lula tá solto por conta das decisões do Bolsonaro. O PT tá de volta no poder por conta das decisões do Bolsonaro. Isso não é uma opinião minha, isso são fatos." Renan sustenta ainda que Bolsonaro "não ajudou em nada" no impeachment de Dilma Rousseff nem nas manifestações que levaram à prisão de Lula — créditos que reivindica para o próprio grupo — e acrescenta que "a gente acha o Bolsonaro ladrão", "a gente acha o Bolsonaro burro" e que ele "teve no poder e perdeu". Ver [[fontes/2026-09-13 - RECADO PARA UM VOVÔ BOLSONARISTA]] e [[temas/Crítica à Direita Tradicional]].
 
 ## A família que "trocou a luta pela salvação junto ao STF" (agosto de 2026)
 
@@ -138,6 +143,7 @@ A posição consolidada de Renan sobre Jair Bolsonaro pode ser resumida em dois 
 
 ## Fontes
 
+- [[fontes/2026-09-13 - RECADO PARA UM VOVÔ BOLSONARISTA]] — "o Bolsonaro foi um erro"; "o Lula tá solto por conta das decisões do Bolsonaro"; "ladrão", "burro", "teve no poder e perdeu"
 - [[fontes/2026-06-17 - Resposta ao Eduardo Bolsonaro]] — Jair convidou Moraes para vice; print sobre [[pessoas/Gilmar Mendes]]
 - [[fontes/2026-06-08 - Abuso de idosos]] — R$ 17M em PIX de idosos aplicados em renda fixa
 - [[fontes/2026-05-14 - JAIR BOLSONARO ABANDONA FLÁVIO BOLSONARO APÓS ÁUDIOS VAZADOS]] — abandono da candidatura de Flávio; quatro versões contraditórias

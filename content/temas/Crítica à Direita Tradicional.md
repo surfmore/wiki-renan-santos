@@ -7,6 +7,12 @@ tags:
 date: 2026-08-22
 ---
 
+## "Recado para um vovô bolsonarista": Bolsonaro "foi um erro" (setembro de 2026)
+
+Em **13 de setembro de 2026**, em vídeo dirigido a um eleitor bolsonarista mais velho ("seu Marcos"), Renan faz um apelo geracional para que a direita troque o voto na família Bolsonaro pelo [[temas/Partido Missão]]. Ele reivindica o crédito histórico do próprio grupo: "Criamos um partido político, coisa que o Bolsonaro não conseguiu"; "Nós, de frente dos Bolsonaros, derrubamos a Dilma Rousseff no ano de 2016. (...) Bolsonaro não ajudou em nada"; e "quando o Lula foi preso pela Lava-Jato, quem convocou as manifestações que prenderam o Lula fomos nós".
+
+Reconhecendo o vínculo afetivo do interlocutor, Renan pede que ele "desengate de certas preferências", "porque a gente não pode errar sempre", e formula a tese central: "**O Bolsonaro foi um erro. O Lula tá solto por conta das decisões do Bolsonaro. O PT tá de volta no poder por conta das decisões do Bolsonaro.** Isso não é uma opinião minha, isso são fatos." Sobre o ex-presidente, diz que "a gente acha o Bolsonaro ladrão", "a gente acha o Bolsonaro burro" e que ele "teve no poder e perdeu". O argumento final é de intensidade: "Nós odiamos o PT mais do que a tua geração", uma vez que "a tua geração (...) ainda tem muita esquerda" — e por isso "a geração de vocês tinha que estar unida com a gente para derrotar o PT". O vídeo termina com o pedido de voto "pro teu filho", "pro teu neto" e para Renan. Ver [[fontes/2026-09-13 - RECADO PARA UM VOVÔ BOLSONARISTA]].
+
 ## "Eu não sou bandido": descarte de apoio a Flávio Bolsonaro (setembro de 2026)
 
 Em **11 de setembro de 2026**, em entrevista, ao ser perguntado se apoiaria [[pessoas/Flávio Bolsonaro]] num eventual segundo turno, Renan rejeita a associação de forma direta: "Não tenho característica nenhuma do Flávio Bolsonaro. **Eu não sou ladrão.** O Flávio Bolsonaro é estúpido, ele é fujão" — e o classifica como "**um bandido da polícia**". Ele afirma que está "descartada a possibilidade de eu apoiar qualquer pessoa que não eu": "Estarei no segundo turno. Eu só trabalho com essa possibilidade." Renan explica por que seu grupo é atacado "dentro da direita": "porque a gente não se submete, não se negocia com a sua cabeça dentro da boca de um tigre. Eles exigem apenas a submissão. É igual o PT dentro da esquerda. O PT também destrói qualquer alternativa dentro da esquerda." Ver [[fontes/2026-09-11 - Eu não sou bandido]].
@@ -735,6 +741,7 @@ Em [[fontes/2025-12-11 - A CASSAÇÃO DO GLAUBER FOI PARADA PELO GOVERNO LULA, C
 
 ## Fontes
 
+- [[fontes/2026-09-13 - RECADO PARA UM VOVÔ BOLSONARISTA]] — apelo ao eleitor bolsonarista mais velho: "o Bolsonaro foi um erro", "o Lula tá solto por conta das decisões do Bolsonaro"
 - [[fontes/2026-09-11 - Eu não sou bandido]] — recusa de apoio a Flávio Bolsonaro ("eu não sou bandido"); a lógica da submissão na direita e no PT
 - [[fontes/2026-08-24 - Esquerda e direita estão roubando você junto!]] — jogo de cartas marcadas; Flávio "quer perder pro Lula"; "esquerda e direita roubando você junto"
 - [[fontes/2026-08-23 - Trouxe duas fraldas para os cagões de debate que fugiram de mim.]] — fraldas físicas no debate da Band; Lula e Flávio como "canalhas" que fogem; crítica a Zema; elogio à Band

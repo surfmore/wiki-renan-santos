@@ -7,6 +7,12 @@ tags:
 date: 2026-08-07
 ---
 
+## "Não vou tratar decisão do Toffoli e do Alexandre como aceitáveis" (setembro de 2026)
+
+Em **13 de setembro de 2026**, em trecho de entrevista, Renan responde que **não** seria antidemocrático descumprir decisões do Supremo — citando descumprimentos anteriores e "um julgado do próprio STF de 96" (a formulação que repete em outros vídeos é "decisão ilegal não se cumpre"). Ele afirma "eu não creio que nós estamos vivendo um regime democrático republicano normal", que "o STF vem se comportando de maneira anômala há muito tempo" por "interesses econômicos de proteção deles" e pelo "envolvimento dos ministros do STF em escândalo de corrupção".
+
+Renan recusa legitimidade a dois ministros pelo nome: "Eu não vejo legitimidade no [[pessoas/Alexandre de Moraes]] [e] no [[pessoas/Dias Toffoli]]. Para mim, eles [não] são ministros", e descreve ministros como "bandidos aqui que fazem negócio, estão recebendo dinheiro, que estão usando inquéritos como instrumentos de barganha". A posição declarada: "Se eu ganhar a eleição, eu não vou tratar uma decisão que vem do Toffoli e do Alexandre como aceitáveis". Ele inverte a acusação de romper a institucionalidade — "Hoje o STF está [cruzando] essas linhas" — e resume: "Isso é só jogo de poder. Isso aqui é uma orgia institucional que eles estão fazendo." Ver [[fontes/2026-09-13 - Eles que estão cruzando linhas]].
+
 ## Ação no STF para abrir o inquérito das fake news e os escândalos do INSS e Master (setembro de 2026)
 
 Em **11 de setembro de 2026**, Renan anuncia ter protocolado uma **ação no STF** pedindo que se torne público tudo o que envolve o **inquérito das fake news** de [[pessoas/Alexandre de Moraes]] — "autoridades que atuaram, quem foi perseguido, como eram os instrumentos utilizados pelo Xandão para perseguir adversários". O gancho é a decisão de [[pessoas/André Mendonça]] que levantou o sigilo do caso do [[eventos/Escândalo Banco Master]]. Renan pede ainda que venha "tudo à tona" do [[eventos/Escândalo do INSS]], que "envolve Lulinha, envolve também gente envolvida com o Flávio, envolve gente ligada ao centrão". Sua tese: "todo mundo que tá no topo do STF, à esquerda, à direita, centrão, tá todo mundo corrompido" — e, se o país souber o que aconteceu nesses casos, "o Brasil para". Diz ter "enterrado sua carreira política" ao agir e se apresenta como "o único presidente de partido que tem condições morais e institucionais para fazer o enfrentamento desses caras". Ver [[fontes/2026-09-11 - Eu enterrei minha carreira política]] e [[posicoes/Abertura Total dos Inquéritos]].
@@ -455,6 +461,7 @@ Ver [[fontes/2026-02-22 - O QUE ALEXANDRE DE MORAES FAZIA NO CASAMENTO DA TABATA
 
 ## Fontes
 
+- [[fontes/2026-09-13 - Eles que estão cruzando linhas]] — recusa de tratar como aceitáveis decisões de Moraes e Toffoli; "orgia institucional"; nega que descumprir decisão ilegal seja antidemocrático
 - [[fontes/2026-09-11 - Eu enterrei minha carreira política]] — ação no STF para abrir o inquérito das fake news e os escândalos do INSS e do Master
 - [[fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master]] — Renan citado no inquérito do Master; nega conhecer Vorcaro
 - [[fontes/2026-09-03 - Toffoli fez por vingança]] — decisão monocrática que suspendeu redes e debates de Renan; vingança pelo Tayayá

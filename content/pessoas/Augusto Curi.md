@@ -7,6 +7,7 @@ tags:
   - coach
 date: 2026-08-31
 fontes:
+  - "2026-09-12 - Resposta aos ataques a minha candidatura."
   - "2026-09-03 - Seu político favorito foi pego no Master, né"
   - "2026-09-02 - Eu fui censurado por 24h"
   - "2026-08-31 - Boraaaaaaa!!!"
@@ -16,6 +17,10 @@ fontes:
 **Augusto Curi** é um coach que emergiu como fenômeno nas pesquisas eleitorais de 2026. Renan Santos o trata como um adversário eleitoral vazio, mas usa a disparada de Curi como evidência de que existe um eleitorado grande rejeitando os dois principais candidatos — [[pessoas/Lula]] e [[pessoas/Flávio Bolsonaro]].
 
 > Nota: esta página reúne apenas afirmações feitas por Renan Santos em seus vídeos. As descrições sobre Curi são a caracterização feita por Renan, não verificações independentes deste wiki.
+
+## "Todo mundo perdeu um pouquinho, menos eu" (setembro de 2026)
+
+Em **12 de setembro de 2026**, respondendo aos ataques que atribui à campanha de [[pessoas/Flávio Bolsonaro]], Renan afirma que a entrada de Curi na disputa — "que com seus truques de internet levou uma parte de eleitorado" — fez "todo mundo perder um pouquinho" de intenção de voto, **exceto ele**: "a única pessoa que não perdeu intenção de voto? Na prática. Eu. E isso é o que dá medo nessa gente." A leitura reforça o contraste que Renan constrói entre o eleitor "convicto" que atribui a si e o eleitorado volátil atraído por Curi. Ver [[fontes/2026-09-12 - Resposta aos ataques a minha candidatura.]] e [[temas/Partido Missão]].
 
 ## "O fenômeno do Curi passou" (setembro de 2026)
 
