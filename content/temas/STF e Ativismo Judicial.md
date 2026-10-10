@@ -7,6 +7,12 @@ tags:
 date: 2026-08-07
 ---
 
+## "Não irei cumprir decisões de ministros envolvidos com corruptos" (setembro de 2026)
+
+Em **18 de setembro de 2026**, em entrevista, Renan é questionado se usaria as **Forças Armadas** para não cumprir decisões do STF e eleva o princípio a regra geral: "nenhum cidadão é obrigado a cumprir decisão ilegal. Não é um só [o] presidente da República". Diz que não cumprirá decisões de "magistrados que na maior parte estão envolvidos em escândalo de corrupção", porque "seria a **prevaricação** eu participar de um ato ilegal", e devolve a iniciativa: "eles que chamem as forças armadas, eles que derrubem um presidente honesto e eleito". Ironiza a expectativa de decisão republicana de [[pessoas/Alexandre de Moraes]] — "seria muito mais insano da minha parte falar que eu aceitaria uma decisão de um ministro que serve ao [[pessoas/Daniel Vorcaro]]" — e resume: "a gente fica fingindo que há um estado de normalidade quando não há [...] Fingir demência é fingir que essa anarquia é normal".
+
+Ele atribui ao presidente o papel de conduzir o "restabelecimento [da ordem constitucional]" por ter vencido "uma eleição majoritária" — "ele se reveste de legitimidade popular para poder restituir algo que está caótico". Pressionado sobre o risco de ditadura, responde que disputar o poder por um partido, "e não através de um golpe de estado", o define como "**democrata institucionalista**". Ver [[fontes/2026-09-18 - Não irei cumprir decisões de ministros que tenham envolvimento com corruptos. Simples assim.]] e [[posicoes/Recusa de Cumprimento de Decisões Ilegais do STF]].
+
 ## "Não vou tratar decisão do Toffoli e do Alexandre como aceitáveis" (setembro de 2026)
 
 Em **13 de setembro de 2026**, em trecho de entrevista, Renan responde que **não** seria antidemocrático descumprir decisões do Supremo — citando descumprimentos anteriores e "um julgado do próprio STF de 96" (a formulação que repete em outros vídeos é "decisão ilegal não se cumpre"). Ele afirma "eu não creio que nós estamos vivendo um regime democrático republicano normal", que "o STF vem se comportando de maneira anômala há muito tempo" por "interesses econômicos de proteção deles" e pelo "envolvimento dos ministros do STF em escândalo de corrupção".

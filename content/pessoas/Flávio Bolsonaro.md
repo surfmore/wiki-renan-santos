@@ -39,6 +39,10 @@ fontes:
 
 Senador da República pelo Partido Liberal (PL), filho de Jair Bolsonaro, **candidato à Presidência da República** (eleições 2026) pela direita tradicional. Renan Santos o menciona recorrentemente como **principal adversário na direita** e como síntese dos vícios que ele atribui ao "bolsonarismo institucional".
 
+## "Vamos tirar esse rachador do segundo turno" (setembro de 2026)
+
+Em **15 de setembro de 2026**, Renan situa Flávio nas pesquisas ("já está batendo já na casa dos 30") contra a própria posição ("eu já bati 11") e traça o objetivo: "vamos passar esse cara. Vamos tirar esse **rachador** do segundo turno". No mesmo vídeo, apresenta sua campanha como "quase 70 vezes mais barata que a campanha do Lula" e usa a comparação de gastos (R$ 900 mil dele contra R$ 65 milhões de Lula) como prova de que a disputa se decidiria por mobilização, e não por dinheiro. Ver [[fontes/2026-09-15 - RESPONDENDO ACUSAÇÃO CALUNIOSA]].
+
 ## "Eu não sou bandido": Renan descarta apoiá-lo e o chama de "bandido da polícia" (setembro de 2026)
 
 Em **11 de setembro de 2026**, em entrevista, Renan descarta publicamente apoiar Flávio Bolsonaro em eventual segundo turno: "Não tenho característica nenhuma do Flávio Bolsonaro. Eu não sou ladrão. O Flávio Bolsonaro é estúpido, ele é fujão." Ele o classifica como "um **bandido da polícia**" e afirma: "descartada a possibilidade de eu apoiar qualquer pessoa que não eu". Ver [[fontes/2026-09-11 - Eu não sou bandido]] e [[temas/Crítica à Direita Tradicional]].

@@ -14,6 +14,12 @@ fontes:
 
 Renan Santos sustenta que o **livro amarelo** — seu programa de governo — é composto de **propostas universais, feitas "para brasileiros"**, e não de pacotes segmentados por gênero, raça ou etnia. A posição foi formalizada na esteira de uma série de entrevistas em que lhe foi dito que ele "não tem propostas para as mulheres".
 
+## "Chega de políticas identitárias": cotas como "desagregação social" (setembro de 2026)
+
+Em **17 de setembro de 2026**, em entrevista, Renan é perguntado sobre **cotas** e responde que as considera "políticas de desagregação social e de guerra política baseada em identidades", concluindo que "elas têm que acabar". A justificativa é de resultado: "a desigualdade racial no Brasil, desde a instituição das cotas raciais, não diminuiu", com "negros continu[ando] mais pobres" e "**67% dos casos do feminicídio**" entre mulheres pardas e negras. Classifica o modelo identitário como "cosmético" e em abandono nos países desenvolvidos — "eu não quero botar o Brasil como se fosse um cemitério de ideias ruins do mundo".
+
+A alternativa é a via universal: "eu não vou fazer políticas segmentadas, até porque todas as políticas nossas elas beneficiam todos os segmentos". Como exemplo, aponta a **desfavelização**: "quando eu falo em política de desfavelização, eu tô melhorando a vida especialmente em mulheres negras, pardas e pobres. [Essas] são as pessoas que vão ser mais afetadas do ponto de vista positivo num governo nosso". Renan encerra com a metáfora da "mesa das crianças" para recusar políticas por marcador de identidade, dizendo que criar um recorte equivale a servir "uma comida especial" e mandar o grupo "ficar brincando" com os temas, "enquanto os adultos [conversam] os assuntos sérios". Ver [[fontes/2026-09-17 - Chega de políticas identitárias!]] e [[temas/Pautas Identitárias e de Gênero]].
+
 ## "Não vou escolher só um recorte": feminicídio e a recusa do tema único (setembro de 2026)
 
 Em **11 de setembro de 2026**, em entrevista, Renan aplica a lógica das **propostas universais** ao debate do feminicídio. Diz que "o que eu não vou fazer é escolher só um recorte": falará do feminicídio "só que de todo tipo de morte de brasileiro, todo tipo de violência". Na sua formulação, a eleição "é só para falar sobre violência contra a mulher que existe, que tem que ser combatida, mas que não é toda a violência que existe" — e conclui que "a minoria escolhida não foi vocês para essa eleição". Ver [[fontes/2026-09-11 - Minha opinião sobre os feminicídios]] e [[temas/Pautas Identitárias e de Gênero]].

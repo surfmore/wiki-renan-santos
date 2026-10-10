@@ -9,6 +9,10 @@ date: 2026-08-06
 
 Ministro do Supremo Tribunal Federal, apresentado por Renan Santos como **figura central do que ele chama de "sabotagem institucional" do STF** e como protagonista das manobras de proteção no [[eventos/Escândalo Banco Master]].
 
+## Decisões "não republicanas" e o ministro que "serve ao Vorcaro" (setembro de 2026)
+
+Em **18 de setembro de 2026**, Renan afirma que não cumpriria decisões de Moraes por considerá-las ilegais, dizendo que cumpri-las configuraria **prevaricação**: "seria a prevaricação eu participar de um ato ilegal". Ironiza a expectativa de que uma decisão do ministro fosse "republicana e não baseada nos seus interesses próprios e particulares" e afirma que não aceitaria "uma decisão de um ministro que serve ao [[pessoas/Daniel Vorcaro]]". Ver [[fontes/2026-09-18 - Não irei cumprir decisões de ministros que tenham envolvimento com corruptos. Simples assim.]] e [[posicoes/Recusa de Cumprimento de Decisões Ilegais do STF]].
+
 ## "Posição oficial": exigir que o Brasil "aja contra Moraes" (setembro de 2026)
 
 Em **5 de setembro de 2026**, Renan grava um pronunciamento que apresenta como sua **posição oficial sobre o caso Alexandre de Moraes** e seu comunicado sobre manifestações. Ele afirma que "o Brasil precisa agir contra Alexandre de Moraes e todos os envolvidos no escândalo do [[eventos/Escândalo Banco Master]]" — uma lista que, segundo ele, inclui "o Lula, os membros do governo dele, gente do centrão, empresários e ministros do Supremo". Renan pede que o país "saia às ruas" para que tudo venha à tona e que **as conversas de [[pessoas/Daniel Vorcaro]] com todas as autoridades da República sejam disponibilizadas à imprensa**, além da exposição de todos que receberam dinheiro do banqueiro. Ver [[fontes/2026-09-05 - Essa é minha posição oficial sobre o caso Alexandre de Moraes e meu comunicado sobre manifestações]] e [[posicoes/Manifesto contra o STF e Calendário de Atos]].

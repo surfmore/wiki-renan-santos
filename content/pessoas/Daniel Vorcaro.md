@@ -22,6 +22,10 @@ fontes:
 
 **Quem é:** Banqueiro paulistano, controlador do Banco Master. Preso em janeiro de 2026 como parte de desdobramento do escândalo do banco, que envolve um esquema de emissão de CRIs e CRAs sobrevalorizados causando um rombo estimado em dezenas de bilhões de reais no Fundo Garantidor de Crédito. Ex-frequentador do jetset do Mediterrâneo, identificado por Renan Santos como a figura central de uma rede de relações promíscuas — financeiras, políticas e pessoais — entre os polos de poder do Brasil.
 
+## "Uma decisão de um ministro que serve ao Daniel Vorcaro" (setembro de 2026)
+
+Em **18 de setembro de 2026**, em entrevista sobre não cumprir decisões do STF que considere ilegais, Renan cita Vorcaro como razão para desconfiar do Judiciário: ironizando a hipótese de uma decisão "republicana e não baseada nos [...] interesses próprios e particulares" de [[pessoas/Alexandre de Moraes]], afirma que "seria muito mais insano da minha parte falar que eu aceitaria uma decisão de um ministro que **serve ao Daniel Vorcaro**". A fala reitera a tese, sustentada em vídeos anteriores, de que o banqueiro estaria subordinando instituições e autoridades — e a emprega, neste caso, para justificar a recusa de cumprimento de decisões judiciais. Ver [[fontes/2026-09-18 - Não irei cumprir decisões de ministros que tenham envolvimento com corruptos. Simples assim.]] e [[eventos/Escândalo Banco Master]].
+
 ## "Eu não conheço o senhor Daniel Vorcaro": resposta à citação no inquérito (setembro de 2026)
 
 Em **11 de setembro de 2026**, ao confirmar que foi citado no inquérito do Banco Master, Renan nega qualquer relação com o banqueiro: "eu não conheço o senhor Daniel Vorcaro. Eu não tenho nenhum compromisso com o erro, mas vou me pronunciar." Ele afirma que dois vídeos seus de denúncia ao escândalo foram usados como meio de fundamentar a apuração. Ver [[fontes/2026-09-11 - Nota Oficial sobre minha inclusão no inquérito do Master]] e [[eventos/Escândalo Banco Master]].

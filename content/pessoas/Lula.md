@@ -80,6 +80,10 @@ fontes:
 
 **Quem é:** Luiz Inácio Lula da Silva, presidente da República (2023–). Fundador do Partido dos Trabalhadores. Para Renan Santos, é o principal adversário eleitoral de 2026 e o símbolo do modelo político que ele pretende superar — "ladrão corrupto" que se apresenta como democrata enquanto captura o Estado em benefício próprio e dos aliados.
 
+## Gasto de campanha, "cognição prejudicada" e a promessa de "acabar com o Lula" (setembro de 2026)
+
+Em **15 de setembro de 2026**, Renan compara despesas de campanha — "o Lula gasta 65 milhões, eu gasto 900 [mil]" —, afirmando que a sua é "quase 70 vezes mais barata", e diz que está "empatando com o Lula no segundo turno". Projeta o confronto direto: "me deixa pegar o Lula, eu vou acabar com o Lula no segundo turno", antecipando um debate que chama de "uma[s] das maiores humilhações já vista[s]" da política brasileira e afirmando que Lula apareceria "com aquela cognição prejudicada por anos de cachaça". Diz que sentirá "dó", mas que "não vou poupar ele, porque o que esse homem fez com a história do Brasil foi horrível". Ver [[fontes/2026-09-15 - RESPONDENDO ACUSAÇÃO CALUNIOSA]].
+
 ## Fuga do debate do SBT e "nenhuma proposta" (setembro de 2026)
 
 Em **8 de setembro de 2026**, Renan anuncia que Lula e [[pessoas/Flávio Bolsonaro]] fizeram **cancelar o debate do SBT** ao não comparecer, e diz que "estão tirando de mim e dos demais o direito de discutir propostas para essa eleição". Segundo Renan, "Lula e Flávio não têm proposta para nada" e fogem do contraditório porque, "ao evitar que as pessoas escutem propostas", escapam de "serem inquiridos pelos escândalos que eles fazem parte" — mantendo-se assim na liderança e prendendo o eleitor "nesse curto-circuito de Lula e Bolsonaro para sempre". O vídeo termina com o ataque direto: "Lula, tu é corrupto, meu irmão. Que vergonha, que papelão". Ver [[fontes/2026-09-08 - É oficial…]] e [[eventos/Candidatos do Partido Missão e os Debates — 2026]].

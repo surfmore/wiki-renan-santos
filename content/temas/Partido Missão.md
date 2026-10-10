@@ -55,6 +55,12 @@ fontes:
 
 Partido político fundado por Renan Santos, aprovado pelo Tribunal Superior Eleitoral em novembro de 2025. Renan o apresenta como alternativa ao PT e ao bolsonarismo institucional, voltada especialmente para eleitores jovens que rejeitam a polarização Lula-Bolsonaro. O slogan do partido é **"O futuro é glorioso"**.
 
+## "O tostão contra o milhão": R$ 900 mil de campanha e mobilização como substituto do dinheiro (setembro de 2026)
+
+Em **15 de setembro de 2026**, Renan apresenta as contas da campanha para rebater uma acusação que chama de caluniosa: gasto de **R$ 900 mil** contra os "R$ 65 milhões" que atribui a Lula — o que faria a campanha do Missão ser "quase 70 vezes mais barata". Ele detalha o gráfico de despesas por candidato (Lula e Flávio "com fortuna", Caiado, Zema com "R$ 300 [mil]" e ele "sem gastar sequer R$ 1 milhão"), afirma que o dinheiro vem de "doações de vocês que me acompanham" e descreve a operação enxuta: "a gente faz o que dá. Eu vou rodar o Brasil de ônibus", com equipe que "assovia e chupa cana ao mesmo tempo".
+
+A partir disso, converte a desvantagem financeira em tarefa para o eleitorado: "eu preciso que vocês façam campanha agora", "campanha vira voto", "nós não temos dinheiro, mas eu tenho você. E você vale muito mais do que qualquer grana. Você vale mais do que os 65 milhões do Lula". Pede que apoiadores criem vídeos, publiquem no próprio perfil e falem com amigos e família, com a projeção de que "se a gente vir[ar] os votos agora no primeiro turno, nós vencemos. E nós não estamos longe disso". Ver [[fontes/2026-09-15 - RESPONDENDO ACUSAÇÃO CALUNIOSA]].
+
 ## "Ele se multiplica": a tese do eleitor convicto e a meta dos 10 votos (setembro de 2026)
 
 Em **12 de setembro de 2026**, respondendo a uma ofensiva de ataques que atribui à campanha de [[pessoas/Flávio Bolsonaro]], Renan apresenta uma leitura própria da corrida eleitoral. Diz que, nas pesquisas que "trabalham com redes sociais" — **Atlas**, **Real Timing Data** e **Palver** —, "fico rondando a área dos 10%", e afirma que a ascensão de [[pessoas/Augusto Curi]] fez "todo mundo perder um pouquinho", exceto ele. Atribui o resultado ao perfil do seu eleitorado: "O meu eleitor acredita em mim e nas minhas propostas", "lê o livro amarelo, que é um bestseller", "é convicto" e "é capaz de fazer algo que ninguém pode segurar nessas eleições: **ele se multiplica**".
